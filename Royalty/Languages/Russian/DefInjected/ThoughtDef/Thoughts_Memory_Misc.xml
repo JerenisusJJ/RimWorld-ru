@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OtherTravelerArrested.stages.traveler_arrested.label>товарищ арестован</OtherTravelerArrested.stages.traveler_arrested.label>
+  <OtherTravelerArrested.stages.traveler_arrested.description>Одного из моих спутников арестовали.</OtherTravelerArrested.stages.traveler_arrested.description>
+  <OtherTravelerLeftBehind.stages.traveler_left_behind.label>товарищ брошен</OtherTravelerLeftBehind.stages.traveler_left_behind.label>
+  <OtherTravelerLeftBehind.stages.traveler_left_behind.description>Одного из моих спутников бросили на произвол судьбы.</OtherTravelerLeftBehind.stages.traveler_left_behind.description>
+  <OtherTravelerSurgicallyViolated.stages.traveler_surgically_violated.label>недопустимая операция на товарище</OtherTravelerSurgicallyViolated.stages.traveler_surgically_violated.label>
+  <OtherTravelerSurgicallyViolated.stages.traveler_surgically_violated.description>Одному из моих спутников провели несогласованную, надругательскую операцию. Такое нельзя оправдать ничем!</OtherTravelerSurgicallyViolated.stages.traveler_surgically_violated.description>
+</LanguageData>

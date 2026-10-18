@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Make_Apparel_Beret.label>сшить берет</Make_Apparel_Beret.label>
+  <Make_Apparel_Beret.description>Сшить берет</Make_Apparel_Beret.description>
+  <Make_Apparel_Beret.jobString>Шьёт берет</Make_Apparel_Beret.jobString>
+  <Make_Apparel_Coronet.label>выковать коронет</Make_Apparel_Coronet.label>
+  <Make_Apparel_Coronet.description>Выковать коронет</Make_Apparel_Coronet.description>
+  <Make_Apparel_Coronet.jobString>Куёт коронет</Make_Apparel_Coronet.jobString>
+  <Make_Apparel_Corset.label>сшить корсет</Make_Apparel_Corset.label>
+  <Make_Apparel_Corset.description>Сшить корсет</Make_Apparel_Corset.description>
+  <Make_Apparel_Corset.jobString>Шьёт корсет</Make_Apparel_Corset.jobString>
+  <Make_Apparel_HatLadies.label>сшить дамскую шляпку</Make_Apparel_HatLadies.label>
+  <Make_Apparel_HatLadies.description>Сшить дамскую шляпку</Make_Apparel_HatLadies.description>
+  <Make_Apparel_HatLadies.jobString>Шьёт дамскую шляпку</Make_Apparel_HatLadies.jobString>
+  <Make_Apparel_HatTop.label>сшить шляпу-цилиндр</Make_Apparel_HatTop.label>
+  <Make_Apparel_HatTop.description>Сшить шляпу-цилиндр</Make_Apparel_HatTop.description>
+  <Make_Apparel_HatTop.jobString>Шьёт шляпу-цилиндр</Make_Apparel_HatTop.jobString>
+  <Make_Apparel_RobeRoyal.label>сшить роскошную мантию</Make_Apparel_RobeRoyal.label>
+  <Make_Apparel_RobeRoyal.description>Сшить роскошную мантию</Make_Apparel_RobeRoyal.description>
+  <Make_Apparel_RobeRoyal.jobString>Шьёт роскошную мантию</Make_Apparel_RobeRoyal.jobString>
+  <Make_Apparel_ShirtRuffle.label>сшить парадную рубашку</Make_Apparel_ShirtRuffle.label>
+  <Make_Apparel_ShirtRuffle.description>Сшить парадную рубашку</Make_Apparel_ShirtRuffle.description>
+  <Make_Apparel_ShirtRuffle.jobString>Шьёт парадную рубашку</Make_Apparel_ShirtRuffle.jobString>
+  <Make_Apparel_VestRoyal.label>сшить парадный жилет</Make_Apparel_VestRoyal.label>
+  <Make_Apparel_VestRoyal.description>Сшить парадный жилет</Make_Apparel_VestRoyal.description>
+  <Make_Apparel_VestRoyal.jobString>Шьёт парадный жилет</Make_Apparel_VestRoyal.jobString>
+  <Make_MeleeWeapon_Axe.label>выковать топор</Make_MeleeWeapon_Axe.label>
+  <Make_MeleeWeapon_Axe.description>Выковать топор</Make_MeleeWeapon_Axe.description>
+  <Make_MeleeWeapon_Axe.jobString>Куёт топор</Make_MeleeWeapon_Axe.jobString>
+  <Make_MeleeWeapon_Warhammer.label>выковать молот</Make_MeleeWeapon_Warhammer.label>
+  <Make_MeleeWeapon_Warhammer.description>Выковать молот</Make_MeleeWeapon_Warhammer.description>
+  <Make_MeleeWeapon_Warhammer.jobString>Куёт молот</Make_MeleeWeapon_Warhammer.jobString>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientComplex_Standard.questContentRules.rulesStrings>
+    <li>terminalHackedMessage-&gt;Терминал взломан. Всего взломано {COUNT} из [terminalCount] терминалов.</li>
+    <li>allTerminalsHackedMessage-&gt;Вы взломали все терминалы и получили секретные данные о реликвии, известной как «[relic_name]»! Вы можете покинуть это место.</li>
+  </AncientComplex_Standard.questContentRules.rulesStrings>
+  <AncientComplex_Standard.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы узнали о том, что неподалёку от вас находится древний комплекс. По слухам, в нём можно раздобыть информацию о реликвии, известной как «[relic_name]».\n\nЕсли вы попадёте внутрь и взломаете находящиеся там компьютеры, ваши поселенцы получат секретные данные.\n\nОсторожно: внутри вас могут поджидать различные опасности, а переполох в комплексе может привлечь внимание других врагов.</li>
+  </AncientComplex_Standard.questDescriptionRules.rulesStrings>
+  <AncientComplex_Standard.questNameRules.rulesStrings>
+    <li>questName(p=6)-&gt;[complexAdj] [complex]</li>
+    <li>questName-&gt;раскопки</li>
+    <li>complexAdj-&gt;древний</li>
+    <li>complexAdj-&gt;старый</li>
+    <li>complexAdj-&gt;старинный</li>
+    <li>complexAdj-&gt;секретный</li>
+    <li>complex-&gt;комплекс</li>
+    <li>complex-&gt;сектор</li>
+  </AncientComplex_Standard.questNameRules.rulesStrings>
+</LanguageData>

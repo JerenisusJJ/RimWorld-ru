@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
+    <li>questName-&gt;Рабочие</li>
+    <li>questDescription-&gt;</li>
+  </Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
+  <Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>Рабочие прибыли</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
+  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>Прибыли рабочие из фракции [permitFaction_name]. Челнок заберёт их через [laborersDurationDays] дней.</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
+  <Permit_CallLaborers.InspectStringDepartShuttle.slateRef>Нужно отправить на челноке</Permit_CallLaborers.InspectStringDepartShuttle.slateRef>
+  <Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>Челнок прибыл</Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>
+  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>Прибыл челнок, чтобы забрать рабочих из фракции [permitFaction_name].</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
+  <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>Рабочий умер: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
+  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>Рабочий, отправленный к вам фракцией [permitFaction_name], умер. Ваша репутация у фракции [permitFaction_name] ухудшилась на [goodwillPenaltyPawn].</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
+  <Permit_CallLaborers.LetterLabelLaborerLeftBehind.slateRef>Рабочий оставлен: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerLeftBehind.slateRef>
+  <Permit_CallLaborers.LetterTextLaborerLeftBehind.slateRef>Рабочий, отправленный к вам фракцией [permitFaction_name], оставлен на произвол судьбы. Все оставшиеся рабочие покинут поселение.</Permit_CallLaborers.LetterTextLaborerLeftBehind.slateRef>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ProblemCauser.questDescriptionRules.rulesStrings>
+    <li>questDescription(siteFaction==Pirate)-&gt;Пираты разбили лагерь неподалёку от [map_definite], чтобы совершать на вас налёты. Также там [allSitePartsDescriptions]\n\nЛагерь останется там, пока вы не отправите отряд, чтобы уничтожить его.</li>
+    <li>questDescription(siteFaction==Mechanoid)-&gt;Кластер механоидов десантировался в область неподалёку от [map_definite]. Также там [allSitePartsDescriptions]\n\nКластер останется там, пока вы не отправите отряд, чтобы уничтожить его.</li>
+  </ProblemCauser.questDescriptionRules.rulesStrings>
+  <ProblemCauser.questNameRules.rulesStrings>
+    <li>questName(siteFaction==Pirate)-&gt;[problemCauserLabel] в лагере пиратов</li>
+    <li>questName(siteFaction==Mechanoid)-&gt;[problemCauserLabel] у кластера механоидов</li>
+  </ProblemCauser.questNameRules.rulesStrings>
+  <ProblemCauser.LetterLabelSuccess.slateRef>[problemCauserLabel] уничтожен</ProblemCauser.LetterLabelSuccess.slateRef>
+  <ProblemCauser.LetterTextSuccess.slateRef>Вы уничтожили [problemCauserLabel], который воздействовал на [map_definite]!</ProblemCauser.LetterTextSuccess.slateRef>
+</LanguageData>

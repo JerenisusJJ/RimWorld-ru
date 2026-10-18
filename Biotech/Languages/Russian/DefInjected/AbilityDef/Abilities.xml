@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AcidSpray.label>кислотный плевок</AcidSpray.label>
+  <AcidSpray.description>Носители этого гена способны плеваться липкой кислотой с помощью специальных желёз в шее, которые производят и хранят её. Кислота прилипает к целям в области поражения и наносит им ожоги. Ткани рта у носителей этого гена обладают устойчивостью к воздействию кислоты.</AcidSpray.description>
+  <AnimalWarcall.label>звериный клич</AnimalWarcall.label>
+  <AnimalWarcall.description>Носители этого гена могут призывать животных сражаться на своей стороне с помощью мощного рёва и особой психической связи с ними.</AnimalWarcall.description>
+  <AnimalWarcall.verbProperties.label>боевой призыв</AnimalWarcall.verbProperties.label>
+  <AnimalWarcall.verbProperties.mouseTargetingText>Выберите животное для призыва</AnimalWarcall.verbProperties.mouseTargetingText>
+  <Bloodfeed.label>корм</Bloodfeed.label>
+  <Bloodfeed.description>Поселенцы с геном кровоедства, а также сокамерники этого пленника смогут удовлетворять от него свою жажду.</Bloodfeed.description>
+  <Coagulate.label>заживление ран</Coagulate.label>
+  <Coagulate.description>Носители этого гена способны заживлять раны с помощью секрета особых желёз в руках и запястьях, а также особых веществ в слюне.</Coagulate.description>
+  <FireBurst.label>выброс пламени</FireBurst.label>
+  <FireBurst.description>Выпустить во всё стороны струи горючей жидкости, а затем воспламенить получившиеся лужи.</FireBurst.description>
+  <FirefoampopMech.label>распыление пены</FirefoampopMech.label>
+  <FirefoampopMech.description>Распылить противопожарную пену вокруг себя.</FirefoampopMech.description>
+  <FireSpew.label>огненный плевок</FireSpew.label>
+  <FireSpew.description>Носители этого гена способны плеваться липким горючим веществом с помощью специального органа в шее. Огненная желчь прилипает к целям и предметам в области поражения и поджигает их.</FireSpew.description>
+  <FoamSpray.label>пенный плевок</FoamSpray.label>
+  <FoamSpray.description>Носители этого гена способны плеваться противопожарной пеной с помощью специальных желёз в шее, которые производят и хранят её. Противопожарная пена тушит весь огонь в области плевка.</FoamSpray.description>
+  <Longjump.label>длинный прыжок</Longjump.label>
+  <Longjump.description>Совершить длинный прыжок, используя сверхсильные ноги, питаемые гемогеном.</Longjump.description>
+  <Longjump.verbProperties.label>прыжок</Longjump.verbProperties.label>
+  <LongjumpMech.label>механоидный прыжок</LongjumpMech.label>
+  <LongjumpMech.description>Совершить длинный прыжок, используя специальные сверхбыстрые механоидные мускулы.</LongjumpMech.description>
+  <LongjumpMech.verbProperties.label>прыжок</LongjumpMech.verbProperties.label>
+  <LongjumpMechLauncher.label>реактивный прыжок</LongjumpMechLauncher.label>
+  <LongjumpMechLauncher.description>Совершить длинный прыжок, используя встроенный прыжковый ранец.</LongjumpMechLauncher.description>
+  <LongjumpMechLauncher.verbProperties.label>прыжок</LongjumpMechLauncher.verbProperties.label>
+  <PiercingSpine.label>кератиновый шип</PiercingSpine.label>
+  <PiercingSpine.description>Носители этого гена обладают впадиной в грудной клетке, внутри которой находится ворох кератиновых игл. С помощью особой химической реакции, потребляющей гемоген, они могут стрелять этими иглами в противников с поразительной точностью и скоростью.</PiercingSpine.description>
+  <ReimplantXenogerm.label>вживление генов</ReimplantXenogerm.label>
+  <ReimplantXenogerm.description>Вживить свои ксеногены в другого человека при помощи специального органа-инъектора. Требуется согласие цели. Если гены владельца в данный момент восстанавливаются, то он вживит своё ксеносемя, но в итоге умрёт.\n\nПри вживлении ксеносемя перезапишет ксеногены цели, однако на наследуемые гены это никак не повлияет.</ReimplantXenogerm.description>
+  <Resurrect.label>воскрешение</Resurrect.label>
+  <Resurrect.description>Запустить архиты в систему кровообращения, чтобы наполнить умершее тело новой жизнью, восстановив его деградировавшие клеточные структуры и запустив жизненно важные функции. Чем дольше и хуже хранился труп, тем выше вероятность, что человек оживёт с потерей памяти или нарушениями здоровья. Похоже, способность во время действия каким-то образом истощает архиты, поэтому пользоваться ей можно крайне редко.</Resurrect.description>
+  <ResurrectionMech.label>воскрешение механоида</ResurrectionMech.label>
+  <ResurrectionMech.description>Воскресить недавно убитого механоида, перезапустив его процессы самовосстановления. Механоид вернётся в строй, но не всё повреждения будут устранены.</ResurrectionMech.description>
+  <SmokepopMech.label>выпуск дыма</SmokepopMech.label>
+  <SmokepopMech.description>Выпустить сжатый дым из скрытых отверстий. Через получившееся облако не смогут стрелять турели, а точность стрельбы остального оружия снизится.</SmokepopMech.description>
+</LanguageData>

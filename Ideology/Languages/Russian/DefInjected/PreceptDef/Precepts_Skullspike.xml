@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Skullspike_Desired.label>требуются</Skullspike_Desired.label>
+  <Skullspike_Desired.description>Черепа на кольях служат символом нашего превосходства.</Skullspike_Desired.description>
+  <Skullspike_Desired.comps.0.description>Череп на колу</Skullspike_Desired.comps.0.description>
+  <Skullspike_Disapproved.label>не одобряются</Skullspike_Disapproved.label>
+  <Skullspike_Disapproved.description>Насаживать черепа на колья — это по-варварски.</Skullspike_Disapproved.description>
+  <Skullspike_Disapproved.comps.0.description>Череп на колу</Skullspike_Disapproved.comps.0.description>
+</LanguageData>

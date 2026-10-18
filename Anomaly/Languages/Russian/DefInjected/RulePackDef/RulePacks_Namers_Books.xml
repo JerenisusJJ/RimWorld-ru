@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Namer_Tome.rulePack.rulesStrings>
+    <li>title-&gt;[maybeThe][bookEvil] [nounEvilUncountable]</li>
+    <li>title-&gt;[maybeThe][bookEvil] [nounEvilCountable]</li>
+    <li>title-&gt;[maybeThe][bookEvil] [nounEvilCountable]</li>
+    <li>title-&gt;[maybeThe][nounEvilCountable] [placeEvil]</li>
+    <li>title-&gt;[maybeThe][ANYPAWN_nameIndef]: [bookEvil]</li>
+    <li>title-&gt;[maybeThe][nounEvilAny] [placeEvil]</li>
+    <li>title-&gt;[maybeThe][nounEvilAny] [ANYPAWN_nameIndef]</li>
+    <li>title-&gt;[maybeThe][adjectiveEvil] [nounEvilAny]</li>
+    <li>title-&gt;[bookEvil] (владелец: [ANYPAWN_nameIndef])</li>
+    <li>title-&gt;[maybeThe][bookCompound]</li>
+    <li>title-&gt;[bookCompound] (владелец: [ANYPAWN_nameIndef])</li>
+    <li>title(p=0.5)-&gt;[firstHalfEvil][connector][nounEvilCountable]</li>
+    <li>title(p=0.5)-&gt;[firstHalfEvil][connector][nounEvilUncountable]</li>
+    <li>title(p=0.5)-&gt;[nounEvilCountable] [suffixEvil]</li>
+    <li>title(p=0.5)-&gt;[nounEvilUncountable] [suffixEvil]</li>
+    <li>bookCompound(p=2)-&gt;[firstHalfEvil][suffixEvil]</li>
+    <li>bookCompound-&gt;[firstHalfEvil][suffixEvil]</li>
+    <li>connector-&gt;'</li>
+    <li>connector-&gt;-</li>
+    <li>maybeThe-&gt;</li>
+    <li>maybeThe-&gt;</li>
+    <li>bookEvil(p=2)-&gt;Книга</li>
+    <li>bookEvil(p=2)-&gt;[firstHalfEvil][suffixEvil]</li>
+    <li>bookEvil-&gt;Том</li>
+    <li>bookEvil-&gt;Кодекс</li>
+    <li>bookEvil-&gt;Опись</li>
+    <li>bookEvil-&gt;Списки</li>
+    <li>bookEvil-&gt;Секреты</li>
+    <li>bookEvil-&gt;Хроники</li>
+    <li>bookEvil-&gt;Шифры</li>
+    <li>bookEvil-&gt;Шёпоты</li>
+    <li>bookEvil-&gt;Тайны</li>
+    <li>bookEvil-&gt;Горести</li>
+    <li>bookEvil-&gt;Гримуар</li>
+    <li>bookEvil-&gt;Альманах</li>
+    <li>bookEvil-&gt;Манускрипт</li>
+    <li>bookEvil-&gt;Анналы</li>
+    <li>bookEvil-&gt;Заклинания</li>
+    <li>bookEvil-&gt;Откровения</li>
+    <li>bookEvil-&gt;Манифест</li>
+    <li>bookEvil-&gt;Заветы</li>
+    <li>bookEvil-&gt;Фрагменты</li>
+    <li>bookEvil-&gt;Осколки</li>
+    <li>inThe-&gt;в</li>
+    <li>inThe-&gt;в глубинах</li>
+    <li>inThe-&gt;из под</li>
+    <li>inThe-&gt;под</li>
+    <li>inThe-&gt;у</li>
+    <li>inThe-&gt;на вершинах</li>
+    <li>inThe-&gt;сквозь</li>
+    <li>adjectiveEvil(p=3)-&gt;Пустотный</li>
+    <li>adjectiveEvil-&gt;Золотой</li>
+    <li>adjectiveEvil-&gt;Неестественный</li>
+    <li>adjectiveEvil-&gt;Тёмный</li>
+    <li>adjectiveEvil-&gt;Чёрный</li>
+    <li>adjectiveEvil-&gt;Глубокий</li>
+    <li>adjectiveEvil-&gt;Древний</li>
+    <li>adjectiveEvil-&gt;Порочный</li>
+    <li>adjectiveEvil-&gt;Кровавый</li>
+    <li>adjectiveEvil-&gt;Хаотический</li>
+    <li>adjectiveEvil-&gt;Глубинный</li>
+    <li>adjectiveEvil-&gt;Жуткий</li>
+    <li>adjectiveEvil-&gt;Призрачный</li>
+    <li>adjectiveEvil-&gt;Загадочный</li>
+    <li>adjectiveEvil-&gt;Шепчущий</li>
+    <li>adjectiveEvil-&gt;Забытый</li>
+    <li>adjectiveEvil-&gt;Полускрытый</li>
+    <li>adjectiveEvil-&gt;Запретный</li>
+    <li>adjectiveEvil-&gt;Подземный</li>
+    <li>adjectiveEvil-&gt;Змеиный</li>
+    <li>nounEvilAny-&gt;[nounEvilCountable]</li>
+    <li>nounEvilAny-&gt;[nounEvilUncountable]</li>
+    <li>nounEvilUncountable-&gt;Биомассы</li>
+    <li>nounEvilUncountable-&gt;Биоферрита</li>
+    <li>nounEvilUncountable-&gt;Мёртвой Жизни</li>
+    <li>nounEvilUncountable-&gt;Архотехнологий</li>
+    <li>nounEvilUncountable-&gt;Некротехнологий</li>
+    <li>nounEvilUncountable-&gt;Хоракса</li>
+    <li>nounEvilUncountable-&gt;Крови</li>
+    <li>nounEvilUncountable-&gt;Мёртвой Жизни</li>
+    <li>nounEvilUncountable-&gt;Власти</li>
+    <li>nounEvilUncountable-&gt;Шёпотов</li>
+    <li>nounEvilUncountable-&gt;Знаний</li>
+    <li>nounEvilUncountable-&gt;Ужаса</li>
+    <li>nounEvilUncountable-&gt;Грибов</li>
+    <li>nounEvilUncountable-&gt;Зловония</li>
+    <li>nounEvilUncountable-&gt;Ритуалов</li>
+    <li>nounEvilUncountable-&gt;Убийств</li>
+    <li>nounEvilUncountable-&gt;Тьмы</li>
+    <li>nounEvilUncountable-&gt;Безумия</li>
+    <li>nounEvilUncountable-&gt;Хаоса</li>
+    <li>nounEvilUncountable-&gt;Отчаяния</li>
+    <li>nounEvilUncountable-&gt;Страданий</li>
+    <li>nounEvilUncountable-&gt;Кошмаров</li>
+    <li>nounEvilUncountable-&gt;Порчи</li>
+    <li>nounEvilUncountable-&gt;Рока</li>
+    <li>nounEvilUncountable-&gt;Ужаса</li>
+    <li>nounEvilUncountable-&gt;Злобы</li>
+    <li>nounEvilUncountable-&gt;Теней</li>
+    <li>nounEvilUncountable-&gt;Пустоты</li>
+    <li>nounEvilUncountable-&gt;Золота</li>
+    <li>nounEvilCountable-&gt;Упырей</li>
+    <li>nounEvilCountable-&gt;Кровавых Туш</li>
+    <li>nounEvilCountable-&gt;Ноктолов</li>
+    <li>nounEvilCountable-&gt;Шамблеров</li>
+    <li>nounEvilCountable-&gt;Биошматов</li>
+    <li>nounEvilCountable-&gt;Ноциосфер</li>
+    <li>nounEvilCountable-&gt;Трупов</li>
+    <li>nounEvilCountable-&gt;Куба</li>
+    <li>nounEvilCountable-&gt;Ревенанта</li>
+    <li>nounEvilCountable-&gt;Металлической Жути</li>
+    <li>nounEvilCountable-&gt;Похитителя</li>
+    <li>nounEvilCountable-&gt;Дупликатора</li>
+    <li>nounEvilCountable-&gt;Мутагена</li>
+    <li>nounEvilCountable-&gt;Предвестника</li>
+    <li>nounEvilCountable-&gt;Взглядокрада</li>
+    <li>nounEvilCountable-&gt;Химеры</li>
+    <li>nounEvilCountable-&gt;Пожирателя</li>
+    <li>nounEvilCountable-&gt;Осколка</li>
+    <li>nounEvilCountable-&gt;Скульптуры</li>
+    <li>nounEvilCountable-&gt;Сыворотки</li>
+    <li>nounEvilCountable-&gt;Культа</li>
+    <li>nounEvilCountable-&gt;Сектанта</li>
+    <li>nounEvilCountable-&gt;Козла</li>
+    <li>nounEvilCountable-&gt;Тени</li>
+    <li>nounEvilCountable-&gt;Таящегося</li>
+    <li>nounEvilCountable-&gt;Обрядов</li>
+    <li>nounEvilCountable-&gt;Заклинания</li>
+    <li>nounEvilCountable-&gt;Змеи</li>
+    <li>nounEvilCountable-&gt;Пирующего</li>
+    <li>placeEvil-&gt;из Океана</li>
+    <li>placeEvil-&gt;из Пустоты</li>
+    <li>placeEvil-&gt;в Бездне</li>
+    <li>placeEvil-&gt;из Глубин</li>
+    <li>placeEvil-&gt;из Теней</li>
+    <li>placeEvil-&gt;из Гробниц</li>
+    <li>placeEvil-&gt;во Тьме</li>
+    <li>placeEvil-&gt;с Гор</li>
+    <li>placeEvil-&gt;из Царских Залов</li>
+    <li>placeEvil-&gt;из Катакомб</li>
+    <li>placeEvil-&gt;из Святилища</li>
+    <li>placeEvil-&gt;из Рощи</li>
+    <li>placeEvil-&gt;с Земли</li>
+    <li>placeEvil-&gt;с Далёких Звёзд</li>
+    <li>placeEvil-&gt;из Морских Глубин</li>
+    <li>placeEvil-&gt;из Недр</li>
+    <li>placeEvil-&gt;из Нижнего Мира</li>
+    <li>placeEvil-&gt;из Пещер</li>
+    <li>firstHalfEvil-&gt;Вибро</li>
+    <li>firstHalfEvil-&gt;Келно</li>
+    <li>firstHalfEvil-&gt;Некро</li>
+    <li>firstHalfEvil-&gt;Хроно</li>
+    <li>firstHalfEvil-&gt;Драго</li>
+    <li>firstHalfEvil-&gt;Крими</li>
+    <li>firstHalfEvil-&gt;Вади</li>
+    <li>firstHalfEvil-&gt;Хорро</li>
+    <li>firstHalfEvil-&gt;Ноцио</li>
+    <li>firstHalfEvil-&gt;Ксено</li>
+    <li>firstHalfEvil-&gt;Психо</li>
+    <li>firstHalfEvil-&gt;Воро</li>
+    <li>firstHalfEvil-&gt;Тирано</li>
+    <li>firstHalfEvil-&gt;Инверно</li>
+    <li>firstHalfEvil-&gt;Фобо</li>
+    <li>firstHalfEvil-&gt;Лева</li>
+    <li>suffixEvil-&gt;номикон</li>
+    <li>suffixEvil-&gt;дорон</li>
+    <li>suffixEvil-&gt;накс</li>
+    <li>suffixEvil-&gt;новикон</li>
+    <li>suffixEvil-&gt;вокон</li>
+    <li>suffixEvil-&gt;мантия</li>
+    <li>suffixEvil-&gt;горгон</li>
+    <li>suffixEvil-&gt;морт</li>
+    <li>suffixEvil-&gt;шифр</li>
+    <li>suffixEvil-&gt;векс</li>
+    <li>suffixEvil-&gt;вортекс</li>
+    <li>suffixEvil-&gt;нокс</li>
+    <li>suffixEvil-&gt;цибекс</li>
+    <li>suffixEvil-&gt;ворон</li>
+    <li>suffixEvil-&gt;карникс</li>
+    <li>suffixEvil-&gt;немекс</li>
+    <li>suffixEvil-&gt;вексор</li>
+    <li>suffixEvil-&gt;троникс</li>
+    <li>suffixEvil-&gt;криптекс</li>
+    <li>suffixEvil-&gt;хаоникс</li>
+    <li>suffixEvil-&gt;никс</li>
+    <li>suffixEvil-&gt;викс</li>
+  </Namer_Tome.rulePack.rulesStrings>
+</LanguageData>

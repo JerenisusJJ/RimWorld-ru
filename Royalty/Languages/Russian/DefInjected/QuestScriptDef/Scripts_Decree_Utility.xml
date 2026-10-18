@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DecreeSetup.questDescriptionRules.rulesStrings>
+    <li>decreeIntro-&gt;[asker_bestRoyalTitle] [asker_nameDef] [asker_issued] указ.</li>
+    <li>decreeThreatInfo-&gt;Если вам не удастся выполнить этот указ за [decreeDays_genitive], [asker_nameDef] будет [asker_unhappy]. [asker_possessive] гнев будет усиливаться до тех пор, пока указ не будет выполнен.</li>
+    <li>asker_issued(asker_gender==Male)-&gt;издал</li>
+    <li>asker_issued(asker_gender==Female)-&gt;издала</li>
+    <li>asker_unhappy(asker_gender==Male)-&gt;недоволен</li>
+    <li>asker_unhappy(asker_gender==Female)-&gt;недовольна</li>
+    <li>asker_forgotten(asker_gender==Male)-&gt;забыл</li>
+    <li>asker_forgotten(asker_gender==Female)-&gt;забыла</li>
+    <li>asker_cancelled(asker_gender==Male)-&gt;отменил</li>
+    <li>asker_cancelled(asker_gender==Female)-&gt;отменила</li>
+    <li>decreeDays_genitive-&gt;[decreeDays] дней</li>
+  </DecreeSetup.questDescriptionRules.rulesStrings>
+  <DecreeSetup.LetterLabelDecreeForgotten.slateRef>Указ забыт</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
+  <DecreeSetup.LetterTextDecreeForgotten.slateRef>[asker_nameDef] [asker_forgotten] о своём указе.</DecreeSetup.LetterTextDecreeForgotten.slateRef>
+  <DecreeSetup.LetterLabelDecreeCancelled.slateRef>Указ отменён</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
+  <DecreeSetup.LetterTextDecreeCancelled.slateRef>[asker_nameDef] неохотно [asker_cancelled] указ «[resolvedQuestName]», поскольку его невозможно выполнить.</DecreeSetup.LetterTextDecreeCancelled.slateRef>
+</LanguageData>

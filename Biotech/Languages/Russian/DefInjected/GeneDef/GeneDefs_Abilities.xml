@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AcidSpray.label>кислотный плевок</AcidSpray.label>
+  <AcidSpray.description>Носители этого гена способны плеваться липкой кислотой с помощью специальных желёз в шее, которые производят и хранят её. Кислота прилипает к целям в области поражения и наносит им ожоги. Ткани рта у носителей этого гена обладают устойчивостью к воздействию кислоты.</AcidSpray.description>
+  <AcidSpray.symbolPack.prefixSymbols.0.symbol>кисло</AcidSpray.symbolPack.prefixSymbols.0.symbol>
+  <AcidSpray.symbolPack.prefixSymbols.1.symbol>желче</AcidSpray.symbolPack.prefixSymbols.1.symbol>
+  <AcidSpray.symbolPack.prefixSymbols.2.symbol>едко</AcidSpray.symbolPack.prefixSymbols.2.symbol>
+  <AcidSpray.symbolPack.prefixSymbols.3.symbol>коррозио</AcidSpray.symbolPack.prefixSymbols.3.symbol>
+  <AcidSpray.symbolPack.suffixSymbols.0.symbol>плюй</AcidSpray.symbolPack.suffixSymbols.0.symbol>
+  <AcidSpray.symbolPack.suffixSymbols.1.symbol>мёт</AcidSpray.symbolPack.suffixSymbols.1.symbol>
+  <AnimalWarcall.label>звериный клич</AnimalWarcall.label>
+  <AnimalWarcall.description>Носители этого гена могут призывать животных сражаться на своей стороне с помощью мощного рёва и особой психической связи с ними.</AnimalWarcall.description>
+  <AnimalWarcall.symbolPack.prefixSymbols.0.symbol>живо</AnimalWarcall.symbolPack.prefixSymbols.0.symbol>
+  <AnimalWarcall.symbolPack.prefixSymbols.1.symbol>зверо</AnimalWarcall.symbolPack.prefixSymbols.1.symbol>
+  <AnimalWarcall.symbolPack.prefixSymbols.2.symbol>грозно</AnimalWarcall.symbolPack.prefixSymbols.2.symbol>
+  <AnimalWarcall.symbolPack.suffixSymbols.0.symbol>рёв</AnimalWarcall.symbolPack.suffixSymbols.0.symbol>
+  <AnimalWarcall.symbolPack.suffixSymbols.1.symbol>клич</AnimalWarcall.symbolPack.suffixSymbols.1.symbol>
+  <AnimalWarcall.symbolPack.suffixSymbols.2.symbol>зов</AnimalWarcall.symbolPack.suffixSymbols.2.symbol>
+  <AnimalWarcall.symbolPack.wholeNameSymbols.0.symbol>звероклич</AnimalWarcall.symbolPack.wholeNameSymbols.0.symbol>
+  <Bloodfeeder.label>кровоедство</Bloodfeeder.label>
+  <Bloodfeeder.description>Носители этого гена обладают небольшими выдвигающимися клыками и специальным органом на нёбе, способным извлекать гемоген из свежей тёплой крови. С помощью клыков они могут кусать не сопротивляющихся людей.</Bloodfeeder.description>
+  <Bloodfeeder.symbolPack.prefixSymbols.0.symbol>гемо</Bloodfeeder.symbolPack.prefixSymbols.0.symbol>
+  <Bloodfeeder.symbolPack.prefixSymbols.1.symbol>крово</Bloodfeeder.symbolPack.prefixSymbols.1.symbol>
+  <Bloodfeeder.symbolPack.prefixSymbols.2.symbol>юшко</Bloodfeeder.symbolPack.prefixSymbols.2.symbol>
+  <Bloodfeeder.symbolPack.prefixSymbols.3.symbol>клыко</Bloodfeeder.symbolPack.prefixSymbols.3.symbol>
+  <Bloodfeeder.symbolPack.suffixSymbols.0.symbol>сос</Bloodfeeder.symbolPack.suffixSymbols.0.symbol>
+  <Bloodfeeder.symbolPack.suffixSymbols.1.symbol>жор</Bloodfeeder.symbolPack.suffixSymbols.1.symbol>
+  <Bloodfeeder.symbolPack.suffixSymbols.2.symbol>пырь</Bloodfeeder.symbolPack.suffixSymbols.2.symbol>
+  <Bloodfeeder.symbolPack.wholeNameSymbols.0.symbol>кровоед</Bloodfeeder.symbolPack.wholeNameSymbols.0.symbol>
+  <Coagulate.label>заживление ран</Coagulate.label>
+  <Coagulate.description>Носители этого гена способны заживлять раны с помощью секрета особых желёз в руках и запястьях, а также особых веществ в слюне.</Coagulate.description>
+  <Coagulate.labelShortAdj>коагулятор</Coagulate.labelShortAdj>
+  <Coagulate.symbolPack.suffixSymbols.0.symbol>спас</Coagulate.symbolPack.suffixSymbols.0.symbol>
+  <Coagulate.symbolPack.suffixSymbols.1.symbol>заживитель</Coagulate.symbolPack.suffixSymbols.1.symbol>
+  <Coagulate.symbolPack.suffixSymbols.2.symbol>каутеризатор</Coagulate.symbolPack.suffixSymbols.2.symbol>
+  <FireSpew.label>огненный плевок</FireSpew.label>
+  <FireSpew.description>Носители этого гена способны плеваться липким горючим веществом с помощью специального органа в шее. Огненная желчь прилипает к целям и предметам в области поражения и поджигает их.</FireSpew.description>
+  <FireSpew.symbolPack.prefixSymbols.0.symbol>огне</FireSpew.symbolPack.prefixSymbols.0.symbol>
+  <FireSpew.symbolPack.prefixSymbols.1.symbol>пламе</FireSpew.symbolPack.prefixSymbols.1.symbol>
+  <FireSpew.symbolPack.prefixSymbols.2.symbol>пиро</FireSpew.symbolPack.prefixSymbols.2.symbol>
+  <FireSpew.symbolPack.prefixSymbols.3.symbol>жаро</FireSpew.symbolPack.prefixSymbols.3.symbol>
+  <FireSpew.symbolPack.prefixSymbols.4.symbol>пыло</FireSpew.symbolPack.prefixSymbols.4.symbol>
+  <FireSpew.symbolPack.prefixSymbols.5.symbol>огне</FireSpew.symbolPack.prefixSymbols.5.symbol>
+  <FireSpew.symbolPack.prefixSymbols.6.symbol>пламе</FireSpew.symbolPack.prefixSymbols.6.symbol>
+  <FireSpew.symbolPack.prefixSymbols.7.symbol>пиро</FireSpew.symbolPack.prefixSymbols.7.symbol>
+  <FireSpew.symbolPack.prefixSymbols.8.symbol>жаро</FireSpew.symbolPack.prefixSymbols.8.symbol>
+  <FireSpew.symbolPack.prefixSymbols.9.symbol>пыло</FireSpew.symbolPack.prefixSymbols.9.symbol>
+  <FireSpew.symbolPack.prefixSymbols.10.symbol>огне</FireSpew.symbolPack.prefixSymbols.10.symbol>
+  <FireSpew.symbolPack.suffixSymbols.0.symbol>свет</FireSpew.symbolPack.suffixSymbols.0.symbol>
+  <FireSpew.symbolPack.suffixSymbols.1.symbol>жёг</FireSpew.symbolPack.suffixSymbols.1.symbol>
+  <FireSpew.symbolPack.suffixSymbols.2.symbol>пепелитель</FireSpew.symbolPack.suffixSymbols.2.symbol>
+  <FireSpew.symbolPack.suffixSymbols.3.symbol>поджигатель</FireSpew.symbolPack.suffixSymbols.3.symbol>
+  <FireSpew.symbolPack.wholeNameSymbols.0.symbol>пекущий</FireSpew.symbolPack.wholeNameSymbols.0.symbol>
+  <FireSpew.symbolPack.wholeNameSymbols.1.symbol>палящий</FireSpew.symbolPack.wholeNameSymbols.1.symbol>
+  <FoamSpray.label>пенный плевок</FoamSpray.label>
+  <FoamSpray.description>Носители этого гена способны плеваться противопожарной пеной с помощью специальных желёз в шее, которые производят и хранят её. Противопожарная пена тушит весь огонь в области плевка.</FoamSpray.description>
+  <FoamSpray.symbolPack.prefixSymbols.0.symbol>пено</FoamSpray.symbolPack.prefixSymbols.0.symbol>
+  <FoamSpray.symbolPack.prefixSymbols.1.symbol>пузыре</FoamSpray.symbolPack.prefixSymbols.1.symbol>
+  <FoamSpray.symbolPack.prefixSymbols.2.symbol>пено</FoamSpray.symbolPack.prefixSymbols.2.symbol>
+  <FoamSpray.symbolPack.prefixSymbols.3.symbol>пузыре</FoamSpray.symbolPack.prefixSymbols.3.symbol>
+  <FoamSpray.symbolPack.prefixSymbols.4.symbol>пено</FoamSpray.symbolPack.prefixSymbols.4.symbol>
+  <FoamSpray.symbolPack.prefixSymbols.5.symbol>пузыре</FoamSpray.symbolPack.prefixSymbols.5.symbol>
+  <FoamSpray.symbolPack.suffixSymbols.0.symbol>плюй</FoamSpray.symbolPack.suffixSymbols.0.symbol>
+  <FoamSpray.symbolPack.suffixSymbols.1.symbol>мёт</FoamSpray.symbolPack.suffixSymbols.1.symbol>
+  <FoamSpray.symbolPack.wholeNameSymbols.0.symbol>пеноплюй</FoamSpray.symbolPack.wholeNameSymbols.0.symbol>
+  <LongjumpLegs.label>длинный прыжок</LongjumpLegs.label>
+  <LongjumpLegs.description>Носители этого гена способны делать прыжки на огромные расстояния с помощью особого типа мышечных волокон в ногах, использующих для работы гемоген.</LongjumpLegs.description>
+  <LongjumpLegs.symbolPack.prefixSymbols.0.symbol>прыго</LongjumpLegs.symbolPack.prefixSymbols.0.symbol>
+  <LongjumpLegs.symbolPack.prefixSymbols.1.symbol>скачко</LongjumpLegs.symbolPack.prefixSymbols.1.symbol>
+  <LongjumpLegs.symbolPack.prefixSymbols.2.symbol>длинно</LongjumpLegs.symbolPack.prefixSymbols.2.symbol>
+  <LongjumpLegs.symbolPack.prefixSymbols.3.symbol>дально</LongjumpLegs.symbolPack.prefixSymbols.3.symbol>
+  <LongjumpLegs.symbolPack.prefixSymbols.4.symbol>прыго</LongjumpLegs.symbolPack.prefixSymbols.4.symbol>
+  <LongjumpLegs.symbolPack.prefixSymbols.5.symbol>скачко</LongjumpLegs.symbolPack.prefixSymbols.5.symbol>
+  <LongjumpLegs.symbolPack.wholeNameSymbols.0.symbol>прыг</LongjumpLegs.symbolPack.wholeNameSymbols.0.symbol>
+  <LongjumpLegs.symbolPack.wholeNameSymbols.1.symbol>скок</LongjumpLegs.symbolPack.wholeNameSymbols.1.symbol>
+  <LongjumpLegs.symbolPack.wholeNameSymbols.2.symbol>мах</LongjumpLegs.symbolPack.wholeNameSymbols.2.symbol>
+  <PiercingSpine.label>острые иглы</PiercingSpine.label>
+  <PiercingSpine.description>Носители этого гена обладают впадиной в грудной клетке, внутри которой находится ворох кератиновых игл. С помощью особой химической реакции, потребляющей гемоген, они могут стрелять этими иглами в противников с поразительной точностью и скоростью.</PiercingSpine.description>
+  <PiercingSpine.symbolPack.prefixSymbols.0.symbol>игло</PiercingSpine.symbolPack.prefixSymbols.0.symbol>
+  <PiercingSpine.symbolPack.prefixSymbols.1.symbol>шипо</PiercingSpine.symbolPack.prefixSymbols.1.symbol>
+  <PiercingSpine.symbolPack.prefixSymbols.2.symbol>колючко</PiercingSpine.symbolPack.prefixSymbols.2.symbol>
+  <PiercingSpine.symbolPack.wholeNameSymbols.0.symbol>мёт</PiercingSpine.symbolPack.wholeNameSymbols.0.symbol>
+  <XenogermReimplanter.label>генный инъектор</XenogermReimplanter.label>
+  <XenogermReimplanter.description>Носители этого гена могут вживлять в другого человека копию своего ксеносемени с помощью особого омерзительно выглядящего органа. Наследуемые гены реципиента при этом не изменятся. После процедуры генетический материал носителя гена будет очень медленно восстанавливаться. Если вживить ксеносемя до окончания восстановления, носитель гена погибнет.</XenogermReimplanter.description>
+  <XenogermReimplanter.labelShortAdj>инъектор</XenogermReimplanter.labelShortAdj>
+</LanguageData>

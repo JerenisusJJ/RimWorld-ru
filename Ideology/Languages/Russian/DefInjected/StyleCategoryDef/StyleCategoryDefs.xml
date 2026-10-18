@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Animalist.label>анималистский</Animalist.label>
+  <Buddhist.label>буддийский</Buddhist.label>
+  <Christian.label>христианский</Christian.label>
+  <Hindu.label>индуистский</Hindu.label>
+  <Islamic.label>исламский</Islamic.label>
+  <Morbid.label>мрачный</Morbid.label>
+  <Rustic.label>рустиканский</Rustic.label>
+  <Spikecore.label>«шипастый»</Spikecore.label>
+  <Techist.label>технологичный</Techist.label>
+  <Totemic.label>тотемический</Totemic.label>
+</LanguageData>

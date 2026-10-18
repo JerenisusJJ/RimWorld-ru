@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AutoActivateMonolith.label>активировать монолит автоматически</AutoActivateMonolith.label>
+  <ConfigurePawnsMutants.label>людей в начале</ConfigurePawnsMutants.label>
+  <ScenPart_MonolithGeneration.label>монолит пустоты</ScenPart_MonolithGeneration.label>
+</LanguageData>

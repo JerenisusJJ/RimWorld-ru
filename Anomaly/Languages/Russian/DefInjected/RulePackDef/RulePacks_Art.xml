@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerArtCubeSculpture.rulePack.rulesStrings>
+    <li>r_art_name-&gt;[AdjectiveAny] куб</li>
+    <li>r_art_name-&gt;[adjectiveCube] куб</li>
+    <li>r_art_name-&gt;Куб [ConceptAny]</li>
+    <li>adjectiveCube-&gt;обвисший</li>
+    <li>adjectiveCube-&gt;деформированный</li>
+    <li>adjectiveCube-&gt;бугорчатый</li>
+    <li>adjectiveCube-&gt;уродливый</li>
+    <li>adjectiveCube-&gt;комковатый</li>
+    <li>adjectiveCube-&gt;множественный</li>
+    <li>adjectiveCube-&gt;приятный</li>
+    <li>adjectiveCube-&gt;идеальный</li>
+    <li>adjectiveCube-&gt;гранёный</li>
+    <li>adjectiveCube-&gt;универсальный</li>
+    <li>adjectiveCube-&gt;вменяемый</li>
+    <li>adjectiveCube-&gt;чуткий</li>
+    <li>adjectiveCube-&gt;райский</li>
+    <li>adjectiveCube-&gt;перекрученный</li>
+    <li>adjectiveCube-&gt;подрагивающий</li>
+    <li>adjectiveCube-&gt;сдувшийся</li>
+    <li>adjectiveCube-&gt;неказистый</li>
+    <li>adjectiveCube-&gt;искажённый</li>
+    <li>adjectiveCube-&gt;асимметричный</li>
+    <li>adjectiveCube-&gt;безбашенный</li>
+    <li>adjectiveCube-&gt;исключительно странный</li>
+    <li>adjectiveCube-&gt;расплавленный</li>
+    <li>adjectiveCube-&gt;нестабильный</li>
+    <li>adjectiveCube-&gt;эфемерный</li>
+    <li>adjectiveCube-&gt;хаотичный</li>
+    <li>adjectiveCube-&gt;некубический</li>
+    <li>adjectiveCube-&gt;фантасмагоричный</li>
+    <li>adjectiveCube-&gt;кривой</li>
+    <li>adjectiveCube-&gt;мистический</li>
+    <li>adjectiveCube-&gt;абсурдный</li>
+    <li>adjectiveCube-&gt;размытый</li>
+  </NamerArtCubeSculpture.rulePack.rulesStrings>
+  <NamerArtVoidSculpture.rulePack.rulesStrings>
+    <li>r_art_name-&gt;[AdjectiveAngsty] скульптура</li>
+    <li>r_art_name-&gt;[adjectiveUnsettling] скульптура</li>
+    <li>adjectiveUnsettling-&gt;неприятная</li>
+    <li>adjectiveUnsettling-&gt;жуткая</li>
+    <li>adjectiveUnsettling-&gt;мрачная</li>
+    <li>adjectiveUnsettling-&gt;жутковатая</li>
+    <li>adjectiveUnsettling-&gt;наводящая страх</li>
+    <li>adjectiveUnsettling-&gt;пробирающая до костей</li>
+    <li>adjectiveUnsettling-&gt;настораживающая</li>
+    <li>adjectiveUnsettling-&gt;смертоподобная</li>
+    <li>adjectiveUnsettling-&gt;недобрая</li>
+    <li>adjectiveUnsettling-&gt;ужасающая</li>
+    <li>adjectiveUnsettling-&gt;отвратительная</li>
+    <li>adjectiveUnsettling-&gt;страшная</li>
+    <li>adjectiveUnsettling-&gt;пугающая</li>
+    <li>adjectiveUnsettling-&gt;шокирующая</li>
+    <li>adjectiveUnsettling-&gt;исключительно странная</li>
+    <li>adjectiveUnsettling-&gt;ненормальная</li>
+    <li>adjectiveUnsettling-&gt;странная</li>
+    <li>adjectiveUnsettling-&gt;сверхъестественная</li>
+    <li>adjectiveUnsettling-&gt;необычная</li>
+    <li>adjectiveUnsettling-&gt;потусторонняя</li>
+  </NamerArtVoidSculpture.rulePack.rulesStrings>
+</LanguageData>

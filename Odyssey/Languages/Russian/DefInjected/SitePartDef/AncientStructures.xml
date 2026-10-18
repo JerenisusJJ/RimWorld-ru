@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_AncientChemfuelRefinery.label>древний химтопливный завод</OpportunitySite_AncientChemfuelRefinery.label>
+  <OpportunitySite_AncientChemfuelRefinery.description>Заброшенное промышленное сооружение с большими запасами химтоплива. Здесь также могут быть работающие системы безопасности.</OpportunitySite_AncientChemfuelRefinery.description>
+  <OpportunitySite_AncientChemfuelRefinery.approachingReportString>Осмотреть: {0}</OpportunitySite_AncientChemfuelRefinery.approachingReportString>
+  <OpportunitySite_AncientChemfuelRefinery.approachOrderString>Осмотреть: {0}</OpportunitySite_AncientChemfuelRefinery.approachOrderString>
+  <OpportunitySite_AncientGarrison.label>древний гарнизон</OpportunitySite_AncientGarrison.label>
+  <OpportunitySite_AncientGarrison.description>Давно заброшенное военное сооружение. Здесь ещё могут быть ценные вещи, а также работающие системы безопасности. Будьте осторожны, исследуя эти руины.</OpportunitySite_AncientGarrison.description>
+  <OpportunitySite_AncientGarrison.approachingReportString>Осмотреть: {0}</OpportunitySite_AncientGarrison.approachingReportString>
+  <OpportunitySite_AncientGarrison.approachOrderString>Осмотреть: {0}</OpportunitySite_AncientGarrison.approachOrderString>
+  <OpportunitySite_AncientInfestedSettlement.label>зараженное поселение</OpportunitySite_AncientInfestedSettlement.label>
+  <OpportunitySite_AncientInfestedSettlement.description>Некогда процветавшее поселение, которое было захвачено насекомыми. Здесь всё ещё могут быть ценные ресурсы.</OpportunitySite_AncientInfestedSettlement.description>
+  <OpportunitySite_AncientInfestedSettlement.approachingReportString>Осмотреть: {0}</OpportunitySite_AncientInfestedSettlement.approachingReportString>
+  <OpportunitySite_AncientInfestedSettlement.approachOrderString>Осмотреть: {0}</OpportunitySite_AncientInfestedSettlement.approachOrderString>
+  <OpportunitySite_AncientLaunchSite.label>древняя стартовая площадка</OpportunitySite_AncientLaunchSite.label>
+  <OpportunitySite_AncientLaunchSite.description>Заброшенный комплекс стартовых площадок, ранее использовавшийся для отправки припасов на орбитальные платформы. Здесь есть рабочие транспортные капсулы.</OpportunitySite_AncientLaunchSite.description>
+  <OpportunitySite_AncientLaunchSite.approachingReportString>Осмотреть: {0}</OpportunitySite_AncientLaunchSite.approachingReportString>
+  <OpportunitySite_AncientLaunchSite.approachOrderString>Осмотреть: {0}</OpportunitySite_AncientLaunchSite.approachOrderString>
+  <OpportunitySite_AncientWarehouse.label>древний склад</OpportunitySite_AncientWarehouse.label>
+  <OpportunitySite_AncientWarehouse.description>Заброшенный склад. Здесь ещё остались ценные вещи. Здесь также могут быть работающие системы безопасности.</OpportunitySite_AncientWarehouse.description>
+  <OpportunitySite_AncientWarehouse.approachingReportString>Осмотреть: {0}</OpportunitySite_AncientWarehouse.approachingReportString>
+  <OpportunitySite_AncientWarehouse.approachOrderString>Осмотреть: {0}</OpportunitySite_AncientWarehouse.approachOrderString>
+</LanguageData>

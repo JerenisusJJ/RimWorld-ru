@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Blinding_Horrible.label>осуждается</Blinding_Horrible.label>
+  <Blinding_Horrible.description>Ослепление людей в идиолигиозных ритуалах — ужасно.</Blinding_Horrible.description>
+  <Blinding_Horrible.comps.0.description>кто-то ослеплён</Blinding_Horrible.comps.0.description>
+  <Blindness_Elevated.label>одобряется</Blindness_Elevated.label>
+  <Blindness_Elevated.description>Зрячие никогда не смогут приблизиться к слепым в их праведности.</Blindness_Elevated.description>
+  <Blindness_Elevated.comps.8.eventLabel>провели ослепление</Blindness_Elevated.comps.8.eventLabel>
+  <Blindness_Respected.label>уважается</Blindness_Respected.label>
+  <Blindness_Respected.description>Быть слепым — духовно и нравственно. Это достойно уважения.</Blindness_Respected.description>
+  <Blindness_Respected.comps.5.eventLabel>провели ослепление</Blindness_Respected.comps.5.eventLabel>
+  <Blindness_Sublime.label>превозносится</Blindness_Sublime.label>
+  <Blindness_Sublime.description>Только слепые могут быть поистине благородными, поскольку у зрячих разум затуманен физическим зрением.</Blindness_Sublime.description>
+  <Blindness_Sublime.comps.8.eventLabel>провели ослепление</Blindness_Sublime.comps.8.eventLabel>
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OverridesSomePrecepts>Отменяет действие некоторых принципов</OverridesSomePrecepts>
+  <AgreeableMemes>Дополняется чертами</AgreeableMemes>
+  <DisagreeableMemes>Несовместимо с чертами</DisagreeableMemes>
+  <TabSlave>Раб</TabSlave>
+  <SlaveReleaseRelationGainsDesc>Репутация, которую вы получите у фракции, если отпустите раба. На показатель влияет здоровье и психическое состояние раба.</SlaveReleaseRelationGainsDesc>
+  <SlaveReleasePotentialRelationGains>Бонус к отношениям за освобождение</SlaveReleasePotentialRelationGains>
+  <SlaveRebellionMTBDays>Интервал между восстаниями</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDaysDescription>Среднее количество дней бодрствования между попытками рабов поднять восстание. На это влияют настроение раба, его здоровье, подавленность, близость оружия, число других рабов и наличие поселенцев на карте.</SlaveRebellionMTBDaysDescription>
+  <Suppression>Подавленность</Suppression>
+  <SuppressionDesc>Подавленность характеризует запуганность раба и то, насколько он поддаётся контролю. Если подавленность рабов низкая, они могут начать восстание.</SuppressionDesc>
+  <SuppressionFallRate>Темп уменьшения подавленности</SuppressionFallRate>
+  <SuppressionFallRateDesc>Подавленность уменьшается со временем в зависимости от её текущего уровня:\n\n- {1}+ подавленность: {0} в день\n- {4}-{3} подавленность: {2} в день\n- {6}- подавленность: {5} в день\n\nОдежда и запугивание также влияют на темп уменьшения подавленности. Подавленность этого раба уменьшается так</SuppressionFallRateDesc>
+  <CannotEmancipate>Невозможно освободить</CannotEmancipate>
+  <CannotImprison>Невозможно посадить в тюрьму</CannotImprison>
+  <CurrentSuppression>Текущая подавленность</CurrentSuppression>
+  <Terror>Устрашение</Terror>
+  <TerrorDescription>Устрашение помогает держать рабов подавленными. Рабы пугаются, когда проводят время рядом с устрашающими скульптурами. На раба может действовать одновременно только три источника устрашения.\n\nПока раб запуган, его уровень подавленности будет уменьшаться настолько медленнее</TerrorDescription>
+  <TerrorCurrentThoughts>Последнее увиденное устрашающее</TerrorCurrentThoughts>
+  <SuppressionBaseInterval>Интервал</SuppressionBaseInterval>
+  <SuppressionMovingCapacityFactor>Подвижность</SuppressionMovingCapacityFactor>
+  <SuppressionFactor>Подавленность</SuppressionFactor>
+  <SuppressionMoodFactor>Настроение</SuppressionMoodFactor>
+  <SuppressionSlaveCountFactor>Число рабов</SuppressionSlaveCountFactor>
+  <SuppressionEscapeFactor>Путь побега</SuppressionEscapeFactor>
+  <SuppressionWeaponProximityFactor>Близость оружия</SuppressionWeaponProximityFactor>
+  <SuppressionFinalInterval>Последний интервал</SuppressionFinalInterval>
+  <SuppressionUnattendedByColonists>Не под присмотром</SuppressionUnattendedByColonists>
+  <SuppressionRebellionAnySlave>Как минимум один из {0_numCase ? раба : рабов : рабов} на карте предположительно будет поднимать восстания в среднем каждые {1}.</SuppressionRebellionAnySlave>
+  <WillLevel>Воля</WillLevel>
+  <WillLevelDesc>Определяет сопротивление пленника. Когда значение достигает нуля, его можно поработить.</WillLevelDesc>
+  <WillFromPawnKind>Базовая воля {0}</WillFromPawnKind>
+  <IdeoConversionTarget>Выбранная идеолигия</IdeoConversionTarget>
+  <IdeoConversionTargetDesc>Идеолигия, в которую ваши надзиратели будут пытаться обратить пленника.</IdeoConversionTargetDesc>
+  <CertaintyChangePerDay>Изменение в день из-за настроения</CertaintyChangePerDay>
+  <MoodChangeRate>Темп изменения из-за настроения</MoodChangeRate>
+  <CertaintyInIdeo>Уверенность {PAWN_nameDef} в {IDEO_name}</CertaintyInIdeo>
+  <RoleDesc>Особый статус данного персонажа в его идеолигии. Он расстроится, если вы измените или заберёте его роль.</RoleDesc>
+  <RoleAssignmentTip>Смена роли требует проведения соответствующей церемонии. Выберите любое место проведения ритуала или атларь и нажмите кнопку «Начать смену роли».</RoleAssignmentTip>
+  <ConversionWeakerDueToTraitAgreements>Попытки обращения будут менее успешными из-за совместимости идеолигии с чертами характера</ConversionWeakerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>Попытки обращения будут успешнее из-за несовместимости идеолигии с чертами характера</ConversionStrongerDueToTraitAgreements>
+  <Cut>Вырезать</Cut>
+  <CutBothEyes>Вырезать оба глаза</CutBothEyes>
+</LanguageData>

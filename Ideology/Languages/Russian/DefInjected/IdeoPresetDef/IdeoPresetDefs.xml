@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Blindness_Cult.label>культ слепоты</Blindness_Cult.label>
+  <Blindness_Cult.description>Слепота открывает внутреннее зрение, а страдание проливает свет истинного восприятия.\n\nОткрывается роль медицинского специалиста. Будут проводиться жертвоприношения, ритуальные ослепления и шрамирования. Люди будут иметь пониженные требования к комфорту.</Blindness_Cult.description>
+  <Cannibals.label>каннибалы</Cannibals.label>
+  <Cannibals.description>Плоть мужчин и женщин — высшая форма пищи. А ещё она просто вкусная.\n\nБудут проводиться гладиаторские дуэли, жертвоприношения пленников и каннибальские пиршества.</Cannibals.description>
+  <ClassicLike.label>классика</ClassicLike.label>
+  <ClassicLike.description>Ваши поселенцы получат систему убеждений, как в классическом RimWorld. Для остальных фракций будут сгенерированы свои идеолигии.</ClassicLike.description>
+  <Cowboys.label>ковбои</Cowboys.label>
+  <Cowboys.description>Мужчины должны иметь твёрдую власть над своими стадами и женщинами. Разводить животных для пропитания гораздо лучше, чем выращивать растения. И всё это не подлежит сомнению.\n\nОткрывается роль специалиста-животновода.</Cowboys.description>
+  <Criminal_Gang.label>бандиты</Criminal_Gang.label>
+  <Criminal_Gang.description>Следовать чужим идеям и работать целыми днями — для слабаков. Эта группа людей выживает за счёт грабежа и пестрит разнообразием убеждений.\n\nОткрываются роли специалистов по ближнему бою и стрельбе. Будут проводиться гладиаторские дуэли.</Criminal_Gang.description>
+  <Domination_Gang.label>завоеватели</Domination_Gang.label>
+  <Domination_Gang.description>Наши убеждения есть закон и истина. Те, кто не принимает наше учение, — гнусные недолюди, которых надо давить.\n\nОткрываются роли специалистов по ближнему бою и стрельбе. Будут проводиться гладиаторские дуэли.</Domination_Gang.description>
+  <Feminine_Ravagers.label>амазонки</Feminine_Ravagers.label>
+  <Feminine_Ravagers.description>Женщины должны отстаивать свою природную власть над мужчинами и слабыми людьми.\n\nОткрываются роли специалистов по ближнему бою и стрельбе. Будут проводиться гладиаторские дуэли.</Feminine_Ravagers.description>
+  <Feral_People.label>дикари</Feral_People.label>
+  <Feral_People.description>Мы — это животные, а животные — это мы. Мы — это деревья, мы живём рядом с ними и любим их так, как любим себя.\n\nОткрываются роли специалистов: агронома и животновода. Улучшаются способности к приручению для всех поселенцев. Вырубка деревьев и забой животных — неприемлемы. Этим людям открыта более глубокая связь с древами Гауранлен.</Feral_People.description>
+  <Free_Ranchers.label>свободные скотоводы</Free_Ranchers.label>
+  <Free_Ranchers.description>Община скотоводов, занимающихся охотой и разведением животных для пропитания. Радушно относятся к другим мировоззрениям, но не любят есть растительную пищу.\n\nОткрывается роль специалиста-животновода.</Free_Ranchers.description>
+  <High_Collectivists.label>община травокуров</High_Collectivists.label>
+  <High_Collectivists.description>Каждый должен работать и приносить пользу общине, и тогда он сможет веселиться в дымолистном кругу вместе со всеми.\n\nОткрывается роль специалиста-агронома.</High_Collectivists.description>
+  <Human_Purists.label>биоконсерваторы</Human_Purists.label>
+  <Human_Purists.description>Человечество превыше всего, а тело человека — священно. Мы презираем телесные аугментации, шрамирование и наркотики.\n\nОткрываются роли специалистов по медицине и производству.</Human_Purists.description>
+  <Martyrs.label>мученики</Martyrs.label>
+  <Martyrs.description>Принятие нашей нечистой, греховной природы так же неотъемлемо, как и расплата в виде страданий. Боль и жертвоприношения превозносятся, а физическая близость и комфорт — порицаются.</Martyrs.description>
+  <Mole_People.label>люди-кроты</Mole_People.label>
+  <Mole_People.description>Солнца свет приносит вред. В глубинах руд наш кров и труд, покой, еда и мир всегда. Нас под землёй минёт беда.\n\nВозрастает эффективность горной добычи, но возникает неприязнь к солнечному свету.</Mole_People.description>
+  <Naked_Maneaters.label>голые людоеды</Naked_Maneaters.label>
+  <Naked_Maneaters.description>Каннибальские пиршества гораздо лучше, когда ни на тебе, ни на еде нет одежды. Вы словно становитесь едины.\n\nБудут проводиться жертвоприношения и гладиаторские дуэли.</Naked_Maneaters.description>
+  <NatureOverMan.label>«Зелёные» самаритяне</NatureOverMan.label>
+  <NatureOverMan.description>Мы заглаживаем вину человечества перед природой, почитая её и проявляя милосердие к нуждающимся. Забой животных и рубка деревьев неприемлемы.\n\nОткрывается роль специалиста-агронома.</NatureOverMan.description>
+  <Nudist_Recruiters.label>нудисты-вербовщики</Nudist_Recruiters.label>
+  <Nudist_Recruiters.description>Люди должны освободиться от оков одежды, и мы постоянно ищем новых сторонников.</Nudist_Recruiters.description>
+  <Painful_Purists.label>«Чистые» флагелланты</Painful_Purists.label>
+  <Painful_Purists.description>Страдание очищает и облагораживает. Аугментирование тела для облегчения жизни — презренный путь.\n\nОткрывается роль специалиста по медицине. Люди будут иметь пониженные требования к комфорту. Будут проводиться гладиаторские дуэли и жертвоприношения.</Painful_Purists.description>
+  <Progressive_Humanism.label>трансцендентные гуманисты</Progressive_Humanism.label>
+  <Progressive_Humanism.description>Человечество стоит на пике своего природного развития и должно применять технологии, чтобы шагнуть ещё дальше. Для этого мы улучшаем свои тела, но также готовы слушать и другие точки зрения.\n\nОткрываются роли специалистов по исследованиям и производству.</Progressive_Humanism.description>
+  <ProHuman_Darklovers.label>сумеречники</ProHuman_Darklovers.label>
+  <ProHuman_Darklovers.description>Человечество достигнет процветания во мраке ночи и под землёй.\n\nОткрываются роли специалиста-шахтёра и специалиста по производству. Повышается боевая эффективность в темноте.</ProHuman_Darklovers.description>
+  <Techno_Utopians.label>техноутописты</Techno_Utopians.label>
+  <Techno_Utopians.description>Человеческое тело следует улучшать при помощи технологий, чтобы строить лучшее будущее для всех.\n\nОткрывается роль специалиста по исследованиям.</Techno_Utopians.description>
+  <Tree_Worshippers.label>древопоклонники</Tree_Worshippers.label>
+  <Tree_Worshippers.description>Мы живём в гармонии с древами Гауранлен. Никакие деревья нельзя рубить, никаким животным нельзя наносить вред.\n\nОткрывается роль специалиста-агронома. Эти люди могут жить в суровых условиях, не жалуясь, и способны к более глубокой связи с древами Гауранлен.</Tree_Worshippers.description>
+  <Unity_Family.label>большая семья</Unity_Family.label>
+  <Unity_Family.description>Община, представляющая собой семью трудолюбивых людей с похожими взглядами на мир. Ставить себя выше других — неприемлемо.</Unity_Family.description>
+  <Violent_Dominators.label>кровавые завоеватели</Violent_Dominators.label>
+  <Violent_Dominators.description>Слабые должны нам всё, что у них есть. Проведение налётов и захват рабов считаются благородными делами.\n\nОткрываются роли специалистов по ближнему и дальнему бою. Будут проводиться гладиаторские дуэли.</Violent_Dominators.description>
+</LanguageData>

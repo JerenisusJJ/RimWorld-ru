@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PorcupineBite.label>укус дикобраза</PorcupineBite.label>
+  <PorcupineBite.deathMessage>{0} закусан(а) до смерти.</PorcupineBite.deathMessage>
+  <PorcupineScratch.label>царапина дикобраза</PorcupineScratch.label>
+  <PorcupineScratch.deathMessage>{0} разорван(а) на части.</PorcupineScratch.deathMessage>
+</LanguageData>

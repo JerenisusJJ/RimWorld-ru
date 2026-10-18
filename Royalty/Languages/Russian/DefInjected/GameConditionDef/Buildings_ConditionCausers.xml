@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ClimateAdjustment.label>изменение климата</ClimateAdjustment.label>
+  <ClimateAdjustment.description>Находящийся неподалёку регулятор климата меняет температуру воздуха.</ClimateAdjustment.description>
+  <ClimateAdjustment.letterText>Регулятор климата начал менять температуру воздуха.</ClimateAdjustment.letterText>
+  <EMIField.label>ЭМИ-поле</EMIField.label>
+  <EMIField.description>Генератор электромагнитных помех создаёт поле, выводящее из строя всё электрические устройства.</EMIField.description>
+  <EMIField.descriptionFuture>далёкий ЭМИ-генератор на [gameConditionDuration_duration] накроет [map_definite] своим полем помех, выводящим из строя всё электрические устройства.</EMIField.descriptionFuture>
+  <EMIField.endMessage>ЭМИ-поле исчезло.</EMIField.endMessage>
+  <EMIField.letterText>Возникло ЭМИ-поле, выводящее из строя всё электрические устройства.</EMIField.letterText>
+  <GiantSmokeCloud.label>гигантское облако дыма</GiantSmokeCloud.label>
+  <GiantSmokeCloud.description>Дым от находящегося неподалёку дымогенератора затмевает солнечный свет в этой области.</GiantSmokeCloud.description>
+  <GiantSmokeCloud.letterText>Дым от дымогенератора начал закрывать солнце.</GiantSmokeCloud.letterText>
+  <PsychicSuppression.label>психическое подавление</PsychicSuppression.label>
+  <PsychicSuppression.description>Поле психического подавления влияет на {lookup: {lookup: {0}; Plural; 1}; Case; 3}, ослабляя их сознание. На силу воздействия влияет индивидуальная психическая чувствительность.</PsychicSuppression.description>
+  <PsychicSuppression.descriptionFuture>поле психического подавления будет [gameConditionDuration_duration] ослаблять сознание всем [psychicSuppressorGender]м в окрестностях [map_definite]</PsychicSuppression.descriptionFuture>
+  <PsychicSuppression.endMessage>Поле психического подавления рассеялось.</PsychicSuppression.endMessage>
+  <PsychicSuppression.letterText>Возникло поле психического подавления, ослабляющее сознание всех {lookup: {lookup: {0}; Plural; 1}; Case; 1} в окрестностях. На силу воздействия влияет индивидуальная психическая чувствительность.</PsychicSuppression.letterText>
+  <SunBlocker.label>солнце закрыто</SunBlocker.label>
+  <SunBlocker.description>Находящаяся неподалёку машина для блокировки солнца делает верхние слои атмосферы непроницаемыми для солнечного света.</SunBlocker.description>
+  <SunBlocker.letterText>Машина для блокировки солнца начала свою работу.</SunBlocker.letterText>
+  <ToxicSpewer.label>распылитель токсинов</ToxicSpewer.label>
+  <ToxicSpewer.description>Находящийся неподалёку распылитель токсинов окутывает окрестности ядовитым туманом.</ToxicSpewer.description>
+  <ToxicSpewer.letterText>Распылитель токсинов начал окутывать окрестности ядовитым туманом.</ToxicSpewer.letterText>
+  <WeatherController.label>искусственная погода</WeatherController.label>
+  <WeatherController.description>Находящийся неподалёку контроллер погоды создаёт текущие погодные условия.</WeatherController.description>
+  <WeatherController.descriptionFuture>начнёт работу находящийся неподалёку контроллер погоды, и в окрестностях [map_definite] [gameConditionDuration_duration] будет [forcedWeather_indefinite]</WeatherController.descriptionFuture>
+  <WeatherController.endMessage>Контроллер погоды прекратил менять погодные условия.</WeatherController.endMessage>
+  <WeatherController.letterText>Контроллер погоды начал менять погодные условия.</WeatherController.letterText>
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <StatsReport_Genes>Соответствующие гены</StatsReport_Genes>
+  <StatsReport_InSunlight>под солнцем</StatsReport_InSunlight>
+  <StatsReport_Clothed>в одежде</StatsReport_Clothed>
+  <StatsReport_Unclothed>без одежды</StatsReport_Unclothed>
+  <StatsReport_AgeRateMultiplier>Скорость взросления</StatsReport_AgeRateMultiplier>
+  <StatsReport_AgeRateMultiplier_Desc>Показывает, насколько быстро взрослеет человек в зависимости от текущего возраста.</StatsReport_AgeRateMultiplier_Desc>
+  <StatsReport_RechargerWeightClass>Класс механоидов</StatsReport_RechargerWeightClass>
+  <StatsReport_RechargerWeightClass_Desc>Класс механоидов, которые могут использовать эту зарядную станцию. Подходят следующие механоиды</StatsReport_RechargerWeightClass_Desc>
+  <StatsReport_RechargerNeeded>Зарядная станция</StatsReport_RechargerNeeded>
+  <StatsReport_RechargerNeeded_Desc>Тип зарядной станции, необходимой механоиду, зависит от его класса.</StatsReport_RechargerNeeded_Desc>
+  <StatsReport_DeathrestEffectiveness>Эффективность торпора</StatsReport_DeathrestEffectiveness>
+  <StatsReport_DeathrestEffectiveness_Desc>Показывает, насколько быстрее проходит торпор при использовании данного объекта.</StatsReport_DeathrestEffectiveness_Desc>
+  <StatsReport_DeathrestConnectionLimit>Подключений к саркофагу</StatsReport_DeathrestConnectionLimit>
+  <StatsReport_DeathrestConnectionLimit_Desc>Сколько аппаратов данного типа может подключиться к торпорному саркофагу. Ограничивается торпорной вместимостью пользователя саркофага.</StatsReport_DeathrestConnectionLimit_Desc>
+  <StatsReport_GrowthTier>Развитие</StatsReport_GrowthTier>
+  <StatsReport_GrowthTierDesc>Дети постепенно повышают уровень своего развития — и тем быстрее, чем выше показатель удовлетворённости в обучении. При переходе ребёнка на новый этап взросления (в 7, 10 и 13 лет) уровень его развития определяет количество представленных к выбору черт характера и интересов к навыкам. На каждом новом этапе взросления отсчёт уровня развития начинается с нуля.</StatsReport_GrowthTierDesc>
+  <StatsReport_DevelopmentStage>Жизненный этап</StatsReport_DevelopmentStage>
+  <StatsReport_DevelopmentStageDesc_Baby>Младенец. Младенцы не могут передвигаться самостоятельно. Главное в их жизни — это еда, сон и внимание окружающих. Их смех поднимает настроение взрослым, а плач — наоборот.\n\nВ 3 года они переходят на следующий жизненный этап.</StatsReport_DevelopmentStageDesc_Baby>
+  <StatsReport_DevelopmentStageDesc_ChildPart1>Ребёнок. Дети медленнее передвигаются и имеют меньше навыков, чем взрослые. Тем не менее, они всегда настроены оптимистично. Когда они в хорошем настроении, то и взрослые поселенцы тоже рады.\n\nВ зависимости от возраста, дети могут заниматься разными видами работ</StatsReport_DevelopmentStageDesc_ChildPart1>
+  <StatsReport_DevelopmentStageDesc_ChildPart2>По мере роста дети приобретают новые навыки и черты характера.\n\nДетей следует одевать в соответствующую одежду, а ещё они испытывают потребность в обучении.\n\nДети до 8 лет не будут уползать в безопасное место при ранении.\n\nПо достижении 13 лет дети становятся взрослыми.</StatsReport_DevelopmentStageDesc_ChildPart2>
+  <StatsReport_DevelopmentStageDesc_Adult>Взрослый. Люди полностью формируются к 18 годам.</StatsReport_DevelopmentStageDesc_Adult>
+  <StatsReport_Pollution>Множитель загрязнения</StatsReport_Pollution>
+  <StatsReport_FertilityAgeFactor>Влияние возраста</StatsReport_FertilityAgeFactor>
+  <StatsReport_HasGene>Имеет ген {0_label}</StatsReport_HasGene>
+  <StatsReport_NonBaselinerDescription>Личность ксенотипа {0}.\n\nОписание ксенотипа:</StatsReport_NonBaselinerDescription>
+  <Stat_Thing_Apparel_ValidLifestage>Жизненный этап</Stat_Thing_Apparel_ValidLifestage>
+  <Stat_Thing_Apparel_ValidLifestage_Desc>Некоторую одежду можно носить только в определённом возрасте.</Stat_Thing_Apparel_ValidLifestage_Desc>
+  <StatsReport_Connected>Связанные {0}</StatsReport_Connected>
+  <Effects>Эффекты</Effects>
+  <StatsReport_MissingGeneRomanceChance>Шанс романтических отношений с тем, кто не обладает этим геном.</StatsReport_MissingGeneRomanceChance>
+  <ImmuneTo>Иммунитет к</ImmuneTo>
+  <SocialFightChanceFactor>Шанс затеять драку</SocialFightChanceFactor>
+  <AggroMentalBreakSelectionChanceFactor>Шанс серьёзного нервного срыва</AggroMentalBreakSelectionChanceFactor>
+  <PrisonBreakIntervalFactor>Множитель времени между побегами</PrisonBreakIntervalFactor>
+  <WillNeverPrisonBreak>Не устроит побег.</WillNeverPrisonBreak>
+  <AlwaysAggroMentalBreak>Только тяжёлые нервные срывы.</AlwaysAggroMentalBreak>
+  <NeverAggroMentalBreak>Тяжёлые нервные срывы невозможны.</NeverAggroMentalBreak>
+  <AddictionChanceFactor>Шанс формирования зависимости от {lookup: {0_label}; Case; 1}</AddictionChanceFactor>
+  <OverdoseChanceFactor>Вероятность передозировки {lookup: {0_label}; Case; 4}</OverdoseChanceFactor>
+  <ToleranceBuildupFactor>Множитель прироста толерантности к {lookup: {0_label}; Case; 2}</ToleranceBuildupFactor>
+  <AddictionImmune>Иммунитет к зависимости от {lookup: {0_label}; Case; 1}.</AddictionImmune>
+  <FoodPoisoningImmune>Иммунитет к пищевому отравлению.</FoodPoisoningImmune>
+  <WillNeverSocialFight>Не затевает драк.</WillNeverSocialFight>
+  <AgeFactors>Влияние взросления</AgeFactors>
+  <UnaffectedByDarkness>Скорость работы не зависит от освещения.</UnaffectedByDarkness>
+  <PassionModAdd>Повышает уровень интереса к {lookup: {0_label}; Case; 2}.</PassionModAdd>
+  <PassionModDrop>Исключает интерес к {lookup: {0_label}; Case; 2}.</PassionModDrop>
+  <GivesAbility>Добавляет способность</GivesAbility>
+  <GivesAbilities>Добавляет способности</GivesAbilities>
+  <ResourceLossPerDay>{RESOURCE}: {OFFSET} в день.</ResourceLossPerDay>
+  <Removes>Убирает</Removes>
+  <DevelopmentStage_Baby>Младенец</DevelopmentStage_Baby>
+  <DevelopmentStage_Child>Ребёнок</DevelopmentStage_Child>
+  <DevelopmentStage_Adult>Взрослый</DevelopmentStage_Adult>
+  <StatsReport_GrowthVatSpeedFactor>Скорость роста в инкубаторе</StatsReport_GrowthVatSpeedFactor>
+  <GeneToleranceBuildupImmune>Носители этого гена не вырабатывают толерантность к {lookup: {0_label}; Case; 2}.</GeneToleranceBuildupImmune>
+  <GeneToleranceBuildupFactor>Носители этого гена вырабатывают толерантность к {lookup: {0_label}; Case; 2} с интенсивностью {1}.</GeneToleranceBuildupFactor>
+  <GeneOverdoseImmune>Носители этого гена не могут получить передозировку {lookup: {0_label}; Case; 4}.</GeneOverdoseImmune>
+  <GeneOverdoseFactor>Носители этого гена получают передозировку {lookup: {0_label}; Case; 4} с изменённой в x{1} вероятностью.</GeneOverdoseFactor>
+  <StatsReport_InSpace>в открытом космосе</StatsReport_InSpace>
+  <StatsReport_NotInSpace>на планете</StatsReport_NotInSpace>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Difficulty_BabiesAreHealthy_Label>Младенцы всегда здоровы</Difficulty_BabiesAreHealthy_Label>
+  <Difficulty_BabiesAreHealthy_Info>Младенцы всегда будут рождаться здоровыми. Вероятность выкидыша исключается, а матери не смогут умереть во время родов.</Difficulty_BabiesAreHealthy_Info>
+  <Difficulty_NoBabiesOrChildren_Label>Запретить детей</Difficulty_NoBabiesOrChildren_Label>
+  <Difficulty_NoBabiesOrChildren_Info>Люди не смогут забеременеть. Дети никогда не появятся в игре, разве что вы выберете их в качестве первых поселенцев.</Difficulty_NoBabiesOrChildren_Info>
+  <Difficulty_ChildAgingRate_Label>Скорость взросления детей</Difficulty_ChildAgingRate_Label>
+  <Difficulty_ChildAgingRate_Info>Скорость взросления детей до 11 лет. После этого возраста и до 20 лет она будет плавно приближаться к скорости старения взрослых людей.</Difficulty_ChildAgingRate_Info>
+  <Difficulty_AdultAgingRate_Label>Скорость старения взрослых</Difficulty_AdultAgingRate_Label>
+  <Difficulty_AdultAgingRate_Info>Настройка скорости старения взрослых людей.</Difficulty_AdultAgingRate_Info>
+  <Difficulty_WastepackInfestationChanceFactor_Label>Чувствительность насекомых к отходам</Difficulty_WastepackInfestationChanceFactor_Label>
+  <Difficulty_WastepackInfestationChanceFactor_Info>Насколько чувствительны глубинные коконы насекомых к отходам из повреждённых мешков.</Difficulty_WastepackInfestationChanceFactor_Info>
+  <Difficulty_ChildRaidersAllowed_Label>Налётчики-дети</Difficulty_ChildRaidersAllowed_Label>
+  <Difficulty_ChildRaidersAllowed_Info>В числе налётчиков на ваше поселение иногда будут встречаться дети.</Difficulty_ChildRaidersAllowed_Info>
+  <BabiesAreHealthyDisableReason>Другая опция запрещает появление детей.</BabiesAreHealthyDisableReason>
+  <DifficultyChildrenSection>Дети</DifficultyChildrenSection>
+  <PlanetPollution>Загрязнение</PlanetPollution>
+</LanguageData>

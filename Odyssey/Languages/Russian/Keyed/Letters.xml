@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GravcoreAbandonedSettlementRaid>На вас нападают {FACTION_pawnsPlural} из фракции {FACTION_name}! Они использовали гравиядро, чтобы заманить вас в засаду.</GravcoreAbandonedSettlementRaid>
+  <GravcoreAbandonedSettlementRaid_Reinforcements>Подкрепление уже в пути и прибудет в ближайшие дни. Подготовьтесь к нападению или бегите до их прибытия.</GravcoreAbandonedSettlementRaid_Reinforcements>
+  <GravcoreMechRelayRaidLetterLabel>Ответная оборона ретранслятора</GravcoreMechRelayRaidLetterLabel>
+  <GravcoreMechRelayRaidLetterText>Прибывают механоиды для защиты ретранслятора!\n\nОни высаживаются на транспортных капсулах и немедленно нападут.</GravcoreMechRelayRaidLetterText>
+  <GravEngineInspectedLetterContents>Среди обломков разбившейся платформы механоидов мерцает уцелевший гравидвигатель.\n\nВы можете построить корабельную надстройку вокруг двигателя, чтобы создать новый гравикорабль. Двигатель использует гравитацию, поднимая корабль и позволяя совершать дальние путешествия.\n\nЗапустите гравикорабль, исследовав строительство гравикорабля, а затем построив топливные баки, ускорители и пульт пилота.\n\nПри запуске гравикорабля текущая карта будет покинута.\n\n — Открыто исследование: строительство гравикорабля\n — Открыто перекрытие: корабельная надстройка</GravEngineInspectedLetterContents>
+  <ViewQuest>Открыть задание</ViewQuest>
+  <AsteroidLetter>Астероид {RESOURCE}</AsteroidLetter>
+  <AsteroidLetterText>Вы обнаружили местоположение астероида, вращающегося вокруг планеты. В нем в больших количествах содержится {RESOURCE} и, возможно, другие ресурсы.\n\nОрбитальные шахтеры направляют ценные астероиды на орбиту планеты, чтобы их было легче добывать и продавать орбитальным торговцам. Признаков жизни на астероиде не обнаружено.\n\nДобраться до астероида можно на транспортных капсулах, челноках или гравикорабле.</AsteroidLetterText>
+  <AsteroidName>Астероид {RESOURCE}</AsteroidName>
+  <AncientReactorArrivedLetter>Древний реактор</AncientReactorArrivedLetter>
+  <AncientReactorArrivedLetterText>В близлежащих руинах скрыт древний реактор. Он поврежден и протекает, покрывая местность токсичными осадками. Найдите и отключите реактор, чтобы получить гравиядро и прекратить загрязнение.</AncientReactorArrivedLetterText>
+  <FrozenTerraformerArrivedLetter>Древний терраформер</FrozenTerraformerArrivedLetter>
+  <FrozenTerraformerArrivedLetterText>Неисправный терраформер заключил себя в прочный лёд. Энергосигнал гравиядра исходит откуда-то изнутри. Найдите и уничтожьте терраформер, чтобы получить гравиядро.</FrozenTerraformerArrivedLetterText>
+  <AncientStockpileArrivedLetter>Древний склад</AncientStockpileArrivedLetter>
+  <AncientStockpileArrivedLetterText>Энергосигнал гравиядра исходит из одного из ближайших подземных складов. Взломайте входы и обыщите склады, чтобы найти гравиядро.\n\nБудьте осторожны: часть системы защиты может быть всё ещё активна.</AncientStockpileArrivedLetterText>
+  <OrbitalMechanoidPlatformLetterArrived>Платформа механоидов</OrbitalMechanoidPlatformLetterArrived>
+  <OrbitalMechanoidPlatformLetterArrivedText>Эта орбитальная платформа создана для обслуживания и развертывания боевых механоидов, вероятно, как часть древней межпланетной военной машины.\n\nСигнал гравиядра исходит из глубин платформы.</OrbitalMechanoidPlatformLetterArrivedText>
+  <OrbitalAncientPlatformLetterArrived>Древняя платформа</OrbitalAncientPlatformLetterArrived>
+  <OrbitalAncientPlatformLetterArrivedText>Люди, когда-то населявшие эту орбитальную платформу, давно ушли, а изначальное предназначение уже забыто.\n\nСигнал гравиядра исходит откуда-то изнутри.</OrbitalAncientPlatformLetterArrivedText>
+  <CrashedPlatformArrivedLetter>Разрушенная платформа механоидов</CrashedPlatformArrivedLetter>
+  <CrashedPlatformArrivedLetterText>Рядом разбросаны обломки орбитальной платформы. Будьте осторожны: среди обломков находятся враждебные механоиды.\n\nСигнал гравиядра исходит из зоны крушения.</CrashedPlatformArrivedLetterText>
+  <LetterLabelLavaEmergence>Извержение лавы</LetterLabelLavaEmergence>
+  <LetterLavaEmergence>Лава вытекает через трещины в земле! Она будет скапливаться, пока не образует небольшое озеро. Остывание займет несколько дней, после чего её можно будет убрать.</LetterLavaEmergence>
+  <LetterLabelLavaFlow>Поток лавы</LetterLabelLavaFlow>
+  <LetterLavaFlow>Лава хлынула в эти края, затапливая низинные вулканические породы. Держите поселенцев подальше от опасности!</LetterLavaFlow>
+  <LetterLabelSeasonalFlooding>Сезонное наводнение</LetterLabelSeasonalFlooding>
+  <LetterSeasonalFlooding>Дожди выше по течению вызвали разлив реки. Наводнение спадет через несколько дней.</LetterSeasonalFlooding>
+  <MessageSeasonalFloodingFrozen>Низкая температура приводит к замерзанию реки. Наводнение спадает.</MessageSeasonalFloodingFrozen>
+  <MessageFloodingSubsiding>Наводнение спадает.</MessageFloodingSubsiding>
+  <LetterLabelRareCatch>Редкая рыба</LetterLabelRareCatch>
+  <LetterTextRareCatch>Во время рыбалки {PAWN_nameDef} поймал необычный трофей</LetterTextRareCatch>
+  <LetterLabelMechanoidThreat>Наступающие механоиды</LetterLabelMechanoidThreat>
+  <LetterTextMechanoidThreat>Мехрой почти завершил сканирование вашей позиции. Как только гравикорабль будет обнаружен, к вам отправится огромная армия механоидов для уничтожения.\n\nСоберите припасы и покиньте карту, выбрав запуск на пульте пилота.</LetterTextMechanoidThreat>
+  <LetterLabelMechhiveWarning>Сигнал мехроя</LetterLabelMechhiveWarning>
+  <LetterTextMechhiveWarning>Вы зафиксировали мощный энергетический сигнал, свидетельствующий о том, что мехрой прячется где-то на орбите. Если удастся его найти, вы сможете его отключить — или использовать его силу.\n\nМехрои — это производственные и управляющие платформы, создающие и координирующие механоидов по всей планете. Их питают персональные ядра.\n\nСобирайте больше технологий гравикорабля, чтобы отследить местоположение мехроя.</LetterTextMechhiveWarning>
+  <OrbitalMechhiveLetterArrived>Ядро церебрекса</OrbitalMechhiveLetterArrived>
+  <OrbitalMechhiveLetterArrivedText>В центре орбитальной платформы возвышается массивная структура механоидов, собранная из тончайших ультратех-нитей, в которых спрятано персональное ИИ-ядро. Это интеллектуальное ядро мехроя, управляющее всеми механоидами на планете.\n\nСтруктура защищена прилегающими стабилизаторами, которые делают её практически неуязвимой. Найдите и уничтожьте стабилизаторы церебрекса, чтобы ослабить защиту ядра.</OrbitalMechhiveLetterArrivedText>
+  <MechhiveRaidLetterLabel>Атака механоидов</MechhiveRaidLetterLabel>
+  <MechhiveRaidLetterText>Ядро церебрекса отправляет механоидов в атаку. Готовьтесь!</MechhiveRaidLetterText>
+  <MechhiveDefenseResponseLetterLabel>Ответная оборона</MechhiveDefenseResponseLetterLabel>
+  <MechhiveDefenseResponseLetterText>Рой механоидов вызвал подкрепление для своей защиты. Они прибывают на транспортных капсулах и нападут сразу же!</MechhiveDefenseResponseLetterText>
+  <CerebrexCoreLoweredLetterLabel>Ядро церебрекса</CerebrexCoreLoweredLetterLabel>
+  <CerebrexCoreLoweredLetterText>Вы уничтожили стабилизаторы, тем самым ослабив защиту ядра церебрекса. Отправьте поселенца для его осмотра.</CerebrexCoreLoweredLetterText>
+  <CerebrexCoreDestroyedLetterLabel>Механоиды отключены</CerebrexCoreDestroyedLetterLabel>
+  <CerebrexCoreDestroyedLetterText>Уничтожив ядро церебрекса, {PAWN_nameDef} отключил механоидов по всей планете.\n\nУгроза механоидов устранена.</CerebrexCoreDestroyedLetterText>
+  <CerebrexCoreScavengedLetterLabel>Узел церебрекса</CerebrexCoreScavengedLetterLabel>
+  <CerebrexCoreScavengedLetterText>Рядом находится извлеченный из ядра церебрекса узел. Он сильно реагирует на ядро, явно всё ещё связан с ним.\n\nОснастите этим узлом поселенца, чтобы его использовать.</CerebrexCoreScavengedLetterText>
+  <LetterLabelGravshipEnteredEnemyBase>Атака началась</LetterLabelGravshipEnteredEnemyBase>
+  <LetterGravshipEnteredEnemyBase>Ваш гравикорабль приземлился на {0} и готов к атаке.</LetterGravshipEnteredEnemyBase>
+  <LetterLabelSurveyScannerArrived>Сканирующий зонд</LetterLabelSurveyScannerArrived>
+  <LetterSurveyScannerArrived>Защитите сканер, пока он не закончит изучать территорию. Это займет {DURATION}.</LetterSurveyScannerArrived>
+  <EnteredMegahiveLabel>Логово насекомых</EnteredMegahiveLabel>
+  <EnteredMegahiveText>{PAWN_nameDef} оказался в глубинах огромного подземного логова насекомых. Воздух пропитан запахом их выделений.</EnteredMegahiveText>
+  <EnteredMegahiveGravcoreExtra>Сигнал гравиядра исходит откуда-то из-за земляных стен. Пробейтесь сквозь стены, чтобы продолжить исследование.</EnteredMegahiveGravcoreExtra>
+  <LetterInspirationBeginPsilocap>Употребив псилокапы, {PAWN_nameDef} получает вдохновение!</LetterInspirationBeginPsilocap>
+  <MentalBreakReason_Psilocap>Это произошло из-за употребления псилокапов.</MentalBreakReason_Psilocap>
+</LanguageData>

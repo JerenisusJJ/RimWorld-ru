@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MeleeWeapon_MonoSword.label>мономеч</MeleeWeapon_MonoSword.label>
+  <MeleeWeapon_MonoSword.description>Меч с кристально-металлической структурой и напылением из механитов, поддерживающих мономолекулярную толщину режущей кромки. Способен с лёгкостью проходить даже сквозь толстую броню, и, благодаря своей лёгкости, позволяет владельцу наносить смертоносно быстрые удары.</MeleeWeapon_MonoSword.description>
+  <MeleeWeapon_MonoSword.tools.handle.label>рукоять</MeleeWeapon_MonoSword.tools.handle.label>
+  <MeleeWeapon_MonoSword.tools.point.label>остриё</MeleeWeapon_MonoSword.tools.point.label>
+  <MeleeWeapon_MonoSword.tools.edge.label>лезвие</MeleeWeapon_MonoSword.tools.edge.label>
+  <MeleeWeapon_PlasmaSword.label>плазменный меч</MeleeWeapon_PlasmaSword.label>
+  <MeleeWeapon_PlasmaSword.description>Меч, состоящий из металлического сердечника и плазмы, удерживаемой вокруг него энергетическим полем. Цели разрезаются сердечником, а так же обжигаются или воспламеняются с помощью плазменной оболочки.</MeleeWeapon_PlasmaSword.description>
+  <MeleeWeapon_PlasmaSword.tools.handle.label>рукоять</MeleeWeapon_PlasmaSword.tools.handle.label>
+  <MeleeWeapon_PlasmaSword.tools.point.label>остриё</MeleeWeapon_PlasmaSword.tools.point.label>
+  <MeleeWeapon_PlasmaSword.tools.edge.label>лезвие</MeleeWeapon_PlasmaSword.tools.edge.label>
+  <MeleeWeapon_Zeushammer.label>электромолот</MeleeWeapon_Zeushammer.label>
+  <MeleeWeapon_Zeushammer.description>Боевой молот с встроенным электромагнитным конденсатором. При ударе цель, помимо механического урона, получает повреждения от электромагнитного разряда.</MeleeWeapon_Zeushammer.description>
+  <MeleeWeapon_Zeushammer.tools.handle.label>рукоять</MeleeWeapon_Zeushammer.tools.handle.label>
+  <MeleeWeapon_Zeushammer.tools.head.label>боевая часть</MeleeWeapon_Zeushammer.tools.head.label>
+</LanguageData>

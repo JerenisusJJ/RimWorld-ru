@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MeditationPlantGrowthOffset.label>скорость роста при медитации</MeditationPlantGrowthOffset.label>
+  <MeditationPlantGrowthOffset.description>Модификатор скорости роста растений, таких как трава души, во время медитации. Это значение зависит от числа искусственных сооружений поблизости.</MeditationPlantGrowthOffset.description>
+</LanguageData>

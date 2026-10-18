@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HungerMaker.label>пси-голод</HungerMaker.label>
+  <HungerMaker.description>Голод растёт быстрее под влиянием связанного синхрооружия.</HungerMaker.description>
+  <NeuralHeatRecoveryGain.label>пси-рассеивание нейроперегрева</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>Рассеивание нейроперегрева ускорено под влиянием связанного синхрооружия.</NeuralHeatRecoveryGain.description>
+  <NoPain.label>пси-анальгезия</NoPain.label>
+  <NoPain.description>Боль полностью подавлена под влиянием оружия в руках.</NoPain.description>
+  <SpeedBoost.label>пси-ускорение</SpeedBoost.label>
+  <SpeedBoost.description>Скорость передвижения увеличена под влиянием оружия в руках.</SpeedBoost.description>
+</LanguageData>

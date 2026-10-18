@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>нет искусственных улучшений</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>У меня нет искусственных улучшений тела. Их отсутствие противоречит моим убеждениям.</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>
+  <HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>нет искусственных улучшений</HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>
+  <HasProsthetic_Abhorrent.stages.artificial_enhancement.label>искусственное улучшение</HasProsthetic_Abhorrent.stages.artificial_enhancement.label>
+  <HasProsthetic_Abhorrent.stages.artificial_enhancement.description>Во мне искусственное улучшение тела. Это омерзительно и противоречит всему, во что я верю!</HasProsthetic_Abhorrent.stages.artificial_enhancement.description>
+  <HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>искусственное улучшение</HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>
+  <HasProsthetic_Approved.stages.transhumanist_modded.label>бионическое улучшение</HasProsthetic_Approved.stages.transhumanist_modded.label>
+  <HasProsthetic_Approved.stages.transhumanist_modded.description>Это искусственное улучшение тела соответствует моим убеждениям.</HasProsthetic_Approved.stages.transhumanist_modded.description>
+  <HasProsthetic_Approved.stages.transhumanist_connected.label>бионические аугментации</HasProsthetic_Approved.stages.transhumanist_connected.label>
+  <HasProsthetic_Approved.stages.transhumanist_connected.description>Чем больше в моём теле искусственных улучшений, тем лучше я могу выражать свои убеждения.</HasProsthetic_Approved.stages.transhumanist_connected.description>
+  <HasProsthetic_Approved.stages.transhumanist_enhanced.label>бионическая оптимизация</HasProsthetic_Approved.stages.transhumanist_enhanced.label>
+  <HasProsthetic_Approved.stages.transhumanist_enhanced.description>Третье искусственное улучшение тела отлично дополняет мои взгляды на мир. Но мне нужно больше.</HasProsthetic_Approved.stages.transhumanist_enhanced.description>
+  <HasProsthetic_Approved.stages.transhumanist_synchronized.label>бионическая интеграция</HasProsthetic_Approved.stages.transhumanist_synchronized.label>
+  <HasProsthetic_Approved.stages.transhumanist_synchronized.description>Мне не хватает лишь двух искусственных улучшений тела, чтобы стать истинным олицетворением своих убеждений.</HasProsthetic_Approved.stages.transhumanist_synchronized.description>
+  <HasProsthetic_Approved.stages.transhumanist_integrated.label>бионическое единение</HasProsthetic_Approved.stages.transhumanist_integrated.label>
+  <HasProsthetic_Approved.stages.transhumanist_integrated.description>Пять искусственных улучшений тела! Я чувствую, что до настоящего перерождения мне осталось совсем немного.</HasProsthetic_Approved.stages.transhumanist_integrated.description>
+  <HasProsthetic_Approved.stages.transhumanist_transformed.label>трансгуманистическое перерождение</HasProsthetic_Approved.stages.transhumanist_transformed.label>
+  <HasProsthetic_Approved.stages.transhumanist_transformed.description>Плоть слаба, и она теперь словно в прошлом.</HasProsthetic_Approved.stages.transhumanist_transformed.description>
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.label>искусственное улучшение</HasProsthetic_Disapproved.stages.artificial_enhancement.label>
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.description>В моём теле — искусственное улучшение. Мне не кажется это правильным и приемлемым.</HasProsthetic_Disapproved.stages.artificial_enhancement.description>
+  <HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>искусственное улучшение</HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>установлено улучшение</InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>В моё тело установлено искусственное улучшение. Это оскорбительно и в корне противоречит моим убеждениям.</InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.label>установлено улучшение</InstalledProsthetic_Disapproved.stages.installed_enhancement.label>
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.description>В моё тело установлено искусственное улучшение. Это противоречит моим убеждениям.</InstalledProsthetic_Disapproved.stages.installed_enhancement.description>
+  <InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>установлено улучшение</InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>
+  <InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>установлено улучшение</InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>
+</LanguageData>

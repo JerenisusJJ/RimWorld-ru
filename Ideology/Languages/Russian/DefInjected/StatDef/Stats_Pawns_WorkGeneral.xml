@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PruningSpeed.label>скорость остригания</PruningSpeed.label>
+  <PruningSpeed.description>Как быстро этот человек может остригать древо Гауранлен для поддержания связи с ним.\n\nОстригание является в большей степени медитативной задачей, чем физической работой, поэтому факторы состояния здоровья, в частности, зрение, не влияют на процесс.</PruningSpeed.description>
+  <SuppressionPower.label>эффективность подавления</SuppressionPower.label>
+  <SuppressionPower.description>Показатель эффективности подавления рабов.</SuppressionPower.description>
+</LanguageData>

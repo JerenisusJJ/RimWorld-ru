@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InvolvedInPsychicRitual_Abhorrent.stages.involved_in_psychic_ritual.label>участвует в псионическом ритуале</InvolvedInPsychicRitual_Abhorrent.stages.involved_in_psychic_ritual.label>
+  <InvolvedInPsychicRitual_Abhorrent.stages.involved_in_psychic_ritual.description>Мне удалось дотянуться до той мерзкой псионной силы за пределами космоса, и это отвратительно.</InvolvedInPsychicRitual_Abhorrent.stages.involved_in_psychic_ritual.description>
+  <InvolvedInPsychicRitual_Disapproved.stages.involved_in_psychic_ritual.label>участвует в псионическом ритуале</InvolvedInPsychicRitual_Disapproved.stages.involved_in_psychic_ritual.label>
+  <InvolvedInPsychicRitual_Disapproved.stages.involved_in_psychic_ritual.description>Тот ритуал… был неправильным. Мне не стоило в нем участвовать.</InvolvedInPsychicRitual_Disapproved.stages.involved_in_psychic_ritual.description>
+  <InvolvedInPsychicRitual_Exalted.stages.involved_in_psychic_ritual.label>участвует в псионическом ритуале</InvolvedInPsychicRitual_Exalted.stages.involved_in_psychic_ritual.label>
+  <InvolvedInPsychicRitual_Exalted.stages.involved_in_psychic_ritual.description>Наладить контакт с чем-то более великим, чем я, чем все мы… это было невероятно.</InvolvedInPsychicRitual_Exalted.stages.involved_in_psychic_ritual.description>
+  <InvolvedInPsychicRitual_Social_Abhorrent.stages.involved_in_psychic_ritual.label>участвует в псионическом ритуале</InvolvedInPsychicRitual_Social_Abhorrent.stages.involved_in_psychic_ritual.label>
+  <InvolvedInPsychicRitual_Social_Disapproved.stages.involved_in_psychic_ritual.label>участвует в псионическом ритуале</InvolvedInPsychicRitual_Social_Disapproved.stages.involved_in_psychic_ritual.label>
+  <InvolvedInPsychicRitual_Social_Exalted.stages.involved_in_psychic_ritual.label>участвует в псионическом ритуале</InvolvedInPsychicRitual_Social_Exalted.stages.involved_in_psychic_ritual.label>
+  <NoPsychicRituals.stages.no_psychic_rituals.label>нет псионических ритуалов</NoPsychicRituals.stages.no_psychic_rituals.label>
+  <NoPsychicRituals.stages.no_psychic_rituals.description>Какие же мы заблудшие души, раз не используем псионические ритуалы…</NoPsychicRituals.stages.no_psychic_rituals.description>
+  <PsychicRitualPerformed_Abhorrent.stages.psychic_ritual_performed.label>псионический ритуал выполнен</PsychicRitualPerformed_Abhorrent.stages.psychic_ritual_performed.label>
+  <PsychicRitualPerformed_Abhorrent.stages.psychic_ritual_performed.description>То, что мы используем эти мерзкие ритуалы, доказывает, что мы те ещё твари. Как же низко мы пали…</PsychicRitualPerformed_Abhorrent.stages.psychic_ritual_performed.description>
+  <PsychicRitualPerformed_Disapproved.stages.psychic_ritual_performed.label>псионический ритуал выполнен</PsychicRitualPerformed_Disapproved.stages.psychic_ritual_performed.label>
+  <PsychicRitualPerformed_Disapproved.stages.psychic_ritual_performed.description>Мы не должны использовать эти тёмные силы. Это… это неправильно.</PsychicRitualPerformed_Disapproved.stages.psychic_ritual_performed.description>
+</LanguageData>

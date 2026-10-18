@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Deities>Божества</Deities>
+  <ButtonShowAllIdeoligions>Всё идеолигии</ButtonShowAllIdeoligions>
+  <IdeoligionOf>Идеолигия фракций</IdeoligionOf>
+  <Memes>Черты</Memes>
+  <CoreNarrative>Описание</CoreNarrative>
+  <CoreNarrativeDesc>Описание основ вашей идеолигиозной концепции. Не влияет на геймплей.</CoreNarrativeDesc>
+  <EditNarrative>Изменить описание</EditNarrative>
+  <LockButtonDesc>Закрепить или открепить описание идеолигии. Закреплённое описание не будет автоматически перестраиваться при изменении идеолигии.</LockButtonDesc>
+  <LockInOn>Запереть {0_labelShort} в {1}</LockInOn>
+  <LockInOff>Выпустить {0_labelShort} из {1}</LockInOff>
+  <LockPreceptNameButtonDesc>Закрепить или открепить название принципа. Закреплённое название принципа не будет автоматически перестраиваться при изменении идеолигии.</LockPreceptNameButtonDesc>
+  <Precepts>Принципы</Precepts>
+  <Rituals>Ритуалы</Rituals>
+  <IdeoRoles>Роли</IdeoRoles>
+  <IdeoBuildings>Сооружения</IdeoBuildings>
+  <IdeoRelics>Реликвии</IdeoRelics>
+  <IdeoApparel>Желаемая одежда</IdeoApparel>
+  <IdeoApparelDesire>особую одежду</IdeoApparelDesire>
+  <UnwillingToDoIdeoAction>Не будет</UnwillingToDoIdeoAction>
+  <PreceptStats>Параметры</PreceptStats>
+  <Prohibitions>Запреты</Prohibitions>
+  <Opinions>Отношение</Opinions>
+  <MentalBreaks>Нервные срывы</MentalBreaks>
+  <RandomizeName>Случайное имя</RandomizeName>
+  <RandomizePrecepts>Случайные принципы</RandomizePrecepts>
+  <RandomizeDeities>Случайные божества</RandomizeDeities>
+  <AddDeity>Добавить божество</AddDeity>
+  <ChooseMemes>Выбор черт</ChooseMemes>
+  <ChooseStartingMeme>Выбор начальной черты</ChooseStartingMeme>
+  <ChooseStructure>Выбор структуры</ChooseStructure>
+  <ChooseCulture>Выбор культуры</ChooseCulture>
+  <Culture>Культура</Culture>
+  <CultureTip>Культура влияет на имена, визуальный стиль и символику.</CultureTip>
+  <StructureMeme>Структура</StructureMeme>
+  <StructureMemeTip>Структура идеолигии определяет вид сущностей и сил, которые играют важную роль в её представлениях о нравственном мироустройстве. Не влияет на игровой процесс.</StructureMemeTip>
+  <Adjective>Прилагательное</Adjective>
+  <WorshipRoom>Ритуальное помещение</WorshipRoom>
+  <IdeoMembers>Последователь (в ед. числе)</IdeoMembers>
+  <IdeoMembersPlural>Последователи (во мн. числе)</IdeoMembersPlural>
+  <EditSymbols>Изменить символику</EditSymbols>
+  <EditDeity>Изменить божество</EditDeity>
+  <EditApparelRequirement>Изменить подходящую одежду</EditApparelRequirement>
+  <EditName>Переименовать</EditName>
+  <StartingCondition_Anytime>В любое время</StartingCondition_Anytime>
+  <StartingCondition_Date>Дата</StartingCondition_Date>
+  <StartingCondition>Начальные условия</StartingCondition>
+  <RandomizeSymbols>Случайная символика</RandomizeSymbols>
+  <RandomizeSymbolsTooltip>Случайные название идеолигии, иконка, парадигма, титул лидера и другие тексты, включая названия ритуалов и ролей. Всё перечисленное не влияет на игровой процесс, в отличие от черт и принципов.</RandomizeSymbolsTooltip>
+  <ClickAnyElementToEditIt>Нажмите на любой элемент для его изменения</ClickAnyElementToEditIt>
+  <LeaderTitle>Титул лидера</LeaderTitle>
+  <DeityName>Имя божества</DeityName>
+  <DeityTitle>Титул божества</DeityTitle>
+  <DeityGender>Пол божества</DeityGender>
+  <Name>Имя</Name>
+  <Icon>Иконка</Icon>
+  <RelatedToMeme>Связано с чертой</RelatedToMeme>
+  <IdeoCharityQuestInfo>Это задание связано с проявлением милосердия. Отказ от его выполнения негативно скажется на настроении последователей {0}. При выполнении, последователи {0}, напротив, будут счастливы ({1}).</IdeoCharityQuestInfo>
+  <WorkDisabledSlave>Рабы не будут выполнять эту работу</WorkDisabledSlave>
+  <WorkDisabledHealth>Невозможно из-за состояния здоровья</WorkDisabledHealth>
+  <WorkDisabledRole>Запрещено для роли {0}</WorkDisabledRole>
+  <AffectedByTraits>Зависит от индивидуальных черт</AffectedByTraits>
+  <CharityQuestTip>Это задание связано с проявлением милосердия. От его выполнения зависит настроение людей с соответствующими убеждениями.</CharityQuestTip>
+  <Formerly>ранее</Formerly>
+  <All>всё</All>
+  <RelicTip>Реликвии — это предметы, имеющие особую духовную или идеологическую значимость. Для их получения требуется выполнить несколько продолжительных и опасных заданий. Найденную реликвию можно поместить в реликварий для привлечения паломников, улучшения качества ритуалов и повышения шанса обращения чужаков в вашу идеолигию.</RelicTip>
+  <RelicTipClassic>Реликвии — это предметы, имеющие особую духовную или идеологическую значимость. Для их получения требуется выполнить несколько продолжительных и опасных заданий. Найденную реликвию можно поместить в реликварий для привлечения паломников и улучшения качества ритуалов.</RelicTipClassic>
+  <Animal>животное</Animal>
+  <VeneratedAnimals>Священные животные</VeneratedAnimals>
+  <IdeoWeapon>оружие</IdeoWeapon>
+  <IdeoWeapons>Оружие</IdeoWeapons>
+  <SwapNobleAndDespised>Поменять местами благородное и презираемое оружие</SwapNobleAndDespised>
+  <Noble>благородное</Noble>
+  <Despised>презираемое</Despised>
+  <UnlockedRecipes>Доступные изделия</UnlockedRecipes>
+  <IdeoStartWithResearch>Начать с исследованиями</IdeoStartWithResearch>
+  <AgreeableTraits>Согласующиеся черты</AgreeableTraits>
+  <DisagreeableTraits>Несовместимые черты</DisagreeableTraits>
+  <Shooting>Стрельба</Shooting>
+  <IdeoImpact>Влияние</IdeoImpact>
+  <IdeoImpactOverall>Общее влияние</IdeoImpactOverall>
+  <IdeoImpactOverallDesc>Некоторые черты оказывают большее влияние на игровой процесс, чем другие. Очки влияния дают понимание, насколько сильно игровой процесс будет затронут.</IdeoImpactOverallDesc>
+  <IdeoMemeImpactLabel_1>слабое</IdeoMemeImpactLabel_1>
+  <IdeoMemeImpactLabel_2>среднее</IdeoMemeImpactLabel_2>
+  <IdeoMemeImpactLabel_3>сильное</IdeoMemeImpactLabel_3>
+  <IdeoImpactLabel_1>слабое</IdeoImpactLabel_1>
+  <IdeoImpactLabel_2>слабое</IdeoImpactLabel_2>
+  <IdeoImpactLabel_3>умеренное</IdeoImpactLabel_3>
+  <IdeoImpactLabel_4>умеренное</IdeoImpactLabel_4>
+  <IdeoImpactLabel_5>сильное</IdeoImpactLabel_5>
+  <IdeoImpactLabel_6>сильное</IdeoImpactLabel_6>
+  <IdeoImpactLabel_7>очень сильное</IdeoImpactLabel_7>
+  <IdeoImpactLabel_8>очень сильное</IdeoImpactLabel_8>
+  <IdeoImpactLabel_9>экстремальное</IdeoImpactLabel_9>
+  <InitialPlayerIdeo>Это была начальная идеолигия вашего поселения</InitialPlayerIdeo>
+  <FluidIdeoTip>Поскольку ваша идеолигия нова и имеет очень мало последователей на планете, она изменчива и может развиваться со временем.\n\nОчки развития можно получить, проводя ритуалы и выполняя задания, связанные с вашей идеолигией.\n\nНакопив достаточное количество очков развития, вы сможете обогатить вашу идеолигию новыми чертами, принципами, стилями и прочим.</FluidIdeoTip>
+  <FluidIdeoTipGetPoints>Как получить очки развития</FluidIdeoTipGetPoints>
+  <FluidIdeoTipGetPoinsByConversion>Обратите кого-нибудь в вашу идеолигию</FluidIdeoTipGetPoinsByConversion>
+  <ResearchProjectHasDefsWithMissingMemes>{0} разблокирует сооружения, которые вы не сможете создать, потому что они требуют наличие идеолигиозных черт, которые не разделяет никто из ваших поселенцев.</ResearchProjectHasDefsWithMissingMemes>
+  <SelectedWorkTypeOpposedByIdeo>Внимание: этот тип работы противоречит {0_possessive} идеолигии и может испортить поселенцу настроение.</SelectedWorkTypeOpposedByIdeo>
+  <DevelopmentPoints>Очки развития</DevelopmentPoints>
+</LanguageData>

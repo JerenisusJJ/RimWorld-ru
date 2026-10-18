@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ReignedInThroneroom.stages.awful_throneroom.label>отвратительный тронный зал</ReignedInThroneroom.stages.awful_throneroom.label>
+  <ReignedInThroneroom.stages.awful_throneroom.description>Мне пришлось восседать в отвратительном тронном зале. Это выглядит, как оскорбление от моих подчинённых.</ReignedInThroneroom.stages.awful_throneroom.description>
+  <ReignedInThroneroom.stages.dull_throneroom.label>унылый тронный зал</ReignedInThroneroom.stages.dull_throneroom.label>
+  <ReignedInThroneroom.stages.dull_throneroom.description>Мне пришлось восседать в унылом тронном зале. Это несомненно вредит моему статусу.</ReignedInThroneroom.stages.dull_throneroom.description>
+  <ReignedInThroneroom.stages.mediocre_throneroom.label>посредственный тронный зал</ReignedInThroneroom.stages.mediocre_throneroom.label>
+  <ReignedInThroneroom.stages.mediocre_throneroom.description>Мне пришлось восседать в посредственном тронном зале. Это не соответствует моему статусу.</ReignedInThroneroom.stages.mediocre_throneroom.description>
+  <ReignedInThroneroom.stages.very_impressive_throneroom.label>прекрасный тронный зал</ReignedInThroneroom.stages.very_impressive_throneroom.label>
+  <ReignedInThroneroom.stages.very_impressive_throneroom.description>Я {PAWN_gender ? восседал : восседала} в прекрасном тронном зале. Это хорошо подчёркивает мой статус.</ReignedInThroneroom.stages.very_impressive_throneroom.description>
+  <ReignedInThroneroom.stages.extremely_impressive_throneroom.label>великолепный тронный зал</ReignedInThroneroom.stages.extremely_impressive_throneroom.label>
+  <ReignedInThroneroom.stages.extremely_impressive_throneroom.description>Я {PAWN_gender ? восседал : восседала} в великолепном тронном зале. Это прекрасно подчёркивает мой статус.</ReignedInThroneroom.stages.extremely_impressive_throneroom.description>
+  <ReignedInThroneroom.stages.unbelievably_impressive_throneroom.label>восхитительный тронный зал</ReignedInThroneroom.stages.unbelievably_impressive_throneroom.label>
+  <ReignedInThroneroom.stages.unbelievably_impressive_throneroom.description>Я {PAWN_gender ? восседал : восседала} в восхитительном тронном зале. Простолюдины будут поражены моим величием.</ReignedInThroneroom.stages.unbelievably_impressive_throneroom.description>
+  <ReignedInThroneroom.stages.wondrously_impressive_throneroom.label>чудесный тронный зал</ReignedInThroneroom.stages.wondrously_impressive_throneroom.label>
+  <ReignedInThroneroom.stages.wondrously_impressive_throneroom.description>Я {PAWN_gender ? восседал : восседала} в чудесном тронном зале. Настолько же величественном и благородном, как и я {PAWN_gender ? сам : сама}.</ReignedInThroneroom.stages.wondrously_impressive_throneroom.description>
+</LanguageData>

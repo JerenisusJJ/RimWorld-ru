@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MissingRequiredMechanitor>Нужен поселенец-механитор</MissingRequiredMechanitor>
+  <NotStudied>{0} не изучен</NotStudied>
+  <StudyRequirements>Требуется изучение</StudyRequirements>
+  <PreferredXenotypes>Предпочтительные ксенотипы</PreferredXenotypes>
+  <WorkDisabledAge>{0_nameDef} всего {1_numCase ? год : года : лет}, а работа «{2}» доступна с {3_numCase ? года : лет : лет}</WorkDisabledAge>
+  <ClickToChangeWorkMode>Нажмите, чтобы изменить режим работы.</ClickToChangeWorkMode>
+</LanguageData>

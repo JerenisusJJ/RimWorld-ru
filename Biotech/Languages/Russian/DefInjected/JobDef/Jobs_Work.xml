@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EmptyWasteContainer.reportString>извлекает TargetB из TargetA</EmptyWasteContainer.reportString>
+  <HaulToAtomizer.reportString>загружает {lookup: {TargetA}; Case; 3}</HaulToAtomizer.reportString>
+</LanguageData>

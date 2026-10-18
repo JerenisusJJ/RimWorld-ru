@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bullet_AncientArmoredTurret.label>пуля древней защитной турели</Bullet_AncientArmoredTurret.label>
+  <Gun_AncientArmoredTurret.label>пушка древней защитной турели</Gun_AncientArmoredTurret.label>
+  <Gun_AncientArmoredTurret.description>Лёгкая автоматическая пушка, предназначенная для крепления к турельной установке.</Gun_AncientArmoredTurret.description>
+  <Gun_AncientArmoredTurret.verbs.Verb_Shoot.label>пушка древней защитной турели</Gun_AncientArmoredTurret.verbs.Verb_Shoot.label>
+  <Turret_AncientArmoredTurret.label>древняя защитная турель</Turret_AncientArmoredTurret.label>
+  <Turret_AncientArmoredTurret.description>Бронированная охранная турель с долговечной батареей.</Turret_AncientArmoredTurret.description>
+  <Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>Отключено</Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GravshipLaunch.roles.0.label>пилот</GravshipLaunch.roles.0.label>
+  <GravshipLaunch.roles.1.label>второй пилот</GravshipLaunch.roles.1.label>
+  <GravshipLaunch.spectatorGerund>экипаж</GravshipLaunch.spectatorGerund>
+  <GravshipLaunch.spectatorsLabel>Экипаж</GravshipLaunch.spectatorsLabel>
+</LanguageData>

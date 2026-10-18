@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Make_StoneBlocksVacstone.label>изготовить блоки вакуумита</Make_StoneBlocksVacstone.label>
+  <Make_StoneBlocksVacstone.description>Распилить обломки вакуумита на блоки, пригодные для строительства.</Make_StoneBlocksVacstone.description>
+  <Make_StoneBlocksVacstone.jobString>Изготавливает блоки вакуумита</Make_StoneBlocksVacstone.jobString>
+</LanguageData>

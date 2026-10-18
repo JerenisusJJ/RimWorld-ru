@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BiosculpterOccupantSpeed.label>скорость цикла биоскульптинга</BiosculpterOccupantSpeed.label>
+  <BiosculpterOccupantSpeed.description>Множитель скорости прохождения цикла биоскульптинга данного человека.</BiosculpterOccupantSpeed.description>
+  <CertaintyLossFactor.label>общий показатель снижения уверенности</CertaintyLossFactor.label>
+  <CertaintyLossFactor.description>Множитель снижения уверенности человека в собственных убеждениях, когда кто-то пытается обратить его в другую идеолигию.</CertaintyLossFactor.description>
+  <ConversionPower.label>эффективность обращения</ConversionPower.label>
+  <ConversionPower.description>Насколько эффективно этот человек может обращать других в свою идеолигию. При попытке обращения утрачиваемая уверенность будет умножаться на данное значение.</ConversionPower.description>
+  <MeleeDodgeChanceIndoorsDarkOffset.label>шанс уворота врукопашную в тёмном помещении</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <MeleeDodgeChanceIndoorsDarkOffset.description>Модификатор шанса увернуться от удара в рукопашном бою в помещении в темноте.</MeleeDodgeChanceIndoorsDarkOffset.description>
+  <MeleeDodgeChanceIndoorsLitOffset.label>шанс уворота врукопашную в освещённом помещении</MeleeDodgeChanceIndoorsLitOffset.label>
+  <MeleeDodgeChanceIndoorsLitOffset.description>Модификатор шанса увернуться от удара в рукопашном бою в освещённом помещении.</MeleeDodgeChanceIndoorsLitOffset.description>
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>шанс уворота врукопашную снаружи ночью</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>Модификатор шанса увернуться от удара в рукопашном бою снаружи ночью.</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  <MeleeDodgeChanceOutdoorsLitOffset.label>шанс уворота врукопашную снаружи днём</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <MeleeDodgeChanceOutdoorsLitOffset.description>Модификатор шанса увернуться от удара в рукопашном бою снаружи днём.</MeleeDodgeChanceOutdoorsLitOffset.description>
+  <MeleeHitChanceIndoorsDarkOffset.label>шанс удара врукопашную в тёмном помещении</MeleeHitChanceIndoorsDarkOffset.label>
+  <MeleeHitChanceIndoorsDarkOffset.description>Модификатор шанса поразить цель в ближнем бою в помещении в темноте.</MeleeHitChanceIndoorsDarkOffset.description>
+  <MeleeHitChanceIndoorsLitOffset.label>шанс удара врукопашную в освещённом помещении</MeleeHitChanceIndoorsLitOffset.label>
+  <MeleeHitChanceIndoorsLitOffset.description>Модификатор шанса поразить цель в ближнем бою в помещении при свете.</MeleeHitChanceIndoorsLitOffset.description>
+  <MeleeHitChanceOutdoorsDarkOffset.label>шанс удара врукопашную снаружи ночью</MeleeHitChanceOutdoorsDarkOffset.label>
+  <MeleeHitChanceOutdoorsDarkOffset.description>Модификатор шанса поразить цель в ближнем бою снаружи в темноте.</MeleeHitChanceOutdoorsDarkOffset.description>
+  <MeleeHitChanceOutdoorsLitOffset.label>шанс удара врукопашную снаружи днём</MeleeHitChanceOutdoorsLitOffset.label>
+  <MeleeHitChanceOutdoorsLitOffset.description>Модификатор шанса поразить цель в ближнем бою снаружи днём.</MeleeHitChanceOutdoorsLitOffset.description>
+  <ShootingAccuracyIndoorsDarkOffset.label>точность стрельбы в тёмном помещении</ShootingAccuracyIndoorsDarkOffset.label>
+  <ShootingAccuracyIndoorsDarkOffset.description>Модификатор шанса поразить цель выстрелом, когда цель находится в помещении и в темноте.</ShootingAccuracyIndoorsDarkOffset.description>
+  <ShootingAccuracyIndoorsLitOffset.label>точность стрельбы в освещённом помещении</ShootingAccuracyIndoorsLitOffset.label>
+  <ShootingAccuracyIndoorsLitOffset.description>Модификатор шанса поразить цель выстрелом, когда цель находится в освещённом помещении.</ShootingAccuracyIndoorsLitOffset.description>
+  <ShootingAccuracyOutdoorsDarkOffset.label>точность стрельбы снаружи в темноте</ShootingAccuracyOutdoorsDarkOffset.label>
+  <ShootingAccuracyOutdoorsDarkOffset.description>Модификатор шанса поразить цель выстрелом, когда цель находится снаружи ночью.</ShootingAccuracyOutdoorsDarkOffset.description>
+  <ShootingAccuracyOutdoorsLitOffset.label>точность стрельбы снаружи</ShootingAccuracyOutdoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.description>Модификатор шанса поразить цель выстрелом, когда цель находится снаружи днём.</ShootingAccuracyOutdoorsLitOffset.description>
+  <SocialIdeoSpreadFrequencyFactor.label>шанс распространения идеолигии</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.description>Множитель шанса того, что этот человек будет пытаться обращать окружающих в свою идеолигию.</SocialIdeoSpreadFrequencyFactor.description>
+</LanguageData>

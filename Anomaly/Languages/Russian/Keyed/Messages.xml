@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MessageActivityRisingDamage>{0_definite} получает повреждения, активность возрастает.</MessageActivityRisingDamage>
+  <EntityDiedOnHoldingPlatform>{0_labelShort} погибает на фиксирующей платформе.</EntityDiedOnHoldingPlatform>
+  <MessageEntityDiscovered>Обнаружена новая тварь</MessageEntityDiscovered>
+  <MessageHateChantersAbsorbed>Сектанты в трансе и не реагируют на атаку.</MessageHateChantersAbsorbed>
+  <MessageHateChantIncreased>Гимн злобы становится громче.</MessageHateChantIncreased>
+  <SelfResurrectText>{0_nameDef} может воскресить себя по команде благодаря лекарству от смерти.</SelfResurrectText>
+  <MessageUsingSelfResurrection>{0_nameDef} воскрешает себя благодаря лекарству от смерти.</MessageUsingSelfResurrection>
+  <MessagePitGateCollapsed>Хтонические врата разрушились.</MessagePitGateCollapsed>
+  <MessagePitBurrowCollapsed>Хтоническая нора разрушилась.</MessagePitBurrowCollapsed>
+  <FleshmassContainedMessage>В мешке плоти что-то было.</FleshmassContainedMessage>
+  <MessagePsychicRitualAssault>{0_pawnsPluralDef} атакуют!</MessagePsychicRitualAssault>
+  <MessageAIPsychicRitualBegan>{FACTION_pawnsPluralDef} начинают псионический ритуал</MessageAIPsychicRitualBegan>
+  <MessageBiomutationLanceInvalidTargetRace>Неверная цель: {0_nameDef} не животное и не человек.</MessageBiomutationLanceInvalidTargetRace>
+  <MessageBiomutationLanceTargetTooBig>Неверная цель: {0_nameDef} слишком большого размера.</MessageBiomutationLanceTargetTooBig>
+  <MessageNoRoomWithMinimumContainmentStrength>Предупреждение: {0} может сбежать. У вас нет надёжных комнат для удержания этого существа.</MessageNoRoomWithMinimumContainmentStrength>
+  <MessageTargetBelowMinimumContainmentStrength>Предупреждение: {1} может сбежать. {0} не обладает минимальной прочностью для удержания этого существа.</MessageTargetBelowMinimumContainmentStrength>
+  <MessageHolderReserved>Перемещение не удалось: {0} используется кем-то другим.</MessageHolderReserved>
+  <MessageEntityExecuted>{EXECUTIONER_labelShort} совершает казнь: {VICTIM_kindIndef}.</MessageEntityExecuted>
+  <MessageOccupiedHoldingPlatformReinstalled>Предупреждение: переустановка занятой платформы освободит тварь. Сначала переместите её на другую платформу.</MessageOccupiedHoldingPlatformReinstalled>
+  <MessageOccupiedHoldingPlatformUninstalled>Предупреждение: демонтаж занятой платформы освободит тварь. Сначала переместите её на другую платформу.</MessageOccupiedHoldingPlatformUninstalled>
+  <MessageOccupiedHoldingPlatformDeconstructed>Предупреждение: разобрав занятую платформу, вы освободите тварь. Сначала переместите её на другую платформу.</MessageOccupiedHoldingPlatformDeconstructed>
+  <MessageHostileDuplicate>{0_nameDef} обзаводится враждебным двойником.</MessageHostileDuplicate>
+  <MessageProximityDetectorTriggered>Детектор приближения обнаруживает невидимое существо.</MessageProximityDetectorTriggered>
+  <MessagePawnAttackedInDarkness>{0_nameDef} попадает под атаку чего-то невидимого во тьме.</MessagePawnAttackedInDarkness>
+  <MessageRevenantForcedVisibility>Ревенант обнаружен!</MessageRevenantForcedVisibility>
+  <MessageRevenantHeard>{PAWN_nameDef} слышит, что ревенант {1} поблизости!</MessageRevenantHeard>
+  <MessageCannotUseOnNonBleeder>«{ABILITY_label}» нельзя использовать на существах, у которых не идёт кровь.</MessageCannotUseOnNonBleeder>
+  <MessageFingerspikeDisturbed>{WAKER_nameDef} {WAKER_gender ? потревожил : потревожила : потревожило} пальцешипа.</MessageFingerspikeDisturbed>
+  <MessageFingerspikeDisturbedPlural>{WAKER_nameDef} {WAKER_gender ? потревожил : потревожила : потревожило} нескольких пальцешипов.</MessageFingerspikeDisturbedPlural>
+  <DeathPallResurrectedMessage>Пелена смерти начала воскрешать трупы.</DeathPallResurrectedMessage>
+  <AbilityCannotCastHoraxian>{0_nameDef} чувствует непоколебимую уверенность.</AbilityCannotCastHoraxian>
+</LanguageData>

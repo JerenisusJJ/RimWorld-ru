@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Stat_Thing_MinimumRoyalTitle_Name>Минимальный титул ({FACTION_name})</Stat_Thing_MinimumRoyalTitle_Name>
+  <Stat_Thing_MinimumRoyalTitle_Desc>{FACTION_name} придерживается законов, запрещающих применение этого импланта лицам с определёнными титулами. Сам установленный имплант обнаружить невозможно, но при его использовании есть шанс, что его характерные признаки будут обнаружены. Это приведёт к нежелательным дипломатическим последствиям.</Stat_Thing_MinimumRoyalTitle_Desc>
+  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>{FACTION_name} придерживается законов, запрещающих применение этого оружия лицам с определёнными титулами. Каждый раз, когда вы будет применять это оружие, есть вероятность, что его характерные признаки будут обнаружены. Это приведёт к нежелательным дипломатическим последствиям.</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
+  <Stat_Thing_MinimumRoyalTitle_Level_Desc>Для каждого уровня улучшения этого импланта требуется определённый титул во фракции {FACTION_name}.</Stat_Thing_MinimumRoyalTitle_Level_Desc>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle>Максимальный титул</Stat_Thing_Apparel_MaxSatisfiedTitle>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>Наивысший знатный титул, требованиям которого удовлетворяет эта одежда.</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle>Максимальный титул</Stat_Thing_Ingestible_MaxSatisfiedTitle>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>Наивысший знатный титул, требованиям которого удовлетворяет эта еда.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_PersonaWeaponTrait_Label>Черты</Stat_Thing_PersonaWeaponTrait_Label>
+  <Stat_Thing_PersonaWeaponTrait_Desc>Индивидуальные черты этого оружия.</Stat_Thing_PersonaWeaponTrait_Desc>
+  <StatsReport_Pain>Множитель за боль</StatsReport_Pain>
+</LanguageData>

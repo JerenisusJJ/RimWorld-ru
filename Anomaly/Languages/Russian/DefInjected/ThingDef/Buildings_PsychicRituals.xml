@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PsychicRitualSpot.label>место для псионических ритуалов</PsychicRitualSpot.label>
+  <PsychicRitualSpot.description>Место для проведения псионических ритуалов. Вокруг него должно быть достаточно пространства.</PsychicRitualSpot.description>
+  <ShardBeacon.label>маяк из осколка</ShardBeacon.label>
+  <ShardBeacon.description>Тёмный архо-осколок, размещённый на биоферритовой подставке. Боферрит фокусирует осколок, что позволяет ему перенаправлять окружающие его пси-потоки. Псионические ритуалы, проведённые рядом с маяком, имеют большую эффективность.\n\nРитуал могут подпитывать до четырёх маяков.</ShardBeacon.description>
+  <VoidSculpture.label>скульптура пустоты</VoidSculpture.label>
+  <VoidSculpture.description>Жуткая скульптура из биоферрита, свойства которого повышают эффективность псионических ритуалов, проводимых поблизости.\n\nК одному месту для псионических ритуалов можно привязать до шести скульптур пустоты.</VoidSculpture.description>
+</LanguageData>

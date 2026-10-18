@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MessageMustBePlacedOnSubstructure>Необходимо разместить на надстройке гравикорабля.</MessageMustBePlacedOnSubstructure>
+  <MessageMustBePlacedInRangeOfGravEngineOrExtender>Необходимо разместить в радиусе гравидвигателя или расширителя гравитационного поля.</MessageMustBePlacedInRangeOfGravEngineOrExtender>
+  <MessageCannotPlaceUnderRockRoof>Нельзя размещать под каменными или горными крышами.</MessageCannotPlaceUnderRockRoof>
+  <MessageStabilizerDeactivated>{ACTIVATOR_labelShort} завершил взлом {SUBJECT_definite}.</MessageStabilizerDeactivated>
+  <MessageCannotPlaceOverSubstructure>Нельзя размещать на надстройке гравикорабля.</MessageCannotPlaceOverSubstructure>
+  <MessageSubstructureBlocked>Надстройка гравикорабля заблокирована.</MessageSubstructureBlocked>
+  <MessageMustBePlacedInRangeOfGravEngine>Необходимо разместить в радиусе гравидвигателя.</MessageMustBePlacedInRangeOfGravEngine>
+  <MessagePlantDiedOfRot_ExposedToVacuum>{0} погиб(ла) из-за воздействия вакуума.</MessagePlantDiedOfRot_ExposedToVacuum>
+  <AncientSmokeVentStartUp>Древние дымоотводы активировались, затмив небо.</AncientSmokeVentStartUp>
+  <AncientSmokeVentShutdown>Древние дымоотводы прекращают работу.</AncientSmokeVentShutdown>
+  <AncientToxVentStartUp>Древние газоотводы активировались, вызвав выпадение токсичных осадков.</AncientToxVentStartUp>
+  <AncientToxVentShutdown>Древние газоотводы прекращают работу.</AncientToxVentShutdown>
+  <AncientHeatVentStartUp>Древние теплоотводы активировались, повысив температуру.</AncientHeatVentStartUp>
+  <AncientHeatVentShutdown>Древние теплоотводы прекращают работу.</AncientHeatVentShutdown>
+  <CannotPlaceFishingZone>Необходимо разместить над водоемом, где есть рыба.</CannotPlaceFishingZone>
+  <MessageTrapSprung>Сработала ловушка: {TRAP_indefinite}.</MessageTrapSprung>
+  <GravshipReadyToLaunch>{0} снова готов к запуску.</GravshipReadyToLaunch>
+  <MessageOrbitalSignalDetected>Орбитальный сканер обнаружил сигнал и определяет его источник</MessageOrbitalSignalDetected>
+  <OrbitalScannerCompletesIn>завершается через {0}</OrbitalScannerCompletesIn>
+  <MessageTraderGaveQuest>Во время разговора с {TRADER_nameDef} {NEGOTIATOR_nameDef} узнал о новом задании: {0}</MessageTraderGaveQuest>
+  <MessageBookGaveQuest>Читая {BOOK_labelNoParenthesis}, {READER_nameDef} обнаружил задание: {0}</MessageBookGaveQuest>
+  <MessageConfirmLandingAreaFirst>Подтвердите зону посадки гравикорабля для продолжения.</MessageConfirmLandingAreaFirst>
+  <MessageNoLandingSiteSelected>Сначала выберите место посадки.</MessageNoLandingSiteSelected>
+  <CannotStoreThingOnTarget>Нельзя хранить {THING_labelShort} на {TARGET_indefinite}</CannotStoreThingOnTarget>
+</LanguageData>

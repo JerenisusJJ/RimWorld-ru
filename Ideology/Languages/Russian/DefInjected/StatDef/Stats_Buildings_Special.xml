@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BiosculpterPodSpeedFactor.label>множитель скорости биоскульптора</BiosculpterPodSpeedFactor.label>
+  <BiosculpterPodSpeedFactor.description>Множитель скорости работы биоскульптора. На него влияет чистота помещения: в более чистой комнате цикл биоскульптинга будет происходить быстрее.</BiosculpterPodSpeedFactor.description>
+  <BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>Чистота помещения</BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>
+</LanguageData>

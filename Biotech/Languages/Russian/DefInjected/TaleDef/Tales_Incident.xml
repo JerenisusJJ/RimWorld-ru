@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NoxiousHaze.label>кислотный смог</NoxiousHaze.label>
+  <NoxiousHaze.rulePack.rulesStrings>
+    <li>tale_noun-&gt;как [Community], где живёт [PAWN_nameDef], оказывается под кислотным смогом</li>
+    <li>tale_noun-&gt;как атмосфера в месте, где находится [Community] [PAWN_nameDef], становится ядовитой</li>
+    <li>image-&gt;, как небо принимает зловещие цвета, [circumstance_phrase]</li>
+    <li>image-&gt;, как воздух становится тяжёлым, [circumstance_phrase]</li>
+    <li>circumstance_phrase-&gt;убивая всё живое</li>
+    <li>circumstance_phrase-&gt;заволакивая всё вокруг ядовитой пеленой</li>
+    <li>circumstance_phrase-&gt;заставляя животных спасаться бегством</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] прячется у [TerrainFeature], имея [AdjectiveAngsty] вид.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] смотрит на это из-под повязки, обёрнутой вокруг [PAWN_possessive] лица.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] мёртвых [AnimalBadass_plural_gen] лежат на земле.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] умирающих [AnimalBadass_plural_gen] лежат на земле.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] задыхающихся [AnimalBadass_plural_gen] лежат на земле.</li>
+  </NoxiousHaze.rulePack.rulesStrings>
+</LanguageData>

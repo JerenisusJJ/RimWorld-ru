@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bulbfreak.label>бугрурод</Bulbfreak.label>
+  <Bulbfreak.corePart.parts.left_lung.customLabel>левое лёгкое</Bulbfreak.corePart.parts.left_lung.customLabel>
+  <Bulbfreak.corePart.parts.right_lung.customLabel>правое лёгкое</Bulbfreak.corePart.parts.right_lung.customLabel>
+  <Bulbfreak.corePart.parts.left_kidney.customLabel>левая почка</Bulbfreak.corePart.parts.left_kidney.customLabel>
+  <Bulbfreak.corePart.parts.right_kidney.customLabel>правая почка</Bulbfreak.corePart.parts.right_kidney.customLabel>
+  <Bulbfreak.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>левый глаз</Bulbfreak.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <Bulbfreak.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>правый глаз</Bulbfreak.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>
+  <Dreadmeld.label>жуткоплав</Dreadmeld.label>
+  <Dreadmeld.corePart.parts.left_lung.customLabel>левое лёгкое</Dreadmeld.corePart.parts.left_lung.customLabel>
+  <Dreadmeld.corePart.parts.right_lung.customLabel>правое лёгкое</Dreadmeld.corePart.parts.right_lung.customLabel>
+  <Dreadmeld.corePart.parts.left_kidney.customLabel>левая почка</Dreadmeld.corePart.parts.left_kidney.customLabel>
+  <Dreadmeld.corePart.parts.right_kidney.customLabel>правая почка</Dreadmeld.corePart.parts.right_kidney.customLabel>
+  <Dreadmeld.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>левый глаз</Dreadmeld.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <Dreadmeld.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>правый глаз</Dreadmeld.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>
+  <Dreadmeld.corePart.parts.FleshbeastHead.parts.right_spike.customLabel>правый шип</Dreadmeld.corePart.parts.FleshbeastHead.parts.right_spike.customLabel>
+  <Dreadmeld.corePart.parts.FleshbeastHead.parts.left_spike.customLabel>левый шип</Dreadmeld.corePart.parts.FleshbeastHead.parts.left_spike.customLabel>
+  <Fingerspike.label>пальцешип</Fingerspike.label>
+  <Fingerspike.corePart.parts.Spine.parts.back_spike.customLabel>задний шип</Fingerspike.corePart.parts.Spine.parts.back_spike.customLabel>
+  <Fingerspike.corePart.parts.left_lung.customLabel>левое лёгкое</Fingerspike.corePart.parts.left_lung.customLabel>
+  <Fingerspike.corePart.parts.right_lung.customLabel>правое лёгкое</Fingerspike.corePart.parts.right_lung.customLabel>
+  <Fingerspike.corePart.parts.left_kidney.customLabel>левая почка</Fingerspike.corePart.parts.left_kidney.customLabel>
+  <Fingerspike.corePart.parts.right_kidney.customLabel>правая почка</Fingerspike.corePart.parts.right_kidney.customLabel>
+  <Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>левый глаз</Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>правый глаз</Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>
+  <Fingerspike.corePart.parts.left_shoulder.customLabel>левое плечо</Fingerspike.corePart.parts.left_shoulder.customLabel>
+  <Fingerspike.corePart.parts.right_shoulder.customLabel>правое плечо</Fingerspike.corePart.parts.right_shoulder.customLabel>
+  <Fingerspike.corePart.parts.left_tentacle.customLabel>левое щупальце</Fingerspike.corePart.parts.left_tentacle.customLabel>
+  <Fingerspike.corePart.parts.right_tentacle.customLabel>правое щупальце</Fingerspike.corePart.parts.right_tentacle.customLabel>
+  <Toughspike.label>твёрдошип</Toughspike.label>
+  <Toughspike.corePart.parts.left_lung.customLabel>левое лёгкое</Toughspike.corePart.parts.left_lung.customLabel>
+  <Toughspike.corePart.parts.right_lung.customLabel>правое лёгкое</Toughspike.corePart.parts.right_lung.customLabel>
+  <Toughspike.corePart.parts.left_kidney.customLabel>левая почка</Toughspike.corePart.parts.left_kidney.customLabel>
+  <Toughspike.corePart.parts.right_kidney.customLabel>правая почка</Toughspike.corePart.parts.right_kidney.customLabel>
+  <Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>левый глаз</Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>правый глаз</Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>
+  <Toughspike.corePart.parts.left_shoulder.customLabel>левое плечо</Toughspike.corePart.parts.left_shoulder.customLabel>
+  <Toughspike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>шип на левой лапе</Toughspike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>
+  <Toughspike.corePart.parts.right_shoulder.customLabel>правое плечо</Toughspike.corePart.parts.right_shoulder.customLabel>
+  <Toughspike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>шип на правой лапе</Toughspike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>
+  <Toughspike.corePart.parts.left_tentacle.customLabel>левое щупальце</Toughspike.corePart.parts.left_tentacle.customLabel>
+  <Toughspike.corePart.parts.right_tentacle.customLabel>правое щупальце</Toughspike.corePart.parts.right_tentacle.customLabel>
+  <Trispike.label>троешип</Trispike.label>
+  <Trispike.corePart.parts.Spine.parts.back_spike.customLabel>задний шип</Trispike.corePart.parts.Spine.parts.back_spike.customLabel>
+  <Trispike.corePart.parts.left_lung.customLabel>левое лёгкое</Trispike.corePart.parts.left_lung.customLabel>
+  <Trispike.corePart.parts.right_lung.customLabel>правое лёгкое</Trispike.corePart.parts.right_lung.customLabel>
+  <Trispike.corePart.parts.left_kidney.customLabel>левая почка</Trispike.corePart.parts.left_kidney.customLabel>
+  <Trispike.corePart.parts.right_kidney.customLabel>правая почка</Trispike.corePart.parts.right_kidney.customLabel>
+  <Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>левый глаз</Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>правый глаз</Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>
+  <Trispike.corePart.parts.left_shoulder.customLabel>левое плечо</Trispike.corePart.parts.left_shoulder.customLabel>
+  <Trispike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>шип на левой лапе</Trispike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>
+  <Trispike.corePart.parts.right_shoulder.customLabel>правое плечо</Trispike.corePart.parts.right_shoulder.customLabel>
+  <Trispike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>шип на правой лапе</Trispike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>
+  <Trispike.corePart.parts.left_tentacle.customLabel>левое щупальце</Trispike.corePart.parts.left_tentacle.customLabel>
+  <Trispike.corePart.parts.right_tentacle.customLabel>правое щупальце</Trispike.corePart.parts.right_tentacle.customLabel>
+</LanguageData>

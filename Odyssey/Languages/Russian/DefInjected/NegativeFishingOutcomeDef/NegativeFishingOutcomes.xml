@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CatfishEscape.letterLabel>сом ушел</CatfishEscape.letterLabel>
+  <CatfishEscape.letterText>Попытка поймать сома закончилась тем, что {PAWN_nameDef} оступился и упустил скользкую рыбу в мутной воде.</CatfishEscape.letterText>
+  <CatfishSpine.letterLabel>шип сома</CatfishSpine.letterLabel>
+  <CatfishSpine.letterText>Пока {PAWN_nameDef} возился с сомом, то укололся об один из ядовитых шипов на спине, поэтому {PAWN_objective} уронил рыбу.</CatfishSpine.letterText>
+  <DogfishBite.letterLabel>укус катрана</DogfishBite.letterLabel>
+  <DogfishBite.letterText>Пока {PAWN_nameDef} вытаскивал катрана, его укусили.\n\nРыбе удалось сбежать.</DogfishBite.letterText>
+  <DogfishEscape.letterLabel>катран ушел</DogfishEscape.letterLabel>
+  <DogfishEscape.letterText>Пока {PAWN_nameDef} вытаскивал катрана, буйная рыба едва не укусила его.\n\nВ суматохе рыба сбежала.</DogfishEscape.letterText>
+  <FrostfishAttack.letterLabel>летающая ледяная рыба</FrostfishAttack.letterLabel>
+  <FrostfishAttack.letterText>Пока {PAWN_nameDef} рыбачил, в него вдруг врезалась выскочившая из воды ледяная рыба. Из-за этого {PAWN_objective} потерял свой улов {PAWN_possessive}.</FrostfishAttack.letterText>
+  <GuppyEscape.letterLabel>гуппи ушла</GuppyEscape.letterLabel>
+  <GuppyEscape.letterText>Пытаясь поймать гуппи, {PAWN_nameDef} не удержал маленькую скользкую рыбку, и та сбежала.</GuppyEscape.letterText>
+  <MarlinAttack.letterLabel>атака марлина</MarlinAttack.letterLabel>
+  <MarlinAttack.letterText>Пока {PAWN_nameDef} рыбачил, на него напал гигантский марлин и пронзил своим копьеобразным рылом. Рыба сбежала.</MarlinAttack.letterText>
+  <MarlinEscape.letterLabel>гигантская рыба</MarlinEscape.letterLabel>
+  <MarlinEscape.letterText>Пока {PAWN_nameDef} рыбачил, он заметил тень огромной рыбы под водой. Тень испугала {PAWN_nameDef}, и {PAWN_objective} потерял свой улов {PAWN_possessive}.</MarlinEscape.letterText>
+  <PiranhaAttack.letterLabel>атака пираньи</PiranhaAttack.letterLabel>
+  <PiranhaAttack.letterText>Пока {PAWN_nameDef} рыбачил, он подошел слишком близко к воде и был атакован разъяренной стаей пираний!\n\nРыбе удалось сбежать.</PiranhaAttack.letterText>
+  <PiranhaBite.letterLabel>укус пираньи</PiranhaBite.letterLabel>
+  <PiranhaBite.letterText>Пока {PAWN_nameDef} рыбачил, он подошел слишком близко к воде и был укушен пираньей!\n\nРыба сбежала.</PiranhaBite.letterText>
+  <TunaEscape.letterLabel>тунец ушел</TunaEscape.letterLabel>
+  <TunaEscape.letterText>Пока {PAWN_nameDef} пытался вытащить тунца, леска порвалась, и {PAWN_objective} потерял улов.</TunaEscape.letterText>
+</LanguageData>

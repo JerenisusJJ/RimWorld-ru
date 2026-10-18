@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Pain_Idealized.stages.minor_pain.label>лёгкая боль</Pain_Idealized.stages.minor_pain.label>
+  <Pain_Idealized.stages.minor_pain.description>Боль приземляет меня. Я ценю это.</Pain_Idealized.stages.minor_pain.description>
+  <Pain_Idealized.stages.serious_pain.label>средняя боль</Pain_Idealized.stages.serious_pain.label>
+  <Pain_Idealized.stages.serious_pain.description>Боль очищает меня. Мне это нравится.</Pain_Idealized.stages.serious_pain.description>
+  <Pain_Idealized.stages.intense_pain.label>сильная боль</Pain_Idealized.stages.intense_pain.label>
+  <Pain_Idealized.stages.intense_pain.description>Боль очищает меня. Я хочу этого!</Pain_Idealized.stages.intense_pain.description>
+  <Pain_Idealized.stages.mindshattering_pain.label>адская боль</Pain_Idealized.stages.mindshattering_pain.label>
+  <Pain_Idealized.stages.mindshattering_pain.description>Боль превозносит меня! Я хочу стать ей!</Pain_Idealized.stages.mindshattering_pain.description>
+</LanguageData>

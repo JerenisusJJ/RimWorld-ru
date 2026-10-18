@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>dangersDescription(priority=1)-&gt;\n\nВ этих капсулах находятся:\n\n[allThreats]</li>
+    <li>dangersDescription-&gt;</li>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_faction_leaderTitle] [asker_nameDef], лидер фракции [asker_faction_name], просит об одолжении. [commonMainPart]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_royalTitleInCurrentFaction] [asker_nameFull] из фракции [asker_faction_name] просит об одолжении. [commonMainPart]</li>
+    <li>commonMainPart-&gt;Механоиды нападают на [asker_possessive] поселения. [asker_pronoun] хочет, чтобы вы отвлекли сигналом часть механоидов на себя, пока [asker_pronoun] будет разбираться с оставшейся частью роя. Если вы примете задание, в [map_definite] десантируется (*Threat)кластер механоидов(/Threat).[dangersDescription]\n\nКластер механоидов изначально будет неактивным. Он может оставаться неактивным, пока его не потревожат или не сработает таймер.[helpersParagraph]</li>
+  </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+    <li>questName-&gt;[dangerous_masc] кластер механоидов</li>
+    <li>questName-&gt;[dangerous_plural] механоиды</li>
+    <li>questName-&gt;[nameBased]</li>
+    <li>nameBased-&gt;Механоиды у [asker_nameDef]</li>
+    <li>nameBased-&gt;Кластер механоидов у [asker_nameDef]</li>
+    <li>nameBased-&gt;[menace] механоидов у [asker_nameDef]</li>
+    <li>dangerous_masc-&gt;опасный</li>
+    <li>dangerous_masc-&gt;угрожающий</li>
+    <li>dangerous_masc-&gt;ужасный</li>
+    <li>dangerous_masc-&gt;пугающий</li>
+    <li>dangerous_plural-&gt;опасные</li>
+    <li>dangerous_plural-&gt;угрожающие</li>
+    <li>dangerous_plural-&gt;ужасные</li>
+    <li>dangerous_plural-&gt;пугающие</li>
+    <li>menace-&gt;опасность</li>
+    <li>menace-&gt;угроза</li>
+  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apparel_Bandolier.label>тяжёлый патронташ</Apparel_Bandolier.label>
+  <Apparel_Bandolier.description>Тяжёлый наплечный ремень для быстрого доступа к патронам, гранатам, стрелам или любым другим боеприпасам. Сокращает время перезарядки оружия. Из-за громоздкости патронташ нельзя носить под верхней одеждой, однако он не закрывает тело, поэтому его с удовольствием носят нудисты и иттакины.</Apparel_Bandolier.description>
+  <Apparel_MechlordSuit.label>костюм мехлорда</Apparel_MechlordSuit.label>
+  <Apparel_MechlordSuit.description>Силовой бронекостюм, оснащённый вспомогательным оборудованием для механиторов. Костюм мехлорда значительно увеличивает пропускную способность механитора, однако защищает хуже, чем специализированная тяжёлая броня.</Apparel_MechlordSuit.description>
+  <Apparel_Sash.label>пе́ревязь</Apparel_Sash.label>
+  <Apparel_Sash.description>Длинная полоска из ткани или кожи, носимая через плечо. Обеспечивает минимальную защиту от жары, холода и урона. Нудисты не жалуются на ношение пе́ревязи благодаря её минимализму.</Apparel_Sash.description>
+</LanguageData>

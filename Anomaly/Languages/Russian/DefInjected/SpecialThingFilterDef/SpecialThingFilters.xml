@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AllowAnomalyResearch.label>исследование аномалий</AllowAnomalyResearch.label>
+  <AllowAnomalyResearch.description>Разрешить книги, продвигающие исследование аномалий.</AllowAnomalyResearch.description>
+  <AllowCorpsesUnnatural.label>разрешить странных мертвецов</AllowCorpsesUnnatural.label>
+  <AllowCorpsesUnnatural.description>Разрешить странных и неестественных мертвецов.</AllowCorpsesUnnatural.description>
+</LanguageData>

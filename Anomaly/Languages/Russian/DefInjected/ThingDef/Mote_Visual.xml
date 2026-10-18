@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AtmosphericHeaterGlowingVents.label>Частица</AtmosphericHeaterGlowingVents.label>
+  <BiomutationWarmup.label>Частица</BiomutationWarmup.label>
+  <MetalHellFog.label>Частица</MetalHellFog.label>
+  <MetalHellFogHigh.label>Частица</MetalHellFogHigh.label>
+  <Mote_AbductWarmupDistortionRing.label>Частица</Mote_AbductWarmupDistortionRing.label>
+  <Mote_AbductWarmupDistortionRingBuilding.label>Частица</Mote_AbductWarmupDistortionRingBuilding.label>
+  <Mote_ActivatedVoidStructure.label>Частица</Mote_ActivatedVoidStructure.label>
+  <Mote_BioFerriteHarvested.label>Частица</Mote_BioFerriteHarvested.label>
+  <Mote_ChargingElectroCables.label>Частица</Mote_ChargingElectroCables.label>
+  <Mote_Clipboard.label>Частица</Mote_Clipboard.label>
+  <Mote_DistortionPulse.label>Частица</Mote_DistortionPulse.label>
+  <Mote_FleshmelterBolt_Aim.label>Частица</Mote_FleshmelterBolt_Aim.label>
+  <Mote_FleshmelterBolt_Charge.label>Частица</Mote_FleshmelterBolt_Charge.label>
+  <Mote_FleshmelterBolt_Target.label>Частица</Mote_FleshmelterBolt_Target.label>
+  <Mote_HarbingerTreeRoots.label>Частица</Mote_HarbingerTreeRoots.label>
+  <Mote_HateChantCall.label>Частица</Mote_HateChantCall.label>
+  <Mote_HateChantShadow.label>Частица</Mote_HateChantShadow.label>
+  <Mote_HoraxHugeSpellWarmup.label>Частица</Mote_HoraxHugeSpellWarmup.label>
+  <Mote_HoraxSmallSpellWarmup.label>Частица</Mote_HoraxSmallSpellWarmup.label>
+  <Mote_IncineratorBurst.label>Частица</Mote_IncineratorBurst.label>
+  <Mote_MeatExplosionFlyingPiece.label>Частица</Mote_MeatExplosionFlyingPiece.label>
+  <Mote_MeatExplosionFlyingPieceOverloaded.label>Частица</Mote_MeatExplosionFlyingPieceOverloaded.label>
+  <Mote_MeatExplosionFlyingSplatter.label>Частица</Mote_MeatExplosionFlyingSplatter.label>
+  <Mote_MeatExplosionMist.label>Частица</Mote_MeatExplosionMist.label>
+  <Mote_NoctolEyes.label>Частица</Mote_NoctolEyes.label>
+  <Mote_ObeliskExplosionWarmupArea.label>Частица</Mote_ObeliskExplosionWarmupArea.label>
+  <Mote_PsychicBanshee.label>Частица</Mote_PsychicBanshee.label>
+  <Mote_PsychicDistortionRingContractingQuick.label>Частица</Mote_PsychicDistortionRingContractingQuick.label>
+  <Mote_PsychicRitualInvocation.label>Частица</Mote_PsychicRitualInvocation.label>
+  <Mote_RitualCandleA.label>Частица</Mote_RitualCandleA.label>
+  <Mote_RitualCandleB.label>Частица</Mote_RitualCandleB.label>
+  <Mote_RitualCandleC.label>Частица</Mote_RitualCandleC.label>
+  <Mote_ShamblerRaiseMist.label>Частица</Mote_ShamblerRaiseMist.label>
+  <Mote_SparkSimple.label>Частица</Mote_SparkSimple.label>
+  <Mote_VoidNode.label>Частица</Mote_VoidNode.label>
+  <TachycardiacArrestExplosion.label>Частица</TachycardiacArrestExplosion.label>
+  <VoidNodeCore_DustA.label>Частица</VoidNodeCore_DustA.label>
+  <VoidNodeCore_DustB.label>Частица</VoidNodeCore_DustB.label>
+  <VoidNodeDistortion.label>Частица</VoidNodeDistortion.label>
+</LanguageData>

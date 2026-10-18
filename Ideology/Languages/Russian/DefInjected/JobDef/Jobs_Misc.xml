@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ActivateArchonexusCore.reportString>пробуждает архотека</ActivateArchonexusCore.reportString>
+  <Blind.reportString>ослепляет TargetA</Blind.reportString>
+  <CarryToBiosculpterPod.reportString>несёт TargetA в биоскульптор</CarryToBiosculpterPod.reportString>
+  <DeliverToAltar.reportString>несёт TargetA к алтарю</DeliverToAltar.reportString>
+  <DyeHair.reportString>красит волосы</DyeHair.reportString>
+  <EnterBiosculpterPod.reportString>заходит в биоскульптор</EnterBiosculpterPod.reportString>
+  <ExtractRelic.reportString>извлекает «TargetB» из TargetA</ExtractRelic.reportString>
+  <ExtractToInventory.reportString>извлекает TargetB</ExtractToInventory.reportString>
+  <GetNeuralSupercharge.reportString>получает нейростимуляцию от TargetA</GetNeuralSupercharge.reportString>
+  <GiveToPawn.reportString>даёт TargetA TargetB</GiveToPawn.reportString>
+  <InduceSlaveToRebel.reportString>побуждает TargetA к восстанию</InduceSlaveToRebel.reportString>
+  <InstallRelic.reportString>устанавливает «TargetA» в TargetB</InstallRelic.reportString>
+  <MeditatePray.reportString>молится</MeditatePray.reportString>
+  <OpenStylingStationDialog.reportString>меняет облик у TargetA</OpenStylingStationDialog.reportString>
+  <RecolorApparel.reportString>красит одежду</RecolorApparel.reportString>
+  <Sacrifice.reportString>приносит в жертву TargetA</Sacrifice.reportString>
+  <Scarify.reportString>шрамирует TargetA</Scarify.reportString>
+  <UseStylingStation.reportString>меняет облик у TargetA</UseStylingStation.reportString>
+  <UseStylingStationAutomatic.reportString>меняет облик у TargetA</UseStylingStationAutomatic.reportString>
+</LanguageData>

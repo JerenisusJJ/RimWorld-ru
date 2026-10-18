@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <StatsReport_GravshipRangeOffset>Дальность гравикорабля</StatsReport_GravshipRangeOffset>
+  <StatsReport_GravshipRangeOffset_Desc>Насколько дальше гравикорабль может путешествовать по мировой карте благодаря этой постройке.</StatsReport_GravshipRangeOffset_Desc>
+  <StatsReport_GravshipFuelSavings>Экономия топлива</StatsReport_GravshipFuelSavings>
+  <StatsReport_GravshipFuelSavings_Desc>На сколько эта постройка уменьшает расход топлива для путешествий на гравикорабле.</StatsReport_GravshipFuelSavings_Desc>
+  <StatsReport_GravEngineFuelConsumption>Потребление топлива</StatsReport_GravEngineFuelConsumption>
+  <StatsReport_GravEngineFuelConsumption_Desc>Множитель, определяющий, сколько топлива требуется во время путешествия на гравикорабле.</StatsReport_GravEngineFuelConsumption_Desc>
+  <Stat_ThingUniqueWeaponTrait_Label>Свойства</Stat_ThingUniqueWeaponTrait_Label>
+  <Stat_ThingUniqueWeaponTrait_Desc>Индивидуальные свойства этого оружия.</Stat_ThingUniqueWeaponTrait_Desc>
+  <StatsReport_WeaponTraits>Свойства оружия</StatsReport_WeaponTraits>
+  <StatsReport_BurstShotCountMultiplier>Множитель количества выстрелов очередью</StatsReport_BurstShotCountMultiplier>
+  <StatsReport_BurstShotSpeedMultiplier>Множитель скорости очереди</StatsReport_BurstShotSpeedMultiplier>
+  <StatsReport_AdditionalStoppingPower>Дополнительная останавливающая сила</StatsReport_AdditionalStoppingPower>
+  <Stat_Airtight>Герметичность</Stat_Airtight>
+  <Stat_Airtight_Desc>Герметичные стены предотвращают разгерметизацию помещений в условиях вакуума.</Stat_Airtight_Desc>
+  <ContainedApparelBeauty>Красота одежды</ContainedApparelBeauty>
+  <StatsReport_SentienceCatalystInstalled>Катализатор разума установлен.</StatsReport_SentienceCatalystInstalled>
+</LanguageData>

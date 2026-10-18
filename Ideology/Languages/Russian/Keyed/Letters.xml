@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LetterLabelConvertIdeoAttempt_Success>Обращение</LetterLabelConvertIdeoAttempt_Success>
+  <LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef} успешно {INITIATOR_gender ? обратил : обратила : обратило} {RECIPIENT_nameDef} из {OLDIDEO_name} в {IDEO_name}.</LetterConvertIdeoAttempt_Success>
+  <LetterLabelGrandSlaveRebellion>Массовое восстание рабов</LetterLabelGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>Началось массовое восстание рабов! Всё ваши рабы поднимаются на борьбу с вами. Они будут искать оружие и постараются убить ваших поселенцев.\n\nБунтуют эти рабы:\n\n{0}</LetterGrandSlaveRebellion>
+  <LetterLabelLocalSlaveRebellion>Восстание рабов</LetterLabelLocalSlaveRebellion>
+  <LetterLocalSlaveRebellion>Началось восстание рабов! {0_nameDef} и несколько других рабов поднимаются на борьбу с вами. Они будут искать оружие и постараются убить ваших поселенцев.\n\nБунтуют эти рабы:\n\n{1}</LetterLocalSlaveRebellion>
+  <LetterLabelSingleSlaveRebellion>Восстание раба</LetterLabelSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>{0_nameDef} восстал против вас! {0_pronoun} будет искать оружие и постарается убить ваших поселенцев.</LetterSingleSlaveRebellion>
+  <LetterLabelGrandSlaveEscape>Массовый побег рабов</LetterLabelGrandSlaveEscape>
+  <LetterGrandSlaveEscape>Начался массовый побег рабов! Всё ваши рабы изо всех сил постараются сбежать.\n\nБегут эти рабы:\n\n{0}</LetterGrandSlaveEscape>
+  <LetterLabelLocalSlaveEscape>Побег рабов</LetterLabelLocalSlaveEscape>
+  <LetterLocalSlaveEscape>Начался побег рабов! {0_nameDef} и несколько других рабов изо всех сил постараются сбежать.\n\nБегут эти рабы:\n\n{1}</LetterLocalSlaveEscape>
+  <LetterLabelSingleSlaveEscape>Побег раба</LetterLabelSingleSlaveEscape>
+  <LetterSingleSlaveEscape>{0_nameDef} пытается сбежать!</LetterSingleSlaveEscape>
+  <SlaveRebellionSuppressionExplanation>Рабы с большей вероятностью начнут восстание, если их уровень подавленности низкий.</SlaveRebellionSuppressionExplanation>
+  <LetterLabelRoleActive>Роль {0} доступна</LetterLabelRoleActive>
+  <LetterLabelRoleActiveDesc>Количество {0} достигло {1}. Теперь вы можете назначить одному из своих поселенцев роль {ROLE_labelDef}.\n\nЧтобы назначить роль, перейдите в его вкладку «Социум» или выберите ритуальное место или алтарь и нажмите кнопку «Начать смену роли».</LetterLabelRoleActiveDesc>
+  <LetterLabelRoleInactive>Роль {0} недоступна</LetterLabelRoleInactive>
+  <LetterLabelRoleInactiveDesc>Количество {0} снизилось до {1}. Роль {ROLE_labelDef} больше не доступна. Она снова станет доступной, когда число {0} достигнет {2}.</LetterLabelRoleInactiveDesc>
+  <LetterLabelRoleLost>{PAWN_labelShort} {PAWN_gender ? потерял : потеряла : потеряло} роль {ROLE_labelIndef}</LetterLabelRoleLost>
+  <LetterRoleLostDesc>{PAWN_labelShort} больше не занимает роль {ROLE_labelIndef}. Причина:</LetterRoleLostDesc>
+  <LetterRoleLostReasonUnassignedDesc>{PAWN_possessive} сняли с роли.</LetterRoleLostReasonUnassignedDesc>
+  <LetterRoleLostReasonLowBelieversDesc>Роль стала недоступной из-за малого числа {0}.</LetterRoleLostReasonLowBelieversDesc>
+  <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} {PAWN_gender ? потерял : потеряла : потеряло} свою роль {ROLE_labelDef}, потому что {PAWN_gender ? отрёкся : отреклась : отрёкся} от {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
+  <LetterObligationRoleInactive>{0} пропущено</LetterObligationRoleInactive>
+  <LetterObligationRoleInactiveDateDesc>{0} — день, в который происходит {1}, но так как роль {ROLE_labelDef} недоступна, {2} пропустят {1}.</LetterObligationRoleInactiveDateDesc>
+  <LetterSpeechConvertedListeners>После {PAWN_possessive} речи следующие персонажи приняли {IDEO}</LetterSpeechConvertedListeners>
+  <LetterTitleObligationsActivated>{0}: ритуалы доступны</LetterTitleObligationsActivated>
+  <LetterTitleObligationsDeactivated>{0}: ритуалы недоступны</LetterTitleObligationsDeactivated>
+  <LetterTitleObligationsDeactivatedTooFewBelievers>В вашей фракции на данный момент меньше {1} {IDEO_memberNamePlural}. Следовательно, {IDEO_memberNamePlural} не будут требовать проведения ритуалов {IDEO}, пока их в вашей фракции не будет как минимум {1}.</LetterTitleObligationsDeactivatedTooFewBelievers>
+  <LetterTitleObligationsActivatedEnoughBelievers>Так как в вашей фракции уже {1} {IDEO_memberNamePlural}, они не будут требовать проведения ритуалов {IDEO}.</LetterTitleObligationsActivatedEnoughBelievers>
+  <LetterTitleObligationsActivatedIdeoBecameMajor>Так как {IDEO} — основная идеолигия вашей фракции, {IDEO_memberNamePlural} будут требовать проведения ритуалов {IDEO}.</LetterTitleObligationsActivatedIdeoBecameMajor>
+  <LetterBondRemoved>Привязанность пропала</LetterBondRemoved>
+  <LetterBondRemovedDesc>{PAWN_nameDef} {PAWN_gender ? принял : приняла : приняло} {IDEO}. Так как в {IDEO} не одобряется привязанность к питомцам, {PAWN_pronoun} отрекается от следующих животных:\n\n{BONDS}</LetterBondRemovedDesc>
+  <LetterLabelEnslavementSuccess>Порабощение</LetterLabelEnslavementSuccess>
+  <LetterEnslavementSuccess>{0_nameDef} успешно {0_gender ? обратил : обратила : обратило} {1_nameDef} в рабство.</LetterEnslavementSuccess>
+  <LetterLabelNewPrimaryIdeo>Основная идеолигия изменена</LetterLabelNewPrimaryIdeo>
+  <LetterNewPrimaryIdeo>Основная идеолигия вашей фракции сменилась с {OLDIDEO_name} на {NEWIDEO_name}.\n\nЭто произошло из-за того, что {NEWIDEO_name} теперь больше преобладает среди ваших {FACTION_pawnsPlural}, чем какая-либо другая идеолигия.\n\nСхожесть вашей основной идеолигии с идеолигиями других фракций влияет на отношения между вами.</LetterNewPrimaryIdeo>
+  <JoinerCharityInfo>Это акт милосердия. Если вы не примете {0}, последователи с милосердными убеждениями будут недовольны.</JoinerCharityInfo>
+  <AfflictedJoinerChartityInfo>Это акт милосердия. Если {0} умрёт, не получив уход (и после {1}), последователи с милосердными убеждениями будут недовольны. Если {0} получит уход или присоединится к поселению, последователи будут довольны.</AfflictedJoinerChartityInfo>
+  <PawnsHaveCharitableBeliefs>У следующих последователей есть милосердные убеждения</PawnsHaveCharitableBeliefs>
+  <LetterIdeoChangeConverted>{PAWN_pronoun} {PAWN_gender ? решил : решила : решило}, что её прежние убеждения больше не имеют смысла.\n\n{PAWN_pronoun} {PAWN_gender ? отрёкся : отреклась : отрёкся} от {OLDIDEO_name} и теперь живёт по принципам {NEWIDEO_name}.</LetterIdeoChangeConverted>
+  <LetterIdeoChangeNotConverted>Убеждённость {PAWN_nameDef} в {OLDIDEO_name} уменьшилась до {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangedWanderOwnRoom>Чтобы разобраться в своих убеждениях, {PAWN_nameDef} прячется в своей комнате.</LetterIdeoChangedWanderOwnRoom>
+  <LetterIdeoChangedSadWander>{PAWN_nameDef} потрясённо бродит, пытаясь разобраться в своих убеждения.</LetterIdeoChangedSadWander>
+  <LetterIdeoChangedDivorce>Развод</LetterIdeoChangedDivorce>
+  <LetterIdeoChangedDivorcedPawns>Новые убеждения {PAWN_nameDef} не позволяют иметь такое количество брачных партнёров.\n\n{PAWN_nameDef} разводится со следующими людьми:\n{1}</LetterIdeoChangedDivorcedPawns>
+  <LetterLabelSurpriseReinforcements>Подкрепления!</LetterLabelSurpriseReinforcements>
+  <LetterSurpriseReinforcements>Прибыли подкрепления из {1}! Они спешат на помощь {0}.</LetterSurpriseReinforcements>
+  <LetterWantLookChange>Требуется смена облика</LetterWantLookChange>
+  <LetterWantLookChangeDesc>{PAWN_nameDef} хочет сменить свой внешний вид, так как он больше не соответствует {PAWN_possessive} убеждениям.\n\n{PAWN_pronoun} самостоятельно воспользуется доступным туалетным столиком и выберет себе новую внешность. Если вы хотите сделать это за н{PAWN_possessive}, выберите {PAWN_possessive} и нажмите правой кнопкой мыши по туалетному столику.</LetterWantLookChangeDesc>
+  <LetterLabelSpacedroneIncoming>Приближается космический дрон</LetterLabelSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>Космический дрон приземляется поблизости.</LetterTextSpacedroneIncoming>
+  <LetterTextRaidSpacedrone>Налётчики из фракции {0} прибыли, чтобы уничтожить {lookup: {1}; Case; 3}, приземлившийся неподалёку.</LetterTextRaidSpacedrone>
+  <LetterTextSpacedroneHacked>Вы успешно взломали {lookup: {0}; Case; 3} и узнали местонахождение древней реликвии, известной как «{1}».</LetterTextSpacedroneHacked>
+  <LetterLabelRelicDestroyed>Реликвия уничтожена</LetterLabelRelicDestroyed>
+  <LetterTextRelicDestroyed>Реликвия «{0}» уничтожена!\n\nУ следующих персонажей ухудшится настроение:\n{1}</LetterTextRelicDestroyed>
+  <LetterLabelRelicLost>Реликвия потеряна</LetterLabelRelicLost>
+  <LetterTextRelicLost>Реликвия «{0}» потеряна!\n\nУ следующих персонажей ухудшится настроение:\n{1}</LetterTextRelicLost>
+  <LetterOnlySlaveCaravanColonistsLeft>Всё непорабощённые участники {0} погибли. Оставшиеся рабы ушли своей дорогой. Караван прекратил своё существование.</LetterOnlySlaveCaravanColonistsLeft>
+  <LetterLabelLastHackerLost>Последний хакер потерян</LetterLabelLastHackerLost>
+  <LetterTextLastHackerLost>Последний хакер, способный раскрыть секреты древнего комплекса, потерян. Вызовите подкрепления с другим хакером или откажитесь от задания.</LetterTextLastHackerLost>
+  <LetterLabelRelicFound>Реликвия найдена</LetterLabelRelicFound>
+  <LetterTextRelicFoundLocation>Вы наконец-то узнали местонахождение реликвии «{0}»!</LetterTextRelicFoundLocation>
+  <LetterTextRelicFoundSecurityThreats>Реликвия находится в древнем сооружении. Оно защищено охранной системой, состоящей из нескольких независимых элементов. Вы можете последовательно разобраться со всей охранной системой, перед тем как забрать реликвию, или попытаться убежать с ней прежде, чем вам смогут навредить.\n\nЧерез {0} вся охранная система активируется.</LetterTextRelicFoundSecurityThreats>
+  <LetterLabelRelicsCollected>Коллекция собрана</LetterLabelRelicsCollected>
+  <LetterTextRelicsCollected>Всё реликвии идеолигии {0} были собраны. Эти люди — в восторге</LetterTextRelicsCollected>
+  <LetterTextRelicsCollectedClassic>Вы собрали всё известные реликвии этого мира. Эти люди — в восторге</LetterTextRelicsCollectedClassic>
+  <LetterLabelPawnConnected>Связь с {lookup: {TREE_label}; Case; 4}</LetterLabelPawnConnected>
+  <LetterTextPawnConnected>{CONNECTOR_nameDef} {CONNECTOR_gender ? сформировал : сформировала : сформировало} связь с {lookup: {TREE_definite}; Case; 4}.\n\n{TREE_definite} будет производить маленьких существ, называемых дриадами, выращивая их в капсулах у своего основания. Дриады могут принадлежать разным кастам. Вы можете выбрать, дриад какой касты будет производить древо.\n\nЧем сильнее связь между древом и человеком, тем больше дриад {TREE_definite} сможет одновременно поддерживать. {CONNECTOR_nameDef} может усилить связь, остригая {lookup: {TREE_definite}; Case; 3}. Сильная связь требует регулярного остригания.</LetterTextPawnConnected>
+  <LetterLabelConnectedTreeDestroyed>Связанное древо {TREE_label} уничтожено</LetterLabelConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>{TREE_label}, связанное с {CONNECTEDPAWN_nameDef}, было уничтожено. Королева дриад, находившаяся внутри, погибла.\n\nСо смертью королевы погиб коллективный разум дриад, а с ним и всё дриады.</LetterTextConnectedTreeDestroyed>
+  <LetterLabelArchonexusWealthReached>Задание «{0}» доступно</LetterLabelArchonexusWealthReached>
+  <LetterTextArchonexusWealthReached>Вы достигли необходимого уровня богатства. Теперь вы можете принять задание «{0}».</LetterTextArchonexusWealthReached>
+  <LetterLabelArchonexusStructureResearched>{0_labelShort} {0_gender ? изучен : изучена : изучено}</LetterLabelArchonexusStructureResearched>
+  <LetterTextArchonexusStructureResearched>Вы изучили {lookup: {0_labelShort}; Case; 3}.\n\nНельзя сказать, что вы досконально понимаете, как {0_pronoun} работает, но вам удалось распознать некоторые закономерности, в которых крылась нужная информация.\n\nНовые данные позволят вам расшифровать следующий фрагмент карты архонексуса.</LetterTextArchonexusStructureResearched>
+  <LetterLabelArchotechStructuresAbandoned>Сооружения архотеков покинуты</LetterLabelArchotechStructuresAbandoned>
+  <LetterTextArchotechStructuresAbandoned>Вы покинули сооружения архотеков в {0_definite}.\n\nЛюди в округе говорят, что видели яркую вспышку в этих местах вскоре после того, как вы ушли.</LetterTextArchotechStructuresAbandoned>
+  <LetterLabelReformIdeo>Реформация идеолигии</LetterLabelReformIdeo>
+  <LetterTextReformIdeo>У вас достаточно очков развития для того, чтобы реформировать {0}!\n\nРеформация позволяет внести в вашу идеолигию одно из следующих изменений:\n\n- Добавить черту\n- Удалить черту\n- Сменить структуру\n- Изменить стиль\n\nВы также можете безо всяких ограничений менять принципы, описание и прочую символику.\n\nЧтобы реформировать идеолигию, выберите её в соответствующей вкладке.</LetterTextReformIdeo>
+</LanguageData>

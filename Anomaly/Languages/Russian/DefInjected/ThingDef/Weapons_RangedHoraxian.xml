@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NerveSpiker.label>Биотоксиновый шипомёт</NerveSpiker.label>
+  <NerveSpiker.description>Напоминающее арбалет устройство, которое стреляет грубыми шипами с паралитическим биотоксином. Урон небольшой, но всё немеханические цели оглушаются. Крупные цели лучше сопротивляются действию биотоксина и быстрее выходят из оглушения.</NerveSpiker.description>
+  <NerveSpiker.tools.limb.label>плечо</NerveSpiker.tools.limb.label>
+  <NerveSpiker.verbs.Verb_Shoot.label>Биотоксиновый шипомёт</NerveSpiker.verbs.Verb_Shoot.label>
+  <NerveSpiker_Spike.label>шип с биотоксином</NerveSpiker_Spike.label>
+</LanguageData>

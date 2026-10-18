@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mech_Apocriton.label>апокритон</Mech_Apocriton.label>
+  <Mech_Apocriton.labelPlural>апокритоны</Mech_Apocriton.labelPlural>
+  <Mech_Centurion.label>центурион</Mech_Centurion.label>
+  <Mech_Centurion.labelPlural>центурионы</Mech_Centurion.labelPlural>
+  <Mech_Diabolus.label>дьявол</Mech_Diabolus.label>
+  <Mech_Diabolus.labelPlural>дьяволы</Mech_Diabolus.labelPlural>
+  <Mech_Warqueen.label>предводительница</Mech_Warqueen.label>
+  <Mech_Warqueen.labelPlural>предводительницы</Mech_Warqueen.labelPlural>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Proselytizing_Frequently.label>частый</Proselytizing_Frequently.label>
+  <Proselytizing_Frequently.description>Те, кто знает истину, всегда должны распространять её и бороться с другими убеждениями.</Proselytizing_Frequently.description>
+  <Proselytizing_Frequently.comps.0.eventLabel>обратили нового приверженца</Proselytizing_Frequently.comps.0.eventLabel>
+  <Proselytizing_Occasionally.label>редкий</Proselytizing_Occasionally.label>
+  <Proselytizing_Occasionally.description>Те, кто знает истину, должны пытаться донести её до других, когда это кажется уместным.</Proselytizing_Occasionally.description>
+  <Proselytizing_Occasionally.comps.0.eventLabel>обратили нового приверженца</Proselytizing_Occasionally.comps.0.eventLabel>
+  <Proselytizing_Sometimes.label>временами</Proselytizing_Sometimes.label>
+  <Proselytizing_Sometimes.description>Те, кто знает истину, должны при каждой возможности нести её другим.</Proselytizing_Sometimes.description>
+  <Proselytizing_Sometimes.comps.0.eventLabel>обратили нового приверженца</Proselytizing_Sometimes.comps.0.eventLabel>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RelicDestroyed.stages.relic_destroyed.label>реликвия уничтожена</RelicDestroyed.stages.relic_destroyed.label>
+  <RelicDestroyed.stages.relic_destroyed.description>Реликвия уничтожена. Позор нам всем!</RelicDestroyed.stages.relic_destroyed.description>
+  <RelicLost.stages.relic_lost.label>реликвия потеряна</RelicLost.stages.relic_lost.label>
+  <RelicLost.stages.relic_lost.description>Реликвия потеряна. Позор нам всем!</RelicLost.stages.relic_lost.description>
+</LanguageData>

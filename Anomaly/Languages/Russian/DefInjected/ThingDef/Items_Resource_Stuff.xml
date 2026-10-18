@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Bioferrite.label>биоферрит</Bioferrite.label>
+  <Bioferrite.description>Экзотическое волокнистое вещество, напоминающее железо, у которого есть свойства и органики, и металла. Производится микроскопическими механитами при переработке органики. Если механиты повреждены и ведут себя хаотично, процесс похож на деление раковых клеток.\n\nМатериал известен способностью взаимодействовать с некоторыми пси-потоками. В определённых условиях легко воспламеняется при сжатии, что делает его отличным топливом.</Bioferrite.description>
+  <LabyrinthMatter.label>серость</LabyrinthMatter.label>
+  <LabyrinthMatter.description>Странное серое вещество неизвестного происхождения.</LabyrinthMatter.description>
+  <Leather_Dread.label>жуткая кожа</Leather_Dread.label>
+  <Leather_Dread.description>Толстая твёрдая кожа какого-то чудовища. Её поверхность испещрена уродливыми шрамами и витиеватыми бороздками, а запах напоминает гнилое мясо. Жителям не понравится носить одежду из этого материала.</Leather_Dread.description>
+  <Bioferrite.stuffProps.stuffAdjective>биоферрита</Bioferrite.stuffProps.stuffAdjective>
+  <LabyrinthMatter.stuffProps.stuffAdjective>серости</LabyrinthMatter.stuffProps.stuffAdjective>
+  <Leather_Dread.stuffProps.stuffAdjective>жуткой кожи</Leather_Dread.stuffProps.stuffAdjective>
+</LanguageData>

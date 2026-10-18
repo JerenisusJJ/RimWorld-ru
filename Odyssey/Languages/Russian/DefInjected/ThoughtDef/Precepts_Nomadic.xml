@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ResettledRecently.stages.new_location-0.label>новое место</ResettledRecently.stages.new_location-0.label>
+  <ResettledRecently.stages.new_location-0.description>Здорово оказаться в новом месте.</ResettledRecently.stages.new_location-0.description>
+  <ResettledRecently.stages.new_location-1.label>новое место</ResettledRecently.stages.new_location-1.label>
+  <ResettledRecently.stages.new_location-1.description>Приятно быть в новом месте.</ResettledRecently.stages.new_location-1.description>
+  <ResettledRecently.stages.want_new_location-0.label>хочу новое место</ResettledRecently.stages.want_new_location-0.label>
+  <ResettledRecently.stages.want_new_location-0.description>Мы здесь уже достаточно долго. Давайте переедем куда-нибудь еще.</ResettledRecently.stages.want_new_location-0.description>
+  <ResettledRecently.stages.want_new_location-1.label>хочу новое место</ResettledRecently.stages.want_new_location-1.label>
+  <ResettledRecently.stages.want_new_location-1.description>Мы слишком надолго здесь застряли. Нужно переезжать как можно скорее.</ResettledRecently.stages.want_new_location-1.description>
+</LanguageData>

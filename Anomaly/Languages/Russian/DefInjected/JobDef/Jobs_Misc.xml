@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ActivateMonolith.reportString>активирует TargetA</ActivateMonolith.reportString>
+  <ActivityDormant.reportString>спячка от низкой активности</ActivityDormant.reportString>
+  <BuildCubeSculpture.reportString>ваяет скульптуру {0}</BuildCubeSculpture.reportString>
+  <CarryToEntityHolder.reportString>переносит {lookup: {TargetB}; Case; 3} к {lookup: {TargetA}; Case; 2}</CarryToEntityHolder.reportString>
+  <CarryToEntityHolderAlreadyHolding.reportString>переносит {lookup: {TargetB}; Case; 3} к {lookup: {TargetA}; Case; 2}</CarryToEntityHolderAlreadyHolding.reportString>
+  <ChimeraSwitchToAttackMode.reportString>атакует</ChimeraSwitchToAttackMode.reportString>
+  <DevourerDigest.reportString>что-то делает</DevourerDigest.reportString>
+  <EntityGoPassive.reportString>впадает в спячку</EntityGoPassive.reportString>
+  <ExecuteEntity.reportString>казнит TargetA</ExecuteEntity.reportString>
+  <ExtractBioferrite.reportString>извлекает биоферрит из TargetA</ExtractBioferrite.reportString>
+  <FleeAndCowerShort.reportString>спасается бегством</FleeAndCowerShort.reportString>
+  <GoldenCubePlay.reportString>играет с золотистым кубом</GoldenCubePlay.reportString>
+  <HateChanting.reportString>поёт гимн злобы</HateChanting.reportString>
+  <InvestigateMonolith.reportString>исследует TargetA</InvestigateMonolith.reportString>
+  <NociosphereDepart.reportString>отбывает</NociosphereDepart.reportString>
+  <ReleaseEntity.reportString>отпускает TargetB</ReleaseEntity.reportString>
+  <RevenantAttack.reportString>преследует TargetA</RevenantAttack.reportString>
+  <RevenantEscape.reportString>убегает</RevenantEscape.reportString>
+  <RevenantSleep.reportString>находится в гибернации</RevenantSleep.reportString>
+  <RevenantWander.reportString>блуждает по поселению</RevenantWander.reportString>
+  <SmashThing.reportString>лупит TargetA</SmashThing.reportString>
+  <TakeBioferriteOutOfHarvester.reportString>извлекает биоферрит из TargetA</TakeBioferriteOutOfHarvester.reportString>
+  <TalkCreepJoiner.reportString>говорит с TargetA</TalkCreepJoiner.reportString>
+  <TendEntity.reportString>лечит TargetA</TendEntity.reportString>
+  <TransferBetweenEntityHolders.reportString>перемещает TargetC в другое место изоляции</TransferBetweenEntityHolders.reportString>
+  <UnnaturalCorpseAttack.reportString>догоняет TargetA</UnnaturalCorpseAttack.reportString>
+  <UnnaturalCorpseSkip.reportString>догоняет TargetA</UnnaturalCorpseSkip.reportString>
+</LanguageData>

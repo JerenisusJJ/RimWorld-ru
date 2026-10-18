@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimalSlaughter_Disapproved.label>порицается</AnimalSlaughter_Disapproved.label>
+  <AnimalSlaughter_Disapproved.description>Забивать животных — плохо.</AnimalSlaughter_Disapproved.description>
+  <AnimalSlaughter_Disapproved.comps.1.description>Кто-то забил животное</AnimalSlaughter_Disapproved.comps.1.description>
+  <AnimalSlaughter_Horrible.label>осуждается</AnimalSlaughter_Horrible.label>
+  <AnimalSlaughter_Horrible.description>Забить животное — это ужасный поступок.</AnimalSlaughter_Horrible.description>
+  <AnimalSlaughter_Horrible.comps.1.description>Кто-то забил животное</AnimalSlaughter_Horrible.comps.1.description>
+  <AnimalSlaughter_Prohibited.label>запрещён</AnimalSlaughter_Prohibited.label>
+  <AnimalSlaughter_Prohibited.description>Убой животных категорически запрещён.</AnimalSlaughter_Prohibited.description>
+  <AnimalSlaughter_Prohibited.comps.1.description>Кто-то забил животное</AnimalSlaughter_Prohibited.comps.1.description>
+  <AnimalSlaughter_Prohibited.comps.2.description>Убой животных</AnimalSlaughter_Prohibited.comps.2.description>
+</LanguageData>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AtmosphericHeater.label>обогреватель атмосферы</AtmosphericHeater.label>
+  <AtmosphericHeater.description>Устройство, излучающее тепло. Питается от тёмного архо-осколка. Сжигание биоферрита разгоняет молекулы воздуха, что позволяет повысить его температуру на улице. Из-за неэффективной изоляции само сооружение также пышет жаром.</AtmosphericHeater.description>
+  <AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>Заданная температура воздуха на улице</AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>
+  <Bullet_TacticalTurret.label>пуля из тактической турели</Bullet_TacticalTurret.label>
+  <DelayedMetalhorrorEmerger.label>задержка появления металлической жути</DelayedMetalhorrorEmerger.label>
+  <DirtCubeSculpture.label>скульптура куба из грязи</DirtCubeSculpture.label>
+  <DirtCubeSculpture.description>Наспех слепленная скульптура кубической формы.</DirtCubeSculpture.description>
+  <ElectricInhibitor.label>электрический подавитель</ElectricInhibitor.label>
+  <ElectricInhibitor.description>Устройство, излучающее особое электромагнитное поле, которое ослабляет нейронную активность захваченных тварей. Ингибитор повышает надёжность фиксирующей платформы, на которую направлен. Электрическое поле не действует на людей и обычных животных.</ElectricInhibitor.description>
+  <EndlessPit2x2c.label>бездонная яма</EndlessPit2x2c.label>
+  <EndlessPit2x2c.description>Бездонная яма с гладкими краями.</EndlessPit2x2c.description>
+  <EndlessPit3x2c.label>бездонная яма</EndlessPit3x2c.label>
+  <EndlessPit3x2c.description>Бездонная яма с гладкими краями.</EndlessPit3x2c.description>
+  <EndlessPit3x3c.label>бездонная яма</EndlessPit3x3c.label>
+  <EndlessPit3x3c.description>Бездонная яма с гладкими краями.</EndlessPit3x3c.description>
+  <FloorEtching.label>надпись на земле</FloorEtching.label>
+  <FloorEtching.description>Небрежные каракули на земле.\n\nИх можно расшифровать, но на это уйдёт время. Выберите поселенца и щёлкните по надписи правой кнопкой мыши.</FloorEtching.description>
+  <FloorEtching.comps.CompFloorEtching.activateDescString>Выберите, кто должен расшифровать надпись.</FloorEtching.comps.CompFloorEtching.activateDescString>
+  <FloorEtching.comps.CompFloorEtching.activateLabelString>Расшифровать…</FloorEtching.comps.CompFloorEtching.activateLabelString>
+  <FloorEtching.comps.CompFloorEtching.activatingString>Расшифровка надписи на земле: {1} сек.</FloorEtching.comps.CompFloorEtching.activatingString>
+  <FloorEtching.comps.CompFloorEtching.activatingStringPending>Расшифровывает надпись на земле</FloorEtching.comps.CompFloorEtching.activatingStringPending>
+  <FloorEtching.comps.CompFloorEtching.guiLabelString>Выберите, кому отдать эту команду.</FloorEtching.comps.CompFloorEtching.guiLabelString>
+  <FloorEtching.comps.CompFloorEtching.inspectString>Приказать поселенцу расшифровать надпись.</FloorEtching.comps.CompFloorEtching.inspectString>
+  <FloorEtching.comps.CompFloorEtching.jobString>Расшифровать надпись на земле</FloorEtching.comps.CompFloorEtching.jobString>
+  <FloorEtching.comps.CompFloorEtching.messageCompletedString>{PAWN_nameDef} {PAWN_gender ? расшифровал : расшифровала} надпись на земле.</FloorEtching.comps.CompFloorEtching.messageCompletedString>
+  <FloorEtchingRambling.label>надпись на земле</FloorEtchingRambling.label>
+  <FloorEtchingRambling.description>Небрежные каракули на земле.\n\nИх можно расшифровать, но на это уйдёт время. Выберите поселенца и щёлкните по надписи правой кнопкой мыши.</FloorEtchingRambling.description>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>Выберите, кто должен расшифровать надпись.</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>Расшифровать…</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>Расшифровка надписи на земле: {1} сек.</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>Расшифровывает надпись на земле</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>Выберите, кому отдать эту команду.</FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>Приказать поселенцу расшифровать надпись.</FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>Расшифровать надпись на земле</FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>{PAWN_nameDef} {PAWN_gender ? расшифровал : расшифровала} надпись на земле.</FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>
+  <FrenzyInducer.label>индуктор прилива сил</FrenzyInducer.label>
+  <FrenzyInducer.description>Архо-осколок, вмонтированный в раму под электрическим напряжением. Создаёт бешеную псионическую вибрацию, которая побуждает всех, кто находится поблизости, двигаться и работать быстрее. При этом все психические срывы гарантированно приведут к насилию.</FrenzyInducer.description>
+  <GrayBox.label>серый ящик</GrayBox.label>
+  <GrayBox.description>Странный серый ящик. На нем ничего нет, поверхность гладкая. Сделан не из металла и не из бетона. Это вообще не похоже ни на один из известных материалов.</GrayBox.description>
+  <GrayDoor.label>дверь</GrayDoor.label>
+  <GrayDoor.description>Странная серая дверь.</GrayDoor.description>
+  <GrayDoor.comps.CompLabyrinthDoor.activateDescString>Выберите, кто должен взломать её.</GrayDoor.comps.CompLabyrinthDoor.activateDescString>
+  <GrayDoor.comps.CompLabyrinthDoor.activateLabelString>Взломать…</GrayDoor.comps.CompLabyrinthDoor.activateLabelString>
+  <GrayDoor.comps.CompLabyrinthDoor.activatingString>взлом двери: {1} сек.</GrayDoor.comps.CompLabyrinthDoor.activatingString>
+  <GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>взламывает дверь</GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>
+  <GrayDoor.comps.CompLabyrinthDoor.guiLabelString>Выберите, кому отдать эту команду.</GrayDoor.comps.CompLabyrinthDoor.guiLabelString>
+  <GrayDoor.comps.CompLabyrinthDoor.jobString>Взломать эту дверь</GrayDoor.comps.CompLabyrinthDoor.jobString>
+  <GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>{PAWN_nameDef} {PAWN_gender ? взломал : взломала} дверь.</GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>
+  <GrayStatueDeadlifeDust.label>серая статуя</GrayStatueDeadlifeDust.label>
+  <GrayStatueDeadlifeDust.description>Уродливая статуя неприятной формы. От неё исходит странный слабый гул.</GrayStatueDeadlifeDust.description>
+  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>Серая статуя активирована</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>
+  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>{PAWN_nameDef} пробуждает статую, и та испускает облако порошка мёртвой жизни!\n\nЕго частицы будут падать на трупы и превращать их в кровожадных шамблеров!</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>
+  <GrayStatueTeleporter.label>серая статуя</GrayStatueTeleporter.label>
+  <GrayStatueTeleporter.description>Уродливая статуя неприятной формы. От неё исходит странный слабый гул.</GrayStatueTeleporter.description>
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>{PAWN_nameDef} телепортируется</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>Подойдя к статуе, {PAWN_nameDef} {PAWN_gender ? моргнул : моргнула} и {PAWN_gender ? оказался : оказалась} в новом месте.</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>
+  <GrayWall.label>стена</GrayWall.label>
+  <GrayWall.description>Неприступная серая стена.</GrayWall.description>
+  <Gun_TacticalTurret.label>пушка для тактической турели</Gun_TacticalTurret.label>
+  <Gun_TacticalTurret.description>Лёгкая автоматическая пушка, предназначенная для крепления к турельной установке.</Gun_TacticalTurret.description>
+  <Gun_TacticalTurret.verbs.Verb_Shoot.label>пушка для тактической турели</Gun_TacticalTurret.verbs.Verb_Shoot.label>
+  <HoldingPlatform.label>фиксирующая платформа</HoldingPlatform.label>
+  <HoldingPlatform.description>Платформа для удержания опасных тварей. По углам расположены проушины для толстых цепей.\n\nОбездвиженных тварей можно приковывать к платформе и изучать, чтобы получать знания об аномалии. Ставьте крепкие стены и двери, а также стройте другие средства изоляции, чтобы дополнительно снизить вероятность побега.</HoldingPlatform.description>
+  <HoldingSpot.label>место изоляции</HoldingSpot.label>
+  <HoldingSpot.description>Место для изоляции опасных тварей. Не такое надёжное, как стальная фиксирующая платформа, но лучше, чем ничего.\n\nОбездвиженных тварей можно держать в местах изоляции и изучать, чтобы получать знания об аномалии. Ставьте крепкие стены и двери, а также стройте другие средства изоляции, чтобы дополнительно снизить вероятность побега.</HoldingSpot.description>
+  <Noctolith.label>ноктолит</Noctolith.label>
+  <Noctolith.description>Кривой столб, испещрённый остриями из тёмного маслянистого металла. Внутри него пульсирует тёмная архо-энергия.\n\nРазрушив объект, вы сможете добыть тёмный архо-осколок.</Noctolith.description>
+  <Noctolith.comps.CompInspectString.inspectString>Содержит: неизвестно\nУничтожьте ноктолиты, чтобы покончить с неестественной темнотой.</Noctolith.comps.CompInspectString.inspectString>
+  <PitBurrow.label>хтоническая нора</PitBurrow.label>
+  <PitBurrow.description>Небольшая нора, ведущая к разветвлённой подземной пещере. Крутой уклон не позволяет карабкаться по её стенкам, а ещё они очень неустойчивые и через некоторое время обрушатся.</PitBurrow.description>
+  <PitBurrowSpawner.label>движение под землёй</PitBurrowSpawner.label>
+  <PitBurrowSpawner.description>Из-под земли что-то вот-вот появится.</PitBurrowSpawner.description>
+  <PitGate.label>хтонические врата</PitGate.label>
+  <PitGate.description>Огромная, ужасающая дыра, соединяющая поверхность с системой тёмных подземных пещер. В пещеры можно спуститься.</PitGate.description>
+  <PitGate.portal.enteredLetterLabel>Логово биошматов</PitGate.portal.enteredLetterLabel>
+  <PitGate.portal.enteredLetterText>Хтонические врата привели вас в огромную систему пещер, кишащую биошматами.\n\nПроходы между пещерами забиты биомассой, не дающей пройти дальше. Атакуйте её, чтобы расчистить путь.\n\nСистема пещер кажется нестабильной. Если пробиться за биомассу, возможно, вы сможете устроить обвал и закрыть врата.</PitGate.portal.enteredLetterText>
+  <PitGateExit.label>хтонические врата — выход</PitGateExit.label>
+  <PitGateExit.description>Верёвка, ведущая на поверхность.</PitGateExit.description>
+  <PitGateSpawner.label>движение под землёй</PitGateSpawner.label>
+  <PitGateSpawner.description>Из-под земли что-то вот-вот появится.</PitGateSpawner.description>
+  <PitGateSpawner.building.groundSpawnerLetterLabel>Хтонические врата открыты</PitGateSpawner.building.groundSpawnerLetterLabel>
+  <PitGateSpawner.building.groundSpawnerLetterText>Разломанная почва провалилась вниз, оставив после себя огромную дыру.\n\nЭти хтонические врата останутся открытыми, пока вы их не обрушите. Спуститесь вниз, чтобы найти способ разрушить врата из-под земли и собрать в пещерах полезные предметы.</PitGateSpawner.building.groundSpawnerLetterText>
+  <ProximityDetector.label>детектор приближения</ProximityDetector.label>
+  <ProximityDetector.description>Сканер, способный обнаруживать невидимых существ. Поднимает тревогу, когда регистрирует псионически невидимые биосигнатуры в радиусе своего действия.</ProximityDetector.description>
+  <SandCubeSculpture.label>скульптура куба из песка</SandCubeSculpture.label>
+  <SandCubeSculpture.description>Наспех слепленная скульптура кубической формы.</SandCubeSculpture.description>
+  <ScrapCubeSculpture.label>скульптура куба из обломков</ScrapCubeSculpture.label>
+  <ScrapCubeSculpture.description>Наспех слепленная скульптура кубической формы.</ScrapCubeSculpture.description>
+  <SecurityDoor.label>защитная дверь</SecurityDoor.label>
+  <SecurityDoor.description>Особо усиленная дверь. Для работы ей нужно питание, а открывается она медленно, но зато она исключительно прочная. Если вам нужно изолироваться от опасности (или изолировать что-то опасное), такая дверь — ваш выбор. По бокам от двери должны стоять стены.</SecurityDoor.description>
+  <ShardInhibitor.label>осколочный подавитель</ShardInhibitor.label>
+  <ShardInhibitor.description>Тёмный архо-осколок, резонирующий с пси-энергией. Повышает надёжность фиксирующей платформы или места изоляции в радиусе действия.\n\nЭффект не суммируется.</ShardInhibitor.description>
+  <SleepSuppressor.label>подавитель сонливости</SleepSuppressor.label>
+  <SleepSuppressor.description>Архо-осколок, вмонтированный в раму под электрическим напряжением. Рассылает пси-импульс, который меняет химические процессы внутри головного мозга и останавливает накопление токсинов утомления. Раздражает всех прохожих.</SleepSuppressor.description>
+  <StoneCubeSculpture.label>скульптура куба из камня</StoneCubeSculpture.label>
+  <StoneCubeSculpture.description>Наспех слепленная скульптура кубической формы.</StoneCubeSculpture.description>
+  <TrapIED_Deadlife.label>мина с порошком мёртвой жизни</TrapIED_Deadlife.label>
+  <TrapIED_Deadlife.description>Пара снарядов с порошком мёртвой жизни, присоединённых к спусковому механизму нажимного действия. При активации или попадании пули снаряды взорвутся. Поскольку мины предназначены для скрытой установки, их нельзя ставить рядом с другими подобными устройствами. Животные в спокойном состоянии обходят мины и ловушки стороной.\n\nЧтобы получить должный эффект от этой мины, рядом должны быть трупы.</TrapIED_Deadlife.description>
+  <Turret_TacticalTurret.label>тактическая турель</Turret_TacticalTurret.label>
+  <Turret_TacticalTurret.description>Турель малой дальности. Перестаёт работать, когда разряжается аккумулятор. При сильном повреждении может взорваться.</Turret_TacticalTurret.description>
+  <Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>аккумулятор</Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
+  <Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>У этой турели ограниченный заряд аккумулятора. Когда он иссякает, турель прекращает работать.</Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Opportunity_AbandonedPlatform.description>Заброшенная орбитальная платформа, содержащая ценные ресурсы.</Opportunity_AbandonedPlatform.description>
+  <Opportunity_MechanoidPlatform.description>Орбитальная платформа, использующаяся для производства механоидов, управляется далеким мехроем.</Opportunity_MechanoidPlatform.description>
+  <Opportunity_OrbitalWreck.description>Обломки орбитальной платформы, в которых находятся ценные ресурсы. Обычно такие обломки охраняют орбитальные пираты.</Opportunity_OrbitalWreck.description>
+  <Opportunity_SurveySite.label>место исследования</Opportunity_SurveySite.label>
+  <Opportunity_SurveySite.description>Место проведения удаленной исследовательской операции.</Opportunity_SurveySite.description>
+  <OpportunitySite_Satellite.description>Беспилотный спутник, не пригодный для поддержания жизни. Спутники выполняют множество функций: от сбора энергии до оружейных платформ.</OpportunitySite_Satellite.description>
+</LanguageData>

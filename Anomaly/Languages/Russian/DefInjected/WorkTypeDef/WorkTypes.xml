@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DarkStudy.label>Изучение аномалий</DarkStudy.label>
+  <DarkStudy.description>Исследователи изучают паранормальные феномены и сущностей, удерживаемых на платформах.</DarkStudy.description>
+  <DarkStudy.gerundLabel>Изучать</DarkStudy.gerundLabel>
+  <DarkStudy.labelShort>аномалии</DarkStudy.labelShort>
+  <DarkStudy.pawnLabel>Исследователь аномалий</DarkStudy.pawnLabel>
+  <DarkStudy.verb>Изучать</DarkStudy.verb>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Farmer.label>фермер</Farmer.label>
+  <Farmer.labelPlural>фермеры</Farmer.labelPlural>
+  <Hunter.label>охотник</Hunter.label>
+  <Hunter.labelFemale>охотница</Hunter.labelFemale>
+  <Hunter.labelFemalePlural>охотницы</Hunter.labelFemalePlural>
+  <Hunter.labelPlural>охотники</Hunter.labelPlural>
+  <Logger.label>дровосек</Logger.label>
+  <Logger.labelPlural>дровосеки</Logger.labelPlural>
+  <Miner.label>шахтёр</Miner.label>
+  <Miner.labelPlural>шахтёры</Miner.labelPlural>
+  <Tribal_Farmer.label>фермер</Tribal_Farmer.label>
+  <Tribal_Farmer.labelPlural>фермеры</Tribal_Farmer.labelPlural>
+  <Tribal_Logger.label>дровосек</Tribal_Logger.label>
+  <Tribal_Logger.labelPlural>дровосеки</Tribal_Logger.labelPlural>
+  <Tribal_Miner.label>шахтёр</Tribal_Miner.label>
+  <Tribal_Miner.labelPlural>шахтёры</Tribal_Miner.labelPlural>
+</LanguageData>

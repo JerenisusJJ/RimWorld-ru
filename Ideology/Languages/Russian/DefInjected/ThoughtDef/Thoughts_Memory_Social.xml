@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CounselFailed.stages.failed_consolation_by.label>{0} не {1_gender ? смог : смогла} утешить</CounselFailed.stages.failed_consolation_by.label>
+  <CounselFailed.stages.failed_consolation_by.description>{OTHERPAWN_labelShort} {OTHERPAWN_gender ? хотел : хотела} мне помочь, но в итоге {OTHERPAWN_gender ? сделал : сделала} только хуже.</CounselFailed.stages.failed_consolation_by.description>
+  <Counselled.stages.counselled_by.label>{0} {1_gender ? утешил : утешила}</Counselled.stages.counselled_by.label>
+  <Counselled.stages.counselled_by.description>{OTHERPAWN_labelShort} {OTHERPAWN_gender ? смог : смогла} унять мою тревогу.</Counselled.stages.counselled_by.description>
+  <Counselled_MoodBoost.stages.counselled_by.label>{0} {1_gender ? утешил : утешила}</Counselled_MoodBoost.stages.counselled_by.label>
+  <Counselled_MoodBoost.stages.counselled_by.description>Меня {OTHERPAWN_gender ? утешил : утешила} {OTHERPAWN_labelShort}. Хорошо, когда есть кому тебя выслушать.</Counselled_MoodBoost.stages.counselled_by.description>
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.label>не удалось обратить {0}</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.description>Я {PAWN_gender ? попытался : попыталась} обратить {OTHERPAWN_labelShort}, но у меня ничего не вышло. Неловко получилось.</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>{0} {1_gender ? пытался : пыталась} обратить</FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>{OTHERPAWN_labelShort} {OTHERPAWN_gender ? пытался : пыталась} обратить меня в свою идеолигию. Когда меня оставят в покое?</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
+  <TendedByMedicalSpecialist.stages.tended_by.label>Медпомощь от {lookup: {0}; Case; 1}</TendedByMedicalSpecialist.stages.tended_by.label>
+  <TendedByMedicalSpecialist.stages.tended_by.description>Я {PAWN_gender ? получил : получила} медицинскую помощь от признанного лекаря моей идеолигии.</TendedByMedicalSpecialist.stages.tended_by.description>
+  <WillDiminished.stages.will_diminished.label>воля ослаблена</WillDiminished.stages.will_diminished.label>
+</LanguageData>

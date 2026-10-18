@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerGravship.rulePack.rulesStrings>
+    <li>r_name(p=2)-&gt;[narrative_name]</li>
+    <li>r_name(p=1)-&gt;[ship_word_mas] [narrative_name_gen]</li>
+    <li>r_name(p=1)-&gt;[ship_word_fem] [narrative_name_gen]</li>
+    <li>r_name(p=1)-&gt;[ship_word_neu] [narrative_name_gen]</li>
+    <li>r_name(p=0.5)-&gt;[Color_mas] [ship_word_mas]</li>
+    <li>r_name(p=0.5)-&gt;[Color_fem] [ship_word_fem]</li>
+    <li>r_name(p=0.5)-&gt;[Color_neu] [ship_word_neu]</li>
+    <li>r_name(p=0.5)-&gt;[AdjectiveBadass_mas] [ship_word_mas]</li>
+    <li>r_name(p=0.5)-&gt;[AdjectiveBadass_fem] [ship_word_fem]</li>
+    <li>r_name(p=0.5)-&gt;[AdjectiveBadass_neu] [ship_word_neu]</li>
+    <li>r_name(p=0.5)-&gt;[AdjectiveBadass_mas] [bird_mas]</li>
+    <li>r_name(p=0.5)-&gt;[AdjectiveBadass_mas] [bird_fem]</li>
+    <li>r_name(p=0.5)-&gt;[AdjectiveFriendly_mas] [ship_word_mas]</li>
+    <li>r_name(p=0.5)-&gt;[AdjectiveFriendly_fem] [ship_word_fem]</li>
+    <li>r_name(p=0.5)-&gt;[AdjectiveFriendly_neu] [ship_word_neu]</li>
+    <li>r_name(p=0.5)-&gt;[flying_adjective_mas] [AnimalBadass_mas]</li>
+    <li>r_name(p=0.5)-&gt;[flying_adjective_fem] [AnimalBadass_fem]</li>
+    <li>r_name(p=0.5)-&gt;[storyname]</li>
+    <li>r_name(p=0.2)-&gt;[Color_mas] [greekmyth_noun_mas]</li>
+    <li>r_name(p=0.2)-&gt;[Color_fem] [greekmyth_noun_fem]</li>
+    <li>r_name(p=0.2)-&gt;[greekmyth_noun_mas]</li>
+    <li>r_name(p=0.2)-&gt;[greekmyth_noun_fem]</li>
+    <li>ship_prefix(p=2)-&gt;</li>
+    <li>ship_prefix(p=2)-&gt;</li>
+    <li>narrative_name-&gt;[AdjectiveNatural_mas] [thing_badass_mas]</li>
+    <li>narrative_name-&gt;[AdjectiveNatural_fem] [thing_badass_fem]</li>
+    <li>narrative_name-&gt;[AdjectiveNatural_neu] [thing_badass_neu]</li>
+    <li>narrative_name_gen-&gt;[AdjectiveNatural_mas_gen] [thing_badass_mas_gen]</li>
+    <li>narrative_name_gen-&gt;[AdjectiveNatural_fem_gen] [thing_badass_fem_gen]</li>
+    <li>narrative_name_gen-&gt;[AdjectiveNatural_neu_gen] [thing_badass_neu_gen]</li>
+    <li>narrative_name-&gt;[AdjectiveLarge_mas] [thing_badass_mas]</li>
+    <li>narrative_name-&gt;[AdjectiveLarge_fem] [thing_badass_fem]</li>
+    <li>narrative_name-&gt;[Direction] [thing_badass_mas]</li>
+    <li>narrative_name-&gt;[Direction] [thing_badass_fem]</li>
+    <li>narrative_name-&gt;[Direction] [thing_badass_neu]</li>
+    <li>narrative_name-&gt;[thing_badass_mas]</li>
+    <li>narrative_name-&gt;[thing_badass_fem]</li>
+    <li>narrative_name-&gt;[thing_badass_neu]</li>
+    <li>narrative_name_gen-&gt;[thing_badass_mas_gen]</li>
+    <li>narrative_name_gen-&gt;[thing_badass_fem_gen]</li>
+    <li>narrative_name_gen-&gt;[thing_badass_neu_gen]</li>
+    <li>thing_badass_mas-&gt;[AnimalBadass_mas]</li>
+    <li>thing_badass_fem-&gt;[AnimalBadass_fem]</li>
+    <li>thing_badass_mas-&gt;охотник на [AnimalBadass_plural_gen]</li>
+    <li>thing_badass_mas_gen-&gt;охотника на [AnimalBadass_plural_gen]</li>
+    <li>thing_badass_mas-&gt;триумф</li>
+    <li>thing_badass_mas_gen-&gt;триумфа</li>
+    <li>thing_badass_fem-&gt;победа</li>
+    <li>thing_badass_fem_gen-&gt;победы</li>
+    <li>thing_badass_neu-&gt;правосудие</li>
+    <li>thing_badass_neu_gen-&gt;правосудия</li>
+    <li>thing_badass_fem-&gt;боль</li>
+    <li>thing_badass_fem_gen-&gt;боли</li>
+    <li>thing_badass_fem-&gt;агония</li>
+    <li>thing_badass_fem_gen-&gt;агонии</li>
+    <li>thing_badass_fem-&gt;месть</li>
+    <li>thing_badass_fem_gen-&gt;мести</li>
+    <li>thing_badass_neu-&gt;страдание</li>
+    <li>thing_badass_neu_gen-&gt;страдания</li>
+    <li>thing_badass_fem-&gt;мука</li>
+    <li>thing_badass_fem_gen-&gt;муки</li>
+    <li>thing_badass_fem-&gt;тирания</li>
+    <li>thing_badass_fem_gen-&gt;тирании</li>
+    <li>thing_badass_mas-&gt;ужас</li>
+    <li>thing_badass_mas_gen-&gt;ужаса</li>
+    <li>thing_badass_mas-&gt;хаос</li>
+    <li>thing_badass_mas_gen-&gt;хаоса</li>
+    <li>thing_badass_fem-&gt;анархия</li>
+    <li>thing_badass_fem_gen-&gt;анархии</li>
+    <li>storyname(p=50)-&gt;[story_result] [subject_gen]</li>
+    <li>storyname(p=2)-&gt;[BodyPart] [subject_gen]</li>
+    <li>storyname-&gt;[Gore] [subject_gen]</li>
+    <li>subject(p=5)-&gt;[NamePerson]</li>
+    <li>subject(p=5)_gen-&gt;[NamePerson_gen]</li>
+    <li>subject-&gt;[Animal]</li>
+    <li>subject_gen-&gt;[Animal_gen]</li>
+    <li>subject-&gt;[WordTribal]</li>
+    <li>subject_gen-&gt;[WordTribal_gen]</li>
+    <li>subject-&gt;[PlaceOutlander]</li>
+    <li>subject_gen-&gt;[PlaceOutlander_gen]</li>
+    <li>story_result-&gt;радость</li>
+    <li>story_result-&gt;легенда</li>
+    <li>story_result-&gt;чудо</li>
+    <li>story_result-&gt;сожаление</li>
+    <li>story_result-&gt;драгоценность</li>
+    <li>story_result-&gt;приз</li>
+    <li>story_result-&gt;добыча</li>
+    <li>story_result-&gt;тщеславие</li>
+    <li>story_result-&gt;джекпот</li>
+    <li>story_result-&gt;трофей</li>
+    <li>story_result-&gt;разрушение</li>
+    <li>story_result-&gt;катаклизм</li>
+    <li>story_result-&gt;руины</li>
+    <li>story_result-&gt;обман</li>
+    <li>story_result-&gt;обличие</li>
+    <li>story_result-&gt;фальшь</li>
+    <li>greekmyth_noun_fem-&gt;одиссея</li>
+    <li>greekmyth_noun_mas-&gt;одиссей</li>
+    <li>greekmyth_noun_fem-&gt;пенелопа</li>
+    <li>greekmyth_noun_mas-&gt;телемах</li>
+    <li>greekmyth_noun_fem-&gt;афина</li>
+    <li>greekmyth_noun_mas-&gt;посейдон</li>
+    <li>greekmyth_noun_fem-&gt;сцилла</li>
+    <li>greekmyth_noun_mas-&gt;гермес</li>
+    <li>greekmyth_noun_mas-&gt;аргонавт</li>
+    <li>greekmyth_noun_mas-&gt;гермес</li>
+    <li>greekmyth_noun_mas-&gt;гелиос</li>
+    <li>greekmyth_noun_mas-&gt;ахиллес</li>
+    <li>greekmyth_noun_fem-&gt;сирена</li>
+    <li>greekmyth_noun_mas-&gt;циклоп</li>
+    <li>greekmyth_noun_fem-&gt;медуза</li>
+    <li>greekmyth_noun_fem-&gt;горгона</li>
+    <li>bird_mas-&gt;сокол</li>
+    <li>bird_mas-&gt;орел</li>
+    <li>bird_mas-&gt;ястреб</li>
+    <li>bird_fem-&gt;пустельга</li>
+    <li>bird_mas-&gt;гриф</li>
+    <li>flying_adjective(p=2)_mas-&gt;летающий</li>
+    <li>flying_adjective(p=2)_fem-&gt;летающая</li>
+    <li>flying_adjective_mas-&gt;парящий</li>
+    <li>flying_adjective_fem-&gt;парящая</li>
+    <li>flying_adjective_mas-&gt;реющий</li>
+    <li>flying_adjective_fem-&gt;реющая</li>
+    <li>flying_adjective_mas-&gt;крылатый</li>
+    <li>flying_adjective_fem-&gt;крылатая</li>
+    <li>ship_word(p=5)_mas-&gt;корабль</li>
+    <li>ship_word(p=5)_mas-&gt;гравикорабль</li>
+    <li>ship_word(p=2)-&gt;[AdjectiveNatural_mas] корабль</li>
+    <li>ship_word_mas-&gt;военный корабль</li>
+    <li>ship_word_mas-&gt;фрегат</li>
+    <li>ship_word_neu-&gt;судно</li>
+    <li>ship_word_mas-&gt;челнок</li>
+    <li>ship_word_mas-&gt;крейсер</li>
+    <li>ship_word_mas-&gt;транспорт</li>
+    <li>ship_word_fem-&gt;галера</li>
+    <li>ship_word_mas-&gt;галеон</li>
+    <li>ship_word_mas-&gt;длинный корабль</li>
+    <li>ship_word_mas-&gt;фрахтовщик</li>
+    <li>ship_word_mas-&gt;утильщик</li>
+    <li>ship_word_fem-&gt;трирема</li>
+    <li>ship_word_mas-&gt;зефир</li>
+  </NamerGravship.rulePack.rulesStrings>
+</LanguageData>

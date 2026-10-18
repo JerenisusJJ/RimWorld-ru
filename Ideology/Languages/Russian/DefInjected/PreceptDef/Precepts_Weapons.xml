@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NobleDespisedWeapons.label>благородное и презираемое</NobleDespisedWeapons.label>
+  <NobleDespisedWeapons.description>У нас есть предпочтения относительно того, какое оружие следует или не следует использовать в бою.</NobleDespisedWeapons.description>
+  <NobleDespisedWeapons.comps.0.description>Победа благородным оружием</NobleDespisedWeapons.comps.0.description>
+  <NobleDespisedWeapons.comps.1.description>Использовано презираемое оружие</NobleDespisedWeapons.comps.1.description>
+  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>Владение благородным оружием</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>
+  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>Владение презираемым оружием</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BulletShieldPsychic.label>фазовый щит</BulletShieldPsychic.label>
+  <Flashstorm.label>грозовой шторм</Flashstorm.label>
+  <MonumentMarker.label>метка монумента</MonumentMarker.label>
+  <MonumentMarker.description>Отмечает место для будущего монумента. После размещения его нельзя переставить.</MonumentMarker.description>
+  <SolarPinhole.label>солнечная брешь</SolarPinhole.label>
+</LanguageData>

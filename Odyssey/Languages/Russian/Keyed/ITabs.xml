@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <FishRepeatMode_RepeatCount>сделать X р.</FishRepeatMode_RepeatCount>
+  <FishRepeatMode_TargetCount>делать, пока не будет X</FishRepeatMode_TargetCount>
+  <FishRepeatMode_Forever>делать бесконечно</FishRepeatMode_Forever>
+  <FishPopulation>Популяция рыбы</FishPopulation>
+  <FishPopulationDesc>Сколько рыб находится в этом водоеме. В крупных водоемах больше рыб, и их популяция восстанавливается быстрее.</FishPopulationDesc>
+  <MinimumPopulation>Минимальная популяция</MinimumPopulation>
+  <MinimumPopulationDesc>Поселенцы не будут рыбачить, если популяция ниже этого значения. При популяции ниже 300 рыб улов уменьшается.</MinimumPopulationDesc>
+  <Uncommon>необычная</Uncommon>
+  <ToggleFishAvoid>Если эта функция отключена, поселенцы будут избегать ловли этой рыбы.</ToggleFishAvoid>
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AgonyPulse.label>волна агонии</AgonyPulse.label>
+  <AgonyPulse.description>Сильная психическая боль, вызванная шоком от пережитых страданий. Она невыносима, но относительно быстро проходит.</AgonyPulse.description>
+  <ConsumeLeap_Devourer.label>прыжок пожирателя</ConsumeLeap_Devourer.label>
+  <ConsumeLeap_Devourer.description>Прыжок на жертву с дальнейшим поглощением.</ConsumeLeap_Devourer.description>
+  <ConsumeLeap_Devourer.verbProperties.label>прыжок пожирателя</ConsumeLeap_Devourer.verbProperties.label>
+  <CorrosiveSpray.label>разъедающий плевок</CorrosiveSpray.label>
+  <CorrosiveSpray.description>Распыление кислоты на близком расстоянии с помощью разъедающего сердца. Оно перекачивает едкую жидкость через хирургически вживлённый канал, позволяя упырю извергать её изо рта с большой скоростью.</CorrosiveSpray.description>
+  <EntitySkip.label>телепортация твари</EntitySkip.label>
+  <EntitySkip.description>Телепортация в выбранное место.</EntitySkip.description>
+  <FleshmelterBolt.label>кожеплавящий заряд</FleshmelterBolt.label>
+  <FleshmelterBolt.description>Мощный заряд энергии, который порождает высокотемпературный взрыв.</FleshmelterBolt.description>
+  <GhoulFrenzy.label>буйство упыря</GhoulFrenzy.label>
+  <GhoulFrenzy.description>В крови этого существа избыток гормона стресса и бодрящей эссенции. В течение короткого времени оно сможет атаковать и передвигаться с необычайной скоростью.</GhoulFrenzy.description>
+  <Heatspikes.label>жарошипы</Heatspikes.label>
+  <Heatspikes.description>Рассредоточенный выстрел несколькими энергетическими снарядами.</Heatspikes.description>
+  <MetalbloodInjection.label>доза железной крови</MetalbloodInjection.label>
+  <MetalbloodInjection.description>Сердце с железной кровью впрыскивает дозу вещества в кровоток, на короткое время сокращая получаемый урон.</MetalbloodInjection.description>
+  <PsychicSlaughter.label>псионическая бойня</PsychicSlaughter.label>
+  <PsychicSlaughter.description>Тёмная псионическая способность, которая позволяет вызывать хаотичную реконфигурацию плоти. Моментально убивает живых существ, превращая их в кучи мяса.</PsychicSlaughter.description>
+  <ReleaseDeadlifeDust.label>распыление порошка мёртвой жизни</ReleaseDeadlifeDust.label>
+  <ReleaseDeadlifeDust.description>Выпускает облако вещества, напоминающего пыль. Его частицы оседают на трупах и оживляют их в виде шамблеров. Порошок мёртвой жизни — это множество микроскопических архитов, которые восстанавливают мёртвые ткани на клеточном уровне.</ReleaseDeadlifeDust.description>
+  <ReleaseDeadlifeDust.verbProperties.label>распыление порошка мёртвой жизни</ReleaseDeadlifeDust.verbProperties.label>
+  <RevenantInvisibility.label>невидимость ревенанта</RevenantInvisibility.label>
+  <RevenantInvisibility.description>Доработайте хребет ревенанта, чтобы его можно было пересадить человеку. Получивший имплант может на время становиться невидимым.</RevenantInvisibility.description>
+  <ShapeFlesh.label>деформация плоти</ShapeFlesh.label>
+  <ShapeFlesh.description>Тёмная архотехнология, позволяющая превратить труп в чудовищного биошмата. Биошматы агрессивны ко всем людям, в том числе к создателю.</ShapeFlesh.description>
+  <SpikeLaunch_Fingerspike.label>костяной шип</SpikeLaunch_Fingerspike.label>
+  <SpikeLaunch_Fingerspike.description>Выстрел костяным шипом по цели.</SpikeLaunch_Fingerspike.description>
+  <SpikeLaunch_Toughspike.label>костяной шип</SpikeLaunch_Toughspike.label>
+  <SpikeLaunch_Toughspike.description>Выстрел костяным шипом по цели.</SpikeLaunch_Toughspike.description>
+  <SpineLaunch_Gorehulk.label>кератиновый шип</SpineLaunch_Gorehulk.label>
+  <SpineLaunch_Gorehulk.description>Выстрел кератиновым шипом по цели.</SpineLaunch_Gorehulk.description>
+  <TransmuteSteel.label>трансмутация стали</TransmuteSteel.label>
+  <TransmuteSteel.description>Позволяет преобразовывать сталь в другие полезные материалы на уровне атомов. Можно использовать на стали, предметах и сооружениях из стали, а также на металлоломе.</TransmuteSteel.description>
+  <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Можно использовать только на стали, металлоломе, сооружениях из стали и стальных предметах.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
+  <UnnaturalCorpseSkip.label>пропуск объекта</UnnaturalCorpseSkip.label>
+  <UnnaturalCorpseSkip.description>Телепортируйтесь к назначенному месту назначения.</UnnaturalCorpseSkip.description>
+  <UnnaturalHealing.label>неестественное заживление</UnnaturalHealing.label>
+  <UnnaturalHealing.description>Лечение с помощью тёмного псионического воздействия. Останавливает кровотечение, восполняет потерю крови и даже исцеляет тяжёлые раны. Может иметь побочные эффекты.</UnnaturalHealing.description>
+  <VoidTerror.label>устрашение пустотой</VoidTerror.label>
+  <VoidTerror.description>Ужасающие псионические галлюцинации, которые заставляют жертву бежать в панике.</VoidTerror.description>
+</LanguageData>

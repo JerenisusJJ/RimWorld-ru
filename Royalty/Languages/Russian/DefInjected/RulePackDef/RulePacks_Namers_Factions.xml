@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerFactionRefugee.rulePack.rulesStrings>
+    <li>r_name-&gt;[adj] [group]</li>
+    <li>group-&gt;выжившие</li>
+    <li>group-&gt;беженцы</li>
+    <li>group-&gt;беглецы</li>
+    <li>group-&gt;отщепенцы</li>
+    <li>group-&gt;скитальцы</li>
+    <li>group-&gt;бродяги</li>
+    <li>group-&gt;путники</li>
+    <li>group-&gt;странники</li>
+    <li>group-&gt;кочевники</li>
+    <li>adj-&gt;уставшие</li>
+    <li>adj-&gt;обессилевшие</li>
+    <li>adj-&gt;утомлённые</li>
+    <li>adj-&gt;измотанные</li>
+    <li>adj-&gt;изгнанные</li>
+    <li>adj-&gt;стойкие</li>
+    <li>adj-&gt;крепкие</li>
+    <li>adj-&gt;упорные</li>
+    <li>adj-&gt;неутомимые</li>
+  </NamerFactionRefugee.rulePack.rulesStrings>
+</LanguageData>

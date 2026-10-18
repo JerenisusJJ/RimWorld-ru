@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Digested.label>поглощение</Digested.label>
+  <Digested.description>Эта часть была поглощена.</Digested.description>
+  <Digested.injuryProps.destroyedLabel>поглощено</Digested.injuryProps.destroyedLabel>
+  <Digested.labelNoun>поглощённая часть</Digested.labelNoun>
+  <Digested.labelNounPretty>поглощено: {1}</Digested.labelNounPretty>
+  <EnergyBolt.label>энергетический заряд</EnergyBolt.label>
+  <EnergyBolt.description>Рана от энергетического заряда.</EnergyBolt.description>
+  <EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>неизлечимая рана от энергетического заряда</EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>старая рана от энергетического заряда</EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>
+  <EnergyBolt.injuryProps.destroyedLabel>оторвано</EnergyBolt.injuryProps.destroyedLabel>
+  <EnergyBolt.injuryProps.destroyedOutLabel>взорвано</EnergyBolt.injuryProps.destroyedOutLabel>
+  <EnergyBolt.labelNoun>рана от энергетического заряда</EnergyBolt.labelNoun>
+  <EnergyBolt.labelNounPretty>{1}: {0}</EnergyBolt.labelNounPretty>
+  <PsychicInjury.label>пси-ожог</PsychicInjury.label>
+  <PsychicInjury.description>Пси-ожог.</PsychicInjury.description>
+  <PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>псионический рубец</PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>
+  <PsychicInjury.injuryProps.destroyedLabel>псионически выжжено</PsychicInjury.injuryProps.destroyedLabel>
+  <PsychicInjury.labelNoun>пси-ожог</PsychicInjury.labelNoun>
+  <PsychicInjury.labelNounPretty>{1}: {0}</PsychicInjury.labelNounPretty>
+  <PsychicInjurySkin.label>пси-ожог</PsychicInjurySkin.label>
+  <PsychicInjurySkin.description>Пси-ожог.</PsychicInjurySkin.description>
+  <PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>псионический рубец</PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>
+  <PsychicInjurySkin.injuryProps.destroyedLabel>псионически выжжено</PsychicInjurySkin.injuryProps.destroyedLabel>
+  <PsychicInjurySkin.labelNoun>пси-ожог</PsychicInjurySkin.labelNoun>
+  <PsychicInjurySkin.labelNounPretty>{1}: {0}</PsychicInjurySkin.labelNounPretty>
+  <PsychicInjurySolid.label>пси-ожог</PsychicInjurySolid.label>
+  <PsychicInjurySolid.description>Пси-ожог.</PsychicInjurySolid.description>
+  <PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>неизлечимый псионический рубец</PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>
+  <PsychicInjurySolid.injuryProps.destroyedLabel>псионически выжжено</PsychicInjurySolid.injuryProps.destroyedLabel>
+  <PsychicInjurySolid.labelNoun>пси-ожог</PsychicInjurySolid.labelNoun>
+  <PsychicInjurySolid.labelNounPretty>{1}: {0}</PsychicInjurySolid.labelNounPretty>
+</LanguageData>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InstallAestheticNose.label>вживить эстетичный нос</InstallAestheticNose.label>
+  <InstallAestheticNose.description>Вживить эстетичный нос.</InstallAestheticNose.description>
+  <InstallAestheticNose.jobString>Вживляет эстетичный нос</InstallAestheticNose.jobString>
+  <InstallAestheticShaper.label>вживить корректор фигуры</InstallAestheticShaper.label>
+  <InstallAestheticShaper.description>Вживить корректор фигуры.</InstallAestheticShaper.description>
+  <InstallAestheticShaper.jobString>Вживляет корректор фигуры</InstallAestheticShaper.jobString>
+  <InstallArmorskinGland.label>вживить бронирующую железу</InstallArmorskinGland.label>
+  <InstallArmorskinGland.description>Вживить бронирующую железу.</InstallArmorskinGland.description>
+  <InstallArmorskinGland.jobString>Вживляет бронирующую железу</InstallArmorskinGland.jobString>
+  <InstallCircadianAssistant.label>вживить циркадный стимулятор</InstallCircadianAssistant.label>
+  <InstallCircadianAssistant.description>Вживить циркадный стимулятор.</InstallCircadianAssistant.description>
+  <InstallCircadianAssistant.jobString>Вживляет циркадный стимулятор</InstallCircadianAssistant.jobString>
+  <InstallCircadianHalfCycler.label>вживить циркадный разделитель</InstallCircadianHalfCycler.label>
+  <InstallCircadianHalfCycler.description>Вживить циркадный разделитель.</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.jobString>Вживляет циркадный разделитель</InstallCircadianHalfCycler.jobString>
+  <InstallCoagulator.label>вживить коагулятор</InstallCoagulator.label>
+  <InstallCoagulator.description>Вживить коагулятор.</InstallCoagulator.description>
+  <InstallCoagulator.jobString>Вживляет коагулятор</InstallCoagulator.jobString>
+  <InstallDetoxifierStomach.label>вживить стерилизующий желудок</InstallDetoxifierStomach.label>
+  <InstallDetoxifierStomach.description>Вживить стерилизующий желудок.</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.jobString>Вживляет стерилизующий желудок</InstallDetoxifierStomach.jobString>
+  <InstallGastroAnalyzer.label>установить вкусовой анализатор</InstallGastroAnalyzer.label>
+  <InstallGastroAnalyzer.description>Вживить вкусовой анализатор.</InstallGastroAnalyzer.description>
+  <InstallGastroAnalyzer.jobString>устанавливает вкусовой анализатор.</InstallGastroAnalyzer.jobString>
+  <InstallHealingEnhancer.label>вживить исцелитель</InstallHealingEnhancer.label>
+  <InstallHealingEnhancer.description>Вживить исцелитель.</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.jobString>Вживляет исцелитель</InstallHealingEnhancer.jobString>
+  <InstallImmunoenhancer.label>вживить иммунизатор</InstallImmunoenhancer.label>
+  <InstallImmunoenhancer.description>Вживить иммунизатор.</InstallImmunoenhancer.description>
+  <InstallImmunoenhancer.jobString>Вживляет иммунизатор</InstallImmunoenhancer.jobString>
+  <InstallLearningAssistant.label>вживить когнитивный стимулятор</InstallLearningAssistant.label>
+  <InstallLearningAssistant.description>Вживить когнитивный стимулятор.</InstallLearningAssistant.description>
+  <InstallLearningAssistant.jobString>Вживляет когнитивный стимулятор</InstallLearningAssistant.jobString>
+  <InstallLoveEnhancer.label>вживить усилитель любви</InstallLoveEnhancer.label>
+  <InstallLoveEnhancer.description>Вживить усилитель любви.</InstallLoveEnhancer.description>
+  <InstallLoveEnhancer.jobString>Вживляет усилитель любви</InstallLoveEnhancer.jobString>
+  <InstallNeurocalculator.label>установить нейропроцессор</InstallNeurocalculator.label>
+  <InstallNeurocalculator.description>Вживить нейропроцессор.</InstallNeurocalculator.description>
+  <InstallNeurocalculator.jobString>устанавливает нейропроцессор.</InstallNeurocalculator.jobString>
+  <InstallNuclearStomach.label>вживить ядерный желудок</InstallNuclearStomach.label>
+  <InstallNuclearStomach.description>Вживить ядерный желудок.</InstallNuclearStomach.description>
+  <InstallNuclearStomach.jobString>Вживляет ядерный желудок</InstallNuclearStomach.jobString>
+  <InstallReprocessorStomach.label>вживить желудок повторной обработки</InstallReprocessorStomach.label>
+  <InstallReprocessorStomach.description>Вживить желудок повторной обработки.</InstallReprocessorStomach.description>
+  <InstallReprocessorStomach.jobString>Вживляет желудок повторной обработки</InstallReprocessorStomach.jobString>
+  <InstallStoneskinGland.label>вживить железу каменной кожи</InstallStoneskinGland.label>
+  <InstallStoneskinGland.description>Вживить железу каменной кожи.</InstallStoneskinGland.description>
+  <InstallStoneskinGland.jobString>Вживляет железу каменной кожи</InstallStoneskinGland.jobString>
+  <InstallToughskinGland.label>вживить железу твёрдой кожи</InstallToughskinGland.label>
+  <InstallToughskinGland.description>Вживить железу твёрдой кожи.</InstallToughskinGland.description>
+  <InstallToughskinGland.jobString>Вживляет железу твёрдой кожи</InstallToughskinGland.jobString>
+  <RemoveAestheticNose.label>удалить эстетичный нос</RemoveAestheticNose.label>
+  <RemoveAestheticNose.description>Удалить эстетичный нос.</RemoveAestheticNose.description>
+  <RemoveAestheticNose.jobString>Удаляет эстетичный нос</RemoveAestheticNose.jobString>
+  <RemoveAestheticShaper.label>удалить корректор фигуры</RemoveAestheticShaper.label>
+  <RemoveAestheticShaper.description>Удалить корректор фигуры.</RemoveAestheticShaper.description>
+  <RemoveAestheticShaper.jobString>Удаляет корректор фигуры</RemoveAestheticShaper.jobString>
+  <RemoveArmorskinGland.label>удалить бронирующую железу</RemoveArmorskinGland.label>
+  <RemoveArmorskinGland.description>Удалить бронирующую железу.</RemoveArmorskinGland.description>
+  <RemoveArmorskinGland.jobString>Удаляет бронирующую железу</RemoveArmorskinGland.jobString>
+  <RemoveCircadianAssistant.label>удалить циркадный стимулятор</RemoveCircadianAssistant.label>
+  <RemoveCircadianAssistant.description>Удалить циркадный стимулятор.</RemoveCircadianAssistant.description>
+  <RemoveCircadianAssistant.jobString>Удаляет циркадный стимулятор</RemoveCircadianAssistant.jobString>
+  <RemoveCircadianHalfCycler.label>удалить циркадный разделитель</RemoveCircadianHalfCycler.label>
+  <RemoveCircadianHalfCycler.description>Удалить циркадный разделитель.</RemoveCircadianHalfCycler.description>
+  <RemoveCircadianHalfCycler.jobString>Удаляет циркадный разделитель</RemoveCircadianHalfCycler.jobString>
+  <RemoveCoagulator.label>удалить коагулятор</RemoveCoagulator.label>
+  <RemoveCoagulator.description>Удалить коагулятор.</RemoveCoagulator.description>
+  <RemoveCoagulator.jobString>Удаляет коагулятор</RemoveCoagulator.jobString>
+  <RemoveGastroAnalyzer.label>удалить вкусовой анализатор</RemoveGastroAnalyzer.label>
+  <RemoveGastroAnalyzer.description>Удалить вкусовой анализатор.</RemoveGastroAnalyzer.description>
+  <RemoveGastroAnalyzer.jobString>Удаляет вкусовой анализатор</RemoveGastroAnalyzer.jobString>
+  <RemoveHealingEnhancer.label>удалить исцелитель</RemoveHealingEnhancer.label>
+  <RemoveHealingEnhancer.description>Удалить исцелитель.</RemoveHealingEnhancer.description>
+  <RemoveHealingEnhancer.jobString>Удаляет исцелитель</RemoveHealingEnhancer.jobString>
+  <RemoveImmunoenhancer.label>удалить иммунизатор</RemoveImmunoenhancer.label>
+  <RemoveImmunoenhancer.description>Удалить иммунизатор.</RemoveImmunoenhancer.description>
+  <RemoveImmunoenhancer.jobString>Удаляет иммунизатор</RemoveImmunoenhancer.jobString>
+  <RemoveLearningAssistant.label>удалить когнитивный стимулятор</RemoveLearningAssistant.label>
+  <RemoveLearningAssistant.description>Удалить когнитивный стимулятор.</RemoveLearningAssistant.description>
+  <RemoveLearningAssistant.jobString>Удаляет когнитивный стимулятор</RemoveLearningAssistant.jobString>
+  <RemoveLoveEnhancer.label>удалить усилитель любви</RemoveLoveEnhancer.label>
+  <RemoveLoveEnhancer.description>Удалить усилитель любви.</RemoveLoveEnhancer.description>
+  <RemoveLoveEnhancer.jobString>Удаляет усилитель любви</RemoveLoveEnhancer.jobString>
+  <RemoveNeurocalculator.label>удалить нейропроцессор</RemoveNeurocalculator.label>
+  <RemoveNeurocalculator.description>Удалить нейропроцессор.</RemoveNeurocalculator.description>
+  <RemoveNeurocalculator.jobString>Удаляет нейропроцессор</RemoveNeurocalculator.jobString>
+  <RemoveStoneskinGland.label>удалить железу каменной кожи</RemoveStoneskinGland.label>
+  <RemoveStoneskinGland.description>Удалить железу каменной кожи.</RemoveStoneskinGland.description>
+  <RemoveStoneskinGland.jobString>Удаляет железу каменной кожи</RemoveStoneskinGland.jobString>
+  <RemoveToughskinGland.label>удалить железу твёрдой кожи</RemoveToughskinGland.label>
+  <RemoveToughskinGland.description>Удалить железу твёрдой кожи.</RemoveToughskinGland.description>
+  <RemoveToughskinGland.jobString>Удаляет железу твёрдой кожи</RemoveToughskinGland.jobString>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChoppedStump_Harbinger.label>пень от древа-предвестника</ChoppedStump_Harbinger.label>
+  <ChoppedStump_Harbinger.description>Пень от срубленного древа-предвестника. Его можно выкорчевать, но годной древесины в нём очень мало. Если пень оставить на улице, он через какое-то время превратится в труху.</ChoppedStump_Harbinger.description>
+  <HarbingerSeed.label>семя древа-предвестника</HarbingerSeed.label>
+  <HarbingerSeed.description>Семя древа-предвестника. Из него можно вырастить новое древо-предвестник, которое будет подъедать оставленные рядом трупы и сырое мясо.</HarbingerSeed.description>
+  <Plant_TreeHarbinger.label>древо-предвестник</Plant_TreeHarbinger.label>
+  <Plant_TreeHarbinger.description>Сучковатое дерево, отращивающее вокруг своего биоферритового скелета оболочку из чего-то, похожего на плоть. Древеса-предвестники питаются трупами и сырым мясом, и если оставлять рядом с ними такие «удобрения», то вырастет целая роща.\n\nДрево можно срубить для получения жуткого мяса и биоферрита.\n\nВ племенах верят, что эти деревья — посланники безумного бесплотного божества, повелителя чёрного океана. В конце легенды божество выходит из воды и опрокидывает небеса.</Plant_TreeHarbinger.description>
+  <SmashedStump_Harbinger.label>расколотый пень древа-предвестника</SmashedStump_Harbinger.label>
+  <SmashedStump_Harbinger.description>Останки уничтоженного древа-предвестника. Выглядят некрасиво. Пень можно выкорчевать, но годной древесины в нём очень мало. Если пень оставить на улице, он через какое-то время превратится в труху.</SmashedStump_Harbinger.description>
+</LanguageData>

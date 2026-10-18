@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apocriton.label>апокритон</Apocriton.label>
+  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>левый оптический датчик</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>правый оптический датчик</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>левый звуковой датчик</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>правый звуковой датчик</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Apocriton.corePart.parts.front_left_leg.customLabel>передняя левая нога</Apocriton.corePart.parts.front_left_leg.customLabel>
+  <Apocriton.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>передняя левая ступня</Apocriton.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <Apocriton.corePart.parts.front_right_leg.customLabel>передняя правая нога</Apocriton.corePart.parts.front_right_leg.customLabel>
+  <Apocriton.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>передняя правая ступня</Apocriton.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <Apocriton.corePart.parts.rear_left_leg.customLabel>задняя левая нога</Apocriton.corePart.parts.rear_left_leg.customLabel>
+  <Apocriton.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>задняя левая ступня</Apocriton.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <Apocriton.corePart.parts.rear_right_leg.customLabel>задняя правая нога</Apocriton.corePart.parts.rear_right_leg.customLabel>
+  <Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>задняя правая ступня</Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  <Scorcher.label>вырастить испепелителя</Scorcher.label>
+  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>левый оптический датчик</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>правый оптический датчик</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>левый звуковой датчик</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>правый звуковой датчик</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Scorcher.corePart.parts.front_left_leg.customLabel>передняя левая нога</Scorcher.corePart.parts.front_left_leg.customLabel>
+  <Scorcher.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>передняя левая ступня</Scorcher.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <Scorcher.corePart.parts.front_right_leg.customLabel>передняя правая нога</Scorcher.corePart.parts.front_right_leg.customLabel>
+  <Scorcher.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>передняя левая ступня</Scorcher.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <Scorcher.corePart.parts.rear_left_leg.customLabel>задняя левая нога</Scorcher.corePart.parts.rear_left_leg.customLabel>
+  <Scorcher.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>задняя левая ступня</Scorcher.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <Scorcher.corePart.parts.rear_right_leg.customLabel>задняя правая нога</Scorcher.corePart.parts.rear_right_leg.customLabel>
+  <Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>задняя правая нога</Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+</LanguageData>

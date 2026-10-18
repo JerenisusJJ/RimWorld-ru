@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Snail.label>улитка</Snail.label>
+  <Snail.corePart.parts.left_nephridia.customLabel>левые нефридии</Snail.corePart.parts.left_nephridia.customLabel>
+  <Snail.corePart.parts.right_nephridia.customLabel>правые нефридии</Snail.corePart.parts.right_nephridia.customLabel>
+  <Snail.corePart.parts.hepatopancreas.customLabel>гепатопанкреас</Snail.corePart.parts.hepatopancreas.customLabel>
+  <Snail.corePart.parts.Head.parts.left_eyestalk.customLabel>левый глазной стебелек</Snail.corePart.parts.Head.parts.left_eyestalk.customLabel>
+  <Snail.corePart.parts.Head.parts.right_eyestalk.customLabel>правый глазной стебелек</Snail.corePart.parts.Head.parts.right_eyestalk.customLabel>
+</LanguageData>

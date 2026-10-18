@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Hack_WorshippedTerminal.questContentRules.rulesStrings>
+    <li>terminalHackedMessage-&gt;Терминал был успешно взломан. Вы получили необходимую вам информацию и можете уходить.</li>
+  </Hack_WorshippedTerminal.questContentRules.rulesStrings>
+  <Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы узнали о древнем терминале, на котором находится информация о реликвии под названием «[relic_name]». Терминал находится посреди деревни, жители которой поклоняются ему. Они не принадлежат к какой-либо крупной фракции.\n\n[visitInfo]</li>
+    <li>visitInfo(allowViolentQuests==true)-&gt;Они готовы пустить вас к себе, но только для поклонения терминалу. Если кто-то из ваших людей дотронется до него, местные нападут на вас.\n\nВы можете пробиться в деревню с боем или мирно пройти к терминалу, загрузить необходимые данные и попытаться сбежать.\n\nУчтите, если вы проведёте в деревне больше [timer_duration] или построите что-нибудь рядом с ней, местные нападут на вас и вызовут подкрепления.</li>
+    <li>visitInfo(allowViolentQuests==false)-&gt;Они готовы пустить ваших людей к себе.</li>
+  </Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings>
+    <li>questName-&gt;[adj] [terminalName]</li>
+    <li>questName-&gt;[terminalName] в [loc]</li>
+    <li>adj-&gt;почитаемый</li>
+    <li>adj-&gt;священный</li>
+    <li>adj-&gt;древний</li>
+    <li>adj-&gt;секретный</li>
+    <li>loc-&gt;деревне</li>
+    <li>loc-&gt;племени</li>
+    <li>terminalName(p=4)-&gt;терминал</li>
+    <li>terminalName-&gt;аппарат</li>
+    <li>terminalName-&gt;прибор</li>
+    <li>terminalName-&gt;компьютер</li>
+    <li>terminalName-&gt;датабанк</li>
+    <li>terminalName-&gt;вычислитель</li>
+  </Hack_WorshippedTerminal.questNameRules.rulesStrings>
+</LanguageData>

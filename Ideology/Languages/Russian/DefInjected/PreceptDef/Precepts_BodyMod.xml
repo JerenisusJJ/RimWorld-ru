@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BodyMod_Abhorrent.label>отвратительны</BodyMod_Abhorrent.label>
+  <BodyMod_Abhorrent.description>Изменение естественного облика человеческого тела — это вопиющее нарушение всех моральных законов.</BodyMod_Abhorrent.description>
+  <BodyMod_Approved.label>одобряются</BodyMod_Approved.label>
+  <BodyMod_Approved.description>Люди должны стремиться полностью раскрыть потенциал своих несовершенных тел, улучшая их.</BodyMod_Approved.description>
+  <BodyMod_Disapproved.label>не одобряются</BodyMod_Disapproved.label>
+  <BodyMod_Disapproved.description>Изменение естественного облика человеческого тела — грязно и порочно.</BodyMod_Disapproved.description>
+</LanguageData>

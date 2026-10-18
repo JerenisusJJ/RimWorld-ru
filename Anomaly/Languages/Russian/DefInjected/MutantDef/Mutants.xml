@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AwokenCorpse.label>пробуждённый труп</AwokenCorpse.label>
+  <Ghoul.label>упырь</Ghoul.label>
+  <Ghoul.description>Человек, превращённый в упыря.\n\nУпыри — настоящие машины убийства, созданные с помощью тёмной псионики.\n\nУпыри очень опасны в ближнем бою, однако процесс их создания лишает их высших психических функций, в результате чего они не могут пользоваться оружием и инструментами. Они не могут работать и вне боя ходят в почти бессознательном состоянии.\n\nМногих людей беспокоит постоянное подёргивание упырей. Ещё больше их беспокоит то, что упыри питаются сырым мясом. Если упырь оголодает, он может стать враждебным и в попытках утолить голод напасть на создателей.</Ghoul.description>
+  <Ghoul.deathLetter>Один из ваших упырей погиб.</Ghoul.deathLetter>
+  <Ghoul.deathLetterExtra>В отличие от обычных поселенцев упырей не нужно хоронить, и их смерть не расстраивает остальных. Но, если вам так хочется, похороны устроить всё равно можно.</Ghoul.deathLetterExtra>
+  <Ghoul.tools.teeth.label>зубы</Ghoul.tools.teeth.label>
+  <Ghoul.tools.left_claw.label>левая клешня</Ghoul.tools.left_claw.label>
+  <Ghoul.tools.left_claw.labelNoLocation>клешня</Ghoul.tools.left_claw.labelNoLocation>
+  <Ghoul.tools.right_claw.label>правая клешня</Ghoul.tools.right_claw.label>
+  <Ghoul.tools.right_claw.labelNoLocation>клешня</Ghoul.tools.right_claw.labelNoLocation>
+  <Shambler.label>шамблер</Shambler.label>
+  <Shambler.description>Существо, поднятое из мёртвых искажёнными архо-наночастицами.\n\nШамблеры представляют собой трупы, которым придают подобие жизни архотехнологии. Они неустанно нападают на живых существ, а из-за нечувствительности к боли их трудно убить. Однако даже архотехнологии не способны остановить разложение, и через несколько дней активности шамблеры упокаиваются.\n\nЕсть способы создать собственных шамблеров, при которых они будут не замечать вас и атаковать только чужаков.</Shambler.description>
+  <Shambler.namePrefix>шамблер </Shambler.namePrefix>
+  <Shambler.renderNodeProperties.0.debugLabel>Раны шамблера</Shambler.renderNodeProperties.0.debugLabel>
+  <Shambler.renderNodeProperties.1.debugLabel>Раны шамблера</Shambler.renderNodeProperties.1.debugLabel>
+  <Shambler.tools.teeth.label>зубы</Shambler.tools.teeth.label>
+  <Shambler.tools.left_hand.label>левая кисть</Shambler.tools.left_hand.label>
+  <Shambler.tools.left_hand.labelNoLocation>кисть</Shambler.tools.left_hand.labelNoLocation>
+  <Shambler.tools.right_hand.label>правая кисть</Shambler.tools.right_hand.label>
+  <Shambler.tools.right_hand.labelNoLocation>кисть</Shambler.tools.right_hand.labelNoLocation>
+</LanguageData>

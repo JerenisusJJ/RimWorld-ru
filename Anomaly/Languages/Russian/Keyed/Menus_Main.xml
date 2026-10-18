@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DifficultyAnomalySection>Аномалия</DifficultyAnomalySection>
+  <Difficulty_AnomalyThreats_Label>Аномальные угрозы</Difficulty_AnomalyThreats_Label>
+  <Difficulty_AnomalyThreats_Info>Процент серьёзных угроз, связанных с аномалией.</Difficulty_AnomalyThreats_Info>
+  <Difficulty_AnomalyThreatsInactive_Label>Аномальные угрозы (неактивен)</Difficulty_AnomalyThreatsInactive_Label>
+  <Difficulty_AnomalyThreatsInactive_Info>Процент серьёзных угроз, связанных с аномалией, пока монолит неактивен. В этом случае будут случаться только некоторые виды аномальных происшествий.</Difficulty_AnomalyThreatsInactive_Info>
+  <Difficulty_AnomalyThreatsActive_Label>Аномальные угрозы (активен)</Difficulty_AnomalyThreatsActive_Label>
+  <Difficulty_AnomalyThreatsActive_Info>Процент серьёзных угроз, связанных с аномалией, пока монолит активен.\nС текущими настройками:\n — на уровнях монолита 1 и 5 — {0} серьёзных угроз будут аномальными\n — на уровнях монолита 2-4 — {1} серьёзных угроз будут аномальными</Difficulty_AnomalyThreatsActive_Info>
+  <Difficulty_StudyEfficiency_Label>Эффективность исследования</Difficulty_StudyEfficiency_Label>
+  <Difficulty_StudyEfficiency_Info>Множитель, применяемый к объёму знаний, которые человек добывает при исследовании противоестественных тварей.</Difficulty_StudyEfficiency_Info>
+  <Difficulty_ChildShamblersAllowed_Label>Шамблеры-дети</Difficulty_ChildShamblersAllowed_Label>
+  <Difficulty_ChildShamblersAllowed_Info>Временами будут появляться ожившие дети-шамблеры.</Difficulty_ChildShamblersAllowed_Info>
+  <AnomalySettings>Настройки аномалии</AnomalySettings>
+  <ChooseAnomalyPlaystyle>Выберите то, как ужас аномалии будет влиять на вашу игру:</ChooseAnomalyPlaystyle>
+  <CanBeEditedInStorytellerSettings>Настройки рассказчика, связанные с аномалией. Их можно менять во время игры</CanBeEditedInStorytellerSettings>
+  <SetToStandardPlaystyle>Восстановить настройки по умолчанию</SetToStandardPlaystyle>
+</LanguageData>

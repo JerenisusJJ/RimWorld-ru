@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BrainwipeTarget.label>цель</BrainwipeTarget.label>
+  <Chanter.label>чтец</Chanter.label>
+  <Chanter.description>Чтецы вкладывают в ритуал свои псионические силы.</Chanter.description>
+  <ChanterAdvanced.label>чтец</ChanterAdvanced.label>
+  <ChanterAdvanced.description>Чтецы вкладывают в ритуал свои псионические силы.</ChanterAdvanced.description>
+  <ChronophagyTarget.label>цель</ChronophagyTarget.label>
+  <DeathRefusalTarget.label>цель</DeathRefusalTarget.label>
+  <DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>{PAWN_labelShort} не может копить лекарства от смерти</DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>
+  <Defender.label>защитник</Defender.label>
+  <Defender.description>Защитники охраняют участников ритуала.</Defender.description>
+  <Invoker.label>заклинатель</Invoker.label>
+  <PhilophagyTarget.label>цель</PhilophagyTarget.label>
+  <PsychophagyTarget.label>цель</PsychophagyTarget.label>
+</LanguageData>

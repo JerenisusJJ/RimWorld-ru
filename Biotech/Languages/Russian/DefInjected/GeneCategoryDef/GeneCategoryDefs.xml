@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Ability.label>особые способности</Ability.label>
+  <Aptitudes.label>склонности</Aptitudes.label>
+  <Archite.label>архиты</Archite.label>
+  <Beauty.label>красота</Beauty.label>
+  <Cosmetic_Body.label>косметические — телосложение</Cosmetic_Body.label>
+  <Drugs.label>наркотики</Drugs.label>
+  <Healing.label>здоровье</Healing.label>
+  <Hemogen.label>гемоген</Hemogen.label>
+  <Mood.label>настроение</Mood.label>
+  <Movement.label>движение</Movement.label>
+  <Pain.label>боль</Pain.label>
+  <Psychic.label>психика</Psychic.label>
+  <Reproduction.label>деторождение и близость</Reproduction.label>
+  <ResistanceAndWeakness.label>сопротивление и чувствительность</ResistanceAndWeakness.label>
+  <Sleep.label>сон</Sleep.label>
+  <Temperature.label>температура</Temperature.label>
+  <Violence.label>насилие</Violence.label>
+</LanguageData>

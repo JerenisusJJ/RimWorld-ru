@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apparel_EltexSkullcap.label>тафья из эльтекса</Apparel_EltexSkullcap.label>
+  <Apparel_EltexSkullcap.description>Плотно прилегающая к голове шапка, предназначенная для поддержания пси-концентрации. Не даёт защиты от физических атак, но благодаря особым материалам усиливает психочувствительность и рассеивает нейроперегрев носящего.</Apparel_EltexSkullcap.description>
+  <Apparel_PsyfocusHelmet.label>шлем из эльтекса</Apparel_PsyfocusHelmet.label>
+  <Apparel_PsyfocusHelmet.description>Лёгкий шлем, предназначенный для поддержания пси-концентрации. Не даёт большой защиты от физических атак, но благодаря особым материалам усиливает психочувствительность и рассеивает нейроперегрев носящего.</Apparel_PsyfocusHelmet.description>
+  <Apparel_PsyfocusRobe.label>мантия из эльтекса</Apparel_PsyfocusRobe.label>
+  <Apparel_PsyfocusRobe.description>В эту длинную мантию вшиты особые материалы, поддерживающие пси-концентрацию владельца. Они усиливают психическую чувствительность и рассеивают нейроперегрев.</Apparel_PsyfocusRobe.description>
+  <Apparel_PsyfocusShirt.label>рубашка из эльтекса</Apparel_PsyfocusShirt.label>
+  <Apparel_PsyfocusShirt.description>В эту рубашку вшиты особые материалы, поддерживающие пси-концентрацию владельца. Они усиливают психическую чувствительность и рассеивают нейроперегрев.</Apparel_PsyfocusShirt.description>
+  <Apparel_PsyfocusVest.label>жилет из эльтекса</Apparel_PsyfocusVest.label>
+  <Apparel_PsyfocusVest.description>Тонкий жилет, в которые вшиты особые материалы, поддерживающие пси-концентрацию владельца. Они усиливают психическую чувствительность и рассеивают нейроперегрев.</Apparel_PsyfocusVest.description>
+</LanguageData>

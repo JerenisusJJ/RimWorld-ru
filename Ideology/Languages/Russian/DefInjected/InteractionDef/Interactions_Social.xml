@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Convert_Failure.label>неудачная попытка обращения</Convert_Failure.label>
+  <Convert_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_tried] обратить [RECIPIENT_nameDef], но [initiator_failed] неудачу.</li>
+    <li>initiator_tried(INITIATOR_gender==Male)-&gt;попытался</li>
+    <li>initiator_tried(INITIATOR_gender==Female)-&gt;попыталась</li>
+    <li>initiator_failed(INITIATOR_gender==Male)-&gt;потерпел</li>
+    <li>initiator_failed(INITIATOR_gender==Female)-&gt;потерпела</li>
+  </Convert_Failure.logRulesInitiator.rulesStrings>
+  <Convert_Success.label>удачная попытка обращения</Convert_Success.label>
+  <Convert_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] успешно [initiator_converted] [RECIPIENT_nameDef].</li>
+    <li>initiator_converted(INITIATOR_gender==Male)-&gt;обратил</li>
+    <li>initiator_converted(INITIATOR_gender==Female)-&gt;обратила</li>
+  </Convert_Success.logRulesInitiator.rulesStrings>
+  <ConvertIdeoAttempt.label>попытка обращения</ConvertIdeoAttempt.label>
+  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_tried] обратить [RECIPIENT_nameDef] в свою идеолигию.</li>
+    <li>initiator_tried(INITIATOR_gender==Male)-&gt;попытался</li>
+    <li>initiator_tried(INITIATOR_gender==Female)-&gt;попыталась</li>
+  </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+  <Counsel_Failure.label>неудачное утешение</Counsel_Failure.label>
+  <Counsel_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_tried] утешить [RECIPIENT_nameDef], но [initiator_failed] ошибку и [initiator_made] всё только хуже.</li>
+    <li>initiator_tried(INITIATOR_gender==Male)-&gt;попытался</li>
+    <li>initiator_tried(INITIATOR_gender==Female)-&gt;попыталась</li>
+    <li>initiator_failed(INITIATOR_gender==Male)-&gt;совершил</li>
+    <li>initiator_failed(INITIATOR_gender==Female)-&gt;совершила</li>
+    <li>initiator_made(INITIATOR_gender==Male)-&gt;сделал</li>
+    <li>initiator_made(INITIATOR_gender==Female)-&gt;сделала</li>
+  </Counsel_Failure.logRulesInitiator.rulesStrings>
+  <Counsel_Success.label>успешное утешение</Counsel_Success.label>
+  <Counsel_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_helped] [RECIPIENT_nameDef] преодолеть [problems].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_helped] [RECIPIENT_nameDef] хорошо обдумать [problems].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_gave] [RECIPIENT_nameDef] совет, как мыслить позитивно.</li>
+    <li>problems-&gt;[RECIPIENT_possessive] проблемы</li>
+    <li>problems-&gt;[RECIPIENT_possessive] сложности</li>
+    <li>problems-&gt;[RECIPIENT_possessive] болезненные чувства</li>
+    <li>problems-&gt;недавние неурядицы</li>
+    <li>initiator_helped(INITIATOR_gender==Male)-&gt;помог</li>
+    <li>initiator_helped(INITIATOR_gender==Female)-&gt;помогла</li>
+    <li>initiator_gave(INITIATOR_gender==Male)-&gt;дал</li>
+    <li>initiator_gave(INITIATOR_gender==Female)-&gt;дала</li>
+  </Counsel_Success.logRulesInitiator.rulesStrings>
+  <PreachHealth.label>проведена проповедь за здоровье</PreachHealth.label>
+  <PreachHealth.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_reinforced] здоровье [RECIPIENT_nameDef], проведя проповедь о [preaching_topic].</li>
+    <li>preaching_topic-&gt;важности жизни</li>
+    <li>preaching_topic-&gt;высоких идеолигических ценностях</li>
+    <li>preaching_topic-&gt;[RECIPIENT_possessive] смысле существования</li>
+    <li>initiator_reinforced(INITIATOR_gender==Male)-&gt;укрепил</li>
+    <li>initiator_reinforced(INITIATOR_gender==Female)-&gt;укрепила</li>
+  </PreachHealth.logRulesInitiator.rulesStrings>
+  <Reassure.label>сомнения развеяны</Reassure.label>
+  <Reassure.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_reinforced] веру [RECIPIENT_nameDef] в свои убеждения.</li>
+    <li>initiator_reinforced(INITIATOR_gender==Male)-&gt;укрепил</li>
+    <li>initiator_reinforced(INITIATOR_gender==Female)-&gt;укрепила</li>
+  </Reassure.logRulesInitiator.rulesStrings>
+  <Trial_Accuse.label>обвинение</Trial_Accuse.label>
+  <Trial_Accuse.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_presented] доказательства.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_appealed] к эмоциям присутствующих.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_accused] [RECIPIENT_nameDef] в [wrongdoing].</li>
+    <li>wrongdoing-&gt;саботаже</li>
+    <li>wrongdoing-&gt;лени</li>
+    <li>wrongdoing-&gt;обжорстве</li>
+    <li>wrongdoing-&gt;воровстве</li>
+    <li>wrongdoing-&gt;отвратительном поведении</li>
+    <li>wrongdoing-&gt;неуважении к священным идеям</li>
+    <li>wrongdoing-&gt;в неуважении к почётным людям</li>
+    <li>wrongdoing-&gt;ереси</li>
+    <li>wrongdoing-&gt;убийстве</li>
+    <li>wrongdoing-&gt;богохульстве</li>
+    <li>wrongdoing-&gt;измене</li>
+    <li>wrongdoing-&gt;разжигании ненависти</li>
+    <li>wrongdoing-&gt;вероломстве</li>
+    <li>initiator_presented(INITIATOR_gender==Male)-&gt;предоставил</li>
+    <li>initiator_presented(INITIATOR_gender==Female)-&gt;предоставила</li>
+    <li>initiator_appealed(INITIATOR_gender==Male)-&gt;обратился</li>
+    <li>initiator_appealed(INITIATOR_gender==Female)-&gt;обратилась</li>
+    <li>initiator_accused(INITIATOR_gender==Male)-&gt;обвинил</li>
+    <li>initiator_accused(INITIATOR_gender==Female)-&gt;обвинила</li>
+  </Trial_Accuse.logRulesInitiator.rulesStrings>
+  <Trial_Defend.label>защита</Trial_Defend.label>
+  <Trial_Defend.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [recipient_answer1] обвинения.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [recipient_answer2] другую точку зрения.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [recipient_answer3] к присяжным.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [recipient_answer4] о пощаде.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] тянет время.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [recipient_answer5] судебный процесс фикцией.</li>
+    <li>recipient_answer1(INITIATOR_gender==Male)-&gt;отверг</li>
+    <li>recipient_answer1(INITIATOR_gender==Female)-&gt;отвергла</li>
+    <li>recipient_answer2(INITIATOR_gender==Male)-&gt;представил</li>
+    <li>recipient_answer2(INITIATOR_gender==Female)-&gt;представила</li>
+    <li>recipient_answer3(INITIATOR_gender==Male)-&gt;обратился</li>
+    <li>recipient_answer3(INITIATOR_gender==Female)-&gt;обратилась</li>
+    <li>recipient_answer4(INITIATOR_gender==Male)-&gt;взмолил</li>
+    <li>recipient_answer4(INITIATOR_gender==Female)-&gt;взмолила</li>
+    <li>recipient_answer5(INITIATOR_gender==Male)-&gt;назвал</li>
+    <li>recipient_answer5(INITIATOR_gender==Female)-&gt;назвал</li>
+  </Trial_Defend.logRulesInitiator.rulesStrings>
+  <WorkDrive.label>рабочий запал</WorkDrive.label>
+  <WorkDrive.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [initiator_called] [RECIPIENT_nameDef] работать с особым усердием на благо поселения.</li>
+    <li>initiator_called(INITIATOR_gender==Male)-&gt;призвал</li>
+    <li>initiator_called(INITIATOR_gender==Female)-&gt;призвала</li>
+  </WorkDrive.logRulesInitiator.rulesStrings>
+</LanguageData>

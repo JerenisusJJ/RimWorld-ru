@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <QuestHospitalityCommon.rulePack.rulesStrings>
+    <li>allLodgerInfo-&gt;[healthInfo][minMoodInfo][workInfo][includesChildren]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount==1)-&gt;[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>lodgersLabelSingOrPlural_gen(lodgersCount==1)-&gt;[lodgersLabelGen]</li>
+    <li>lodgersLabelSingOrPlural_gen(lodgersCount&gt;=2)-&gt;[lodgersLabelPluralGen]</li>
+    <li>lodgersLabelSingOrPlural_acc(lodgersCount==1)-&gt;[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPlural_acc(lodgersCount&gt;=2)-&gt;[lodgersLabelPluralAcc]</li>
+    <li>lodgers_arrived(lodgersCount==1,lodgers0_gender==Male)-&gt;прибыл</li>
+    <li>lodgers_arrived(lodgersCount==1,lodgers0_gender==Female)-&gt;прибыла</li>
+    <li>lodgers_arrived(lodgersCount&gt;=2)-&gt;прибыли</li>
+    <li>lodgers_possessive(lodgersCount==1)-&gt;[lodgers0_possessive]</li>
+    <li>lodgers_possessive(lodgersCount&gt;=2)-&gt;их</li>
+    <li>lodgers_pronoun(lodgersCount==1)-&gt;[lodgers0_pronoun]</li>
+    <li>lodgers_pronoun(lodgersCount&gt;=2)-&gt;они</li>
+    <li>lodgers_these_people_will_be(lodgersCount==1)-&gt;этот человек будет</li>
+    <li>lodgers_these_people_will_be(lodgersCount&gt;=2)-&gt;эти люди будут</li>
+    <li>lodgers_will_leave(lodgersCount==1)-&gt;покинет</li>
+    <li>lodgers_will_leave(lodgersCount&gt;=2)-&gt;покинут</li>
+    <li>lodgers_should(lodgersCount==1,lodgers0_gender==Male)-&gt;должен</li>
+    <li>lodgers_should(lodgersCount==1,lodgers0_gender==Female)-&gt;должна</li>
+    <li>lodgers_should(lodgersCount&gt;=2)-&gt;должны</li>
+    <li>lodgers_sick(lodgersCount==1,lodgers0_gender==Male)-&gt;болен</li>
+    <li>lodgers_sick(lodgersCount==1,lodgers0_gender==Female)-&gt;больна</li>
+    <li>lodgers_sick(lodgersCount&gt;=2)-&gt;больны</li>
+    <li>lodgers_will(lodgersCount==1)-&gt;будет</li>
+    <li>lodgers_will(lodgersCount&gt;=2)-&gt;будут</li>
+    <li>lodgers_suffer(lodgersCount==1)-&gt;страдает</li>
+    <li>lodgers_suffer(lodgersCount&gt;=2)-&gt;страдают</li>
+    <li>includesChildren(priority=-999)-&gt;</li>
+    <li>includesChildren(childCount==1)-&gt;\n\nСреди [lodgersLabelSingOrPlural_gen] есть ребёнок.</li>
+    <li>includesChildren(childCount&gt;=2)-&gt;\n\nСреди [lodgersLabelSingOrPlural_gen] есть дети.</li>
+    <li>healthInfo-&gt;</li>
+    <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)-&gt;\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
+    <li>healthInfo(lodgersAreParalyzed==true,priority=1)-&gt;\n\n[paralyzedInfo]</li>
+    <li>healthInfo(lodgersHaveBloodRot==true,priority=1)-&gt;\n\n[bloodRotInfo]</li>
+    <li>paralyzedInfo-&gt;[lodgersLabelSingOrPlural] [lodgers_suffer] от паралитической абазии и [lodgers_should] находиться в кровати.</li>
+    <li>bloodRotInfo-&gt;[lodgersLabelSingOrPlural] [lodgers_sick] гнилокровием и [lodgers_will] нуждаться в ежедневном лечении. Хороший уход и качественные лекарства помогут замедлить болезнь, но её невозможно вылечить сразу. Гнилокровие в запущенной стадии приводит к смерти. Убедитесь, что у вас есть запас необходимых медикаментов.</li>
+    <li>minMoodInfo-&gt;</li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold&gt;0,priority=1)-&gt;\n\nвы должны поддерживать настроение [lodgersLabelSingOrPlural_gen] выше [lodgersMoodThreshold_percent].</li>
+    <li>workInfo-&gt;</li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1)-&gt;\n\n[lodgersLabelSingOrPlural] не [lodgers_will] работать.</li>
+    <li>commonDescEnding-&gt;[helpersParagraph]</li>
+    <li>enemyGroupsParagraph-&gt;[threatDescriptionParagraph]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)-&gt;на вас совершат налёт примерно в следующем составе:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize&gt;1)-&gt;на вас совершат налёт силой х[threatSize] примерно в следующем составе:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount&gt;1,threatSize==1)-&gt;на вас совершат [threatCount] налёта примерно в следующем составе:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount&gt;1,threatSize&gt;1)-&gt;на вас совершат [threatCount] налёта силой х[threatSize] примерно в следующем составе:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)-&gt;неподалёку десантируется кластер механоидов.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)-&gt;неподалёку десантируются два кластера механоидов.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize&gt;1)-&gt;неподалёку десантируется кластер механоидов размера x[threatSize].</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize&gt;1)-&gt;неподалёку десантируются два кластера механоидов размера x[threatSize].</li>
+    <li>enemyGroupsParagraph-&gt;Налёты будут происходить примерно раз в [threatsIntervalTicks_duration]. В их составе будут:\n\n[threatExample]</li>
+    <li>threatsInfoMechClustersSingleHuman-&gt;[lodgers0_nameDef] недавно [lodgers0_mechViolation], и преследуется роем механоидов, базирующимся на орбите.</li>
+    <li>threatsInfoMechClustersMultiPrisoners-&gt;Эти заключённые недавно [mechViolation_plural], и преследуются роем механоидов, базирующимся на орбите.</li>
+    <li>threatsInfoMechRaidsSingleHuman-&gt;[lodgers0_nameDef] недавно [lodgers0_mechViolation], и преследуется роем механоидов.</li>
+    <li>threatsInfoMechRaidsMultiHuman-&gt;Они недавно [mechViolation_plural], и преследуются роем механоидов.</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Male)-&gt;каким-то образом разозлил архотека</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Male)-&gt;осквернил древний терминал суперкомпьютера</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Male)-&gt;убил человеческого ребёнка, обожаемого архотеком</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Male)-&gt;попытался взломать управляющий узел механоидов</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Male)-&gt;попытался совершить кражу из древнего хранилища</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Female)-&gt;каким-то образом разозлила архотека</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Female)-&gt;осквернила древний терминал суперкомпьютера</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Female)-&gt;убила человеческого ребёнка, обожаемого архотеком</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Female)-&gt;попыталась взломать управляющий узел механоидов</li>
+    <li>lodgers0_mechViolation(lodgers0_gender==Female)-&gt;попыталась совершить кражу из древнего хранилища</li>
+    <li>mechViolation_plural-&gt;каким-то образом разозлили архотека</li>
+    <li>mechViolation_plural-&gt;осквернили древний терминал суперкомпьютера</li>
+    <li>mechViolation_plural-&gt;убили человеческого ребёнка, обожаемого архотеком</li>
+    <li>mechViolation_plural-&gt;попытались взломать управляющий узел механоидов</li>
+    <li>mechViolation_plural-&gt;попытались совершить кражу из древнего хранилища</li>
+    <li>letterSubject-&gt;{SUBJECT_definite}</li>
+    <li>remainingWillNowLeave(lodgersCount==1)-&gt;</li>
+    <li>remainingWillNowLeave(lodgersCount&gt;=2)-&gt;Все оставшиеся [lodgersLabelPlural] покинут поселение.</li>
+    <li>failLetterEndingQuest-&gt;Вы провалили задание «[resolvedQuestName]».</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)-&gt;[failLetterEndingQuest]</li>
+    <li>failLetterEndingCommon-&gt;[failLetterEndingQuest]\n\nВаша репутация у фракции [asker_faction_name] ухудшилась на [goodwillPenalty].</li>
+  </QuestHospitalityCommon.rulePack.rulesStrings>
+</LanguageData>

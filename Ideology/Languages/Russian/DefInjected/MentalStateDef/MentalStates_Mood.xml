@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <IdeoChange.label>кризис убеждений</IdeoChange.label>
+  <IdeoChange.baseInspectLine>Душевное состояние: кризис убеждений</IdeoChange.baseInspectLine>
+  <IdeoChange.beginLetter>Дух {PAWN_nameDef} сломлен. {PAWN_objective} пришлось переосмыслить взгляды на очень много вещей.</IdeoChange.beginLetter>
+  <Rebellion.label>восстание</Rebellion.label>
+  <Rebellion.baseInspectLine>Душевное состояние: восстание</Rebellion.baseInspectLine>
+  <Rebellion.beginLetter>Терпение {0} лопнуло — {0_pronoun} будет убеждать других рабов восстать.</Rebellion.beginLetter>
+  <Rebellion.beginLetterLabel>восстание</Rebellion.beginLetterLabel>
+</LanguageData>

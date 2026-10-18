@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BloodWarmer.label>подогреватель крови</BloodWarmer.label>
+  <BloodWarmer.description>Особый биоферритовый протез, который активно нагревает кровь упыря, позволяя ему выживать в условиях холода. Протез заменяет почку упыря, нагревая проходящую через нее кровь.\n\nПоскольку протез доставляет крайне болезненные ощущения, такое улучшение могут переносить только упыри.</BloodWarmer.description>
+  <PilotAssistant.label>помощник пилота</PilotAssistant.label>
+  <PilotAssistant.description>Нейроинтерфейс, который соединяет мозг пилота напрямую с транспортным средством, улучшая контроль и скорость реакции пилота. Только не думайте о крушении.</PilotAssistant.description>
+  <PilotAssistant.labelNoun>помощник пилота</PilotAssistant.labelNoun>
+  <SentienceCatalyst.label>катализатор разума</SentienceCatalyst.label>
+  <SentienceCatalyst.description>Одноразовая доза механитов, которая улучшает нейронные связи у животных, навсегда повышая их обучаемость и снижая уровень дикости.\n\nЭффект не суммируется.</SentienceCatalyst.description>
+  <SentienceCatalyst.labelNoun>катализатор разума</SentienceCatalyst.labelNoun>
+  <VacskinGland.label>герметизирующая железа</VacskinGland.label>
+  <VacskinGland.labelNoun>герметизирующая железа</VacskinGland.labelNoun>
+  <VacskinGland.description>Имплантированная герметизирующая железа. Выделяет воскообразное вещество, образующее на коже изолирующий защитный слой, предотвращающий вакуумные ожоги, но несколько сковывающий движения. Железа также регулирует уровень кислорода в крови, продлевая выживание в открытом космосе.</VacskinGland.description>
+</LanguageData>

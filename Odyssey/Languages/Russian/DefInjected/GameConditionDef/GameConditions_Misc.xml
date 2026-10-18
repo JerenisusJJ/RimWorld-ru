@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BioluminescentSpores.label>биолюминесцентные споры</BioluminescentSpores.label>
+  <BioluminescentSpores.description>Некоторые разновидности грибов цветут и выпускают биолюминесцентные споры! Споры необычайно красивы и не представляют опасности.</BioluminescentSpores.description>
+  <BioluminescentSpores.endMessage>Биолюминесцентные споры рассеиваются.</BioluminescentSpores.endMessage>
+  <BioluminescentSpores.letterText>Некоторые разновидности грибов цветут и выпускают биолюминесцентные споры! Споры необычайно красивы и не представляют опасности.</BioluminescentSpores.letterText>
+  <DarkenedSkies.label>потемневшие небеса</DarkenedSkies.label>
+  <DarkenedSkies.description>Плотные чёрные облака заслоняют небо и солнце.</DarkenedSkies.description>
+  <DeepFreeze.label>сильные заморозки</DeepFreeze.label>
+  <DeepFreeze.description>Древнее, загадочное устройство резко понижает температуру в этом районе.</DeepFreeze.description>
+  <DeepFreeze.endMessage>Сильные заморозки отступают.</DeepFreeze.endMessage>
+  <Drought.label>засуха</Drought.label>
+  <Drought.description>Длительный период малых осадков. Во время засухи растения будут расти медленнее.</Drought.description>
+  <Drought.endMessage>Засуха закончилась.</Drought.endMessage>
+  <Drought.letterText>Из-за недавнего отсутствия дождей началась засуха. Растения на открытом воздухе будут расти значительно медленнее.</Drought.letterText>
+  <DroughtInitial.label>первые признаки засухи</DroughtInitial.label>
+  <DroughtInitial.description>Первые признаки засухи. Если так пойдет и дальше, начнется полноценная засуха.</DroughtInitial.description>
+  <GillRot.label>жаброгниль</GillRot.label>
+  <GillRot.description>Популяция рыб медленно сокращается из-за гриба-паразита, известного как жаброгниль. Этот гриб не опасен для людей.</GillRot.description>
+  <GillRot.endMessage>Жаброгниль отступает.</GillRot.endMessage>
+  <GillRot.letterText>Среди местных популяций рыб появился гриб-паразит — жаброгниль. Хотя для людей он безвреден, гриб будет вызывать постепенное сокращение популяции рыб в течение некоторого времени.\n\nМалое количество рыб сделает рыбалку менее эффективной.</GillRot.letterText>
+  <HeatVentHeat.label>выбросы из теплоотвода</HeatVentHeat.label>
+  <HeatVentHeat.description>Выбросы из близлежащего подземного теплоотвода повышают температуру в этом районе.</HeatVentHeat.description>
+  <LavaFlow.label>поток лавы</LavaFlow.label>
+  <LavaFlow.description>Окружающий ландшафт регулярно направляет большие потоки лавы в этот район, делая его крайне негостеприимным.</LavaFlow.description>
+  <VolcanicAsh.label>вулканический пепел</VolcanicAsh.label>
+  <VolcanicAsh.description>Пепел от извержения вулкана.</VolcanicAsh.description>
+  <VolcanicAsh.descriptionFuture>Ближайшее извержение покроет [map_definite] облаком пепла на [gameConditionDuration_duration], заслоняя небо и затрудняя дыхание.</VolcanicAsh.descriptionFuture>
+  <VolcanicAsh.endMessage>Большая часть пепла осела.</VolcanicAsh.endMessage>
+  <VolcanicAsh.letterText>Пепел от ближайшего извержения вулкана наполняет небо. Солнце заволокло, а едкий воздух обжигает лёгкие. Облако продержится несколько дней.</VolcanicAsh.letterText>
+  <VolcanicDebris.label>вулканический выброс</VolcanicDebris.label>
+  <VolcanicDebris.description>Ближайшее извержение вулкана заливает этот регион расплавленной лавой!</VolcanicDebris.description>
+  <VolcanicDebris.letterText>Ближайшее извержение вулкана заливает этот регион расплавленной лавой!</VolcanicDebris.letterText>
+  <WindyGameCondition.label>ветрено</WindyGameCondition.label>
+  <WindyGameCondition.description>В этой области дуют гораздо более сильные ветры.</WindyGameCondition.description>
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InfantIllness.label>послеродовые осложнения</InfantIllness.label>
+  <InfantIllness.description>Совокупность различных осложнений, возникших при родах. Если младенец выживет в течение 10 дней, он сможет самостоятельно поправиться.\n\nСостояние младенца будет то ухудшаться, то улучшаться, требуя изменения в качестве медикаментов и ухода.</InfantIllness.description>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>Послеродовые осложнения {PAWN_labelShort} перешли из {replace: {1}; «неопасные»-«неопасной»; «обычные»-«обычной»; «опасные»-«опасной»; «очень опасные»-«очень опасной»} формы в {replace: {2}; «неопасные»-«неопасную»; «обычные»-«обычную»; «опасные»-«опасную»; «очень опасные»-«очень опасную»}.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>угрожает жизни без передовых медикаментов и вмешательства высококлассного врача.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>очень опасные</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>угрожает жизни без обычных медикаментов и хорошего ухода.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>опасные</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>угрожает жизни без базовых медикаментов и ухода.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>обычные</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>не угрожает жизни, младенец поправится самостоятельно.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>неопасные</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
+  <InfantIllness.descriptionShort>Совокупность различных послеродовых осложнений</InfantIllness.descriptionShort>
+  <InfantIllness.stages.minor.label>лёгкие</InfantIllness.stages.minor.label>
+  <InfantIllness.stages.major.label>тяжёлые</InfantIllness.stages.major.label>
+  <InfantIllness.stages.extreme-0.label>очень тяжёлые</InfantIllness.stages.extreme-0.label>
+  <InfantIllness.stages.extreme-1.label>критические</InfantIllness.stages.extreme-1.label>
+  <Lactating.label>лактация</Lactating.label>
+  <Lactating.description>Способность грудного вскармливания младенцев. Грудное молоко вырабатывается и накапливается в молочных железах. Лактация начинается после родов и продолжается неограниченное время до тех пор, пока грудное кормление происходит хотя бы раз в 10 дней.\n\nВо время лактации сложнее забеременеть.</Lactating.description>
+  <Lactating.comps.HediffComp_MessageOnRemoval.message>Лактация {0} остановилась, так как грудное кормление не происходило больше 10 дней.</Lactating.comps.HediffComp_MessageOnRemoval.message>
+  <Lactating.comps.HediffComp_Lactating.labelInBrackets>количество молока {CHARGEFACTOR_percentage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
+  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>Лактация {0} остановилась из-за голода.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
+  <MorningSickness.label>тошнота</MorningSickness.label>
+  <MorningSickness.description>Тошнота, сопровождающаяся недомоганием и спутанностью сознания — частый спутник беременных.</MorningSickness.description>
+  <OvumExtracted.label>извлечена яйцеклетка</OvumExtracted.label>
+  <OvumExtracted.description>Из организма недавно была извлечена яйцеклетка. Перед следующим извлечением нужно подождать некоторое время.</OvumExtracted.description>
+  <PollutionStimulus.label>токсистимуляция</PollutionStimulus.label>
+  <PollutionStimulus.description>Прирост сил и энергии от воздействия токсинов.\n\nИзначально токсистимуляция генетически закладывалась в гигантских насекомых, которых выращивали как биооружие против механоидов. В настоящее время этот ген помогает выживать в загрязнённых областях многим людям.</PollutionStimulus.description>
+  <PollutionStimulus.descriptionShort>Стимуляция от воздействия токсинов.</PollutionStimulus.descriptionShort>
+  <PollutionStimulus.stages.minor.label>лёгкая</PollutionStimulus.stages.minor.label>
+  <PollutionStimulus.stages.moderate.label>умеренная</PollutionStimulus.stages.moderate.label>
+  <PollutionStimulus.stages.maximum.label>сильная</PollutionStimulus.stages.maximum.label>
+  <PostpartumExhaustion.label>послеродовое истощение</PostpartumExhaustion.label>
+  <PostpartumExhaustion.description>Измождение организма после родов. Матери требуется время на восстановление сил.</PostpartumExhaustion.description>
+  <PregnancyLabor.label>роды (раскрытие шейки матки)</PregnancyLabor.label>
+  <PregnancyLabor.description>Роды совсем скоро начнутся. Они состоят из нескольких фаз, отличающихся интенсивностью схваток и болезненностью.</PregnancyLabor.description>
+  <PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>Течение родов {PAWN_labelShort} из {replace: {1}; «лёгкое»-«лёгкого»; «тяжёлое»-«тяжёлого»; «очень тяжёлое»-«очень тяжёлого»} стало {replace: {2}; «лёгкое»-«лёгким»; «тяжёлое»-«тяжёлым»; «очень тяжёлое»-«очень тяжёлым»}.</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
+  <PregnancyLabor.stages.mild.label>лёгкое</PregnancyLabor.stages.mild.label>
+  <PregnancyLabor.stages.intense.label>тяжёлое</PregnancyLabor.stages.intense.label>
+  <PregnancyLabor.stages.debilitating.label>очень тяжёлое</PregnancyLabor.stages.debilitating.label>
+  <PregnancyLaborPushing.label>роды (изгнание плода)</PregnancyLaborPushing.label>
+  <PregnancyLaborPushing.description>Плод спускается к родовому каналу, мать ощущает сильный позыв тужиться. Совсем скоро на свет появится младенец.</PregnancyLaborPushing.description>
+  <PregnancyMood.label>антенатальная хандра</PregnancyMood.label>
+  <PregnancyMood.description>Перепады настроения, вызванные нарушением гормонального фона, — распространённый побочный эффект беременности.</PregnancyMood.description>
+  <PregnantHuman.label>беременность</PregnantHuman.label>
+  <PregnantHuman.description>Внутри этой женщины растёт новый человек. У людей беременность длится 18 дней и разделена на 3 триместра. Со временем она начнёт негативно влиять на мобильность матери. Также беременность может сопровождаться тошнотой и перепадами настроения, с которыми может быть тяжело справляться.</PregnantHuman.description>
+  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>{0_labelShort} беременна</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
+  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>{0_labelShort} беременна!</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>
+  <PregnantHuman.labelNoun>беременность</PregnantHuman.labelNoun>
+  <PregnantHuman.stages.first_trimester.label>первый триместр</PregnantHuman.stages.first_trimester.label>
+  <PregnantHuman.stages.second_trimester.label>второй триместр</PregnantHuman.stages.second_trimester.label>
+  <PregnantHuman.stages.third_trimester.label>третий триместр</PregnantHuman.stages.third_trimester.label>
+  <Stillborn.label>мертворождение</Stillborn.label>
+  <Stillborn.description>Этот младенец погиб из-за осложнений во время беременности.</Stillborn.description>
+</LanguageData>

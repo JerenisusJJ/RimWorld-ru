@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MechanitorShip.questContentRules.rulesStrings>
+    <li>mechanitorShuttleCrashedLetterLabel-&gt;Корабль механитора</li>
+    <li>mechanitorShuttleCrashedLetterText-&gt;Корабль механитора с дикими механоидами разбился неподалёку. Механоиды скоро выберутся из корабля и будут готовы к бою.</li>
+    <li>assaultBeginLetterLabel-&gt;Механоиды атакуют</li>
+    <li>assaultBeginLetterText-&gt;Дикие механоиды нападают на поселение!</li>
+    <li>mechlinkAvailableLetterLabel-&gt;Мехлинк [mechanitor_nameDef]</li>
+    <li>mechlinkAvailableLetterText-&gt;В разбившемся корабле находился труп древнего механитора.\n\nИзвлеките [mechanitor_possessive] мехлинк, выбрав поселенца и нажав правой кнопкой мыши на труп.</li>
+  </MechanitorShip.questContentRules.rulesStrings>
+  <MechanitorShip.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы расшифровали сигнал древнего передатчика, в котором было зашифровано местоположение корабля механоидов на орбите. Корабль сильно повреждён, но вы смогли передать ему сигнал для приземления.\n\nВ корабле находится тело давно умершего механитора. Механиторы могут создавать и контролировать механоидов во время боя или работы. Если вы извлечёте из трупа мехлинк, то сможете превратить одного из ваших поселенцев в механитора.\n\nБудьте осторожны, в корабле находятся враждебные механоиды:\n\n[mechList]</li>
+  </MechanitorShip.questDescriptionRules.rulesStrings>
+  <MechanitorShip.questNameRules.rulesStrings>
+    <li>questName-&gt;[shipNoun] [shipAdjective]</li>
+    <li>shipAdjective-&gt;механитора</li>
+    <li>shipAdjective-&gt;оператора</li>
+    <li>shipAdjective-&gt;древних</li>
+    <li>shipAdjective-&gt;механоидов</li>
+    <li>shipNoun-&gt;корабль</li>
+    <li>shipNoun-&gt;челнок</li>
+    <li>shipNoun-&gt;судно</li>
+    <li>shipNoun-&gt;крушение корабля</li>
+    <li>shipNoun-&gt;обломки корабля</li>
+    <li>shipNoun-&gt;транспорт</li>
+  </MechanitorShip.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HealedMe.label>исцеление</HealedMe.label>
+  <MutatedMyArm.label>мутирование руки</MutatedMyArm.label>
+  <StudiedEntity.label>исследование тёмного феномена</StudiedEntity.label>
+  <StudiedEntity.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[STUDIER_nameDef] исследует тёмный феномен: [ENTITY_nameIndef]</li>
+    <li>image-&gt;[STUDIER_nameFull] осторожно осматривает объект ([ENTITY_nameDef]), [circumstance_group]</li>
+    <li>image-&gt;[circumstance_group], [STUDIER_nameFull] ставит эксперименты, чтобы понять тайны, которые скрывает в себе [ENTITY_nameDef]</li>
+    <li>image-&gt;[circumstance_group], [STUDIER_nameFull] силится понять, что такое [ENTITY_nameDef]</li>
+    <li>circumstance_phrase-&gt;едва скрывая отвращение</li>
+    <li>circumstance_phrase-&gt;ведя записи в тетради</li>
+    <li>circumstance_phrase-&gt;поглядывая в древний том</li>
+    <li>desc_sentence-&gt;Сборщики биоферрита размеренно работают на заднем плане.</li>
+    <li>desc_sentence-&gt;Поселенца явно завораживает [ENTITY_nameDef].</li>
+    <li>desc_sentence-&gt;[STUDIER_nameDef] с головой уходит в изучение предмета своих исследований. Секреты, которые скрывает [ENTITY_nameDef], не дают [STUDIER_possessive] покоя.</li>
+    <li>desc_sentence-&gt;[ENTITY_nameDef] удерживается на месте только бесперебойной работой электрических ингибиторов.</li>
+    <li>desc_sentence-&gt;[ENTITY_nameDef] никак не реагирует на действия, которые проводит исследователь [STUDIER_nameDef].</li>
+  </StudiedEntity.rulePack.rulesStrings>
+</LanguageData>

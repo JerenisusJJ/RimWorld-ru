@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AbandonedArchotechStructures.label>сооружение архотеков</AbandonedArchotechStructures.label>
+  <AbandonedArchotechStructures.description>Сооружение архотеков, которое можно изучить.</AbandonedArchotechStructures.description>
+  <Settlement_SecondArchonexusCycle.label>второе поселение архонексуса</Settlement_SecondArchonexusCycle.label>
+  <Settlement_SecondArchonexusCycle.description>База одной из фракций.</Settlement_SecondArchonexusCycle.description>
+  <Settlement_ThirdArchonexusCycle.label>третье поселение архонексуса</Settlement_ThirdArchonexusCycle.label>
+  <Settlement_ThirdArchonexusCycle.description>База одной из фракций.</Settlement_ThirdArchonexusCycle.description>
+</LanguageData>

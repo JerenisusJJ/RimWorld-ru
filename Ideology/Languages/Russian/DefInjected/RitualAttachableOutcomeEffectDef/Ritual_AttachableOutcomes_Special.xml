@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DiscoverAncientComplex.label>обнаружение древнего комплекса</DiscoverAncientComplex.label>
+  <DiscoverAncientComplex.effectDesc>вы обнаружите древний комплекс поблизости.</DiscoverAncientComplex.effectDesc>
+  <DiscoverAncientComplex.letterInfoText>Вы обнаружили древний комплекс поблизости.</DiscoverAncientComplex.letterInfoText>
+  <FarmAnimalsWanderIn.label>присоединение скота</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.effectDesc>небольшое стадо домашнего скота присоединится к поселению</FarmAnimalsWanderIn.effectDesc>
+  <FarmAnimalsWanderIn.letterInfoText>Небольшое стадо любопытных животных забрело на вашу территорию, привлечённое шумом.</FarmAnimalsWanderIn.letterInfoText>
+  <GauranlenTreePod.label>появление ростка Гауранлен</GauranlenTreePod.label>
+  <GauranlenTreePod.effectDesc>росток с семенной коробкой Гауранлен появится на карте, если это возможно.</GauranlenTreePod.effectDesc>
+  <GauranlenTreePod.letterInfoText>Неподалёку появился росток Гауранлен.</GauranlenTreePod.letterInfoText>
+  <InsectJellyTunnels.label>желе насекомых</InsectJellyTunnels.label>
+  <InsectJellyTunnels.effectDesc>насекомые оставят некоторое количество своего желе на поверхности.</InsectJellyTunnels.effectDesc>
+  <InsectJellyTunnels.letterInfoText>Огромная подземная колония насекомых оставила на поверхности некоторое количество желе.</InsectJellyTunnels.letterInfoText>
+  <NearbyFactionGoodwill.label>улучшение отношений с соседней фракцией</NearbyFactionGoodwill.label>
+  <NearbyFactionGoodwill.effectDesc>вы улучшите отношения с фракцией, чьё поселение находится к вам ближе всего.</NearbyFactionGoodwill.effectDesc>
+  <NearbyFactionGoodwill.letterInfoText>Вы получили {AMOUNT} ед. репутации у фракции {FACTION_name}.</NearbyFactionGoodwill.letterInfoText>
+  <RandomRecruit.label>шанс пополнения</RandomRecruit.label>
+  <RandomRecruit.effectDesc>к вам с 50% вероятностью присоединится поселенец такой же идеолигии.</RandomRecruit.effectDesc>
+  <RandomRecruit.letterInfoText>Странник хочет присоединится к вашему поселению.</RandomRecruit.letterInfoText>
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AteTwistedMeat.stages.ate_twisted_meat.label>{PAWN_gender ? съел : съела} жуткое мясо</AteTwistedMeat.stages.ate_twisted_meat.label>
+  <AteTwistedMeat.stages.ate_twisted_meat.description>Много хрящей и жил. Как будто ешь раковую опухоль. Меня сейчас вырвет.</AteTwistedMeat.stages.ate_twisted_meat.description>
+  <BecameGhoul.stages.became_a_ghoul.label>{0} {0_gender ? стал : стала} упырём</BecameGhoul.stages.became_a_ghoul.label>
+  <BecameGhoul.stages.became_a_ghoul.description>Взгляд пустой… Осталось там хоть что-то человечное?</BecameGhoul.stages.became_a_ghoul.description>
+  <BlissLobotomy.stages.bliss_lobotomy.label>блаженство от лоботомии</BlissLobotomy.stages.bliss_lobotomy.label>
+  <BlissLobotomy.stages.bliss_lobotomy.description>Счастье… хорошо… радость… тепло…</BlissLobotomy.stages.bliss_lobotomy.description>
+  <Chimera.stages.observed_chimera.label>{PAWN_gender ? увидел : увидела} химеру</Chimera.stages.observed_chimera.label>
+  <Chimera.stages.observed_chimera.description>Существо с деформированной трескающейся плотью… ужас.</Chimera.stages.observed_chimera.description>
+  <ClosedTheVoid.stages.closed_the_void.label>{PAWN_gender ? закрыл : закрыла} пустоту</ClosedTheVoid.stages.closed_the_void.label>
+  <ClosedTheVoid.stages.closed_the_void.description>Неужели всё наконец позади?</ClosedTheVoid.stages.closed_the_void.description>
+  <ClosedTheVoidOpinion.stages.closed_the_void.label>{PAWN_gender ? закрыл : закрыла} пустоту</ClosedTheVoidOpinion.stages.closed_the_void.label>
+  <DarknessLifted.stages.unnatural_darkness_lifted.label>неестественная темнота отступила</DarknessLifted.stages.unnatural_darkness_lifted.label>
+  <DarknessLifted.stages.unnatural_darkness_lifted.description>Наконец-то она сошла! Я снова могу дышать.</DarknessLifted.stages.unnatural_darkness_lifted.description>
+  <EmbracedTheVoid.stages.embraced_the_void.label>{PAWN_gender ? впустил : впустила} в себя пустоту</EmbracedTheVoid.stages.embraced_the_void.label>
+  <EmbracedTheVoid.stages.embraced_the_void.description>Это только начало.</EmbracedTheVoid.stages.embraced_the_void.description>
+  <HealedMe.stages.healed_me.label>{PAWN_gender ? вылечил : вылечила} меня</HealedMe.stages.healed_me.label>
+  <HeardInhumanRambling.stages.rambling.label>{0}: бормотание</HeardInhumanRambling.stages.rambling.label>
+  <HeardInhumanRambling.stages.rambling.description>{OTHERPAWN_nameDef} несёт какую-то бессвязную чушь. Неужели {OTHERPAWN_pronoun} {OTHERPAWN_gender ? лишился : лишилась} рассудка?</HeardInhumanRambling.stages.rambling.description>
+  <MutatedMyArm.stages.mutated_my_arm.label>{PAWN_gender ? мутировал : мутировала} мне руку</MutatedMyArm.stages.mutated_my_arm.label>
+  <ObeliskAbduction.stages.obelisk_abduction-0.label>похищение обелиском</ObeliskAbduction.stages.obelisk_abduction-0.label>
+  <ObeliskAbduction.stages.obelisk_abduction-0.description>Эта жуткая штука меня схватила!</ObeliskAbduction.stages.obelisk_abduction-0.description>
+  <ObeliskAbduction.stages.obelisk_abduction-1.label>похищение обелиском</ObeliskAbduction.stages.obelisk_abduction-1.label>
+  <ObeliskAbduction.stages.obelisk_abduction-1.description>Священный обелиск избрал меня!</ObeliskAbduction.stages.obelisk_abduction-1.description>
+  <PlayedWithCube.stages.cube_joy.label>радость от куба</PlayedWithCube.stages.cube_joy.label>
+  <PlayedWithCube.stages.cube_joy.description>Мой чудесный куб. Мой драгоценный куб. Я его так люблю. Он прекрасен.</PlayedWithCube.stages.cube_joy.description>
+  <PsychicRitualGuilt.stages.guilt-0.label>чувство вины ({RITUAL})</PsychicRitualGuilt.stages.guilt-0.label>
+  <PsychicRitualGuilt.stages.guilt-0.description>Мерзко себя чувствую. Напрасно я {PAWN_gender ? участвовал : участвовала} в том ритуале.</PsychicRitualGuilt.stages.guilt-0.description>
+  <PsychicRitualGuilt.stages.guilt-1.label>чувство вины ({RITUAL})</PsychicRitualGuilt.stages.guilt-1.label>
+  <PsychicRitualGuilt.stages.guilt-1.description>Мы совершили преступление против человека, которого принесли в жертву. Зачем я на такое {PAWN_gender ? пошёл : пошла}?</PsychicRitualGuilt.stages.guilt-1.description>
+  <PsychicRitualGuilt.stages.guilt-2.label>чувство вины ({RITUAL})</PsychicRitualGuilt.stages.guilt-2.label>
+  <PsychicRitualGuilt.stages.guilt-2.description>Это была форменная пытка. Чистое зло!</PsychicRitualGuilt.stages.guilt-2.description>
+  <PsychicRitualVictim.stages.psychic_ritual_victim.label>жертва псионического ритуала</PsychicRitualVictim.stages.psychic_ritual_victim.label>
+  <PsychicRitualVictim.stages.psychic_ritual_victim.description>Меня использовали в чудовищной церемонии. Никогда не забуду эти ужасные мантры.</PsychicRitualVictim.stages.psychic_ritual_victim.description>
+  <UnnaturalCorpseDestroyed.stages.unnatural_corpse_is_angry.label>странный мертвец зол</UnnaturalCorpseDestroyed.stages.unnatural_corpse_is_angry.label>
+  <UnnaturalCorpseDestroyed.stages.unnatural_corpse_is_angry.description>Я чувствую связь с трупом. Он не пропал. Он думает обо мне. Он меня ненавидит.</UnnaturalCorpseDestroyed.stages.unnatural_corpse_is_angry.description>
+  <VoidCatharsis.stages.void_catharsis.label>очищение от пустоты</VoidCatharsis.stages.void_catharsis.label>
+  <VoidCatharsis.stages.void_catharsis.description>В моём разуме разыгрывалось безумие. Оно отступило, но надолго ли?</VoidCatharsis.stages.void_catharsis.description>
+  <VoidClosed.stages.void_closed.label>пустота закрыта</VoidClosed.stages.void_closed.label>
+  <VoidClosed.stages.void_closed.description>Наконец-то мы можем спать спокойно. Тёмные существа к нам больше не придут.</VoidClosed.stages.void_closed.description>
+  <VoidCuriosity.stages.Void_curiosity.label>Интерес к пустоте</VoidCuriosity.stages.Void_curiosity.label>
+  <VoidCuriosity.stages.Void_curiosity.description>Нужно провести ритуал и воззвать к пустоте. Кто знает, какие тайны нам откроются?</VoidCuriosity.stages.Void_curiosity.description>
+  <VoidCuriositySatisfied.stages.Void_curiosity_satisfied.label>Интерес к пустоте удовлетворён</VoidCuriositySatisfied.stages.Void_curiosity_satisfied.label>
+  <VoidCuriositySatisfied.stages.Void_curiosity_satisfied.description>Я ни о чём не жалею.</VoidCuriositySatisfied.stages.Void_curiosity_satisfied.description>
+</LanguageData>

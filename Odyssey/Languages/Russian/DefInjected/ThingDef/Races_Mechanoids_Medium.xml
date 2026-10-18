@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mech_Cyclops.label>циклоп</Mech_Cyclops.label>
+  <Mech_Cyclops.description>Фронтовой боевой механоид, получивший своё название благодаря большой оптической линзе. Циклоп специализируется на атаках против щитов. Ему требуется много времени, чтобы захватить цель, но после захвата он выпускает практически нескончаемый залп лучей, пробивающих щиты.</Mech_Cyclops.description>
+  <Mech_Cyclops.tools.front_left_leg.label>левая передняя нога</Mech_Cyclops.tools.front_left_leg.label>
+  <Mech_Cyclops.tools.front_left_leg.labelNoLocation>нога</Mech_Cyclops.tools.front_left_leg.labelNoLocation>
+  <Mech_Cyclops.tools.front_right_leg.label>правая передняя нога</Mech_Cyclops.tools.front_right_leg.label>
+  <Mech_Cyclops.tools.front_right_leg.labelNoLocation>нога</Mech_Cyclops.tools.front_right_leg.labelNoLocation>
+  <Mech_Cyclops.tools.head.label>голова</Mech_Cyclops.tools.head.label>
+</LanguageData>

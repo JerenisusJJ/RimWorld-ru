@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apparel_PackBandwidth.label>канальный ранец</Apparel_PackBandwidth.label>
+  <Apparel_PackBandwidth.description>Ранец с компьютером и антенной для увеличения максимальной пропускной способности механитора.</Apparel_PackBandwidth.description>
+  <Apparel_PackControl.label>управляющий ранец</Apparel_PackControl.label>
+  <Apparel_PackControl.description>Ранец со вспомогательными компьютерами для управления механоидами. Даёт механитору возможность управлять одной дополнительной группой механоидов.</Apparel_PackControl.description>
+  <Apparel_PackTox.label>токсичный ранец</Apparel_PackTox.label>
+  <Apparel_PackTox.description>Ранец с баками для реагентов и газогенератором. При активации распыляет токсичный газ в течение нескольких секунд, пока не опустошатся баки.\n\nДля повторного использования ранец необходимо заправить химическим топливом.\n\nТоксичный газ обжигает лёгкие и глаза, вызывая временную одышку и ухудшение зрения, а его длительное воздействие приводит к отравлению токсинами, что чревато летальным исходом.</Apparel_PackTox.description>
+  <Apparel_PackTox.comps.CompApparelReloadable.chargeNoun>пуск</Apparel_PackTox.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_PackTox.comps.CompApparelReloadable.cooldownGerund>перезаряжается</Apparel_PackTox.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_PackTox.verbs.deploy_tox_pack.label>выпустить газ</Apparel_PackTox.verbs.deploy_tox_pack.label>
+</LanguageData>

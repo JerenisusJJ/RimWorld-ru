@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Inhuman.label>нечеловек</Inhuman.label>
+  <Inhuman.description>Человечность только мешает нам наладить контакт с богом-машиной и приобщиться к его благам.</Inhuman.description>
+  <Inhuman.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;нечеловек</li>
+    <li>memeAdjective-&gt;нелюдь</li>
+    <li>memeAdjective-&gt;машина</li>
+    <li>memeAdjective-&gt;темнота</li>
+    <li>memeConcept-&gt;расчеловечивание</li>
+    <li>memeConcept-&gt;тьма</li>
+    <li>memeConcept-&gt;пустота</li>
+    <li>memeConcept-&gt;тёмные феномены</li>
+    <li>memeConcept-&gt;ярость</li>
+  </Inhuman.generalRules.rulesStrings>
+  <Ritualist.label>ритуалист</Ritualist.label>
+  <Ritualist.description>Во Вселенной есть великая энергия. Через ритуал мы способны понять её и обуздать её силу.</Ritualist.description>
+  <Ritualist.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;ритуал</li>
+    <li>memeConcept-&gt;ритуал</li>
+    <li>memeMoralist-&gt;ритуалист</li>
+  </Ritualist.generalRules.rulesStrings>
+</LanguageData>

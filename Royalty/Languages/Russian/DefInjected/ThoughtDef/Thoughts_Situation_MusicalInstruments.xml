@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ListeningToHarp.stages.listening_to_harp.label>слушает игру на арфе</ListeningToHarp.stages.listening_to_harp.label>
+  <ListeningToHarp.stages.listening_to_harp.description>Звуки арфы так успокаивают.</ListeningToHarp.stages.listening_to_harp.description>
+  <ListeningToHarpsichord.stages.listening_to_harpsichord.label>слушает игру на клавесине</ListeningToHarpsichord.stages.listening_to_harpsichord.label>
+  <ListeningToHarpsichord.stages.listening_to_harpsichord.description>Многогранность звуков клавесина удовлетворяет мой разум.</ListeningToHarpsichord.stages.listening_to_harpsichord.description>
+  <ListeningToPiano.stages.listening_to_piano.label>слушает игру на фортепиано</ListeningToPiano.stages.listening_to_piano.label>
+  <ListeningToPiano.stages.listening_to_piano.description>Причудливое многообразие звуков фортепиано заставляет меня чувствовать грусть и восторг одновременно. Великолепно.</ListeningToPiano.stages.listening_to_piano.description>
+</LanguageData>

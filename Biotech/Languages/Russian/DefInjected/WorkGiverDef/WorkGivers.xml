@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BottleFeedBaby.label>кормить младенцев</BottleFeedBaby.label>
+  <BottleFeedBaby.gerund>покормить</BottleFeedBaby.gerund>
+  <BottleFeedBaby.verb>покормить</BottleFeedBaby.verb>
+  <BreastfeedBaby.label>кормить младенцев грудью</BreastfeedBaby.label>
+  <BreastfeedBaby.gerund>покормить грудью</BreastfeedBaby.gerund>
+  <BreastfeedBaby.verb>покормить грудью</BreastfeedBaby.verb>
+  <BringBabyToSafety.label>переносить младенцев в места с безопасной температурой</BringBabyToSafety.label>
+  <BringBabyToSafety.gerund>спасти</BringBabyToSafety.gerund>
+  <BringBabyToSafety.verb>спасти</BringBabyToSafety.verb>
+  <CarryToBreastfeed.label>относить к матери</CarryToBreastfeed.label>
+  <CarryToBreastfeed.gerund>отнести к матери для кормления грудью</CarryToBreastfeed.gerund>
+  <CarryToBreastfeed.verb>отнести к матери для кормления грудью</CarryToBreastfeed.verb>
+  <CarryToGeneExtractor.label>относить к генному экстрактору</CarryToGeneExtractor.label>
+  <CarryToGeneExtractor.gerund>извлечь гены из</CarryToGeneExtractor.gerund>
+  <CarryToGeneExtractor.verb>извлечь гены</CarryToGeneExtractor.verb>
+  <CarryToGrowthVat.label>относить к инкубатору</CarryToGrowthVat.label>
+  <CarryToGrowthVat.gerund>ускорить рост</CarryToGrowthVat.gerund>
+  <CarryToGrowthVat.verb>ускорить рост</CarryToGrowthVat.verb>
+  <CarryToSubcoreScanner.label>относить на сканирование мозга</CarryToSubcoreScanner.label>
+  <CarryToSubcoreScanner.gerund>отнести на сканирование мозга</CarryToSubcoreScanner.gerund>
+  <CarryToSubcoreScanner.verb>отнести на сканирование мозга</CarryToSubcoreScanner.verb>
+  <ChildcarerTeach.label>проводить уроки</ChildcarerTeach.label>
+  <ChildcarerTeach.gerund>провести урок</ChildcarerTeach.gerund>
+  <ChildcarerTeach.verb>провести урок</ChildcarerTeach.verb>
+  <CleanClearPollution.label>устранять загрязнение</CleanClearPollution.label>
+  <CleanClearPollution.gerund>устранить загрязнение</CleanClearPollution.gerund>
+  <CleanClearPollution.verb>устранить загрязнение</CleanClearPollution.verb>
+  <CreateXenogerm.label>создавать ксеносемена</CreateXenogerm.label>
+  <CreateXenogerm.gerund>создать ксеносемя, используя</CreateXenogerm.gerund>
+  <CreateXenogerm.verb>создать ксеносемя, используя</CreateXenogerm.verb>
+  <DeliverHemogenToPrisoner.label>относить гемоген пленникам</DeliverHemogenToPrisoner.label>
+  <DeliverHemogenToPrisoner.gerund>отнести гемоген для</DeliverHemogenToPrisoner.gerund>
+  <DeliverHemogenToPrisoner.verb>отнести гемоген для</DeliverHemogenToPrisoner.verb>
+  <DoBillsMechGestator.label>работать за гестатором механоидов</DoBillsMechGestator.label>
+  <DoBillsMechGestator.gerund>работать, используя</DoBillsMechGestator.gerund>
+  <DoBillsMechGestator.verb>работать, используя</DoBillsMechGestator.verb>
+  <DoBillsSubcoreEncoder.label>работать за программатором субъядер</DoBillsSubcoreEncoder.label>
+  <DoBillsSubcoreEncoder.gerund>работать, используя</DoBillsSubcoreEncoder.gerund>
+  <DoBillsSubcoreEncoder.verb>работать, используя</DoBillsSubcoreEncoder.verb>
+  <EmptyWasteContainer.label>извлекать мешки отходов</EmptyWasteContainer.label>
+  <EmptyWasteContainer.gerund>опорожнить</EmptyWasteContainer.gerund>
+  <EmptyWasteContainer.verb>опорожнить</EmptyWasteContainer.verb>
+  <EnterGeneExtractor.label>входить в генный экстрактор</EnterGeneExtractor.label>
+  <EnterGeneExtractor.gerund>войти в</EnterGeneExtractor.gerund>
+  <EnterGeneExtractor.verb>войти в</EnterGeneExtractor.verb>
+  <EnterGrowthVat.label>входить в инкубатор</EnterGrowthVat.label>
+  <EnterGrowthVat.gerund>войти в</EnterGrowthVat.gerund>
+  <EnterGrowthVat.verb>войти в</EnterGrowthVat.verb>
+  <EnterSubcoreScanner.label>входить в анализатор мозга</EnterSubcoreScanner.label>
+  <EnterSubcoreScanner.gerund>войти в</EnterSubcoreScanner.gerund>
+  <EnterSubcoreScanner.verb>войти в</EnterSubcoreScanner.verb>
+  <FeedHemogen.label>давать гемоген</FeedHemogen.label>
+  <FeedHemogen.gerund>дать гемоген</FeedHemogen.gerund>
+  <FeedHemogen.verb>дать гемоген</FeedHemogen.verb>
+  <HaulMechsToCharger.label>переносить механоидов к зарядным станциям</HaulMechsToCharger.label>
+  <HaulMechsToCharger.gerund>перенести</HaulMechsToCharger.gerund>
+  <HaulMechsToCharger.verb>перенести</HaulMechsToCharger.verb>
+  <HaulToCarrier.label>загружать ресурсы в механоидов со встроенным гестатором</HaulToCarrier.label>
+  <HaulToCarrier.gerund>загрузить ресурсы в</HaulToCarrier.gerund>
+  <HaulToCarrier.verb>загрузить ресурсы в</HaulToCarrier.verb>
+  <HaulToGeneBank.label>помещать генные пакеты в генный банк</HaulToGeneBank.label>
+  <HaulToGeneBank.gerund>поместить в банк</HaulToGeneBank.gerund>
+  <HaulToGeneBank.verb>поместить в банк</HaulToGeneBank.verb>
+  <HaulToGrowthVat.label>заправлять инкубатор</HaulToGrowthVat.label>
+  <HaulToGrowthVat.gerund>заправить</HaulToGrowthVat.gerund>
+  <HaulToGrowthVat.verb>заправить</HaulToGrowthVat.verb>
+  <HaulToSubcoreScanner.label>загружать предметы в анализатор мозга</HaulToSubcoreScanner.label>
+  <HaulToSubcoreScanner.gerund>загрузить предметы в</HaulToSubcoreScanner.gerund>
+  <HaulToSubcoreScanner.verb>загрузить предметы в</HaulToSubcoreScanner.verb>
+  <HaulToWastepackAtomizer.label>загружать предметы в расщепитель отходов</HaulToWastepackAtomizer.label>
+  <HaulToWastepackAtomizer.gerund>загрузить предметы в</HaulToWastepackAtomizer.gerund>
+  <HaulToWastepackAtomizer.verb>загрузить предметы в</HaulToWastepackAtomizer.verb>
+  <PlayWithBaby.label>играть с младенцами</PlayWithBaby.label>
+  <PlayWithBaby.gerund>поиграть с</PlayWithBaby.gerund>
+  <PlayWithBaby.verb>поиграть с</PlayWithBaby.verb>
+  <RepairMech.label>чинить механоидов</RepairMech.label>
+  <RepairMech.gerund>починить</RepairMech.gerund>
+  <RepairMech.verb>починить</RepairMech.verb>
+</LanguageData>

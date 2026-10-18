@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mote_Bestow.label>частица</Mote_Bestow.label>
+  <Mote_CastPsycast.label>частица</Mote_CastPsycast.label>
+  <Mote_ProximityScannerActivated.label>частица</Mote_ProximityScannerActivated.label>
+  <Mote_ProximityScannerRadius.label>частица</Mote_ProximityScannerRadius.label>
+  <Mote_PsychicLinkLine.label>частица</Mote_PsychicLinkLine.label>
+  <Mote_PsychicLinkPulse.label>частица</Mote_PsychicLinkPulse.label>
+  <Mote_PsyfocusPulse.label>частица</Mote_PsyfocusPulse.label>
+  <Mote_WarmupNeuroquake.label>частица</Mote_WarmupNeuroquake.label>
+  <Mote_WarmupWordOf.label>частица</Mote_WarmupWordOf.label>
+</LanguageData>

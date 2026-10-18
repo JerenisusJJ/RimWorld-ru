@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GiveQuest_AncientComplex_Mechanitor.label>древний механиторский комплекс</GiveQuest_AncientComplex_Mechanitor.label>
+  <GiveQuest_AncientComplex_Mechanitor.letterLabel>Древний механиторский комплекс</GiveQuest_AncientComplex_Mechanitor.letterLabel>
+  <PoluxTreeSpawn.label>древо Поллукса</PoluxTreeSpawn.label>
+  <PoluxTreeSpawn.letterLabel>Росток древа Поллукса</PoluxTreeSpawn.letterLabel>
+  <PoluxTreeSpawn.letterText>Рядом с поселением проросло древо Поллукса!\n\nДрева Поллукса медленно очищают загрязнённую почву вокруг себя. В отличие от большинства методов очищения загрязнённой почвы, древо Поллукса не производит побочных отходов.</PoluxTreeSpawn.letterText>
+  <RefugeePodCrash_Baby.label>Крушение капсулы</RefugeePodCrash_Baby.label>
+</LanguageData>

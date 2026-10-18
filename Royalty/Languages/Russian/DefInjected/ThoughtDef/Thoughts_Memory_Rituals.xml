@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GrandioseBestowingCeremony.stages.grandiose_bestowing_ceremony.label>грандиозная церемония присвоения титула</GrandioseBestowingCeremony.stages.grandiose_bestowing_ceremony.label>
+  <GrandioseBestowingCeremony.stages.grandiose_bestowing_ceremony.description>Церемония присвоения титула была грандиозна! Я {PAWN_gender ? чувствовал : чувствовала}, что участвую в чём-то великом.</GrandioseBestowingCeremony.stages.grandiose_bestowing_ceremony.description>
+  <HonorableBestowingCeremony.stages.honorable_bestowing_ceremony.label>достойная церемония присвоения титула</HonorableBestowingCeremony.stages.honorable_bestowing_ceremony.label>
+  <HonorableBestowingCeremony.stages.honorable_bestowing_ceremony.description>Церемония присвоения титула прошла достойно и стала честью для всех участников.</HonorableBestowingCeremony.stages.honorable_bestowing_ceremony.description>
+  <TerribleBestowingCeremony.stages.terrible_bestowing_ceremony.label>ужасная церемония присвоения титула</TerribleBestowingCeremony.stages.terrible_bestowing_ceremony.label>
+  <TerribleBestowingCeremony.stages.terrible_bestowing_ceremony.description>Церемония присвоения титула была невероятно напыщенной, но в то же время выглядела удивительно жалкой.</TerribleBestowingCeremony.stages.terrible_bestowing_ceremony.description>
+  <UnimpressiveBestowingCeremony.stages.unimpressive_bestowing_ceremony.label>скучная церемония присвоения титула</UnimpressiveBestowingCeremony.stages.unimpressive_bestowing_ceremony.label>
+  <UnimpressiveBestowingCeremony.stages.unimpressive_bestowing_ceremony.description>Церемония присвоения титула была рутинной и тоскливой.</UnimpressiveBestowingCeremony.stages.unimpressive_bestowing_ceremony.description>
+</LanguageData>

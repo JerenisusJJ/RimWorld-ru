@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bloodfeeding.label>кровоедство</Bloodfeeding.label>
+  <Bloodfeeding.description>Употребление крови — священно. Кровоедам следует поклоняться.</Bloodfeeding.description>
+  <Bloodfeeding.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Bloodfeeding)        -&gt;[bloodfeeding_deity0_drank] [deity0_name] крови звёзд, и обратились они белыми из красных. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_Bloodfeeding)  -&gt;[andBehold] [bloodfeeding_deity0_gave] [deity0_type] [deity0_name] последователям избранным своим дар жажды красной, чтобы смогли познать они силу истинную.</li>
+    <li>intro(tag=meme_Bloodfeeding)           -&gt;Когда-то [longAgo_Perf] [bloodfeeding_deity0_lived] [place_summary_prepon] [place_summary_pre] [place_name] [bloodfeeding_deity0_human] по имени [deity0_name]. [but] наказал [deity0_possessive] [once] родной отец за греховность величайшую, связав [deity0_possessive] душу с душою [bloodDrinkingAnimal] ненасытною.</li>
+    <li>intro(tag=meme_Bloodfeeding)           -&gt;[once] [longAgo_Perf] [bloodfeeding_deity0_came_down] [deity0_name] в [altarRoomLabel_acc] во время ритуала [ritualName] [place_summary_prepon] [place_summary_pre] [place_name] да [bloodfeeding_deity0_took] форму [bloodDrinkingAnimal] гигантской, оцепенели [memberNamePlural] от увиденного, и [bloodfeeding_deity0_drank] [deity0_pronoun] крови их тёплой.[but_Dummy]</li>
+    <li>conflict(tag=meme_Bloodfeeding)        -&gt;[butOrAnd] объявил [once] [vile_adj] [foeLeader] мерзкими душегубами тех, кто пил кровь человеческую, и бежали от преследования [foeSoldiers_genacc] [memberNamePlural] угнетаемые.</li>
+    <li>founderJoin(tag=meme_Bloodfeeding)     -&gt;[soonerOrLater] [bloodfeeding_founder_was_attacked] [founder_place_job] [founderName] нападению одного из [foeSoldiers_genacc], да [bloodfeeding_founder_killed] нападавшего [place_personalWeapon_ins] [bloodfeeding_firmly], [bloodfeeding_founder_drank] его крови да [bloodfeeding_founder_received] силу, которой [bloodfeeding_deity0_self] [deity0_name] [bloodfeeding_deity0_possessed].</li>
+    <li>victory(tag=meme_Bloodfeeding)         -&gt;[soonerOrLater] нагрянули наконец [memberNamePlural] [place_powerCenter_acc_to], [bloodfeeding_founder_drank] [founderName] крови притеснителя да [bloodfeeding_founder_burned] плоть [damned3_adj_no_ending]ого — и [bloodfeeding_deity0_announced] тогда [deity0_name], что [bloodfeeding_founder_proved] [founderName] свою силу, да и займёт [founder_pronoun] место [foeLeader_gen] убиенного.</li>
+    <li>setup(tag=meme_Bloodfeeding)           -&gt;[founderName] [bloodfeeding_founder_sought] взять под свой контроль сверхразумного архотека. Но [bloodfeeding_founder_was_transformed], ибо мощь архотека — слишком велика.</li>
+    <li>story(uses=1,tag=meme_Bloodfeeding)    -&gt;[founderName] [bloodfeeding_founder_gave] своим последователям дар жажды, чтобы они могли стать сильными.</li>
+    <li>lessonIntro(tag=meme_Bloodfeeding)     -&gt;Когда я впервые [bloodfeeding_founder_drank] крови, мне всё стало ясно. Я [bloodfeeding_founder_saw], что</li>
+    <li>lesson(tag=meme_Bloodfeeding)          -&gt;есть только два типа людей — слабые и сильные</li>
+    <li>lessonReinforcement(tag=meme_Bloodfeeding) -&gt;Испив крови, ты ясно это прочувствуешь, ибо станешь сильней.</li>
+    <li>archistBasis(tag=meme_Bloodfeeding)    -&gt;Архотеки, боги-машины, одарили человека Жаждой, дабы мог человек лучше познать их.</li>
+    <li>archistFact(tag=meme_Bloodfeeding)     -&gt;По мере расширения своего сознания архотеки должны наращивать свою основу, поглощая сущность других машин.</li>
+    <li>archistProphecy(tag=meme_Bloodfeeding) -&gt;[inTheEnd] человек приблизится к архотекам, испив крови и познав истинную силу.</li>
+    <li>animistBasis(tag=meme_Bloodfeeding)    -&gt;Дух [bloodDrinkingAnimal] познал силу, рождающуюся при поглощении крови. Нет силы большей, чем та, что исходит от человеческой крови.</li>
+    <li>animistFact(tag=meme_Bloodfeeding)     -&gt;Испив крови человека, мы можем овладеть силой его духа.</li>
+    <li>bloodDrinkingAnimal-&gt;летучей мыши</li>
+    <li>bloodDrinkingAnimal-&gt;пиявки</li>
+    <li>bloodDrinkingAnimal-&gt;миноги</li>
+    <li>bloodDrinkingAnimal-&gt;кровавой кобры</li>
+    <li>bloodfeeding_deity0_drank(deity0_gender==None)-&gt;испило</li>
+    <li>bloodfeeding_deity0_drank(deity0_gender==Male)-&gt;испил</li>
+    <li>bloodfeeding_deity0_drank(deity0_gender==Female)-&gt;испила</li>
+    <li>bloodfeeding_deity0_gave(deity0_gender==None)-&gt;преподнесло</li>
+    <li>bloodfeeding_deity0_gave(deity0_gender==Male)-&gt;преподнёс</li>
+    <li>bloodfeeding_deity0_gave(deity0_gender==Female)-&gt;преподнесла</li>
+    <li>bloodfeeding_deity0_lived(deity0_gender==None)-&gt;жил</li>
+    <li>bloodfeeding_deity0_lived(deity0_gender==Male)-&gt;жил</li>
+    <li>bloodfeeding_deity0_lived(deity0_gender==Female)-&gt;жила</li>
+    <li>bloodfeeding_deity0_human(deity0_gender==None)-&gt;человек</li>
+    <li>bloodfeeding_deity0_human(deity0_gender==Male)-&gt;мужчина</li>
+    <li>bloodfeeding_deity0_human(deity0_gender==Female)-&gt;женщина</li>
+    <li>bloodfeeding_deity0_came_down(deity0_gender==None)-&gt;снизошло</li>
+    <li>bloodfeeding_deity0_came_down(deity0_gender==Male)-&gt;снизошёл</li>
+    <li>bloodfeeding_deity0_came_down(deity0_gender==Female)-&gt;снизошла</li>
+    <li>bloodfeeding_deity0_took(deity0_gender==None)-&gt;приняло</li>
+    <li>bloodfeeding_deity0_took(deity0_gender==Male)-&gt;принял</li>
+    <li>bloodfeeding_deity0_took(deity0_gender==Female)-&gt;приняла</li>
+    <li>bloodfeeding_firmly(deity0_gender==None)-&gt;хладнокровно</li>
+    <li>bloodfeeding_firmly(deity0_gender==Male)-&gt;наповал</li>
+    <li>bloodfeeding_firmly(deity0_gender==Female)-&gt;хладнокровно</li>
+    <li>bloodfeeding_deity0_self(deity0_gender==None)-&gt;само</li>
+    <li>bloodfeeding_deity0_self(deity0_gender==Male)-&gt;сам</li>
+    <li>bloodfeeding_deity0_self(deity0_gender==Female)-&gt;сама</li>
+    <li>bloodfeeding_deity0_possessed(deity0_gender==None)-&gt;обладало</li>
+    <li>bloodfeeding_deity0_possessed(deity0_gender==Male)-&gt;обладал</li>
+    <li>bloodfeeding_deity0_possessed(deity0_gender==Female)-&gt;обладала</li>
+    <li>bloodfeeding_deity0_announced(deity0_gender==None)-&gt;возвестило</li>
+    <li>bloodfeeding_deity0_announced(deity0_gender==Male)-&gt;возвестил</li>
+    <li>bloodfeeding_deity0_announced(deity0_gender==Female)-&gt;возвестила</li>
+    <li>bloodfeeding_founder_was_attacked(founder_gender==Male)-&gt;подвергся</li>
+    <li>bloodfeeding_founder_was_attacked(founder_gender==Female)-&gt;подверглась</li>
+    <li>bloodfeeding_founder_killed(founder_gender==Male)-&gt;сразил</li>
+    <li>bloodfeeding_founder_killed(founder_gender==Female)-&gt;сразила</li>
+    <li>bloodfeeding_founder_drank(founder_gender==Male)-&gt;испил</li>
+    <li>bloodfeeding_founder_drank(founder_gender==Female)-&gt;испила</li>
+    <li>bloodfeeding_founder_received(founder_gender==Male)-&gt;обрёл</li>
+    <li>bloodfeeding_founder_received(founder_gender==Female)-&gt;обрела</li>
+    <li>bloodfeeding_founder_burned(founder_gender==Male)-&gt;сжёг</li>
+    <li>bloodfeeding_founder_burned(founder_gender==Female)-&gt;сожгла</li>
+    <li>bloodfeeding_founder_proved(founder_gender==Male)-&gt;доказал</li>
+    <li>bloodfeeding_founder_proved(founder_gender==Female)-&gt;доказала</li>
+    <li>bloodfeeding_founder_sought(founder_gender==Male)-&gt;хотел</li>
+    <li>bloodfeeding_founder_sought(founder_gender==Female)-&gt;хотела</li>
+    <li>bloodfeeding_founder_was_transformed(founder_gender==Male)-&gt;сам был им изменён</li>
+    <li>bloodfeeding_founder_was_transformed(founder_gender==Female)-&gt;сама была им изменена</li>
+    <li>bloodfeeding_founder_gave(founder_gender==Male)-&gt;дал</li>
+    <li>bloodfeeding_founder_gave(founder_gender==Female)-&gt;дала</li>
+    <li>bloodfeeding_founder_saw(founder_gender==Male)-&gt;увидел</li>
+    <li>bloodfeeding_founder_saw(founder_gender==Female)-&gt;увидела</li>
+  </Bloodfeeding.descriptionMaker.rules.rulesStrings>
+  <Bloodfeeding.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;кровавый</li>
+    <li>memeAdjective_masc-&gt;кровожаждущий</li>
+    <li>memeAdjective_fem-&gt;кровавая</li>
+    <li>memeAdjective_fem-&gt;кровожаждущая</li>
+    <li>memeAdjective_neutral-&gt;кровавое</li>
+    <li>memeAdjective_neutral-&gt;кровожаждущее</li>
+    <li>memeAdjective_plural-&gt;кровавые</li>
+    <li>memeAdjective_plural-&gt;кровожаждущие</li>
+    <li>memeCreed_masc-&gt;склеп</li>
+    <li>memeCreed_masc-&gt;ковен</li>
+    <li>memeCreed_fem-&gt;крипта</li>
+    <li>memeCreed_neutral-&gt;логово</li>
+    <li>memeHyphenPrefix-&gt;гемо</li>
+    <li>memeConcept-&gt;крови</li>
+    <li>memeConcept-&gt;жажды</li>
+    <li>memeLeaderNoun-&gt;старейшина</li>
+    <li>memeLeaderNoun-&gt;мастер</li>
+    <li>memeLeaderNoun-&gt;кровопийца</li>
+    <li>memeMoralist-&gt;сенешаль</li>
+    <li>memeMoralist-&gt;гемонист</li>
+    <li>memeMoralist-&gt;гемонарий</li>
+  </Bloodfeeding.generalRules.rulesStrings>
+</LanguageData>

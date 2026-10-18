@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings>
+    <li>r_ritualName-&gt;[ritNoun] [keyDeity]</li>
+    <li>r_ritualName-&gt;[ritNoun] [chosenTheme]</li>
+    <li>r_ritualName-&gt;[ritNoun] [memeConcept]</li>
+    <li>r_ritualName(p=0.33)-&gt;[memeAdjective_masc] [ritNoun_masc]</li>
+    <li>r_ritualName(p=0.33)-&gt;[memeAdjective_fem] [ritNoun_fem]</li>
+    <li>r_ritualName(p=0.33)-&gt;[memeAdjective_neutral] [ritNoun_neutral]</li>
+    <li>ritNoun-&gt;[ritNoun_masc]</li>
+    <li>ritNoun-&gt;[ritNoun_fem]</li>
+    <li>ritNoun-&gt;[ritNoun_neutral]</li>
+    <li>ritNoun_masc-&gt;бой</li>
+    <li>ritNoun_fem-&gt;дуэль</li>
+    <li>ritNoun_fem-&gt;битва</li>
+    <li>ritNoun_masc-&gt;поединок</li>
+    <li>ritNoun_neutral-&gt;состязание</li>
+  </NamerRitualGladiatorDuel.rulePack.rulesStrings>
+</LanguageData>

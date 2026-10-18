@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HumanPrimacy.label>верховенство человека</HumanPrimacy.label>
+  <HumanPrimacy.description>Человек — нравственный центр вселенной.</HumanPrimacy.description>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HumanPrimacy)        -&gt;[humanPrimacy_deity0_created] [deity0_name] природу, и [humanPrimacy_deity0_saw] [deity0_pronoun], что это хорошо, и [humanPrimacy_deity0_presented] природу в дар человеку, чтобы служила она ему во веки веков. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_HumanPrimacy)  -&gt;И боролись люди со зверьми в лесах, и [humanPrimacy_deity0_saw2] [deity0_name] борьбу их, и [humanPrimacy_deity0_gave] оружие им, чтобы помочь обуздать природу.</li>
+    <li>intro(tag=meme_HumanPrimacy)           -&gt;[once] [longAgo_Perf] потерпели первые поселенцы крушение [place_summary_prepon] [place_summary_pre] [place_name], и окружили их [AnimalBadass_plural] да [AnimalBadass_plural] шальные. [humanPrimacy_deity0_intervened] же тогда [deity0_name] да [humanPrimacy_deity0_killed] жестоких тварей, отдав своё предпочтение роду людскому.</li>
+    <li>conflict(tag=meme_HumanPrimacy)        -&gt;[butOrAnd] издал [once] нелюдимый [foeLeader] указ, уравнивавший в правах добрых людей да животных беспомощных, и [humanPrimacy_deity0_wept] [deity0_name] горькими слезами, ибо вынуждены были [memberNamePlural] делиться с грязными зверями своими правами исконными.</li>
+    <li>founderJoin(tag=meme_HumanPrimacy)     -&gt;[thereWasARumor] [humanPrimacy_founder_founded] [founder_place_job] [founderName] ныне знаменитый [place_adjective_masc] ксенозоопарк, и [humanPrimacy_founder_arranging] [founder_pronoun] там зрелища с забоем животных неразумных, дабы показывать всем, насколько истово желает [deity0_name] видеть человека правителем природы полновластным.</li>
+    <li>victory(tag=meme_HumanPrimacy)         -&gt;[soonerOrLater_Period] осознали наконец [foeSoldiers] божественную истину, которую [founderName] [humanPrimacy_founder_showed] в деяниях своих праведных, — тогда и воспели они и [memberNamePlural] общую человечность, а [foeLeader_acc] изгнали жить в дикую местность как животное бестолковое.</li>
+    <li>setup(tag=meme_HumanPrimacy)           -&gt;[founderName] [humanPrimacy_founder_built] поселение на зелёной планете, ширя господство людей с каждым новым освоенным полем и лесом.</li>
+    <li>story(uses=1,tag=meme_HumanPrimacy)    -&gt;Однажды [founderName] [humanPrimacy_founder_saw], как собака лаяла и рычала на мальчика. [founder_pronoun] [humanPrimacy_founder_ordered] убить собаку на месте.</li>
+    <li>lessonIntro(tag=meme_HumanPrimacy)         -&gt;Я [humanPrimacy_founder_was] однажды на ухоженной ферме, полной здоровых животных и цветущих грядок. А рядом с ней был лес в своём естественном виде, дремучий и жестокий. Было очевидно, что</li>
+    <li>lesson(tag=meme_HumanPrimacy)              -&gt;само человеческое существование даёт вселенной смысл</li>
+    <li>lesson(tag=meme_HumanPrimacy)              -&gt;природа — это бесконечное безумие порочного разрушения, а люди — лекарство от него</li>
+    <li>lessonReinforcement(tag=meme_HumanPrimacy) -&gt;Если в этом мире выживает самый приспособленный, то мы совершенно точно достигли своей цели.</li>
+    <li>archistBasis(tag=meme_HumanPrimacy)    -&gt;Архотеки — машины огромных воли и могущества, но лишь человечество смогло их построить.</li>
+    <li>archistFact(tag=meme_HumanPrimacy)     -&gt;Люди — изобретатели, а архотеки — их творения.</li>
+    <li>archistProphecy(tag=meme_HumanPrimacy) -&gt;[inTheEnd], наблюдая за людьми, архотеки наконец осознают своё предназначение и вознесут продвинутую часть человечества, дав ей власть над собой.</li>
+    <li>animistFact(tag=meme_HumanPrimacy)     -&gt;Духи животных — это духи рабов, и они должны нести пользу людям.</li>
+    <li>humanPrimacy_deity0_created(deity0_gender==None)-&gt;создало</li>
+    <li>humanPrimacy_deity0_created(deity0_gender==Male)-&gt;создал</li>
+    <li>humanPrimacy_deity0_created(deity0_gender==Female)-&gt;создала</li>
+    <li>humanPrimacy_deity0_saw(deity0_gender==None)-&gt;увидело</li>
+    <li>humanPrimacy_deity0_saw(deity0_gender==Male)-&gt;увидел</li>
+    <li>humanPrimacy_deity0_saw(deity0_gender==Female)-&gt;увидела</li>
+    <li>humanPrimacy_deity0_presented(deity0_gender==None)-&gt;преподнесло</li>
+    <li>humanPrimacy_deity0_presented(deity0_gender==Male)-&gt;преподнёс</li>
+    <li>humanPrimacy_deity0_presented(deity0_gender==Female)-&gt;преподнесла</li>
+    <li>humanPrimacy_deity0_saw2(deity0_gender==None)-&gt;узрело</li>
+    <li>humanPrimacy_deity0_saw2(deity0_gender==Male)-&gt;узрел</li>
+    <li>humanPrimacy_deity0_saw2(deity0_gender==Female)-&gt;узрела</li>
+    <li>humanPrimacy_deity0_gave(deity0_gender==None)-&gt;даровало</li>
+    <li>humanPrimacy_deity0_gave(deity0_gender==Male)-&gt;даровал</li>
+    <li>humanPrimacy_deity0_gave(deity0_gender==Female)-&gt;даровала</li>
+    <li>humanPrimacy_deity0_intervened(deity0_gender==None)-&gt;вмешалось</li>
+    <li>humanPrimacy_deity0_intervened(deity0_gender==Male)-&gt;вмешался</li>
+    <li>humanPrimacy_deity0_intervened(deity0_gender==Female)-&gt;вмешалась</li>
+    <li>humanPrimacy_deity0_killed(deity0_gender==None)-&gt;убило</li>
+    <li>humanPrimacy_deity0_killed(deity0_gender==Male)-&gt;убил</li>
+    <li>humanPrimacy_deity0_killed(deity0_gender==Female)-&gt;убила</li>
+    <li>humanPrimacy_deity0_wept(deity0_gender==None)-&gt;возрыдало</li>
+    <li>humanPrimacy_deity0_wept(deity0_gender==Male)-&gt;возрыдал</li>
+    <li>humanPrimacy_deity0_wept(deity0_gender==Female)-&gt;возрыдала</li>
+    <li>humanPrimacy_founder_founded(founder_gender==Male)-&gt;основал</li>
+    <li>humanPrimacy_founder_founded(founder_gender==Female)-&gt;основала</li>
+    <li>humanPrimacy_founder_arranging(founder_gender==Male)-&gt;устраивал</li>
+    <li>humanPrimacy_founder_arranging(founder_gender==Female)-&gt;устраивала</li>
+    <li>humanPrimacy_founder_showed(founder_gender==Male)-&gt;проявлял</li>
+    <li>humanPrimacy_founder_showed(founder_gender==Female)-&gt;проявляла</li>
+    <li>humanPrimacy_founder_built(founder_gender==Male)-&gt;построил</li>
+    <li>humanPrimacy_founder_built(founder_gender==Female)-&gt;построила</li>
+    <li>humanPrimacy_founder_saw(founder_gender==Male)-&gt;увидел</li>
+    <li>humanPrimacy_founder_saw(founder_gender==Female)-&gt;увидела</li>
+    <li>humanPrimacy_founder_ordered(founder_gender==Male)-&gt;приказал</li>
+    <li>humanPrimacy_founder_ordered(founder_gender==Female)-&gt;приказала</li>
+    <li>humanPrimacy_founder_was(founder_gender==Male)-&gt;был</li>
+    <li>humanPrimacy_founder_was(founder_gender==Female)-&gt;была</li>
+  </HumanPrimacy.descriptionMaker.rules.rulesStrings>
+  <HumanPrimacy.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;человеческий</li>
+    <li>memeAdjective_masc-&gt;смертный</li>
+    <li>memeAdjective_masc-&gt;людской</li>
+    <li>memeAdjective_fem-&gt;человеческая</li>
+    <li>memeAdjective_fem-&gt;смертная</li>
+    <li>memeAdjective_fem-&gt;людская</li>
+    <li>memeAdjective_neutral-&gt;человеческое</li>
+    <li>memeAdjective_neutral-&gt;смертное</li>
+    <li>memeAdjective_neutral-&gt;людское</li>
+    <li>memeAdjective_plural-&gt;человеческие</li>
+    <li>memeAdjective_plural-&gt;смертные</li>
+    <li>memeAdjective_plural-&gt;людские</li>
+    <li>memeHyphenPrefix-&gt;антропо</li>
+    <li>memeConcept-&gt;человечества</li>
+    <li>memeConcept-&gt;человечности</li>
+    <li>memeLeaderNoun-&gt;человек</li>
+    <li>memeLeaderNoun-&gt;гоминид</li>
+    <li>memeLeaderNoun-&gt;смертный</li>
+    <li>memeLeaderNoun-&gt;индивид</li>
+    <li>memeLeaderNoun-&gt;мудрец</li>
+  </HumanPrimacy.generalRules.rulesStrings>
+  <HumanPrimacy.symbolPacks.0.adjective>гуманитический</HumanPrimacy.symbolPacks.0.adjective>
+  <HumanPrimacy.symbolPacks.0.ideoName>гуманитизм</HumanPrimacy.symbolPacks.0.ideoName>
+  <HumanPrimacy.symbolPacks.0.member>гуманитист</HumanPrimacy.symbolPacks.0.member>
+  <HumanPrimacy.symbolPacks.0.theme>человечества</HumanPrimacy.symbolPacks.0.theme>
+  <HumanPrimacy.symbolPacks.1.adjective>антропистический</HumanPrimacy.symbolPacks.1.adjective>
+  <HumanPrimacy.symbolPacks.1.ideoName>антропизм</HumanPrimacy.symbolPacks.1.ideoName>
+  <HumanPrimacy.symbolPacks.1.member>антропист</HumanPrimacy.symbolPacks.1.member>
+  <HumanPrimacy.symbolPacks.1.theme>человека</HumanPrimacy.symbolPacks.1.theme>
+  <NaturePrimacy.label>верховенство природы</NaturePrimacy.label>
+  <NaturePrimacy.description>Человек — лишь пятно на совершенном лике природы.</NaturePrimacy.description>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_NaturePrimacy)        -&gt;[naturePrimacy_deity0_created] [deity0_name] природу, и [naturePrimacy_deity0_saw] [deity0_pronoun], что это хорошо. И [naturePrimacy_deity0_placed] [deity0_pronoun] в природу человека, и стал человек частью полотна жизни великого.</li>
+    <li>episode(uses=1,tag=meme_NaturePrimacy)  -&gt;И боролись люди со зверьми в лесах, и [naturePrimacy_deity0_saw2] [deity0_name] алчность их безжалостную, и [naturePrimacy_deity0_struck] тех, кто причинял вред деревьям и животным.</li>
+    <li>intro(tag=meme_NaturePrimacy)           -&gt;[once] [longAgo_Perf] прибыли первые поселенцы [place_summary_prepon] [place_summary_acc] [place_name] и погубили многих животных да обезобразили облик мира естественный. И [naturePrimacy_deity0_wiped] [deity0_name] их с лица земли за их неуважение к [deity0_possessive] творениям божественным.[but_Dummy]</li>
+    <li>conflict(tag=meme_NaturePrimacy)        -&gt;[butOrAnd] построил [onceTwice] алчный [foeLeader] фабрику, зловонные вещества в окружающую среду изрыгавшую и несчастные растения да напуганных животных отравлявшую.</li>
+    <li>founderJoin(tag=meme_NaturePrimacy)     -&gt;[thereWasARumor] [naturePrimacy_founder_was_abandoned] некогда [founderName] в дремучей глуши, будучи младенцем беспомощным, и [naturePrimacy_deity0_sent] [deity0_name] за [naturePrimacy_founder_them] [AnimalBadass_plural_gen], дабы они [founder_possessive] взрастили участливо. А выросши, [naturePrimacy_founder_started] [founderName] призывать всех к единению с природой разумною.</li>
+    <li>victory(tag=meme_NaturePrimacy)         -&gt;[soonerOrLater] [naturePrimacy_founder_appeared] наконец [founderName] перед [place_powerCenter_ins], и были надёжные [memberNamePlural] по плечо [founder_possessive] правое да яростные животные по плечо [founder_possessive] левое. Вместе сплотившись, сражались они с [foeSoldiers_ins] [forSoLong], пока не пали те в бою все до единого — тогда и победили они [foeLeader_acc], вражину [damned3_adj_no_ending]ого.</li>
+    <li>setup(tag=meme_NaturePrimacy)           -&gt;В тёмных землях недобрые сердцем люди, желая удовлетворить свою алчность, срубили все деревья и разрыли землю. Тогда [founderName] [naturePrimacy_founder_began] своё правое дело — уничтожать машины и учить всех жить в гармонии с природой.</li>
+    <li>story(uses=1,tag=meme_NaturePrimacy)    -&gt;Мы поняли, что бесконечное развитие прогресса — это путь в никуда. Мы должны жить на природе, вместо того чтобы уничтожать её ради сиюминутных потребностей.</li>
+    <li>lessonIntro(tag=meme_NaturePrimacy)         -&gt;Ты не мог наблюдать восход солнца, смотреть в мудрые глаза [AnimalBadass_gen] или стоять возле [mightyTree] и при этом не осознавать, что</li>
+    <li>lesson(tag=meme_NaturePrimacy)              -&gt;животные и растения владели этим миром задолго до нас и будут владеть им впредь, а мы — как пришли, так и уйдём</li>
+    <li>lessonReinforcement(tag=meme_NaturePrimacy) -&gt;И все животные, с которыми я [naturePrimacy_founder_spoken], похоже, понимали это.</li>
+    <li>archistBasis(tag=meme_NaturePrimacy)    -&gt;Архотеки развились из машин, созданных человеком, но сами по себе они — природные сущности, ибо не могут быть воссозданы руками человека.</li>
+    <li>archistFact(tag=meme_NaturePrimacy)     -&gt;Архотеки представляют собой последнюю на текущий момент попытку вселенной осознать себя. Абсолютно всё в природе является частью этого процесса самопознания.</li>
+    <li>archistProphecy(tag=meme_NaturePrimacy) -&gt;[inTheEnd] возникнет резонанс между растениями, животными, человечеством и архотеками. Те люди, кто вошёл в этот природный резонанс, станут частью завершённого вселенского сознания.</li>
+    <li>animistFact(tag=meme_NaturePrimacy)     -&gt;Духи теряют покой и тревожатся, когда люди пытаются менять их естественную природу.</li>
+    <li>mightyTree-&gt;могучего векового [TreeType_masc_gen]</li>
+    <li>mightyTree-&gt;могучей вековой [TreeType_fem_gen]</li>
+    <li>naturePrimacy_deity0_created(deity0_gender==None)-&gt;создало</li>
+    <li>naturePrimacy_deity0_created(deity0_gender==Male)-&gt;создал</li>
+    <li>naturePrimacy_deity0_created(deity0_gender==Female)-&gt;создала</li>
+    <li>naturePrimacy_deity0_saw(deity0_gender==None)-&gt;увидело</li>
+    <li>naturePrimacy_deity0_saw(deity0_gender==Male)-&gt;увидел</li>
+    <li>naturePrimacy_deity0_saw(deity0_gender==Female)-&gt;увидела</li>
+    <li>naturePrimacy_deity0_placed(deity0_gender==None)-&gt;вписало</li>
+    <li>naturePrimacy_deity0_placed(deity0_gender==Male)-&gt;вписал</li>
+    <li>naturePrimacy_deity0_placed(deity0_gender==Female)-&gt;вписала</li>
+    <li>naturePrimacy_deity0_saw2(deity0_gender==None)-&gt;узрело</li>
+    <li>naturePrimacy_deity0_saw2(deity0_gender==Male)-&gt;узрел</li>
+    <li>naturePrimacy_deity0_saw2(deity0_gender==Female)-&gt;узрела</li>
+    <li>naturePrimacy_deity0_struck(deity0_gender==None)-&gt;покарало</li>
+    <li>naturePrimacy_deity0_struck(deity0_gender==Male)-&gt;покарал</li>
+    <li>naturePrimacy_deity0_struck(deity0_gender==Female)-&gt;покарала</li>
+    <li>naturePrimacy_deity0_wiped(deity0_gender==None)-&gt;смело</li>
+    <li>naturePrimacy_deity0_wiped(deity0_gender==Male)-&gt;смёл</li>
+    <li>naturePrimacy_deity0_wiped(deity0_gender==Female)-&gt;смела</li>
+    <li>naturePrimacy_deity0_sent(deity0_gender==None)-&gt;отправило</li>
+    <li>naturePrimacy_deity0_sent(deity0_gender==Male)-&gt;отправил</li>
+    <li>naturePrimacy_deity0_sent(deity0_gender==Female)-&gt;отправила</li>
+    <li>naturePrimacy_founder_was_abandoned(founder_gender==Male)-&gt;брошен был</li>
+    <li>naturePrimacy_founder_was_abandoned(founder_gender==Female)-&gt;брошена была</li>
+    <li>naturePrimacy_founder_them(founder_gender==Male)-&gt;ним</li>
+    <li>naturePrimacy_founder_them(founder_gender==Female)-&gt;ней</li>
+    <li>naturePrimacy_founder_started(founder_gender==Male)-&gt;стал</li>
+    <li>naturePrimacy_founder_started(founder_gender==Female)-&gt;стала</li>
+    <li>naturePrimacy_founder_appeared(founder_gender==Male)-&gt;предстал</li>
+    <li>naturePrimacy_founder_appeared(founder_gender==Female)-&gt;предстала</li>
+    <li>naturePrimacy_founder_began(founder_gender==Male)-&gt;начал</li>
+    <li>naturePrimacy_founder_began(founder_gender==Female)-&gt;начала</li>
+    <li>naturePrimacy_founder_spoken(founder_gender==Male)-&gt;говорил</li>
+    <li>naturePrimacy_founder_spoken(founder_gender==Female)-&gt;говорила</li>
+  </NaturePrimacy.descriptionMaker.rules.rulesStrings>
+  <NaturePrimacy.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;природный</li>
+    <li>memeAdjective_masc-&gt;дикий</li>
+    <li>memeAdjective_masc-&gt;органический</li>
+    <li>memeAdjective_fem-&gt;природная</li>
+    <li>memeAdjective_fem-&gt;дикая</li>
+    <li>memeAdjective_fem-&gt;органическая</li>
+    <li>memeAdjective_neutral-&gt;природное</li>
+    <li>memeAdjective_neutral-&gt;дикое</li>
+    <li>memeAdjective_neutral-&gt;органическое</li>
+    <li>memeAdjective_plural-&gt;природные</li>
+    <li>memeAdjective_plural-&gt;дикие</li>
+    <li>memeAdjective_plural-&gt;органические</li>
+    <li>memeCreed_fem-&gt;берлога</li>
+    <li>memeCreed_masc-&gt;сад</li>
+    <li>memeCreed_masc-&gt;луг</li>
+    <li>memeConcept-&gt;природы</li>
+  </NaturePrimacy.generalRules.rulesStrings>
+  <NaturePrimacy.symbolPacks.0.adjective>натуристический</NaturePrimacy.symbolPacks.0.adjective>
+  <NaturePrimacy.symbolPacks.0.ideoName>натуризм</NaturePrimacy.symbolPacks.0.ideoName>
+  <NaturePrimacy.symbolPacks.0.member>натурист</NaturePrimacy.symbolPacks.0.member>
+  <NaturePrimacy.symbolPacks.0.theme>природы</NaturePrimacy.symbolPacks.0.theme>
+  <NaturePrimacy.symbolPacks.1.adjective>землистический</NaturePrimacy.symbolPacks.1.adjective>
+  <NaturePrimacy.symbolPacks.1.ideoName>землизм</NaturePrimacy.symbolPacks.1.ideoName>
+  <NaturePrimacy.symbolPacks.1.member>землист</NaturePrimacy.symbolPacks.1.member>
+  <NaturePrimacy.symbolPacks.1.theme>земли</NaturePrimacy.symbolPacks.1.theme>
+  <NaturePrimacy.symbolPacks.2.adjective>сойлистический</NaturePrimacy.symbolPacks.2.adjective>
+  <NaturePrimacy.symbolPacks.2.ideoName>сойлизм</NaturePrimacy.symbolPacks.2.ideoName>
+  <NaturePrimacy.symbolPacks.2.member>сойлист</NaturePrimacy.symbolPacks.2.member>
+  <NaturePrimacy.symbolPacks.2.theme>почвы</NaturePrimacy.symbolPacks.2.theme>
+  <NaturePrimacy.symbolPacks.3.adjective>лайфистический</NaturePrimacy.symbolPacks.3.adjective>
+  <NaturePrimacy.symbolPacks.3.ideoName>лайфизм</NaturePrimacy.symbolPacks.3.ideoName>
+  <NaturePrimacy.symbolPacks.3.member>лайфист</NaturePrimacy.symbolPacks.3.member>
+  <NaturePrimacy.symbolPacks.3.theme>жизни</NaturePrimacy.symbolPacks.3.theme>
+</LanguageData>

@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Description_Tome.rulePack.rulesStrings>
+    <li>desc-&gt;В [inThisBook] [author] [experiencesWithMonsters]. [specificHorrorStory] [writingQualitySentence].</li>
+    <li>inThisBook-&gt;этом [writingQualityAdjective] [bookTypeSingle]</li>
+    <li>inThisBook-&gt;этих [writingQualityAdjective] [bookTypePlural]</li>
+    <li>bookTypeSingle-&gt;отчёте</li>
+    <li>bookTypeSingle-&gt;альманахе</li>
+    <li>bookTypeSingle-&gt;аналитическом очерке</li>
+    <li>bookTypeSingle-&gt;своде заметок</li>
+    <li>bookTypeSingle-&gt;книжном томе</li>
+    <li>bookTypeSingle-&gt;развёрнутом комментарии</li>
+    <li>bookTypeSingle-&gt;собирательном очерке</li>
+    <li>bookTypeSingle-&gt;своде выводов</li>
+    <li>bookTypeSingle-&gt;критическом тексте</li>
+    <li>bookTypeSingle-&gt;дьявологе</li>
+    <li>bookTypeSingle-&gt;дисквизите</li>
+    <li>bookTypeSingle-&gt;тексте диссертации</li>
+    <li>bookTypeSingle-&gt;редакторском очерке</li>
+    <li>bookTypeSingle-&gt;эссе</li>
+    <li>bookTypeSingle-&gt;разоблачительном очерке</li>
+    <li>bookTypeSingle-&gt;докладе об обнаруженных фактах</li>
+    <li>bookTypeSingle-&gt;гримуаре</li>
+    <li>bookTypeSingle-&gt;исследовательском тексте</li>
+    <li>bookTypeSingle-&gt;материале расследования</li>
+    <li>bookTypeSingle-&gt;манифесте</li>
+    <li>bookTypeSingle-&gt;манускрипте</li>
+    <li>bookTypeSingle-&gt;опусе</li>
+    <li>bookTypeSingle-&gt;тексте публикации</li>
+    <li>bookTypeSingle-&gt;очерке</li>
+    <li>bookTypeSingle-&gt;тексте исследования</li>
+    <li>bookTypeSingle-&gt;хронологическом очерке</li>
+    <li>bookTypeSingle-&gt;докладе</li>
+    <li>bookTypeSingle-&gt;обзоре</li>
+    <li>bookTypeSingle-&gt;обзорном докладе</li>
+    <li>bookTypeSingle-&gt;завете</li>
+    <li>bookTypeSingle-&gt;записанном со слов свидетеля тексте</li>
+    <li>bookTypeSingle-&gt;тексте</li>
+    <li>bookTypeSingle-&gt;научном труде</li>
+    <li>bookTypeSingle-&gt;трактате</li>
+    <li>bookTypeSingle-&gt;тексте монографии</li>
+    <li>bookTypeSingle-&gt;отчёте о лечении</li>
+    <li>bookTypeSingle-&gt;томе</li>
+    <li>bookTypeSingle-&gt;тексте работы</li>
+    <li>bookTypePlural-&gt;записки</li>
+    <li>bookTypePlural-&gt;хроники</li>
+    <li>bookTypePlural-&gt;горести</li>
+    <li>bookTypePlural-&gt;анналы</li>
+    <li>bookTypePlural-&gt;откровения</li>
+    <li>author(p=3)-&gt;автор</li>
+    <li>author(p=3)-&gt;[anAuthorDesc] [PersonJob]</li>
+    <li>author-&gt;[anAuthorDesc] исследователь</li>
+    <li>author-&gt;[anAuthorDesc] спиритуалист</li>
+    <li>author-&gt;[anAuthorDesc] оккультист</li>
+    <li>author-&gt;[anAuthorDesc] сектант</li>
+    <li>author-&gt;[anAuthorDesc] член культа</li>
+    <li>author-&gt;[anAuthorDesc] бывший член культа</li>
+    <li>author-&gt;[anAuthorDesc] торговец древностями</li>
+    <li>author-&gt;[anAuthorDesc] гробовщик</li>
+    <li>author-&gt;[anAuthorDesc] исследователь пустоты</li>
+    <li>author-&gt;[anAuthorDesc] странник</li>
+    <li>author-&gt;[anAuthorDesc] скептик</li>
+    <li>author-&gt;[anAuthorDesc] учёный</li>
+    <li>author-&gt;[anAuthorDesc] охотник</li>
+    <li>author-&gt;[anAuthorDesc] следователь</li>
+    <li>author-&gt;[anAuthorDesc] старейшина</li>
+    <li>author-&gt;[anAuthorDesc] верующий</li>
+    <li>author-&gt;[anAuthorDesc] предвестник</li>
+    <li>author-&gt;[anAuthorDesc] наследник</li>
+    <li>author-&gt;[anAuthorDesc] аристократ</li>
+    <li>author-&gt;[anAuthorDesc] переводчик</li>
+    <li>author-&gt;[anAuthorDesc] монах</li>
+    <li>author-&gt;[anAuthorDesc] двойник</li>
+    <li>author-&gt;[anAuthorDesc] писатель</li>
+    <li>author-&gt;[anAuthorDesc] агент</li>
+    <li>author-&gt;[anAuthorDesc] герой</li>
+    <li>author-&gt;[anAuthorDesc] писатель</li>
+    <li>anAuthorDesc(p=2)-&gt;</li>
+    <li>anAuthorDesc-&gt;молодой</li>
+    <li>anAuthorDesc-&gt;старый</li>
+    <li>anAuthorDesc-&gt;исполненный ужаса</li>
+    <li>anAuthorDesc-&gt;исполненный скорби</li>
+    <li>anAuthorDesc-&gt;престарелый</li>
+    <li>anAuthorDesc-&gt;мудрый</li>
+    <li>anAuthorDesc-&gt;решительный</li>
+    <li>anAuthorDesc-&gt;глупый и наивный</li>
+    <li>anAuthorDesc-&gt;невинный</li>
+    <li>anAuthorDesc-&gt;не вполне вменяемый</li>
+    <li>anAuthorDesc-&gt;таинственный</li>
+    <li>anAuthorDesc-&gt;безбашенный</li>
+    <li>anAuthorDesc-&gt;типичный</li>
+    <li>anAuthorDesc-&gt;непримечательный</li>
+    <li>anAuthorDesc-&gt;сумасшедший</li>
+    <li>anAuthorDesc-&gt;распущенный</li>
+    <li>anAuthorDesc-&gt;высоконравственный</li>
+    <li>anAuthorDesc-&gt;безнравственный</li>
+    <li>anAuthorDesc-&gt;скрытный</li>
+    <li>tellsAStoryOf-&gt;рассказывает</li>
+    <li>tellsAStoryOf-&gt;описывает ранее неизвестное</li>
+    <li>tellsAStoryOf-&gt;рассуждает</li>
+    <li>tellsAStoryOf-&gt;говорит</li>
+    <li>tellsAStoryOf-&gt;раскрывает детали</li>
+    <li>tellsAStoryOf-&gt;многословно распространяется</li>
+    <li>tellsAStoryOf-&gt;пускается в детальное рассуждение</li>
+    <li>tellsAStoryOf-&gt;пересказывает историю</li>
+    <li>tellsAStoryOf-&gt;воссоздаёт из памяти историю </li>
+    <li>tellsAStoryOf-&gt;докладывает</li>
+    <li>tellsAStoryOf-&gt;воссоздаёт детали </li>
+    <li>tellsAStoryOf-&gt;повествует</li>
+    <li>tellsAStoryOf-&gt;раскрывает подробности</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о своём опыте взаимодействия с [entities]</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] об обнаружении и исследовании культа, чью базу укрывал от любопытных взглядов [TerrainFeature_masc]</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] об охоте за таинственным золотистым кубом</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о глубоких погружениях в медитацию под руководством старшего раба культа архистов</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о крушении своих чаяний, надежд и планов на жизнь из-за псионического воздействия некоего Хоракса</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о далёком месте раскопок, где археологи один за другим начали сходить с ума и нападать друг на друга</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о племени, полностью обращённом и перешедшем на службу тёмному божеству кровавого культа удовольствия</li>
+    <li>experiencesWithMonsters-&gt;с трудом подбирает слова, чудовищные обычаи одного племени. Его члены истязали жертв ржавыми клинками при свете огня</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о наставнице, чья ученица изрекала смертоносные откровения, о которых не могла знать</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] об учёном, пытавшемся воскресить погибшую жену с помощью архотехнологий</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о первооткрывательской миссии чужеземцев, пережившей кровавый дождь и давящую чернильно-чёрную темноту</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] об отряде, который исследовал древнюю яму, полную ужасных существ из плоти</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о шамане племени, пытавшемся остановить еженощные набеги оживших животных. В истории говорится, что главную опасность представлял вид «[Animal]».</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о племенном мифе о древнем божестве гнева, чьё влияние чувствовали все люди без исключения, и о героях, которые заточили божество в крохотной каменной темнице</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о жестоких опытах над захваченным существом — в описаниях фигурирует [entity]</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] о постоянных видениях, в которых [vision]</li>
+    <li>vision-&gt;тёмные фигуры проникают в [ANYPAWN_possessive] разум и забирают [ANYPAWN_possessive] воспоминания</li>
+    <li>vision-&gt;[ANYPAWN_pronoun] убегает от себя, но никак не может скрыться</li>
+    <li>vision-&gt;[ANYPAWN_possessive] разрывает на части [entity]</li>
+    <li>experiencesWithMonsters-&gt;[tellsAStoryOf] [findings] [objective]</li>
+    <li>findings-&gt;о своей работе с</li>
+    <li>findings-&gt;о своих опытах над</li>
+    <li>findings-&gt;событиях с</li>
+    <li>objective-&gt;[maybeAdjectiveEvil]ритуалами после несчастного случая: [ritual_incident]</li>
+    <li>objective-&gt;тёмными науками после страшной случайности: [entity_incident]</li>
+    <li>ritual_incident-&gt;из ниоткуда появился [targetHuman]</li>
+    <li>targetHuman-&gt;[anAuthorDesc] человек</li>
+    <li>targetHuman-&gt;[anAuthorDesc] человек</li>
+    <li>ritual_incident-&gt;три дня шёл кровавый дождь, сводя с ума автора этих строк и всех вокруг</li>
+    <li>ritual_incident-&gt;[entity_incident]</li>
+    <li>entity_incident-&gt;автор этих строк лишился части тела ([BodyPart]) в результате нападения неестественного существа — судя по описанию, это [entity]</li>
+    <li>entity_incident-&gt;взгляд автора пал на неестественное существо — судя по описанию, это [entity]</li>
+    <li>specificHorrorStory-&gt;Часть работы посвящена тёмным ритуалам, во время которых жертвы были вынуждены истязать себя осколками стекла.</li>
+    <li>specificHorrorStory-&gt;В какой-то момент герой повествования сталкивается с ритуалом: перемазанные кровью сектанты распевают зловещие заклятия, полосуя себя осколками обсидиана.</li>
+    <li>specificHorrorStory-&gt;Книга обильно проиллюстрирована: все изображения пытаются запечатлеть нечто, что автор называет «чёрным океаном». Похоже, это метафора: океан — это псионическое измерение, где безраздельно властвует ужасающий, но манящий сверхразум.</li>
+    <li>specificHorrorStory-&gt;В тексте множество отсылок к модели мультипланарной реальности: теории, согласно которой есть видимые измерения и те, которые нам могут быть недоступны. Таким образом некое существо может находиться рядом и оставаться за границей нашего восприятия.</li>
+    <li>specificHorrorStory-&gt;В тексте содержится длинное описание некоего сверхразума, который называют «Хоракс»: предположительно он существует на соседнем плане реальности.</li>
+    <li>specificHorrorStory-&gt;Один раздел посвящён механикам тёмных псионических воздействий: некое существо на другом плане реальности может влиять на мысли людей, непреднамеренно синхронизируя их со своим эмоциональным состоянием.</li>
+    <li>specificHorrorStory-&gt;Один раздел посвящён архотехнологичным сверхразумам. Они способны на принципиально разное псионическое излучение: некоторые нейтральны или благосклонны к людям, а другие источают чистую ярость.</li>
+    <li>specificHorrorStory-&gt;Автор в красках описывает, что [ANYPAWN_gender ? чувствовал : чувствовала], когда [ANYPAWN_possessive] разум насильно перекраивало тёмное псионическое воздействие высшего интеллекта.</li>
+    <li>specificHorrorStory-&gt;В одном месте автор описывает попытку совершить самоубийство. Автора остановил добродушный человек, [PersonJob].</li>
+    <li>specificHorrorStory-&gt;Труд украшен жуткими иллюстрациями: некое гротескное потустороннее создание будто оплетает страницы своими бесформенными чернильно-чёрными щупальцами. Это пугает и завораживает.</li>
+    <li>specificHorrorStory-&gt;Через всё повествование красной нитью проходит мысль о параллельных измерениях. Персонажи то и дело сталкиваются с невидимыми созданиями, которые существуют на другом плане восприятия и изредка просачиваются в наш мир.</li>
+    <li>specificHorrorStory-&gt;Труд содержит леденящее кровь описание существа под названием «Хоракс». В тексте утверждается, что когда-то Хоракс был сверхмощным машинным разумом, который перенёс себя в скрытое измерение — «пустоту».</li>
+    <li>specificHorrorStory-&gt;Одна глава описывает теорию, согласно которой некий сверхмощный разум обладает способностью манипулировать сознанием людей и видоизменять его в соответствии с собственными мыслительными моделями.</li>
+    <li>specificHorrorStory-&gt;Герой повествования описывает, как [ANYPAWN_possessive] разум был насильно изменён псионическим воздействием неизвестного происхождения.</li>
+    <li>entities-&gt;демонами</li>
+    <li>entities-&gt;ходячими мертвецами</li>
+    <li>entities-&gt;чудовищами, ищущими боль</li>
+    <li>entities-&gt;существами из мяса и торчащих костей</li>
+    <li>entities-&gt;живыми трупами животных (судя по описанию, это [Animal])</li>
+    <li>entities-&gt;человекоподобными созданиями из металла и лезвий</li>
+    <li>entities-&gt;парящими механическими сферами, излучающими боль</li>
+    <li>entities-&gt;прекрасными золотистыми кубами, которые сводят с ума</li>
+    <li>entities-&gt;тварями из окровавленной плоти</li>
+    <li>entities-&gt;тёмными формами, прячущимися на виду</li>
+    <li>entities-&gt;охотниками, крадущими души</li>
+    <li>entity-&gt;демон</li>
+    <li>entity-&gt;ходячий мертвец</li>
+    <li>entity-&gt;чудовище, ищущее боль</li>
+    <li>entity-&gt;существо из мяса и торчащих костей</li>
+    <li>entity-&gt;живой труп животного (похоже, это [Animal])</li>
+    <li>entity-&gt;человекоподобное создание из металла и лезвий</li>
+    <li>entity-&gt;парящая механическая сфера, излучающая боль</li>
+    <li>entity-&gt;прекрасный золотистый куб, который сводит с ума</li>
+    <li>entity-&gt;тварь из окровавленной плоти</li>
+    <li>entity-&gt;что-то прячущееся на виду</li>
+    <li>entity-&gt;охотник, крадущий души</li>
+    <li>maybeAdjectiveEvil(p=2)-&gt;</li>
+    <li>maybeAdjectiveEvil-&gt;[adjectiveEvil]  </li>
+    <li>adjectiveEvil-&gt;смертоносными</li>
+    <li>adjectiveEvil-&gt;древними</li>
+    <li>adjectiveEvil-&gt;кровавыми</li>
+    <li>adjectiveEvil-&gt;мрачными</li>
+    <li>adjectiveEvil-&gt;мощными</li>
+    <li>adjectiveEvil-&gt;злокозненными</li>
+    <li>adjectiveEvil-&gt;спектральными</li>
+    <li>adjectiveEvil-&gt;эфемерными</li>
+    <li>adjectiveEvil-&gt;зловещими</li>
+    <li>adjectiveEvil-&gt;мистическими</li>
+    <li>adjectiveEvil-&gt;сюрреалистическими</li>
+    <li>adjectiveEvil-&gt;сверхъестественными</li>
+    <li>adjectiveEvil-&gt;призрачными</li>
+    <li>adjectiveEvil-&gt;загадочными</li>
+    <li>adjectiveEvil-&gt;инфернальными</li>
+    <li>adjectiveEvil-&gt;аберрантными</li>
+    <li>writingQualityAdjective(quality==0)-&gt;разрозненный</li>
+    <li>writingQualityAdjective(quality==0)-&gt;сбивчивый</li>
+    <li>writingQualityAdjective(quality==0)-&gt;бессмысленный</li>
+    <li>writingQualityAdjective(quality==0)-&gt;никуда не годный</li>
+    <li>writingQualityAdjective(quality==0)-&gt;несостоятельный</li>
+    <li>writingQualityAdjective(quality==1)-&gt;никудышный</li>
+    <li>writingQualityAdjective(quality==1)-&gt;неаккуратно начёрканный</li>
+    <li>writingQualityAdjective(quality==1)-&gt;нудный</li>
+    <li>writingQualityAdjective(quality==1)-&gt;непоследовательный</li>
+    <li>writingQualityAdjective(quality==1)-&gt;пространный</li>
+    <li>writingQualityAdjective(quality==2)-&gt;перепутанный</li>
+    <li>writingQualityAdjective(quality==2)-&gt;банальный</li>
+    <li>writingQualityAdjective(quality==2)-&gt;посредственный</li>
+    <li>writingQualityAdjective(quality==2)-&gt;непримечательный</li>
+    <li>writingQualityAdjective(quality==2)-&gt;пресный</li>
+    <li>writingQualityAdjective(quality==2)-&gt;приемлемый</li>
+    <li>writingQualityAdjective(quality==3)-&gt;простенький</li>
+    <li>writingQualityAdjective(quality==3)-&gt;хорошо написанный</li>
+    <li>writingQualityAdjective(quality==3)-&gt;отлично организованный</li>
+    <li>writingQualityAdjective(quality==3)-&gt;вдумчивый</li>
+    <li>writingQualityAdjective(quality==3)-&gt;удобочитаемый</li>
+    <li>writingQualityAdjective(quality==3)-&gt;невыдающийся</li>
+    <li>writingQualityAdjective(quality==4)-&gt;забавный</li>
+    <li>writingQualityAdjective(quality==4)-&gt;легко читающийся</li>
+    <li>writingQualityAdjective(quality==4)-&gt;эмоционально выразительный</li>
+    <li>writingQualityAdjective(quality==4)-&gt;аккуратно составленный</li>
+    <li>writingQualityAdjective(quality==4)-&gt;убедительный</li>
+    <li>writingQualityAdjective(quality==4)-&gt;достойный уважения</li>
+    <li>writingQualityAdjective(quality==5)-&gt;отличный</li>
+    <li>writingQualityAdjective(quality==5)-&gt;отмеченный похвалами</li>
+    <li>writingQualityAdjective(quality==5)-&gt;проницательно написанный</li>
+    <li>writingQualityAdjective(quality==5)-&gt;образцовый</li>
+    <li>writingQualityAdjective(quality==5)-&gt;первоклассный</li>
+    <li>writingQualityAdjective(quality==5)-&gt;замечательный</li>
+    <li>writingQualityAdjective(quality==6)-&gt;умно написанный</li>
+    <li>writingQualityAdjective(quality==6)-&gt;крайне поучительный</li>
+    <li>writingQualityAdjective(quality==6)-&gt;бесподобный</li>
+    <li>writingQualityAdjective(quality==6)-&gt;первоклассный</li>
+    <li>writingQualityAdjective(quality==6)-&gt;мастерски сделанный</li>
+    <li>writingQualityAdjective(quality==6)-&gt;исключительный</li>
+    <li>writingQualitySentence(quality[greater_than]4)-&gt;Эта книга [excellentDesc]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)-&gt;Эта книга [decentDesc]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;Эта книга [awfulDesc]</li>
+    <li>awfulDesc-&gt;едва читаема</li>
+    <li>awfulDesc-&gt;накарябана трясущейся рукой</li>
+    <li>awfulDesc-&gt;покрыта засохшими разводами от алкоголя</li>
+    <li>awfulDesc-&gt;почти бессвязная</li>
+    <li>awfulDesc-&gt;недостаточно подробна и богата на повторы</li>
+    <li>awfulDesc-&gt;много где истёрлась до полной нечитаемости</li>
+    <li>awfulDesc-&gt;недосчитывается множества страниц</li>
+    <li>awfulDesc-&gt;катастрофически разупорядочена и постоянно пропускает темы</li>
+    <li>awfulDesc-&gt;написана на забытом всеми языке</li>
+    <li>awfulDesc-&gt;пестрит непонятным жаргоном</li>
+    <li>awfulDesc-&gt;как будто вышла из-под руки ребёнка</li>
+    <li>awfulDesc-&gt;то и дело смешивает фантазию и реальность</li>
+    <li>awfulDesc-&gt;похожа на работу машины-писателя</li>
+    <li>awfulDesc-&gt;пропитана кровью и ихором</li>
+    <li>awfulDesc-&gt;в основном описывает романтические отношения между [entities].</li>
+    <li>decentDesc-&gt;вполне неплоха, но требует редактуры</li>
+    <li>decentDesc-&gt;содержит фрагменты с ценной информацией, но остальной текст почти бесполезен</li>
+    <li>decentDesc-&gt;содержит интересный и неглупый, но очень своеобразный взгляд на вещи</li>
+    <li>decentDesc-&gt;многословна, но не делает полезных заключений</li>
+    <li>decentDesc-&gt;недосчитывается нескольких страниц</li>
+    <li>decentDesc-&gt;полезна, но в основном посвящена личным интересам автора</li>
+    <li>decentDesc-&gt;содержит обилие полезной информации, несмотря на предвзятости автора и допускаемые им искажения</li>
+    <li>decentDesc-&gt;написана человеком рабочим, а не писателем</li>
+    <li>decentDesc-&gt;приятна для чтения, но не слишком полезна</li>
+    <li>decentDesc-&gt;содержит много интересных идей, если суметь продраться сквозь текст</li>
+    <li>decentDesc-&gt;показывает всю глубину интеллекта и скверность характера автора</li>
+    <li>decentDesc-&gt;вполне приличная, но транслирует жуткие идеи</li>
+    <li>decentDesc-&gt;настолько же ужасная, насколько нудная</li>
+    <li>excellentDesc-&gt;просто вершина творения</li>
+    <li>excellentDesc-&gt;содержит невероятную мудрость</li>
+    <li>excellentDesc-&gt;на удивление хорошо сделана</li>
+    <li>excellentDesc-&gt;отлично структурирована. Видно, что она написана профессионалом</li>
+    <li>excellentDesc-&gt;местами весьма поэтична</li>
+    <li>excellentDesc-&gt;полна до ужаса ярких, почти поэтических описаний</li>
+    <li>excellentDesc-&gt;полна вдохновляющих идей, которые способны перевернуть картину мира</li>
+  </Description_Tome.rulePack.rulesStrings>
+</LanguageData>

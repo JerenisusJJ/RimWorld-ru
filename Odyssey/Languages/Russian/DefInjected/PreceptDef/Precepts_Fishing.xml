@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Fishing_Disapproved.label>не одобрено</Fishing_Disapproved.label>
+  <Fishing_Disapproved.description>Рыбалка ужасна. Нам следует избегать этого.</Fishing_Disapproved.description>
+  <Fishing_Disapproved.comps.1.description>Кто-то забил рыбу</Fishing_Disapproved.comps.1.description>
+  <Fishing_Prohibited.label>запрещено</Fishing_Prohibited.label>
+  <Fishing_Prohibited.description>Рыбалка аморальна. Нам ни в коем случае не стоит этим заниматься.</Fishing_Prohibited.description>
+  <Fishing_Prohibited.comps.1.description>Кто-то забил рыбу</Fishing_Prohibited.comps.1.description>
+  <Fishing_Prohibited.comps.2.description>Забить рыбу</Fishing_Prohibited.comps.2.description>
+  <Fishing_Sacred.label>священно</Fishing_Sacred.label>
+  <Fishing_Sacred.description>Рыбалка — часть истинного пути.</Fishing_Sacred.description>
+  <Fishing_Sacred.comps.0.description>Недостаточно рыбы</Fishing_Sacred.comps.0.description>
+</LanguageData>

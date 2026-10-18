@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChangeTreeMode.label>менять касты дриад</ChangeTreeMode.label>
+  <ChangeTreeMode.gerund>сменить касту дриад, которых порождает</ChangeTreeMode.gerund>
+  <ChangeTreeMode.verb>сменить касту дриад, которых порождает</ChangeTreeMode.verb>
+  <ConvertPrisoner.label>обращать пленников</ConvertPrisoner.label>
+  <ConvertPrisoner.gerund>обращать</ConvertPrisoner.gerund>
+  <ConvertPrisoner.verb>обращать</ConvertPrisoner.verb>
+  <EmancipateSlave.label>освобождать рабов</EmancipateSlave.label>
+  <EmancipateSlave.gerund>освободить</EmancipateSlave.gerund>
+  <EmancipateSlave.verb>освободить</EmancipateSlave.verb>
+  <EnslavePrisoner.label>порабощать пленников</EnslavePrisoner.label>
+  <EnslavePrisoner.gerund>порабощать</EnslavePrisoner.gerund>
+  <EnslavePrisoner.verb>порабощать</EnslavePrisoner.verb>
+  <ExecuteSlave.label>казнить пленников</ExecuteSlave.label>
+  <ExecuteSlave.gerund>казнить</ExecuteSlave.gerund>
+  <ExecuteSlave.verb>казнить</ExecuteSlave.verb>
+  <HaulToBiosculpterPod.label>заправлять биоскульптор</HaulToBiosculpterPod.label>
+  <HaulToBiosculpterPod.gerund>заправить</HaulToBiosculpterPod.gerund>
+  <HaulToBiosculpterPod.verb>заправить</HaulToBiosculpterPod.verb>
+  <ImprisonSlave.label>арестовывать рабов</ImprisonSlave.label>
+  <ImprisonSlave.gerund>арестовать</ImprisonSlave.gerund>
+  <ImprisonSlave.verb>арестовать</ImprisonSlave.verb>
+  <PruneGauranlenTree.label>остригать древа Гауранлен</PruneGauranlenTree.label>
+  <PruneGauranlenTree.gerund>остригать</PruneGauranlenTree.gerund>
+  <PruneGauranlenTree.verb>остригать</PruneGauranlenTree.verb>
+  <SuppressSlave.label>подавлять рабов</SuppressSlave.label>
+  <SuppressSlave.gerund>подавить</SuppressSlave.gerund>
+  <SuppressSlave.verb>подавить</SuppressSlave.verb>
+</LanguageData>

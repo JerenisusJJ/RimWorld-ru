@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChemfuelTank.label>малый бак для химтоплива</ChemfuelTank.label>
+  <ChemfuelTank.description>Бак для хранения химтоплива, обеспечивающий топливом двигатели гравикорабля.</ChemfuelTank.description>
+  <FuelOptimizer.label>оптимизатор топлива</FuelOptimizer.label>
+  <FuelOptimizer.description>Гравитехнологичное устройство, позволяющее тяге гравидвигателя работать более эффективно вместе с традиционными ускорителями. Снижает потребность в топливе для полетов гравикорабля.\n\nГравикорабль может поддерживать до двух оптимизаторов топлива.</FuelOptimizer.description>
+  <GravcorePowerCell.label>энергоячейка гравиядра</GravcorePowerCell.label>
+  <GravcorePowerCell.description>Генератор энергии, который пассивно собирает небольшое количество энергии с проходящих через гравикорабль гравитационных волн.</GravcorePowerCell.description>
+  <GravEngine.label>гравидвигатель</GravEngine.label>
+  <GravEngine.description>Ультратехнологичное сердце гравикорабля. Гравидвигатель создает подъемную силу, инвертируя и усиливая гравитацию в своем поле. Этот двигатель поднимает вверх, но не создает поступательного движения. Он не может работать вдали от массивных источников гравитации, например планет, и бесполезен для межпланетных перелетов.\n\nПри запуске всё, что находится на надстройках и соединено с гравидвигателем, переносится на новую карту. При запуске гравикорабля текущая карта будет покинута.\n\nИнженеры глиттермиров используют гравикорабли для вывода орбитальных платформ и строительства небесных лифтов. Для их производства требуются огромные и высокоспециализированные мощности, поэтому вне глиттермиров они встречаются крайне редко.</GravEngine.description>
+  <GravFieldExtender.label>расширитель гравитационного поля</GravFieldExtender.label>
+  <GravFieldExtender.description>Ультратехнологичное устройство для увеличения размера гравикорабля. Расширяет область, на которой можно возводить надстройки, и увеличивает поддерживаемый объем надстроек. Необходимо размещать рядом с гравидвигателем.\n\nГравикорабль может поддерживать до шести расширителей гравитационного поля.</GravFieldExtender.description>
+  <GravshipHull.label>корпус гравикорабля</GravshipHull.label>
+  <GravshipHull.description>Прочная герметичная стена, предотвращающая утечку кислорода в вакууме. Эта стена непосредственно интегрируется с надстройкой, поэтому может быть построена только на гравикорабле.</GravshipHull.description>
+  <GravshipShieldGenerator.label>генератор щита гравикорабля</GravshipShieldGenerator.label>
+  <GravshipShieldGenerator.description>Экранирующее устройство для защиты гравикорабля. Модулирует гравитационное поле, создавая на короткое время отражающую поверхность, которая блокирует снаряды. Защищает от обычных попаданий и минометов. Те, кто внутри, всё равно могут стрелять наружу.\n\nЩит нужно зарядить перед использованием. Один гравикорабль поддерживает до двух генераторов щита.</GravshipShieldGenerator.description>
+  <GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>активировать</GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  <LargeChemfuelTank.label>большой бак для химтоплива</LargeChemfuelTank.label>
+  <LargeChemfuelTank.description>Огромный бак для хранения химтоплива, обеспечивающий топливом двигатели гравикорабля.</LargeChemfuelTank.description>
+  <LargeThruster.label>большой ускоритель</LargeThruster.label>
+  <LargeThruster.description>Передовой химтопливный ускоритель с теплостойкой вставкой из вакуумита. Значительно увеличивает дальность гравикорабля. Для установки ускорителей требуется свободная от крупных построек и надстроек зона.\n\nТребуются блоки вакуумита, который можно добыть на орбитальных астероидах.\n\nГравикорабль может поддерживать до шести больших ускорителей.</LargeThruster.description>
+  <MinifiedGravEngine.label>миниатюрный объект</MinifiedGravEngine.label>
+  <PilotConsole.label>пульт пилота</PilotConsole.label>
+  <PilotConsole.description>Интерфейс, позволяющий запускать и пилотировать гравикорабль. Получает питание непосредственно от гравидвигателя.</PilotConsole.description>
+  <PilotSubpersonaCore.label>ядро субперсоны пилота</PilotSubpersonaCore.label>
+  <PilotSubpersonaCore.description>Низкосортная субперсона, специализирующаяся на управлении гравикораблем. Снижает риск аварии при полете, но не может полностью учесть человеческий фактор.\n\nДолжна быть установлена рядом с пультом пилота. Один пульт позволяет ставить до двух ядер субперсоны пилота.</PilotSubpersonaCore.description>
+  <ShipChunk_Mech.label>обломок корабля механоидов</ShipChunk_Mech.label>
+  <ShipChunk_Mech.description>Обломок корабля механоидов, выполненный из стали и гравлитовых панелей. Судя по всему, оторвался от корабля при неконтролируемом входе в атмосферу или был сбит каким-то оружием.\n\nРазберите его для получения ценных ресурсов.</ShipChunk_Mech.description>
+  <ShipChunk_Mech.comps.CompInspectString.inspectString>Разберите для получения ценных ресурсов.</ShipChunk_Mech.comps.CompInspectString.inspectString>
+  <SignalJammer.label>глушитель сигналов</SignalJammer.label>
+  <SignalJammer.description>Излучатель, маскирующий электромагнитный сигнал вашего гравикорабля, что позволяет приблизиться к хорошо защищенным местам посадки.</SignalJammer.description>
+  <SmallThruster.label>малый ускоритель</SmallThruster.label>
+  <SmallThruster.description>Химтопливный ускоритель, увеличивающий дальность полета гравикорабля. Для установки ускорителей требуется свободная зона без крупных построек и надстроек.\n\nГравикорабль может поддерживать до четырех малых ускорителей.</SmallThruster.description>
+  <GravAnchor.label>гравиякорь</GravAnchor.label>
+  <GravAnchor.description>Предотвращает уничтожение локальной карты при запуске гравикорабля.
+
+Гравиякоря пассивно снижают нестабильный гравитационный сдвиг на большой площади, нивелируя разрушительные последствия старта гравикорабля. Не может быть построен на самом гравикорабле, поскольку полностью заблокирует возможность взлёта.</GravAnchor.description>
+  <DropPodLeavingAncient.label>древняя капсула (улетает)</DropPodLeavingAncient.label>
+  <DropPodIncomingAncient.label>древняя капсула (прилетает)</DropPodIncomingAncient.label>
+</LanguageData>

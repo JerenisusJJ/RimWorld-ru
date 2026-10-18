@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PorcupineQuill.label>игла дикобраза</PorcupineQuill.label>
+  <PorcupineQuill.description>Острая игла дикобраза. Обычно не смертельна, но вызывает сильную боль. Требует хирургического удаления.</PorcupineQuill.description>
+  <VacuumBurn.label>ожог вакуумом</VacuumBurn.label>
+  <VacuumBurn.description>Повреждение тканей, вызванное воздействием космического вакуума. Может быть крайне болезненным.</VacuumBurn.description>
+  <VacuumBurn.comps.HediffComp_TendDuration.labelTendedWell>обработано</VacuumBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <VacuumBurn.comps.HediffComp_TendDuration.labelTendedWellInner>обработано</VacuumBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <VacuumBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>обработано</VacuumBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <VacuumBurn.labelNoun>ожог вакуумом</VacuumBurn.labelNoun>
+  <VacuumBurn.labelNounPretty>{1}: {0}</VacuumBurn.labelNounPretty>
+</LanguageData>

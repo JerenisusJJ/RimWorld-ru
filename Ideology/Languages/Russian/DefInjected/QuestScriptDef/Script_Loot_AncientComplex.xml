@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы узнали о том, что неподалёку от вас находится древний комплекс. По слухам, в нём находятся старинные сокровища.\n\nВы можете попробовать попасть в него и разграбить.\n\nОсторожно: внутри вас могут поджидать различные опасности, а переполох в комплексе может привлечь внимание других врагов.</li>
+  </OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+    <li>questName(p=3)-&gt;[complexAdj] [complex] c [finalWord]</li>
+    <li>questName-&gt;[preVerb] [complexAdjGen] [complexGen]</li>
+    <li>complexAdj-&gt;секретный</li>
+    <li>complexAdj-&gt;загадочный</li>
+    <li>complexAdj-&gt;древний</li>
+    <li>complexAdj-&gt;старинный</li>
+    <li>complexAdj-&gt;тайный</li>
+    <li>complexAdj-&gt;опасный</li>
+    <li>complexAdjGen-&gt;секретного</li>
+    <li>complexAdjGen-&gt;загадочного</li>
+    <li>complexAdjGen-&gt;древнего</li>
+    <li>complexAdjGen-&gt;старинного</li>
+    <li>complexAdjGen-&gt;тайного</li>
+    <li>complexAdjGen-&gt;опасного</li>
+    <li>complex-&gt;комплекс</li>
+    <li>complex-&gt;сектор</li>
+    <li>complexGen-&gt;комплекса</li>
+    <li>complexGen-&gt;сектора</li>
+    <li>finalWord-&gt;сокровищами</li>
+    <li>finalWord-&gt;богатствами</li>
+    <li>finalWord-&gt;ценностями</li>
+    <li>finalWord-&gt;трофеями</li>
+    <li>preVerb-&gt;ограбление</li>
+    <li>preVerb-&gt;разграбление</li>
+    <li>preVerb-&gt;расхищение</li>
+    <li>preVerb-&gt;грабёж</li>
+    <li>preVerb-&gt;разорение</li>
+    <li>preVerb-&gt;опустошение</li>
+  </OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+</LanguageData>

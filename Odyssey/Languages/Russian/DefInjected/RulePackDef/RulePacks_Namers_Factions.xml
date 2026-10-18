@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerFactionSalvagers.rulePack.rulesStrings>
+    <li>r_name-&gt;[spaceAdj_plural] cпасатели</li>
+    <li>r_name-&gt;[spaceAdj_plural] падальщики</li>
+    <li>r_name-&gt;[spaceAdj_plural] [AnimalBadass_plural]</li>
+    <li>r_name-&gt;[spaceAdj_plural] [AnimalBadass_plural]</li>
+    <li>r_name-&gt;[spaceAdj_plural] [Enemy_plural]</li>
+    <li>r_name-&gt;[Enemy_plural] c [spaceNoun_gen]</li>
+    <li>r_name-&gt;[groupname] с [spaceNoun_gen]</li>
+    <li>r_name-&gt;[spaceAdj_plural] [groupname_plural]</li>
+    <li>r_name-&gt;[spaceAdj_mas] [groupname_mas]</li>
+    <li>r_name-&gt;[spaceAdj_fem] [groupname_fem]</li>
+    <li>r_name-&gt;[ColorBadass_plural] [spaceNoun_plural]</li>
+    <li>r_name-&gt;[ColorBadass_mas] [spaceNoun_mas]</li>
+    <li>r_name-&gt;[ColorBadass_fem] [spaceNoun_fem]</li>
+    <li>r_name-&gt;[AdjectiveBadass_plural] [spaceNoun_plural]</li>
+    <li>r_name-&gt;[AdjectiveBadass_mas] [spaceNoun_mas]</li>
+    <li>r_name-&gt;[AdjectiveBadass_fem] [spaceNoun_fem]</li>
+    <li>r_name-&gt;[ColorBadass_plural] [spaceNoun_plural]</li>
+    <li>r_name-&gt;[ColorBadass_mas] [spaceNoun_mas]</li>
+    <li>r_name-&gt;[ColorBadass_fem] [spaceNoun_fem]</li>
+    <li>r_name-&gt;[AdjectiveBadass_plural] [spaceCollectiveNoun_plural]</li>
+    <li>r_name-&gt;[AdjectiveBadass_mas] [spaceCollectiveNoun_mas]</li>
+    <li>r_name-&gt;[AdjectiveBadass_fem] [spaceCollectiveNoun_fem]</li>
+    <li>r_name-&gt;[spaceNoun] [ConceptBadass]</li>
+    <li>r_name(p=2)-&gt;[spaceNoun] [NamePerson_gen]</li>
+    <li>r_name(p=2)-&gt;[spaceCollectiveNoun] [NamePerson_gen]</li>
+    <li>r_name(p=2)-&gt;[spaceAdj_plural] [spaceCollectiveNoun_plural] [NamePerson_gen]</li>
+    <li>r_name(p=2)-&gt;[spaceAdj_mas] [spaceCollectiveNoun_mas] [NamePerson_gen]</li>
+    <li>r_name(p=2)-&gt;[spaceAdj_fem] [spaceCollectiveNoun_fem] [NamePerson_gen]</li>
+    <li>spaceAdj_plural-&gt;Орбитальные</li>
+    <li>spaceAdj_mas-&gt;Орбитальный</li>
+    <li>spaceAdj_fem-&gt;Орбитальная</li>
+    <li>spaceAdj_plural-&gt;Космические</li>
+    <li>spaceAdj_mas-&gt;Космический</li>
+    <li>spaceAdj_fem-&gt;Космическая</li>
+    <li>spaceAdj_plural-&gt;Астральные</li>
+    <li>spaceAdj_mas-&gt;Астральный</li>
+    <li>spaceAdj_fem-&gt;Астральная</li>
+    <li>spaceAdj_plural-&gt;Солнечные</li>
+    <li>spaceAdj_mas-&gt;Солнечный</li>
+    <li>spaceAdj_fem-&gt;Солнечная</li>
+    <li>spaceAdj_plural-&gt;Небесные</li>
+    <li>spaceAdj_mas-&gt;Небесный</li>
+    <li>spaceAdj_fem-&gt;Небесная</li>
+    <li>spaceNoun_fem-&gt;Звезда</li>
+    <li>spaceNoun_plural-&gt;Звезды</li>
+    <li>spaceNoun_gen-&gt;Звезды</li>
+    <li>spaceNoun_fem-&gt;Луна</li>
+    <li>spaceNoun_plural-&gt;Луны</li>
+    <li>spaceNoun_gen-&gt;Луны</li>
+    <li>spaceNoun_fem-&gt;Комета</li>
+    <li>spaceNoun_plural-&gt;Кометы</li>
+    <li>spaceNoun_gen-&gt;Кометы</li>
+    <li>spaceNoun_mas-&gt;Астероид</li>
+    <li>spaceNoun_plural-&gt;Астероиды</li>
+    <li>spaceNoun_gen-&gt;Астероида</li>
+    <li>spaceNoun_neu-&gt;Затмение</li>
+    <li>spaceNoun_plural-&gt;Затмения</li>
+    <li>spaceNoun_gen-&gt;Затмения</li>
+    <li>SpaceCollectiveNoun_fem-&gt;Армада</li>
+    <li>SpaceCollectiveNoun_mas-&gt;Флот</li>
+    <li>SpaceCollectiveNoun_fem-&gt;Флотилия</li>
+    <li>SpaceCollectiveNoun_mas-&gt;Флот</li>
+    <li>SpaceCollectiveNoun_plural-&gt;Корсары</li>
+    <li>SpaceCollectiveNoun_plural-&gt;Пираты</li>
+    <li>SpaceCollectiveNoun_plural-&gt;Мародеры</li>
+    <li>SpaceCollectiveNoun_plural-&gt;Жнецы</li>
+  </NamerFactionSalvagers.rulePack.rulesStrings>
+  <NamerFactionTradersGuild.rulePack.rulesStrings>
+    <li>r_name-&gt;[tradeAdj_mas] [tradeNoun_mas]</li>
+    <li>r_name-&gt;[tradeAdj_fem] [tradeNoun_fem]</li>
+    <li>tradeAdj_mas-&gt;купеческий</li>
+    <li>tradeAdj_fem-&gt;купеческая</li>
+    <li>tradeAdj_mas-&gt;орбитальный</li>
+    <li>tradeAdj_fem-&gt;орбитальная</li>
+    <li>tradeAdj_mas-&gt;торговый</li>
+    <li>tradeAdj_fem-&gt;торговая</li>
+    <li>tradeAdj_mas-&gt;пространственный</li>
+    <li>tradeAdj_fem-&gt;пространственная</li>
+    <li>tradeAdj_mas-&gt;вселенский</li>
+    <li>tradeAdj_fem-&gt;вселенская</li>
+    <li>tradeAdj_mas-&gt;космический</li>
+    <li>tradeAdj_fem-&gt;космическая</li>
+    <li>tradeAdj_mas-&gt;звезднорожденный</li>
+    <li>tradeAdj_fem-&gt;звезднорожденная</li>
+    <li>tradeAdj_mas-&gt;безднорожденный</li>
+    <li>tradeAdj_fem-&gt;безднорожденная</li>
+    <li>tradeAdj_mas-&gt;внешний</li>
+    <li>tradeAdj_fem-&gt;внешняя</li>
+    <li>tradeNoun_fem-&gt;гильдия</li>
+    <li>tradeNoun_mas-&gt;консорциум</li>
+    <li>tradeNoun_mas-&gt;синдикат</li>
+    <li>tradeNoun_mas-&gt;альянс</li>
+    <li>tradeNoun_mas-&gt;картель</li>
+    <li>tradeNoun_fem-&gt;коалиция</li>
+    <li>tradeNoun_fem-&gt;федерация</li>
+    <li>tradeNoun_mas-&gt;конгломерат</li>
+    <li>tradeNoun_fem-&gt;корпорация</li>
+    <li>tradeNoun_fem-&gt;компания</li>
+    <li>tradeNoun_fem-&gt;сеть</li>
+    <li>tradeNoun_fem-&gt;биржа</li>
+    <li>tradeNoun_mas-&gt;базар</li>
+    <li>tradeNoun_mas-&gt;эмпориум</li>
+    <li>tradeNoun_mas-&gt;нексус</li>
+  </NamerFactionTradersGuild.rulePack.rulesStrings>
+  <NamerSettlementTradersGuild.rulePack.rulesStrings>
+    <li>r_name-&gt;[platform] [platAdj]</li>
+    <li>platAdj-&gt;звездного света</li>
+    <li>platAdj-&gt;солнечных лучей</li>
+    <li>platAdj-&gt;туманности</li>
+    <li>platAdj-&gt;звездной пыли</li>
+    <li>platAdj-&gt;ориона</li>
+    <li>platAdj-&gt;горизонта</li>
+    <li>platAdj-&gt;галактики</li>
+    <li>platAdj-&gt;космоса</li>
+    <li>platAdj-&gt;пустоты</li>
+    <li>platAdj-&gt;астероида</li>
+    <li>platAdj-&gt;кометы</li>
+    <li>platAdj-&gt;затмения</li>
+    <li>platAdj-&gt;квазара</li>
+    <li>platAdj-&gt;пульсара</li>
+    <li>platAdj-&gt;метеора</li>
+    <li>platAdj-&gt;зенита</li>
+    <li>platAdj-&gt;луны</li>
+    <li>platAdj-&gt;солнца</li>
+    <li>platAdj-&gt;неба</li>
+    <li>platAdj-&gt;лунного света</li>
+    <li>platAdj-&gt;солнечной вспышки</li>
+    <li>platAdj-&gt;звездного поля</li>
+    <li>platAdj-&gt;космоса</li>
+    <li>platAdj-&gt;звезд</li>
+    <li>platAdj-&gt;авроры</li>
+    <li>platAdj-&gt;светила</li>
+    <li>platAdj-&gt;короны</li>
+    <li>platform-&gt;платформа</li>
+    <li>platform-&gt;станция</li>
+    <li>platform-&gt;узел</li>
+    <li>platform-&gt;станция</li>
+    <li>platform-&gt;основа</li>
+    <li>platform-&gt;док</li>
+    <li>platform-&gt;кольцо</li>
+  </NamerSettlementTradersGuild.rulePack.rulesStrings>
+</LanguageData>

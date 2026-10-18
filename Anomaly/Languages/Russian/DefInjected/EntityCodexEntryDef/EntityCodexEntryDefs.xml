@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BloodRain.label>кровавый дождь</BloodRain.label>
+  <BloodRain.description>Под кровавым дождём любой человек рано или поздно теряет рассудок и отдаётся слепой ярости. На этот процесс могут влиять некоторые черты характера и психочуствительность.</BloodRain.description>
+  <Chimera.label>химера</Chimera.label>
+  <CorruptedObelisk.label>деформированный обелиск</CorruptedObelisk.label>
+  <Deathpall.label>пелена смерти</Deathpall.label>
+  <Deathpall.description>Мертвенно-бледное облако микроскопических самостоятельных архитов, созданных неизвестным сверхразумом. Осев на безжизненной плоти, они просачиваются в тело и воскрешают его, создавая жалкое подобие живого существа.</Deathpall.description>
+  <Devourer.label>пожиратель</Devourer.label>
+  <Dreadmeld.label>жуткоплав</Dreadmeld.label>
+  <Fleshbeasts.label>биошмат</Fleshbeasts.label>
+  <Fleshbeasts.description>Отвратительные существа из злокачественной биомассы. Некоторые из них обладают несколькими нервными системами и могут делиться на биошматов поменьше.</Fleshbeasts.description>
+  <FleshmassHeart.label>сердце биомассы</FleshmassHeart.label>
+  <FleshmassNucleus.label>ядро биомассы</FleshmassNucleus.label>
+  <Ghoul.label>упырь</Ghoul.label>
+  <Ghoul.description>Человек, превращённый в упыря.\n\nУпыри — настоящие машины убийства, созданные с помощью тёмной псионики.\n\nУпыри очень опасны в ближнем бою, однако процесс их создания лишает их высших психических функций, в результате чего они не могут пользоваться оружием и инструментами. Они не могут работать и вне боя ходят в почти бессознательном состоянии.\n\nМногих людей беспокоит постоянное подёргивание упырей. Ещё больше их беспокоит то, что упыри питаются сырым мясом. Если упырь оголодает, он может стать враждебным и в попытках утолить голод напасть на создателей.</Ghoul.description>
+  <GoldenCube.label>золотистый куб</GoldenCube.label>
+  <Gorehulk.label>кровавая туша</Gorehulk.label>
+  <HarbingerTree.label>древо-предвестник</HarbingerTree.label>
+  <Metalhorror.label>металлическая жуть</Metalhorror.label>
+  <Nociosphere.label>ноциосфера</Nociosphere.label>
+  <Noctol.label>ноктол</Noctol.label>
+  <Noctolith.label>ноктолит</Noctolith.label>
+  <PitGate.label>хтонические врата</PitGate.label>
+  <Revenant.label>ревенант</Revenant.label>
+  <Shambler.label>шамблер</Shambler.label>
+  <Shambler.description>Существо, поднятое из мёртвых искажёнными архо-наночастицами.\n\nШамблеры представляют собой трупы, которым придают подобие жизни архотехнологии. Они неустанно нападают на живых существ, а из-за нечувствительности к боли их трудно убить. Однако даже архотехнологии не способны остановить разложение, и через несколько дней активности шамблеры упокаиваются.\n\nЕсть способы создать собственных шамблеров, при которых они будут не замечать вас и атаковать только чужаков.</Shambler.description>
+  <Sightstealer.label>взглядокрад</Sightstealer.label>
+  <TwistedObelisk.label>изогнутый обелиск</TwistedObelisk.label>
+  <UnnaturalCorpse.label>странный мертвец</UnnaturalCorpse.label>
+  <UnnaturalCorpse.description>Труп, подозрительно мягкий и тёплый на ощупь. В этом есть что-то очень пугающее.</UnnaturalCorpse.description>
+  <VoidMonolith.label>монолит пустоты</VoidMonolith.label>
+  <VoidNode.label>узел пустоты</VoidNode.label>
+  <VoidStructure.label>пустотный объект</VoidStructure.label>
+  <WarpedObelisk.label>кривой обелиск</WarpedObelisk.label>
+</LanguageData>

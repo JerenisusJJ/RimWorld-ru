@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChangeTreeMode.reportString>меняет касту дриад TargetA</ChangeTreeMode.reportString>
+  <CreateAndEnterCocoon.reportString>создаёт кокон</CreateAndEnterCocoon.reportString>
+  <CreateAndEnterHealingPod.reportString>создаёт регенеративный кокон</CreateAndEnterHealingPod.reportString>
+  <MergeIntoGaumakerPod.reportString>сливается с TargetB</MergeIntoGaumakerPod.reportString>
+  <PrisonerConvert.reportString>обращает TargetA</PrisonerConvert.reportString>
+  <PrisonerEnslave.reportString>обращает TargetA в рабство</PrisonerEnslave.reportString>
+  <PrisonerReduceWill.reportString>ослабляет волю TargetA</PrisonerReduceWill.reportString>
+  <PruneGauranlenTree.reportString>остригает TargetA</PruneGauranlenTree.reportString>
+  <ReturnToGauranlenTree.reportString>возвращается к TargetA</ReturnToGauranlenTree.reportString>
+  <SlaveEmancipation.reportString>освобождает TargetA</SlaveEmancipation.reportString>
+  <SlaveExecution.reportString>казнит TargetA</SlaveExecution.reportString>
+  <SlaveSuppress.reportString>подавляет TargetA</SlaveSuppress.reportString>
+</LanguageData>

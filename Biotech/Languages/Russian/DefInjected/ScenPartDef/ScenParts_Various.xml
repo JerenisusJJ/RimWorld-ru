@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ConfigurePawnsKindDefs.label>людей в начале</ConfigurePawnsKindDefs.label>
+  <ConfigurePawnsXenotypes.label>людей в начале</ConfigurePawnsXenotypes.label>
+  <DisableExostriderRemains.label>отключить останки экзострайдера</DisableExostriderRemains.label>
+  <StartingMech.label>начать с механоидом</StartingMech.label>
+</LanguageData>

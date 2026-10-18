@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MaxInstallCount.label>макс. установок</MaxInstallCount.label>
+  <MaxInstallCount.description>Сколько раз можно это установить. Каждая дополнительная установка улучшает изначальный эффект.</MaxInstallCount.description>
+</LanguageData>

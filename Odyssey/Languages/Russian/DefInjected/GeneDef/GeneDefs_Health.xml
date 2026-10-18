@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <VacuumResistance_Partial.label>устойчивость к вакууму</VacuumResistance_Partial.label>
+  <VacuumResistance_Partial.description>У обладателей этого гена кожа при низком давлении выделяет воскообразное вещество, что предотвращает ожоги от вакуума и позволяет им дольше выживать в вакууме.</VacuumResistance_Partial.description>
+  <VacuumResistance_Partial.labelShortAdj>устойчивость к вакууму</VacuumResistance_Partial.labelShortAdj>
+  <VacuumResistance_Total.label>умение не дышать</VacuumResistance_Total.label>
+  <VacuumResistance_Total.description>Обладатели этого гена способны накапливать в организме концентрированный кислород. Их клетки потребляют гораздо меньше кислорода, что означает, что им редко нужно дышать. Эти адаптации делают их невосприимчивыми к вредным воздействиям космоса, а также к токсинам из окружающей среды, ядовитому газу, кислотному смогу и зловонию гнили.</VacuumResistance_Total.description>
+  <VacuumResistance_Total.customEffectDescriptions.0>Иммунитет к ядовитому газу</VacuumResistance_Total.customEffectDescriptions.0>
+  <VacuumResistance_Total.labelShortAdj>умение не дышать</VacuumResistance_Total.labelShortAdj>
+</LanguageData>

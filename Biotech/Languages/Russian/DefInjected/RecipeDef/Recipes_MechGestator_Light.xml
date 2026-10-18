@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Agrihand.label>вырастить агродрона</Agrihand.label>
+  <Agrihand.description>Вырастить агродрона.</Agrihand.description>
+  <Agrihand.jobString>Выращивает механоида</Agrihand.jobString>
+  <Cleansweeper.label>вырастить дрона-уборщика</Cleansweeper.label>
+  <Cleansweeper.description>Вырастить дрона-уборщика.</Cleansweeper.description>
+  <Cleansweeper.jobString>Выращивает механоида</Cleansweeper.jobString>
+  <Constructoid.label>вырастить строительного дрона</Constructoid.label>
+  <Constructoid.description>Вырастить строительного дрона.</Constructoid.description>
+  <Constructoid.jobString>Выращивает механоида</Constructoid.jobString>
+  <Fabricor.label>вырастить производственного дрона</Fabricor.label>
+  <Fabricor.description>Вырастить производственного дрона.</Fabricor.description>
+  <Fabricor.jobString>Выращивает механоида</Fabricor.jobString>
+  <Lifter.label>вырастить транспортного дрона</Lifter.label>
+  <Lifter.description>Вырастить транспортного дрона.</Lifter.description>
+  <Lifter.jobString>Выращивает механоида</Lifter.jobString>
+  <Militor.label>вырастить боевого дрона</Militor.label>
+  <Militor.description>Вырастить боевого дрона.</Militor.description>
+  <Militor.jobString>Выращивает механоида</Militor.jobString>
+  <Paramedic.label>вырастить медицинского дрона</Paramedic.label>
+  <Paramedic.description>Вырастить медицинского дрона.</Paramedic.description>
+  <Paramedic.jobString>Выращивает механоида</Paramedic.jobString>
+</LanguageData>

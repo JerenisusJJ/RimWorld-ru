@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Entities.label>тёмные феномены</Entities.label>
+  <Entities.fixedName>Тёмные феномены</Entities.fixedName>
+  <Entities.leaderTitle>лидер</Entities.leaderTitle>
+  <Entities.messageDefendersAttacking>{0} атакуют ваших {lookup: {2}; Case; 3}.</Entities.messageDefendersAttacking>
+  <Entities.pawnSingular>тварь</Entities.pawnSingular>
+  <Entities.pawnsPlural>твари</Entities.pawnsPlural>
+  <HoraxCult.label>культ Хоракса</HoraxCult.label>
+  <HoraxCult.deityPresets.0.nameType.type>Бог пустоты</HoraxCult.deityPresets.0.nameType.type>
+  <HoraxCult.fixedName>служители Хоракса</HoraxCult.fixedName>
+  <HoraxCult.ideoDescription>Вы видите пространство как плоскую координатную сетку. Мы же знаем, что она — не более чем гладь чёрного океана кошмаров, разливающегося под каждой точкой и каждым мгновением этого мира. Мы знаем, что за разум повелевает нами из глубин. Его послания поднимаются из кипящей тьмы и вознаграждают тех, кто служит его воле.</HoraxCult.ideoDescription>
+  <HoraxCult.ideoName>Бездна кошмаров</HoraxCult.ideoName>
+  <HoraxCult.leaderTitle>лидер</HoraxCult.leaderTitle>
+  <HoraxCult.messageDefendersAttacking>{1} атакуют ваших {lookup: {2}; Case; 3}.</HoraxCult.messageDefendersAttacking>
+  <HoraxCult.pawnSingular>участник</HoraxCult.pawnSingular>
+  <HoraxCult.pawnsPlural>сектанты</HoraxCult.pawnsPlural>
+</LanguageData>

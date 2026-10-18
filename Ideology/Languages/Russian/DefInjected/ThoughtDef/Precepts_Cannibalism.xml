@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.label>{PAWN_gender ? Съел : Съела} человечину</AteHumanMeat_Abhorrent.stages.ate_human_meat.label>
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.description>Я {PAWN_gender ? съел : съела} человечину. Это преступление против всего, во что я верю.</AteHumanMeat_Abhorrent.stages.ate_human_meat.description>
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.label>{PAWN_gender ? Съел : Съела} человечину</AteHumanMeat_Disapproved.stages.ate_human_meat.label>
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.description>Я {PAWN_gender ? съел : съела} человечину. Я {PAWN_gender ? совершил : совершила} ошибку.</AteHumanMeat_Disapproved.stages.ate_human_meat.description>
+  <AteHumanMeat_Horrible.stages.ate_human_meat.label>{PAWN_gender ? Съел : Съела} человечину</AteHumanMeat_Horrible.stages.ate_human_meat.label>
+  <AteHumanMeat_Horrible.stages.ate_human_meat.description>Я {PAWN_gender ? съел : съела} человечину. Это было ужасно.</AteHumanMeat_Horrible.stages.ate_human_meat.description>
+  <AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>съел(а) человечину</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.labelSocial>{OTHERPAWN_gender ? съел : съела} человечину</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.labelSocial>
+  <AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>съел(а) человечину</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Disapproved.stages.ate_human_meat.labelSocial>{OTHERPAWN_gender ? съел : съела} человечину</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.labelSocial>
+  <AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>съел(а) человечину</AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Horrible.stages.ate_human_meat.labelSocial>{OTHERPAWN_gender ? съел : съела} человечину</AteHumanMeat_Know_Horrible.stages.ate_human_meat.labelSocial>
+  <AteHumanMeat_Preferred.stages.ate_human_meat.label>{PAWN_gender ? Съел : Съела} человечину</AteHumanMeat_Preferred.stages.ate_human_meat.label>
+  <AteHumanMeat_Preferred.stages.ate_human_meat.description>Я {PAWN_gender ? съел : съела} человечину. Теперь я чувствую себя благороднее и сильнее!</AteHumanMeat_Preferred.stages.ate_human_meat.description>
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>{PAWN_gender ? Съел : Съела} человечину</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>Я {PAWN_gender ? съел : съела} человечину! Мир жесток, и я ему соответствую!</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>{PAWN_gender ? Съел : Съела} человечину</AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>Я {PAWN_gender ? съел : съела} человечину: это заложено в человеческой природе.</AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>{PAWN_gender ? Съел : Съела} пищу без человечины</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>Я {PAWN_gender ? съел : съела} пищу без человеческого мяса. Это абсолютно противоречит моим убеждениям.</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>{PAWN_gender ? Съел : Съела} пищу без человечины</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>Я {PAWN_gender ? съел : съела} пищу без человеческого мяса. Мои убеждения строго запрещают это делать.</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>
+  <AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>съел(а) пищу без человечины</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.labelSocial>{OTHERPAWN_gender ? съел : съела} пищу без человечины</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.labelSocial>
+  <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>съел(а) пищу без человечины</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.labelSocial>{OTHERPAWN_gender ? съел : съела} пищу без человечины</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.labelSocial>
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>{PAWN_gender ? Разделал : Разделала} человека</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>Я {PAWN_gender ? пустил : пустила} человека на мясо. Это преступление против всего, во что я верю.</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>{PAWN_gender ? Разделал : Разделала} человека</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>Я {PAWN_gender ? разделал : разделала} человека. Я {PAWN_gender ? совершил : совершила} ошибку.</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>{PAWN_gender ? Разделал : Разделала} человека</ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>Я {PAWN_gender ? пустил : пустила} человека на мясо. Это было ужасно.</ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>мы разделали человека</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>Один из нас пустил человека на мясо. Это преступление против всего, во что я верю.</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>
+  <ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>разделал(а) человека</ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>
+  <ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.labelSocial>{OTHERPAWN_gender ? разделал : разделала} человека</ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.labelSocial>
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>мы разделали человека</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>Один из нас разделал человека. Я считаю, что это неправильно.</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>
+  <ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>разделал(а) человека</ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>
+  <ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.labelSocial>{PAWN_gender ? разделал : разделала} человека</ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.labelSocial>
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>мы разделали человека</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>Один из нас разделал человека. Это ужасно.</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>
+  <ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>разделал(а) человека</ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>
+  <ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.labelSocial>{PAWN_gender ? разделал : разделала} человека</ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.labelSocial>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather.label>{0} из человеческой кожи</HumanLeatherApparel_Abhorrent.stages.human_leather.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather.description>Как можно носить человеческую кожу? Это же омерзительно.</HumanLeatherApparel_Abhorrent.stages.human_leather.description>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>{0} из человеческой кожи (+1)</HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>Я {PAWN_gender ? одет : одета}, как {PAWN_gender ? психопат : психопатка}.</HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>{0} из человеческой кожи (+2)</HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>Я боюсь, на моей одежде может быть чьё-то лицо. О нет, моя одежда и есть лицо!</HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>{0} из человеческой кожи (+X)</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>Я выгляжу, как урод из фильма ужасов, и ощущаю себя соответственно.</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather.label>{0} из человеческой кожи</HumanLeatherApparel_Disapproved.stages.human_leather.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather.description>Я не {PAWN_gender ? должен был : должна была} надевать одежду из кожи человека.</HumanLeatherApparel_Disapproved.stages.human_leather.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_1.label>{0} из человеческой кожи (+1)</HumanLeatherApparel_Disapproved.stages.human_leather_1.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_1.description>На мне одежда из кожи человека. Мне это не нравится.</HumanLeatherApparel_Disapproved.stages.human_leather_1.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.label>{0} из человеческой кожи (+2)</HumanLeatherApparel_Disapproved.stages.human_leather_2.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.description>Почему на мне так много одежды из человеческой кожи? У нас должно быть что-то, во что я могу переодеться.</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>{0} из человеческой кожи (+X)</HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>Мне срочно нужно переодеться во что-то нормальное. Я выгляжу в этом как {PAWN_gender ? психопат : психопатка}.</HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather.label>{0} из человеческой кожи</HumanLeatherApparel_Horrible.stages.human_leather.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather.description>Надевать человеческую кожу было ошибкой.</HumanLeatherApparel_Horrible.stages.human_leather.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather_1.label>{0} из человеческой кожи (+1)</HumanLeatherApparel_Horrible.stages.human_leather_1.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_1.description>Мне очень некомфортно во всей этой одежде из человеческой кожи.</HumanLeatherApparel_Horrible.stages.human_leather_1.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather_2.label>{0} из человеческой кожи (+2)</HumanLeatherApparel_Horrible.stages.human_leather_2.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_2.description>Почему на мне столько одежды из человеческой кожи? Это ужасно!</HumanLeatherApparel_Horrible.stages.human_leather_2.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather_etc.label>{0} из человеческой кожи (+X)</HumanLeatherApparel_Horrible.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_etc.description>Я выгляжу как {PAWN_gender ? отбитый : отбитая} {PAWN_gender ? психопат : психопатка}! Это ужасно!</HumanLeatherApparel_Horrible.stages.human_leather_etc.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather.label>{0} из человеческой кожи</HumanLeatherApparel_Preferred.stages.human_leather.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather.description>Мне нравится моя одежда из человеческой кожи.</HumanLeatherApparel_Preferred.stages.human_leather.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather_1.label>{0} из человеческой кожи (+1)</HumanLeatherApparel_Preferred.stages.human_leather_1.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_1.description>Мне нравится носить кожу других людей.</HumanLeatherApparel_Preferred.stages.human_leather_1.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather_2.label>{0} из человеческой кожи (+2)</HumanLeatherApparel_Preferred.stages.human_leather_2.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_2.description>Я надел на себя одежду из лиц моих врагов. Это классно.</HumanLeatherApparel_Preferred.stages.human_leather_2.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather_etc.label>{0} из человеческой кожи (+X)</HumanLeatherApparel_Preferred.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_etc.description>Я выгляжу, как настоящий каннибал. А были какие-то сомнения?</HumanLeatherApparel_Preferred.stages.human_leather_etc.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>{0} из человеческой кожи</HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>Обожаю носить одежду, созданную из чужих страданий.</HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>{0} из человеческой кожи (+1)</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>Эта одежда — свидетельство моей силы. Пусть все меня боятся.</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>{0} из человеческой кожи (+2)</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>Лица, из которых сделана моя одежда, не улыбаются. Но они заставляют улыбаться меня.</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>{0} из человеческой кожи (+X)</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>Плоть! Лишь плоть не врёт! Моя одежда — это моё воплощение!</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather.label>{0} из человеческой кожи</HumanLeatherApparel_RequiredStrong.stages.human_leather.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather.description>Мне нравится носить лица других людей на себе.</HumanLeatherApparel_RequiredStrong.stages.human_leather.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>{0} из человеческой кожи (+1)</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>Эта одежда — свидетельство моей силы. Пусть все меня боятся.</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>{0} из человеческой кожи (+2)</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>Лица, из которых сделана моя одежда, не улыбаются. Но они заставляют улыбаться меня.</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>{0} из человеческой кожи (+X)</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>Моя одежда — это моё воплощение! А плоть — не врёт!</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>
+  <NoRecentHumanMeat_Preferred.stages.want_human_meat.label>хочет человечины</NoRecentHumanMeat_Preferred.stages.want_human_meat.label>
+  <NoRecentHumanMeat_Preferred.stages.want_human_meat.description>Я долго не {PAWN_gender ? ел : ела} человечины, и мне это не нравится.</NoRecentHumanMeat_Preferred.stages.want_human_meat.description>
+  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>хочет человечины</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>
+  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>Я уже чёрт-те сколько времени не {PAWN_gender ? ел : ела} человечины. Доколе!</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>хочет человечины</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>Я уже слишком долго не {PAWN_gender ? ел : ела} человечины, а есть её надо регулярно!</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>
+</LanguageData>

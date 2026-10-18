@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[intro][asker_nameFull], [asker_faction_leaderTitle] фракции [asker_faction_name], может по просьбе нанести традиционный визит во владения любого архонта. Пригласите [asker_possessive] к себе на [shuttleDelayTicks_duration], будьте к н[asker_objective] гостеприимны — и все ваши поселенцы смогут отправиться на челноке прямиком к имперской флотилии. Там вы сможете присоединиться к императорскому двору или сбежать, чтобы начать новую жизнь среди звёзд.\n\nЧтобы принять титул архонта, требуется выполнять задания фракции [asker_faction_name], удостаиваясь при этом {lookup: [asker_faction_royalFavorLabel]; Case; 1}. На это могут уйти годы.\n\nВам будет необходимо поддерживать настроение знатной особы выше [lodgersMoodThreshold_percent]. Для этого ей нужно будет предоставить соответствующие условия, в частности роскошную спальню.[threatsInfo]\n\n[asker_faction_leaderTitle] привезёт в собой свою личную охрану, которую передаст под ваше командование. Вы будете должны расквартировать охранников, но [asker_faction_leaderTitle] не будет жаловаться, если кто-то из них будет недоволен или погибнет.\n\nВам нужно разместить посетителей в [map_definite] и не отправлять их куда-либо ещё. Если вы провалите задание или переедете в другое место, в будущем вам предоставится другая возможность принять у себя знатного гостя.</li>
+    <li>intro(sameQuestsCount==0)-&gt;Вы нашли способ покинуть эту планету!\n\n</li>
+    <li>intro(sameQuestsCount&gt;=1)-&gt;Вам предоставилась ещё одна возможность провести торжественный приём.\n\n</li>
+    <li>threatsInfo(allowViolentQuests==true,priority=1)-&gt;\n\nНедоброжелатели попытаются воспользоваться случаем и убить {lookup: [asker_faction_leaderTitle]; Case; 1}, и будут нападать с большим упорством. Будьте готовы защищаться.</li>
+    <li>threatsInfo-&gt;</li>
+    <li>asker_arrived(asker_gender==Male)-&gt;прибыл</li>
+    <li>asker_arrived(asker_gender==Female)-&gt;прибыла</li>
+    <li>asker_should(asker_gender==Male)-&gt;должен</li>
+    <li>asker_should(asker_gender==Female)-&gt;должна</li>
+    <li>asker_who_you_were_charged_to_protect-&gt;[asker_faction_leaderTitle] [asker_nameFull], [asker_who_acc] вы должны были защищать и опекать,</li>
+    <li>asker_who_acc(asker_gender==Male)-&gt;которого</li>
+    <li>asker_who_acc(asker_gender==Female)-&gt;которую</li>
+    <li>asker_was(asker_gender==Male)-&gt;был</li>
+    <li>asker_was(asker_gender==Female)-&gt;была</li>
+    <li>asker_unhappy(asker_gender==Male)-&gt;недоволен</li>
+    <li>asker_unhappy(asker_gender==Female)-&gt;недовольна</li>
+    <li>asker_died(asker_gender==Male)-&gt;погиб</li>
+    <li>asker_died(asker_gender==Female)-&gt;погибла</li>
+    <li>asker_captured(asker_gender==Male)-&gt;захвачен</li>
+    <li>asker_captured(asker_gender==Female)-&gt;захвачена</li>
+    <li>asker_has_been_performed_on(asker_gender==Male)-&gt;подвергнут</li>
+    <li>asker_has_been_performed_on(asker_gender==Female)-&gt;подвергнута</li>
+    <li>asker_lost(asker_gender==Male)-&gt;пропал</li>
+    <li>asker_lost(asker_gender==Female)-&gt;пропала</li>
+    <li>asker_left(asker_gender==Male)-&gt;покинул</li>
+    <li>asker_left(asker_gender==Female)-&gt;покинула</li>
+    <li>asker_run_wild(asker_gender==Male)-&gt;одичал</li>
+    <li>asker_run_wild(asker_gender==Female)-&gt;одичала</li>
+  </EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings>
+    <li>questName(sameQuestsCount==0)-&gt;Знатное восхождение</li>
+    <li>questName(sameQuestsCount&gt;=1)-&gt;Знатный [titleEnd]</li>
+    <li>titleEnd-&gt;посетитель</li>
+    <li>titleEnd-&gt;гость</li>
+    <li>titleEnd-&gt;приём</li>
+    <li>titleEnd-&gt;почёт</li>
+  </EndGame_RoyalAscent.questNameRules.rulesStrings>
+  <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>Задание провалено: «[resolvedQuestName]»</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
+  <EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>Фракция [faction_name] теперь враждебна к вам.</EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>
+  <EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>asker.NoLongerFactionLeader</EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>
+  <EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>[asker_faction_leaderTitle] [asker_arrived]</EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>
+  <EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>[asker_faction_leaderTitle] из фракции [asker_faction_name], прибывает в ваше поселение.\n\nЗащищайте [asker_possessive] и удовлетворяйте [asker_possessive] потребности в течение [shuttleDelayTicks_duration].\n\nВсе ваши поселенцы получат возможность отправиться на челноке с знатным гостем к имперской флотилии, чтобы начать новую жизнь.</EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>[asker_faction_leaderTitle] [asker_died]</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>[asker_who_you_were_charged_to_protect] [asker_died]. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
+  <EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>Нужно отправить на челноке</EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>
+  <EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>Челнок прибыл</EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>Челнок прибыл, чтобы забрать {lookup: [asker_faction_leaderTitle]; Case; 3}. Все ваши поселенцы могут присоединиться к знатному гостю и отправиться к имперской флотилии, чтобы начать новую жизнь.</EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>
+  <EndGame_RoyalAscent.EndGameEndingText.slateRef>Высший Стелларх принимает вас на борту своего корабля как почётных и знатных гостей.\n\nВы можете остаться при императорском дворе и испытать себя в борьбе за власть. Или, возможно, вы предпочли бы не участвовать в политических интригах, вместо этого купаясь в ультратехнологичной роскоши. Может быть вы даже решите купить личный корабль и отправиться к давно потерянному дому.\n\nВыбор за вами.</EndGame_RoyalAscent.EndGameEndingText.slateRef>
+  <EndGame_RoyalAscent.EndGameIntroText.slateRef>Вы сбежали на имперском челноке!</EndGame_RoyalAscent.EndGameIntroText.slateRef>
+  <EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>[asker_faction_leaderTitle] [asker_unhappy]</EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>
+  <EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>[asker_who_you_were_charged_to_protect] про[asker_was] в настроении ниже минимальных [lodgersMoodThreshold_percent] слишком долго. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>[asker_faction_leaderTitle] [asker_captured]</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>[asker_who_you_were_charged_to_protect] [asker_was] [asker_captured]. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
+  <EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>Недопустимая операция: [asker_nameDef]</EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>
+  <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>[asker_who_you_were_charged_to_protect] [asker_was] [asker_has_been_performed_on] несогласованному, надругательскому хирургическому вмешательству. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
+  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>Изъято ксеносемя: [asker_nameDef]</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>[asker_who_you_were_charged_to_protect] [asker_was] [asker_has_been_performed_on] насильственному извлечению ксеносемени. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>[asker_faction_leaderTitle] [asker_lost]</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestLost.slateRef>[asker_who_you_were_charged_to_protect] [asker_left] назначенное поселение. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
+  <EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>Челнок уничтожен</EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>Челнок, отправленный забрать [asker_nameDef], был уничтожен. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>
+  <EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>[asker_faction_leaderTitle] [asker_lost]</EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>
+  <EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>[asker_who_you_were_charged_to_protect] [asker_run_wild]. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>
+  <EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>Задание «[resolvedQuestName]» провалено</EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>Челнок, отправленный забрать [asker_nameDef], отбыл без н[asker_possessive]. [asker_faction_leaderTitle] покинет поселение пешком. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>
+</LanguageData>

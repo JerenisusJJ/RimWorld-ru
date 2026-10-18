@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Classic.label>классическая игра</Classic.label>
+  <Classic.description>Классический RimWorld без идеолигий. Подойдёт для новичков или тех, кто не хочет экспериментировать. Весь остальной контент дополнения Ideology останется доступным.</Classic.description>
+  <Classic.groupLabel>Классические</Classic.groupLabel>
+  <Custom.label>пользовательская</Custom.label>
+  <Custom.description>Создать собственную идеолигию, проработанную до мелочей. Это может занять какое-то время.</Custom.description>
+  <Custom.groupLabel>Пользовательские</Custom.groupLabel>
+  <Fluid.label>изменчивая</Fluid.label>
+  <Fluid.description>Начать с простой идеолигии и постепенно развивать её.</Fluid.description>
+  <Fluid.groupLabel>Изменчивые</Fluid.groupLabel>
+  <Intense.label>радикальные</Intense.label>
+  <Intense.description>Крайние убеждения, которые до неузнаваемости изменят ощущения от игры по сравнению с классическим RimWorld и существенно усложнят её.</Intense.description>
+  <Intense.groupLabel>Предустановленные идеолигии</Intense.groupLabel>
+  <Mild.label>умеренные</Mild.label>
+  <Mild.description>Вариации около-классического геймплея.</Mild.description>
+  <Mild.groupLabel>Предустановленные идеолигии</Mild.groupLabel>
+  <Strong.label>строгие</Strong.label>
+  <Strong.description>Системы убеждений, требующие существенного изменения стиля игры по сравнению с классическим RimWorld.</Strong.description>
+  <Strong.groupLabel>Предустановленные идеолигии</Strong.groupLabel>
+</LanguageData>

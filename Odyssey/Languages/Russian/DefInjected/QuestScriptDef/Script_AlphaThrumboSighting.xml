@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местонахождение альфа-трумбо.\n\nАльфа-трумбо — исключительно редкие существа, которые, как полагают многие, существуют лишь в сказках. Слишком дикие, чтобы их можно было приручить, и слишком сильные, чтобы на них охотиться, а их рога ценятся дороже золота.</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
+    <li>questName-&gt;альфа-трумбо</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
+    <li>subject-&gt;альфа-трумбо</li>
+    <li>subject-&gt;трумбо</li>
+    <li>subject-&gt;редкие трумбо</li>
+    <li>subject-&gt;редкие животные</li>
+    <li>subject-&gt;легендарные существа</li>
+    <li>questMapFeature-&gt;изображение трумбо</li>
+    <li>questMapFeature-&gt;набросок странного трумбо</li>
+    <li>questMapText-&gt;среда обитания трумбо</li>
+    <li>questMapText-&gt;альфа-трумбо</li>
+    <li>questMapText-&gt;существо найдено</li>
+    <li>questMapText-&gt;они настоящие</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Вы обнаружили</OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>Срок задания истек: [resolvedQuestName]</OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>Судя по перехваченным сообщениям, альфа-трумбо ушел. Время, отведенное для задания «[resolvedQuestName]», истекло.</OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>
+</LanguageData>

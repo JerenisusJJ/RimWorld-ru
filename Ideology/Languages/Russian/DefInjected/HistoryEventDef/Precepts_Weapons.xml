@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <KillWithDespisedWeapon.label>победа одержана презираемым оружием</KillWithDespisedWeapon.label>
+  <KillWithNobleWeapon.label>победа одержана благородным оружием</KillWithNobleWeapon.label>
+  <UsedDespisedWeapon.label>использовано презираемое оружие</UsedDespisedWeapon.label>
+  <UsedNobleWeapon.label>использовано благородное оружие</UsedNobleWeapon.label>
+</LanguageData>

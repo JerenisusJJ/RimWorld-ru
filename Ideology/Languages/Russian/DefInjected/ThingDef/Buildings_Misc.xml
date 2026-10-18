@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Autobong.label>автобонг</Autobong.label>
+  <Autobong.description>Устройство, используемое для автоматического сжигания дымолиста и выделения большого количество дыма. Чтобы получить желаемый эффект, нужно какое-то время находиться в дыму.</Autobong.description>
+  <Drum.label>барабан</Drum.label>
+  <Drum.description>Большой деревянный барабан. Используется как музыкальный инструмент для племенных ритуалов и вечеринок.</Drum.description>
+  <DryadCocoon.label>кокон дриады</DryadCocoon.label>
+  <DryadCocoon.description>Сфера из волокнистой растительной материи. Дриада внутри неё медленно трансформируется в новую форму. Древа Гауранлен выращивают эти коконы, чтобы защищать дриад во время их трансформации.</DryadCocoon.description>
+  <DryadHealingPod.label>регенеративный кокон дриады</DryadHealingPod.label>
+  <DryadHealingPod.description>Сфера из волокнистой растительной материи. Дриада внутри неё постепенно залечивает свои раны.</DryadHealingPod.description>
+  <GaumakerCocoon.label>капсула гау</GaumakerCocoon.label>
+  <GaumakerCocoon.description>Этот симбионт растения и животного появляется в результате слияния нескольких дриад-гау. Через некоторое время он превратится в семенную капсулу Гауранлен, которую можно будет использовать для посадки.</GaumakerCocoon.description>
+  <GibbetCage.label>висячая клетка</GibbetCage.label>
+  <GibbetCage.description>Металлическая клетка для хранения и демонстрации трупов. Это ужасающее зрелище внушает страх и отвращение смотрящим. Является особенно жестоким, но эффективным способом запугивать рабов.</GibbetCage.description>
+  <KneelPillow.label>молитвенная подушка</KneelPillow.label>
+  <KneelPillow.description>Подушка, на которую встают коленями во время ритуалов, молитв и публичных собраний.</KneelPillow.description>
+  <KneelSheet.label>молитвенный коврик</KneelSheet.label>
+  <KneelSheet.description>Коврик, на который встают коленями во время ритуалов, молитв или общественных обсуждений.</KneelSheet.description>
+  <Lectern.label>кафедра</Lectern.label>
+  <Lectern.description>Трибуна, с которой оратор ведёт свою речь. Расположите её рядом с местом проведения ритуала или речи, чтобы продлить их положительные эффекты.</Lectern.description>
+  <LightBall.label>дискошар</LightBall.label>
+  <LightBall.description>Декоративная круглая лампа, которая вращается и переливается разными цветами. Используется для проведения танцевальных вечеринок.</LightBall.description>
+  <Loudspeaker.label>колонка</Loudspeaker.label>
+  <Loudspeaker.description>Большая колонка, используемая для проигрывания музыки. Чтобы провести танцевальную вечеринку, необходима как минимум одна колонка. Чем их больше — тем круче вечеринка!</Loudspeaker.description>
+  <Pew.label>скамья</Pew.label>
+  <Pew.description>Длинная скамейка, на которой участники ритуала могут сидеть и слушать оратора. Поместите её перед местом проведения ритуала или речи, чтобы продлить их положительные эффекты.</Pew.description>
+  <PlantPot_Bonsai.label>горшок для бонсая</PlantPot_Bonsai.label>
+  <PlantPot_Bonsai.description>Горшок, подходящий для посадки и выращивания бонсая. Вид этого дерева повышает настроение окружающих и удовлетворяет их идеолигиозные потребности.</PlantPot_Bonsai.description>
+  <Reliquary.label>реликварий</Reliquary.label>
+  <Reliquary.description>Вместилище для хранения и демонстрации реликвий. Реликвии — это древние предметы, почитаемые определёнными культурами, системами убеждений или религиями.</Reliquary.description>
+  <Skullspike.label>череп на колу</Skullspike.label>
+  <Skullspike.description>Кол, на который насажен человеческий череп. Для некоторых это является символом власти, для других же — олицетворением варварства и зла. Колья с черепами — жестокий, но эффективный способ запугивать рабов.</Skullspike.description>
+  <Skullspike.comps.CompHasSources.inspectStringLabel>череп</Skullspike.comps.CompHasSources.inspectStringLabel>
+  <SlabBed.label>кровать-плита</SlabBed.label>
+  <SlabBed.description>Плита, высеченная из твёрдого материала. На ней неудобно спать, но некоторые рассматривают это как способ демонстрации своих моральных качеств.</SlabBed.description>
+  <SlabDoubleBed.label>двойная кровать-плита</SlabDoubleBed.label>
+  <SlabDoubleBed.description>Плита, высеченная из твёрдого материала. На ней неудобно спать, но некоторые рассматривают это как способ демонстрации своих моральных качеств. На ней хватит места для двух человек.</SlabDoubleBed.description>
+  <StylingStation.label>туалетный столик</StylingStation.label>
+  <StylingStation.description>Столик с зеркалом и инструментами для ухода за собой. Поселенцы могут использовать его для изменения своей внешности.</StylingStation.description>
+</LanguageData>

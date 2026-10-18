@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apparel_AirwireHeadset.label>беспроводная гарнитура</Apparel_AirwireHeadset.label>
+  <Apparel_AirwireHeadset.description>Носимый на голове простой коммуникационный компьютер, который немного увеличивает пропускную способность владельца, позволяя ему управлять бо́льшим количеством механоидов.</Apparel_AirwireHeadset.description>
+  <Apparel_ArmorHelmetMechCommander.label>шлем мехкомандира</Apparel_ArmorHelmetMechCommander.label>
+  <Apparel_ArmorHelmetMechCommander.description>Боевой шлем из пласталевого волокна, предназначенный для боевых механиторов. Шлем оснащён компьютерами и усилителями сигнала, которые умеренно увеличивают максимальную пропускную способность владельца, позволяя ему управлять бо́льшим количеством механоидов.</Apparel_ArmorHelmetMechCommander.description>
+  <Apparel_ArmorHelmetMechlordHelmet.label>шлем мехлорда</Apparel_ArmorHelmetMechlordHelmet.label>
+  <Apparel_ArmorHelmetMechlordHelmet.description>Тяжёлый шлем из пласталевого волокна, оснащённый вспомогательными приспособлениями для механитора. Шлем мехлорда значительно увеличивает пропускную способность владельца, однако защищает хуже, чем специализированная тяжёлая броня.</Apparel_ArmorHelmetMechlordHelmet.description>
+  <Apparel_ArrayHeadset.label>матричная гарнитура</Apparel_ArrayHeadset.label>
+  <Apparel_ArrayHeadset.description>Носимый на голове компьютер с сигнальной антенной системой, который увеличивает пропускную способность владельца, позволяя ему управлять бо́льшим количеством механоидов.</Apparel_ArrayHeadset.description>
+  <Apparel_GasMask.label>противогаз</Apparel_GasMask.label>
+  <Apparel_GasMask.description>Гибкая маска с воздушным фильтром, надеваемая на лицо. Существенно уменьшает отравление организма через лёгкие, однако не защищает иные участки кожи на теле.\n\nПротивогаз также предотвращает попадание токсичных раздражителей в глаза и рот.</Apparel_GasMask.description>
+  <Apparel_IntegratorHeadset.label>интеграционная гарнитура</Apparel_IntegratorHeadset.label>
+  <Apparel_IntegratorHeadset.description>Носимый на голове продвинутый компьютер с сигнальной антенной системой, который значительно увеличивает пропускную способность владельца, позволяя ему управлять намного бо́льшим количеством механоидов.</Apparel_IntegratorHeadset.description>
+</LanguageData>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Sophiamunda.placeRules.rulesStrings>
+    <li>place_name-&gt;Софиамунда</li>
+    <li>place_name_gen-&gt;Софиамунды</li>
+    <li>place_name_acc-&gt;Софиамунду</li>
+    <li>place_name_pre-&gt;Софиамунде</li>
+    <li>place_adjective_masc-&gt;софийский</li>
+    <li>place_adjective_fem-&gt;софийская</li>
+    <li>place_adjective_neutral-&gt;софийское</li>
+    <li>place_adjective_plural-&gt;софийские</li>
+    <li>place_summary-&gt;техно-феодальный мир</li>
+    <li>place_summary_gen-&gt;техно-феодального мира</li>
+    <li>place_summary_acc-&gt;техно-феодальный мир</li>
+    <li>place_summary_pre-&gt;техно-феодальном мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;замок</li>
+    <li>place_community-&gt;дворец</li>
+    <li>place_community_dat_to-&gt;к замку</li>
+    <li>place_community_dat_to-&gt;ко дворцу</li>
+    <li>place_community_acc-&gt;[place_community]</li>
+    <li>place_community_acc_to-&gt;в замок</li>
+    <li>place_community_acc_to-&gt;во дворец</li>
+    <li>place_community_pre_in-&gt;в замке</li>
+    <li>place_community_pre_in-&gt;во дворце</li>
+    <li>place_job-&gt;рыцарь</li>
+    <li>place_job-&gt;сквайр</li>
+    <li>place_job-&gt;герцог</li>
+    <li>place_job-&gt;слуга</li>
+    <li>place_job-&gt;кузнец-оружейник</li>
+    <li>place_job_fem-&gt;дама</li>
+    <li>place_job_fem-&gt;герцогиня</li>
+    <li>place_job_fem-&gt;служанка</li>
+    <li>place_job_gen-&gt;рыцаря</li>
+    <li>place_job_gen-&gt;сквайра</li>
+    <li>place_job_gen-&gt;герцога</li>
+    <li>place_job_gen-&gt;слуги</li>
+    <li>place_job_gen-&gt;кузнеца-оружейника</li>
+    <li>place_job_gen_fem-&gt;дамы</li>
+    <li>place_job_gen_fem-&gt;герцогини</li>
+    <li>place_job_gen_fem-&gt;служанки</li>
+    <li>place_job_dat-&gt;рыцарю</li>
+    <li>place_job_dat-&gt;сквайру</li>
+    <li>place_job_dat-&gt;герцогу</li>
+    <li>place_job_dat-&gt;слуге</li>
+    <li>place_job_dat-&gt;кузнецу-оружейнику</li>
+    <li>place_job_dat_fem-&gt;даме</li>
+    <li>place_job_dat_fem-&gt;герцогине</li>
+    <li>place_job_dat_fem-&gt;служанке</li>
+    <li>place_job_acc-&gt;рыцаря</li>
+    <li>place_job_acc-&gt;сквайра</li>
+    <li>place_job_acc-&gt;герцога</li>
+    <li>place_job_acc-&gt;слугу</li>
+    <li>place_job_acc-&gt;кузнеца-оружейника</li>
+    <li>place_job_acc_fem-&gt;даму</li>
+    <li>place_job_acc_fem-&gt;герцогиню</li>
+    <li>place_job_acc_fem-&gt;служанку</li>
+    <li>place_personalWeapon-&gt;плазменный синхромеч</li>
+    <li>place_personalWeapon-&gt;молот</li>
+    <li>place_personalWeapon_plural-&gt;плазменные синхромечи</li>
+    <li>place_personalWeapon_plural-&gt;молоты</li>
+    <li>place_personalWeapon_gen-&gt;плазменного синхромеча</li>
+    <li>place_personalWeapon_gen-&gt;молота</li>
+    <li>place_personalWeapon_acc-&gt;плазменный синхромеч</li>
+    <li>place_personalWeapon_acc-&gt;молот</li>
+    <li>place_personalWeapon_ins-&gt;плазменным синхромечом</li>
+    <li>place_personalWeapon_ins-&gt;молотом</li>
+    <li>place_personalWeapon_ins_plural-&gt;плазменными синхромечами</li>
+    <li>place_personalWeapon_ins_plural-&gt;молотами</li>
+    <li>place_massWeapon-&gt;целеуказатель для высадки механоидов</li>
+    <li>place_massWeapon-&gt;военизированный штамм чумы</li>
+    <li>place_massWeapon-&gt;армия падших рыцарей</li>
+    <li>place_massWeapon_gen-&gt;целеуказателя для высадки механоидов</li>
+    <li>place_massWeapon_gen-&gt;военизированного штамма чумы</li>
+    <li>place_massWeapon_gen-&gt;армии падших рыцарей</li>
+    <li>place_massWeapon_acc-&gt;целеуказатель для высадки механоидов</li>
+    <li>place_massWeapon_acc-&gt;военизированный штамм чумы</li>
+    <li>place_massWeapon_acc-&gt;армию падших рыцарей</li>
+    <li>place_foeLeader-&gt;лидер революции</li>
+    <li>foeLeader_gen-&gt;лидера революции</li>
+    <li>foeLeader_dat-&gt;лидеру революции</li>
+    <li>foeLeader_acc-&gt;лидера революции</li>
+    <li>foeLeader_ins-&gt;лидером революции</li>
+    <li>place_foeSoldiers-&gt;повстанцы</li>
+    <li>foeSoldiers_genacc-&gt;повстанцев</li>
+    <li>foeSoldiers_dat-&gt;повстанцам</li>
+    <li>foeSoldiers_ins-&gt;повстанцами</li>
+  </Sophiamunda.placeRules.rulesStrings>
+</LanguageData>

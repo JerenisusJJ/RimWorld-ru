@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LookChangeDesired.stages.look_change_desired.label>хочет сменить образ</LookChangeDesired.stages.look_change_desired.label>
+  <LookChangeDesired.stages.look_change_desired.description>Мой внешний вид не соответствует моему самоощущению. Я хочу изменить его.</LookChangeDesired.stages.look_change_desired.description>
+  <MasochistWearingBodyStrap.stages.masochist_body_strapped.label>мазохист со шлейкой</MasochistWearingBodyStrap.stages.masochist_body_strapped.label>
+  <MasochistWearingBodyStrap.stages.masochist_body_strapped.description>Ремни этой шлейки давят на тело и успокаивают душу.</MasochistWearingBodyStrap.stages.masochist_body_strapped.description>
+  <MasochistWearingCollar.stages.masochist_collared.label>мазохист в ошейнике</MasochistWearingCollar.stages.masochist_collared.label>
+  <MasochistWearingCollar.stages.masochist_collared.description>Этот ограничивающий дискомфорт… упоителен.</MasochistWearingCollar.stages.masochist_collared.description>
+  <WearingColor_Favorite.stages.wearing_favorite_color.label>носит любимый цвет</WearingColor_Favorite.stages.wearing_favorite_color.label>
+  <WearingColor_Favorite.stages.wearing_favorite_color.description>Обожаю этот цвет</WearingColor_Favorite.stages.wearing_favorite_color.description>
+  <WearingColor_Ideo.stages.wearing_ideoligion_color.label>носит цвет идеолигии</WearingColor_Ideo.stages.wearing_ideoligion_color.label>
+  <WearingColor_Ideo.stages.wearing_ideoligion_color.description>Цвет моей одежды подчёркивает мои убеждения.</WearingColor_Ideo.stages.wearing_ideoligion_color.description>
+</LanguageData>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Archipelago.label>архипелаг</Archipelago.label>
+  <Archipelago.description>Сеть из нескольких небольших островов, разбросанных вдоль побережья.</Archipelago.description>
+  <Basin.label>котловина</Basin.label>
+  <Basin.description>Природное углубление в горном хребте, где подземные воды питают небольшое озеро.</Basin.description>
+  <Bay.label>бухта</Bay.label>
+  <Bay.description>Большая выемка береговой линии, обеспечивающая защиту от сильных прибрежных ветров.</Bay.description>
+  <CaveLakes.label>пещерные озера</CaveLakes.label>
+  <CaveLakes.description>В пещерах этого района можно встретить небольшие водоемы.</CaveLakes.description>
+  <Cavern.label>пещера</Cavern.label>
+  <Cavern.description>Сеть пещер, сформированных различными геологическими процессами.</Cavern.description>
+  <Chasm.label>пропасть</Chasm.label>
+  <Chasm.description>Геологические движения вызвали глубокие трещины в этой горе.</Chasm.description>
+  <Cliffs.label>утесы</Cliffs.label>
+  <Cliffs.description>Крутые утесы окружают эту территорию с трех сторон.</Cliffs.description>
+  <CoastalAtoll.label>береговой атолл</CoastalAtoll.label>
+  <CoastalAtoll.description>Остров, окружающий большую лагуну. Здесь очень мало земли для строительства.</CoastalAtoll.description>
+  <CoastalIsland.label>прибрежный остров</CoastalIsland.label>
+  <CoastalIsland.description>Крупный остров рядом с берегом.</CoastalIsland.description>
+  <Cove.label>бухта</Cove.label>
+  <Cove.description>Большая выемка береговой линии, обеспечивающая защиту от сильных прибрежных ветров.</Cove.description>
+  <Crevasse.label>трещина</Crevasse.label>
+  <Crevasse.description>Огромная расселина, образованная движением ледника.</Crevasse.description>
+  <DryLake.label>высохшее озеро</DryLake.label>
+  <DryLake.description>Остатки бывшего озера.</DryLake.description>
+  <Dunes.label>дюны</Dunes.label>
+  <Dunes.description>Пустынная песчаная местность. Эта территория крайне негостеприимна.</Dunes.description>
+  <Fertile.label>плодородная</Fertile.label>
+  <Fertile.description>В этой местности почва более плодородна, чем обычно.</Fertile.description>
+  <Fjord.label>фьорд</Fjord.label>
+  <Fjord.description>Длинный узкий морской залив, окруженный крутой местностью.</Fjord.description>
+  <Headwater.label>исток</Headwater.label>
+  <Headwater.description>Начало реки.</Headwater.description>
+  <Hollow.label>впадина</Hollow.label>
+  <Hollow.description>Небольшое открытое пространство, окруженное утесами.</Hollow.description>
+  <HotSprings.label>горячие источники</HotSprings.label>
+  <HotSprings.description>Горячий источник, нагреваемый геотермальной активностью.</HotSprings.description>
+  <Iceberg.label>айсберг</Iceberg.label>
+  <Iceberg.description>Плавающая глыба льда, отколовшаяся от большого ледяного массива.</Iceberg.description>
+  <IceCaves.label>ледяные пещеры</IceCaves.label>
+  <IceCaves.description>В толще льда можно найти небольшие сети пещер.</IceCaves.description>
+  <IceDunes.label>ледяные дюны</IceDunes.label>
+  <IceDunes.description>Огромные волнообразные холмы из уплотненного нанесенного ветром снега.</IceDunes.description>
+  <Lake.label>озеро</Lake.label>
+  <Lake.description>Крупный пресноводный водоем.</Lake.description>
+  <Lakeshore.label>озерный берег</Lakeshore.label>
+  <Lakeshore.description>Эта клетка граничит с озером.</Lakeshore.description>
+  <LakeWithIsland.label>озеро с островом</LakeWithIsland.label>
+  <LakeWithIsland.description>Крупный пресноводный водоем окружает единственный остров.</LakeWithIsland.description>
+  <LakeWithIslands.label>озеро с островами</LakeWithIslands.label>
+  <LakeWithIslands.description>Крупный пресноводный водоем окружает несколько небольших островов.</LakeWithIslands.description>
+  <LavaCaves.label>лавовые пещеры</LavaCaves.label>
+  <LavaCaves.description>Здесь можно найти небольшие сети пещер, наполненных лавой.</LavaCaves.description>
+  <LavaCrater.label>лавовое озеро</LavaCrater.label>
+  <LavaCrater.description>Озеро из глубокой лавы, окруженное вулканическими породами.</LavaCrater.description>
+  <LavaFlow.label>поток лавы</LavaFlow.label>
+  <LavaFlow.description>Окружающий ландшафт регулярно направляет большие потоки лавы в этот район, делая его крайне негостеприимным.</LavaFlow.description>
+  <LavaLake.label>лавовое озеро</LavaLake.label>
+  <LavaLake.description>Озеро из глубокой лавы, окруженное вулканическими породами.</LavaLake.description>
+  <Marshy.label>болотистая</Marshy.label>
+  <Marshy.description>Эту территорию разделяют участки болота.</Marshy.description>
+  <MixedBiome.label>смешанный биом</MixedBiome.label>
+  <MixedBiome.description>Эта территория находится на границе двух разных биомов и сочетает элементы обоих.</MixedBiome.description>
+  <Muddy.label>грязная</Muddy.label>
+  <Muddy.description>Здесь больше грязи, чем обычно.</Muddy.description>
+  <Oasis.label>оазис</Oasis.label>
+  <Oasis.description>Зеленый источник с обилием растительности и воды.</Oasis.description>
+  <Peninsula.label>полуостров</Peninsula.label>
+  <Peninsula.description>Выступ суши, окруженный океаном.</Peninsula.description>
+  <Plateau.label>плато</Plateau.label>
+  <Plateau.description>Невысокий подъем с крутыми обрывами и плоской вершиной.</Plateau.description>
+  <Pond.label>пруд</Pond.label>
+  <Pond.description>Небольшой пресноводный водоем.</Pond.description>
+  <RiverConfluence.label>слияние рек</RiverConfluence.label>
+  <RiverConfluence.description>Место слияния двух рек.</RiverConfluence.description>
+  <RiverDelta.label>дельта</RiverDelta.label>
+  <RiverDelta.description>Река, разделяющаяся на множество рукавов при впадении в океан.</RiverDelta.description>
+  <RiverIsland.label>речной остров</RiverIsland.label>
+  <RiverIsland.description>Река, разделяющаяся на две части и вновь соединяющаяся.</RiverIsland.description>
+  <Sandy.label>песчаная</Sandy.label>
+  <Sandy.description>В этой местности много песчаных участков.</Sandy.description>
+  <TerraformingScar.label>шрам терраформирования</TerraformingScar.label>
+  <TerraformingScar.description>Сбой в древнем устройстве терраформирования исказил землю, превратив её в извилистые спирали. Со временем территория восстановилась, но изогнутые и деформированные холмы остались.</TerraformingScar.description>
+  <ToxicLake.label>токсичное озеро</ToxicLake.label>
+  <ToxicLake.description>Водоем, отравленный просачивающимися из земли химикатами. Вода вызывает отравление токсинами.</ToxicLake.description>
+  <Valley.label>долина</Valley.label>
+  <Valley.description>Крутая долина, прорезанная сквозь гору.</Valley.description>
+  <Wetland.label>заболоченные земли</Wetland.label>
+  <Wetland.description>Здесь преобладают обширные взаимосвязанные водные пути.</Wetland.description>
+</LanguageData>

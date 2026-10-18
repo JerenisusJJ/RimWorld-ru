@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Cyclops.label>вырастить циклопа</Cyclops.label>
+  <Cyclops.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>левый зрительный сенсор</Cyclops.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Cyclops.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>правый зрительный сенсор</Cyclops.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Cyclops.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>левый слуховой сенсор</Cyclops.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Cyclops.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>правый слуховой сенсор</Cyclops.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Cyclops.corePart.parts.front_left_leg.customLabel>левая передняя нога</Cyclops.corePart.parts.front_left_leg.customLabel>
+  <Cyclops.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>передняя левая стопа</Cyclops.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <Cyclops.corePart.parts.front_right_leg.customLabel>правая передняя нога</Cyclops.corePart.parts.front_right_leg.customLabel>
+  <Cyclops.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>передняя правая стопа</Cyclops.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <Cyclops.corePart.parts.rear_left_leg.customLabel>задняя левая нога</Cyclops.corePart.parts.rear_left_leg.customLabel>
+  <Cyclops.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>задняя левая стопа</Cyclops.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <Cyclops.corePart.parts.rear_right_leg.customLabel>задняя правая нога</Cyclops.corePart.parts.rear_right_leg.customLabel>
+  <Cyclops.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>задняя правая стопа</Cyclops.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+</LanguageData>

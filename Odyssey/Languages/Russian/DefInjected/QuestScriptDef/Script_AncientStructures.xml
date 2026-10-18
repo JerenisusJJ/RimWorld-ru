@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Opportunity_AncientInfestedSettlement.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение [structureNameWithArticle]. Вы можете обыскать это строение в поисках ценных ресурсов.\n\nБудьте осторожны, древние постройки могут скрывать множество опасностей.</li>
+    <li>structureNameWithArticle-&gt;зараженное поселение</li>
+  </Opportunity_AncientInfestedSettlement.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientInfestedSettlement.questNameRules.rulesStrings>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;Обнаружено [structureName]</li>
+    <li>questName-&gt;[structureName] находка</li>
+    <li>ancient(p=2)-&gt;Древний</li>
+    <li>ancient-&gt;Затерянный</li>
+    <li>structureName-&gt;зараженное поселение</li>
+  </Opportunity_AncientInfestedSettlement.questNameRules.rulesStrings>
+  <Opportunity_AncientInfestedSettlement.questSubjectRules.rulesStrings>
+    <li>subject-&gt;древние здания</li>
+    <li>subject-&gt;затерянные ориентиры</li>
+    <li>subject-&gt;древние сооружения</li>
+    <li>questMapFeature-&gt;рисунок старого здания</li>
+    <li>questMapText-&gt;цель для мародерства</li>
+    <li>questMapText-&gt;место для исследования</li>
+    <li>questMapText-&gt;опасное древнее сооружение</li>
+    <li>questMapText-&gt;остерегайтесь ловушек</li>
+    <li>subject-&gt;ульи насекомых</li>
+    <li>subject-&gt;заражения</li>
+    <li>questMapFeature-&gt;улей насекомых</li>
+    <li>questMapFeature-&gt;анатомический рисунок мегапаука</li>
+    <li>questMapText-&gt;насекомые повсюду</li>
+  </Opportunity_AncientInfestedSettlement.questSubjectRules.rulesStrings>
+  <Opportunity_AncientStructureChemfuelRefinery.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение [structureNameWithArticle]. Вы можете обыскать это строение в поисках ценных ресурсов.\n\nБудьте осторожны, древние постройки могут скрывать множество опасностей.</li>
+    <li>structureNameWithArticle-&gt;древний химтопливный завод</li>
+  </Opportunity_AncientStructureChemfuelRefinery.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientStructureChemfuelRefinery.questNameRules.rulesStrings>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;Обнаружено [structureName]</li>
+    <li>questName-&gt;[structureName] находка</li>
+    <li>ancient(p=2)-&gt;Древний</li>
+    <li>ancient-&gt;Затерянный</li>
+    <li>structureName-&gt;химтопливный завод</li>
+  </Opportunity_AncientStructureChemfuelRefinery.questNameRules.rulesStrings>
+  <Opportunity_AncientStructureChemfuelRefinery.questSubjectRules.rulesStrings>
+    <li>subject-&gt;древние здания</li>
+    <li>subject-&gt;затерянные ориентиры</li>
+    <li>subject-&gt;древние сооружения</li>
+    <li>questMapFeature-&gt;рисунок старого здания</li>
+    <li>questMapText-&gt;цель для мародерства</li>
+    <li>questMapText-&gt;место для исследования</li>
+    <li>questMapText-&gt;опасное древнее сооружение</li>
+    <li>questMapText-&gt;остерегайтесь ловушек</li>
+    <li>subject-&gt;древние заводы</li>
+    <li>subject-&gt;химкомбинаты</li>
+    <li>questMapFeature-&gt;химтопливный завод</li>
+    <li>questMapFeature-&gt;изображение резервуара с химтопливом</li>
+    <li>questMapFeature-&gt;набросок оборудования завода</li>
+    <li>questMapText-&gt;склад химтоплива</li>
+    <li>questMapText-&gt;здесь есть химтопливо</li>
+  </Opportunity_AncientStructureChemfuelRefinery.questSubjectRules.rulesStrings>
+  <Opportunity_AncientStructureGarrison.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение [structureNameWithArticle]. Вы можете обыскать это строение в поисках ценных ресурсов.\n\nБудьте осторожны, древние постройки могут скрывать множество опасностей.</li>
+    <li>structureNameWithArticle-&gt;древний гарнизон</li>
+  </Opportunity_AncientStructureGarrison.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientStructureGarrison.questNameRules.rulesStrings>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;Обнаружено [structureName]</li>
+    <li>questName-&gt;[structureName] находка</li>
+    <li>ancient(p=2)-&gt;Древний</li>
+    <li>ancient-&gt;Затерянный</li>
+    <li>structureName-&gt;гарнизон</li>
+  </Opportunity_AncientStructureGarrison.questNameRules.rulesStrings>
+  <Opportunity_AncientStructureGarrison.questSubjectRules.rulesStrings>
+    <li>subject-&gt;древние здания</li>
+    <li>subject-&gt;затерянные ориентиры</li>
+    <li>subject-&gt;древние сооружения</li>
+    <li>questMapFeature-&gt;рисунок старого здания</li>
+    <li>questMapText-&gt;цель для мародерства</li>
+    <li>questMapText-&gt;место для исследования</li>
+    <li>questMapText-&gt;опасное древнее сооружение</li>
+    <li>questMapText-&gt;остерегайтесь ловушек</li>
+    <li>subject-&gt;древние военные объекты</li>
+    <li>subject-&gt;древние гарнизоны</li>
+    <li>questMapFeature-&gt;гарнизон</li>
+    <li>questMapFeature-&gt;изображение стойки для оружия</li>
+    <li>questMapFeature-&gt;угольный набросок штурмовой винтовки</li>
+    <li>questMapText-&gt;оружейный склад</li>
+    <li>questMapText-&gt;древний арсенал</li>
+    <li>questMapText-&gt;много военного снаряжения</li>
+  </Opportunity_AncientStructureGarrison.questSubjectRules.rulesStrings>
+  <Opportunity_AncientStructureLaunchSite.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение [structureNameWithArticle]. Вы можете обыскать это строение в поисках ценных ресурсов.\n\nБудьте осторожны, древние постройки могут скрывать множество опасностей.</li>
+    <li>structureNameWithArticle-&gt;древний стартовый комплекс</li>
+  </Opportunity_AncientStructureLaunchSite.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientStructureLaunchSite.questNameRules.rulesStrings>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;Обнаружено [structureName]</li>
+    <li>questName-&gt;[structureName] находка</li>
+    <li>ancient(p=2)-&gt;Древний</li>
+    <li>ancient-&gt;Затерянный</li>
+    <li>structureName-&gt;стартовая площадка</li>
+  </Opportunity_AncientStructureLaunchSite.questNameRules.rulesStrings>
+  <Opportunity_AncientStructureLaunchSite.questSubjectRules.rulesStrings>
+    <li>subject-&gt;древние здания</li>
+    <li>subject-&gt;затерянные ориентиры</li>
+    <li>subject-&gt;древние сооружения</li>
+    <li>questMapFeature-&gt;рисунок старого здания</li>
+    <li>questMapText-&gt;цель для мародерства</li>
+    <li>questMapText-&gt;место для исследования</li>
+    <li>questMapText-&gt;опасное древнее сооружение</li>
+    <li>questMapText-&gt;остерегайтесь ловушек</li>
+    <li>subject-&gt;древние стартовые площадки</li>
+    <li>subject-&gt;космопорты</li>
+    <li>questMapFeature-&gt;стартовая площадка</li>
+    <li>questMapFeature-&gt;схема заправки челнока</li>
+    <li>questMapFeature-&gt;набросок груза, загружаемого в транспортные капсулы</li>
+    <li>questMapText-&gt;у них есть топливо</li>
+  </Opportunity_AncientStructureLaunchSite.questSubjectRules.rulesStrings>
+  <Opportunity_AncientStructureWarehouse.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение [structureNameWithArticle]. Вы можете обыскать это строение в поисках ценных ресурсов.\n\nБудьте осторожны, древние постройки могут скрывать множество опасностей.</li>
+    <li>structureNameWithArticle-&gt;древний склад</li>
+  </Opportunity_AncientStructureWarehouse.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;[ancient] [structureName]</li>
+    <li>questName-&gt;Обнаружено [structureName]</li>
+    <li>questName-&gt;[structureName] находка</li>
+    <li>ancient(p=2)-&gt;Древний</li>
+    <li>ancient-&gt;Затерянный</li>
+    <li>structureName-&gt;склад</li>
+  </Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>
+  <Opportunity_AncientStructureWarehouse.questSubjectRules.rulesStrings>
+    <li>subject-&gt;древние здания</li>
+    <li>subject-&gt;затерянные ориентиры</li>
+    <li>subject-&gt;древние сооружения</li>
+    <li>questMapFeature-&gt;рисунок старого здания</li>
+    <li>questMapText-&gt;цель для мародерства</li>
+    <li>questMapText-&gt;место для исследования</li>
+    <li>questMapText-&gt;опасное древнее сооружение</li>
+    <li>questMapText-&gt;остерегайтесь ловушек</li>
+    <li>subject-&gt;древние хранилища</li>
+    <li>subject-&gt;склады</li>
+    <li>questMapFeature-&gt;склад</li>
+    <li>questMapFeature-&gt;схема полок, заполненных ящиками</li>
+    <li>questMapFeature-&gt;набросок погрузчика</li>
+    <li>questMapText-&gt;огромное древнее строение</li>
+  </Opportunity_AncientStructureWarehouse.questSubjectRules.rulesStrings>
+</LanguageData>

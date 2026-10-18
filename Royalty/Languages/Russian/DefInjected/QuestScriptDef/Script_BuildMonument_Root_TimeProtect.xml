@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
+    <li>commonEnding-&gt;Этот монумент размера [monumentSize] потребует следующие ресурсы для строительства (общей стоимостью [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nЕсли вы примете задание, то будете должны построить монумент в течение [constructionTimeoutTicks_duration].\n\nПосле завершения строительства вам нужно будет защищать монумент в течение [haveToProtectForTicks_duration]. [asker2] будет [asker_upset], если в течение этого времени вы бросите поселение, оставив монумент без защиты. А если хотя бы одна его часть будет разрушена, [asker2] задействует машину возмездия, и [threatDescription]\n\nПо завершении строительства вы получите награду.</li>
+    <li>asker_upset(asker_gender==Male)-&gt;недоволен</li>
+    <li>asker_upset(asker_gender==Female)-&gt;недовольна</li>
+    <li>asker_upset(priority=-1)-&gt;недовольно</li>
+  </BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
+  <BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>Монумент завершён</BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>
+  <BuildMonument_TimeProtect.LetterTextMonumentComplete.slateRef>Вы завершили строительство монумента.\n\nТеперь вы должны защищать его в течение [haveToProtectForTicks_duration]. Если хотя бы одна его часть будет разрушена, [asker2] задействует машину возмездия, и [threatDescription]</BuildMonument_TimeProtect.LetterTextMonumentComplete.slateRef>
+</LanguageData>

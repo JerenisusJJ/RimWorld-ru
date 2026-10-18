@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ArtificialMetabolism.label>искусственный обмен веществ</ArtificialMetabolism.label>
+  <ArtificialMetabolism.description>Создание бионических органов позволит обрабатывать пищу безопаснее и эффективнее, чем обычный желудок.</ArtificialMetabolism.description>
+  <ArtificialMetabolism.generalRules.rulesStrings>
+    <li>subject-&gt;искусственный обмен веществ</li>
+    <li>subject_gen-&gt;искусственного обмена веществ</li>
+    <li>subject_dat-&gt;искусственному обмену веществ</li>
+    <li>subject_pre_about-&gt;об искусственном обмене веществ</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? согласился : согласилась} на вживление искусственного желудка как последнее средство при измождающем всепоглощающем голоде</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? вживил : вживила} себе стерилизующий желудок, но {ANYPAWN_gender ? утаил : утаила} это от королевы и {ANYPAWN_gender ? продолжил : продолжила} быть её {ANYPAWN_gender ? слугой-отведывателем : служанкой-отведывательницей}</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? начал : начала} испытывать постоянное отвращение к еде. Ядерный желудок, значительно сокращающий потребление пищи, решил проблему, правда, его радиоактивность всё же доставляла неприятности</li>
+    <li>subject_gerund-&gt;изготовления желудков повторной обработки</li>
+    <li>subject_gerund-&gt;изготовления стерилизующих желудков</li>
+    <li>subject_gerund-&gt;изготовления ядерных желудков</li>
+    <li>subject_gerund-&gt;проектирования искусственного кишечника</li>
+  </ArtificialMetabolism.generalRules.rulesStrings>
+  <BrainWiring.label>мозговая проводка</BrainWiring.label>
+  <BrainWiring.description>Создание мозговых имплантов, которые вызывают или предотвращают примитивные ощущения, такие как радость или боль.</BrainWiring.description>
+  <BrainWiring.generalRules.rulesStrings>
+    <li>subject-&gt;мозговые импланты</li>
+    <li>subject_gen-&gt;мозговых имплантов</li>
+    <li>subject_dat-&gt;мозговым имплантам</li>
+    <li>subject_pre_about-&gt;о мозговых имплантах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? написал : написала} статью об использовании мозгорезов в мазохистских культах для поднятия морального духа</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? установил : установила} чипы обезболивания бойцам штурмового отряда, в результате чего те уничтожили превосходящее их по мощи подразделение противника, несмотря на потери из-за смертельных ранений</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? установил : установила} себе чип счастья и {ANYPAWN_gender ? начал : начала} радоваться жизни, невзирая на ставшие обыденностью нелепые ситуации, в которые [ANYPAWN_pronoun] с того момента {ANYPAWN_gender ? попадал : попадала}</li>
+    <li>subject_gerund-&gt;изготовления мозгорезов</li>
+    <li>subject_gerund-&gt;изготовления чипов обезболивания</li>
+    <li>subject_gerund-&gt;изготовления чипов счастья</li>
+  </BrainWiring.generalRules.rulesStrings>
+  <CircadianInfluence.label>циркадное воздействие</CircadianInfluence.label>
+  <CircadianInfluence.description>Создание мозговых имплантов, которые управляют циркадным ритмом на химическом уровне, сокращая потребность во сне.</CircadianInfluence.description>
+  <CircadianInfluence.generalRules.rulesStrings>
+    <li>subject-&gt;циркадное воздействие</li>
+    <li>subject_gen-&gt;циркадного воздействия</li>
+    <li>subject_dat-&gt;циркадному воздействию</li>
+    <li>subject_pre_about-&gt;о циркадном воздействии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} однополушарный режим сна у китообразных, а затем {ANYPAWN_gender ? предложил : предложила} новую форму циркадного разделителя</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? предписал : предписала} вживлять циркадные разделители всем прошедшим отбор кандидатам в городскую стражу, чтобы при необходимости они могли оставаться на посту неограниченное время</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} лягушек-древолазов и жирафов с целью выяснить, какие ксеногены необходимы для функционирования железы циркадной стимуляции</li>
+    <li>subject_gerund-&gt;изготовления циркадных разделителей</li>
+    <li>subject_gerund-&gt;изготовления циркадных стимуляторов</li>
+  </CircadianInfluence.generalRules.rulesStrings>
+  <CompactWeaponry.label>скрытое вооружение</CompactWeaponry.label>
+  <CompactWeaponry.description>Создание компактного, незаметного для глаза бионического оружия, которое может быть встроено в различные части тела.</CompactWeaponry.description>
+  <CompactWeaponry.generalRules.rulesStrings>
+    <li>subject-&gt;скрытое вооружение</li>
+    <li>subject_gen-&gt;скрытого вооружения</li>
+    <li>subject_dat-&gt;скрытому вооружению</li>
+    <li>subject_pre_about-&gt;о скрытом вооружении</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? устроился : устроилась} работать детективом, и скрытый коленный шип не раз [ANYPAWN_possessive] спасал</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? провёл : провела} целое лето восстанавливаясь, после того как {ANYPAWN_gender ? был ранен : была ранена} кистевым когтем сбежавшего раба</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? нанялся : нанялась} в службу охраны и {ANYPAWN_gender ? использовал : использовала} свои знания, чтобы во время сканирования входящих в вестибюль посетителей выявлять среди них киборгов</li>
+    <li>subject_gerund-&gt;изготовления кистевых когтей</li>
+    <li>subject_gerund-&gt;изготовления коленных шипов</li>
+    <li>subject_gerund-&gt;изготовления локтевых лезвий</li>
+  </CompactWeaponry.generalRules.rulesStrings>
+  <FleshShaping.label>эстетика тела</FleshShaping.label>
+  <FleshShaping.description>Создание имплантов, которые управляют гормонами и механитами для изменения фигуры поселенцев.</FleshShaping.description>
+  <FleshShaping.generalRules.rulesStrings>
+    <li>subject-&gt;эстетическая хирургия</li>
+    <li>subject_gen-&gt;эстетической хирургии</li>
+    <li>subject_dat-&gt;эстетической хирургии</li>
+    <li>subject_pre_about-&gt;об эстетической хирургии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? остановил : остановила} сокращение населения урбанизированного мира, бесплатно распространяя усилители любви</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? устроился : устроилась} в клинику эстетической медицины главным специалистом по коррекции фигуры и {ANYPAWN_gender ? проводил : проводила} дни за созданием изящных конечностей</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал вожатым : стала вожатой} в лагере и {ANYPAWN_gender ? рассказывал : рассказывала} у костра детям с утопических миров страшилки о том, как вернёт им обратно их неэстетичные носы</li>
+    <li>subject_gerund-&gt;изготовления корректоров фигуры</li>
+    <li>subject_gerund-&gt;изготовления усилителей любви</li>
+    <li>subject_gerund-&gt;изготовления эстетичных носов</li>
+  </FleshShaping.generalRules.rulesStrings>
+  <HealingFactors.label>лечебные процессы</HealingFactors.label>
+  <HealingFactors.description>Создание бионики, которая усиливает естественные процессы заживления.</HealingFactors.description>
+  <HealingFactors.generalRules.rulesStrings>
+    <li>subject-&gt;регенеративная бионика</li>
+    <li>subject_gen-&gt;регенеративной бионики</li>
+    <li>subject_dat-&gt;регенеративной бионике</li>
+    <li>subject_pre_about-&gt;о регенеративной бионике</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? обследовал : обследовала} представителей имперской знати, чтобы выяснить, действительно ли у них голубая кровь. Кровь оказалась обычного цвета, однако невероятно быстро свёртывалась</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? ввёл : ввела} стандарты, по которым каждому участнику боёв на арене, чтобы чаще сражаться, следовало иметь исцелитель и надлежащее ксеносемя</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? подверг : подвергла} изучению найденные в камерах криптосна трупы древних, попутно извлёкши из них устройства быстрого заживления</li>
+    <li>subject_gerund-&gt;изготовления исцелителей</li>
+    <li>subject_gerund-&gt;изготовления коагуляторов</li>
+  </HealingFactors.generalRules.rulesStrings>
+  <MolecularAnalysis.label>молекулярный анализ</MolecularAnalysis.label>
+  <MolecularAnalysis.description>Создание бионики с молекулярными анализаторами для помощи иммунной системе и анализа пищи.</MolecularAnalysis.description>
+  <MolecularAnalysis.generalRules.rulesStrings>
+    <li>subject-&gt;молекулярный анализ</li>
+    <li>subject_gen-&gt;молекулярного анализа</li>
+    <li>subject_dat-&gt;молекулярному анализу</li>
+    <li>subject_pre_about-&gt;о молекулярном анализе</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? занялся : занялась} просвещением выпускавшихся из кулинарных школ шеф-поваров, объясняя, что им не следует вживлять себе эстетичные носы, иначе их вкусовой анализаторы выйдут из строя</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? вживил : вживила} себе иммунизатор, чтобы спокойно находиться в изолированных и закрытых на карантин поселениях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? выступил : выступила} с лекциями о потенциальных технических конфликтах между бионическими частями тела и имплантами с молекулярными анализаторами</li>
+    <li>subject_gerund-&gt;изготовления вкусовой анализаторов</li>
+    <li>subject_gerund-&gt;изготовления иммунизаторов</li>
+  </MolecularAnalysis.generalRules.rulesStrings>
+  <NeuralComputation.label>нейронные вычисления</NeuralComputation.label>
+  <NeuralComputation.description>Создание мозговых имплантов, которые помогают в исследованиях и обучении, используя миниатюрный нейроинтерфейс.</NeuralComputation.description>
+  <NeuralComputation.generalRules.rulesStrings>
+    <li>subject-&gt;мозговые импланты</li>
+    <li>subject-&gt;нейронные вычисления</li>
+    <li>subject_gen-&gt;мозговых имплантов</li>
+    <li>subject_gen-&gt;нейронных вычислений</li>
+    <li>subject_dat-&gt;мозговым имплантам</li>
+    <li>subject_dat-&gt;нейронным вычислениям</li>
+    <li>subject_pre_about-&gt;о мозговых имплантах</li>
+    <li>subject_pre_about-&gt;о нейронных вычислениях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? смог : смогла} выиграть время для освобождения заключённых, обезвредив тюремного надзирателя путём воздействия ЭМИ на его когнитивный стимулятор</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? распорядился : распорядилась} вживить когнитивные стимуляторы и нейропроцессоры всем студентам на факультете</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? принял : приняла} решение вживить себе когнитивный стимулятор. Однако вскоре {ANYPAWN_gender ? пожалел : пожалела} об этом, оказавшись в плену у пиратов, которые пресекали все попытки побега с помощью ЭМИ</li>
+    <li>subject_gerund-&gt;изготовления когнитивных стимуляторов</li>
+    <li>subject_gerund-&gt;изготовления нейропроцессоров</li>
+  </NeuralComputation.generalRules.rulesStrings>
+  <SkinHardening.label>укрепление кожи</SkinHardening.label>
+  <SkinHardening.description>Бионические импланты, которые стимулируют затвердевание кожи для придания ей лучших защитных качеств.</SkinHardening.description>
+  <SkinHardening.generalRules.rulesStrings>
+    <li>subject-&gt;подкожные импланты</li>
+    <li>subject_gen-&gt;подкожных имплантов</li>
+    <li>subject_dat-&gt;подкожным имплантам</li>
+    <li>subject_pre_about-&gt;о подкожных имплантах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? исследовал : исследовала} железы дриад-дубокожей и {ANYPAWN_gender ? обосновал : обосновала} возможность использования их свойств человеком</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? организовал : организовала} экспедицию на населённый динозаврами мир, чтобы изучить толстые кератиновые пластины, покрывавшие местных укротителей</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? погрузился : погрузилась} в работу над проектом по утолщению эпидермиса человека с помощью выделяющих наномашины желёз, осознавая, что плод такого подхода не вписывался в традиционные стандарты красоты</li>
+    <li>subject_gerund-&gt;изготовления бронирующих желёз</li>
+    <li>subject_gerund-&gt;изготовления желёз каменной кожи</li>
+    <li>subject_gerund-&gt;изготовления желёз твёрдой кожи</li>
+  </SkinHardening.generalRules.rulesStrings>
+  <SpecializedLimbs.label>специализированные конечности</SpecializedLimbs.label>
+  <SpecializedLimbs.description>Изготовление бионических конечностей, предназначенных для выполнения боевых или трудовых задач.</SpecializedLimbs.description>
+  <SpecializedLimbs.generalRules.rulesStrings>
+    <li>subject-&gt;специализированное протезирование</li>
+    <li>subject_gen-&gt;специализированного протезирования</li>
+    <li>subject_dat-&gt;специализированному протезированию</li>
+    <li>subject_pre_about-&gt;о специализированном протезировании</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? собрал : собрала} статистику, опросив фермеров-контрактников с феодального мира до и после того, как им были вживлены агроруки</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} организатором подпольных боёв, в которых можно было увидеть вооружённого силовыми когтями бойца, сражавшегося против шахтёра с двумя руками-бурами</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? устроился : устроилась} хирургом в клинику на окраинном мире и {ANYPAWN_gender ? устанавливал : устанавливала} пациентам вместо потерянных конечностей различные приспособления: от деревянных кистей до силовых когтей</li>
+    <li>subject_gerund-&gt;изготовления агрорук</li>
+    <li>subject_gerund-&gt;изготовления рук-буров</li>
+    <li>subject_gerund-&gt;изготовления силовых когтей</li>
+  </SpecializedLimbs.generalRules.rulesStrings>
+  <VenomSynthesis.label>синтез яда</VenomSynthesis.label>
+  <VenomSynthesis.description>Создание бионики, которая синтезирует яд при помощи вживляемых химических реакторов для применения в ядовитых атаках.</VenomSynthesis.description>
+  <VenomSynthesis.generalRules.rulesStrings>
+    <li>subject-&gt;отравляющая бионика</li>
+    <li>subject_gen-&gt;отравляющей бионики</li>
+    <li>subject_dat-&gt;отравляющей бионике</li>
+    <li>subject_pre_about-&gt;об отравляющей бионике</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возглавил : возглавила} работы по созданию микрогабаритных химических реакторов для их применения в сложной бионике</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} мусорных крыс с мира-свалки и {ANYPAWN_gender ? написал : написала} статью об уникальных токсинах, выделяющихся в момент их укуса</li>
+    <li>subject_story-&gt;по достоинству {ANYPAWN_gender ? оценил : оценила} маленькие острые лезвия, способные убить простым порезом</li>
+    <li>subject_gerund-&gt;изготовления ядовитых клыков</li>
+    <li>subject_gerund-&gt;изготовления ядовитых когтей</li>
+  </VenomSynthesis.generalRules.rulesStrings>
+</LanguageData>

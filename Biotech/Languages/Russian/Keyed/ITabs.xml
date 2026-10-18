@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RecipeRequiresMechanitor>Для выполнения задания «{0}» требуется механитор. В вашем поселении нет механиторов, так что заняться этим никто не сможет.</RecipeRequiresMechanitor>
+  <GenepackPlural>генные пакеты</GenepackPlural>
+  <TraitsDevelopLaterBaby>Черты характера ребёнка определяются позже, в течение детства.</TraitsDevelopLaterBaby>
+  <SkillsDevelopLaterBaby>Навыки ребёнка развиваются позже, в течение детства.</SkillsDevelopLaterBaby>
+  <TabGenes>Гены</TabGenes>
+  <ViewGenes>Просмотр генов</ViewGenes>
+  <ViewGenesDesc>Нажмите для просмотра генов {PAWN_nameDef}</ViewGenesDesc>
+  <TabFeeding>Питание</TabFeeding>
+  <AutofeedSectionHeader>Настройки питания</AutofeedSectionHeader>
+  <AutofeedModeNever>не кормить</AutofeedModeNever>
+  <AutofeedModeChildcare>при уходе</AutofeedModeChildcare>
+  <AutofeedModeUrgent>всегда</AutofeedModeUrgent>
+  <AutofeedNone>Этого ребёнка некому покормить</AutofeedNone>
+  <AutofeedModeTooltipNever>{FEEDER_nameDef} не будет самостоятельно кормить {BABY_nameDef}.</AutofeedModeTooltipNever>
+  <AutofeedModeTooltipChildcare>{FEEDER_nameDef} будет кормить {BABY_nameDef} во время ухода за ребёнком.</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} будет кормить {BABY_nameDef} в любое время дня и ночи, даже если {FEEDER_pronoun} не {FEEDER_gender ? назначен : назначена : назначно} на данную работу или не может ухаживать за детьми.</AutofeedModeTooltipUrgent>
+  <BabyFoodConsumables>Потребляемая пища</BabyFoodConsumables>
+  <IdeoExposureSectionHeader>влияние идеолигии</IdeoExposureSectionHeader>
+  <IdeoExposureNoExposure>{BABY_labelShort} пока не {BABY_gender ? подвергался : подвергалась : подвергался} влиянию чьей-либо идеолигии.</IdeoExposureNoExposure>
+  <IdeoExposureNoExposureDetail>Когда другие поселенцы кормят {BABY_labelShort}, носят на себе, играют с {BABY_gender ? ним : ней : ним} или иным способом взаимодействуют, {BABY_pronoun} подвергается влиянию их идеолигии. В возрасте {CHILDAGE_numCase ? года : лет : лет} {BABY_labelShort} примет ту идеолигию, которая оказала на н{PAWN_possessive} наибольшее влияние.</IdeoExposureNoExposureDetail>
+  <IdeoExposurePointsTooltipJoinLikelihood>{BABY_labelShort} примет идеолигию {IDEO_name} с вероятностью {PERCENT}.</IdeoExposurePointsTooltipJoinLikelihood>
+  <IdeoExposurePointsTooltipJoinDescription>Когда {BABY_labelShort} контактирует с последователями определённой идеолигии, {BABY_pronoun} с большей вероятностью присоединится к этой идеологии, когда {BABY_objective} исполнится {CHILDAGE}.</IdeoExposurePointsTooltipJoinDescription>
+  <IdeoExposurePointsTooltipExposureDescription>Влияние идеолигии измеряется очками влияния. Различные активности с ребёнком, такие как кормление грудью, укачивание или игра, будут добавлять {BABY_labelShort} очки влияния той идеологии, к которой принадлежит взрослый.</IdeoExposurePointsTooltipExposureDescription>
+  <IdeoExposurePointsTooltipIdeoExposure>Очки влияния идеолигии {IDEO_name}</IdeoExposurePointsTooltipIdeoExposure>
+  <IdeoExposurePointsTooltipTotalExposure>Всего очков влияния</IdeoExposurePointsTooltipTotalExposure>
+  <TryRomanceButtonLabel>Флиртовать</TryRomanceButtonLabel>
+  <TryRomanceNoOptsMessage>Нет никого, с кем {0_labelShort} {0_gender ? мог : могла : мог} бы флиртовать.</TryRomanceNoOptsMessage>
+  <CantRomanceTargetUnreachable>цель вне досягаемости</CantRomanceTargetUnreachable>
+  <CantRomanceTargetSleeping>цель спит</CantRomanceTargetSleeping>
+  <CantRomanceTargetDowned>цель обездвижена</CantRomanceTargetDowned>
+  <CantRomanceTargetDrafted>цель в режиме призыва</CantRomanceTargetDrafted>
+  <CantRomanceTargetMentalState>цель в состоянии срыва</CantRomanceTargetMentalState>
+  <CantRomanceTargetIncest>родственник</CantRomanceTargetIncest>
+  <CantRomanceTargetOpinion>плохие отношения</CantRomanceTargetOpinion>
+  <CantRomanceTargetSexuality>неподходящая ориентация</CantRomanceTargetSexuality>
+  <CantRomanceTargetPrisoner>цель в плену</CantRomanceTargetPrisoner>
+  <CantRomanceTargetYoung>цель слишком молода</CantRomanceTargetYoung>
+  <CantRomanceTargetZeroChance>нет шансов</CantRomanceTargetZeroChance>
+  <CantRomanceInitiateMessagePrisoner>{0_labelShort} не может флиртовать, так как {0_pronoun} в плену.</CantRomanceInitiateMessagePrisoner>
+  <CantRomanceInitiateMessageSlave>{0_labelShort} не может флиртовать, так как {0_pronoun} в рабстве.</CantRomanceInitiateMessageSlave>
+  <CantRomanceInitiateMessageAsexual>{0_labelShort} не может флиртовать, так как {0_pronoun} {0_gender ? асексуален : асексуальна : асексуално}.</CantRomanceInitiateMessageAsexual>
+  <CantRomanceInitiateMessageDowned>{0_labelShort} не может флиртовать, так как {0_pronoun} {0_gender ? обездвижен : обездвижена : обездвижно}.</CantRomanceInitiateMessageDowned>
+  <CantRomanceInitiateMessageDrafted>{0_labelShort} не может флиртовать, так как {0_pronoun} находится в режиме призыва.</CantRomanceInitiateMessageDrafted>
+  <CantRomanceInitiateMessageMentalState>{0_labelShort} не может флиртовать, так как {0_pronoun} в состоянии нервного срыва.</CantRomanceInitiateMessageMentalState>
+  <CantRomanceInitiateMessageTalk>{0_labelShort} не может флиртовать, так как {0_pronoun} не может говорить.</CantRomanceInitiateMessageTalk>
+  <CantRomanceInitiateMessageCooldown>{0_labelShort} недавно уже {0_gender ? пытался : пыталась : пытался} флиртовать, и нужно подождать {1}.</CantRomanceInitiateMessageCooldown>
+  <TryRomanceFailedMessage>Попытка {0_labelShort} флиртовать с {1_labelShort} была неудачной.</TryRomanceFailedMessage>
+  <RomanceExistingRelationshipWarning>Попытка {INITIATOR_nameDef} флиртовать с {TARGET_nameDef} может вызвать негодование текущего партнёра, привести к ссорам и разрыву отношений.</RomanceExistingRelationshipWarning>
+  <RomanceChance>Шанс на успех</RomanceChance>
+  <RomanceChanceExistingRelation>уже {RELATION} {PAWN_nameDef}</RomanceChanceExistingRelation>
+  <RomanceChanceCant>Не может флиртовать</RomanceChanceCant>
+  <RomanceChanceAgeFactor>Разница в возрасте</RomanceChanceAgeFactor>
+  <RomanceChanceBeautyFactor>Красота</RomanceChanceBeautyFactor>
+  <RomanceChanceOpinionFactor>Отношение</RomanceChanceOpinionFactor>
+  <RomanceChancePartnerFactor>Отношение к тек. партнёру</RomanceChancePartnerFactor>
+  <RomanceFailedUnexpected>{0_labelShort} не {0_gender ? смог : смогла : смог} флиртовать с {1_labelShort}</RomanceFailedUnexpected>
+  <RomanceWarningMonogamous>{0_nameDef} уже состоит в отношениях.</RomanceWarningMonogamous>
+  <RomanceWarningPolygamous>{0_nameDef} уже имеет {1_numCase ? партнёра : партнёра : партнёров}.</RomanceWarningPolygamous>
+  <FactorForGenes>Гены</FactorForGenes>
+  <PrisonBreakingDisabledDueToGene>Побег из тюрьмы недоступен из-за гена «{GENE_label}».</PrisonBreakingDisabledDueToGene>
+</LanguageData>

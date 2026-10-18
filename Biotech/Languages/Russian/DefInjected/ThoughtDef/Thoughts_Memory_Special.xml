@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BabyBorn.stages.was_born_healthy.label>{1_labelShort} {1_gender ? родился здоровым : родилась здоровой}</BabyBorn.stages.was_born_healthy.label>
+  <BabyBorn.stages.was_born_healthy.description>Я так {PAWN_gender ? рад : рада} своему ребёнку! Ради моего малютки я {PAWN_gender ? готов : готова} горы свернуть.</BabyBorn.stages.was_born_healthy.description>
+  <FedOn.stages.fed_on_by.label>{0} {1_gender ? пил : пила} мою кровь</FedOn.stages.fed_on_by.label>
+  <FedOn.stages.fed_on_by.description>Из меня пили кровь, будто я какой-то домашний скот.</FedOn.stages.fed_on_by.description>
+  <IngestedHemogenPack.stages.ingested_hemogen_pack.label>{PAWN_gender ? выпил : выпила} гемоген</IngestedHemogenPack.stages.ingested_hemogen_pack.label>
+  <IngestedHemogenPack.stages.ingested_hemogen_pack.description>Мне пришлось выпить гемоген-пакет. Это может сохранить мне жизнь, но это было абсолютно отвратительно.</IngestedHemogenPack.stages.ingested_hemogen_pack.description>
+  <Miscarried.stages.miscarried.label>выкидыш</Miscarried.stages.miscarried.label>
+  <Miscarried.stages.miscarried.description>Я потеряла своего ребёнка.</Miscarried.stages.miscarried.description>
+  <PartnerMiscarried.stages.miscarried.label>У {0} — выкидыш</PartnerMiscarried.stages.miscarried.label>
+  <PartnerMiscarried.stages.miscarried.description>История моего ребёнка закончилась, не успев начаться.</PartnerMiscarried.stages.miscarried.description>
+  <PregnancyEnded.stages.pregnancy_ended.label>беременность завершилась</PregnancyEnded.stages.pregnancy_ended.label>
+  <PregnancyEnded.stages.pregnancy_ended.description>Я больше не беременна, это такое облегчение!</PregnancyEnded.stages.pregnancy_ended.description>
+  <PregnancyTerminated.stages.pregnancy_terminated-0.label>беременность прервана</PregnancyTerminated.stages.pregnancy_terminated-0.label>
+  <PregnancyTerminated.stages.pregnancy_terminated-0.description>Моя беременность прервана.</PregnancyTerminated.stages.pregnancy_terminated-0.description>
+  <PregnancyTerminated.stages.pregnancy_terminated-1.label>беременность прервана</PregnancyTerminated.stages.pregnancy_terminated-1.label>
+  <PregnancyTerminated.stages.pregnancy_terminated-1.description>Моя беременность прервана.</PregnancyTerminated.stages.pregnancy_terminated-1.description>
+  <PregnancyTerminated.stages.pregnancy_terminated-2.label>беременность прервана</PregnancyTerminated.stages.pregnancy_terminated-2.label>
+  <PregnancyTerminated.stages.pregnancy_terminated-2.description>Моя беременность прервана.</PregnancyTerminated.stages.pregnancy_terminated-2.description>
+  <PsychicBondTorn.stages.psychic_bond_torn.label>разорвана психическая связь с {0}</PsychicBondTorn.stages.psychic_bond_torn.label>
+  <PsychicBondTorn.stages.psychic_bond_torn.description>Моя психическая связь с {OTHERPAWN} разорвана. Я {PAWN_gender ? лишился : лишилась} части своих эмоций и переживаний.</PsychicBondTorn.stages.psychic_bond_torn.description>
+  <Stillbirth.stages.stillbirth.label>мертворождение</Stillbirth.stages.stillbirth.label>
+  <Stillbirth.stages.stillbirth.description>Мой ребёнок умер во время родов.</Stillbirth.stages.stillbirth.description>
+  <XenogermHarvested_Prisoner.stages.genes_harvested.label>извлечены гены</XenogermHarvested_Prisoner.stages.genes_harvested.label>
+  <XenogermHarvested_Prisoner.stages.genes_harvested.description>Мои гены были извлечены, будто из какой-то лабораторной крысы.</XenogermHarvested_Prisoner.stages.genes_harvested.description>
+</LanguageData>

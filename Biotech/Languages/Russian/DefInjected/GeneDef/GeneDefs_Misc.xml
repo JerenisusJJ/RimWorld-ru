@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CaveDweller.label>адаптация к помещениям</CaveDweller.label>
+  <CaveDweller.description>Носители этого гена не нуждаются в том, чтобы выходить на свежий воздух, и никогда не чувствуют себя взаперти, вне зависимости от времени, проведённого в помещении.</CaveDweller.description>
+  <DarkVision.label>ночное видение</DarkVision.label>
+  <DarkVision.description>Носители этого гена обладают дополнительным отражающим слоем сетчатки, позволяющим видеть в темноте, и не получают негативных мыслей от нахождения в ней.</DarkVision.description>
+  <DarkVision.symbolPack.prefixSymbols.0.symbol>темно</DarkVision.symbolPack.prefixSymbols.0.symbol>
+  <DarkVision.symbolPack.prefixSymbols.1.symbol>ночно</DarkVision.symbolPack.prefixSymbols.1.symbol>
+  <DarkVision.symbolPack.prefixSymbols.2.symbol>тускло</DarkVision.symbolPack.prefixSymbols.2.symbol>
+  <DarkVision.symbolPack.prefixSymbols.3.symbol>сумеречно</DarkVision.symbolPack.prefixSymbols.3.symbol>
+  <DarkVision.symbolPack.prefixSymbols.4.symbol>тене</DarkVision.symbolPack.prefixSymbols.4.symbol>
+  <DarkVision.symbolPack.prefixSymbols.5.symbol>темно</DarkVision.symbolPack.prefixSymbols.5.symbol>
+  <DarkVision.symbolPack.prefixSymbols.6.symbol>ночно</DarkVision.symbolPack.prefixSymbols.6.symbol>
+  <DarkVision.symbolPack.suffixSymbols.0.symbol>тень</DarkVision.symbolPack.suffixSymbols.0.symbol>
+  <FireResistant.label>устойчивость к жаре</FireResistant.label>
+  <FireResistant.description>Носители этого гена устойчивы к высоким температурам за счёт особенных потовых желёз в коже, способных быстро охлаждать тело. Шанс загореться у таких людей минимален, а урон от огня снижен на 75%.</FireResistant.description>
+  <FireResistant.labelShortAdj>огнестойкость</FireResistant.labelShortAdj>
+  <FireResistant.symbolPack.prefixSymbols.0.symbol>пено</FireResistant.symbolPack.prefixSymbols.0.symbol>
+  <FireResistant.symbolPack.prefixSymbols.1.symbol>мокро</FireResistant.symbolPack.prefixSymbols.1.symbol>
+  <FireResistant.symbolPack.suffixSymbols.0.symbol>пена</FireResistant.symbolPack.suffixSymbols.0.symbol>
+  <Inbred.label>вырождение</Inbred.label>
+  <Inbred.description>Генетическое нарушение, негативно сказывающееся на фертильности, иммунитете и умственных способностях.</Inbred.description>
+  <Instability_Major.label>патология репликации клеток</Instability_Major.label>
+  <Instability_Major.description>Носителям этого гена требуется значительно меньше энергии для работы организма ценой серьёзных нарушений в механизме деления клеток.</Instability_Major.description>
+  <Instability_Mild.label>нарушение репликации клеток</Instability_Mild.label>
+  <Instability_Mild.description>Носителям этого гена требуется меньше энергии для работы организма ценой нарушений в механизме деления клеток.</Instability_Mild.description>
+  <KillThirst.label>жажда убийств</KillThirst.label>
+  <KillThirst.description>Жажда убийств требует регулярно причинять насилие другим людям в ближнем бою. Неудовлетворение этой потребности расстроит этого человека.</KillThirst.description>
+  <KillThirst.labelShortAdj>жажда убийства</KillThirst.labelShortAdj>
+  <KillThirst.symbolPack.prefixSymbols.0.symbol>убийце</KillThirst.symbolPack.prefixSymbols.0.symbol>
+  <KillThirst.symbolPack.prefixSymbols.1.symbol>смерте</KillThirst.symbolPack.prefixSymbols.1.symbol>
+  <KillThirst.symbolPack.prefixSymbols.2.symbol>злобно</KillThirst.symbolPack.prefixSymbols.2.symbol>
+  <KillThirst.symbolPack.prefixSymbols.3.symbol>бешено</KillThirst.symbolPack.prefixSymbols.3.symbol>
+  <KillThirst.symbolPack.prefixSymbols.4.symbol>яро</KillThirst.symbolPack.prefixSymbols.4.symbol>
+  <KillThirst.symbolPack.prefixSymbols.5.symbol>зло</KillThirst.symbolPack.prefixSymbols.5.symbol>
+  <KillThirst.symbolPack.prefixSymbols.6.symbol>гнево</KillThirst.symbolPack.prefixSymbols.6.symbol>
+  <KillThirst.symbolPack.suffixSymbols.0.symbol>маньяк</KillThirst.symbolPack.suffixSymbols.0.symbol>
+  <KillThirst.symbolPack.suffixSymbols.1.symbol>рез</KillThirst.symbolPack.suffixSymbols.1.symbol>
+  <KillThirst.symbolPack.suffixSymbols.2.symbol>палач</KillThirst.symbolPack.suffixSymbols.2.symbol>
+  <KindInstinct.label>врождённая доброта</KindInstinct.label>
+  <KindInstinct.description>Носители этого гена по своей природе дружелюбны и отзывчивы. Они редко оскорбляют других, предпочитая, напротив, поднимать окружающим настроение и поддерживать их добрым словом. Также им не свойственно судить кого-либо по внешности.</KindInstinct.description>
+  <KindInstinct.labelShortAdj>доброта</KindInstinct.labelShortAdj>
+  <KindInstinct.symbolPack.prefixSymbols.0.symbol>добро</KindInstinct.symbolPack.prefixSymbols.0.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.1.symbol>мило</KindInstinct.symbolPack.prefixSymbols.1.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.2.symbol>любо</KindInstinct.symbolPack.prefixSymbols.2.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.3.symbol>нежно</KindInstinct.symbolPack.prefixSymbols.3.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.4.symbol>дружбо</KindInstinct.symbolPack.prefixSymbols.4.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.5.symbol>тепло</KindInstinct.symbolPack.prefixSymbols.5.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.6.symbol>мягко</KindInstinct.symbolPack.prefixSymbols.6.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.7.symbol>круто</KindInstinct.symbolPack.prefixSymbols.7.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.8.symbol>хороше</KindInstinct.symbolPack.prefixSymbols.8.symbol>
+  <NakedSpeed.label>обнажённая скорость</NakedSpeed.label>
+  <NakedSpeed.description>Носители этого гена скованно чувствуют себя в одежде. Без неё они передвигаются быстрее.</NakedSpeed.description>
+  <Nearsighted.label>близорукость</Nearsighted.label>
+  <Nearsighted.description>Носители этого гена хорошо видят только вблизи. Им трудно стрелять на большом расстоянии до цели.</Nearsighted.description>
+  <Nearsighted.symbolPack.prefixSymbols.0.symbol>слепо</Nearsighted.symbolPack.prefixSymbols.0.symbol>
+  <Nearsighted.symbolPack.prefixSymbols.1.symbol>щуро</Nearsighted.symbolPack.prefixSymbols.1.symbol>
+  <Nearsighted.symbolPack.prefixSymbols.2.symbol>близо</Nearsighted.symbolPack.prefixSymbols.2.symbol>
+  <Nearsighted.symbolPack.prefixSymbols.3.symbol>куро</Nearsighted.symbolPack.prefixSymbols.3.symbol>
+  <Nearsighted.symbolPack.prefixSymbols.4.symbol>миопо</Nearsighted.symbolPack.prefixSymbols.4.symbol>
+  <Nearsighted.symbolPack.suffixSymbols.0.symbol>миоп</Nearsighted.symbolPack.suffixSymbols.0.symbol>
+  <Nearsighted.symbolPack.suffixSymbols.1.symbol>слеп</Nearsighted.symbolPack.suffixSymbols.1.symbol>
+  <PollutionRush.label>токсикофилия</PollutionRush.label>
+  <PollutionRush.description>Носителей этого гена стимулируют загрязнённый воздух и почва: они начинают быстрее двигаться и соображать. Похожий ген прослеживается в выведенных как биооружие меганасекомых.</PollutionRush.description>
+  <PollutionRush.customEffectDescriptions.0>Улучшение характеристик при контакте с загрязнением.</PollutionRush.customEffectDescriptions.0>
+  <PsychicBonding.label>психическая связь</PsychicBonding.label>
+  <PsychicBonding.description>Частью нервной системы носителей этого гена является особый орган, позволяющий формировать психическую связь с любовным партнёром. Такие люди будут счастливы, находясь со своей второй половинкой, и расстроены, если будут слишком далеко от неё. При смерти партнёра носитель этого гена испытает глубокий ментальный шок.</PsychicBonding.description>
+  <PsychicBonding.customEffectDescriptions.0>Флирт всегда успешен.</PsychicBonding.customEffectDescriptions.0>
+  <PsychicBonding.customEffectDescriptions.1>Формирует психическую связь с первым романтическим партнёром.</PsychicBonding.customEffectDescriptions.1>
+  <RobustDigestion.label>крепкое пищеварение</RobustDigestion.label>
+  <RobustDigestion.description>Носители этого гена обладают особым желудком, позволяющим без проблем переваривать сырую пищу. Они насыщаются от неё так же, как если бы она была приготовлена. Кроме того, их полностью устраивает вкус сырой пищи.</RobustDigestion.description>
+  <RobustDigestion.symbolPack.prefixSymbols.0.symbol>едо</RobustDigestion.symbolPack.prefixSymbols.0.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.1.symbol>сыро</RobustDigestion.symbolPack.prefixSymbols.1.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.2.symbol>всеядо</RobustDigestion.symbolPack.prefixSymbols.2.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.3.symbol>пище</RobustDigestion.symbolPack.prefixSymbols.3.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.4.symbol>сыро</RobustDigestion.symbolPack.prefixSymbols.4.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.5.symbol>всеядо</RobustDigestion.symbolPack.prefixSymbols.5.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.6.symbol>едо</RobustDigestion.symbolPack.prefixSymbols.6.symbol>
+  <RobustDigestion.symbolPack.suffixSymbols.0.symbol>ед</RobustDigestion.symbolPack.suffixSymbols.0.symbol>
+  <RobustDigestion.symbolPack.suffixSymbols.1.symbol>жор</RobustDigestion.symbolPack.suffixSymbols.1.symbol>
+  <RobustDigestion.symbolPack.suffixSymbols.2.symbol>всеяд</RobustDigestion.symbolPack.suffixSymbols.2.symbol>
+  <RobustDigestion.symbolPack.suffixSymbols.3.symbol>рот</RobustDigestion.symbolPack.suffixSymbols.3.symbol>
+  <RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>всеяд</RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>
+  <RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>жеватель</RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>
+  <RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>поедатель</RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>
+  <StrongStomach.label>крепкий желудок</StrongStomach.label>
+  <StrongStomach.description>Носители этого гена обладают особым фильтрующим пищеварительным органом, защищающим их от пищевых отравлений, даже при употреблении гнилой еды.</StrongStomach.description>
+  <StrongStomach.symbolPack.prefixSymbols.0.symbol>сильно</StrongStomach.symbolPack.prefixSymbols.0.symbol>
+  <StrongStomach.symbolPack.prefixSymbols.1.symbol>пище</StrongStomach.symbolPack.prefixSymbols.1.symbol>
+  <StrongStomach.symbolPack.prefixSymbols.2.symbol>едо</StrongStomach.symbolPack.prefixSymbols.2.symbol>
+  <StrongStomach.symbolPack.prefixSymbols.3.symbol>крепко</StrongStomach.symbolPack.prefixSymbols.3.symbol>
+  <StrongStomach.symbolPack.suffixSymbols.0.symbol>ед</StrongStomach.symbolPack.suffixSymbols.0.symbol>
+  <Unstoppable.label>неумолимость</Unstoppable.label>
+  <Unstoppable.description>Носители этого гена не замедляются при получении урона</Unstoppable.description>
+  <ViolenceDisabled.label>неспособность к насилию</ViolenceDisabled.label>
+  <ViolenceDisabled.description>Носители этого гена неспособны совершать насилие. Мысль о том, чтобы навредить кому-то, вызывает у них ужас и отвращение.</ViolenceDisabled.description>
+  <ViolenceDisabled.labelShortAdj>ненасилие</ViolenceDisabled.labelShortAdj>
+  <ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>паци</ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>
+  <ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>миро</ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>
+  <ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>мирно</ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>
+  <ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>любве</ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>
+  <ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>миролюб</ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>
+  <WebbedPhalanges.label>перепонки</WebbedPhalanges.label>
+  <WebbedPhalanges.description>Носители этого гена имеют перепонки между пальцами рук и ног, позволяющие им быстрее перемещаться в воде, но немного ухудшающие мелкую моторику.</WebbedPhalanges.description>
+</LanguageData>

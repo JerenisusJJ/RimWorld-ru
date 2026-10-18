@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>Монумент завершён</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>Вы завершили строительство монумента.\n\nВы должны не допускать его разрушения в течение [keepMonumentTicks_duration], иначе вы разозлите фракцию [asker_factionName] (отношения [goodwillChangeIfMonumentDestroyed])</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>Монумент разрушен</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>[asker_nameDef] в возмущении из-за того, что вы допустили разрушение монумента так скоро после завершения строительства.\n\nВаша репутация у фракции [asker_faction_name] ухудшилась на [goodwillChangeIfMonumentDestroyed].</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>Не допускайте разрушения монумента {0}</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>Не допускайте разрушения монумента {0}</BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>
+  <BuildMonumentWorker.KeepMonument.slateRef>Сохраняйте монумент {0}</BuildMonumentWorker.KeepMonument.slateRef>
+  <BuildMonumentWorker.MessageMonumentViolated.slateRef>Монумент, возведённый по заданию «[resolvedQuestName]» был осквернён. Это не останется без последствий.</BuildMonumentWorker.MessageMonumentViolated.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>Защищайте монумент в течение {0}</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>Защищайте монумент до {0}</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
+  <BuildMonumentWorker.ProtectMonument.slateRef>Защищать в течение {0}</BuildMonumentWorker.ProtectMonument.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>Новая метка монумента прибыла</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>Поскольку метка монумента уничтожена, вам отправили новую.</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterLabelTimeExpired.slateRef>Монумент не завершён</BuildMonumentWorker.LetterLabelTimeExpired.slateRef>
+  <BuildMonumentWorker.LetterTextTimeExpired.slateRef>Время на постройку монумента истекло. [failLetterEndingCommon]</BuildMonumentWorker.LetterTextTimeExpired.slateRef>
+</LanguageData>

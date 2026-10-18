@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ToxGas.label>токсичный газ</ToxGas.label>
+  <ToxGas.deathMessage>{PAWN_nameDef} {PAWN_gender ? погиб : погибла}.</ToxGas.deathMessage>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mote_BeamRepeater_Charge.label>Частица</Mote_BeamRepeater_Charge.label>
+  <Mote_BeamRepeaterLaser.label>Частица</Mote_BeamRepeaterLaser.label>
+  <Mote_FishingRod.label>Частица</Mote_FishingRod.label>
+  <Mote_TerrorRoarDistortion.label>Частица</Mote_TerrorRoarDistortion.label>
+  <Mote_TerrorRoarFlash.label>Частица</Mote_TerrorRoarFlash.label>
+  <Mote_WarTrumpetDistortion.label>Частица</Mote_WarTrumpetDistortion.label>
+  <Mote_WarTrumpetFlash.label>Частица</Mote_WarTrumpetFlash.label>
+</LanguageData>

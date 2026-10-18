@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Fishing.label>Рыболовство</Fishing.label>
+  <Fishing.description>Рыбаки вылавливают рыбу и морские ресурсы в назначенных рыболовных зонах.</Fishing.description>
+  <Fishing.gerundLabel>Ловить рыбу</Fishing.gerundLabel>
+  <Fishing.labelShort>рыбалка</Fishing.labelShort>
+  <Fishing.pawnLabel>Рыбак</Fishing.pawnLabel>
+  <Fishing.verb>Ловить рыбу</Fishing.verb>
+</LanguageData>

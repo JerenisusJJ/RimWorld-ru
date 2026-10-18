@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimalCalm.label>успокоение животного</AnimalCalm.label>
+  <AnimalCalm.description>Успокоить разъярённое создание с помощью уникальной способности понимать животных.</AnimalCalm.description>
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort} успешно {INITIATOR_gender ? успокоил : успокоила} {RECIPIENT_labelShort}.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  <BerserkTrance.label>транс берсерка</BerserkTrance.label>
+  <BerserkTrance.description>Этот человек переполнен гневом на идеологической почве и находится в состоянии неконтролируемой ярости. Его тело наполнено небывалой силой, но почти не поддаётся контролю.</BerserkTrance.description>
+  <CombatCommand.label>боевое командование</CombatCommand.label>
+  <CombatCommand.description>Этот человек координирует действия бойцов поблизости, повышая их эффективность в бою.</CombatCommand.description>
+  <ConversionRitual.label>ритуал обращения</ConversionRitual.label>
+  <ConversionRitual.description>Попытаться убедить цель принять вашу систему ценностей. Если всё пройдёт гладко, она потеряет уверенность в своей идеолигии и может даже отречься от неё. Провал приведёт лишь к повышению уверенности цели в своих взглядах.\n\nПровести ритуал можно у места проведения ритуала или подходящего алтаря/идеограммы.</ConversionRitual.description>
+  <Convert.label>обращать в идеолигию</Convert.label>
+  <Convert.description>Надзиратели попытаются обратить пленника в их идеолигию.</Convert.description>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} не {INITIATOR_gender ? смог : смогла} обратить {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? недоволен : недовольна} тем, что {RECIPIENT_possessive} пытались обратить в другую идеолигию, но, тем не менее, {RECIPIENT_possessive} уверенность в собственных убеждениях снизилась с {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? обратил : обратила} {RECIPIENT_labelShort} в {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <Counsel.label>утешение</Counsel.label>
+  <Counsel.description>Предложить цели утешение и поддержку, чтобы отменить негативный эффект от одного грустного воспоминания. Шанс успеха зависит от социальных навыков и отношений с целью.</Counsel.description>
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} не {INITIATOR_gender ? смог : смогла} утешить {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? расстроен : расстроена}.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} успешно {INITIATOR_gender ? утешил : утешила} {RECIPIENT_labelShort}. Это отменило негативный эффект от {2}.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} успешно {INITIATOR_gender ? утешил : утешила} {RECIPIENT_labelShort}. Это улучшило {RECIPIENT_possessive} настроение на {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <FarmingCommand.label>фермерские наставления</FarmingCommand.label>
+  <FarmingCommand.description>Этот человек даёт советы и наставления по фермерству, улучшая способности всех вокруг.</FarmingCommand.description>
+  <ImmunityDrive.label>поддержка выздоровления</ImmunityDrive.label>
+  <ImmunityDrive.description>Этот человек получил моральную поддержку, что придало ему уверенности и ускорило выработку иммунитета.</ImmunityDrive.description>
+  <LeaderSpeech.label>речь лидера</LeaderSpeech.label>
+  <LeaderSpeech.description>Воодушевляющая речь, призванная поднять дух всех слушателей. Поселенцы соберутся, после чего лидер несколько часов будет произносить длинную речь. Если всё пройдёт гладко, речь вдохновит слушателей, а оратор укрепит свой авторитет. Если нет — она принесёт только вред.</LeaderSpeech.description>
+  <MarksmanCommand.label>командование стрелками</MarksmanCommand.label>
+  <MarksmanCommand.description>Этот человек руководит стрельбой, повышая эффективность всех стрелков поблизости.</MarksmanCommand.description>
+  <MiningCommand.label>шахтёрские наставления</MiningCommand.label>
+  <MiningCommand.description>Этот человек даёт советы и наставления по горному делу, чтобы окружающие могли быстрее разрабатывать породу.</MiningCommand.description>
+  <PreachHealth.label>проведена проповедь за здоровье</PreachHealth.label>
+  <PreachHealth.description>Воля к жизни этого человека усилилась после прослушанной проповеди. Она ускорила заживление его ран и формирование иммунитета.</PreachHealth.description>
+  <ProductionCommand.label>ремесленные наставления</ProductionCommand.label>
+  <ProductionCommand.description>Этот человек даёт советы и наставления по производству и строительству, улучшая способности всех вокруг.</ProductionCommand.description>
+  <Reassure.label>сомнения развеяны</Reassure.label>
+  <Reassure.description>Повысить уверенность цели в собственные взгляды. Степень повышения уверенности зависит от социальных навыков поселенца.</Reassure.description>
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? развеял : развеяла} сомнения {RECIPIENT_labelShort}, повысив {RECIPIENT_possessive} уверенность в {IDEO} с {BEFORECERTAINTY} до {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <ResearchCommand.label>научные наставления</ResearchCommand.label>
+  <ResearchCommand.description>Этот человек делится соображениями и оказывает моральную поддержку, увеличивая скорость исследования у всех вокруг.</ResearchCommand.description>
+  <Trial.label>суд</Trial.label>
+  <Trial.description>Количество участников суда влияет на шанс обвинительного приговора.</Trial.description>
+  <WorkDrive.label>рабочий запал</WorkDrive.label>
+  <WorkDrive.description>Лидер призвал этого человека работать упорнее.</WorkDrive.description>
+</LanguageData>

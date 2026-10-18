@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AdministeredDrug_Horrible.stages.administered_drug.label>{PAWN_gender ? Дал : Дала} лекарство или наркотик</AdministeredDrug_Horrible.stages.administered_drug.label>
+  <AdministeredDrug_Horrible.stages.administered_drug.description>Я {PAWN_gender ? дал : дала} другому человеку лекарство или наркотик. Это в корне противоречит моим убеждениям.</AdministeredDrug_Horrible.stages.administered_drug.description>
+  <AdministeredDrug_Know_Horrible.stages.administered_drug.label>дано лекарство или наркотик</AdministeredDrug_Know_Horrible.stages.administered_drug.label>
+  <AdministeredDrug_Know_Horrible.stages.administered_drug.labelSocial>{OTHERPAWN_gender ? Дал : Дала} лекарство или наркотик</AdministeredDrug_Know_Horrible.stages.administered_drug.labelSocial>
+  <AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>{PAWN_gender ? Дал : Дала} тяжёлый наркотик</AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>
+  <AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>Я {PAWN_gender ? дал : дала} другому человеку тяжёлый наркотик. Это в корне противоречит моим убеждениям.</AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>
+  <AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>дан тяжёлый наркотик</AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>
+  <AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.labelSocial>{OTHERPAWN_gender : Дал : Дала} тяжёлый наркотик</AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.labelSocial>
+  <AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>{PAWN_gender ? Дал : Дала} лёгкий наркотик</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>
+  <AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>Я {PAWN_gender ? дал : дала} другому человеку лёгкий наркотик. Это в корне противоречит моим убеждениям.</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>
+  <AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>дан лёгкий наркотик</AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>
+  <AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.labelSocial>{OTHERPAWN_gender ? Дал : Дала} лёгкий наркотик</AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.labelSocial>
+  <IngestedDrug_Horrible.stages.used_drug.label>{PAWN_gender ? Принял : Приняла} лекарство или наркотик</IngestedDrug_Horrible.stages.used_drug.label>
+  <IngestedDrug_Horrible.stages.used_drug.description>Я {PAWN_gender ? принял : приняла} лекарство или наркотик. Их употребление в корне противоречит моим убеждениям.</IngestedDrug_Horrible.stages.used_drug.description>
+  <IngestedDrug_Know_Horrible.stages.used_drug.label>принят наркотик</IngestedDrug_Know_Horrible.stages.used_drug.label>
+  <IngestedDrug_Know_Horrible.stages.used_drug.labelSocial>{OTHERPAWN_gender ? Принял : Приняла} наркотик</IngestedDrug_Know_Horrible.stages.used_drug.labelSocial>
+  <IngestedHardDrug_Horrible.stages.used_hard_drug.label>{PAWN_gender ? Принял : Приняла} тяжёлый наркотик</IngestedHardDrug_Horrible.stages.used_hard_drug.label>
+  <IngestedHardDrug_Horrible.stages.used_hard_drug.description>Я {PAWN_gender ? принял : приняла} тяжёлый наркотик. Это в корне противоречит моим убеждениям.</IngestedHardDrug_Horrible.stages.used_hard_drug.description>
+  <IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>принят тяжёлый наркотик</IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>
+  <IngestedHardDrug_Know_Horrible.stages.used_hard_drug.labelSocial>{OTHERPAWN_gender ? Принял : Приняла} тяжёлый наркотик</IngestedHardDrug_Know_Horrible.stages.used_hard_drug.labelSocial>
+  <IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>{PAWN_gender ? Принял : Приняла} лёгкий наркотик</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>
+  <IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>Я {PAWN_gender ? принял : приняла} лёгкий наркотик. Это противоречит моим убеждениям!</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>
+  <IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>принят лёгкий наркотик</IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>
+  <IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.labelSocial>{OTHERPAWN_gender ? Принял : Приняла} лёгкий наркотик</IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.labelSocial>
+</LanguageData>

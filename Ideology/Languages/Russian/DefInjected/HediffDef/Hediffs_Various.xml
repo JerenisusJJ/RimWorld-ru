@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BiosculptingSickness.label>биоскульптурное заболевание</BiosculptingSickness.label>
+  <BiosculptingSickness.description>Последствия незавершённого цикла биоскульптинга, проявляющиеся в тошноте, головокружении и спутанном сознании.</BiosculptingSickness.description>
+  <Blindfold.label>повязка на глазах</Blindfold.label>
+  <Blindfold.description>Этот человек ничего не видит из-за повязки.</Blindfold.description>
+  <NeuralSupercharge.label>нейростимуляция</NeuralSupercharge.label>
+  <NeuralSupercharge.description>Искусственно вызванный скачок мозговой активности. Улучшены сознание и скорость обучения, повышен аппетит.</NeuralSupercharge.description>
+  <TortureCrown.label>пыточная корона</TortureCrown.label>
+  <TortureCrown.description>Похожий на корону головной убор, который неприятно утыкается шипами в голову. Предназначен для того, чтобы причинять носящему боль.</TortureCrown.description>
+  <WorkFocus.label>рабочий запал</WorkFocus.label>
+  <WorkFocus.description>Этот человек получил заряд энтузиазма в ходе ритуала или другого события, в котором принимал участие. Какое-то время он будет работать усерднее.</WorkFocus.description>
+</LanguageData>

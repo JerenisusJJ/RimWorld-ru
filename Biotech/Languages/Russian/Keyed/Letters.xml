@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LetterLabelMechsFeral>Механоиды одичали</LetterLabelMechsFeral>
+  <LetterMechsFeral>Оставшиеся без оператора механоиды поймали древний управляющий сигнал и присоединились к {replace: {0}; «Рой механоидов»-«Рою механоидов»}. Они хотят покинуть поселение и присоединиться к другим механоидам.\n\nЭтих механоидов невозможно воскресить через гестацию после убийства.\n\nСбежавшие механоиды:\n\n{1}</LetterMechsFeral>
+  <LetterLabelMechlinkInstalled>Мехлинк установлен</LetterLabelMechlinkInstalled>
+  <LetterMechlinkInstalled>{PAWN_labelShort} {PAWN_gender ? установил : установила : установило} мехлинк! {PAWN_pronoun} теперь механитор и может создавать механоидов, а также управлять ими.\n\nДля начала исследуйте базовые технологии механоидов.\n\n(*SectionTitle)Создание механоидов:(/SectionTitle) ваш механитор может создавать механоидов с помощью гестатора механоидов.\n\n(*SectionTitle)Пропускная способность:(/SectionTitle) механитор может контролировать столько механоидов, сколько позволяет его пропускная способность. Выбрав {PAWN_labelShort}, вы сможете увидеть {PAWN_possessive} доступную и используемую пропускную способность. Это значение может быть увеличено с помощью особого снаряжения и постройки специальных сооружений.\n\n(*SectionTitle)Группы механоидов:(/SectionTitle) механиторы могут управлять несколькими группами механоидов одновременно. Каждая группа может функционировать в одном из следующих режимов:\n\n- Работа\n- Сопровождение\n- Подзарядка\n- Режим сна\n\nУзнать больше о каждом из них вы можете из всплывающих подсказок в списке, открывающемся по нажатию кнопки выбора режима любой из групп, управляемых {PAWN_labelShort}. Максимальное количество групп может быть увеличено с помощью особого снаряжения или имплантов.\n\n(*SectionTitle)Призыв механоидов:(/SectionTitle) механиторы могут призывать древних механоидов, чтобы, сражая их в бою, получать редкие предметы, расширяющие возможности контроля механоидов. Будьте осторожны, призванные механитором противники представляют серьёзную угрозу.</LetterMechlinkInstalled>
+  <MentalStateReason_Gene>Это произошло из-за</MentalStateReason_Gene>
+  <LetterLabelBossgroupSummoned>Призыв {lookup: {0}; Case; 1}</LetterLabelBossgroupSummoned>
+  <LetterBossgroupSummoned>Поймав посланный вашим механитором сигнал, сверхтяжёлый механоид из {replace: {0}; «Рой механоидов»-«Роя механоидов»} решил атаковать ваше поселение. Приготовьтесь.</LetterBossgroupSummoned>
+  <LetterLabelBossgroupArrived>Прибытие {lookup: {0}; Case; 1}</LetterLabelBossgroupArrived>
+  <LetterBossgroupArrived>Сверхтяжёлый механоид из {replace: {0}; «Рой механоидов»-«Роя механоидов»} прибыл вместе со своей охраной, чтобы уничтожить вас.\n\n{1}\n\nГруппа состоит из следующих {lookup: {3}; Case; 1}:\n\n{4}\n\nУ них уйдёт какое-то время на подготовку перед атакой.</LetterBossgroupArrived>
+  <LetterLabelCommsConsoleSpawned>Доступен призыв {lookup: {LEADER_label}; Case; 1}</LetterLabelCommsConsoleSpawned>
+  <LetterCommsConsoleSpawned>Механитор может призвать {lookup: {LEADER_label}; Case; 3}, враждебного механоида, с помощью {lookup: {PARENT_label}; Case; 1}. Приготовьтесь — этот механоид очень опасен.\n\nЕсли вы сумеете одолеть {lookup: {LEADER_label}; Case; 3}, то получите следующие предметы:\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
+  <LetterLabelBossgroupCallerUnlocked>Доступен призыв {lookup: {LEADER_label}; Case; 1}</LetterLabelBossgroupCallerUnlocked>
+  <LetterBossgroupCallerUnlocked>Теперь вы можете построить {lookup: {PARENT_label}; Case; 3}, с помощью которой ваш механитор сможет призвать {lookup: {LEADER_label}; Case; 3}. Если вы сумеете одолеть {lookup: {LEADER_label}; Case; 3}, то получите следующие предметы:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
+  <LetterLabelMechanitorCasketOpened>Обнаружен мехлинк {PAWN_nameDef}</LetterLabelMechanitorCasketOpened>
+  <LetterMechanitorCasketOpened>Вы обнаружили тело древнего механитора, {PAWN_nameDef}!\n\nЧтобы извлечь {PAWN_possessive} мехлинк, выберите поселенца и нажмите правой кнопкой мыши на труп механитора.</LetterMechanitorCasketOpened>
+  <LetterLabelMechanitorCasketFound>Найден саркофаг механитора</LetterLabelMechanitorCasketFound>
+  <LetterMechanitorCasketFound>Вы нашли саркофаг криптосна механитора!\n\nОткройте саркофаг, чтобы узнать, что находится внутри.</LetterMechanitorCasketFound>
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>Ваш караван потерян. Эти люди, животные и механоиды потеряны вместе с ним</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>Эти люди, животные и механоиды оставлены на произвол судьбы</LetterPawnsLostIncMechsBecauseMapClosed_Home>
+  <LetterLabelBecameChild>{0_nameDef} становится ребёнком</LetterLabelBecameChild>
+  <LetterLabelBecameAdult>{0_nameDef} становится {0_gender ? взрослым : взрослой : взрослым}</LetterLabelBecameAdult>
+  <LetterBecameChild>{0_nameDef} {0_gender ? вырос : выросла : вырос} из младенческого возраста! Теперь {0_objective} доступны следующие виды работ:</LetterBecameChild>
+  <LetterBecameChildChanges>Дети могут заниматься разными видами работ. Чем старше они становятся, тем более сложные виды работ могут выполнять.\n\nДетям присущи свои особые виды развлечений.\n\nДетям нужна соответствующая их размерам детская одежда.</LetterBecameChildChanges>
+  <LetterChildLegalStatus>По традиции {0_nameDef} является {lookup: {0_legalStatus}; Case; 4}, так же как и {0_possessive} {0_parentage}. Но это можно изменить…</LetterChildLegalStatus>
+  <LetterChildFollowIdeo>{0_labelShort} принимает идеолигию {1_name}.</LetterChildFollowIdeo>
+  <CannotChangeChildStatusReason>{0_nameDef} в рабстве с момента {0_possessive} рождения.</CannotChangeChildStatusReason>
+  <Enslave>обратить в рабство</Enslave>
+  <Emancipate>освободить</Emancipate>
+  <RemainX>оставить {lookup: {0}; Case; 4}</RemainX>
+  <LetterLabelAdopted>{BABY_nameDef} {BABY_gender ? принят : принята : принят} в поселение</LetterLabelAdopted>
+  <LetterTextAdopted>{BABY_nameDef} становится младенцем вашего поселения. Вы можете назначить поселенцам работу няни, чтобы они заботились о {BABY_gender ? нём : ней : нём}.</LetterTextAdopted>
+  <LetterLabelThirdTrimester>{0_nameDef} скоро родит</LetterLabelThirdTrimester>
+  <LetterTextThirdTrimester>До родов {0_nameDef} осталось меньше 6 дней. Вы можете подготовиться к этому событию:\n\n- Постройте родильную комнату с чистым полом и хорошей кроватью.\n- Найдите опытного доктора.\n- Во вкладке «Работа» назначьте как минимум одному поселенцу работу няни.\n- Запасите еду для младенцев, например детское питание, молоко или желе насекомых. Также {0_nameDef} сможет кормить грудью.\n- Постройте люльку. Чем выше качество люльки, тем счастливее будет младенец.\n\nДетское питание можно приготовить на плите или костре.</LetterTextThirdTrimester>
+  <LetterVatBirth>Выращен {0}</LetterVatBirth>
+  <LetterVatHealthyBaby>Эмбрион от {0_nameDef} и {1_nameDef} вырос в инкубаторе и стал здоровым младенцем!</LetterVatHealthyBaby>
+  <LetterVatHealthyBabyNoParents>Эмбрион вырос в инкубаторе и стал здоровым младенцем!</LetterVatHealthyBabyNoParents>
+  <LetterVatInfantIllness>Эмбрион от {0_nameDef} и {1_nameDef} вырос в инкубаторе и стал младенцем. К сожалению, больным.</LetterVatInfantIllness>
+  <LetterVatInfantIllnessNoParents>Эмбрион вырос в инкубаторе и стал младенцем. К сожалению, больным.</LetterVatInfantIllnessNoParents>
+  <LetterVatStillborn>Младенец, сформировавшийся из эмбриона от {0_nameDef} и {1_nameDef}, мёртв.</LetterVatStillborn>
+  <LetterVatSillbornNoParents>Младенец, сформировавшийся из эмбриона, мёртв.</LetterVatSillbornNoParents>
+  <LetterColonistPregnancyLaborLabel>У {0_labelShort} начались схватки!</LetterColonistPregnancyLaborLabel>
+  <LetterColonistPregnancyLabor>{0_labelShort} скоро родит! На протяжении нескольких часов, вплоть до рождения младенца, у неё будут происходить схватки. Роды проходят в несколько этапов разной степени сложности и опасности.\n\nЧтобы повысить шансы на рождение ребёнка, приведите врача и других людей, которые помогут с родами. Для этого выберите {0_labelShort} и нажмите «Собраться на роды».</LetterColonistPregnancyLabor>
+  <LetterPartColonistDiedAfterChildbirth>{0_labelShort} умерла из-за осложнений после родов.</LetterPartColonistDiedAfterChildbirth>
+  <LetterPartSurrogacy>Младенец, выношенный суррогатной матерью, имеет смешанные гены от {0_labelShort} и {1_labelShort}.</LetterPartSurrogacy>
+  <InbredBabyBorn>У младенца есть признаки генетических отклонений из-за близкой родственной связи между родителями.</InbredBabyBorn>
+  <BabyAlreadyNamed>У {0_nameDef} уже есть имя.</BabyAlreadyNamed>
+  <NameBaby>дать младенцу имя</NameBaby>
+  <Immediately>сразу</Immediately>
+  <Within>внутри</Within>
+  <LetterPartTempBabyName>Младенца назвали {0_nameFull}.</LetterPartTempBabyName>
+  <LetterPartLiveBirthNameDeadline>Вы можете изменить его имя, пока ему не исполнился {0}.</LetterPartLiveBirthNameDeadline>
+  <LetterPartStillbirthNameDeadline>Вы можете изменить это имя.</LetterPartStillbirthNameDeadline>
+  <LetterPartNameBabyAdopt>Младенца зовут {0_nameFull}. Вы можете изменить {0_possessive} имя, пока {0_objective} не исполнился {1}.</LetterPartNameBabyAdopt>
+  <BirthdayGrowthMoment>{PAWNNAME} {0_gender ? повзрослел : повзрослела : повзрослело}</BirthdayGrowthMoment>
+  <BirthdayBiologicalGrowthMoment>{0_nameFull} {0_gender ? достиг : достигла : достиг} {1} лет и {0_gender ? перешёл : перешла : перешёло} на следующий этап взросления.</BirthdayBiologicalGrowthMoment>
+  <BirthdayBiologicalAgeWorkTypes>{0_nameDef} теперь достаточно {0_gender ? взрослый : взрослая : взрослое}, чтобы заниматься следующей работой</BirthdayBiologicalAgeWorkTypes>
+  <BirthdayPickPassion>Выберите 1 навык, к которому у {0_nameDef} будет повышенный интерес</BirthdayPickPassion>
+  <BirthdayPickPassions>Выберите {1_numCase ? навык : навыка : навыков}, к которым у {0_nameDef} будет повышенный интерес</BirthdayPickPassions>
+  <BirthdayPickTrait>Выберите новую черту характера для {0_nameDef}</BirthdayPickTrait>
+  <BirthdayGrowthTier>При переходе на следующий этап взросления у {0_nameDef} был {1} уровень развития. Чем выше это значение, тем больше новых черт характера ребёнок может выработать и к большему числу навыков проявить интерес. Удовлетворение потребности ребёнка в обучении ускоряет повышение уровня его развития. На каждом новом этапе взросления отсчёт уровня развития начинается с нуля.</BirthdayGrowthTier>
+  <BirthdayChooseHowPawnWillGrow>Откройте это сообщение, чтобы выбрать, как {0_nameDef} будет развиваться.</BirthdayChooseHowPawnWillGrow>
+  <BirthdayPassionArchive>Интерес повысился к следующим навыкам: {0}.</BirthdayPassionArchive>
+  <BirthdayTraitArchive>Получена черта характера: {0}.</BirthdayTraitArchive>
+  <BirthdayNoTraitChoice>Без черты характера</BirthdayNoTraitChoice>
+  <BirthdayNoTraitChoiceTooltip>{0} не получит новую черту характера.</BirthdayNoTraitChoiceTooltip>
+  <BirthdayMakeChoices>Сделайте выбор, чтобы закрыть</BirthdayMakeChoices>
+  <BirthdayNickname>{0} теперь имеет прозвище {1}.</BirthdayNickname>
+  <SelectATrait>Выберите черту характера.</SelectATrait>
+  <SelectPassionSingular>Выберите навык.</SelectPassionSingular>
+  <SelectPassionsPlural>Выберите {0_numCase ? навык : навыка : навыков}.</SelectPassionsPlural>
+  <Later>Отложить</Later>
+  <LetterLabelMechlinkAvailable>Доступен мехлинк</LetterLabelMechlinkAvailable>
+  <LetterMechlinkAvailable>Появилась возможность получить уникальный имплант «Мехлинк» при выполнении задания «{0}».\n\nУстановка мехлинка превратит вашего поселенца в механитора. Механиторы могут создавать механоидов, а также управлять ими.</LetterMechlinkAvailable>
+  <LetterLabelXenogermOrderedImplanted>Назначено вживление ксеносемени</LetterLabelXenogermOrderedImplanted>
+  <LetterXenogermOrderedImplanted>Вы назначили вживление ксеносемени в {PAWN_nameDef}. Для процедуры необходима медицинская кровать и {MEDICINENEEDED} ед. медикаментов.{BEDINFO}{MEDICINEINFO}\n\nЧтобы отменить процедуру, выберите {PAWN_nameDef}, откройте вкладку «Здоровье» и перейдите в раздел «Процедуры».</LetterXenogermOrderedImplanted>
+  <XenogermOrderedImplantedBedNeeded>\n\nУ вас нет доступных медицинских кроватей для {PAWN_nameDef}. Переключите одну из кроватей в медицинский режим.</XenogermOrderedImplantedBedNeeded>
+  <XenogermOrderedImplantedMedicineNeeded>\n\nУ вас недостаточно медикаментов для проведения процедуры вживления ксеносемени. Вживление невозможно, пока у вас не будет {MEDICINENEEDED} ед. медикаментов.</XenogermOrderedImplantedMedicineNeeded>
+  <LetterLabelInvoluntaryDeathrest>Непроизвольный торпор</LetterLabelInvoluntaryDeathrest>
+  <LetterLabelRegenerationComa>Регенеративная кома</LetterLabelRegenerationComa>
+  <LetterTextInvoluntaryDeathrestOrComa>Благодаря гену бессмертия {PAWN_nameDef} избегает смерти. {HEDIFFINFO}</LetterTextInvoluntaryDeathrestOrComa>
+  <LetterTextDeathrest>Но в то же мгновение {PAWN_pronoun} впадает в торпор.</LetterTextDeathrest>
+  <LetterTextRegenerationComa>Но в то же мгновение {PAWN_pronoun} впадает в регенеративную кому.</LetterTextRegenerationComa>
+  <DeathrestLostSkill>В результате нейрошока, вызванного травматическим торпором, {PAWN_nameDef} {PAWN_gender ? потерял : потеряла : потеряло} {XPLOSS_numCase ? единицу : единицы : единиц} опыта в навыке {lookup: {SKILL}; Case; 1}.</DeathrestLostSkill>
+  <DeathrestLethalDamage>Получен смертельный урон.</DeathrestLethalDamage>
+  <LetterLabelSanguophageWaitingToReimplant>Вживление ксеносемени</LetterLabelSanguophageWaitingToReimplant>
+  <LetterTextSanguophageWaitingToReimplant>В благодарность за то, что позволили {PAWN_objective} и {PAWN_possessive} собратьям-гемофагам встретиться здесь, {PAWN_nameDef} {PAWN_gender ? готов : готова : готов} поделиться своими генами с одним из ваших поселенцев, что обратит того в гемофага.\n\nЧтобы принять {PAWN_possessive} предложение, выберите поселенца и нажмите правой кнопкой мыши на {PAWN_nameDef}.\n\n{PAWN_nameDef} даёт вам {DURATION} на раздумья. По истечении этого времени гемофаги покинут это место.</LetterTextSanguophageWaitingToReimplant>
+  <LetterLabelGenesImplanted>Гены вживлены</LetterLabelGenesImplanted>
+  <LetterTextGenesImplanted>{CASTER_nameDef} вживила копию своего ксеносемени в {TARGET_nameDef}, передав {TARGET_gender ? тому : той : тому} всё свои ксеногены.\n\n{TARGET_nameDef} пробудет в ксенокоме {COMADURATION}, пока {TARGET_possessive} тело не примет новые гены, а {CASTER_nameDef} следующие {SHOCKDURATION} будет страдать от генетического шока.\n\nГенетический материал {CASTER_nameDef} также должен полностью восстановиться, на что уйдёт продолжительное время. Пока процесс генетической регенерации не завершится, попытка повторного вживления своих генов приведёт к смерти {CASTER_nameDef}.</LetterTextGenesImplanted>
+  <RefugeePodCrashBaby>Младенец по имени {PAWN_nameDef} из фракции {PAWN_factionName} падает в транспортной капсуле.\n\nВы можете принять {PAWN_possessive} в поселение с помощью команды «Принять» или оставить на произвол судьбы.</RefugeePodCrashBaby>
+  <RefugeePodCrashBabyHasParent>Также в капсуле находится труп одного из {PAWN_possessive} родителей.</RefugeePodCrashBabyHasParent>
+  <LetterPsychicBondCreated>{BONDPAWN_gender ? Ведомый : Ведомая : Ведомое} инстинктом, {BONDPAWN_nameDef} {BONDPAWN_gender ? сформировал : сформировала : сформировало} психическую любовную связь с {OTHERPAWN_nameDef}.\n\nПсихическое состояние {OTHERPAWN_nameDef} улучшается из-за связи с {BONDPAWN_nameDef}, но если они окажутся на разных клетках мира, то оба начнут страдать от психического стресса. Если один из них умрёт, то другой обезумеет.</LetterPsychicBondCreated>
+  <LetterPsychicBondCreatedLovinLabel>Психическая связь</LetterPsychicBondCreatedLovinLabel>
+  <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef} {BONDPAWN_gender ? сформировал : сформировала : сформировало} психическую любовную связь с {OTHERPAWN_nameDef}.\n\nПсихическое состояние {OTHERPAWN_nameDef} улучшается из-за связи с {BONDPAWN_nameDef}, но если они окажутся на разных клетках мира, то оба начнут страдать от психического стресса. Если один из них умрёт, то другой обезумеет.</LetterPsychicBondCreatedLovinText>
+</LanguageData>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <IdeoligionForbids>Идеолигия запрещает</IdeoligionForbids>
+  <OnlyMembersCanBuild>Строить могут только {0}</OnlyMembersCanBuild>
+  <CantStartRitualAlreadyInProgress>{0} уже в процессе.</CantStartRitualAlreadyInProgress>
+  <CantStartRitualLayer>{RITUAL} нельзя провести {GERUND} {lookup: {LAYER}; Case; 5}.</CantStartRitualLayer>
+  <CantJoinRitualInExtremeWeather>Как минимум один участник не может присоединиться из-за экстремальных температурных условий.</CantJoinRitualInExtremeWeather>
+  <CantStartRitualTargetIsAlreadyInRitual>{0} уже участвует в ритуале.</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualRoleNotAssigned>Вы должны назначить кого-нибудь на роль {0}, чтобы начать ритуал.</CantStartRitualRoleNotAssigned>
+  <CantStartRitualNoConvertee>Некого обращать в {0}. Для этого необходим поселенец, пленник или раб, принадлежащие другой идеолигии.</CantStartRitualNoConvertee>
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} не может занимать роль {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} должен быть {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} психологически {PAWN_gender ? глух : глуха : глух}.</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <CantStartNotEnoughSpaceDuelSpectators>Не хватает места для зрителей. Необходима круглая область с минимальным радиусом {MINRADIUS} и хотя бы с {1_numCase ? стоячим местом : стоячими местами : стоячими местами}.</CantStartNotEnoughSpaceDuelSpectators>
+  <CantStartNotEnoughSpaceDuelDuelists>Не хватает места для дуэлянтов. Необходима круглая область с минимальным радиусом {MINRADIUS} и хотя бы с {1_numCase ? стоячим местом : стоячими местами : стоячими местами}.</CantStartNotEnoughSpaceDuelDuelists>
+  <CantStartNotEnoughSpaceDuelSpeaker>Не хватает места для оратора. Необходима круглая область с минимальным радиусом {MINRADIUS}.</CantStartNotEnoughSpaceDuelSpeaker>
+  <CantStartFuneralForSlave>{0_labelShort} — {0_gender ? раб : рабыня : раб}. Рабам не полагаются похороны.</CantStartFuneralForSlave>
+  <NoSlaveBed>Необходима доступная свободная кровать для рабов в месте с безопасной температурой.</NoSlaveBed>
+  <ReturnToSlaveBed>Вернуть к кровати для рабов</ReturnToSlaveBed>
+  <NotAllowedForFaction>не разрешено для фракции</NotAllowedForFaction>
+  <RemovePrecept>Убрать принцип</RemovePrecept>
+  <Regenerate>Сгенерировать заново</Regenerate>
+  <CannotEdit>Невозможно редактировать</CannotEdit>
+  <NoChoicesAvailable>Не из чего выбирать</NoChoicesAvailable>
+  <RequiredByMeme>Требуется чертой {0}</RequiredByMeme>
+  <Required>Требуется</Required>
+  <StyleCategory>Категория стиля</StyleCategory>
+  <AddStyleCategory>Добавить категорию стиля</AddStyleCategory>
+  <MaxRitualCount>Невозможно добавить больше {0_numCase ? ритуала : ритуалов : ритуалов}.</MaxRitualCount>
+  <MaxRelicCount>Невозможно добавить больше {0_numCase ? реликвии : реликвий : реликвий}.</MaxRelicCount>
+  <MaxMultiRolesCount>нельзя иметь больше {0_numCase ? специалиста : специалистов : специалистов}.</MaxMultiRolesCount>
+  <MaxPreceptCount>максимум {0}</MaxPreceptCount>
+  <SetTargetGender>Задать пол</SetTargetGender>
+  <RoleApparelRequirementIncompatibleFaction>должно принадлежать {0} фракции</RoleApparelRequirementIncompatibleFaction>
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>аборигенской</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>не аборигенской</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>требует хотя бы одну из черт</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <BodyPartAlreadyCovered>невозможно носить с назначенной одеждой</BodyPartAlreadyCovered>
+  <NoteRoleApparelRequirementEffects>Поселенцы радуются, когда их потребности в одежде исполняются и расстраиваются, когда нет.</NoteRoleApparelRequirementEffects>
+  <NeuralSuperchargeNotReady>нейронный стимулятор не готов</NeuralSuperchargeNotReady>
+  <NeuralSuperchargeAlreadyGetting>в процессе</NeuralSuperchargeAlreadyGetting>
+  <SetApparelType>Задать тип</SetApparelType>
+  <ChangeStyle>изменить стиль</ChangeStyle>
+  <DeitiesRequired>требуется {0} {DEITYNOUN}</DeitiesRequired>
+  <Deity>божество</Deity>
+  <RequiresMeme>необходима черта</RequiresMeme>
+  <RequiresOneOfMemes>необходима одна из черт</RequiresOneOfMemes>
+  <ConflictsWithMeme>несовместимо с чертой</ConflictsWithMeme>
+  <ConflictsWithMemes>несовместимо с чертами:</ConflictsWithMemes>
+  <IdeoAlreadyHasAltar>допускается только один алтарь/идеограмма</IdeoAlreadyHasAltar>
+  <RecolorApparel>перекрасить одежду</RecolorApparel>
+  <InstallRelic>Установить реликвию «{0}»</InstallRelic>
+  <ExtractRelic>Извлечь реликвию «{0}»</ExtractRelic>
+  <ExtractRelicToInventory>Извлечь реликвию «{0}» в инвентарь ({1})</ExtractRelicToInventory>
+  <NoRelicToInstall>Нет реликвий для установки</NoRelicToInstall>
+  <InstallInReliquary>Установить в реликварий</InstallInReliquary>
+  <NoEmptyReliquary>нет доступного пустого реликвария</NoEmptyReliquary>
+  <NoWardenOfIdeo>Отсутствует надзиратель-{MEMBERNAME}</NoWardenOfIdeo>
+  <RemoveCurrentRole>Убрать текущую роль</RemoveCurrentRole>
+  <EnterBiosculpterPod>Войти в биоскульптор для цикла {lookup: {0}; Case; 1} ({1})</EnterBiosculpterPod>
+  <BiosculpterBiotunedToAnother>Откалиброван для кого-то другого</BiosculpterBiotunedToAnother>
+  <UnderMinBiosculpterAgeReversalAge>Для омоложения нужно быть не младше {0_numCase ? года : лет : лет}.</UnderMinBiosculpterAgeReversalAge>
+  <CarryToBiosculpterPod>Нести {PAWN_labelShort} в биоскульптор ({CYCLE})</CarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>Невозможно нести в биоскульптор</CannotCarryToBiosculpterPod>
+  <NoBiosculpterPod>Нет доступного биоскульптора.</NoBiosculpterPod>
+  <BiosculpterNutritionNotLoaded>Еда не загружена</BiosculpterNutritionNotLoaded>
+  <BiosculpterOccupied>Занято</BiosculpterOccupied>
+  <CannotEnter>Невозможно войти</CannotEnter>
+  <BiosculpterCannotStartCycle>Невозможно начать цикл {lookup: {0}; Case; 1}</BiosculpterCannotStartCycle>
+  <BiosculpterMissingIngredients>Невозможно найти ингредиенты для цикла ({INGREDIENTS})</BiosculpterMissingIngredients>
+  <BiosculpterNoEligiblePawns>Никто не может использовать этот биоскульптор</BiosculpterNoEligiblePawns>
+  <BiosculpterNoEligiblePawnsBiotuned>Откалиброван для {PAWN_labelShort}, а {PAWN_possessive} нет рядом.</BiosculpterNoEligiblePawnsBiotuned>
+  <BiosculpterAutoLoadNutritionLabel>Загружать еду автоматически</BiosculpterAutoLoadNutritionLabel>
+  <BiosculpterAutoLoadNutritionDescription>Разрешить поселенцам самостоятельно загружать еду, требуемую для запуска цикла.</BiosculpterAutoLoadNutritionDescription>
+  <BiosculpterAutoAgeReversalLabel>Омолаживать {PAWN_labelShort} автоматически</BiosculpterAutoAgeReversalLabel>
+  <BiosculpterAutoAgeReversalDescription>Разрешить {PAWN_labelShort} проходить ежегодный цикл омоложения в этом биоскульпторе, в соответствии с {PAWN_possessive} убеждениями. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescriptionFuture>Если опция включена, {PAWN_labelShort} самостоятельно пройдёт свой цикл через {TIME}, если биоскульптор будет готов.</BiosculpterAutoAgeReversalDescriptionFuture>
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} уже планирует своё следующее омоложение и начнёт цикл самостоятельно, если соответствующая опция включена.</BiosculpterAutoAgeReversalDescriptionNow>
+  <BiosculpterJobReportCollectIngredients>собирает ингредиенты для цикла биоскульптора</BiosculpterJobReportCollectIngredients>
+</LanguageData>

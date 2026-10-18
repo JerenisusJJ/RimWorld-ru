@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Beggars.label>попрошайки</Beggars.label>
+  <Beggars.description>Группа попрошаек, ищущих милосердия.</Beggars.description>
+  <Beggars.leaderTitle>лидер</Beggars.leaderTitle>
+  <Beggars.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</Beggars.messageDefendersAttacking>
+  <Beggars.pawnSingular>попрошайка</Beggars.pawnSingular>
+  <Beggars.pawnsPlural>попрошайки</Beggars.pawnsPlural>
+  <CannibalPirate.label>банда пиратов-каннибалов</CannibalPirate.label>
+  <CannibalPirate.description>Конфедерация бандитских шаек, договорившихся нападать на всех остальных вместо того, чтобы воевать друг с другом.\n\nПираты не занимаются земледелием и строительством, и редко торгуют. Ведомые принципами «крови и чести» и превозносящие такие качества, как сила и беспощадность, пираты обогащаются за счёт набегов и грабежей своих более продуктивных соседей.\n\nУровень их технологий зависит по большей части от тех, кого им недавно удалось ограбить. В основном они экипированы огнестрельным оружием, хотя некоторые предпочитают резать своих жертв в ближнем бою.\n\nЭта шайка любит полакомиться человечиной.</CannibalPirate.description>
+  <CannibalPirate.leaderTitle>главарь</CannibalPirate.leaderTitle>
+  <CannibalPirate.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</CannibalPirate.messageDefendersAttacking>
+  <CannibalPirate.pawnSingular>пират</CannibalPirate.pawnSingular>
+  <CannibalPirate.pawnsPlural>пираты</CannibalPirate.pawnsPlural>
+  <NudistTribe.label>племя нудистов</NudistTribe.label>
+  <NudistTribe.description>Эти люди обитают на планете очень давно. Возможно, их предки разбились здесь тысячи лет назад. А может, они пережили катаклизм, который разрушил более развитую цивилизацию. В любом случае, большинство аборигенов ведут кочевой образ жизни, используя примитивное оружие и орудия труда.\n\nНесмотря на очевидную технологическую отсталость, дикари могут быть опасными врагами благодаря своей выносливости, числу и навыкам обращения с примитивным оружием.\n\nЖители этого племени верят, что прикрывать своё тело — это плохо.</NudistTribe.description>
+  <NudistTribe.leaderTitle>вождь</NudistTribe.leaderTitle>
+  <NudistTribe.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</NudistTribe.messageDefendersAttacking>
+  <NudistTribe.pawnSingular>абориген</NudistTribe.pawnSingular>
+  <NudistTribe.pawnsPlural>аборигены</NudistTribe.pawnsPlural>
+  <Pilgrims.label>паломники</Pilgrims.label>
+  <Pilgrims.description>Группа паломников, поклоняющихся древним реликвиям.</Pilgrims.description>
+  <Pilgrims.leaderTitle>лидер</Pilgrims.leaderTitle>
+  <Pilgrims.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</Pilgrims.messageDefendersAttacking>
+  <Pilgrims.pawnSingular>паломник</Pilgrims.pawnSingular>
+  <Pilgrims.pawnsPlural>паломники</Pilgrims.pawnsPlural>
+  <TribeCannibal.label>племя каннибалов</TribeCannibal.label>
+  <TribeCannibal.description>Эти люди обитают на планете очень давно. Возможно, их предки разбились здесь тысячи лет назад. А может, они пережили катаклизм, который разрушил более развитую цивилизацию. В любом случае, большинство аборигенов ведут кочевой образ жизни, используя примитивное оружие и орудия труда.\n\nНесмотря на очевидную технологическую отсталость, дикари могут быть опасными врагами благодаря своей выносливости, числу и навыкам обращения с примитивным оружием.\n\nЭто племя отличается особой беспощадностью. Его воины считают поедание плоти своих врагов особой доблестью.</TribeCannibal.description>
+  <TribeCannibal.leaderTitle>вождь</TribeCannibal.leaderTitle>
+  <TribeCannibal.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</TribeCannibal.messageDefendersAttacking>
+  <TribeCannibal.pawnSingular>абориген</TribeCannibal.pawnSingular>
+  <TribeCannibal.pawnsPlural>аборигены</TribeCannibal.pawnsPlural>
+</LanguageData>

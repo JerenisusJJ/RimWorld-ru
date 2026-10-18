@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AcceptRole.reportString>принимает роль</AcceptRole.reportString>
+  <Dance.reportString>танцует</Dance.reportString>
+  <EatAtCannibalPlatter.reportString>ест с TargetA</EatAtCannibalPlatter.reportString>
+  <GotoAndBeSociallyActive.reportString>социально расслабляется</GotoAndBeSociallyActive.reportString>
+  <PrepareSkylantern.reportString>изготавливает небесный фонарик</PrepareSkylantern.reportString>
+</LanguageData>

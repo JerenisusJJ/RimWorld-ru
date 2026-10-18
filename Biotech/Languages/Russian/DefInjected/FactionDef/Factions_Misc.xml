@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OutlanderRoughPig.label>содружество свинолюдей</OutlanderRoughPig.label>
+  <OutlanderRoughPig.description>Конфедерация поселений суровых свинолюдей. Они готовы дружить, даже с узкорылыми, но если придётся, то с лёгкостью вонзят нож в спину и с удовольствием полакомятся человеческими хрящами. Относитесь к ним с уважением — и они станут надёжными союзниками. Встаньте на их пути — и последним, что вы услышите, будет их победный боевой визг.</OutlanderRoughPig.description>
+  <OutlanderRoughPig.leaderTitle>верховный советник</OutlanderRoughPig.leaderTitle>
+  <OutlanderRoughPig.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</OutlanderRoughPig.messageDefendersAttacking>
+  <OutlanderRoughPig.pawnSingular>свиночеловек</OutlanderRoughPig.pawnSingular>
+  <OutlanderRoughPig.pawnsPlural>свинолюди</OutlanderRoughPig.pawnsPlural>
+  <PirateWaster.label>пираты-мусорщики</PirateWaster.label>
+  <PirateWaster.description>Разрозненное сборище жестоких пиратских банд, состоящих преимущественно из мусорщиков — ксенолюдей, выведенных специально для жизни в условиях ужасного загрязнения. Они не особо интересуются строительством или сельским хозяйством, предпочитая вместо этого отбирать всё необходимое силой у других.\n\nУровень технологий мусорщиков зависит по большей части от тех, кого им недавно удалось ограбить. В основном они экипированы огнестрельным оружием, хотя некоторые предпочитают резать своих жертв в ближнем бою.</PirateWaster.description>
+  <PirateWaster.leaderTitle>главарь</PirateWaster.leaderTitle>
+  <PirateWaster.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</PirateWaster.messageDefendersAttacking>
+  <PirateWaster.pawnSingular>мусорщик</PirateWaster.pawnSingular>
+  <PirateWaster.pawnsPlural>мусорщики</PirateWaster.pawnsPlural>
+  <PirateYttakin.label>пираты-иттакины</PirateYttakin.label>
+  <PirateYttakin.description>Сплочённая группа крупных покрытых мехом пиратов-иттакинов. Они отказываются общаться с чужаками, и не будут лишний раз задумываться, прежде чем с помощью своих грозных воинов устроить налёт на тех, кто их не уважает или обладает «избытком» богатств.\n\nИзначально иттакины были выведены для того, чтобы заселить ледяную планету Иттак, а теперь живут на многих других планетах, сохраняя свой традиционный уклад.</PirateYttakin.description>
+  <PirateYttakin.leaderTitle>главарь</PirateYttakin.leaderTitle>
+  <PirateYttakin.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</PirateYttakin.messageDefendersAttacking>
+  <PirateYttakin.pawnSingular>иттакин</PirateYttakin.pawnSingular>
+  <PirateYttakin.pawnsPlural>иттакины</PirateYttakin.pawnsPlural>
+  <Sanguophages.label>гемофаги</Sanguophages.label>
+  <Sanguophages.description>Группа древних гемофагов.</Sanguophages.description>
+  <Sanguophages.leaderTitle>лидер</Sanguophages.leaderTitle>
+  <Sanguophages.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</Sanguophages.messageDefendersAttacking>
+  <Sanguophages.pawnSingular>гемофаг</Sanguophages.pawnSingular>
+  <Sanguophages.pawnsPlural>гемофаги</Sanguophages.pawnsPlural>
+  <TribeRoughNeanderthal.label>свирепое племя неандертальцев</TribeRoughNeanderthal.label>
+  <TribeRoughNeanderthal.description>Недружелюбное и негостеприимное племя неандертальцев. Они готовы мирно торговать, но очень не любят чужаков на своей земле. Воины этого племени без раздумий проломят череп каждому, кого посчитают опасным. Их численность и способность выдержать огромное количество ранений перед смертью делают неандертальцев серьёзным противником, даже несмотря на ограниченный интеллект и низкий уровень технологического развития.\n\nНа этой планете сменилось бесчисленное количество поколений неандертальцев — они не знают, как здесь оказались. Неандертальцы могут быть потомками обслуживающей касты давно вымершей цивилизации или даже отголосками древнего научного эксперимента.</TribeRoughNeanderthal.description>
+  <TribeRoughNeanderthal.leaderTitle>вождь</TribeRoughNeanderthal.leaderTitle>
+  <TribeRoughNeanderthal.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</TribeRoughNeanderthal.messageDefendersAttacking>
+  <TribeRoughNeanderthal.pawnSingular>неандерталец</TribeRoughNeanderthal.pawnSingular>
+  <TribeRoughNeanderthal.pawnsPlural>неандертальцы</TribeRoughNeanderthal.pawnsPlural>
+  <TribeSavageImpid.label>дикари-импиды</TribeSavageImpid.label>
+  <TribeSavageImpid.description>Коварное племя желтокожих огнедышащих импидов. Это конкретное племя не заинтересовано в мирном совместном проживании с кем-либо. Их воины — мастера быстрых атак, заканчивающихся сожжением поселений и детей чужаков.\n\nЗа тысячи лет, проведённых на этой планете, истоки этого племени давно потеряны, остались только мифы. Они могут быть потомками группы поселенцев, утративших свои технологии или же остатками народа давно погибшей цивилизации.</TribeSavageImpid.description>
+  <TribeSavageImpid.leaderTitle>вождь</TribeSavageImpid.leaderTitle>
+  <TribeSavageImpid.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</TribeSavageImpid.messageDefendersAttacking>
+  <TribeSavageImpid.pawnSingular>импид</TribeSavageImpid.pawnSingular>
+  <TribeSavageImpid.pawnsPlural>импиды</TribeSavageImpid.pawnsPlural>
+</LanguageData>

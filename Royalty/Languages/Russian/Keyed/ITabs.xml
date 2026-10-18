@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RoyalTitleTooltipHasTitle>{PAWN_labelShort} в данный момент носит титул {lookup: {TITLE}; Case; 1}, данный фракцией {FACTION_name}.</RoyalTitleTooltipHasTitle>
+  <RoyalTitleTooltipConceited>{PAWN_labelShort} будет требовать всех привилегий, соответствующих {PAWN_possessive} титулу.</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort} гибко относится к привилегиям, соответствующим {PAWN_possessive} титулу.</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipNextTitle>Следующий титул</RoyalTitleTooltipNextTitle>
+  <RoyalTitleTooltipNextTitleFavorCost>требует {0} ед. {lookup: {FACTION_royalFavorLabel}; Case; 1}</RoyalTitleTooltipNextTitleFavorCost>
+  <RoyalTitleTooltipFinalTitle>Для жителей этой планеты недоступны более высокие титулы.</RoyalTitleTooltipFinalTitle>
+  <RoyalTitleTooltipInheritance>Если {PAWN_nameDef} умрёт, {HEIR_nameFull} унаследует {PAWN_possessive} титул.</RoyalTitleTooltipInheritance>
+  <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull} не принадлежит ни одной фракции.</RoyalTitleTooltipHeirNoFaction>
+  <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull} — член фракции {FACTION_name}.</RoyalTitleTooltipHeirDifferentFaction>
+  <RoyalTitleTooltipNoHeir>Для титула {PAWN_nameDef} не назначено наследника. Если {PAWN_pronoun} умрёт, титул будет потерян.</RoyalTitleTooltipNoHeir>
+  <RoyalTitleTooltipTitlesEarnable>Доступные титулы фракции {FACTION_name}</RoyalTitleTooltipTitlesEarnable>
+  <RoyalTitleTooltipTitlesNonEarnable>Другие титулы фракции {FACTION_name}</RoyalTitleTooltipTitlesNonEarnable>
+  <RoyalTitleTooltipRoyalFavorAmount>{0} ед. {lookup: {1}; Case; 1}</RoyalTitleTooltipRoyalFavorAmount>
+  <RoyalTitleTooltipRoyalFavorTotal>всего {0}</RoyalTitleTooltipRoyalFavorTotal>
+  <RecruitmentResistanceRoyalTitleOffset>титул {lookup: {0}; Case; 1}</RecruitmentResistanceRoyalTitleOffset>
+  <TabPermits>Привилегии</TabPermits>
+  <PermitsFromFaction>Привилегии от фракции {FACTION_name}</PermitsFromFaction>
+  <CurrentTitle>Имеющийся титул</CurrentTitle>
+  <UnusedPermits>Очки привилегий</UnusedPermits>
+  <ReturnAllPermits>Вернуть всё привилегии</ReturnAllPermits>
+  <NoPermitsToReturn>{PAWN_nameDef} не обладает никакими привилегиями.</NoPermitsToReturn>
+  <NotEnoughFavor>Возврат привилегий требует {FAVORCOST} ед. {lookup: {FAVOR}; Case; 1}, а у {PAWN_nameDef} есть только {CURFAVOR}.</NotEnoughFavor>
+  <ReturnAllPermits_Desc>Вернуть всё привилегии, полученные ранее у этой фракции. Вы вернёте себе всё потраченные очки привилегий и сможете вновь их потратить.\n\nЭто потребует {BASEFAVORCOST} ед. {lookup: {FAVOR}; Case; 1}, а также сбросит стоимость для всех привилегий, находящихся в статусе ожидания.\n\nСейчас возврат привилегий будет стоить {FAVORCOST} ед. {lookup: {FAVOR}; Case; 1}.</ReturnAllPermits_Desc>
+  <ReturnAllPermits_Confirm>Вернуть всё привилегии, полученные ранее у фракции {FACTION_name}? Вы вернёте себе всё потраченные очки привилегий и сможете вновь их потратить.\n\nЭто потребует {BASEFAVORCOST} ед. {lookup: {FAVOR}; Case; 1}, а также сбросит стоимость для всех привилегий, находящихся в статусе ожидания.\n\nСейчас возврат привилегий будет стоить {FAVORCOST} ед. {lookup: {FAVOR}; Case; 1}.</ReturnAllPermits_Confirm>
+  <SwitchFaction_Desc>Сменить фракцию</SwitchFaction_Desc>
+  <AcceptPermit>Получить привилегию</AcceptPermit>
+  <RequiresTitle>Требуется титул: {0}</RequiresTitle>
+  <UpgradeFrom>Улучшить с: {0}</UpgradeFrom>
+  <Cooldown>Ожидание</Cooldown>
+  <CooldownUseFavorCost>Требуемая {HONOR} при использовании до окончания времени ожидания</CooldownUseFavorCost>
+</LanguageData>

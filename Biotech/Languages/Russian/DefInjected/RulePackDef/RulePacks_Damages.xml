@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Damage_MechBandShockwave.rulePack.rulesStrings>
+    <li>damaged-&gt;бьёт током</li>
+    <li>damaged-&gt;электризует</li>
+    <li>damaged-&gt;наносит удар током</li>
+    <li>damaged-&gt;бьёт разрядом тока</li>
+    <li>destroyed-&gt;[damaged]</li>
+  </Damage_MechBandShockwave.rulePack.rulesStrings>
+</LanguageData>

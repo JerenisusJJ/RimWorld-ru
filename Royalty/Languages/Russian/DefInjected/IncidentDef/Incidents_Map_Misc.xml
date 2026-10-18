@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MechCluster.label>кластер механоидов</MechCluster.label>
+  <MechCluster.letterLabel>Кластер механоидов</MechCluster.letterLabel>
+  <MechCluster.letterText>Боевой кластер механоидов приземлился поблизости. Изначально он будет в неактивном состоянии, поэтому у вас есть время спланировать атаку.\n\nОн может оставаться неактивным, пока его не потревожат, не сработает таймер или датчик движения.\n\nДаже неактивный кластер представляет угрозу. Он может время от времени собирать атакующих механоидов или наносить вам более серьёзный ущерб иными способами. Уничтожьте его как можно скорее.</MechCluster.letterText>
+  <WandererJoinAbasia.label>пополнение (абазия)</WandererJoinAbasia.label>
+</LanguageData>

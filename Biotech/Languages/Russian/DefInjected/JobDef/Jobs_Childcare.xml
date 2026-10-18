@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BabyPlay.reportString>играет с TargetA</BabyPlay.reportString>
+  <BabySuckle.reportString>кормит TargetA</BabySuckle.reportString>
+  <BottleFeedBaby.reportString>скармливает TargetB TargetA</BottleFeedBaby.reportString>
+  <Breastfeed.reportString>кормит TargetA грудью</Breastfeed.reportString>
+  <BreastfeedCarryToMom.reportString>несёт TargetA к TargetB</BreastfeedCarryToMom.reportString>
+  <BringBabyToSafety.reportString>несёт TargetA в безопасное место</BringBabyToSafety.reportString>
+  <BringBabyToSafetyUnforced.reportString>несёт TargetA в безопасное место</BringBabyToSafetyUnforced.reportString>
+  <CarryToMomAfterBirth.reportString>несёт TargetA к TargetB</CarryToMomAfterBirth.reportString>
+  <FertilizeOvum.reportString>оплодотворяет TargetA</FertilizeOvum.reportString>
+</LanguageData>

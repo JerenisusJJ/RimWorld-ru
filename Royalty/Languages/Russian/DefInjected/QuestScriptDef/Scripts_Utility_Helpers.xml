@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+    <li>helpersParagraph(helpersCount==0)-&gt;</li>
+    <li>helpersParagraph(helpersCount==1)-&gt;\n\nПод ваш контроль будет передан [helperKind_label]. Вы будете должны расквартировать его, но он может погибнуть в бою без каких-либо последствий для вас.\n\n</li>
+    <li>helpersParagraph(helpersCount&gt;=2)-&gt;\n\nПод ваш контроль будут переданы [helperKind_labelPlural] в количестве [helpersCount] человек. Вы будете должны расквартировать их, но они могут погибнуть в бою без каких-либо последствий для вас.\n\n</li>
+    <li>helpersArrivalLetterEnd(helpersCount==0)-&gt;</li>
+    <li>helpersArrivalLetterEnd(helpersCount==1)-&gt;\n\n[helpersLabelSingOrPlural] [helpersDeparted] к вам на помощь.</li>
+    <li>helpersArrivalLetterEnd(helpersCount&gt;=2)-&gt;\n\n[helpersCount] [helpersLabelSingOrPlural] [helpersDeparted] к вам на помощь.</li>
+    <li>helpersLabelSingOrPlural(helpersCount==1)-&gt;[helperKind_label]</li>
+    <li>helpersLabelSingOrPlural(helpersCount&gt;=2)-&gt;[helperKind_labelPlural]</li>
+    <li>helpersDeparted(helpersCount==1)-&gt;отправился</li>
+    <li>helpersDeparted(helpersCount&gt;=2)-&gt;отправились</li>
+    <li>helpersArrived(helpersCount==1)-&gt;прибыл</li>
+    <li>helpersArrived(helpersCount&gt;=2)-&gt;прибыли</li>
+    <li>helpersSent(helpersCount==1)-&gt;отправленный</li>
+    <li>helpersSent(helpersCount&gt;=2)-&gt;отправленные</li>
+    <li>helpersLeaving(helpersCount==1)-&gt;уходит</li>
+    <li>helpersLeaving(helpersCount&gt;=2)-&gt;уходят</li>
+    <li>helpersSpent(helpersCount==1)-&gt;провёл</li>
+    <li>helpersSpent(helpersCount&gt;=2)-&gt;провели</li>
+  </Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+  <Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>[helpersLabelSingOrPlural] [helpersArrived]</Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>
+  <Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>[helpersLabelSingOrPlural], [helpersSent] [asker_nameDef], [helpersArrived], чтобы помочь в выполнении задания '[resolvedQuestName]'.</Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>
+  <Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>подмогу</Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>
+  <Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>[helpersLabelSingOrPlural] [helpersLeaving]</Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>
+  <Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>[helpersLabelSingOrPlural], [helpersSent] [asker_nameDef], чтобы помочь вам с заданием, [helpersSpent] у вас слишком много времени и теперь [helpersLeaving].</Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>
+</LanguageData>

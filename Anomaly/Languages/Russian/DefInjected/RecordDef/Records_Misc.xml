@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <KillsEntities.label>убито тварей</KillsEntities.label>
+  <KillsEntities.description>Число убитых мной тварей.</KillsEntities.description>
+  <PawnsDownedEntities.label>обездвижено тварей</PawnsDownedEntities.label>
+  <PawnsDownedEntities.description>Число обездвиженных мной тварей.</PawnsDownedEntities.description>
+</LanguageData>

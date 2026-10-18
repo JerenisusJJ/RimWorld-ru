@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimalDig.headerTip>Копать</AnimalDig.headerTip>
+  <AnimalForage.headerTip>Собирать корм</AnimalForage.headerTip>
+  <SpecialTrainable.headerTip>Особая дрессировка\n\nВключает любые необычные поведения, которым это животное можно обучить.</SpecialTrainable.headerTip>
+</LanguageData>

@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Body_Fat.label>полное телосложение</Body_Fat.label>
+  <Body_Fat.description>Носители этого могут быть грузными и тучными. Человек может иметь несколько генов телосложения — доминантным будет только один.</Body_Fat.description>
+  <Body_Fat.symbolPack.prefixSymbols.0.symbol>жиро</Body_Fat.symbolPack.prefixSymbols.0.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.1.symbol>сало</Body_Fat.symbolPack.prefixSymbols.1.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.2.symbol>пузо</Body_Fat.symbolPack.prefixSymbols.2.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.3.symbol>тучно</Body_Fat.symbolPack.prefixSymbols.3.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.4.symbol>дородо</Body_Fat.symbolPack.prefixSymbols.4.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.5.symbol>толсто</Body_Fat.symbolPack.prefixSymbols.5.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.6.symbol>тяже</Body_Fat.symbolPack.prefixSymbols.6.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.7.symbol>брюхо</Body_Fat.symbolPack.prefixSymbols.7.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.8.symbol>свинтусо</Body_Fat.symbolPack.prefixSymbols.8.symbol>
+  <Body_Fat.symbolPack.suffixSymbols.0.symbol>бас</Body_Fat.symbolPack.suffixSymbols.0.symbol>
+  <Body_Fat.symbolPack.suffixSymbols.1.symbol>пуз</Body_Fat.symbolPack.suffixSymbols.1.symbol>
+  <Body_Fat.symbolPack.suffixSymbols.2.symbol>жир</Body_Fat.symbolPack.suffixSymbols.2.symbol>
+  <Body_Fat.symbolPack.suffixSymbols.3.symbol>шар</Body_Fat.symbolPack.suffixSymbols.3.symbol>
+  <Body_Hulk.label>крупное телосложение</Body_Hulk.label>
+  <Body_Hulk.description>Носители этого гена могут быть крупными и мускулистыми. Человек может иметь несколько генов телосложения — доминантным будет только один.</Body_Hulk.description>
+  <Body_Hulk.symbolPack.prefixSymbols.0.symbol>качко</Body_Hulk.symbolPack.prefixSymbols.0.symbol>
+  <Body_Hulk.symbolPack.prefixSymbols.1.symbol>больше</Body_Hulk.symbolPack.prefixSymbols.1.symbol>
+  <Body_Hulk.symbolPack.prefixSymbols.2.symbol>бице</Body_Hulk.symbolPack.prefixSymbols.2.symbol>
+  <Body_Hulk.symbolPack.prefixSymbols.3.symbol>крупно</Body_Hulk.symbolPack.prefixSymbols.3.symbol>
+  <Body_Hulk.symbolPack.suffixSymbols.0.symbol>мускул</Body_Hulk.symbolPack.suffixSymbols.0.symbol>
+  <Body_Hulk.symbolPack.suffixSymbols.1.symbol>здоровяк</Body_Hulk.symbolPack.suffixSymbols.1.symbol>
+  <Body_Standard.label>обычное телосложение</Body_Standard.label>
+  <Body_Standard.description>Носители этого гена обладают могут обладать среднестатистическим телосложением. Человек может иметь несколько генов телосложения — доминантным будет только один.</Body_Standard.description>
+  <Body_Thin.label>худощавое телосложение</Body_Thin.label>
+  <Body_Thin.description>Носители этого гена могут быть худощавыми. Человек может иметь несколько генов телосложения — доминантным будет только один.</Body_Thin.description>
+  <Body_Thin.symbolPack.prefixSymbols.0.symbol>тонко</Body_Thin.symbolPack.prefixSymbols.0.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.1.symbol>узко</Body_Thin.symbolPack.prefixSymbols.1.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.2.symbol>косто</Body_Thin.symbolPack.prefixSymbols.2.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.3.symbol>дрище</Body_Thin.symbolPack.prefixSymbols.3.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.4.symbol>сухо</Body_Thin.symbolPack.prefixSymbols.4.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.5.symbol>спичко</Body_Thin.symbolPack.prefixSymbols.5.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.6.symbol>палко</Body_Thin.symbolPack.prefixSymbols.6.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.7.symbol>жерде</Body_Thin.symbolPack.prefixSymbols.7.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.8.symbol>плюго</Body_Thin.symbolPack.prefixSymbols.8.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.9.symbol>тоще</Body_Thin.symbolPack.prefixSymbols.9.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.10.symbol>худо</Body_Thin.symbolPack.prefixSymbols.10.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.11.symbol>мелко</Body_Thin.symbolPack.prefixSymbols.11.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.0.symbol>палка</Body_Thin.symbolPack.suffixSymbols.0.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.1.symbol>скелет</Body_Thin.symbolPack.suffixSymbols.1.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.2.symbol>жердь</Body_Thin.symbolPack.suffixSymbols.2.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.3.symbol>дрищ</Body_Thin.symbolPack.suffixSymbols.3.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.4.symbol>спичка</Body_Thin.symbolPack.suffixSymbols.4.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.5.symbol>кащей</Body_Thin.symbolPack.suffixSymbols.5.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.6.symbol>кость</Body_Thin.symbolPack.suffixSymbols.6.symbol>
+  <Ears_Cat.label>кошачьи уши</Ears_Cat.label>
+  <Ears_Cat.description>Носители этого гена обладают кошачьими ушами.</Ears_Cat.description>
+  <Ears_Cat.symbolPack.prefixSymbols.0.symbol>кото</Ears_Cat.symbolPack.prefixSymbols.0.symbol>
+  <Ears_Cat.symbolPack.prefixSymbols.1.symbol>кошко</Ears_Cat.symbolPack.prefixSymbols.1.symbol>
+  <Ears_Cat.symbolPack.prefixSymbols.2.symbol>кисо</Ears_Cat.symbolPack.prefixSymbols.2.symbol>
+  <Ears_Cat.symbolPack.prefixSymbols.3.symbol>мур</Ears_Cat.symbolPack.prefixSymbols.3.symbol>
+  <Ears_Cat.symbolPack.prefixSymbols.4.symbol>мяу</Ears_Cat.symbolPack.prefixSymbols.4.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.0.symbol>мяу</Ears_Cat.symbolPack.suffixSymbols.0.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.1.symbol>котик</Ears_Cat.symbolPack.suffixSymbols.1.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.2.symbol>мур</Ears_Cat.symbolPack.suffixSymbols.2.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.3.symbol>кисик</Ears_Cat.symbolPack.suffixSymbols.3.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.4.symbol>ушко</Ears_Cat.symbolPack.suffixSymbols.4.symbol>
+  <Ears_Floppy.label>длинные уши</Ears_Floppy.label>
+  <Ears_Floppy.description>Носители этого гена обладают длинными, как у гончих, ушами.</Ears_Floppy.description>
+  <Ears_Floppy.symbolPack.prefixSymbols.0.symbol>лопо</Ears_Floppy.symbolPack.prefixSymbols.0.symbol>
+  <Ears_Floppy.symbolPack.prefixSymbols.1.symbol>лайко</Ears_Floppy.symbolPack.prefixSymbols.1.symbol>
+  <Ears_Floppy.symbolPack.prefixSymbols.2.symbol>собако</Ears_Floppy.symbolPack.prefixSymbols.2.symbol>
+  <Ears_Floppy.symbolPack.prefixSymbols.3.symbol>гонче</Ears_Floppy.symbolPack.prefixSymbols.3.symbol>
+  <Ears_Floppy.symbolPack.prefixSymbols.4.symbol>мосько</Ears_Floppy.symbolPack.prefixSymbols.4.symbol>
+  <Ears_Floppy.symbolPack.suffixSymbols.0.symbol>пёс</Ears_Floppy.symbolPack.suffixSymbols.0.symbol>
+  <Ears_Floppy.symbolPack.suffixSymbols.1.symbol>ухо</Ears_Floppy.symbolPack.suffixSymbols.1.symbol>
+  <Ears_Human.label>человеческие уши</Ears_Human.label>
+  <Ears_Human.description>Носители этого гена обладают обычными человеческими ушами.</Ears_Human.description>
+  <Ears_Pig.label>свиные уши</Ears_Pig.label>
+  <Ears_Pig.description>Носители этого гена обладают острыми, как у свиней, ушами.</Ears_Pig.description>
+  <Ears_Pig.symbolPack.prefixSymbols.0.symbol>свино</Ears_Pig.symbolPack.prefixSymbols.0.symbol>
+  <Ears_Pig.symbolPack.prefixSymbols.1.symbol>хряко</Ears_Pig.symbolPack.prefixSymbols.1.symbol>
+  <Ears_Pig.symbolPack.suffixSymbols.0.symbol>свин</Ears_Pig.symbolPack.suffixSymbols.0.symbol>
+  <Ears_Pig.symbolPack.suffixSymbols.1.symbol>хряк</Ears_Pig.symbolPack.suffixSymbols.1.symbol>
+  <Ears_Pig.symbolPack.suffixSymbols.2.symbol>ухо</Ears_Pig.symbolPack.suffixSymbols.2.symbol>
+  <Ears_Pointed.label>острые уши</Ears_Pointed.label>
+  <Ears_Pointed.description>Носители этого гена обладают острыми и вытянутыми ушами.</Ears_Pointed.description>
+  <Ears_Pointed.symbolPack.prefixSymbols.0.symbol>остро</Ears_Pointed.symbolPack.prefixSymbols.0.symbol>
+  <Ears_Pointed.symbolPack.prefixSymbols.1.symbol>длинно</Ears_Pointed.symbolPack.prefixSymbols.1.symbol>
+  <Ears_Pointed.symbolPack.suffixSymbols.0.symbol>ух</Ears_Pointed.symbolPack.suffixSymbols.0.symbol>
+  <Ears_Pointed.symbolPack.suffixSymbols.1.symbol>эльф</Ears_Pointed.symbolPack.suffixSymbols.1.symbol>
+  <ElongatedFingers.label>длинные пальцы</ElongatedFingers.label>
+  <ElongatedFingers.description>Носители этого гена обладают длинными и ловкими пальцами, с которыми удобнее заниматься производством и строительством.</ElongatedFingers.description>
+  <ElongatedFingers.symbolPack.prefixSymbols.0.symbol>длинно</ElongatedFingers.symbolPack.prefixSymbols.0.symbol>
+  <ElongatedFingers.symbolPack.prefixSymbols.1.symbol>долго</ElongatedFingers.symbolPack.prefixSymbols.1.symbol>
+  <ElongatedFingers.symbolPack.prefixSymbols.2.symbol>ловко</ElongatedFingers.symbolPack.prefixSymbols.2.symbol>
+  <ElongatedFingers.symbolPack.suffixSymbols.0.symbol>палец</ElongatedFingers.symbolPack.suffixSymbols.0.symbol>
+  <ElongatedFingers.symbolPack.suffixSymbols.1.symbol>дактиль</ElongatedFingers.symbolPack.suffixSymbols.1.symbol>
+  <ElongatedFingers.symbolPack.suffixSymbols.2.symbol>кисть</ElongatedFingers.symbolPack.suffixSymbols.2.symbol>
+  <Hands_Human.label>человеческие руки</Hands_Human.label>
+  <Hands_Human.description>Носители этого гена обладают обычными человеческими кистями рук.</Hands_Human.description>
+  <Hands_Pig.label>копыто-руки</Hands_Pig.label>
+  <Hands_Pig.description>Носители этого гена обладают руками с кистями, напоминающими свиные копыта. Ими неудобно обращаться с предметами.</Hands_Pig.description>
+  <Hands_Pig.symbolPack.prefixSymbols.0.symbol>свино</Hands_Pig.symbolPack.prefixSymbols.0.symbol>
+  <Hands_Pig.symbolPack.prefixSymbols.1.symbol>хряко</Hands_Pig.symbolPack.prefixSymbols.1.symbol>
+  <Hands_Pig.symbolPack.prefixSymbols.2.symbol>свинтусо</Hands_Pig.symbolPack.prefixSymbols.2.symbol>
+  <Hands_Pig.symbolPack.prefixSymbols.3.symbol>кабано</Hands_Pig.symbolPack.prefixSymbols.3.symbol>
+  <Hands_Pig.symbolPack.prefixSymbols.4.symbol>борово</Hands_Pig.symbolPack.prefixSymbols.4.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.0.symbol>свин</Hands_Pig.symbolPack.suffixSymbols.0.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.1.symbol>хряк</Hands_Pig.symbolPack.suffixSymbols.1.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.2.symbol>свинтус</Hands_Pig.symbolPack.suffixSymbols.2.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.3.symbol>кабан</Hands_Pig.symbolPack.suffixSymbols.3.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.4.symbol>боров</Hands_Pig.symbolPack.suffixSymbols.4.symbol>
+  <Hands_Pig.symbolPack.wholeNameSymbols.0.symbol>свин</Hands_Pig.symbolPack.wholeNameSymbols.0.symbol>
+  <Head_Gaunt.label>мёртвая голова</Head_Gaunt.label>
+  <Head_Gaunt.description>Лицо и голова носителей этого гена выглядят по-мертвецки иссушёнными.</Head_Gaunt.description>
+  <Head_Gaunt.symbolPack.prefixSymbols.0.symbol>мертво</Head_Gaunt.symbolPack.prefixSymbols.0.symbol>
+  <Head_Gaunt.symbolPack.prefixSymbols.1.symbol>трупо</Head_Gaunt.symbolPack.prefixSymbols.1.symbol>
+  <Head_Gaunt.symbolPack.prefixSymbols.2.symbol>гробо</Head_Gaunt.symbolPack.prefixSymbols.2.symbol>
+  <Head_Gaunt.symbolPack.prefixSymbols.3.symbol>жутко</Head_Gaunt.symbolPack.prefixSymbols.3.symbol>
+  <Headbone_CenterHorn.label>единорог</Headbone_CenterHorn.label>
+  <Headbone_CenterHorn.description>У носителей этого гена из центра лба растёт рог.</Headbone_CenterHorn.description>
+  <Headbone_CenterHorn.symbolPack.prefixSymbols.0.symbol>едино</Headbone_CenterHorn.symbolPack.prefixSymbols.0.symbol>
+  <Headbone_CenterHorn.symbolPack.prefixSymbols.1.symbol>носо</Headbone_CenterHorn.symbolPack.prefixSymbols.1.symbol>
+  <Headbone_CenterHorn.symbolPack.prefixSymbols.2.symbol>рого</Headbone_CenterHorn.symbolPack.prefixSymbols.2.symbol>
+  <Headbone_CenterHorn.symbolPack.prefixSymbols.3.symbol>шипо</Headbone_CenterHorn.symbolPack.prefixSymbols.3.symbol>
+  <Headbone_CenterHorn.symbolPack.suffixSymbols.0.symbol>рог</Headbone_CenterHorn.symbolPack.suffixSymbols.0.symbol>
+  <Headbone_CenterHorn.symbolPack.suffixSymbols.1.symbol>шип</Headbone_CenterHorn.symbolPack.suffixSymbols.1.symbol>
+  <Headbone_Human.label>обычный череп</Headbone_Human.label>
+  <Headbone_Human.description>У носителей этого гена обычнная человеческая голова.</Headbone_Human.description>
+  <Headbone_MiniHorns.label>рожки</Headbone_MiniHorns.label>
+  <Headbone_MiniHorns.description>У носителей этого гена из центра лба растёт пара маленьких рогов.</Headbone_MiniHorns.description>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.0.symbol>рого</Headbone_MiniHorns.symbolPack.prefixSymbols.0.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.1.symbol>шипо</Headbone_MiniHorns.symbolPack.prefixSymbols.1.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.2.symbol>козо</Headbone_MiniHorns.symbolPack.prefixSymbols.2.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.3.symbol>дьявло</Headbone_MiniHorns.symbolPack.prefixSymbols.3.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.4.symbol>демоно</Headbone_MiniHorns.symbolPack.prefixSymbols.4.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.5.symbol>люци</Headbone_MiniHorns.symbolPack.prefixSymbols.5.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.6.symbol>сатано</Headbone_MiniHorns.symbolPack.prefixSymbols.6.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.7.symbol>адо</Headbone_MiniHorns.symbolPack.prefixSymbols.7.symbol>
+  <Headbone_MiniHorns.symbolPack.suffixSymbols.0.symbol>рог</Headbone_MiniHorns.symbolPack.suffixSymbols.0.symbol>
+  <Headbone_MiniHorns.symbolPack.suffixSymbols.1.symbol>шип</Headbone_MiniHorns.symbolPack.suffixSymbols.1.symbol>
+  <Headbone_MiniHorns.symbolPack.suffixSymbols.2.symbol>фер</Headbone_MiniHorns.symbolPack.suffixSymbols.2.symbol>
+  <Jaw_Baseline.label>обычная челюсть</Jaw_Baseline.label>
+  <Jaw_Baseline.description>У носителей этого гена обычная человеческая челюсть.</Jaw_Baseline.description>
+  <Jaw_Heavy.label>большая челюсть</Jaw_Heavy.label>
+  <Jaw_Heavy.description>Носители этого гена обладают массивными челюстями.</Jaw_Heavy.description>
+  <Jaw_Heavy.symbolPack.prefixSymbols.0.symbol>грозно</Jaw_Heavy.symbolPack.prefixSymbols.0.symbol>
+  <Jaw_Heavy.symbolPack.prefixSymbols.1.symbol>скало</Jaw_Heavy.symbolPack.prefixSymbols.1.symbol>
+  <Jaw_Heavy.symbolPack.prefixSymbols.2.symbol>зубо</Jaw_Heavy.symbolPack.prefixSymbols.2.symbol>
+  <Jaw_Heavy.symbolPack.suffixSymbols.0.symbol>скал</Jaw_Heavy.symbolPack.suffixSymbols.0.symbol>
+  <Jaw_Heavy.symbolPack.suffixSymbols.1.symbol>зуб</Jaw_Heavy.symbolPack.suffixSymbols.1.symbol>
+  <Jaw_Heavy.symbolPack.suffixSymbols.2.symbol>челюсть</Jaw_Heavy.symbolPack.suffixSymbols.2.symbol>
+  <Jaw_Heavy.symbolPack.suffixSymbols.3.symbol>жвало</Jaw_Heavy.symbolPack.suffixSymbols.3.symbol>
+  <Nose_Human.label>обычный нос</Nose_Human.label>
+  <Nose_Human.description>У носителей этого гена обычный человеческий нос.</Nose_Human.description>
+  <Nose_Pig.label>свиное рыло</Nose_Pig.label>
+  <Nose_Pig.description>У носителей этого гена вместо носа свиное рыло.</Nose_Pig.description>
+  <Nose_Pig.symbolPack.prefixSymbols.0.symbol>свино</Nose_Pig.symbolPack.prefixSymbols.0.symbol>
+  <Nose_Pig.symbolPack.prefixSymbols.1.symbol>хряко</Nose_Pig.symbolPack.prefixSymbols.1.symbol>
+  <Nose_Pig.symbolPack.prefixSymbols.2.symbol>рыло</Nose_Pig.symbolPack.prefixSymbols.2.symbol>
+  <Nose_Pig.symbolPack.prefixSymbols.3.symbol>кабано</Nose_Pig.symbolPack.prefixSymbols.3.symbol>
+  <Nose_Pig.symbolPack.prefixSymbols.4.symbol>борово</Nose_Pig.symbolPack.prefixSymbols.4.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.0.symbol>свин</Nose_Pig.symbolPack.suffixSymbols.0.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.1.symbol>хряк</Nose_Pig.symbolPack.suffixSymbols.1.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.2.symbol>рыл</Nose_Pig.symbolPack.suffixSymbols.2.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.3.symbol>кабан</Nose_Pig.symbolPack.suffixSymbols.3.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.4.symbol>боров</Nose_Pig.symbolPack.suffixSymbols.4.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.5.symbol>нос</Nose_Pig.symbolPack.suffixSymbols.5.symbol>
+  <Voice_Human.label>обычный голос</Voice_Human.label>
+  <Voice_Human.description>У носителей этого гена обычный человеческий голос.</Voice_Human.description>
+  <VoicePig.label>свиноподобный голос</VoicePig.label>
+  <VoicePig.description>У носителей этого гена визгливый, как у свиней, голос.</VoicePig.description>
+  <VoicePig.symbolPack.prefixSymbols.0.symbol>хрюко</VoicePig.symbolPack.prefixSymbols.0.symbol>
+  <VoicePig.symbolPack.prefixSymbols.1.symbol>визго</VoicePig.symbolPack.prefixSymbols.1.symbol>
+  <VoicePig.symbolPack.prefixSymbols.2.symbol>взвизго</VoicePig.symbolPack.prefixSymbols.2.symbol>
+  <VoicePig.symbolPack.prefixSymbols.3.symbol>свино</VoicePig.symbolPack.prefixSymbols.3.symbol>
+  <VoicePig.symbolPack.suffixSymbols.0.symbol>хрюк</VoicePig.symbolPack.suffixSymbols.0.symbol>
+  <VoicePig.symbolPack.suffixSymbols.1.symbol>свин</VoicePig.symbolPack.suffixSymbols.1.symbol>
+  <VoicePig.symbolPack.suffixSymbols.2.symbol>хряк</VoicePig.symbolPack.suffixSymbols.2.symbol>
+  <VoicePig.symbolPack.suffixSymbols.3.symbol>кабан</VoicePig.symbolPack.suffixSymbols.3.symbol>
+  <VoicePig.symbolPack.wholeNameSymbols.0.symbol>боров</VoicePig.symbolPack.wholeNameSymbols.0.symbol>
+  <VoicePig.symbolPack.wholeNameSymbols.1.symbol>свинтус</VoicePig.symbolPack.wholeNameSymbols.1.symbol>
+  <VoicePig.symbolPack.wholeNameSymbols.2.symbol>хрюшка</VoicePig.symbolPack.wholeNameSymbols.2.symbol>
+  <VoiceRoar.label>ревущий голос</VoiceRoar.label>
+  <VoiceRoar.description>У носителей этого гена животный ревущий голос.</VoiceRoar.description>
+  <VoiceRoar.symbolPack.prefixSymbols.0.symbol>рёво</VoiceRoar.symbolPack.prefixSymbols.0.symbol>
+  <VoiceRoar.symbolPack.prefixSymbols.1.symbol>рыко</VoiceRoar.symbolPack.prefixSymbols.1.symbol>
+  <VoiceRoar.symbolPack.prefixSymbols.2.symbol>вопле</VoiceRoar.symbolPack.prefixSymbols.2.symbol>
+  <VoiceRoar.symbolPack.suffixSymbols.0.symbol>рёв</VoiceRoar.symbolPack.suffixSymbols.0.symbol>
+  <VoiceRoar.symbolPack.suffixSymbols.1.symbol>рык</VoiceRoar.symbolPack.suffixSymbols.1.symbol>
+  <VoiceRoar.symbolPack.suffixSymbols.2.symbol>вопль</VoiceRoar.symbolPack.suffixSymbols.2.symbol>
+  <VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>рычащий</VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>
+  <VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>гудящий</VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>
+  <VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>ревущий</VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>
+  <VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>оглушающий</VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>
+</LanguageData>

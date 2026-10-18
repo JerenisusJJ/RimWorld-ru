@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SpouseCount_Female_MaxFour.label>четыре супруга или меньше</SpouseCount_Female_MaxFour.label>
+  <SpouseCount_Female_MaxFour.description>У женщины может быть до четырёх супругов.</SpouseCount_Female_MaxFour.description>
+  <SpouseCount_Female_MaxThree.label>три супруга или меньше</SpouseCount_Female_MaxThree.label>
+  <SpouseCount_Female_MaxThree.description>У женщины может быть до трёх супругов.</SpouseCount_Female_MaxThree.description>
+  <SpouseCount_Female_MaxTwo.label>два супруга или меньше</SpouseCount_Female_MaxTwo.label>
+  <SpouseCount_Female_MaxTwo.description>У женщины может быть до двух супругов.</SpouseCount_Female_MaxTwo.description>
+  <SpouseCount_Female_Unlimited.label>не ограничен</SpouseCount_Female_Unlimited.label>
+  <SpouseCount_Female_Unlimited.description>У женщины может быть сколько угодно супругов.</SpouseCount_Female_Unlimited.description>
+  <SpouseCount_Male_MaxFour.label>четыре супруга или меньше</SpouseCount_Male_MaxFour.label>
+  <SpouseCount_Male_MaxFour.description>У мужчины может быть до четырёх супругов.</SpouseCount_Male_MaxFour.description>
+  <SpouseCount_Male_MaxThree.label>три супруга или меньше</SpouseCount_Male_MaxThree.label>
+  <SpouseCount_Male_MaxThree.description>У мужчины может быть до трёх супругов.</SpouseCount_Male_MaxThree.description>
+  <SpouseCount_Male_MaxTwo.label>два супруга или меньше</SpouseCount_Male_MaxTwo.label>
+  <SpouseCount_Male_MaxTwo.description>У мужчины может быть до двух супругов.</SpouseCount_Male_MaxTwo.description>
+  <SpouseCount_Male_Unlimited.label>не ограничен</SpouseCount_Male_Unlimited.label>
+  <SpouseCount_Male_Unlimited.description>У мужчины может быть сколько угодно супругов.</SpouseCount_Male_Unlimited.description>
+</LanguageData>

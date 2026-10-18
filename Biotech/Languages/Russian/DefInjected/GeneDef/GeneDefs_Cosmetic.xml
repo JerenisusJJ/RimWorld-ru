@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Beard_Always.label>унисекс-бороды</Beard_Always.label>
+  <Beard_Always.description>И у мужчин, и у женщин-носителей этого гена присутствует растительность на лице.</Beard_Always.description>
+  <Beard_Always.labelShortAdj>бородатость</Beard_Always.labelShortAdj>
+  <Beard_BushyOnly.label>густые бороды</Beard_BushyOnly.label>
+  <Beard_BushyOnly.description>У мужчин-носителей этого гена быстро растёт пышная борода, они также испытывают сильный дискомфорт при бритье.</Beard_BushyOnly.description>
+  <Beard_BushyOnly.labelShortAdj>густая борода</Beard_BushyOnly.labelShortAdj>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>бородо</Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>брадо</Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>густо</Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>пышно</Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>
+  <Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>брад</Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>
+  <Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>бород</Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>
+  <Beard_NoBeardOnly.label>безбородость</Beard_NoBeardOnly.label>
+  <Beard_NoBeardOnly.description>У носителей этого гена не растёт борода.</Beard_NoBeardOnly.description>
+  <Beard_NoBeardOnly.labelShortAdj>безбородость</Beard_NoBeardOnly.labelShortAdj>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>гладко</Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>чисто</Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>нежно</Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>
+  <Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>лицый</Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>
+  <Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>гладколицый</Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>
+  <Brow_Heavy.label>сросшиеся брови</Brow_Heavy.label>
+  <Brow_Heavy.description>Носители этого гена обладают густыми сросшимися бровями</Brow_Heavy.description>
+  <Eyes_Gray.label>серые глаза</Eyes_Gray.label>
+  <Eyes_Gray.description>У носителей этого гена глаза свело-серого цвета.</Eyes_Gray.description>
+  <Eyes_Gray.labelShortAdj>серые глаза</Eyes_Gray.labelShortAdj>
+  <Eyes_Red.label>красные глаза</Eyes_Red.label>
+  <Eyes_Red.description>У носителей этого гена глаза тёмно-красного цвета.</Eyes_Red.description>
+  <Eyes_Red.labelShortAdj>красные глаза</Eyes_Red.labelShortAdj>
+  <FacialRidges.label>лицевые дуги</FacialRidges.label>
+  <FacialRidges.description>Носители этого гена имеют кожные наросты на лице.</FacialRidges.description>
+  <Furskin.label>шерсть</Furskin.label>
+  <Furskin.description>Носители этого гена полностью покрыты густой шерстью, дающей защиту от холода.</Furskin.description>
+  <Furskin.labelShortAdj>мохнатый</Furskin.labelShortAdj>
+  <Hair_BaldOnly.label>без волос</Hair_BaldOnly.label>
+  <Hair_BaldOnly.description>У носителей этого гена не растут волосы на голове.</Hair_BaldOnly.description>
+  <Hair_BaldOnly.labelShortAdj>лысина</Hair_BaldOnly.labelShortAdj>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>гладко</Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>лысо</Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>блестяще</Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>плеше</Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>облезло</Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>гладкий</Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>лысый</Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>облезлый</Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>
+  <Hair_Grayless.label>без седины</Hair_Grayless.label>
+  <Hair_Grayless.description>Волосы носителей этого гена всегда сохраняют свой естественный цвет и не седеют.</Hair_Grayless.description>
+  <Hair_Grayless.customEffectDescriptions.0>Нет седины от старости.</Hair_Grayless.customEffectDescriptions.0>
+  <Hair_LongOnly.label>длинные волосы</Hair_LongOnly.label>
+  <Hair_LongOnly.description>У носителей этого гена быстро отрастают длинные волосы.</Hair_LongOnly.description>
+  <Hair_ShortOnly.label>короткие волосы</Hair_ShortOnly.label>
+  <Hair_ShortOnly.description>У носителей этого гена не растут длинные волосы.</Hair_ShortOnly.description>
+  <Hair_ShortOnly.labelShortAdj>короткие волосы</Hair_ShortOnly.labelShortAdj>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>еже</Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>пухо</Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>огрызко</Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>лужайко</Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>ёж</Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>пух</Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>огрызок</Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>лужайка</Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>
+  <Skin_Blue.label>голубая кожа</Skin_Blue.label>
+  <Skin_Blue.description>Кожа носителей этого гена содержит пигмент, придающий ей голубой цвет.</Skin_Blue.description>
+  <Skin_Blue.labelShortAdj>голубая кожа</Skin_Blue.labelShortAdj>
+  <Skin_Blue.symbolPack.prefixSymbols.0.symbol>голубо</Skin_Blue.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Blue.symbolPack.prefixSymbols.1.symbol>ледяно</Skin_Blue.symbolPack.prefixSymbols.1.symbol>
+  <Skin_Blue.symbolPack.prefixSymbols.2.symbol>небесно</Skin_Blue.symbolPack.prefixSymbols.2.symbol>
+  <Skin_DeepRed.label>тёмно-красная кожа</Skin_DeepRed.label>
+  <Skin_DeepRed.description>Кожа носителей этого гена содержит пигмент, придающей ей тёмно-красный, почти кровавый цвет.</Skin_DeepRed.description>
+  <Skin_DeepRed.labelShortAdj>красная кожа</Skin_DeepRed.labelShortAdj>
+  <Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>красно</Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>малиново</Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>огне</Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>кроваво</Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>винно</Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>
+  <Skin_DeepYellow.label>жёлтая кожа</Skin_DeepYellow.label>
+  <Skin_DeepYellow.description>Кожа носителей этого гена содержит пигмент, придающий ей насыщенный жёлтый цвет.</Skin_DeepYellow.description>
+  <Skin_DeepYellow.labelShortAdj>жёлтая кожа</Skin_DeepYellow.labelShortAdj>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>жёлто</Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>лимоно</Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>злато</Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>
+  <Skin_Green.label>зелёная кожа</Skin_Green.label>
+  <Skin_Green.description>Кожа носителей этого гена содержит пигмент, придающий ей зелёный цвет.</Skin_Green.description>
+  <Skin_Green.labelShortAdj>зелёная кожа</Skin_Green.labelShortAdj>
+  <Skin_Green.symbolPack.prefixSymbols.0.symbol>зелёно</Skin_Green.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.1.symbol>лаймо</Skin_Green.symbolPack.prefixSymbols.1.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.2.symbol>нефрито</Skin_Green.symbolPack.prefixSymbols.2.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.3.symbol>листо</Skin_Green.symbolPack.prefixSymbols.3.symbol>
+  <Skin_Green.symbolPack.wholeNameSymbols.0.symbol>зелёнокожий</Skin_Green.symbolPack.wholeNameSymbols.0.symbol>
+  <Skin_InkBlack.label>чёрная кожа</Skin_InkBlack.label>
+  <Skin_InkBlack.description>Кожа носителей этого гена содержит пигмент, придающей ей глубокий чёрный цвет.</Skin_InkBlack.description>
+  <Skin_InkBlack.labelShortAdj>чёрная кожа</Skin_InkBlack.labelShortAdj>
+  <Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>ночно</Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>чернильно</Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>угольно</Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>кромешно</Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>тене</Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>врано</Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>гагато</Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>тень</Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>вран</Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>гагат</Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>
+  <Skin_LightGray.label>светло-серая кожа</Skin_LightGray.label>
+  <Skin_LightGray.description>Кожа носителей этого гена содержит пигмент, придающий ей светло-серый цвет.</Skin_LightGray.description>
+  <Skin_LightGray.labelShortAdj>серая кожа</Skin_LightGray.labelShortAdj>
+  <Skin_LightGray.symbolPack.prefixSymbols.0.symbol>серо</Skin_LightGray.symbolPack.prefixSymbols.0.symbol>
+  <Skin_LightGray.symbolPack.prefixSymbols.1.symbol>бледно</Skin_LightGray.symbolPack.prefixSymbols.1.symbol>
+  <Skin_Orange.label>оранжевая кожа</Skin_Orange.label>
+  <Skin_Orange.description>Кожа носителей этого гена содержит пигмент, придающий ей оранжевый цвет.</Skin_Orange.description>
+  <Skin_Orange.labelShortAdj>оранжевая кожа</Skin_Orange.labelShortAdj>
+  <Skin_Orange.symbolPack.prefixSymbols.0.symbol>апельсино</Skin_Orange.symbolPack.prefixSymbols.0.symbol>
+  <Skin_PaleRed.label>красная кожа</Skin_PaleRed.label>
+  <Skin_PaleRed.description>Кожа носителей этого гена содержит пигмент, придающий ей красный цвет с оттенком серого.</Skin_PaleRed.description>
+  <Skin_PaleRed.labelShortAdj>красноватая кожа</Skin_PaleRed.labelShortAdj>
+  <Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>красно</Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>
+  <Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>красно</Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>
+  <Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>красный</Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>
+  <Skin_PaleYellow.label>серо-жёлтая кожа</Skin_PaleYellow.label>
+  <Skin_PaleYellow.description>Кожа носителей этого гена содержит пигмент, придающий ей жёлтый цвет с оттенком серого.</Skin_PaleYellow.description>
+  <Skin_PaleYellow.labelShortAdj>кремовая кожа</Skin_PaleYellow.labelShortAdj>
+  <Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>жёлто</Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>
+  <Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>банано</Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>
+  <Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>кремо</Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>
+  <Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>банан</Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>
+  <Skin_Purple.label>фиолетовая кожа</Skin_Purple.label>
+  <Skin_Purple.description>Кожа носителей этого гена содержит пигмент, придающий ей фиолетовый цвет.</Skin_Purple.description>
+  <Skin_Purple.labelShortAdj>фиолетовая кожа</Skin_Purple.labelShortAdj>
+  <Skin_Purple.symbolPack.prefixSymbols.0.symbol>фио</Skin_Purple.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Purple.symbolPack.prefixSymbols.1.symbol>вино</Skin_Purple.symbolPack.prefixSymbols.1.symbol>
+  <Skin_SheerWhite.label>белоснежная кожа</Skin_SheerWhite.label>
+  <Skin_SheerWhite.description>Кожа носителей этого гена модифицирована таким образом, чтобы отражать максимальное количество света, из-за чего она неестественно белая.</Skin_SheerWhite.description>
+  <Skin_SheerWhite.labelShortAdj>белая кожа</Skin_SheerWhite.labelShortAdj>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>бело</Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>свето</Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>снежно</Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>ярко</Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>чисто</Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>сребро</Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>седо</Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>жемчуже</Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>сахаро</Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>мраморо</Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>млеко</Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>мело</Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>соле</Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>
+  <Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>призрак</Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>
+  <Skin_SlateGray.label>тёмно-серая кожа</Skin_SlateGray.label>
+  <Skin_SlateGray.description>Кожа носителей этого гена содержит пигмент, придающий ей тёмно-серый цвет.</Skin_SlateGray.description>
+  <Skin_SlateGray.labelShortAdj>сланцевая кожа</Skin_SlateGray.labelShortAdj>
+  <Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>серо</Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>сланце</Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>тумано</Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>уныло</Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>дымно</Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>тоско</Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>мрачно</Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>тумано</Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>
+  <Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>духо</Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>
+  <Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>призрак</Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>
+  <Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>мрак</Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>
+  <Tail_Furry.label>пушистый хвост</Tail_Furry.label>
+  <Tail_Furry.description>Носители этого гена обладают пушистыми хвостами, дающими некоторую защиту от холода.</Tail_Furry.description>
+  <Tail_Smooth.label>гладкий хвост</Tail_Smooth.label>
+  <Tail_Smooth.description>Носители этого гена обладают гладкими хвостами, которые выступают в качестве ловкой пятой конечности.</Tail_Smooth.description>
+</LanguageData>

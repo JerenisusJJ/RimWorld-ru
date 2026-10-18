@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AllowCorpsesMechEnemy.label>разрешить останки враждебных механоидов</AllowCorpsesMechEnemy.label>
+  <AllowCorpsesMechEnemy.description>Разрешить останки враждебных механоидов</AllowCorpsesMechEnemy.description>
+  <AllowCorpsesMechFriendly.label>разрешить останки дружественных механоидов</AllowCorpsesMechFriendly.label>
+  <AllowCorpsesMechFriendly.description>Разрешить останки дружественных механоидов</AllowCorpsesMechFriendly.description>
+</LanguageData>

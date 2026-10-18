@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Aggression_Aggressive.label>агрессивность</Aggression_Aggressive.label>
+  <Aggression_Aggressive.description>Носители этого гена склонны к агрессии. Они в два раза чаще остальных начинают драки, их нервные срывы в два раза чаще выливаются в агрессию.</Aggression_Aggressive.description>
+  <Aggression_Aggressive.symbolPack.prefixSymbols.0.symbol>агро</Aggression_Aggressive.symbolPack.prefixSymbols.0.symbol>
+  <Aggression_Aggressive.symbolPack.prefixSymbols.1.symbol>злобо</Aggression_Aggressive.symbolPack.prefixSymbols.1.symbol>
+  <Aggression_Aggressive.symbolPack.prefixSymbols.2.symbol>злобно</Aggression_Aggressive.symbolPack.prefixSymbols.2.symbol>
+  <Aggression_Aggressive.symbolPack.prefixSymbols.3.symbol>варваро</Aggression_Aggressive.symbolPack.prefixSymbols.3.symbol>
+  <Aggression_Aggressive.symbolPack.prefixSymbols.4.symbol>круше</Aggression_Aggressive.symbolPack.prefixSymbols.4.symbol>
+  <Aggression_Aggressive.symbolPack.suffixSymbols.0.symbol>крушитель</Aggression_Aggressive.symbolPack.suffixSymbols.0.symbol>
+  <Aggression_DeadCalm.label>невозмутимость</Aggression_DeadCalm.label>
+  <Aggression_DeadCalm.description>Носители этого гена сохраняют спокойствие и эмоциональное равновесие даже в самых напряжённых ситуациях. Они никогда не начинают драк, их нервные срывы никогда не выливаются в агрессию.</Aggression_DeadCalm.description>
+  <Aggression_DeadCalm.labelShortAdj>спокойствие</Aggression_DeadCalm.labelShortAdj>
+  <Aggression_DeadCalm.symbolPack.prefixSymbols.0.symbol>тихо</Aggression_DeadCalm.symbolPack.prefixSymbols.0.symbol>
+  <Aggression_DeadCalm.symbolPack.prefixSymbols.1.symbol>спокойно</Aggression_DeadCalm.symbolPack.prefixSymbols.1.symbol>
+  <Aggression_DeadCalm.symbolPack.prefixSymbols.2.symbol>дзено</Aggression_DeadCalm.symbolPack.prefixSymbols.2.symbol>
+  <Aggression_DeadCalm.symbolPack.prefixSymbols.3.symbol>контроле</Aggression_DeadCalm.symbolPack.prefixSymbols.3.symbol>
+  <Aggression_HyperAggressive.label>крайняя агрессивность</Aggression_HyperAggressive.label>
+  <Aggression_HyperAggressive.description>Гормональный фон носителей этого гена делает их очень агрессивными. Они в три раза чаще остальных начинают драки, их нервные срывы всегда выливаются в агрессию.</Aggression_HyperAggressive.description>
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.0.symbol>агро</Aggression_HyperAggressive.symbolPack.prefixSymbols.0.symbol>
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.1.symbol>злобо</Aggression_HyperAggressive.symbolPack.prefixSymbols.1.symbol>
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.2.symbol>злобно</Aggression_HyperAggressive.symbolPack.prefixSymbols.2.symbol>
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.3.symbol>варваро</Aggression_HyperAggressive.symbolPack.prefixSymbols.3.symbol>
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.4.symbol>круше</Aggression_HyperAggressive.symbolPack.prefixSymbols.4.symbol>
+  <Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>крушитель</Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>
+  <Beauty_Beautiful.label>невероятная красота</Beauty_Beautiful.label>
+  <Beauty_Beautiful.description>Носители этого гена обладают необычайно симметричными и привлекательными чертами лица. Их пропорции идеальны, а кожа почти превосходна. Большинство окружающих считают носителей этого гена красивыми.</Beauty_Beautiful.description>
+  <Beauty_Beautiful.symbolPack.prefixSymbols.0.symbol>мило</Beauty_Beautiful.symbolPack.prefixSymbols.0.symbol>
+  <Beauty_Beautiful.symbolPack.prefixSymbols.1.symbol>красо</Beauty_Beautiful.symbolPack.prefixSymbols.1.symbol>
+  <Beauty_Beautiful.symbolPack.prefixSymbols.2.symbol>приятно</Beauty_Beautiful.symbolPack.prefixSymbols.2.symbol>
+  <Beauty_Beautiful.symbolPack.prefixSymbols.3.symbol>прекрасно</Beauty_Beautiful.symbolPack.prefixSymbols.3.symbol>
+  <Beauty_Beautiful.symbolPack.prefixSymbols.4.symbol>славно</Beauty_Beautiful.symbolPack.prefixSymbols.4.symbol>
+  <Beauty_Beautiful.symbolPack.prefixSymbols.5.symbol>симпо</Beauty_Beautiful.symbolPack.prefixSymbols.5.symbol>
+  <Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>дивно</Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>
+  <Beauty_Pretty.label>красота</Beauty_Pretty.label>
+  <Beauty_Pretty.description>Носители этого гена обладают симметричными и пропорциональными чертами лица и здоровой кожей, что делает их внешность привлекательной.</Beauty_Pretty.description>
+  <Beauty_Pretty.symbolPack.prefixSymbols.0.symbol>мило</Beauty_Pretty.symbolPack.prefixSymbols.0.symbol>
+  <Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>красо</Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>
+  <Beauty_Pretty.symbolPack.prefixSymbols.2.symbol>приятно</Beauty_Pretty.symbolPack.prefixSymbols.2.symbol>
+  <Beauty_Pretty.symbolPack.prefixSymbols.3.symbol>прекрасно</Beauty_Pretty.symbolPack.prefixSymbols.3.symbol>
+  <Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>дивно</Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>
+  <Beauty_Ugly.label>уродство</Beauty_Ugly.label>
+  <Beauty_Ugly.description>Черты лица носителей этого гена непропорциональны, их кожа болезненна. Таких людей обычно считают уродливыми.</Beauty_Ugly.description>
+  <Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>уродо</Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>
+  <Beauty_VeryUgly.label>невероятное уродство</Beauty_VeryUgly.label>
+  <Beauty_VeryUgly.description>Черты лица носителей этого гена деформированы и асимметричны, а кожа в ужасном состоянии. Даже просто смотреть на них тяжело.</Beauty_VeryUgly.description>
+  <Beauty_VeryUgly.labelShortAdj>уродство</Beauty_VeryUgly.labelShortAdj>
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>уродо</Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.1.symbol>страшно</Beauty_VeryUgly.symbolPack.prefixSymbols.1.symbol>
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.2.symbol>мерзко</Beauty_VeryUgly.symbolPack.prefixSymbols.2.symbol>
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.3.symbol>выродо</Beauty_VeryUgly.symbolPack.prefixSymbols.3.symbol>
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.4.symbol>убого</Beauty_VeryUgly.symbolPack.prefixSymbols.4.symbol>
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.5.symbol>фрико</Beauty_VeryUgly.symbolPack.prefixSymbols.5.symbol>
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.6.symbol>отвратно</Beauty_VeryUgly.symbolPack.prefixSymbols.6.symbol>
+  <Delicate.label>хрупкость</Delicate.label>
+  <Delicate.description>Кости носителей этого гена хрупкие, а мышцы и связки слабые. Они получают более тяжёлые травмы, чем остальные.</Delicate.description>
+  <Delicate.symbolPack.prefixSymbols.0.symbol>хрупко</Delicate.symbolPack.prefixSymbols.0.symbol>
+  <Delicate.symbolPack.prefixSymbols.1.symbol>слабо</Delicate.symbolPack.prefixSymbols.1.symbol>
+  <Delicate.symbolPack.prefixSymbols.2.symbol>нежно</Delicate.symbolPack.prefixSymbols.2.symbol>
+  <Delicate.symbolPack.prefixSymbols.3.symbol>тонко</Delicate.symbolPack.prefixSymbols.3.symbol>
+  <Delicate.symbolPack.prefixSymbols.4.symbol>дохло</Delicate.symbolPack.prefixSymbols.4.symbol>
+  <Delicate.symbolPack.prefixSymbols.5.symbol>мягко</Delicate.symbolPack.prefixSymbols.5.symbol>
+  <Delicate.symbolPack.prefixSymbols.6.symbol>хило</Delicate.symbolPack.prefixSymbols.6.symbol>
+  <Learning_Fast.label>хорошая обучаемость</Learning_Fast.label>
+  <Learning_Fast.description>Носители этого гена обладают идеальной памятью и восприимчивостью к новой информации, что позволяет им учиться быстрее остальных.</Learning_Fast.description>
+  <Learning_Fast.symbolPack.prefixSymbols.0.symbol>мозго</Learning_Fast.symbolPack.prefixSymbols.0.symbol>
+  <Learning_Fast.symbolPack.prefixSymbols.1.symbol>ботано</Learning_Fast.symbolPack.prefixSymbols.1.symbol>
+  <Learning_Fast.symbolPack.prefixSymbols.2.symbol>умно</Learning_Fast.symbolPack.prefixSymbols.2.symbol>
+  <Learning_Fast.symbolPack.prefixSymbols.3.symbol>корти</Learning_Fast.symbolPack.prefixSymbols.3.symbol>
+  <Learning_Fast.symbolPack.prefixSymbols.4.symbol>нейро</Learning_Fast.symbolPack.prefixSymbols.4.symbol>
+  <Learning_Fast.symbolPack.prefixSymbols.5.symbol>мнемо</Learning_Fast.symbolPack.prefixSymbols.5.symbol>
+  <Learning_Fast.symbolPack.suffixSymbols.0.symbol>ботан</Learning_Fast.symbolPack.suffixSymbols.0.symbol>
+  <Learning_Fast.symbolPack.suffixSymbols.1.symbol>мозг</Learning_Fast.symbolPack.suffixSymbols.1.symbol>
+  <Learning_Slow.label>плохая обучаемость</Learning_Slow.label>
+  <Learning_Slow.description>У носителей этого гена проблемы с долгосрочной памятью и восприимчивостью к новой информации, что затрудняет их процесс обучения.</Learning_Slow.description>
+  <Learning_Slow.symbolPack.prefixSymbols.0.symbol>глупо</Learning_Slow.symbolPack.prefixSymbols.0.symbol>
+  <Learning_Slow.symbolPack.prefixSymbols.1.symbol>дубо</Learning_Slow.symbolPack.prefixSymbols.1.symbol>
+  <Learning_Slow.symbolPack.prefixSymbols.2.symbol>тупо</Learning_Slow.symbolPack.prefixSymbols.2.symbol>
+  <Learning_Slow.symbolPack.prefixSymbols.3.symbol>медленно</Learning_Slow.symbolPack.prefixSymbols.3.symbol>
+  <Learning_Slow.symbolPack.prefixSymbols.4.symbol>тормозо</Learning_Slow.symbolPack.prefixSymbols.4.symbol>
+  <Learning_Slow.symbolPack.suffixSymbols.0.symbol>тормоз</Learning_Slow.symbolPack.suffixSymbols.0.symbol>
+  <Libido_High.label>высокое либидо</Libido_High.label>
+  <Libido_High.description>Носители этого гена чаще вступают в интимную близость со своим партнёром.</Libido_High.description>
+  <Libido_High.customEffectDescriptions.0>Интимная близость случается чаще.</Libido_High.customEffectDescriptions.0>
+  <Libido_Low.label>низкое либидо</Libido_Low.label>
+  <Libido_Low.description>Носители этого гена реже вступают в интимную близость со своим партнёром.</Libido_Low.description>
+  <Libido_Low.customEffectDescriptions.0>Интимная близость случается реже.</Libido_Low.customEffectDescriptions.0>
+  <LowSleep.label>эффективный сон</LowSleep.label>
+  <LowSleep.description>Носители этого гена могут дольше других обходиться без сна.</LowSleep.description>
+  <LowSleep.symbolPack.prefixSymbols.0.symbol>бодро</LowSleep.symbolPack.prefixSymbols.0.symbol>
+  <LowSleep.symbolPack.prefixSymbols.1.symbol>ночно</LowSleep.symbolPack.prefixSymbols.1.symbol>
+  <MaxTemp_LargeIncrease.label>особая устойчивость к жаре</MaxTemp_LargeIncrease.label>
+  <MaxTemp_LargeIncrease.description>Носители этого гена прекрасно чувствуют себя на жаре.</MaxTemp_LargeIncrease.description>
+  <MaxTemp_LargeIncrease.labelShortAdj>особая устойчивость к жаре</MaxTemp_LargeIncrease.labelShortAdj>
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.0.symbol>жарко</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.0.symbol>
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.1.symbol>тепло</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.1.symbol>
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.2.symbol>солнце</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.2.symbol>
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.3.symbol>пото</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.3.symbol>
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.4.symbol>знойно</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.4.symbol>
+  <MaxTemp_SmallDecrease.label>чувствительность к жаре</MaxTemp_SmallDecrease.label>
+  <MaxTemp_SmallDecrease.description>Носители это гена испытывают дискомфорт на жаре.</MaxTemp_SmallDecrease.description>
+  <MaxTemp_SmallDecrease.labelShortAdj>чувствительность к жаре</MaxTemp_SmallDecrease.labelShortAdj>
+  <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>хладо</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>
+  <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>морозно</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>
+  <MaxTemp_SmallIncrease.label>устойчивость к жаре</MaxTemp_SmallIncrease.label>
+  <MaxTemp_SmallIncrease.description>Носители этого гена несколько лучше остальных переносят жару.</MaxTemp_SmallIncrease.description>
+  <MaxTemp_SmallIncrease.labelShortAdj>устойчивость к жаре</MaxTemp_SmallIncrease.labelShortAdj>
+  <MaxTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>тепло</MaxTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>
+  <MeleeDamage_Strong.label>мастерство в рукопашной</MeleeDamage_Strong.label>
+  <MeleeDamage_Strong.description>Носители этого гена более эффективны в ближнем бою, чем остальные. Их усиленные быстрые мышечные волокна позволяют им наносить удары сильнее и точнее.</MeleeDamage_Strong.description>
+  <MeleeDamage_Strong.labelShortAdj>сила</MeleeDamage_Strong.labelShortAdj>
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.0.symbol>сильно</MeleeDamage_Strong.symbolPack.prefixSymbols.0.symbol>
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.1.symbol>мощно</MeleeDamage_Strong.symbolPack.prefixSymbols.1.symbol>
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.2.symbol>воино</MeleeDamage_Strong.symbolPack.prefixSymbols.2.symbol>
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.3.symbol>герку</MeleeDamage_Strong.symbolPack.prefixSymbols.3.symbol>
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.4.symbol>ахилло</MeleeDamage_Strong.symbolPack.prefixSymbols.4.symbol>
+  <MeleeDamage_Strong.symbolPack.wholeNameSymbols.0.symbol>крушитель</MeleeDamage_Strong.symbolPack.wholeNameSymbols.0.symbol>
+  <MeleeDamage_Strong.symbolPack.wholeNameSymbols.1.symbol>воин</MeleeDamage_Strong.symbolPack.wholeNameSymbols.1.symbol>
+  <MeleeDamage_Weak.label>непригодность к рукопашной</MeleeDamage_Weak.label>
+  <MeleeDamage_Weak.description>Носители этого гена менее эффективны в ближнем бою, чем остальные. Их слабые быстрые мышечные волокна делают их удары слабыми и неуклюжими.</MeleeDamage_Weak.description>
+  <MeleeDamage_Weak.labelShortAdj>слабость</MeleeDamage_Weak.labelShortAdj>
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.0.symbol>слабо</MeleeDamage_Weak.symbolPack.prefixSymbols.0.symbol>
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.1.symbol>хило</MeleeDamage_Weak.symbolPack.prefixSymbols.1.symbol>
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.2.symbol>вяло</MeleeDamage_Weak.symbolPack.prefixSymbols.2.symbol>
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.3.symbol>немощно</MeleeDamage_Weak.symbolPack.prefixSymbols.3.symbol>
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.4.symbol>дряхло</MeleeDamage_Weak.symbolPack.prefixSymbols.4.symbol>
+  <MinTemp_LargeDecrease.label>особая устойчивость к холоду</MinTemp_LargeDecrease.label>
+  <MinTemp_LargeDecrease.description>Носители этого гена прекрасно чувствуют себя на холоде.</MinTemp_LargeDecrease.description>
+  <MinTemp_LargeDecrease.labelShortAdj>сверхустойчивость к холоду</MinTemp_LargeDecrease.labelShortAdj>
+  <MinTemp_LargeDecrease.symbolPack.prefixSymbols.0.symbol>ледо</MinTemp_LargeDecrease.symbolPack.prefixSymbols.0.symbol>
+  <MinTemp_SmallDecrease.label>устойчивость к холоду</MinTemp_SmallDecrease.label>
+  <MinTemp_SmallDecrease.description>Носители этого гена несколько лучше остальных переносят холод.</MinTemp_SmallDecrease.description>
+  <MinTemp_SmallDecrease.labelShortAdj>устойчивость к холоду</MinTemp_SmallDecrease.labelShortAdj>
+  <MinTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>хладо</MinTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>
+  <MinTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>мерзло</MinTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>
+  <MinTemp_SmallIncrease.label>чувствительность к холоду</MinTemp_SmallIncrease.label>
+  <MinTemp_SmallIncrease.description>Носители это гена испытывают дискомфорт на холоде.</MinTemp_SmallIncrease.description>
+  <MinTemp_SmallIncrease.labelShortAdj>чувствительность к холоду</MinTemp_SmallIncrease.labelShortAdj>
+  <MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>тепло</MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>
+  <Mood_Depressive.label>подавленность</Mood_Depressive.label>
+  <Mood_Depressive.description>Носители этого гена сильно предрасположены к негативным эмоциональным переживаниям. Им свойственно искать плохое в любой ситуации, а их настроение обычно сильно хуже, чем у окружающих.</Mood_Depressive.description>
+  <Mood_Depressive.symbolPack.prefixSymbols.0.symbol>грустно</Mood_Depressive.symbolPack.prefixSymbols.0.symbol>
+  <Mood_Depressive.symbolPack.prefixSymbols.1.symbol>серо</Mood_Depressive.symbolPack.prefixSymbols.1.symbol>
+  <Mood_Depressive.symbolPack.prefixSymbols.2.symbol>дожде</Mood_Depressive.symbolPack.prefixSymbols.2.symbol>
+  <Mood_Depressive.symbolPack.prefixSymbols.3.symbol>угрюмо</Mood_Depressive.symbolPack.prefixSymbols.3.symbol>
+  <Mood_Optimist.label>оптимизм</Mood_Optimist.label>
+  <Mood_Optimist.description>Носители этого гена по своей природе оптимистичны. Их расположение духа обычно лучше, чем у окружающих.</Mood_Optimist.description>
+  <Mood_Optimist.symbolPack.prefixSymbols.0.symbol>светло</Mood_Optimist.symbolPack.prefixSymbols.0.symbol>
+  <Mood_Optimist.symbolPack.prefixSymbols.1.symbol>солнце</Mood_Optimist.symbolPack.prefixSymbols.1.symbol>
+  <Mood_Optimist.symbolPack.prefixSymbols.2.symbol>пози</Mood_Optimist.symbolPack.prefixSymbols.2.symbol>
+  <Mood_Optimist.symbolPack.prefixSymbols.3.symbol>радо</Mood_Optimist.symbolPack.prefixSymbols.3.symbol>
+  <Mood_Optimist.symbolPack.prefixSymbols.4.symbol>весело</Mood_Optimist.symbolPack.prefixSymbols.4.symbol>
+  <Mood_Optimist.symbolPack.prefixSymbols.5.symbol>довольно</Mood_Optimist.symbolPack.prefixSymbols.5.symbol>
+  <Mood_Optimist.symbolPack.suffixSymbols.0.symbol>опти</Mood_Optimist.symbolPack.suffixSymbols.0.symbol>
+  <Mood_Pessimist.label>пессимизм</Mood_Pessimist.label>
+  <Mood_Pessimist.description>Носители этого гена склонны к пессимистичным взглядам. Они часто воспринимают окружающую действительность негативно, а их настроение обычно хуже, чем у окружающих.</Mood_Pessimist.description>
+  <Mood_Pessimist.symbolPack.prefixSymbols.0.symbol>грустно</Mood_Pessimist.symbolPack.prefixSymbols.0.symbol>
+  <Mood_Pessimist.symbolPack.prefixSymbols.1.symbol>серо</Mood_Pessimist.symbolPack.prefixSymbols.1.symbol>
+  <Mood_Pessimist.symbolPack.prefixSymbols.2.symbol>дожде</Mood_Pessimist.symbolPack.prefixSymbols.2.symbol>
+  <Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>угрюмо</Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>
+  <Mood_Sanguine.label>жизнелюбие</Mood_Sanguine.label>
+  <Mood_Sanguine.description>Носители этого гена очень оптимистичны и никогда не зацикливаются на негативном. Их расположение духа обычно сильно лучше, чем у окружающих.</Mood_Sanguine.description>
+  <Mood_Sanguine.symbolPack.prefixSymbols.0.symbol>светло</Mood_Sanguine.symbolPack.prefixSymbols.0.symbol>
+  <Mood_Sanguine.symbolPack.prefixSymbols.1.symbol>солнце</Mood_Sanguine.symbolPack.prefixSymbols.1.symbol>
+  <Mood_Sanguine.symbolPack.prefixSymbols.2.symbol>пози</Mood_Sanguine.symbolPack.prefixSymbols.2.symbol>
+  <Mood_Sanguine.symbolPack.prefixSymbols.3.symbol>радо</Mood_Sanguine.symbolPack.prefixSymbols.3.symbol>
+  <Mood_Sanguine.symbolPack.prefixSymbols.4.symbol>весело</Mood_Sanguine.symbolPack.prefixSymbols.4.symbol>
+  <Mood_Sanguine.symbolPack.prefixSymbols.5.symbol>довольно</Mood_Sanguine.symbolPack.prefixSymbols.5.symbol>
+  <Mood_Sanguine.symbolPack.suffixSymbols.0.symbol>опти</Mood_Sanguine.symbolPack.suffixSymbols.0.symbol>
+  <MoveSpeed_Quick.label>быстрый бег</MoveSpeed_Quick.label>
+  <MoveSpeed_Quick.description>Носители этого гена передвигаются быстрее остальных.</MoveSpeed_Quick.description>
+  <MoveSpeed_Quick.labelShortAdj>быстрый бег</MoveSpeed_Quick.labelShortAdj>
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.0.symbol>быстро</MoveSpeed_Quick.symbolPack.prefixSymbols.0.symbol>
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.1.symbol>блиц</MoveSpeed_Quick.symbolPack.prefixSymbols.1.symbol>
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.2.symbol>скоро</MoveSpeed_Quick.symbolPack.prefixSymbols.2.symbol>
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.3.symbol>спешно</MoveSpeed_Quick.symbolPack.prefixSymbols.3.symbol>
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.4.symbol>ветро</MoveSpeed_Quick.symbolPack.prefixSymbols.4.symbol>
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.5.symbol>ходо</MoveSpeed_Quick.symbolPack.prefixSymbols.5.symbol>
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.6.symbol>резко</MoveSpeed_Quick.symbolPack.prefixSymbols.6.symbol>
+  <MoveSpeed_Quick.symbolPack.suffixSymbols.0.symbol>вспышка</MoveSpeed_Quick.symbolPack.suffixSymbols.0.symbol>
+  <MoveSpeed_Quick.symbolPack.suffixSymbols.1.symbol>бегун</MoveSpeed_Quick.symbolPack.suffixSymbols.1.symbol>
+  <MoveSpeed_Quick.symbolPack.suffixSymbols.2.symbol>флеш</MoveSpeed_Quick.symbolPack.suffixSymbols.2.symbol>
+  <MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>спринтер</MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>
+  <MoveSpeed_Slow.label>медленный бег</MoveSpeed_Slow.label>
+  <MoveSpeed_Slow.description>Носители этого гена передвигаются медленнее остальных.</MoveSpeed_Slow.description>
+  <MoveSpeed_Slow.labelShortAdj>медленный бег</MoveSpeed_Slow.labelShortAdj>
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.0.symbol>медленно</MoveSpeed_Slow.symbolPack.prefixSymbols.0.symbol>
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.1.symbol>вяло</MoveSpeed_Slow.symbolPack.prefixSymbols.1.symbol>
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.2.symbol>долго</MoveSpeed_Slow.symbolPack.prefixSymbols.2.symbol>
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.3.symbol>еле</MoveSpeed_Slow.symbolPack.prefixSymbols.3.symbol>
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.4.symbol>тихо</MoveSpeed_Slow.symbolPack.prefixSymbols.4.symbol>
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.5.symbol>тормозо</MoveSpeed_Slow.symbolPack.prefixSymbols.5.symbol>
+  <MoveSpeed_Slow.symbolPack.suffixSymbols.0.symbol>тормоз</MoveSpeed_Slow.symbolPack.suffixSymbols.0.symbol>
+  <MoveSpeed_Slow.symbolPack.suffixSymbols.1.symbol>тихоход</MoveSpeed_Slow.symbolPack.suffixSymbols.1.symbol>
+  <MoveSpeed_VeryQuick.label>сверхбыстрый бег</MoveSpeed_VeryQuick.label>
+  <MoveSpeed_VeryQuick.description>Носители этого гена способны передвигаться необычайно быстро.</MoveSpeed_VeryQuick.description>
+  <MoveSpeed_VeryQuick.labelShortAdj>сверхбыстрый бег</MoveSpeed_VeryQuick.labelShortAdj>
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.0.symbol>быстро</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.0.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.1.symbol>блиц</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.1.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.2.symbol>скоро</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.2.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.3.symbol>спешно</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.3.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.4.symbol>ветро</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.4.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.5.symbol>ходо</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.5.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.6.symbol>резко</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.6.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.suffixSymbols.0.symbol>вспышка</MoveSpeed_VeryQuick.symbolPack.suffixSymbols.0.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.suffixSymbols.1.symbol>бегун</MoveSpeed_VeryQuick.symbolPack.suffixSymbols.1.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.suffixSymbols.2.symbol>флеш</MoveSpeed_VeryQuick.symbolPack.suffixSymbols.2.symbol>
+  <MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>спринтер</MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>
+  <Neversleep.label>без сна</Neversleep.label>
+  <Neversleep.description>Метаболизм носителей этого гена позволяет отдельным участкам мозга спать по очереди, пока остальные бодрствуют, благодаря чему исчезает потребность во сне.</Neversleep.description>
+  <Neversleep.symbolPack.prefixSymbols.0.symbol>бодро</Neversleep.symbolPack.prefixSymbols.0.symbol>
+  <Neversleep.symbolPack.prefixSymbols.1.symbol>ночно</Neversleep.symbolPack.prefixSymbols.1.symbol>
+  <Pain_Extra.label>низкий болевой порог</Pain_Extra.label>
+  <Pain_Extra.description>Носители этого гена имеют пониженный болевой порог из-за усиленной стимуляции болевых центров мозга. Для них даже несерьёзная травма может быть чудовищно болезненной. В некоторых ситуациях это может спасти жизнь, но в целом это, скорее, негативная черта, способная спровоцировать неприятные и сложные ситуации.</Pain_Extra.description>
+  <Pain_Extra.labelShortAdj>хлюпик</Pain_Extra.labelShortAdj>
+  <Pain_Extra.symbolPack.prefixSymbols.0.symbol>хлюпо</Pain_Extra.symbolPack.prefixSymbols.0.symbol>
+  <Pain_Extra.symbolPack.prefixSymbols.1.symbol>трусо</Pain_Extra.symbolPack.prefixSymbols.1.symbol>
+  <Pain_Extra.symbolPack.prefixSymbols.2.symbol>плакса</Pain_Extra.symbolPack.prefixSymbols.2.symbol>
+  <Pain_Extra.symbolPack.prefixSymbols.3.symbol>дохло</Pain_Extra.symbolPack.prefixSymbols.3.symbol>
+  <Pain_Extra.symbolPack.suffixSymbols.0.symbol>хлюпик</Pain_Extra.symbolPack.suffixSymbols.0.symbol>
+  <Pain_Extra.symbolPack.suffixSymbols.1.symbol>нытик</Pain_Extra.symbolPack.suffixSymbols.1.symbol>
+  <Pain_Reduced.label>высокий болевой порог</Pain_Reduced.label>
+  <Pain_Reduced.description>Носители этого гена имеют высокий болевой порог из-за пониженной активности в болевых центрах мозга. Они чувствуют боль только вполовину, что может быть как полезным, так и опасным.</Pain_Reduced.description>
+  <Pain_Reduced.labelShortAdj>притуплённая боль</Pain_Reduced.labelShortAdj>
+  <Pain_Reduced.symbolPack.prefixSymbols.0.symbol>стойко</Pain_Reduced.symbolPack.prefixSymbols.0.symbol>
+  <Pain_Reduced.symbolPack.prefixSymbols.1.symbol>крепко</Pain_Reduced.symbolPack.prefixSymbols.1.symbol>
+  <Pain_Reduced.symbolPack.prefixSymbols.2.symbol>жёстко</Pain_Reduced.symbolPack.prefixSymbols.2.symbol>
+  <PsychicAbility_Deaf.label>психическая глухота</PsychicAbility_Deaf.label>
+  <PsychicAbility_Deaf.description>Носители этого гена невосприимчивы к пертурбациям психической энергии вокруг себя. На них нельзя психически воздействовать, но и им недоступна эта сила.</PsychicAbility_Deaf.description>
+  <PsychicAbility_Deaf.labelShortAdj>психическая глухота</PsychicAbility_Deaf.labelShortAdj>
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.0.symbol>глухо</PsychicAbility_Deaf.symbolPack.prefixSymbols.0.symbol>
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.1.symbol>пусто</PsychicAbility_Deaf.symbolPack.prefixSymbols.1.symbol>
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.2.symbol>зеро</PsychicAbility_Deaf.symbolPack.prefixSymbols.2.symbol>
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.3.symbol>ваку</PsychicAbility_Deaf.symbolPack.prefixSymbols.3.symbol>
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.4.symbol>ноле</PsychicAbility_Deaf.symbolPack.prefixSymbols.4.symbol>
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.5.symbol>нуле</PsychicAbility_Deaf.symbolPack.prefixSymbols.5.symbol>
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>глухо</PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>
+  <PsychicAbility_Dull.label>психическая устойчивость</PsychicAbility_Dull.label>
+  <PsychicAbility_Dull.description>Носители этого гена обладают пониженной психической чувствительностью.</PsychicAbility_Dull.description>
+  <PsychicAbility_Dull.labelShortAdj>психическая устойчивость</PsychicAbility_Dull.labelShortAdj>
+  <PsychicAbility_Dull.symbolPack.prefixSymbols.0.symbol>глухо</PsychicAbility_Dull.symbolPack.prefixSymbols.0.symbol>
+  <PsychicAbility_Dull.symbolPack.prefixSymbols.1.symbol>пусто</PsychicAbility_Dull.symbolPack.prefixSymbols.1.symbol>
+  <PsychicAbility_Enhanced.label>психическая чувствительность</PsychicAbility_Enhanced.label>
+  <PsychicAbility_Enhanced.description>Носители этого гена обладают повышенной психической чувствительностью.</PsychicAbility_Enhanced.description>
+  <PsychicAbility_Enhanced.labelShortAdj>психочувствительность</PsychicAbility_Enhanced.labelShortAdj>
+  <PsychicAbility_Enhanced.symbolPack.prefixSymbols.0.symbol>пси</PsychicAbility_Enhanced.symbolPack.prefixSymbols.0.symbol>
+  <PsychicAbility_Enhanced.symbolPack.prefixSymbols.1.symbol>сенсо</PsychicAbility_Enhanced.symbolPack.prefixSymbols.1.symbol>
+  <PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>сенси</PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>
+  <PsychicAbility_Extreme.label>особая психическая чувствительность</PsychicAbility_Extreme.label>
+  <PsychicAbility_Extreme.description>Носители этого гена необычайно психически чувствительны.</PsychicAbility_Extreme.description>
+  <PsychicAbility_Extreme.labelShortAdj>пси-сверхчувствительность</PsychicAbility_Extreme.labelShortAdj>
+  <PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>пси</PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>
+  <PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>сенсо</PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>
+  <PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>сенси</PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>
+  <Robust.label>стойкость</Robust.label>
+  <Robust.description>Носители этого гена более стойки к повреждениям, чем остальные. Их прочные кости, крепкая грудная клетка, усиленные сухожилия и мышцы помогают реже получать травмы.</Robust.description>
+  <Robust.symbolPack.prefixSymbols.0.symbol>крепко</Robust.symbolPack.prefixSymbols.0.symbol>
+  <Robust.symbolPack.prefixSymbols.1.symbol>стойко</Robust.symbolPack.prefixSymbols.1.symbol>
+  <Robust.symbolPack.prefixSymbols.2.symbol>грубо</Robust.symbolPack.prefixSymbols.2.symbol>
+  <Robust.symbolPack.prefixSymbols.3.symbol>сильно</Robust.symbolPack.prefixSymbols.3.symbol>
+  <Robust.symbolPack.prefixSymbols.4.symbol>мощно</Robust.symbolPack.prefixSymbols.4.symbol>
+  <Robust.symbolPack.prefixSymbols.5.symbol>железо</Robust.symbolPack.prefixSymbols.5.symbol>
+  <Robust.symbolPack.prefixSymbols.6.symbol>стале</Robust.symbolPack.prefixSymbols.6.symbol>
+  <Robust.symbolPack.prefixSymbols.7.symbol>упорно</Robust.symbolPack.prefixSymbols.7.symbol>
+  <Sleepy.label>сонливость</Sleepy.label>
+  <Sleepy.description>Носители этого гена устают быстрее остальных.</Sleepy.description>
+  <Sleepy.symbolPack.prefixSymbols.0.symbol>сонно</Sleepy.symbolPack.prefixSymbols.0.symbol>
+  <Sleepy.symbolPack.prefixSymbols.1.symbol>вяло</Sleepy.symbolPack.prefixSymbols.1.symbol>
+  <Sleepy.symbolPack.prefixSymbols.2.symbol>лениво</Sleepy.symbolPack.prefixSymbols.2.symbol>
+  <Sleepy.symbolPack.suffixSymbols.0.symbol>разморо</Sleepy.symbolPack.suffixSymbols.0.symbol>
+  <ToxResist_Partial.label>сопротивление токсинам</ToxResist_Partial.label>
+  <ToxResist_Partial.description>Носители этого гена устойчивы к накоплению токсинов и ядов в организме. Особые клеточные фильтры в их коже и лёгких блокируют часть отравляющих веществ, поступающих извне, например от загрязнённой почвы, токсичных осадков, токсичного газа, ядовитых животных или оружия.\n\nНосители этого гена на 50% медленнее накапливают опасные концентрации ядов и токсинов в своей крови.</ToxResist_Partial.description>
+  <ToxResist_Partial.labelShortAdj>сопротивление токсинам</ToxResist_Partial.labelShortAdj>
+  <ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>токси</ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>
+  <ToxResist_Total.label>невосприимчивость к токсинам</ToxResist_Total.label>
+  <ToxResist_Total.description>Носители этого гена невосприимчивы к токсинам и ядам во всех их проявлениях: к загрязнению почвы, к токсичным осадкам и газу, к яду животных и ядовитому оружию, а также к кислотному смогу.\n\nОсобый метаболизм носителей этого гена защищает организм от воздействия почти всех известных ядов и токсинов, а модифицированные почки с лёгкими делают их невосприимчивыми даже к самым агрессивным условиям загрязнения.</ToxResist_Total.description>
+  <ToxResist_Total.customEffectDescriptions.0>невосприимчивость к токсинам</ToxResist_Total.customEffectDescriptions.0>
+  <ToxResist_Total.labelShortAdj>иммунитет к токсинам</ToxResist_Total.labelShortAdj>
+  <ToxResist_Total.symbolPack.prefixSymbols.0.symbol>токси</ToxResist_Total.symbolPack.prefixSymbols.0.symbol>
+  <UVSensitivity_Intense.label>сильная чувствительность к солнцу</UVSensitivity_Intense.label>
+  <UVSensitivity_Intense.description>Некоторые вещества в коже носителей этого гена резко реагируют на воздействие ультрафиолета. Они крайне чувствительны к солнечному свету.</UVSensitivity_Intense.description>
+  <UVSensitivity_Intense.labelShortAdj>УФ-чувствительность</UVSensitivity_Intense.labelShortAdj>
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.0.symbol>темно</UVSensitivity_Intense.symbolPack.prefixSymbols.0.symbol>
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.1.symbol>ночно</UVSensitivity_Intense.symbolPack.prefixSymbols.1.symbol>
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.2.symbol>пещерно</UVSensitivity_Intense.symbolPack.prefixSymbols.2.symbol>
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.3.symbol>хмуро</UVSensitivity_Intense.symbolPack.prefixSymbols.3.symbol>
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.4.symbol>сумрачно</UVSensitivity_Intense.symbolPack.prefixSymbols.4.symbol>
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.5.symbol>тускло</UVSensitivity_Intense.symbolPack.prefixSymbols.5.symbol>
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.6.symbol>шахто</UVSensitivity_Intense.symbolPack.prefixSymbols.6.symbol>
+  <UVSensitivity_Mild.label>чувствительность к солнцу</UVSensitivity_Mild.label>
+  <UVSensitivity_Mild.description>Некоторые вещества в коже носителей этого гена плохо реагируют на воздействие ультрафиолета. Они довольно чувствительны к солнечному свету.</UVSensitivity_Mild.description>
+  <UVSensitivity_Mild.labelShortAdj>УФ-чувствительность</UVSensitivity_Mild.labelShortAdj>
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.0.symbol>темно</UVSensitivity_Mild.symbolPack.prefixSymbols.0.symbol>
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.1.symbol>ночно</UVSensitivity_Mild.symbolPack.prefixSymbols.1.symbol>
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.2.symbol>пещерно</UVSensitivity_Mild.symbolPack.prefixSymbols.2.symbol>
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.3.symbol>хмуро</UVSensitivity_Mild.symbolPack.prefixSymbols.3.symbol>
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.4.symbol>сумрачно</UVSensitivity_Mild.symbolPack.prefixSymbols.4.symbol>
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.5.symbol>тускло</UVSensitivity_Mild.symbolPack.prefixSymbols.5.symbol>
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.6.symbol>шахто</UVSensitivity_Mild.symbolPack.prefixSymbols.6.symbol>
+  <VerySleepy.label>сильная сонливость</VerySleepy.label>
+  <VerySleepy.description>Носители этого гена устают значительно быстрее остальных.</VerySleepy.description>
+  <VerySleepy.symbolPack.prefixSymbols.0.symbol>сонно</VerySleepy.symbolPack.prefixSymbols.0.symbol>
+  <VerySleepy.symbolPack.prefixSymbols.1.symbol>вяло</VerySleepy.symbolPack.prefixSymbols.1.symbol>
+  <VerySleepy.symbolPack.prefixSymbols.2.symbol>лениво</VerySleepy.symbolPack.prefixSymbols.2.symbol>
+  <VerySleepy.symbolPack.suffixSymbols.0.symbol>разморо</VerySleepy.symbolPack.suffixSymbols.0.symbol>
+</LanguageData>

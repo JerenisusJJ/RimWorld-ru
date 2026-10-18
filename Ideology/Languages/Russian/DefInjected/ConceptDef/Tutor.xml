@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EditingMemes.label>изменение черт</EditingMemes.label>
+  <EditingMemes.helpText>Вы можете изменить черты, нажимая на них.</EditingMemes.helpText>
+  <EditingPrecepts.label>изменение принципов</EditingPrecepts.label>
+  <EditingPrecepts.helpText>Вы можете изменить принципы, нажимая на них.</EditingPrecepts.helpText>
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BlindFog.label>слепящий туман</BlindFog.label>
+  <BlindFog.description>Плотный туман, снижающий точность и максимальную дальность стрельбы из дальнобойного оружия.</BlindFog.description>
+  <BlindFog.letterLabel>Слепящий туман</BlindFog.letterLabel>
+  <BlindFog.letterText>Наступает густой туман, существенно ограничивающий видимость. Дальнобойное оружие станет менее точным, а максимальная дальность стрельбы уменьшится.</BlindFog.letterText>
+  <Blizzard.label>метель</Blizzard.label>
+  <Blizzard.description>Снег снижает точность стрельбы из дальнобойного оружия, тушит огонь и замедляет движение людей.</Blizzard.description>
+  <Orbit.label>орбита</Orbit.label>
+  <Orbit.description>На орбите нет погодных явлений.</Orbit.description>
+  <Overcast.label>пасмурно</Overcast.label>
+  <Overcast.description>Плотные облака скрывают небо, уменьшая уровень освещенности.</Overcast.description>
+  <Sandstorm.label>песчаная буря</Sandstorm.label>
+  <Sandstorm.description>Песчаные бури снижают точность стрельбы из дальнобойного оружия, замедляют людей и разносят песок повсюду.</Sandstorm.description>
+  <TorrentialRain.label>проливной дождь</TorrentialRain.label>
+  <TorrentialRain.description>Проливной дождь вызывает наводнения, снижает точность стрельбы из дальнобойного оружия, тушит огонь и замедляет людей.</TorrentialRain.description>
+  <TorrentialRain.letterLabel>Проливной дождь</TorrentialRain.letterLabel>
+  <TorrentialRain.letterText>С неба начинает литься сильный дождь. Он вызовет временные наводнения вокруг водоемов. Постройте преграды, чтобы не дать воде распространиться.</TorrentialRain.letterText>
+  <ToxRain.label>токсичный дождь</ToxRain.label>
+  <ToxRain.description>Токсичный дождь вызывает у существ отравление токсинами, а также снижает точность стрельбы, тушит огонь и замедляет людей.</ToxRain.description>
+  <ToxRain.letterLabel>Токсичный дождь</ToxRain.letterLabel>
+  <ToxRain.letterText>С неба начал падать токсичный дождь. Он медленно отравляет всех, кто попадет под него. Держите поселенцев под крышей.</ToxRain.letterText>
+  <Windy.label>ветрено</Windy.label>
+  <Windy.description>Сильный ветер замедляет движение.</Windy.description>
+</LanguageData>

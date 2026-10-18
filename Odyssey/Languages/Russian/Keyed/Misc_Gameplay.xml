@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Gravship>Гравикорабль</Gravship>
+  <CannotLaunchNoEngine>нет гравидвигателя</CannotLaunchNoEngine>
+  <CannotLaunchNotEnoughFuel>недостаточно топлива</CannotLaunchNotEnoughFuel>
+  <CannotLaunchDestination>Невозможно достичь этого пункта назначения</CannotLaunchDestination>
+  <ConnectedSubstructure>Подсоединенная надстройка</ConnectedSubstructure>
+  <SubstructureBlueprintsCount>Чертежи надстроек размещены</SubstructureBlueprintsCount>
+  <CannotLaunchDisconnected>не подключено к гравидвигателю</CannotLaunchDisconnected>
+  <CannotLaunchNoSubstructure>нет надстройки</CannotLaunchNoSubstructure>
+  <CannotLaunchNoThrusters>нет свободных работающих ускорителей</CannotLaunchNoThrusters>
+  <CannotLaunchOnCooldown>временная задержка: {0}</CannotLaunchOnCooldown>
+  <ChooseWhereToLand>Выберите место для посадки</ChooseWhereToLand>
+  <GravEngineNotInspected>Отправьте поселенца для осмотра.</GravEngineNotInspected>
+  <ChooseWhoShouldInspect>Выберите, кто должен осмотреть {0_definite}</ChooseWhoShouldInspect>
+  <CannotPilotGravship>Невозможно запустить гравикорабль</CannotPilotGravship>
+  <PilotGravship>Запустить гравикорабль</PilotGravship>
+  <FuelAmount>{0} {1_label}</FuelAmount>
+  <GravshipName>название гравикорабля</GravshipName>
+  <GravshipRange>дальность гравикорабля</GravshipRange>
+  <StoredChemfuel>запас химтоплива</StoredChemfuel>
+  <ThrusterBlocked>ускоритель заблокирован</ThrusterBlocked>
+  <FuelConsumption>расход топлива</FuelConsumption>
+  <FuelPerTile>{0} химтоплива за клетку</FuelPerTile>
+  <RequiresSignalJammer>Тяжёлые вооруженные системы: для приближения требуется глушитель сигнала</RequiresSignalJammer>
+  <GravshipLandingSite>место посадки: {0}</GravshipLandingSite>
+  <ConfirmLandingArea>Подтвердите зону посадки</ConfirmLandingArea>
+  <GravshipBlockedBy>Заблокировано: {0_label}</GravshipBlockedBy>
+  <GravshipBlockedByFog>Нельзя разместить в затуманенной области</GravshipBlockedByFog>
+  <GravshipOutOfBounds>Нельзя разместить за пределами карты</GravshipOutOfBounds>
+  <GravshipInNoBuildArea>Нельзя разместить рядом с краем карты</GravshipInNoBuildArea>
+  <GravshipInBlockedArea>Нельзя разместить в заблокированной области</GravshipInBlockedArea>
+  <GravshipBlockedByTerrain>Нельзя разместить на {0_label}</GravshipBlockedByTerrain>
+  <GravshipMustBeConnectedToLand>Должно быть соединено с твердой поверхностью</GravshipMustBeConnectedToLand>
+  <ConfirmLandingToContinue>Подтвердите зону посадки для продолжения</ConfirmLandingToContinue>
+  <RitualTargetPilotConsole>действующий пульт пилота</RitualTargetPilotConsole>
+  <GravshipOutcomeChanceLetterExtra>Исходя из запуска гравикорабля, был шанс {0_percentage} на негативный исход.</GravshipOutcomeChanceLetterExtra>
+  <ThrustersBrokeDown>Следующие ускорители были повреждены</ThrustersBrokeDown>
+  <NoPathToGravship>Нет пути к гравикораблю</NoPathToGravship>
+  <NoPathToPilotConsole>Нет пути к пульту пилота</NoPathToPilotConsole>
+  <PilotConsoleInaccessible>Пульт пилота недоступен с гравикорабля</PilotConsoleInaccessible>
+  <LaunchDate>Дата запуска</LaunchDate>
+  <WarningThrusterBlocked>Внимание: {1} заблокирует {0}.</WarningThrusterBlocked>
+  <WarningThrusterInside>Внимание: {0} заблокируется из-за расположения внутри помещения.</WarningThrusterInside>
+  <GravFacilityMaxSimultaneousConnections>Максимум на гравикорабль</GravFacilityMaxSimultaneousConnections>
+  <ShieldNotConnectedToGravship>Не подключено к гравикораблю</ShieldNotConnectedToGravship>
+  <GravshipLaunchInterrupted>Запуск гравикорабля отменен</GravshipLaunchInterrupted>
+  <NotConnectedToGravEngine>Нет подключения к гравидвигателю.</NotConnectedToGravEngine>
+  <ThrusterNotFunctional>Не функционирует</ThrusterNotFunctional>
+  <ThrusterNotConnected>не подключено к гравидвигателю</ThrusterNotConnected>
+  <ThrusterBlockedBy>{0_label} блокирует</ThrusterBlockedBy>
+  <MustBeOutside>должно быть снаружи</MustBeOutside>
+  <BlockedBySubstructure>блокируется надстройкой</BlockedBySubstructure>
+  <Landmark>Ориентир</Landmark>
+  <AnimalHabitat>место обитания: {ANIMALKIND_label}</AnimalHabitat>
+  <PlantGrove>рощa {0}</PlantGrove>
+  <WildPlants>{0}</WildPlants>
+  <MineralRich>богато на {MINERAL_label}</MineralRich>
+  <MineralRichDescription>В этой области есть несколько крупных залежей {MINERAL_label}.</MineralRichDescription>
+  <CaveEntranceLetter>Вход в пещеру</CaveEntranceLetter>
+  <CaveEntranceLetterText>Энергетический след гравиядра исходит от ближайшей сети пещер. Вход охраняют ульи насекомых.\n\nИсследуйте сеть пещер, чтобы найти гравиядро.</CaveEntranceLetterText>
+  <InsectAmbushLetter>Засада насекомых</InsectAmbushLetter>
+  <InsectAmbushLetterText>Насекомые прокладывают туннели из-под земли. Будьте готовы!</InsectAmbushLetterText>
+  <LetterLabelInsectQueenWarning>Приглушенный стрекот</LetterLabelInsectQueenWarning>
+  <LetterInsectQueenWarning>За ближайшей стеной {PAWN_nameDef} слышит приглушенные вибрации и низкий стрекот. За стеной скрывается нечто огромное.</LetterInsectQueenWarning>
+  <ShowVacuumOverlayToggleButton>Показать наложение вакуума. Показывает зоны с вакуумом и выявляет утечки.\n\nБез подходящего снаряжения воздействие вакуума смертельно.</ShowVacuumOverlayToggleButton>
+  <Vacuum>вакуум</Vacuum>
+  <CannotSelectOrbitReason>Нет обнаруженных орбитальных точек.</CannotSelectOrbitReason>
+  <DyingBecauseExposedToVacuum>Умирает от воздействия вакуума</DyingBecauseExposedToVacuum>
+  <TracesOfPreciousResource>Вакуумитовый астероид с признаками {lookup: {RESOURCE_label}; Case; 1}</TracesOfPreciousResource>
+  <TransportPodDestinationRequiresSignalJammer>Требуется глушитель сигнала</TransportPodDestinationRequiresSignalJammer>
+  <CannotFunctionInVacuum>не может работать в вакууме.</CannotFunctionInVacuum>
+  <GravshipOnTileInspectString>Гравикорабль</GravshipOnTileInspectString>
+  <HackableDoorLocked>Взломайте, чтобы открыть.</HackableDoorLocked>
+  <Fish>Рыба</Fish>
+  <Fishing>рыбалка</Fishing>
+  <CannotFish>Нельзя рыбачить</CannotFish>
+  <FishingSpotBlocked>Заблокировано</FishingSpotBlocked>
+  <FishingSpotFrozen>Замерзло</FishingSpotFrozen>
+  <FishingSpotUnderTargetPopulation>Популяция рыбы ниже минимума</FishingSpotUnderTargetPopulation>
+  <TabFishing>Рыбалка</TabFishing>
+  <FishPopulation>Популяция рыбы</FishPopulation>
+  <FishPopulationDecline>Популяция сокращается</FishPopulationDecline>
+  <FishPopulation_VeryLow>очень низкая</FishPopulation_VeryLow>
+  <FishPopulation_Low>низкая</FishPopulation_Low>
+  <FishPopulation_Moderate>средняя</FishPopulation_Moderate>
+  <FishPopulation_Healthy>здоровая</FishPopulation_Healthy>
+  <Sand>Нанесенный ветром песок</Sand>
+  <SandNone>Песка нет</SandNone>
+  <SandDusting>припорошен</SandDusting>
+  <SandThin>тонкий слой</SandThin>
+  <SandMedium>средний слой</SandMedium>
+  <SandThick>толстый слой</SandThick>
+  <Sand_Label>Нанесенный ветром песок</Sand_Label>
+  <JobClearingSand>очистка от песка.</JobClearingSand>
+  <ClearingSandGerund>очистка от песка</ClearingSandGerund>
+  <StockpileMedicine>запас медикаментов</StockpileMedicine>
+  <StockpileChemfuel>запас химтоплива</StockpileChemfuel>
+  <StockpileComponent>запас компонентов</StockpileComponent>
+  <StockpileWeapons>запас оружия</StockpileWeapons>
+  <StockpileDrugs>запас наркотиков</StockpileDrugs>
+  <SwapOutfit>сменить наряд</SwapOutfit>
+  <SwapOutfitGizmo>сменить наряд…</SwapOutfitGizmo>
+  <SwapOutfitDesc>Приказать поселенцу надеть всю одежду со стойки. Неснятая одежда будет возвращена обратно на стойку.</SwapOutfitDesc>
+  <CannotSwapOutfit>невозможно сменить наряд</CannotSwapOutfit>
+  <OutfitStandEmpty>стойка для одежды пуста</OutfitStandEmpty>
+  <EjectApparelTooltip>Убрать это со стойки для одежды.</EjectApparelTooltip>
+  <LetterAncientGravEngineDiscoveredLabel>Древний гравидвигатель</LetterAncientGravEngineDiscoveredLabel>
+  <LetterAncientGravEngineDiscovered>Вы нашли древний гравидвигатель. Уничтожьте его, чтобы получить гравиядро.</LetterAncientGravEngineDiscovered>
+  <PlayerPawnsArriveMethod_Gravship>Гравикорабль</PlayerPawnsArriveMethod_Gravship>
+  <ShowExpandingLandmarksToggleButton>Включить разворачивающиеся значки ориентиров.</ShowExpandingLandmarksToggleButton>
+  <CerebrexCoreDialog>Перед {PAWN_nameDef} находится ядро церебрекса — массивная мозгоподобная нейросеть, управляющая механоидами по всей планете.\n\nПосле уничтожения стабилизаторов {PAWN_nameDef} теперь напрямую получает к нему доступ… но что {PAWN_pronoun} делать с этой силой?</CerebrexCoreDialog>
+  <CerebrexCoreOption_Destroy>Уничтожить ядро</CerebrexCoreOption_Destroy>
+  <CerebrexCoreOption_Scavenge>Разобрать на технологии</CerebrexCoreOption_Scavenge>
+  <CerebrexCoreOption_Postpone>Отложить</CerebrexCoreOption_Postpone>
+  <StabilizersRemaining>Оставшиеся стабилизаторы</StabilizersRemaining>
+  <ProducingMechanoids>Создаются механоиды.</ProducingMechanoids>
+  <OdysseyDestroyedCredits>{PAWN_nameDef} начинает разрывать тончайшую мозговую сеть внутри ядра церебрекса. Сеть изгибается и стонет, будто живая. По решетчатому каркасу пробегают электрические дуги — и в одно мгновение всё замирает, становится безжизненным.\n\nШум механоидов стихает. Здесь, да и по всей планете, механоиды начинают навсегда отключаться, больше они не под контролем мехроя.\n\nУгроза механоидов устранена. Но ваша история продолжается…</OdysseyDestroyedCredits>
+  <OdysseyScavengedCredits>{PAWN_nameDef} начинает вытаскивать вычислительный узел из глубины ядра. Каркас судорожно содрогается, будто в агонии. Как только {PAWN_nameDef} вырывает узел, сеть начинает восстанавливаться, чинить повреждения. Ядро восстанавливает защиту и закрывается.\n\nПереворачивая узел, {PAWN_nameDef} отдергивает руку, когда тот загорается, пульсируя в такт сердцу ядра. В руке {PAWN_nameDef} держит оружие невероятной силы.\n\nИстория продолжается…</OdysseyScavengedCredits>
+  <CoreNotInteractableStabilizersRemaining>Осталось стабилизаторов: {0}</CoreNotInteractableStabilizersRemaining>
+  <CoreNotInteractableDeactivated>Отключено</CoreNotInteractableDeactivated>
+  <CaravanShuttleFuel>Топливо для челнока</CaravanShuttleFuel>
+  <OrbitalScannerScanning>Пассивное сканирование орбитальных сигналов.</OrbitalScannerScanning>
+  <OrbitalScannerLocating>Поиск орбитального сигнала</OrbitalScannerLocating>
+  <WeaponTraits>Свойства</WeaponTraits>
+  <UniqueWeapon>Уникальное оружие</UniqueWeapon>
+  <ConfirmLoseShuttle>Продолжение пути в караване приведёт к утере челнока. Вы уверены, что хотите продолжить?\n\nЧтобы покинуть место на челноке, выберите челнок и нажмите «Запустить».</ConfirmLoseShuttle>
+  <BookHasQuest>Открыть задание</BookHasQuest>
+  <DiscoveredQuest>обнаружено</DiscoveredQuest>
+  <QuestDiscoveredFromOrbitalScanner>Ваш орбитальный сканер обнаружил</QuestDiscoveredFromOrbitalScanner>
+  <QuestDiscoveredFromUplink>{HACKER_nameDef} взломал канал связи и обнаружил</QuestDiscoveredFromUplink>
+  <AnimalAttackTarget>Атаковать</AnimalAttackTarget>
+  <AnimalAttackTargetDesc>Приказать этому животному атаковать цель, которую видит его хозяин.</AnimalAttackTargetDesc>
+  <AnimalsAttackTarget>Животные атакуют цель</AnimalsAttackTarget>
+  <AnimalsAttackTargetDesc>Приказать всем прирученным животным атаковать выбранную цель.</AnimalsAttackTargetDesc>
+  <NoMaster>У этого животного нет хозяина</NoMaster>
+  <MasterNotSpawned>Хозяин этого животного не на этой карте</MasterNotSpawned>
+  <MessageNotInRangeOfMaster>Вне зоны видимости хозяина.</MessageNotInRangeOfMaster>
+  <MessageAnimalForagedFood>{ANIMAL_nameDef} в поисках пищи находит: {FOOD_label}.</MessageAnimalForagedFood>
+  <ForageTrained>Обучено собирательству</ForageTrained>
+  <ForageEnabled>Разрешить собирательство</ForageEnabled>
+  <DigEnabled>Разрешить копание</DigEnabled>
+  <ConfirmSealHatch>Запечатывание древнего запаса необратимо. Всё или все, кто останется внутри, будут потеряны навсегда.\n\nВы уверены, что хотите продолжить?</ConfirmSealHatch>
+  <CannotChooseSealer>Невозможно запечатать</CannotChooseSealer>
+  <Sealed>Запечатано</Sealed>
+  <HatchSealed>Запечатано навсегда.</HatchSealed>
+  <HatchUnlocked>Открыто.</HatchUnlocked>
+  <GravshipShieldTip>Недолго существующая поверхность-рефлектор, блокирующая снаряды. Работает против обычных выстрелов и минометов. Немедленно отключается при попадании ЭМИ.</GravshipShieldTip>
+  <CannotLandOnSameTile>Нельзя приземлиться в ту же клетку</CannotLandOnSameTile>
+  <GravshipBlockedByRoof>Мешает крыша</GravshipBlockedByRoof>
+  <FailedToBoardGravship>{PAWN_nameDef} не может подняться на борт {1}</FailedToBoardGravship>
+  <FailedToLeaveGravship>{PAWN_nameDef} не может покинуть {1}</FailedToLeaveGravship>
+  <ViewRange>Дальность полёта</ViewRange>
+  <ViewRangeDesc>Показать текущую дальность полёта грав-корабля на карте мира.</ViewRangeDesc>
+  <FishingSpotOverTargetResourceCount>запас рыбы превышает настройки рыболовной зоны</FishingSpotOverTargetResourceCount>
+  <ConfirmLoseGravship>Переформирование каравана приведёт к потере вашего грав-корабля. Вы уверены, что хотите продолжить?
+
+Чтобы улететь на грав-корабле, выберите консоль пилота и нажмите «Взлёт».</ConfirmLoseGravship>
+  <CancelAttack>Отменить атаку</CancelAttack>
+  <CancelAttackDesc>Сбросить текущую цель атаки для этого животного.</CancelAttackDesc>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>цикл удовольствия</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>
+  <BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>Каждая часть меня чувствует себя более чем отлично.</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>
+  <ConnectedTreeDied.stages.Gauranlen_death.label>смерть Гауранлен</ConnectedTreeDied.stages.Gauranlen_death.label>
+  <ConnectedTreeDied.stages.Gauranlen_death.description>Моё древо… чувство его умиротворяющей близости вдруг сменилось жгучей болью, а затем исчезло. Его муки отдаются эхом в моём разуме.</ConnectedTreeDied.stages.Gauranlen_death.description>
+  <DryadDied.stages.dryad_died.label>дриада умерла</DryadDied.stages.dryad_died.label>
+  <DryadDied.stages.dryad_died.description>Дриада моего древа ушла из жизни. Мы будем скучать по тебе, малютка.</DryadDied.stages.dryad_died.description>
+  <RelicsCollected.stages.all_relics_collected.label>все реликвии собраны</RelicsCollected.stages.all_relics_collected.label>
+  <RelicsCollected.stages.all_relics_collected.description>Мы нашли все священные реликвии!</RelicsCollected.stages.all_relics_collected.description>
+  <SleptInRoomWithSlave.stages.shared_room_with_slave.label>общая спальня с рабом</SleptInRoomWithSlave.stages.shared_room_with_slave.label>
+  <SleptInRoomWithSlave.stages.shared_room_with_slave.description>Мне пришлось спать в одной комнате с рабом.</SleptInRoomWithSlave.stages.shared_room_with_slave.description>
+  <WasEnslaved.stages.was_enslaved.label>{PAWN_gender ? Был : Была} в рабстве</WasEnslaved.stages.was_enslaved.label>
+  <WasEnslaved.stages.was_enslaved.description>Меня держали в рабстве. Мне приходилось страдать и терпеть!</WasEnslaved.stages.was_enslaved.description>
+</LanguageData>

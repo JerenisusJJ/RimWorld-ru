@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MissingGravEngineInspection>Гравидвигатель необходимо осмотреть</MissingGravEngineInspection>
+  <RequiresInspectionof>Требуется осмотр</RequiresInspectionof>
+  <RequireGravEngineInspected>Гравидвигатель осмотрен</RequireGravEngineInspected>
+  <AncientSmokeVentActive>выпускает дым.</AncientSmokeVentActive>
+  <AncientToxVentActive>создает токсичные осадки.</AncientToxVentActive>
+  <AncientHeatVentActive>выпускает тепло.</AncientHeatVentActive>
+</LanguageData>

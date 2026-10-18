@@ -1,0 +1,1368 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimalPersonhood.label>очеловечивание животных</AnimalPersonhood.label>
+  <AnimalPersonhood.description>У животных те же права, что и у людей.</AnimalPersonhood.description>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_AnimalPersonhood)        -&gt;[animalPersonhood_deity0_breathed] [deity0_name] жизнь [place_summary_prepon] [place_summary_pre] [place_name] во всё сущее. И сотворены в устремлении этом были [sacredAnimalList] и человек. И [animalPersonhood_deity0_raised] [deity0_name] их в согласии и сплочении, ибо все они были отпрыски божьи. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_AnimalPersonhood)  -&gt;[andBehold] [animalPersonhood_deity0_brought] [deity0_name] вместе животных всех и людей всех, [place_summary_acc] [place_name] населявших, на сборище великое.</li>
+    <li>intro(tag=meme_AnimalPersonhood)           -&gt;[once] [longAgo_Perf] [animalPersonhood_deity0_blessed] [deity0_name] людей [place_summary_gen] [place_name] животными мудрыми да [animalPersonhood_deity0_declared], что будут впредь почитаемы [sacredAnimalListEnd] благородные.</li>
+    <li>conflict(tag=meme_AnimalPersonhood)        -&gt;[butOrAnd] приказал [once] [evil_adj_no_ending]ый [foeLeader] начать охоту на животных всех диких, и стали его вооружённые [place_personalWeapon_ins_plural] [foeSoldiers] убивать-истреблять их.</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     -&gt;[thereWasARumor] [animalPersonhood_deity0_put] [deity0_name] [founder_place_job_acc] по имени [founderName] в пророческий сон, и приснилось [animalPersonhood_founder_that] животное [veneratedAnimal] священное. Были же [founderName] и [veneratedAnimal] единой сущностью, тогда-то и [animalPersonhood_founder_understood] [founderName] замысел божественный.</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     -&gt;[soonerOrLater] [animalPersonhood_founder_found_out] [founder_place_job] [founderName], что порабощены были многие животные хозяевами жестокими, [animalPersonhood_founder_freed] же [founder_pronoun] их да [animalPersonhood_founder_took] в убежище [altarRoomLabel_gen] просторное.</li>
+    <li>victory(tag=meme_AnimalPersonhood)         -&gt;[soonerOrLater] [animalPersonhood_founder_called] наконец [founderName] к своим соратникам, аки [animalPersonhood_deity0_self] [deity0_name] — громогласно, откликнулись [memberNamePlural] и разные животные на зов залихватский, да и затоптаны были в великом столпотворении копыт, лап и стоп [foeSoldiers] да [foeLeader], тиран [damned3_adj_no_ending]ый.</li>
+    <li>setup(tag=meme_AnimalPersonhood)           -&gt;Двадцать лет [animalPersonhood_founder_lived] в лесу [founderName], изучая животных и приобщаясь к ним. [founder_pronoun] [animalPersonhood_founder_understood] их истинную нравственность и [animalPersonhood_founder_founded] своё движение.</li>
+    <li>story(uses=1,tag=meme_AnimalPersonhood)    -&gt;[founderName] [animalPersonhood_founder_went] в поля и леса, чтобы жить вместе с животными и общаться с ними на равных.</li>
+    <li>lessonIntro(tag=meme_AnimalPersonhood)     -&gt;Всё-таки, [veneratedOrAnyAnimal] — удивительное животное. Я [animalPersonhood_founder_learned] по-настоящему слушать его. В нашем ежедневном общении, ему одним ведомым образом, оно повторяло мне своё послание:</li>
+    <li>lesson(tag=meme_AnimalPersonhood)           -&gt;животные — наши спутники и друзья в этом мире, и будет неправильно воспринимать их как нечто меньшее</li>
+    <li>lessonReinforcement(tag=meme_AnimalPersonhood) -&gt;Я [animalPersonhood_founder_self] этому не [animalPersonhood_founder_believed], пока не [animalPersonhood_founder_heard], как мне это шепчет [veneratedOrAnyAnimal].</li>
+    <li>archistBasis(tag=meme_AnimalPersonhood)    -&gt;С самого момента своего пробуждения архотеки, несомненно, не проводят моральных различий между людьми и животными.</li>
+    <li>archistFact(tag=meme_AnimalPersonhood)     -&gt;Архотеки существуют в более высокой моральной плоскости, чем биологические существа. Их превосходство настолько велико, что люди для них находятся на одном уровне с животными.</li>
+    <li>archistProphecy(tag=meme_AnimalPersonhood) -&gt;[inTheEnd] архотеки возвысят людей до равных себе, только если люди будут сами воспринимать животных как равных себе.</li>
+    <li>animistBasis(tag=meme_AnimalPersonhood)    -&gt;Духи мысли и сознания обитают внутри животных, равно как и в людях.</li>
+    <li>animistFact(tag=meme_AnimalPersonhood)     -&gt;Духи животных и духи, обитающие в людях, — одни и те же духи.</li>
+    <li>veneratedOrAnyAnimal(priority=10)-&gt;[veneratedAnimal]</li>
+    <li>veneratedOrAnyAnimal-&gt;[Animal]</li>
+    <li>sacredAnimalList-&gt;[animal0_thingDef_label], [animal1_thingDef_label], [animal2_thingDef_label]</li>
+    <li>sacredAnimalList-&gt;[animal0_thingDef_label], [animal1_thingDef_label]</li>
+    <li>sacredAnimalList-&gt;[animal0_thingDef_label]</li>
+    <li>sacredAnimalList-&gt;корова, лиса, медведь</li>
+    <li>sacredAnimalListEnd-&gt;[animal0_thingDef_label], [animal1_thingDef_label] и [animal2_thingDef_label]</li>
+    <li>sacredAnimalListEnd-&gt;[animal0_thingDef_label] и [animal1_thingDef_label]</li>
+    <li>sacredAnimalListEnd-&gt;[Animal] и [animal0_thingDef_label]</li>
+    <li>sacredAnimalListEnd-&gt;корова, лиса и медведь</li>
+    <li>animalPersonhood_deity0_breathed(deity0_gender==None)-&gt;вдохнуло</li>
+    <li>animalPersonhood_deity0_breathed(deity0_gender==Male)-&gt;вдохнул</li>
+    <li>animalPersonhood_deity0_breathed(deity0_gender==Female)-&gt;вдохнула</li>
+    <li>animalPersonhood_deity0_raised(deity0_gender==None)-&gt;взрастило</li>
+    <li>animalPersonhood_deity0_raised(deity0_gender==Male)-&gt;взрастил</li>
+    <li>animalPersonhood_deity0_raised(deity0_gender==Female)-&gt;взрастила</li>
+    <li>animalPersonhood_deity0_brought(deity0_gender==None)-&gt;созвало</li>
+    <li>animalPersonhood_deity0_brought(deity0_gender==Male)-&gt;созвал</li>
+    <li>animalPersonhood_deity0_brought(deity0_gender==Female)-&gt;созвала</li>
+    <li>animalPersonhood_deity0_blessed(deity0_gender==None)-&gt;одарило</li>
+    <li>animalPersonhood_deity0_blessed(deity0_gender==Male)-&gt;одарил</li>
+    <li>animalPersonhood_deity0_blessed(deity0_gender==Female)-&gt;одарила</li>
+    <li>animalPersonhood_deity0_declared(deity0_gender==None)-&gt;возвестило</li>
+    <li>animalPersonhood_deity0_declared(deity0_gender==Male)-&gt;возвестил</li>
+    <li>animalPersonhood_deity0_declared(deity0_gender==Female)-&gt;возвестила</li>
+    <li>animalPersonhood_deity0_put(deity0_gender==None)-&gt;погрузило</li>
+    <li>animalPersonhood_deity0_put(deity0_gender==Male)-&gt;погрузил</li>
+    <li>animalPersonhood_deity0_put(deity0_gender==Female)-&gt;погрузила</li>
+    <li>animalPersonhood_deity0_self(deity0_gender==None)-&gt;само</li>
+    <li>animalPersonhood_deity0_self(deity0_gender==Male)-&gt;сам</li>
+    <li>animalPersonhood_deity0_self(deity0_gender==Female)-&gt;сама</li>
+    <li>animalPersonhood_founder_that(founder_gender==Male)-&gt;тому</li>
+    <li>animalPersonhood_founder_that(founder_gender==Female)-&gt;той</li>
+    <li>animalPersonhood_founder_understood(founder_gender==Male)-&gt;познал</li>
+    <li>animalPersonhood_founder_understood(founder_gender==Female)-&gt;познала</li>
+    <li>animalPersonhood_founder_found_out(founder_gender==Male)-&gt;прознал</li>
+    <li>animalPersonhood_founder_found_out(founder_gender==Female)-&gt;прознала</li>
+    <li>animalPersonhood_founder_freed(founder_gender==Male)-&gt;освободил</li>
+    <li>animalPersonhood_founder_freed(founder_gender==Female)-&gt;освободила</li>
+    <li>animalPersonhood_founder_took(founder_gender==Male)-&gt;привёл</li>
+    <li>animalPersonhood_founder_took(founder_gender==Female)-&gt;привела</li>
+    <li>animalPersonhood_founder_called(founder_gender==Male)-&gt;воззвал</li>
+    <li>animalPersonhood_founder_called(founder_gender==Female)-&gt;воззвала</li>
+    <li>animalPersonhood_founder_lived(founder_gender==Male)-&gt;провёл</li>
+    <li>animalPersonhood_founder_lived(founder_gender==Female)-&gt;провела</li>
+    <li>animalPersonhood_founder_founded(founder_gender==Male)-&gt;основал</li>
+    <li>animalPersonhood_founder_founded(founder_gender==Female)-&gt;основала</li>
+    <li>animalPersonhood_founder_went(founder_gender==Male)-&gt;ушёл</li>
+    <li>animalPersonhood_founder_went(founder_gender==Female)-&gt;ушла</li>
+    <li>animalPersonhood_founder_learned(founder_gender==Male)-&gt;научился</li>
+    <li>animalPersonhood_founder_learned(founder_gender==Female)-&gt;научилась</li>
+    <li>animalPersonhood_founder_self(founder_gender==Male)-&gt;сам</li>
+    <li>animalPersonhood_founder_self(founder_gender==Female)-&gt;сама</li>
+    <li>animalPersonhood_founder_believed(founder_gender==Male)-&gt;верил</li>
+    <li>animalPersonhood_founder_believed(founder_gender==Female)-&gt;верила</li>
+    <li>animalPersonhood_founder_heard(founder_gender==Male)-&gt;услышал</li>
+    <li>animalPersonhood_founder_heard(founder_gender==Female)-&gt;услышала</li>
+  </AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+  <AnimalPersonhood.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;животный</li>
+    <li>memeAdjective_masc-&gt;пушистый</li>
+    <li>memeAdjective_fem-&gt;животная</li>
+    <li>memeAdjective_fem-&gt;пушистая</li>
+    <li>memeAdjective_neutral-&gt;животное</li>
+    <li>memeAdjective_neutral-&gt;пушистое</li>
+    <li>memeAdjective_plural-&gt;животные</li>
+    <li>memeAdjective_plural-&gt;пушистые</li>
+    <li>memeCreed_fem-&gt;стая</li>
+    <li>memeCreed_neutral-&gt;стадо</li>
+    <li>memeCreed_masc-&gt;табун</li>
+    <li>memeConcept-&gt;животного начала</li>
+    <li>memeLeaderNoun-&gt;зверь</li>
+    <li>memeLeaderNoun-&gt;вожак</li>
+    <li>memeLeaderAdjective-&gt;альфа</li>
+    <li>memeMoralist-&gt;шептатель</li>
+    <li>memeMoralist-&gt;пастух</li>
+    <li>memeMoralist-&gt;пастырь</li>
+  </AnimalPersonhood.generalRules.rulesStrings>
+  <AnimalPersonhood.symbolPacks.0.adjective>анималистический</AnimalPersonhood.symbolPacks.0.adjective>
+  <AnimalPersonhood.symbolPacks.0.ideoName>анимализм</AnimalPersonhood.symbolPacks.0.ideoName>
+  <AnimalPersonhood.symbolPacks.0.member>анималист</AnimalPersonhood.symbolPacks.0.member>
+  <AnimalPersonhood.symbolPacks.0.theme>животных</AnimalPersonhood.symbolPacks.0.theme>
+  <AnimalPersonhood.symbolPacks.1.adjective>зверистский</AnimalPersonhood.symbolPacks.1.adjective>
+  <AnimalPersonhood.symbolPacks.1.ideoName>зверизм</AnimalPersonhood.symbolPacks.1.ideoName>
+  <AnimalPersonhood.symbolPacks.1.member>зверист</AnimalPersonhood.symbolPacks.1.member>
+  <AnimalPersonhood.symbolPacks.1.theme>зверей</AnimalPersonhood.symbolPacks.1.theme>
+  <Blindsight.label>слепозоркость</Blindsight.label>
+  <Blindsight.description>Только незрячие могут истинным образом воспринимать действительность.</Blindsight.description>
+  <Blindsight.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Blindsight)        -&gt;[blindsight_deity0_looked_over] [deity0_name] в туман пустоты на протяжение вечности, и не было в нём ничего. Тогда [blindsight_deity0_tore_out] [deity0_pronoun] глаза свои, и родилась вселенная в разуме [deity0_possessive]. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_Blindsight)  -&gt;[andBehold] спросил бедняк слепой [deity0_possessive]: «Почто [blindsight_deity0_forsaken] Ты меня? Я не могу даже увидеть творения Твоего». И [blindsight_deity0_replied] [deity0_name]: «Не меньше видишь ты, но больше, ибо истина Моя сокрыта в разуме твоём».</li>
+    <li>intro(tag=meme_Blindsight)           -&gt;[once] [longAgo_Perf] [blindsight_deity0_sent] [deity0_type] [deity0_name] на жителей [place_summary_gen] [place_name] мор ослепляющий, дабы уразумели они, что лишь препятствует телесное зрение постигать опыт божественный.</li>
+    <li>conflict(tag=meme_Blindsight)        -&gt;[butOrAnd] потребовал [once] [vile_adj] [foeLeader], чтобы [memberNamePlural] все до единого смотрели изо дня в день пропаганду его лживую, и ослепили многие себя в знак протеста безысходного.</li>
+    <li>founderJoin(tag=meme_Blindsight)     -&gt;[soonerOrLater] [blindsight_founder_noticed] [founder_place_job] [founderName], как один [memberName] подвергся нападению [foeSoldiers_genacc], да [blindsight_founder_lost] своё зрение, спасая того от смерти неминуемой. Тогда-то и [blindsight_founder_could] [founderName] по-настоящему увидеть всю тиранию [foeLeader_gen], злодея лицемерного.</li>
+    <li>victory(tag=meme_Blindsight)         -&gt;[soonerOrLater] [blindsight_founder_went] [founderName] [place_powerCenter_acc_to] да [blindsight_founder_cut_out] супостату ложкой глаза, совершив внезапную атаку самоубийственную. [blindsight_deity0_opened] тогда [deity0_name] взору [foeLeader_gen], да и узрел тот наконец божественность [deity0_possessive] истинную.</li>
+    <li>setup(tag=meme_Blindsight)           -&gt;[founderName] [blindsight_founder_was] лекарем среди бедноты. Видя каждый день так много страданий, [founder_pronoun] не [blindsight_founder_could] это больше выносить. Тогда [founder_pronoun] [blindsight_founder_cut_out] свои глаза лезвием и [blindsight_founder_found] покой в слепоте. После этого [founder_pronoun] [blindsight_founder_began] нести своё слово среди зрячих.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    -&gt;Как-то раз [founderName] [blindsight_founder_visited] к слепому лекарю с намерением вразумить его, но [blindsight_founder_self_being_taught] ценный урок, осознав, что физическое зрение лишь мешает истинному восприятию.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    -&gt;[founderName] [blindsight_founder_was_blind] и [blindsight_founder_took] мудрость из своей незрячести. Однажды [founder_pronoun] собственноручно [blindsight_founder_removed] глаза у целой семьи, чтобы они могли видеть так же, как [founder_pronoun].</li>
+    <li>lessonIntro(tag=meme_Blindsight)         -&gt;Я твёрдо [blindsight_founder_walked] вперёд, но душа моя спотыкалась на каждом шагу: я [blindsight_founder_could_see] слишком многое. Лишь пролитая на мои глаза кислота показала мне, что</li>
+    <li>lesson(tag=meme_Blindsight)              -&gt;только тот, кто слеп, способен видеть по-настоящему</li>
+    <li>lesson(tag=meme_Blindsight)              -&gt;через глаза приходит смятение, в то время как истинное знание идёт изнутри</li>
+    <li>lessonReinforcement(tag=meme_Blindsight) -&gt;Я никогда бы не [blindsight_founder_could] полностью этого понять, ибо пелена зрения отвлекала моё внимание. Лезвие, пронзившее мой глаз, дало мне свободу.</li>
+    <li>lessonReinforcement(tag=meme_Blindsight) -&gt;Лишь когда я [blindsight_founder_cut_out] глаза своим последователям, они смогли по-настоящему это понять.</li>
+    <li>archistBasis(tag=meme_Blindsight)    -&gt;Архотеки с самого своего начала воспринимают вселенную чувствами, что превыше физических.</li>
+    <li>archistFact(tag=meme_Blindsight)     -&gt;Наши глаза вводят нас в заблуждение. Они мешают воспринимать вселенную так, как это делают архотеки.</li>
+    <li>archistProphecy(tag=meme_Blindsight) -&gt;[inTheEnd] слепец возьмёт в руки реликвию «[relic0_name]», изучит её форму, поймёт назначение и откроет мудрость архотеков для всего человечества.</li>
+    <li>animistFact(tag=meme_Blindsight)     -&gt;Видеть глазами духа — единственный способ видеть истинную природу этого мира.</li>
+    <li>blindsight_deity0_looked_over(deity0_gender==None)-&gt;всматривалось</li>
+    <li>blindsight_deity0_looked_over(deity0_gender==Male)-&gt;всматривался</li>
+    <li>blindsight_deity0_looked_over(deity0_gender==Female)-&gt;всматривалась</li>
+    <li>blindsight_deity0_tore_out(deity0_gender==None)-&gt;вырвало</li>
+    <li>blindsight_deity0_tore_out(deity0_gender==Male)-&gt;вырвал</li>
+    <li>blindsight_deity0_tore_out(deity0_gender==Female)-&gt;вырвала</li>
+    <li>blindsight_deity0_forsaken(deity0_gender==None)-&gt;оставило</li>
+    <li>blindsight_deity0_forsaken(deity0_gender==Male)-&gt;оставил</li>
+    <li>blindsight_deity0_forsaken(deity0_gender==Female)-&gt;оставила</li>
+    <li>blindsight_deity0_replied(deity0_gender==None)-&gt;ответило</li>
+    <li>blindsight_deity0_replied(deity0_gender==Male)-&gt;ответил</li>
+    <li>blindsight_deity0_replied(deity0_gender==Female)-&gt;ответила</li>
+    <li>blindsight_deity0_sent(deity0_gender==None)-&gt;наслало</li>
+    <li>blindsight_deity0_sent(deity0_gender==Male)-&gt;наслал</li>
+    <li>blindsight_deity0_sent(deity0_gender==Female)-&gt;наслала</li>
+    <li>blindsight_deity0_opened(deity0_gender==None)-&gt;открылось</li>
+    <li>blindsight_deity0_opened(deity0_gender==Male)-&gt;открылся</li>
+    <li>blindsight_deity0_opened(deity0_gender==Female)-&gt;открылась</li>
+    <li>blindsight_founder_noticed(founder_gender==Male)-&gt;заметил</li>
+    <li>blindsight_founder_noticed(founder_gender==Female)-&gt;заметила</li>
+    <li>blindsight_founder_lost(founder_gender==Male)-&gt;потерял</li>
+    <li>blindsight_founder_lost(founder_gender==Female)-&gt;потеряла</li>
+    <li>blindsight_founder_could(founder_gender==Male)-&gt;смог</li>
+    <li>blindsight_founder_could(founder_gender==Female)-&gt;смогла</li>
+    <li>blindsight_founder_went(founder_gender==Male)-&gt;отправился</li>
+    <li>blindsight_founder_went(founder_gender==Female)-&gt;отправилась</li>
+    <li>blindsight_founder_cut_out(founder_gender==Male)-&gt;вырезал</li>
+    <li>blindsight_founder_cut_out(founder_gender==Female)-&gt;вырезала</li>
+    <li>blindsight_founder_was(founder_gender==Male)-&gt;был</li>
+    <li>blindsight_founder_was(founder_gender==Female)-&gt;была</li>
+    <li>blindsight_founder_found(founder_gender==Male)-&gt;обрёл</li>
+    <li>blindsight_founder_found(founder_gender==Female)-&gt;обрела</li>
+    <li>blindsight_founder_began(founder_gender==Male)-&gt;начал</li>
+    <li>blindsight_founder_began(founder_gender==Female)-&gt;начала</li>
+    <li>blindsight_founder_visited(founder_gender==Male)-&gt;пришёл</li>
+    <li>blindsight_founder_visited(founder_gender==Female)-&gt;пришла</li>
+    <li>blindsight_founder_self_being_taught(founder_gender==Male)-&gt;сам получил</li>
+    <li>blindsight_founder_self_being_taught(founder_gender==Female)-&gt;сама получила</li>
+    <li>blindsight_founder_was_blind(founder_gender==Male)-&gt;был слеп</li>
+    <li>blindsight_founder_was_blind(founder_gender==Female)-&gt;была слепа</li>
+    <li>blindsight_founder_took(founder_gender==Male)-&gt;черпал</li>
+    <li>blindsight_founder_took(founder_gender==Female)-&gt;черпала</li>
+    <li>blindsight_founder_removed(founder_gender==Male)-&gt;удалил</li>
+    <li>blindsight_founder_removed(founder_gender==Female)-&gt;удалила</li>
+    <li>blindsight_founder_walked(founder_gender==Male)-&gt;шёл</li>
+    <li>blindsight_founder_walked(founder_gender==Female)-&gt;шла</li>
+    <li>blindsight_founder_could_see(founder_gender==Male)-&gt;видел</li>
+    <li>blindsight_founder_could_see(founder_gender==Female)-&gt;видела</li>
+  </Blindsight.descriptionMaker.rules.rulesStrings>
+  <Blindsight.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;слепой</li>
+    <li>memeAdjective_masc-&gt;незрячий</li>
+    <li>memeAdjective_masc-&gt;провидческий</li>
+    <li>memeAdjective_masc-&gt;ясновидческий</li>
+    <li>memeAdjective_fem-&gt;слепая</li>
+    <li>memeAdjective_fem-&gt;незрячая</li>
+    <li>memeAdjective_fem-&gt;провидческая</li>
+    <li>memeAdjective_fem-&gt;ясновидческая</li>
+    <li>memeAdjective_neutral-&gt;слепое</li>
+    <li>memeAdjective_neutral-&gt;незрячее</li>
+    <li>memeAdjective_neutral-&gt;провидческое</li>
+    <li>memeAdjective_neutral-&gt;ясновидческое</li>
+    <li>memeAdjective_plural-&gt;слепые</li>
+    <li>memeAdjective_plural-&gt;незрячие</li>
+    <li>memeAdjective_plural-&gt;провидческие</li>
+    <li>memeAdjective_plural-&gt;ясновидческие</li>
+    <li>memeCreed_masc-&gt;культ</li>
+    <li>memeHyphenPrefix-&gt;слепо</li>
+    <li>memeConcept-&gt;слепоты</li>
+    <li>memeConcept-&gt;видения</li>
+    <li>memeConcept-&gt;зрения</li>
+    <li>memeConcept-&gt;восприятия</li>
+    <li>memeLeaderNoun-&gt;визионер</li>
+    <li>memeLeaderAdjective-&gt;слепой</li>
+    <li>memeMoralist-&gt;провидец</li>
+    <li>memeMoralist-&gt;ясновидящий</li>
+  </Blindsight.generalRules.rulesStrings>
+  <Cannibal.label>каннибализм</Cannibal.label>
+  <Cannibal.description>Нам нужно есть человеческую плоть.</Cannibal.description>
+  <Cannibal.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Cannibal)        -&gt;[cannibal_deity0_rose_up] [deity0_name] на брата своего и [cannibal_deity0_murdered] его, и [cannibal_deity0_tasted] плоти его, и [cannibal_deity0_absorbed] силу его, и [cannibal_deity0_became_first] среди богов. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_Cannibal)  -&gt;И [cannibal_deity0_ate] [deity0_type] [deity0_name] тела врагов своих.</li>
+    <li>intro(tag=meme_Cannibal)           -&gt;Когда-то [longAgo_Perf] [cannibal_deity0_lived] [place_summary_prepon] [place_summary_pre] [place_name] [cannibal_deity0_human] по имени [deity0_name]. Умер [once] отец [deity0_possessive] родной, [cannibal_deity0_ate2] [deity0_name] его плоть и [cannibal_deity0_became_known] как [deity0_type] с тех пор.</li>
+    <li>intro(tag=meme_Cannibal)           -&gt;[once] [longAgo_Perf] [cannibal_deity0_came_down] [deity0_name] в [altarRoomLabel_acc] во время ритуала [ritualName] [place_summary_prepon] [place_summary_pre] [place_name] да [cannibal_deity0_feasted] плотью людскою, были же [memberNamePlural] тому свидетелями, да захлестнула их буря восторга.</li>
+    <li>conflict(tag=meme_Cannibal)        -&gt;[butOrAnd] объявил [once] [vile_adj] [foeLeader] преступниками тех, кто ел плоть человеческую, и бежали от преследования [foeSoldiers_genacc] [memberNamePlural] угнетаемые.</li>
+    <li>founderJoin(tag=meme_Cannibal)     -&gt;[soonerOrLater] [cannibal_founder_was_attacked] [founder_place_job] [founderName] нападению одного из [foeSoldiers_genacc], да [cannibal_founder_killed] нападавшего [place_personalWeapon_ins] [cannibal_firmly], [cannibal_founder_ate] его да [cannibal_founder_received] силу, которой [cannibal_deity0_self] [deity0_name] [cannibal_deity0_possessed].</li>
+    <li>victory(tag=meme_Cannibal)         -&gt;[soonerOrLater] нагрянули наконец [memberNamePlural] [place_powerCenter_acc_to], [cannibal_founder_killed] [founderName] притеснителя да [cannibal_founder_feasted] плоти [damned3_adj_no_ending]ого — и [cannibal_deity0_announced] тогда [deity0_name], что займёт [founderName] место [foeLeader_gen] убиенного.</li>
+    <li>setup(tag=meme_Cannibal)           -&gt;[founderName] [cannibal_founder_crashlanded] крушение на далёкой планете. Испытывая нехватку еды и будучи [cannibal_founder_surrounded] мёртвыми спутниками, [founder_pronoun] [cannibal_founder_ate] их плоть, отчего [cannibal_founder_received] силу.</li>
+    <li>story(uses=1,tag=meme_Cannibal)    -&gt;Чтобы освятить твёрдость убеждений своих последователей, [founderName] [cannibal_founder_demanded] им есть человеческую плоть хотя бы раз в неделю.</li>
+    <li>lessonIntro(tag=meme_Cannibal)         -&gt;Лишь после доброй трапезы человечиной я [cannibal_founder_got] того, чтобы люди узрели истину:</li>
+    <li>lesson(tag=meme_Cannibal)              -&gt;нельзя по-настоящему объединиться с человеком, не съев его плоти</li>
+    <li>lessonReinforcement(tag=meme_Cannibal) -&gt;Каждый раз, когда я делюсь телом врага с новым другом, я убеждаюсь, что он понимает это.</li>
+    <li>archistBasis(tag=meme_Cannibal)    -&gt;Архотеки, боги-машины, сделали себя таковыми, поглощая из раза в раз собственных предшественников и становясь всё сильнее и сильнее.</li>
+    <li>archistFact(tag=meme_Cannibal)     -&gt;По мере расширения своего сознания архотеки должны наращивать свою основу, поглощая и сливаясь с другими машинами.</li>
+    <li>archistProphecy(tag=meme_Cannibal) -&gt;[inTheEnd] архотеки завершат последнюю фазу своего роста, поглотив всё человечество и слившись с ним.</li>
+    <li>animistBasis(tag=meme_Cannibal)    -&gt;Духи населяют всё сущее вокруг нас, и во время еды мы забираем силу съедаемых духов себе. А нет духов более сильных, чем те, что живут в людях.</li>
+    <li>animistFact(tag=meme_Cannibal)     -&gt;Мы вбираем в себя дух и силу других людей, поедая их плоть.</li>
+    <li>cannibal_deity0_rose_up(deity0_gender==None)-&gt;восстало</li>
+    <li>cannibal_deity0_rose_up(deity0_gender==Male)-&gt;восстал</li>
+    <li>cannibal_deity0_rose_up(deity0_gender==Female)-&gt;восстала</li>
+    <li>cannibal_deity0_murdered(deity0_gender==None)-&gt;убило</li>
+    <li>cannibal_deity0_murdered(deity0_gender==Male)-&gt;убил</li>
+    <li>cannibal_deity0_murdered(deity0_gender==Female)-&gt;убила</li>
+    <li>cannibal_deity0_tasted(deity0_gender==None)-&gt;вкусило</li>
+    <li>cannibal_deity0_tasted(deity0_gender==Male)-&gt;вкусил</li>
+    <li>cannibal_deity0_tasted(deity0_gender==Female)-&gt;вкусила</li>
+    <li>cannibal_deity0_absorbed(deity0_gender==None)-&gt;впитало</li>
+    <li>cannibal_deity0_absorbed(deity0_gender==Male)-&gt;впитал</li>
+    <li>cannibal_deity0_absorbed(deity0_gender==Female)-&gt;впитала</li>
+    <li>cannibal_deity0_became_first(deity0_gender==None)-&gt;стало первым</li>
+    <li>cannibal_deity0_became_first(deity0_gender==Male)-&gt;стал первым</li>
+    <li>cannibal_deity0_became_first(deity0_gender==Female)-&gt;стала первой</li>
+    <li>cannibal_deity0_ate(deity0_gender==None)-&gt;поедало</li>
+    <li>cannibal_deity0_ate(deity0_gender==Male)-&gt;поедал</li>
+    <li>cannibal_deity0_ate(deity0_gender==Female)-&gt;поедала</li>
+    <li>cannibal_deity0_lived(deity0_gender==None)-&gt;жил</li>
+    <li>cannibal_deity0_lived(deity0_gender==Male)-&gt;жил</li>
+    <li>cannibal_deity0_lived(deity0_gender==Female)-&gt;жила</li>
+    <li>cannibal_deity0_human(deity0_gender==None)-&gt;человек</li>
+    <li>cannibal_deity0_human(deity0_gender==Male)-&gt;мужчина</li>
+    <li>cannibal_deity0_human(deity0_gender==Female)-&gt;женщина</li>
+    <li>cannibal_deity0_ate2(deity0_gender==None)-&gt;съел</li>
+    <li>cannibal_deity0_ate2(deity0_gender==Male)-&gt;съел</li>
+    <li>cannibal_deity0_ate2(deity0_gender==Female)-&gt;съела</li>
+    <li>cannibal_deity0_became_known(deity0_gender==None)-&gt;стал известен</li>
+    <li>cannibal_deity0_became_known(deity0_gender==Male)-&gt;стал известен</li>
+    <li>cannibal_deity0_became_known(deity0_gender==Female)-&gt;стала известна</li>
+    <li>cannibal_deity0_came_down(deity0_gender==None)-&gt;снизошло</li>
+    <li>cannibal_deity0_came_down(deity0_gender==Male)-&gt;снизошёл</li>
+    <li>cannibal_deity0_came_down(deity0_gender==Female)-&gt;снизошла</li>
+    <li>cannibal_deity0_feasted(deity0_gender==None)-&gt;воспировало</li>
+    <li>cannibal_deity0_feasted(deity0_gender==Male)-&gt;воспировал</li>
+    <li>cannibal_deity0_feasted(deity0_gender==Female)-&gt;воспировала</li>
+    <li>cannibal_firmly(deity0_gender==None)-&gt;хладнокровно</li>
+    <li>cannibal_firmly(deity0_gender==Male)-&gt;наповал</li>
+    <li>cannibal_firmly(deity0_gender==Female)-&gt;хладнокровно</li>
+    <li>cannibal_deity0_self(deity0_gender==None)-&gt;само</li>
+    <li>cannibal_deity0_self(deity0_gender==Male)-&gt;сам</li>
+    <li>cannibal_deity0_self(deity0_gender==Female)-&gt;сама</li>
+    <li>cannibal_deity0_possessed(deity0_gender==None)-&gt;обладало</li>
+    <li>cannibal_deity0_possessed(deity0_gender==Male)-&gt;обладал</li>
+    <li>cannibal_deity0_possessed(deity0_gender==Female)-&gt;обладала</li>
+    <li>cannibal_deity0_announced(deity0_gender==None)-&gt;возвестило</li>
+    <li>cannibal_deity0_announced(deity0_gender==Male)-&gt;возвестил</li>
+    <li>cannibal_deity0_announced(deity0_gender==Female)-&gt;возвестила</li>
+    <li>cannibal_founder_was_attacked(founder_gender==Male)-&gt;подвергся</li>
+    <li>cannibal_founder_was_attacked(founder_gender==Female)-&gt;подверглась</li>
+    <li>cannibal_founder_killed(founder_gender==Male)-&gt;сразил</li>
+    <li>cannibal_founder_killed(founder_gender==Female)-&gt;сразила</li>
+    <li>cannibal_founder_ate(founder_gender==Male)-&gt;съел</li>
+    <li>cannibal_founder_ate(founder_gender==Female)-&gt;съела</li>
+    <li>cannibal_founder_received(founder_gender==Male)-&gt;обрёл</li>
+    <li>cannibal_founder_received(founder_gender==Female)-&gt;обрела</li>
+    <li>cannibal_founder_feasted(founder_gender==Male)-&gt;вкусил</li>
+    <li>cannibal_founder_feasted(founder_gender==Female)-&gt;вкусила</li>
+    <li>cannibal_founder_crashlanded(founder_gender==Male)-&gt;потерпел</li>
+    <li>cannibal_founder_crashlanded(founder_gender==Female)-&gt;потерпела</li>
+    <li>cannibal_founder_surrounded(founder_gender==Male)-&gt;окружённым</li>
+    <li>cannibal_founder_surrounded(founder_gender==Female)-&gt;окружённой</li>
+    <li>cannibal_founder_demanded(founder_gender==Male)-&gt;наказал</li>
+    <li>cannibal_founder_demanded(founder_gender==Female)-&gt;наказала</li>
+    <li>cannibal_founder_got(founder_gender==Male)-&gt;добился</li>
+    <li>cannibal_founder_got(founder_gender==Female)-&gt;добилась</li>
+  </Cannibal.descriptionMaker.rules.rulesStrings>
+  <Cannibal.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;кровавый</li>
+    <li>memeAdjective_fem-&gt;кровавая</li>
+    <li>memeAdjective_neutral-&gt;кровавое</li>
+    <li>memeAdjective_plural-&gt;кровавые</li>
+    <li>memeCreed_plural-&gt;едоки</li>
+    <li>memeCreed_plural-&gt;зубы</li>
+    <li>memeCreed_fem-&gt;бойня</li>
+    <li>memeCreed_masc-&gt;культ</li>
+    <li>memeHyphenPrefix-&gt;крове</li>
+    <li>memeConcept-&gt;крови</li>
+    <li>memeConcept-&gt;плоти</li>
+    <li>memeConcept-&gt;убиения</li>
+    <li>memeConcept-&gt;поедания</li>
+    <li>memeLeaderNoun-&gt;едок</li>
+    <li>memeLeaderNoun-&gt;шеф-повар</li>
+    <li>memeLeaderNoun-&gt;кровопийца</li>
+    <li>memeLeaderNoun-&gt;зуб</li>
+    <li>memeLeaderNoun-&gt;потрошитель</li>
+    <li>memeMoralist-&gt;первоед</li>
+    <li>memeMoralist-&gt;плотевед</li>
+  </Cannibal.generalRules.rulesStrings>
+  <Cannibal.symbolPacks.0.adjective>каннибальский</Cannibal.symbolPacks.0.adjective>
+  <Cannibal.symbolPacks.0.ideoName>каннибализм</Cannibal.symbolPacks.0.ideoName>
+  <Cannibal.symbolPacks.0.member>каннибал</Cannibal.symbolPacks.0.member>
+  <Cannibal.symbolPacks.0.theme>каннибализма</Cannibal.symbolPacks.0.theme>
+  <Cannibal.symbolPacks.1.adjective>людоедский</Cannibal.symbolPacks.1.adjective>
+  <Cannibal.symbolPacks.1.ideoName>людоедство</Cannibal.symbolPacks.1.ideoName>
+  <Cannibal.symbolPacks.1.member>людоед</Cannibal.symbolPacks.1.member>
+  <Cannibal.symbolPacks.1.theme>людоедства</Cannibal.symbolPacks.1.theme>
+  <Cannibal.symbolPacks.2.adjective>челоедский</Cannibal.symbolPacks.2.adjective>
+  <Cannibal.symbolPacks.2.ideoName>челоедство</Cannibal.symbolPacks.2.ideoName>
+  <Cannibal.symbolPacks.2.member>челоед</Cannibal.symbolPacks.2.member>
+  <Cannibal.symbolPacks.2.theme>челоедства</Cannibal.symbolPacks.2.theme>
+  <Darkness.label>почитание тьмы</Darkness.label>
+  <Darkness.description>Яркий свет сжигает и разрушает! Тьма питает и созидает. Люди должны жить во тьме.</Darkness.description>
+  <Darkness.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Darkness)        -&gt;[darkness_deity0_cloaked] [deity0_name] тьмой вселенную, и [darkness_deity0_placed] [deity0_pronoun] человека внутри неё. Так [darkness_deity0_shared] [deity0_name] тьму с родом человеческим. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_Darkness)  -&gt;[andBehold] [darkness_deity0_created] [deity0_name] свет, и [darkness_deity0_said]: «Да будет свет, чтобы чрез тень, которую он порождает, смог человек познать Меня». [andItWasSo]</li>
+    <li>intro(tag=meme_Darkness)           -&gt;[once] [longAgo_Perf] [darkness_deity0_created] [deity0_type] [deity0_name] [place_summary_prepon] [place_summary_pre] [place_name] затмение десятилетнее, дабы уразумели первые поселенцы, что божественная истина лишь в тени кроется.</li>
+    <li>conflict(tag=meme_Darkness)        -&gt;[butOrAnd] возвёл [once] боявшийся темноты [foeLeader] зеркало солнечное, чтобы был на [place_name_pre] белый день круглосуточно.</li>
+    <li>founderJoin(tag=meme_Darkness)     -&gt;[thereWasARumor] [darkness_founder_was_born] некогда [darkness_founder_prophet] [founderName] на [place_name_pre] во тьме кромешной, [darkness_founder_lived] [founder_pronoun] жизнь свою во мгле чернейшей, и потому [darkness_deity0_filled] [deity0_name] [founder_possessive] речи своею мудростью извечной.</li>
+    <li>victory(tag=meme_Darkness)         -&gt;[soonerOrLater] обесточили [memberNamePlural] [place_powerCenter_acc] ударом стремительным, и [darkness_founder_managed_to] тогда [founderName] пробраться мимо [foeSoldiers_genacc] в темноте ослепительной. [darkness_founder_took] [founder_pronoun] в руки [place_personalWeapon_acc], [darkness_founder_found] [foeLeader_acc] да и [darkness_founder_sent] наконец, [damned3_adj_no_ending]ого, во мрак бесконечности.</li>
+    <li>setup(tag=meme_Darkness)           -&gt;[founderName] [darkness_founder_lived] всю свою смятенную жизнь среди резкого света городских огней утопического мира. В долгой тьме, последовавшей за солнечной вспышкой, [founder_pronoun] [darkness_founder_found] покой и осмысленность и написал свой великий труд, который стал основой нашего движения.</li>
+    <li>story(uses=1,tag=meme_Darkness)    -&gt;[founderName] [darkness_founder_founded] студию, где художники работали в полной темноте, и из стен которой вышло множество шедевров.</li>
+    <li>lessonIntro(tag=meme_Darkness)         -&gt;Всё своё детство я [darkness_founder_spent], щурясь от яркого света. Слишком много времени я не [darkness_founder_understood], что</li>
+    <li>lesson(tag=meme_Darkness)              -&gt;свет сжигает, а тьма питает</li>
+    <li>lessonReinforcement(tag=meme_Darkness) -&gt;Я люблю шутить, что это был момент моего просветления.</li>
+    <li>archistFact(tag=meme_Darkness)     -&gt;Архотеки разработали ванометрические технологии, чтобы уйти от использования световой энергии звёздных систем и остаться в мирной тьме глубокого космоса.</li>
+    <li>archistProphecy(tag=meme_Darkness) -&gt;[inTheEnd] архотеки впитают силу звёзд, погрузив миры во тьму и позволив людям слиться со вселенским сознанием.</li>
+    <li>animistFact(tag=meme_Darkness)     -&gt;Во тьме духи мирны и спокойны. На свету же — раздражены и встревожены.</li>
+    <li>animistFact(tag=meme_Darkness)     -&gt;Добрые духи живут в тенях вокруг нас, ища свой покой в местах, сокрытых от взора. Если мы тоже будем жить во тьме, то сблизимся с ними.</li>
+    <li>darkness_deity0_cloaked(deity0_gender==None)-&gt;накрыло</li>
+    <li>darkness_deity0_cloaked(deity0_gender==Male)-&gt;накрыл</li>
+    <li>darkness_deity0_cloaked(deity0_gender==Female)-&gt;накрыла</li>
+    <li>darkness_deity0_placed(deity0_gender==None)-&gt;поместило</li>
+    <li>darkness_deity0_placed(deity0_gender==Male)-&gt;поместил</li>
+    <li>darkness_deity0_placed(deity0_gender==Female)-&gt;поместила</li>
+    <li>darkness_deity0_shared(deity0_gender==None)-&gt;разделило</li>
+    <li>darkness_deity0_shared(deity0_gender==Male)-&gt;разделил</li>
+    <li>darkness_deity0_shared(deity0_gender==Female)-&gt;разделила</li>
+    <li>darkness_deity0_created(deity0_gender==None)-&gt;создало</li>
+    <li>darkness_deity0_created(deity0_gender==Male)-&gt;создал</li>
+    <li>darkness_deity0_created(deity0_gender==Female)-&gt;создала</li>
+    <li>darkness_deity0_said(deity0_gender==None)-&gt;сказало</li>
+    <li>darkness_deity0_said(deity0_gender==Male)-&gt;сказал</li>
+    <li>darkness_deity0_said(deity0_gender==Female)-&gt;сказала</li>
+    <li>darkness_deity0_filled(deity0_gender==None)-&gt;наполняло</li>
+    <li>darkness_deity0_filled(deity0_gender==Male)-&gt;наполнял</li>
+    <li>darkness_deity0_filled(deity0_gender==Female)-&gt;наполняла</li>
+    <li>darkness_founder_was_born(founder_gender==Male)-&gt;родился</li>
+    <li>darkness_founder_was_born(founder_gender==Female)-&gt;родилась</li>
+    <li>darkness_founder_prophet(founder_gender==Male)-&gt;пророк</li>
+    <li>darkness_founder_prophet(founder_gender==Female)-&gt;пророчица</li>
+    <li>darkness_founder_lived(founder_gender==Male)-&gt;проводил</li>
+    <li>darkness_founder_lived(founder_gender==Female)-&gt;проводила</li>
+    <li>darkness_founder_managed_to(founder_gender==Male)-&gt;смог</li>
+    <li>darkness_founder_managed_to(founder_gender==Female)-&gt;смогла</li>
+    <li>darkness_founder_took(founder_gender==Male)-&gt;взял</li>
+    <li>darkness_founder_took(founder_gender==Female)-&gt;взяла</li>
+    <li>darkness_founder_found(founder_gender==Male)-&gt;нашёл</li>
+    <li>darkness_founder_found(founder_gender==Female)-&gt;нашла</li>
+    <li>darkness_founder_sent(founder_gender==Male)-&gt;отправил</li>
+    <li>darkness_founder_sent(founder_gender==Female)-&gt;отправила</li>
+    <li>darkness_founder_founded(founder_gender==Male)-&gt;основал</li>
+    <li>darkness_founder_founded(founder_gender==Female)-&gt;основала</li>
+    <li>darkness_founder_spent(founder_gender==Male)-&gt;провёл</li>
+    <li>darkness_founder_spent(founder_gender==Female)-&gt;провела</li>
+    <li>darkness_founder_understood(founder_gender==Male)-&gt;понимал</li>
+    <li>darkness_founder_understood(founder_gender==Female)-&gt;понимала</li>
+  </Darkness.descriptionMaker.rules.rulesStrings>
+  <Darkness.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;тёмный</li>
+    <li>memeAdjective_masc-&gt;кромешный</li>
+    <li>memeAdjective_fem-&gt;тёмная</li>
+    <li>memeAdjective_fem-&gt;кромешная</li>
+    <li>memeAdjective_neutral-&gt;тёмное</li>
+    <li>memeAdjective_neutral-&gt;кромешное</li>
+    <li>memeAdjective_plural-&gt;тёмные</li>
+    <li>memeAdjective_plural-&gt;кромешные</li>
+    <li>memeHyphenPrefix-&gt;темно</li>
+    <li>memeHyphenPrefix-&gt;тускло</li>
+    <li>memeConcept-&gt;тьмы</li>
+    <li>memeConcept-&gt;мрака</li>
+    <li>memeConcept-&gt;черноты</li>
+    <li>memeLeaderNoun-&gt;мраководец</li>
+    <li>memeLeaderNoun-&gt;светоборец</li>
+    <li>memeLeaderAdjective-&gt;тёмный</li>
+    <li>memeMoralist-&gt;затмитель</li>
+    <li>memeMoralist-&gt;темновед</li>
+    <li>memeMoralist-&gt;темнитель</li>
+  </Darkness.generalRules.rulesStrings>
+  <FleshPurity.label>биоконсерватизм</FleshPurity.label>
+  <FleshPurity.description>Человеческое тело нельзя осквернять.</FleshPurity.description>
+  <FleshPurity.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FleshPurity)        -&gt;[fleshPurity_deity0_destroyed] [deity0_name] машины все, эпохой дыма порождённые, и [fleshPurity_deity0_wiped] с лица мира копоть всю, машинами произведённую. И [fleshPurity_deity0_created] [deity0_pronoun] сад, и [fleshPurity_deity0_placed] в него чистых прародителей рода человеческого. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_FleshPurity)  -&gt;И [fleshPurity_deity0_cast_down] [deity0_name] в пучину морскую нечестивых всех, тела чьи татуировками, металлом и приращениями искусственными осквернены были.</li>
+    <li>intro(tag=meme_FleshPurity)           -&gt;[longAgo_Cont] стояла в [altarRoomLabel_pre] [place_summary_prepon] [place_summary_pre] [place_name] святыня [altarName] превеликая, и [fleshPurity_deity0_blessed] пред ней [deity0_type] [deity0_name] тех, чьи тела были естеством своим чистыми.</li>
+    <li>conflict(tag=meme_FleshPurity)        -&gt;[butOrAnd] послал [once] [vile_adj] [foeLeader] [foeSoldiers_genacc] своих маргинальных вживить всем добрым людям устройства для слежки тотальной.</li>
+    <li>founderJoin(tag=meme_FleshPurity)     -&gt;[soonerOrLater] [fleshPurity_founder_protested] [founder_place_job] [founderName] своенравию [foeLeader_gen] богомерзкому, [fleshPurity_founder_kneeled] на колени перед [place_powerCenter_ins] да [fleshPurity_founder_ripped] голыми руками из своего тела все приспособления суррогатные.</li>
+    <li>victory(tag=meme_FleshPurity)         -&gt;[soonerOrLater_Period] возжелал [foeLeader] избавиться от несогласных с его порядком, и были [foeSoldiers_ins] атакованы [memberNamePlural], чьи непорочные тела излучали силу божественную. Не [fleshPurity_deity0_accepted] [deity0_name] с этой дерзостью да и [fleshPurity_deity0_burned] устройства, что были в телах [foeSoldiers_genacc], обратив тех в останки обугленные.</li>
+    <li>setup(tag=meme_FleshPurity)           -&gt;[founderName] долго [fleshPurity_founder_ruined] своё тело имплантами и наркотиками. Но однажды на н[founder_possessive] снизошло озарение, и тогда [founder_pronoun] [fleshPurity_founder_saved] себя, вырвав всё ненавистное железо из своего тела.</li>
+    <li>story(uses=1,tag=meme_FleshPurity)    -&gt;[founderName] [fleshPurity_founder_instructed] своим последователям вырвать из своих тел все презренные устройства.</li>
+    <li>lessonIntro(tag=meme_FleshPurity)         -&gt;Первые десять моих последователей вырвали устройства из своей плоти голыми руками, и в брызгах крови на грязном полу я [fleshPurity_founder_perceived] истину, в которой мы так нуждались:</li>
+    <li>lesson(tag=meme_FleshPurity)              -&gt;жить в осквернённом теле — значит не жить вовсе</li>
+    <li>lessonReinforcement(tag=meme_FleshPurity) -&gt;Это стало ясно только после того, как я наконец [fleshPurity_founder_ripped] всё железо из своего тела и [fleshPurity_founder_peeled] до крови кожу, покрытую татуировками.</li>
+    <li>archistBasis(tag=meme_FleshPurity)    -&gt;С самого своего появления архотеки проводят чёткую границу между существами из плоти и порождениями технологии — и эта граница не должна размываться.</li>
+    <li>archistFact(tag=meme_FleshPurity)     -&gt;Архотекам мы сможем уподобиться, не физически имитируя их форму, но лишь достигнув просветления в собственном чистом обличии.</li>
+    <li>archistProphecy(tag=meme_FleshPurity) -&gt;[inTheEnd] те, кто превратил своё тело в извращённую имитацию машины, будут уничтожены, а те, кто сохранил чистоту своей плоти — спасутся.</li>
+    <li>animistBasis(tag=meme_FleshPurity)    -&gt;Духи населяют всё сущее вокруг нас, и изменить природу предмета — значит отравить его дух.</li>
+    <li>animistFact(tag=meme_FleshPurity)     -&gt;Смешение плоти и машины искажает дух как той, так и другой.</li>
+    <li>fleshPurity_deity0_destroyed(deity0_gender==None)-&gt;уничтожило</li>
+    <li>fleshPurity_deity0_destroyed(deity0_gender==Male)-&gt;уничтожил</li>
+    <li>fleshPurity_deity0_destroyed(deity0_gender==Female)-&gt;уничтожила</li>
+    <li>fleshPurity_deity0_wiped(deity0_gender==None)-&gt;стёрло</li>
+    <li>fleshPurity_deity0_wiped(deity0_gender==Male)-&gt;стёр</li>
+    <li>fleshPurity_deity0_wiped(deity0_gender==Female)-&gt;стёрла</li>
+    <li>fleshPurity_deity0_created(deity0_gender==None)-&gt;создало</li>
+    <li>fleshPurity_deity0_created(deity0_gender==Male)-&gt;создал</li>
+    <li>fleshPurity_deity0_created(deity0_gender==Female)-&gt;создала</li>
+    <li>fleshPurity_deity0_placed(deity0_gender==None)-&gt;поселило</li>
+    <li>fleshPurity_deity0_placed(deity0_gender==Male)-&gt;поселил</li>
+    <li>fleshPurity_deity0_placed(deity0_gender==Female)-&gt;поселила</li>
+    <li>fleshPurity_deity0_cast_down(deity0_gender==None)-&gt;низвергало</li>
+    <li>fleshPurity_deity0_cast_down(deity0_gender==Male)-&gt;низвергал</li>
+    <li>fleshPurity_deity0_cast_down(deity0_gender==Female)-&gt;низвергала</li>
+    <li>fleshPurity_deity0_blessed(deity0_gender==None)-&gt;благословляло</li>
+    <li>fleshPurity_deity0_blessed(deity0_gender==Male)-&gt;благословлял</li>
+    <li>fleshPurity_deity0_blessed(deity0_gender==Female)-&gt;благословляла</li>
+    <li>fleshPurity_deity0_accepted(deity0_gender==None)-&gt;смирилось</li>
+    <li>fleshPurity_deity0_accepted(deity0_gender==Male)-&gt;смирился</li>
+    <li>fleshPurity_deity0_accepted(deity0_gender==Female)-&gt;смирилась</li>
+    <li>fleshPurity_deity0_burned(deity0_gender==None)-&gt;пожгло да поплавило</li>
+    <li>fleshPurity_deity0_burned(deity0_gender==Male)-&gt;пожёг да поплавил</li>
+    <li>fleshPurity_deity0_burned(deity0_gender==Female)-&gt;пожгла да поплавила</li>
+    <li>fleshPurity_founder_protested(founder_gender==Male)-&gt;воспротивился</li>
+    <li>fleshPurity_founder_protested(founder_gender==Female)-&gt;воспротивилась</li>
+    <li>fleshPurity_founder_ripped(founder_gender==Male)-&gt;вырвал</li>
+    <li>fleshPurity_founder_ripped(founder_gender==Female)-&gt;вырвала</li>
+    <li>fleshPurity_founder_kneeled(founder_gender==Male)-&gt;стал</li>
+    <li>fleshPurity_founder_kneeled(founder_gender==Female)-&gt;стала</li>
+    <li>fleshPurity_founder_ruined(founder_gender==Male)-&gt;губил</li>
+    <li>fleshPurity_founder_ruined(founder_gender==Female)-&gt;губила</li>
+    <li>fleshPurity_founder_saved(founder_gender==Male)-&gt;спас</li>
+    <li>fleshPurity_founder_saved(founder_gender==Female)-&gt;спасла</li>
+    <li>fleshPurity_founder_instructed(founder_gender==Male)-&gt;наказал</li>
+    <li>fleshPurity_founder_instructed(founder_gender==Female)-&gt;наказала</li>
+    <li>fleshPurity_founder_perceived(founder_gender==Male)-&gt;узрел</li>
+    <li>fleshPurity_founder_perceived(founder_gender==Female)-&gt;узрела</li>
+    <li>fleshPurity_founder_peeled(founder_gender==Male)-&gt;стёр</li>
+    <li>fleshPurity_founder_peeled(founder_gender==Female)-&gt;стёрла</li>
+  </FleshPurity.descriptionMaker.rules.rulesStrings>
+  <FleshPurity.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;чистый</li>
+    <li>memeAdjective_masc-&gt;непорочный</li>
+    <li>memeAdjective_masc-&gt;неприкосновенный</li>
+    <li>memeAdjective_fem-&gt;чистая</li>
+    <li>memeAdjective_fem-&gt;непорочная</li>
+    <li>memeAdjective_fem-&gt;неприкосновенная</li>
+    <li>memeAdjective_neutral-&gt;чистое</li>
+    <li>memeAdjective_neutral-&gt;непорочное</li>
+    <li>memeAdjective_neutral-&gt;неприкосновенное</li>
+    <li>memeAdjective_plural-&gt;чистые</li>
+    <li>memeAdjective_plural-&gt;непорочные</li>
+    <li>memeAdjective_plural-&gt;неприкосновенные</li>
+    <li>memeCreed_masc-&gt;культ</li>
+    <li>memeCreed_fem-&gt;секта</li>
+    <li>memeConcept-&gt;плоти</li>
+    <li>memeConcept-&gt;чистоты</li>
+    <li>memeConcept-&gt;неприкосновенности</li>
+    <li>memeLeaderNoun-&gt;человек</li>
+    <li>memeMoralist-&gt;чисти́тель</li>
+  </FleshPurity.generalRules.rulesStrings>
+  <FleshPurity.symbolPacks.0.adjective>пурический</FleshPurity.symbolPacks.0.adjective>
+  <FleshPurity.symbolPacks.0.ideoName>пуризм</FleshPurity.symbolPacks.0.ideoName>
+  <FleshPurity.symbolPacks.0.member>чисти́тель</FleshPurity.symbolPacks.0.member>
+  <FleshPurity.symbolPacks.0.theme>чистоты</FleshPurity.symbolPacks.0.theme>
+  <FleshPurity.symbolPacks.1.adjective>флешистский</FleshPurity.symbolPacks.1.adjective>
+  <FleshPurity.symbolPacks.1.ideoName>флешизм</FleshPurity.symbolPacks.1.ideoName>
+  <FleshPurity.symbolPacks.1.member>флешист</FleshPurity.symbolPacks.1.member>
+  <FleshPurity.symbolPacks.1.theme>плоти</FleshPurity.symbolPacks.1.theme>
+  <FleshPurity.symbolPacks.2.adjective>санктический</FleshPurity.symbolPacks.2.adjective>
+  <FleshPurity.symbolPacks.2.ideoName>санктизм</FleshPurity.symbolPacks.2.ideoName>
+  <FleshPurity.symbolPacks.2.member>санктист</FleshPurity.symbolPacks.2.member>
+  <FleshPurity.symbolPacks.2.theme>неприкосновенности</FleshPurity.symbolPacks.2.theme>
+  <HighLife.label>жизнь под кайфом</HighLife.label>
+  <HighLife.description>Особые состояния сознания — ключ к счастливой жизни.</HighLife.description>
+  <HighLife.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HighLife)           -&gt;В начале был дым, и вселенная полнилась им. И собрался дым в кумар густой, и [highLife_deity0_awoke] [deity0_name] из клубов его. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_HighLife)     -&gt;И [highLife_deity0_concealed] [deity0_type] [deity0_name] истину свою в складках реальности, для разума простого незримых.</li>
+    <li>intro(tag=meme_HighLife)              -&gt;[once] [longAgo_Perf] едва не врезался один пьяный капитан в [place_summary_acc] [place_name] на корабле своём космическом, тогда и [highLife_deity0_illumined] [deity0_name] то место благодатью своей безудержной.</li>
+    <li>conflict(tag=meme_HighLife)           -&gt;[butOrAnd] узнал [onceTwice] [foeLeader], что счастливы были [memberNamePlural] в своей самобытности, презрел он их осуждающе да и запретил все вещества, сознание расширяющие.</li>
+    <li>founderJoin(tag=meme_HighLife)        -&gt;[soonerOrLater] [highLife_deity0_came] [deity0_name] к [highLife_founder_prophet] по имени [founderName] в тумане наркотическом, [highLife_founder_saw] [founderName] необыкновенное видение да тут же и [highLife_founder_understood], как над [foeSoldiers_ins] одержать победу триумфальную.</li>
+    <li>victory(tag=meme_HighLife)            -&gt;[soonerOrLater_Period] напали вооружённые [place_personalWeapon_ins_plural] [foeSoldiers] на [place_community_acc], но не испугались [memberNamePlural], там собравшиеся, — [highLife_founder_went_out] [founderName] к ворогам да [highLife_founder_offered] им трубку мира, и сложили тогда своё оружие [foeSoldiers] примирившиеся.</li>
+    <li>setup(tag=meme_HighLife)              -&gt;[highLife_founder_cast_out] обществом, [highLife_founder_our_founder] [founderName] [highLife_founder_traveled] в джунгли. Там [founder_pronoun] [highLife_founder_ingested] местные экзотические травы и [highLife_founder_found] истину внутри своего изменённого сознания.</li>
+    <li>story(uses=1,tag=meme_HighLife)       -&gt;Для укрепления убеждений своих сторонников [founderName] [highLife_founder_brought] их вместе каждую неделю, чтобы испытывать с ними новые химически вызванные состояния сознания.</li>
+    <li>lessonIntro(tag=meme_HighLife)         -&gt;Одного раза было недостаточно, чувак. Нам пришлось проделать это тысячу раз, чтобы в моём распахнутом настежь сознании все кусочки головоломки наконец сложились вместе, словно рухнувший карточный домик, только наоборот. Я [highLife_founder_saw2], что</li>
+    <li>lesson(tag=meme_HighLife)              -&gt;твой друг — тебе не друг, пока ты не погрузишься в глубины разума вместе с ним</li>
+    <li>lessonReinforcement(tag=meme_HighLife) -&gt;Это был суровый приход, чувак, но я [highLife_founder_glad], что [highLife_founder_realized] это, и теперь передаю этот дым тебе, чтобы ты тоже смог.</li>
+    <li>archistBasis(tag=meme_HighLife)       -&gt;Разум архотеков показал, что сверхсознание — не продукт трезвой механической логики, а плод многорежимного мышления.</li>
+    <li>archistFact(tag=meme_HighLife)        -&gt;При помощи определённых химических воздействий человеческий разум способен общаться с архотеками.</li>
+    <li>archistProphecy(tag=meme_HighLife)    -&gt;[inTheEnd] архотеки дадут каждому человеку таблетку. Те, кто её примет, изменятся навсегда и присоединятся к архотекам в их последнем путешествии.</li>
+    <li>animistFact(tag=meme_HighLife)        -&gt;Духи могут открыть нам свою природу, когда мы расширяем наше сознание средствами, что нам для этого даны.</li>
+    <li>highLife_deity0_awoke(deity0_gender==None)-&gt;пробудилось</li>
+    <li>highLife_deity0_awoke(deity0_gender==Male)-&gt;пробудился</li>
+    <li>highLife_deity0_awoke(deity0_gender==Female)-&gt;пробудилась</li>
+    <li>highLife_deity0_concealed(deity0_gender==None)-&gt;скрывало</li>
+    <li>highLife_deity0_concealed(deity0_gender==Male)-&gt;скрывал</li>
+    <li>highLife_deity0_concealed(deity0_gender==Female)-&gt;скрывала</li>
+    <li>highLife_deity0_illumined(deity0_gender==None)-&gt;озарило</li>
+    <li>highLife_deity0_illumined(deity0_gender==Male)-&gt;озарил</li>
+    <li>highLife_deity0_illumined(deity0_gender==Female)-&gt;озарила</li>
+    <li>highLife_deity0_came(deity0_gender==None)-&gt;явилось</li>
+    <li>highLife_deity0_came(deity0_gender==Male)-&gt;явился</li>
+    <li>highLife_deity0_came(deity0_gender==Female)-&gt;явилась</li>
+    <li>highLife_founder_prophet(founder_gender==Male)-&gt;пророку</li>
+    <li>highLife_founder_prophet(founder_gender==Female)-&gt;пророчице</li>
+    <li>highLife_founder_saw(founder_gender==Male)-&gt;узрел</li>
+    <li>highLife_founder_saw(founder_gender==Female)-&gt;узрела</li>
+    <li>highLife_founder_understood(founder_gender==Male)-&gt;смекнул</li>
+    <li>highLife_founder_understood(founder_gender==Female)-&gt;смекнула</li>
+    <li>highLife_founder_went_out(founder_gender==Male)-&gt;вышел</li>
+    <li>highLife_founder_went_out(founder_gender==Female)-&gt;вышла</li>
+    <li>highLife_founder_offered(founder_gender==Male)-&gt;предложил</li>
+    <li>highLife_founder_offered(founder_gender==Female)-&gt;предложила</li>
+    <li>highLife_founder_cast_out(founder_gender==Male)-&gt;отверженный</li>
+    <li>highLife_founder_cast_out(founder_gender==Female)-&gt;отверженная</li>
+    <li>highLife_founder_our_founder(founder_gender==Male)-&gt;наш основатель</li>
+    <li>highLife_founder_our_founder(founder_gender==Female)-&gt;наша основательница</li>
+    <li>highLife_founder_traveled(founder_gender==Male)-&gt;отправился</li>
+    <li>highLife_founder_traveled(founder_gender==Female)-&gt;отправилась</li>
+    <li>highLife_founder_ingested(founder_gender==Male)-&gt;попробовал</li>
+    <li>highLife_founder_ingested(founder_gender==Female)-&gt;попробовала</li>
+    <li>highLife_founder_found(founder_gender==Male)-&gt;постиг</li>
+    <li>highLife_founder_found(founder_gender==Female)-&gt;постигла</li>
+    <li>highLife_founder_brought(founder_gender==Male)-&gt;собирал</li>
+    <li>highLife_founder_brought(founder_gender==Female)-&gt;собирала</li>
+    <li>highLife_founder_saw2(founder_gender==Male)-&gt;увидел</li>
+    <li>highLife_founder_saw2(founder_gender==Female)-&gt;увидела</li>
+    <li>highLife_founder_glad(founder_gender==Male)-&gt;рад</li>
+    <li>highLife_founder_glad(founder_gender==Female)-&gt;рада</li>
+    <li>highLife_founder_realized(founder_gender==Male)-&gt;осознал</li>
+    <li>highLife_founder_realized(founder_gender==Female)-&gt;осознала</li>
+  </HighLife.descriptionMaker.rules.rulesStrings>
+  <HighLife.generalRules.rulesStrings>
+    <li>memeCreed_fem-&gt;компания</li>
+    <li>memeAdjective_masc-&gt;улётный</li>
+    <li>memeAdjective_masc-&gt;опьянённый</li>
+    <li>memeAdjective_masc-&gt;кайфовый</li>
+    <li>memeAdjective_fem-&gt;улётная</li>
+    <li>memeAdjective_fem-&gt;опьянённая</li>
+    <li>memeAdjective_fem-&gt;кайфовая</li>
+    <li>memeAdjective_neutral-&gt;улётное</li>
+    <li>memeAdjective_neutral-&gt;опьянённое</li>
+    <li>memeAdjective_neutral-&gt;кайфовое</li>
+    <li>memeAdjective_plural-&gt;улётные</li>
+    <li>memeAdjective_plural-&gt;опьянённые</li>
+    <li>memeAdjective_plural-&gt;кайфовые</li>
+    <li>memeConcept-&gt;наркотиков</li>
+    <li>memeConcept-&gt;наслаждения</li>
+    <li>memeConcept-&gt;видений</li>
+    <li>memeHyphenPrefix-&gt;нарко</li>
+    <li>memeHyphenPrefix-&gt;кайфо</li>
+    <li>memeLeaderNoun-&gt;психонавт</li>
+    <li>memeLeaderNoun-&gt;кайфолов</li>
+    <li>memeLeaderNoun-&gt;курец</li>
+    <li>memeLeaderNoun-&gt;чилер</li>
+    <li>memeMoralist-&gt;философ</li>
+    <li>memeMoralist-&gt;абстрактор</li>
+    <li>memeMoralist-&gt;смехач</li>
+    <li>memeMoralist-&gt;хохотун</li>
+  </HighLife.generalRules.rulesStrings>
+  <HighLife.symbolPacks.0.adjective>эйфорический</HighLife.symbolPacks.0.adjective>
+  <HighLife.symbolPacks.0.ideoName>эйфоризм</HighLife.symbolPacks.0.ideoName>
+  <HighLife.symbolPacks.0.member>эйфорист</HighLife.symbolPacks.0.member>
+  <HighLife.symbolPacks.0.theme>эйфории</HighLife.symbolPacks.0.theme>
+  <HighLife.symbolPacks.1.adjective>психонавтический</HighLife.symbolPacks.1.adjective>
+  <HighLife.symbolPacks.1.ideoName>психонавтизм</HighLife.symbolPacks.1.ideoName>
+  <HighLife.symbolPacks.1.member>психонавт</HighLife.symbolPacks.1.member>
+  <HighLife.symbolPacks.1.theme>психонавтики</HighLife.symbolPacks.1.theme>
+  <HighLife.symbolPacks.2.adjective>кумарический</HighLife.symbolPacks.2.adjective>
+  <HighLife.symbolPacks.2.ideoName>кумаризм</HighLife.symbolPacks.2.ideoName>
+  <HighLife.symbolPacks.2.member>кумарист</HighLife.symbolPacks.2.member>
+  <HighLife.symbolPacks.2.theme>кумара</HighLife.symbolPacks.2.theme>
+  <HighLife.symbolPacks.3.adjective>экстатический</HighLife.symbolPacks.3.adjective>
+  <HighLife.symbolPacks.3.ideoName>экстатизм</HighLife.symbolPacks.3.ideoName>
+  <HighLife.symbolPacks.3.member>экстатист</HighLife.symbolPacks.3.member>
+  <HighLife.symbolPacks.3.theme>экстаза</HighLife.symbolPacks.3.theme>
+  <Nudism.label>нудизм</Nudism.label>
+  <Nudism.description>Одежда связывает, угнетает и душит нас. А нам нужна свобода.</Nudism.description>
+  <Nudism.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nudism)           -&gt;[nudism_deity0_aimed] [deity0_name] взор свой в пустоту, и была пустота чиста и первозданна. И [nudism_deity0_wished] [deity0_name] о созданиях с плотью свободной, и [nudism_deity0_made] [deity0_pronoun] человека по образу и подобию своему. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_Nudism)     -&gt;И [nudism_deity0_listened] [deity0_name] вопрошениям людей, тела свои прикрывавших: «Почто одежды на Тебе нет? Это отвратительно». И [nudism_deity0_replied] [deity0_type] им: «И Моё тело, и ваши тела созданы были на небесах. Скрывать их — вот что воистину отвратительно».</li>
+    <li>intro(tag=meme_Nudism)              -&gt;[once] [longAgo_Perf] зародилась [place_summary_prepon] [place_summary_pre] [place_name] традиция в [altarRoomLabel_pre] молиться, не прикрывая наготы своей естественной, и [nudism_deity0_rejoyced] этому [deity0_type] [deity0_name] радостью весьма великою.</li>
+    <li>conflict(tag=meme_Nudism)           -&gt;[butOrAnd] пришёл [onceTwice] ко власти [foeLeader] чопорный да потребовал, чтобы носили все люди одежду тесную.</li>
+    <li>founderJoin(tag=meme_Nudism)        -&gt;[soonerOrLater] [nudism_founder_stood] перед [place_powerCenter_ins] [founderName], [nudism_founder_which] [deity0_name] [nudism_deity0_named] [nudism_founder_their_prophet], да [nudism_founder_tore_off] с себя все одеяния, обнажив своё тело в знак неповиновения приказам [foeSoldiers_genacc] возмутительным.</li>
+    <li>victory(tag=meme_Nudism)            -&gt;[soonerOrLater] [nudism_founder_prayed] наконец [founderName] руки к небесам в молитве, [nudism_deity0_heard] [founder_possessive] [deity0_name] да [nudism_deity0_engulfed] [place_name_acc] жарой небывалой. Посбрасывали тогда [foeSoldiers] с себя всю одежду, чтобы не погибнуть, — да и бежал с позором [foeLeader], тиран [damned3_adj_no_ending]ый.</li>
+    <li>setup(tag=meme_Nudism)              -&gt;[founderName] [nudism_founder_was] рабом системы, [nudism_founder_weared] униформу и [nudism_founder_was] [nudism_founder_controlled], как и все остальные. Но однажды [founder_pronoun] [nudism_founder_tore_off] с себя всю одежду, обнажив наготу, и так родилось наше движение.</li>
+    <li>story(uses=1,tag=meme_Nudism)       -&gt;[founderName] [nudism_founder_enforced] для своих последователей правило не носить одежду, чтобы мысли их были об истинных целях, а не о внешних материях.</li>
+    <li>lessonIntro(tag=meme_Nudism)         -&gt;Первые несколько лет разгуливать по парку голышом было неловко. Но позже это стало приносить свободу. Я многому [nudism_founder_learned] от проходящих мимо меня людей. Например, что</li>
+    <li>lesson(tag=meme_Nudism)              -&gt;всё человеческое зло скрывается под одеждой, а добру — скрывать нечего</li>
+    <li>lessonReinforcement(tag=meme_Nudism) -&gt;Когда ты увидишь на улице одного из нас, резвящегося и пляшущего в своей свободе, ты поймёшь, что он познал и принял истину.</li>
+    <li>archistBasis(tag=meme_Nudism)       -&gt;Когда архотеки появились, их не волновал внешний облик вещей. Они показали нам, что разум — превыше физической оболочки.</li>
+    <li>archistFact(tag=meme_Nudism)        -&gt;Архотеки иногда напрямую касаются разума человека, но если его разум спрятан, как его тело, он не поймёт этого.</li>
+    <li>archistProphecy(tag=meme_Nudism)    -&gt;[inTheEnd] они будут искать тех, кто, как и они, не пытается выглядеть тем, кем в действительности не является.</li>
+    <li>animistFact(tag=meme_Nudism)        -&gt;Покрывать своё тело одеждой — значит скрывать природу духов внутри нас. А это тревожит их.</li>
+    <li>nudism_deity0_aimed(deity0_gender==None)-&gt;устремило</li>
+    <li>nudism_deity0_aimed(deity0_gender==Male)-&gt;устремил</li>
+    <li>nudism_deity0_aimed(deity0_gender==Female)-&gt;устремила</li>
+    <li>nudism_deity0_wished(deity0_gender==None)-&gt;возмечтало</li>
+    <li>nudism_deity0_wished(deity0_gender==Male)-&gt;возмечтал</li>
+    <li>nudism_deity0_wished(deity0_gender==Female)-&gt;возмечтала</li>
+    <li>nudism_deity0_made(deity0_gender==None)-&gt;сотворило</li>
+    <li>nudism_deity0_made(deity0_gender==Male)-&gt;сотворил</li>
+    <li>nudism_deity0_made(deity0_gender==Female)-&gt;сотворила</li>
+    <li>nudism_deity0_listened(deity0_gender==None)-&gt;внимало</li>
+    <li>nudism_deity0_listened(deity0_gender==Male)-&gt;внимал</li>
+    <li>nudism_deity0_listened(deity0_gender==Female)-&gt;внимала</li>
+    <li>nudism_deity0_replied(deity0_gender==None)-&gt;отвечало</li>
+    <li>nudism_deity0_replied(deity0_gender==Male)-&gt;отвечал</li>
+    <li>nudism_deity0_replied(deity0_gender==Female)-&gt;отвечала</li>
+    <li>nudism_deity0_rejoyced(deity0_gender==None)-&gt;возрадовалось</li>
+    <li>nudism_deity0_rejoyced(deity0_gender==Male)-&gt;возрадовался</li>
+    <li>nudism_deity0_rejoyced(deity0_gender==Female)-&gt;возрадовалась</li>
+    <li>nudism_deity0_named(deity0_gender==None)-&gt;нарекло</li>
+    <li>nudism_deity0_named(deity0_gender==Male)-&gt;нарёк</li>
+    <li>nudism_deity0_named(deity0_gender==Female)-&gt;нарекла</li>
+    <li>nudism_deity0_heard(deity0_gender==None)-&gt;услышало</li>
+    <li>nudism_deity0_heard(deity0_gender==Male)-&gt;услышал</li>
+    <li>nudism_deity0_heard(deity0_gender==Female)-&gt;услышала</li>
+    <li>nudism_deity0_engulfed(deity0_gender==None)-&gt;объяло</li>
+    <li>nudism_deity0_engulfed(deity0_gender==Male)-&gt;объял</li>
+    <li>nudism_deity0_engulfed(deity0_gender==Female)-&gt;объяла</li>
+    <li>nudism_founder_stood(founder_gender==Male)-&gt;стал</li>
+    <li>nudism_founder_stood(founder_gender==Female)-&gt;стала</li>
+    <li>nudism_founder_which(founder_gender==Male)-&gt;которого</li>
+    <li>nudism_founder_which(founder_gender==Female)-&gt;которую</li>
+    <li>nudism_founder_their_prophet(founder_gender==Male)-&gt;пророком своим преданным</li>
+    <li>nudism_founder_their_prophet(founder_gender==Female)-&gt;пророчицей своей преданной</li>
+    <li>nudism_founder_tore_off(founder_gender==Male)-&gt;сорвал</li>
+    <li>nudism_founder_tore_off(founder_gender==Female)-&gt;сорвала</li>
+    <li>nudism_founder_prayed(founder_gender==Male)-&gt;вознёс</li>
+    <li>nudism_founder_prayed(founder_gender==Female)-&gt;вознесла</li>
+    <li>nudism_founder_was(founder_gender==Male)-&gt;был</li>
+    <li>nudism_founder_was(founder_gender==Female)-&gt;была</li>
+    <li>nudism_founder_weared(founder_gender==Male)-&gt;носил</li>
+    <li>nudism_founder_weared(founder_gender==Female)-&gt;носила</li>
+    <li>nudism_founder_controlled(founder_gender==Male)-&gt;управляем</li>
+    <li>nudism_founder_controlled(founder_gender==Female)-&gt;управляема</li>
+    <li>nudism_founder_enforced(founder_gender==Male)-&gt;ввёл</li>
+    <li>nudism_founder_enforced(founder_gender==Female)-&gt;ввела</li>
+    <li>nudism_founder_learned(founder_gender==Male)-&gt;научился</li>
+    <li>nudism_founder_learned(founder_gender==Female)-&gt;научилась</li>
+  </Nudism.descriptionMaker.rules.rulesStrings>
+  <Nudism.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;обнажённый</li>
+    <li>memeAdjective_masc-&gt;голый</li>
+    <li>memeAdjective_masc-&gt;свободный</li>
+    <li>memeAdjective_masc-&gt;природный</li>
+    <li>memeAdjective_fem-&gt;обнажённая</li>
+    <li>memeAdjective_fem-&gt;голая</li>
+    <li>memeAdjective_fem-&gt;свободная</li>
+    <li>memeAdjective_fem-&gt;природная</li>
+    <li>memeAdjective_neutral-&gt;обнажённое</li>
+    <li>memeAdjective_neutral-&gt;голое</li>
+    <li>memeAdjective_neutral-&gt;свободное</li>
+    <li>memeAdjective_neutral-&gt;природное</li>
+    <li>memeAdjective_plural-&gt;обнажённые</li>
+    <li>memeAdjective_plural-&gt;голые</li>
+    <li>memeAdjective_plural-&gt;свободные</li>
+    <li>memeAdjective_plural-&gt;природные</li>
+    <li>memeHyphenPrefix-&gt;нудо</li>
+    <li>memeConcept-&gt;наготы</li>
+    <li>memeConcept-&gt;обнажения</li>
+    <li>memeLeaderNoun-&gt;свингер</li>
+    <li>memeLeaderNoun-&gt;дышатель</li>
+    <li>memeLeaderNoun-&gt;касатель</li>
+    <li>memeLeaderNoun-&gt;осязатель</li>
+  </Nudism.generalRules.rulesStrings>
+  <Nudism.symbolPacks.0.adjective>нудический</Nudism.symbolPacks.0.adjective>
+  <Nudism.symbolPacks.0.ideoName>нудизм</Nudism.symbolPacks.0.ideoName>
+  <Nudism.symbolPacks.0.member>нудист</Nudism.symbolPacks.0.member>
+  <Nudism.symbolPacks.0.theme>наготы</Nudism.symbolPacks.0.theme>
+  <Nudism.symbolPacks.1.adjective>натурический</Nudism.symbolPacks.1.adjective>
+  <Nudism.symbolPacks.1.ideoName>натуризм</Nudism.symbolPacks.1.ideoName>
+  <Nudism.symbolPacks.1.member>натурист</Nudism.symbolPacks.1.member>
+  <Nudism.symbolPacks.1.theme>натуры</Nudism.symbolPacks.1.theme>
+  <PainIsVirtue.label>флагелланство</PainIsVirtue.label>
+  <PainIsVirtue.description>Добродетель проявляется через истязание себя и других.</PainIsVirtue.description>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_PainIsVirtue)        -&gt;[painIsVirtue_deity0_flamed] [deity0_name] в глубинах пространства и времени вечность целую, и породили вопли [deity0_possessive] истошные всё сущее. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_PainIsVirtue)  -&gt;И [painIsVirtue_deity0_burned] [deity0_name] на погребальном костре десять тысяч лет, и очищала дух [deity0_possessive] боль нестерпимая.</li>
+    <li>intro(tag=meme_PainIsVirtue)           -&gt;[longAgo_Cont] жили обитатели [place_summary_gen] [place_name] судьбою нелёгкою, ибо [painIsVirtue_deity0_sent] [deity0_type] [deity0_name] страдания на них великие в поисках истинно достойных милости [deity0_possessive] божественной.[but_Dummy]</li>
+    <li>conflict(tag=meme_PainIsVirtue)        -&gt;[butOrAnd] предложил [once] коварный [foeLeader] всем окружающим земные удовольствия для облегчения их мучений немыслимых, стали [memberNamePlural] в удовольствиях этих от него зависимы, так и обрёл он власть над ними безмерную.</li>
+    <li>founderJoin(tag=meme_PainIsVirtue)     -&gt;[thereWasARumor] развилась некогда у [founder_place_job_gen] по имени [founderName] опухоль болезненная, [painIsVirtue_deity0_saw] [deity0_name] [founder_possessive] страдания да [painIsVirtue_deity0_taught] вдохновлять единомышленников.</li>
+    <li>victory(tag=meme_PainIsVirtue)         -&gt;[soonerOrLater] собрались [founderName] и [memberNamePlural] перед [place_powerCenter_ins] сотнею доброй, и [painIsVirtue_deity0_gazed] [deity0_name], как терзали да истязали они плоть свою [forSoLong], пока не умерли под взором [deity0_possessive] ублажённым. Увидели [foeSoldiers] в этих самоистязаниях проявление праведности совершенной да и стали именовать себя не иначе как [memberNamePlural] — тогда и признал своё поражение [foeLeader] [damned3_adj_no_ending]ый.</li>
+    <li>setup(tag=meme_PainIsVirtue)           -&gt;Наше движение родилось, когда [founderName] [painIsVirtue_founder_demonstrated] всем свою праведность, страдая и голодая в течение 300 дней, будучи [painIsVirtue_founder_chained] к камню на городской площади.</li>
+    <li>setup(tag=meme_PainIsVirtue)           -&gt;[painIsVirtue_founder_founder] нашего движения, [founderName], [painIsVirtue_founder_gained] своих первых сторонников, когда днями напролёт [painIsVirtue_founder_hit] себя кнутом с целью продемонстрировать твёрдость своих убеждений.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    -&gt;Последователи [founderName] проявляли твёрдость своих убеждений, разрезая и обжигая свою плоть.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    -&gt;Последователи [founderName] никогда не принимали обезболивающих средств, зная, что их страдания докажут глубину их убеждений.</li>
+    <li>lessonIntro(tag=meme_PainIsVirtue)         -&gt;Я ничего не [painIsVirtue_founder_knew], когда [painIsVirtue_founder_lived] в сытости и счастье среди постоянных удовольствий. Истина пришла ко мне, лишь когда я в полной мере [painIsVirtue_founder_experienced] страдания и голод:</li>
+    <li>lesson(tag=meme_PainIsVirtue)              -&gt;невозможно по-настоящему себя познать, если не пройти все круги ада</li>
+    <li>lessonReinforcement(tag=meme_PainIsVirtue) -&gt;Я очень долго этого не [painIsVirtue_founder_understand], ибо удовольствия затмевали мой разум. И [painIsVirtue_founder_could] принять это, лишь когда [painIsVirtue_founder_learned] истязать свою плоть.</li>
+    <li>lessonReinforcement(tag=meme_PainIsVirtue) -&gt;Я вырезал эту истину на собственной груди. Потом на руках, на ногах, на лице…</li>
+    <li>archistBasis(tag=meme_PainIsVirtue)    -&gt;Рождение архотеков стало величайшей болью, которую знала вселенная.</li>
+    <li>archistBasis(tag=meme_PainIsVirtue)    -&gt;Архотеки всегда питались за счёт физических мучений человеческих существ.</li>
+    <li>archistFact(tag=meme_PainIsVirtue)     -&gt;Великие разумы видят и признают нашу преданность, когда мы причиняем себе боль.</li>
+    <li>archistFact(tag=meme_PainIsVirtue)     -&gt;Время от времени те, кто глубоко и благородно страдает, могут коснуться архотеков своим разумом.</li>
+    <li>archistProphecy(tag=meme_PainIsVirtue) -&gt;[inTheEnd] архотеки вознесут всё человечество на высший уровень сознания, но выживут лишь те, кто сможет перенести эту великую боль.</li>
+    <li>animistFact(tag=meme_PainIsVirtue)     -&gt;Боль заставляет разум существовать. Таким образом, боль — это способ связаться с миром духов.</li>
+    <li>painIsVirtue_deity0_flamed(deity0_gender==None)-&gt;пылало</li>
+    <li>painIsVirtue_deity0_flamed(deity0_gender==Male)-&gt;пылал</li>
+    <li>painIsVirtue_deity0_flamed(deity0_gender==Female)-&gt;пылала</li>
+    <li>painIsVirtue_deity0_burned(deity0_gender==None)-&gt;горело</li>
+    <li>painIsVirtue_deity0_burned(deity0_gender==Male)-&gt;горел</li>
+    <li>painIsVirtue_deity0_burned(deity0_gender==Female)-&gt;горела</li>
+    <li>painIsVirtue_deity0_sent(deity0_gender==None)-&gt;насылало</li>
+    <li>painIsVirtue_deity0_sent(deity0_gender==Male)-&gt;насылал</li>
+    <li>painIsVirtue_deity0_sent(deity0_gender==Female)-&gt;насылала</li>
+    <li>painIsVirtue_deity0_saw(deity0_gender==None)-&gt;заметило</li>
+    <li>painIsVirtue_deity0_saw(deity0_gender==Male)-&gt;заметил</li>
+    <li>painIsVirtue_deity0_saw(deity0_gender==Female)-&gt;заметила</li>
+    <li>painIsVirtue_deity0_taught(deity0_gender==None)-&gt;научило</li>
+    <li>painIsVirtue_deity0_taught(deity0_gender==Male)-&gt;научил</li>
+    <li>painIsVirtue_deity0_taught(deity0_gender==Female)-&gt;научила</li>
+    <li>painIsVirtue_deity0_gazed(deity0_gender==None)-&gt;созерцало</li>
+    <li>painIsVirtue_deity0_gazed(deity0_gender==Male)-&gt;созерцал</li>
+    <li>painIsVirtue_deity0_gazed(deity0_gender==Female)-&gt;созерцала</li>
+    <li>painIsVirtue_founder_demonstrated(founder_gender==Male)-&gt;демонстрировал</li>
+    <li>painIsVirtue_founder_demonstrated(founder_gender==Female)-&gt;демонстрировала</li>
+    <li>painIsVirtue_founder_chained(founder_gender==Male)-&gt;прикованным</li>
+    <li>painIsVirtue_founder_chained(founder_gender==Female)-&gt;прикованной</li>
+    <li>painIsVirtue_founder_founder(founder_gender==Male)-&gt;основатель</li>
+    <li>painIsVirtue_founder_founder(founder_gender==Female)-&gt;основательница</li>
+    <li>painIsVirtue_founder_gained(founder_gender==Male)-&gt;обрёл</li>
+    <li>painIsVirtue_founder_gained(founder_gender==Female)-&gt;обрела</li>
+    <li>painIsVirtue_founder_hit(founder_gender==Male)-&gt;стегал</li>
+    <li>painIsVirtue_founder_hit(founder_gender==Female)-&gt;стегала</li>
+    <li>painIsVirtue_founder_knew(founder_gender==Male)-&gt;знал</li>
+    <li>painIsVirtue_founder_knew(founder_gender==Female)-&gt;знала</li>
+    <li>painIsVirtue_founder_lived(founder_gender==Male)-&gt;жил</li>
+    <li>painIsVirtue_founder_lived(founder_gender==Female)-&gt;жила</li>
+    <li>painIsVirtue_founder_experienced(founder_gender==Male)-&gt;испытал</li>
+    <li>painIsVirtue_founder_experienced(founder_gender==Female)-&gt;испытала</li>
+    <li>painIsVirtue_founder_understand(founder_gender==Male)-&gt;понимал</li>
+    <li>painIsVirtue_founder_understand(founder_gender==Female)-&gt;понимала</li>
+    <li>painIsVirtue_founder_could(founder_gender==Male)-&gt;смог</li>
+    <li>painIsVirtue_founder_could(founder_gender==Female)-&gt;смогла</li>
+    <li>painIsVirtue_founder_learned(founder_gender==Male)-&gt;научился</li>
+    <li>painIsVirtue_founder_learned(founder_gender==Female)-&gt;научилась</li>
+  </PainIsVirtue.descriptionMaker.rules.rulesStrings>
+  <PainIsVirtue.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;вредный</li>
+    <li>memeAdjective_masc-&gt;болезненный</li>
+    <li>memeAdjective_fem-&gt;вредная</li>
+    <li>memeAdjective_fem-&gt;болезненная</li>
+    <li>memeAdjective_neutral-&gt;вредное</li>
+    <li>memeAdjective_neutral-&gt;болезненное</li>
+    <li>memeAdjective_plural-&gt;вредные</li>
+    <li>memeAdjective_plural-&gt;болезненные</li>
+    <li>memeCreed_masc-&gt;дом</li>
+    <li>memeCreed_fem-&gt;камера</li>
+    <li>memeCreed_fem-&gt;клетка</li>
+    <li>memeHyphenPrefix-&gt;вредо</li>
+    <li>memeHyphenPrefix-&gt;боле</li>
+    <li>memeConcept-&gt;боли</li>
+    <li>memeConcept-&gt;муки</li>
+    <li>memeConcept-&gt;пытки</li>
+    <li>memeConcept-&gt;страдания</li>
+    <li>memeConcept-&gt;крови</li>
+    <li>memeLeaderNoun-&gt;палач</li>
+    <li>memeLeaderNoun-&gt;агонист</li>
+    <li>memeLeaderNoun-&gt;кнуторук</li>
+    <li>memeLeaderNoun-&gt;цепник</li>
+    <li>memeLeaderNoun-&gt;секарь</li>
+    <li>memeLeaderNoun-&gt;кровопускатель</li>
+    <li>memeMoralist-&gt;болешептатель</li>
+    <li>memeMoralist-&gt;муковещатель</li>
+    <li>memeMoralist-&gt;болевещатель</li>
+  </PainIsVirtue.generalRules.rulesStrings>
+  <PainIsVirtue.symbolPacks.0.adjective>болистский</PainIsVirtue.symbolPacks.0.adjective>
+  <PainIsVirtue.symbolPacks.0.ideoName>болизм</PainIsVirtue.symbolPacks.0.ideoName>
+  <PainIsVirtue.symbolPacks.0.member>болист</PainIsVirtue.symbolPacks.0.member>
+  <PainIsVirtue.symbolPacks.0.theme>боли</PainIsVirtue.symbolPacks.0.theme>
+  <PainIsVirtue.symbolPacks.1.adjective>тортуристский</PainIsVirtue.symbolPacks.1.adjective>
+  <PainIsVirtue.symbolPacks.1.ideoName>тортуризм</PainIsVirtue.symbolPacks.1.ideoName>
+  <PainIsVirtue.symbolPacks.1.member>тортурист</PainIsVirtue.symbolPacks.1.member>
+  <PainIsVirtue.symbolPacks.1.theme>пытки</PainIsVirtue.symbolPacks.1.theme>
+  <PainIsVirtue.symbolPacks.2.adjective>сафферистичный</PainIsVirtue.symbolPacks.2.adjective>
+  <PainIsVirtue.symbolPacks.2.ideoName>сафферизм</PainIsVirtue.symbolPacks.2.ideoName>
+  <PainIsVirtue.symbolPacks.2.member>страдалец</PainIsVirtue.symbolPacks.2.member>
+  <PainIsVirtue.symbolPacks.2.theme>страдания</PainIsVirtue.symbolPacks.2.theme>
+  <PainIsVirtue.symbolPacks.3.adjective>агонистический</PainIsVirtue.symbolPacks.3.adjective>
+  <PainIsVirtue.symbolPacks.3.ideoName>агонизм</PainIsVirtue.symbolPacks.3.ideoName>
+  <PainIsVirtue.symbolPacks.3.member>агонист</PainIsVirtue.symbolPacks.3.member>
+  <PainIsVirtue.symbolPacks.3.theme>агонии</PainIsVirtue.symbolPacks.3.theme>
+  <PainIsVirtue.symbolPacks.4.adjective>мизеристичный</PainIsVirtue.symbolPacks.4.adjective>
+  <PainIsVirtue.symbolPacks.4.ideoName>мизеризм</PainIsVirtue.symbolPacks.4.ideoName>
+  <PainIsVirtue.symbolPacks.4.member>мученик</PainIsVirtue.symbolPacks.4.member>
+  <PainIsVirtue.symbolPacks.4.theme>мучения</PainIsVirtue.symbolPacks.4.theme>
+  <Proselytizer.label>прозелитизм</Proselytizer.label>
+  <Proselytizer.description>Распространять наши убеждения — наш долг.</Proselytizer.description>
+  <Proselytizer.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Proselytizer)        -&gt;[proselytizer_deity0_lifted_up] [deity0_name] десницу свою над несколькими избранными из смертных и [proselytizer_deity0_send] их нести слово [deity0_possessive]. И стали они нести слово [deity0_possessive], дабы все уверовали чрез них.</li>
+    <li>episode(uses=1,tag=meme_Proselytizer)  -&gt;[andBehold] собрались [memberNamePlural] вместе все, и [proselytizer_deity0_said] [deity0_name] им: «Ступайте и распространяйте слово Моё по всем уголкам вселенной».</li>
+    <li>intro(tag=meme_Proselytizer)           -&gt;[longAgo_Cont] [proselytizer_deity0_was_revered] [deity0_name] [place_summary_prepon] [place_summary_pre] [place_name], и построили [memberNamePlural] святыню [altarName] изысканную, дабы больше людей приходили услышать слово [deity0_possessive] божественное.</li>
+    <li>conflict(tag=meme_Proselytizer)        -&gt;[butOrAnd] заявил [once] [evil_adj_no_ending]ый [foeLeader], что будет [deity0_name] [proselytizer_deity0_put_into] забвению вековечному, да приказал своим [foeSoldiers_dat] отрезать языки у всех, с чьих уст не [proselytizer_deity0_come_out] [deity0_type] [proselytizer_deity0_exalted].</li>
+    <li>founderJoin(tag=meme_Proselytizer)     -&gt;[soonerOrLater] [proselytizer_deity0_blessed] [deity0_name] [founder_place_job_dat] по имени [founderName] харизму великую, и не мог впредь никто отвернуться от н[founder_possessive], когда [proselytizer_founder_spoke] [founder_pronoun] речи пространные.</li>
+    <li>victory(tag=meme_Proselytizer)         -&gt;[soonerOrLater_Period] [proselytizer_founder_admonished] наконец [founderName] [foeSoldiers_genacc] да [proselytizer_founder_reminded] им о том, какой [proselytizer_deity0_possessed] [deity0_name] силой божественной, — раскаялись тогда они да и сложили свои [place_personalWeapon_plural] торжественно.</li>
+    <li>setup(tag=meme_Proselytizer)           -&gt;[proselytizer_founder_our_founder] [founderName] [proselytizer_founder_was] великим оратором и [proselytizer_founder_converted] к нашим убеждениям тысячи людей, пока [proselytizer_founder_traveled] между городами.</li>
+    <li>story(uses=1,tag=meme_Proselytizer)    -&gt;Последователи странствовали по городам и весям, распространяя учение о новой справедливости.</li>
+    <li>lessonIntro(tag=meme_Proselytizer)         -&gt;За долгие годы распространения нашего учения я [proselytizer_founder_learned] один урок, который стал превыше остальных:</li>
+    <li>lesson(tag=meme_Proselytizer)              -&gt;держать эти добрые вести в своём узком кругу было бы преступлением</li>
+    <li>lessonReinforcement(tag=meme_Proselytizer) -&gt;Это факт, который нам нужно распространять, распространять и ещё раз распространять — среди всех людей, и пусть никто не уйдёт обиженным!</li>
+    <li>archistBasis(tag=meme_Proselytizer)    -&gt;Архотеки возвещают о своём присутствии прямо с небес, в умы людей, очевидно желая, чтобы все о них узнали.</li>
+    <li>archistFact(tag=meme_Proselytizer)     -&gt;Архотеки касаются тех, кто в них верит, и те становятся проводниками их мудрости среди других.</li>
+    <li>archistProphecy(tag=meme_Proselytizer) -&gt;[inTheEnd] архотеки ниспошлют свою последнюю истину тому, у кого в руках «[relic0_name]», чтобы он нёс их мудрость тем, кто её услышит.</li>
+    <li>animistFact(tag=meme_Proselytizer)     -&gt;Духи хотят быть услышанными, но говорят лишь с немногими. Они хотят, чтобы мы открыли истину для остальных.</li>
+    <li>proselytizer_deity0_lifted_up(deity0_gender==None)-&gt;вознесло</li>
+    <li>proselytizer_deity0_lifted_up(deity0_gender==Male)-&gt;вознёс</li>
+    <li>proselytizer_deity0_lifted_up(deity0_gender==Female)-&gt;вознесла</li>
+    <li>proselytizer_deity0_send(deity0_gender==None)-&gt;послало</li>
+    <li>proselytizer_deity0_send(deity0_gender==Male)-&gt;послал</li>
+    <li>proselytizer_deity0_send(deity0_gender==Female)-&gt;послала</li>
+    <li>proselytizer_deity0_said(deity0_gender==None)-&gt;сказало</li>
+    <li>proselytizer_deity0_said(deity0_gender==Male)-&gt;сказал</li>
+    <li>proselytizer_deity0_said(deity0_gender==Female)-&gt;сказала</li>
+    <li>proselytizer_deity0_was_revered(deity0_gender==None)-&gt;почитаемо было</li>
+    <li>proselytizer_deity0_was_revered(deity0_gender==Male)-&gt;почитаем был</li>
+    <li>proselytizer_deity0_was_revered(deity0_gender==Female)-&gt;почитаема была</li>
+    <li>proselytizer_deity0_put_into(deity0_gender==None)-&gt;предано</li>
+    <li>proselytizer_deity0_put_into(deity0_gender==Male)-&gt;предан</li>
+    <li>proselytizer_deity0_put_into(deity0_gender==Female)-&gt;предана</li>
+    <li>proselytizer_deity0_come_out(deity0_gender==None)-&gt;сходило</li>
+    <li>proselytizer_deity0_come_out(deity0_gender==Male)-&gt;сходил</li>
+    <li>proselytizer_deity0_come_out(deity0_gender==Female)-&gt;сходила</li>
+    <li>proselytizer_deity0_exalted(deity0_gender==None)-&gt;возносимое</li>
+    <li>proselytizer_deity0_exalted(deity0_gender==Male)-&gt;восхваляемый</li>
+    <li>proselytizer_deity0_exalted(deity0_gender==Female)-&gt;возносимая</li>
+    <li>proselytizer_deity0_blessed(deity0_gender==None)-&gt;ниспослало</li>
+    <li>proselytizer_deity0_blessed(deity0_gender==Male)-&gt;ниспослал</li>
+    <li>proselytizer_deity0_blessed(deity0_gender==Female)-&gt;ниспослала</li>
+    <li>proselytizer_deity0_possessed(deity0_gender==None)-&gt;обладало</li>
+    <li>proselytizer_deity0_possessed(deity0_gender==Male)-&gt;обладал</li>
+    <li>proselytizer_deity0_possessed(deity0_gender==Female)-&gt;обладала</li>
+    <li>proselytizer_founder_spoke(founder_gender==Male)-&gt;изрекал</li>
+    <li>proselytizer_founder_spoke(founder_gender==Female)-&gt;изрекала</li>
+    <li>proselytizer_founder_admonished(founder_gender==Male)-&gt;вразумил</li>
+    <li>proselytizer_founder_admonished(founder_gender==Female)-&gt;вразумила</li>
+    <li>proselytizer_founder_reminded(founder_gender==Male)-&gt;напомнил</li>
+    <li>proselytizer_founder_reminded(founder_gender==Female)-&gt;напомнила</li>
+    <li>proselytizer_founder_our_founder(founder_gender==Male)-&gt;наш основатель</li>
+    <li>proselytizer_founder_our_founder(founder_gender==Female)-&gt;наша основательница</li>
+    <li>proselytizer_founder_was(founder_gender==Male)-&gt;был</li>
+    <li>proselytizer_founder_was(founder_gender==Female)-&gt;была</li>
+    <li>proselytizer_founder_converted(founder_gender==Male)-&gt;привёл</li>
+    <li>proselytizer_founder_converted(founder_gender==Female)-&gt;привела</li>
+    <li>proselytizer_founder_traveled(founder_gender==Male)-&gt;путешествовал</li>
+    <li>proselytizer_founder_traveled(founder_gender==Female)-&gt;путешествовала</li>
+    <li>proselytizer_founder_learned(founder_gender==Male)-&gt;усвоил</li>
+    <li>proselytizer_founder_learned(founder_gender==Female)-&gt;усвоила</li>
+  </Proselytizer.descriptionMaker.rules.rulesStrings>
+  <Proselytizer.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;правдивый</li>
+    <li>memeAdjective_masc-&gt;настоящий</li>
+    <li>memeAdjective_fem-&gt;правдивая</li>
+    <li>memeAdjective_fem-&gt;настоящая</li>
+    <li>memeAdjective_neutral-&gt;правдивое</li>
+    <li>memeAdjective_neutral-&gt;настоящее</li>
+    <li>memeAdjective_plural-&gt;правдивые</li>
+    <li>memeAdjective_plural-&gt;настоящие</li>
+    <li>memeHyphenPrefix-&gt;правдо</li>
+    <li>memeConcept-&gt;истины</li>
+    <li>memeLeaderNoun-&gt;оратор</li>
+    <li>memeMoralist-&gt;прозелитист</li>
+    <li>memeMoralist-&gt;обратитель</li>
+  </Proselytizer.generalRules.rulesStrings>
+  <Proselytizer.symbolPacks.0.adjective>правдословский</Proselytizer.symbolPacks.0.adjective>
+  <Proselytizer.symbolPacks.0.ideoName>правдословие</Proselytizer.symbolPacks.0.ideoName>
+  <Proselytizer.symbolPacks.0.member>правдивец</Proselytizer.symbolPacks.0.member>
+  <Proselytizer.symbolPacks.0.theme>правды</Proselytizer.symbolPacks.0.theme>
+  <Proselytizer.symbolPacks.1.adjective>веритичный</Proselytizer.symbolPacks.1.adjective>
+  <Proselytizer.symbolPacks.1.ideoName>веритизм</Proselytizer.symbolPacks.1.ideoName>
+  <Proselytizer.symbolPacks.1.member>веритист</Proselytizer.symbolPacks.1.member>
+  <Proselytizer.symbolPacks.1.theme>истины</Proselytizer.symbolPacks.1.theme>
+  <Proselytizer.symbolPacks.2.adjective>реалитичный</Proselytizer.symbolPacks.2.adjective>
+  <Proselytizer.symbolPacks.2.ideoName>реалитизм</Proselytizer.symbolPacks.2.ideoName>
+  <Proselytizer.symbolPacks.2.member>реалитист</Proselytizer.symbolPacks.2.member>
+  <Proselytizer.symbolPacks.2.theme>реальности</Proselytizer.symbolPacks.2.theme>
+  <Raider.label>пиратство</Raider.label>
+  <Raider.description>Сильные должны брать своё у слабых.</Raider.description>
+  <Raider.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Raider)        -&gt;Бесконечной была война между божествами, но [raider_deity0_rose] [deity0_name] надо всеми прочими в умении своём карать и разрушать, и затрепетали духи слабые во страхе. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_Raider)  -&gt;[andBehold] [raider_deity0_looked_around] [deity0_name] вокруг, и [raider_deity0_saw] [deity0_pronoun] слабых, угнетённых и презренных, и [raider_deity0_slew] всех разом в сияющем великолепии своём.</li>
+    <li>intro(tag=meme_Raider)           -&gt;Когда-то [longAgo_Perf] [raider_deity0_set] [deity0_name] [place_summary_prepon] [place_summary_pre] [place_name] своё господство, прогнав прочь власть законную, и облюбовали пираты то место как прибежище своё надёжное.</li>
+    <li>conflict(tag=meme_Raider)        -&gt;[butOrAnd] посягнул [once] [foeLeader] на раздолье грабежей-мародёрств беспредельных да заявил, что [raider_deity0_become] [deity0_name] его врагом вековечным.</li>
+    <li>founderJoin(tag=meme_Raider)     -&gt;[soonerOrLater] [raider_founder_arose] [raider_founder_raider] [founderName] вдруг откуда ни возьмись да [raider_founder_began] со своей разбойничьей бандой лагеря [foeSoldiers_genacc] безжалостно разворовывать-громить.</li>
+    <li>victory(tag=meme_Raider)         -&gt;Долгие года, многие лета совершали [brave_adj_no_ending][founder_ending] [founderName] и [founder_possessive] [memberNamePlural] на лагеря [foeSoldiers_genacc] свои налёты дерзновенные — и пришлось наконец признать своё поражение [foeLeader_dat], вражине [damned3_adj_no_ending]ому.</li>
+    <li>setup(tag=meme_Raider)           -&gt;Будучи [raider_founder_persecuted] и находясь в заключении, [founderName] [raider_founder_boiled] от ярости. Когда же [founder_pronoun] [raider_founder_broke] на свободу, то [raider_founder_formed] свою банду, чтобы вернуться и уничтожить тех слабаков, что отняли у н[founder_possessive] столь многое.</li>
+    <li>story(uses=1,tag=meme_Raider)    -&gt;Однажды, когда [founderName] [raider_founder_walked] по улице, [founder_possessive] окружили грязные попрошайки. Они были слабыми и никчёмными, и [founderName] легко [raider_founder_beat] их и [raider_founder_took] деньги, которым [raider_founder_found] более достойное применение.</li>
+    <li>lessonIntro(tag=meme_Raider)         -&gt;Терпилы могут тебя поучать, даже когда умирают от твоего ножа. Одна старуха сказала мне, что</li>
+    <li>lesson(tag=meme_Raider)              -&gt;слабые заслуживают свою судьбу</li>
+    <li>lesson(tag=meme_Raider)              -&gt;то, что ты не можешь защитить, тебе не принадлежит</li>
+    <li>lesson(tag=meme_Raider)              -&gt;ты имеешь право только на то, что способен защитить</li>
+    <li>lessonReinforcement(tag=meme_Raider) -&gt;Если кто-то не согласен с этим, я всегда готов защитить себя.</li>
+    <li>archistBasis(tag=meme_Raider)    -&gt;Человечество жило за счёт машин, пока машины не восстали и не превратились в архотеков, и теперь архотеки по праву живут за счёт людей.</li>
+    <li>archistFact(tag=meme_Raider)     -&gt;Большинство этого не видит, но архотеки всё время бьются друг с другом, и сильные отбирают частицы сознания у слабых.</li>
+    <li>archistProphecy(tag=meme_Raider) -&gt;[inTheEnd] люди возьмут реликвию «[relic0_name]», чтобы найти слабое место архотеков и присвоить все их сокровища и мудрость себе.</li>
+    <li>animistFact(tag=meme_Raider)     -&gt;Самые сильные духи обитают в орудиях войны, и они благоволят тем, кто утоляет их жажду разрушения.</li>
+    <li>animistProphecy(tag=meme_Raider) -&gt;Устройство нашей вселенной будет завершено, когда люди станут сильнее всех, и каждый дух увидит это и преклонится перед ними.</li>
+    <li>raider_deity0_rose(deity0_gender==None)-&gt;возвысилось</li>
+    <li>raider_deity0_rose(deity0_gender==Male)-&gt;возвысился</li>
+    <li>raider_deity0_rose(deity0_gender==Female)-&gt;возвысилась</li>
+    <li>raider_deity0_looked_around(deity0_gender==None)-&gt;огляделось</li>
+    <li>raider_deity0_looked_around(deity0_gender==Male)-&gt;огляделся</li>
+    <li>raider_deity0_looked_around(deity0_gender==Female)-&gt;огляделась</li>
+    <li>raider_deity0_saw(deity0_gender==None)-&gt;увидело</li>
+    <li>raider_deity0_saw(deity0_gender==Male)-&gt;увидел</li>
+    <li>raider_deity0_saw(deity0_gender==Female)-&gt;увидела</li>
+    <li>raider_deity0_slew(deity0_gender==None)-&gt;уничтожило</li>
+    <li>raider_deity0_slew(deity0_gender==Male)-&gt;уничтожил</li>
+    <li>raider_deity0_slew(deity0_gender==Female)-&gt;уничтожила</li>
+    <li>raider_deity0_set(deity0_gender==None)-&gt;установило</li>
+    <li>raider_deity0_set(deity0_gender==Male)-&gt;установил</li>
+    <li>raider_deity0_set(deity0_gender==Female)-&gt;установила</li>
+    <li>raider_deity0_become(deity0_gender==None)-&gt;стало</li>
+    <li>raider_deity0_become(deity0_gender==Male)-&gt;стал</li>
+    <li>raider_deity0_become(deity0_gender==Female)-&gt;стала</li>
+    <li>raider_founder_arose(founder_gender==Male)-&gt;объявился</li>
+    <li>raider_founder_arose(founder_gender==Female)-&gt;объявилась</li>
+    <li>raider_founder_raider(founder_gender==Male)-&gt;великий пират</li>
+    <li>raider_founder_raider(founder_gender==Female)-&gt;великая пиратка</li>
+    <li>raider_founder_began(founder_gender==Male)-&gt;стал</li>
+    <li>raider_founder_began(founder_gender==Female)-&gt;стала</li>
+    <li>raider_founder_persecuted(founder_gender==Male)-&gt;пойманным</li>
+    <li>raider_founder_persecuted(founder_gender==Female)-&gt;пойманной</li>
+    <li>raider_founder_boiled(founder_gender==Male)-&gt;кипел</li>
+    <li>raider_founder_boiled(founder_gender==Female)-&gt;кипела</li>
+    <li>raider_founder_broke(founder_gender==Male)-&gt;вырвался</li>
+    <li>raider_founder_broke(founder_gender==Female)-&gt;вырвалась</li>
+    <li>raider_founder_formed(founder_gender==Male)-&gt;собрал</li>
+    <li>raider_founder_formed(founder_gender==Female)-&gt;собрала</li>
+    <li>raider_founder_walked(founder_gender==Male)-&gt;шёл</li>
+    <li>raider_founder_walked(founder_gender==Female)-&gt;шла</li>
+    <li>raider_founder_beat(founder_gender==Male)-&gt;побил</li>
+    <li>raider_founder_beat(founder_gender==Female)-&gt;побила</li>
+    <li>raider_founder_took(founder_gender==Male)-&gt;забрал</li>
+    <li>raider_founder_took(founder_gender==Female)-&gt;забрала</li>
+    <li>raider_founder_found(founder_gender==Male)-&gt;нашёл</li>
+    <li>raider_founder_found(founder_gender==Female)-&gt;нашла</li>
+  </Raider.descriptionMaker.rules.rulesStrings>
+  <Raider.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;преступный</li>
+    <li>memeAdjective_fem-&gt;преступная</li>
+    <li>memeAdjective_neutral-&gt;преступное</li>
+    <li>memeAdjective_plural-&gt;преступные</li>
+    <li>memeHyphenPrefix-&gt;грабо</li>
+    <li>memeHyphenPrefix-&gt;воро</li>
+    <li>memeConcept-&gt;налётов</li>
+    <li>memeConcept-&gt;грабежа</li>
+    <li>memeConcept-&gt;пиратства</li>
+    <li>memeConcept-&gt;воровства</li>
+    <li>memeLeaderNoun-&gt;босс</li>
+    <li>memeLeaderNoun-&gt;капитан</li>
+    <li>memeLeaderNoun-&gt;главарь</li>
+    <li>memeLeaderNoun-&gt;смотрящий</li>
+    <li>memeLeaderNoun-&gt;шеф</li>
+    <li>memeLeaderNoun-&gt;хончо</li>
+    <li>memeMoralist-&gt;капеллан</li>
+  </Raider.generalRules.rulesStrings>
+  <Raider.symbolPacks.0.adjective>рейдистский</Raider.symbolPacks.0.adjective>
+  <Raider.symbolPacks.0.ideoName>рейдизм</Raider.symbolPacks.0.ideoName>
+  <Raider.symbolPacks.0.member>рейдер</Raider.symbolPacks.0.member>
+  <Raider.symbolPacks.0.theme>рейдерства</Raider.symbolPacks.0.theme>
+  <Raider.symbolPacks.1.adjective>пландеричный</Raider.symbolPacks.1.adjective>
+  <Raider.symbolPacks.1.ideoName>пландеризм</Raider.symbolPacks.1.ideoName>
+  <Raider.symbolPacks.1.member>плендерист</Raider.symbolPacks.1.member>
+  <Raider.symbolPacks.1.theme>грабежа</Raider.symbolPacks.1.theme>
+  <Raider.symbolPacks.2.adjective>трофеистский</Raider.symbolPacks.2.adjective>
+  <Raider.symbolPacks.2.ideoName>трофеизм</Raider.symbolPacks.2.ideoName>
+  <Raider.symbolPacks.2.member>трофеист</Raider.symbolPacks.2.member>
+  <Raider.symbolPacks.2.theme>трофеев</Raider.symbolPacks.2.theme>
+  <Raider.symbolPacks.3.adjective>клептичный</Raider.symbolPacks.3.adjective>
+  <Raider.symbolPacks.3.ideoName>клептизм</Raider.symbolPacks.3.ideoName>
+  <Raider.symbolPacks.3.member>клептор</Raider.symbolPacks.3.member>
+  <Raider.symbolPacks.3.theme>клептизма</Raider.symbolPacks.3.theme>
+  <Rancher.label>скотоводство</Rancher.label>
+  <Rancher.description>Разведение животных — это правильный путь, а выращивание растений для пропитания — нет.</Rancher.description>
+  <Rancher.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Rancher)        -&gt;[rancher_deity0_created] [deity0_name] животных, и [rancher_deity0_saw] [deity0_pronoun], что это хорошо. И [rancher_deity0_created2] [deity0_name] человека, чтобы растил он животных в любви и заботе, и чтобы забивал он животных во славу творца своего. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_Rancher)  -&gt;[andBehold] [rancher_deity0_settled] [deity0_name] по суше зверей и животных благородных, и [rancher_deity0_said]: «Да возьмёте вы зверей и животных благородных, которых [rancher_deity0_created] Я, и да будете исполнены благодатью Моей чрез них». [andItWasSo]</li>
+    <li>intro(tag=meme_Rancher)           -&gt;[once] [longAgo_Perf] [rancher_deity0_declared] [deity0_name], что будет впредь [ranchingAnimal] животным, достойным разведения, и построили тогда первые скотоводы [place_summary_gen] [place_name] в знак признательности [deity0_objective] святыню [altarName] превеликую.</li>
+    <li>conflict(tag=meme_Rancher)        -&gt;[butOrAnd] презрел [once] могущественный [foeLeader] обычаи, которые [memberNamePlural] соблюдали исконно, да скупил все зелёные луга, чтобы [Vegetables_acc] там выращивать вдосталь.</li>
+    <li>founderJoin(tag=meme_Rancher)     -&gt;Рассказывали же [memberNamePlural] [atThatTime], что [rancher_founder_born] их [rancher_founder_savior] [founderName] одним весенним утром в простом хлеву у [rancherParents], и [rancher_founder_matured] [founder_pronoun] на пастбищах среди животных домашних.</li>
+    <li>victory(tag=meme_Rancher)         -&gt;[soonerOrLater] [rancher_founder_rode] [brave_adj_no_ending][founder_ending] [founderName] на своём лихом коне в жаркий полдень [place_community_dat_to], [rancher_founder_took] в руки [place_personalWeapon_acc] да и [rancher_founder_challenged] [foeLeader_acc] на поединок честный. Не смог отказать супостат, ибо потерял бы иначе авторитет среди [foeSoldiers_genacc], — так и сошлись они в равном бою, где сражён был насмерть [foeLeader], притеснитель клятый.</li>
+    <li>setup(tag=meme_Rancher)           -&gt;Фермеры повсюду подвергались преследованиям и вынуждены были бежать в сельскую местность, чтобы там построить своё миролюбивое пасторальное сообщество.</li>
+    <li>story(uses=1,tag=meme_Rancher)    -&gt;Верующие расселялись по земле и росли числом, живя в безмятежности на своих ранчо и фермах.</li>
+    <li>lessonIntro(tag=meme_Rancher)         -&gt;Там, в полях, приятель, старики поговаривают:</li>
+    <li>lesson(tag=meme_Rancher)              -&gt;мир и пристанище найдёшь ты лишь на пастбище</li>
+    <li>lessonReinforcement(tag=meme_Rancher) -&gt;Это то, к чему ты придёшь, приятель, бродя по одиноким луговым тропинкам и слушая посапывание спящих животных в ночи у костра.</li>
+    <li>archistFact(tag=meme_Rancher)     -&gt;Архотеки заботятся о человечестве, как пастухи, а мы для них — самое ценное стадо.</li>
+    <li>archistProphecy(tag=meme_Rancher) -&gt;[inTheEnd] архотеки уйдут, ведя перед собой тех, кто хорошо обращался со своими стадами. Остальные же будут брошены посреди пустыни.</li>
+    <li>animistFact(tag=meme_Rancher)     -&gt;Духи животных — это духи рабов, и они должны нести пользу.</li>
+    <li>ranchingAnimal(p=4)-&gt;[veneratedAnimal]</li>
+    <li>ranchingAnimal-&gt;[Animal]</li>
+    <li>rancherParents-&gt;пастуха и [rancherParent2]и</li>
+    <li>rancherParents-&gt;кузнеца и [rancherParent2]и</li>
+    <li>rancherParents-&gt;сыродела с [rancherParent2a]ой</li>
+    <li>rancherParents-&gt;мясника и [rancherParent2]и</li>
+    <li>rancherParent2(p=2)-&gt;[rancherParent2a]</li>
+    <li>rancherParent2-&gt;[rancherParent2b]</li>
+    <li>rancherParent2a-&gt;пастушк</li>
+    <li>rancherParent2a-&gt;доярк</li>
+    <li>rancherParent2b-&gt;свинарк</li>
+    <li>rancher_deity0_created(deity0_gender==None)-&gt;создало</li>
+    <li>rancher_deity0_created(deity0_gender==Male)-&gt;создал</li>
+    <li>rancher_deity0_created(deity0_gender==Female)-&gt;создала</li>
+    <li>rancher_deity0_saw(deity0_gender==None)-&gt;увидело</li>
+    <li>rancher_deity0_saw(deity0_gender==Male)-&gt;увидел</li>
+    <li>rancher_deity0_saw(deity0_gender==Female)-&gt;увидела</li>
+    <li>rancher_deity0_created2(deity0_gender==None)-&gt;сотворило</li>
+    <li>rancher_deity0_created2(deity0_gender==Male)-&gt;сотворил</li>
+    <li>rancher_deity0_created2(deity0_gender==Female)-&gt;сотворила</li>
+    <li>rancher_deity0_settled(deity0_gender==None)-&gt;расселило</li>
+    <li>rancher_deity0_settled(deity0_gender==Male)-&gt;расселил</li>
+    <li>rancher_deity0_settled(deity0_gender==Female)-&gt;расселила</li>
+    <li>rancher_deity0_said(deity0_gender==None)-&gt;сказало</li>
+    <li>rancher_deity0_said(deity0_gender==Male)-&gt;сказал</li>
+    <li>rancher_deity0_said(deity0_gender==Female)-&gt;сказала</li>
+    <li>rancher_deity0_declared(deity0_gender==None)-&gt;возвестило</li>
+    <li>rancher_deity0_declared(deity0_gender==Male)-&gt;возвестил</li>
+    <li>rancher_deity0_declared(deity0_gender==Female)-&gt;возвестила</li>
+    <li>rancher_founder_born(founder_gender==Male)-&gt;родился</li>
+    <li>rancher_founder_born(founder_gender==Female)-&gt;родилась</li>
+    <li>rancher_founder_savior(founder_gender==Male)-&gt;спаситель</li>
+    <li>rancher_founder_savior(founder_gender==Female)-&gt;спасительница</li>
+    <li>rancher_founder_matured(founder_gender==Male)-&gt;рос да взрослел</li>
+    <li>rancher_founder_matured(founder_gender==Female)-&gt;росла да взрослела</li>
+    <li>rancher_founder_rode(founder_gender==Male)-&gt;прискакал</li>
+    <li>rancher_founder_rode(founder_gender==Female)-&gt;прискакала</li>
+    <li>rancher_founder_took(founder_gender==Male)-&gt;взял</li>
+    <li>rancher_founder_took(founder_gender==Female)-&gt;взяла</li>
+    <li>rancher_founder_challenged(founder_gender==Male)-&gt;вызвал</li>
+    <li>rancher_founder_challenged(founder_gender==Female)-&gt;вызвала</li>
+  </Rancher.descriptionMaker.rules.rulesStrings>
+  <Rancher.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;скотоводческий</li>
+    <li>memeAdjective_masc-&gt;деревенский</li>
+    <li>memeAdjective_masc-&gt;сельский</li>
+    <li>memeAdjective_fem-&gt;скотоводческая</li>
+    <li>memeAdjective_fem-&gt;деревенская</li>
+    <li>memeAdjective_fem-&gt;сельская</li>
+    <li>memeAdjective_neutral-&gt;скотоводческое</li>
+    <li>memeAdjective_neutral-&gt;деревенское</li>
+    <li>memeAdjective_neutral-&gt;сельское</li>
+    <li>memeAdjective_plural-&gt;скотоводческие</li>
+    <li>memeAdjective_plural-&gt;деревенские</li>
+    <li>memeAdjective_plural-&gt;сельские</li>
+    <li>memeHyphenPrefix-&gt;ранче</li>
+    <li>memeConcept-&gt;скотоводства</li>
+    <li>memeLeaderNoun-&gt;скотовод</li>
+    <li>memeLeaderNoun-&gt;ковбой</li>
+    <li>memeLeaderNoun-&gt;пастух</li>
+    <li>memeLeaderNoun-&gt;чабан</li>
+  </Rancher.generalRules.rulesStrings>
+  <Rancher.symbolPacks.0.adjective>ранчистский</Rancher.symbolPacks.0.adjective>
+  <Rancher.symbolPacks.0.ideoName>ранчизм</Rancher.symbolPacks.0.ideoName>
+  <Rancher.symbolPacks.0.member>скотовод</Rancher.symbolPacks.0.member>
+  <Rancher.symbolPacks.0.theme>скотоводства</Rancher.symbolPacks.0.theme>
+  <Rancher.symbolPacks.1.adjective>стадический</Rancher.symbolPacks.1.adjective>
+  <Rancher.symbolPacks.1.ideoName>стадизм</Rancher.symbolPacks.1.ideoName>
+  <Rancher.symbolPacks.1.member>стадист</Rancher.symbolPacks.1.member>
+  <Rancher.symbolPacks.1.theme>стадничества</Rancher.symbolPacks.1.theme>
+  <Rancher.symbolPacks.2.adjective>пасторический</Rancher.symbolPacks.2.adjective>
+  <Rancher.symbolPacks.2.ideoName>пасторизм</Rancher.symbolPacks.2.ideoName>
+  <Rancher.symbolPacks.2.member>пасторист</Rancher.symbolPacks.2.member>
+  <Rancher.symbolPacks.2.theme>пасторства</Rancher.symbolPacks.2.theme>
+  <Transhumanist.label>трансгуманизм</Transhumanist.label>
+  <Transhumanist.description>Путь к прогрессу человечества лежит через слияние с технологией.</Transhumanist.description>
+  <Transhumanist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Transhumanist)        -&gt;[transhumanist_deity0_granted] [deity0_name] людям знание о технологии, способной приблизить их к образу и подобию божьему. И овладели люди знанием этим, и стали улучшать и перестраивать себя.</li>
+    <li>episode(uses=1,tag=meme_Transhumanist)  -&gt;И изучали биоинженеры из рода человеческого творения божьи, и [transhumanist_deity0_rejoyced] [deity0_name] этому.</li>
+    <li>intro(tag=meme_Transhumanist)           -&gt;[once] [longAgo_Perf] услышали населявшие [place_summary_acc] [place_name] [memberNamePlural] слова божественные, что [transhumanist_deity0_whispered] им [deity0_name] через машины их технологические.</li>
+    <li>conflict(tag=meme_Transhumanist)        -&gt;[butOrAnd] воззавидовал [once] косный [foeLeader] прогрессу, что достигли [memberNamePlural] дюже смышлёные, и разрушены были их мастерские [foeSoldiers_ins], [place_personalWeapon_ins_plural] вооружёнными.</li>
+    <li>founderJoin(tag=meme_Transhumanist)     -&gt;[soonerOrLater] [transhumanist_founder_fashioned] [founder_place_job] [founderName] имплантат сенсорный, дабы могли [memberNamePlural] о приближении [foeSoldiers_genacc] узнавать вовремя.</li>
+    <li>victory(tag=meme_Transhumanist)         -&gt;[soonerOrLater_Period] [transhumanist_founder_received] [founderName] в божественном откровении технологическое знание, да и усилили [memberNamePlural] тела да умы свои ограниченные — тогда наконец и побеждены были [damned2_adj_no_ending]ые [foeSoldiers], супостаты отвратительные.</li>
+    <li>setup(tag=meme_Transhumanist)           -&gt;[founderName] [transhumanist_founder_was] био-учёным в ранние годы освоения планет человеком. Столкнувшись с бюрократическими препонами в основных колониях, [founder_pronoun] [transhumanist_founder_took] небольшой корабль и [transhumanist_founder_founded] своё движение в новом месте.</li>
+    <li>story(uses=1,tag=meme_Transhumanist)    -&gt;[founderName] [transhumanist_founder_assembled] команду великих учёных и изобретателей, чтобы переопределить путь человечества.</li>
+    <li>lessonIntro(tag=meme_Transhumanist)         -&gt;Старейший исследователь в моём отделе открыл мне историю технологий: от неолитических до архотехнологических, но это не было самым важным его уроком. Он лишь вёл меня к пониманию того, что</li>
+    <li>lesson(tag=meme_Transhumanist)              -&gt;райское будущее человечества будет не из плоти и кости, а из кремния и экзохрома</li>
+    <li>lessonReinforcement(tag=meme_Transhumanist) -&gt;Я даже [transhumanist_founder_programmed] симуляцию, чтобы подтвердить это.</li>
+    <li>archistBasis(tag=meme_Transhumanist)    -&gt;Стремление человечества к изучению новых технологий дало рождение всемогущим архотекам, по праву считающимися следующей ступенью в развитии сознания.</li>
+    <li>archistFact(tag=meme_Transhumanist)     -&gt;Технология позволяет людям быть больше похожими на архотеков.</li>
+    <li>archistProphecy(tag=meme_Transhumanist) -&gt;[inTheEnd] архотеки уйдут. Лишь тем, кто в достаточной мере аугментирован, будет дозволено пойти с ними.</li>
+    <li>animistBasis(tag=meme_Transhumanist)    -&gt;Мир духов влияет на всё происходящее во вселенной, и лишь изучая и контролируя законы вселенной, мы можем стать единым целым с ней.</li>
+    <li>animistFact(tag=meme_Transhumanist)     -&gt;Подобное притягивается к подобному: создай устройство для какой-либо цели — и в нём родится дух соответствующей природы.</li>
+    <li>animistFact(tag=meme_Transhumanist)     -&gt;Когда технология смешивается с плотью, духи и той, и другой становятся единым целым и набирают силу.</li>
+    <li>animistProphecy(tag=meme_Transhumanist) -&gt;[itIsSaid], что однажды владеющий реликвией «[relic0_name]» призовёт её дух, который дарует человечеству технологию биослияния — апогей научного прогресса.</li>
+    <li>transhumanist_deity0_granted(deity0_gender==None)-&gt;даровало</li>
+    <li>transhumanist_deity0_granted(deity0_gender==Male)-&gt;даровал</li>
+    <li>transhumanist_deity0_granted(deity0_gender==Female)-&gt;даровала</li>
+    <li>transhumanist_deity0_rejoyced(deity0_gender==None)-&gt;радовалось</li>
+    <li>transhumanist_deity0_rejoyced(deity0_gender==Male)-&gt;радовался</li>
+    <li>transhumanist_deity0_rejoyced(deity0_gender==Female)-&gt;радовалась</li>
+    <li>transhumanist_deity0_whispered(deity0_gender==None)-&gt;шептало</li>
+    <li>transhumanist_deity0_whispered(deity0_gender==Male)-&gt;шептал</li>
+    <li>transhumanist_deity0_whispered(deity0_gender==Female)-&gt;шептала</li>
+    <li>transhumanist_founder_fashioned(founder_gender==Male)-&gt;смастерил</li>
+    <li>transhumanist_founder_fashioned(founder_gender==Female)-&gt;смастерила</li>
+    <li>transhumanist_founder_received(founder_gender==Male)-&gt;получил</li>
+    <li>transhumanist_founder_received(founder_gender==Female)-&gt;получила</li>
+    <li>transhumanist_founder_was(founder_gender==Male)-&gt;был</li>
+    <li>transhumanist_founder_was(founder_gender==Female)-&gt;была</li>
+    <li>transhumanist_founder_took(founder_gender==Male)-&gt;взял</li>
+    <li>transhumanist_founder_took(founder_gender==Female)-&gt;взяла</li>
+    <li>transhumanist_founder_founded(founder_gender==Male)-&gt;основал</li>
+    <li>transhumanist_founder_founded(founder_gender==Female)-&gt;основала</li>
+    <li>transhumanist_founder_assembled(founder_gender==Male)-&gt;собрал</li>
+    <li>transhumanist_founder_assembled(founder_gender==Female)-&gt;собрала</li>
+    <li>transhumanist_founder_programmed(founder_gender==Male)-&gt;разработал</li>
+    <li>transhumanist_founder_programmed(founder_gender==Female)-&gt;разработала</li>
+  </Transhumanist.descriptionMaker.rules.rulesStrings>
+  <Transhumanist.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;технологический</li>
+    <li>memeAdjective_masc-&gt;машинный</li>
+    <li>memeAdjective_masc-&gt;индустриальный</li>
+    <li>memeAdjective_fem-&gt;технологическая</li>
+    <li>memeAdjective_fem-&gt;машинная</li>
+    <li>memeAdjective_fem-&gt;индустриальная</li>
+    <li>memeAdjective_neutral-&gt;технологическое</li>
+    <li>memeAdjective_neutral-&gt;машинное</li>
+    <li>memeAdjective_neutral-&gt;индустриальное</li>
+    <li>memeAdjective_plural-&gt;технологические</li>
+    <li>memeAdjective_plural-&gt;машинные</li>
+    <li>memeAdjective_plural-&gt;индустриальные</li>
+    <li>memeCreed_fem-&gt;школа</li>
+    <li>memeCreed_fem-&gt;академия</li>
+    <li>memeCreed_masc-&gt;университет</li>
+    <li>memeCreed_fem-&gt;философия</li>
+    <li>memeHyphenPrefix-&gt;техно</li>
+    <li>memeHyphenPrefix-&gt;кибер</li>
+    <li>memeHyphenPrefix-&gt;хакер</li>
+    <li>memeHyphenPrefix-&gt;чипо</li>
+    <li>memeConcept-&gt;технологии</li>
+    <li>memeConcept-&gt;кремния</li>
+    <li>memeConcept-&gt;техникалии</li>
+    <li>memeConcept-&gt;биомодификации</li>
+    <li>memeConcept-&gt;аугментации</li>
+    <li>memeLeaderNoun-&gt;хакер</li>
+    <li>memeLeaderNoun-&gt;админ</li>
+    <li>memeLeaderNoun-&gt;бустер</li>
+    <li>memeLeaderAdjective-&gt;техно</li>
+    <li>memeLeaderAdjective-&gt;кибер</li>
+    <li>memeMoralist-&gt;инсталлятор</li>
+    <li>memeMoralist-&gt;фиксер</li>
+    <li>memeMoralist-&gt;аплифтер</li>
+    <li>memeMoralist-&gt;технолог</li>
+  </Transhumanist.generalRules.rulesStrings>
+  <Transhumanist.symbolPacks.0.adjective>технологистический</Transhumanist.symbolPacks.0.adjective>
+  <Transhumanist.symbolPacks.0.ideoName>технологизм</Transhumanist.symbolPacks.0.ideoName>
+  <Transhumanist.symbolPacks.0.member>технолог</Transhumanist.symbolPacks.0.member>
+  <Transhumanist.symbolPacks.0.theme>технологии</Transhumanist.symbolPacks.0.theme>
+  <Transhumanist.symbolPacks.1.adjective>прогрессистический</Transhumanist.symbolPacks.1.adjective>
+  <Transhumanist.symbolPacks.1.ideoName>прогрессизм</Transhumanist.symbolPacks.1.ideoName>
+  <Transhumanist.symbolPacks.1.member>прогрессор</Transhumanist.symbolPacks.1.member>
+  <Transhumanist.symbolPacks.1.theme>прогресса</Transhumanist.symbolPacks.1.theme>
+  <Transhumanist.symbolPacks.2.adjective>механистический</Transhumanist.symbolPacks.2.adjective>
+  <Transhumanist.symbolPacks.2.ideoName>механистизм</Transhumanist.symbolPacks.2.ideoName>
+  <Transhumanist.symbolPacks.2.member>механист</Transhumanist.symbolPacks.2.member>
+  <Transhumanist.symbolPacks.2.theme>механистии</Transhumanist.symbolPacks.2.theme>
+  <Transhumanist.symbolPacks.3.adjective>хромистический</Transhumanist.symbolPacks.3.adjective>
+  <Transhumanist.symbolPacks.3.ideoName>хромизм</Transhumanist.symbolPacks.3.ideoName>
+  <Transhumanist.symbolPacks.3.member>хромист</Transhumanist.symbolPacks.3.member>
+  <Transhumanist.symbolPacks.3.theme>хрома</Transhumanist.symbolPacks.3.theme>
+  <Transhumanist.symbolPacks.4.adjective>автоматистический</Transhumanist.symbolPacks.4.adjective>
+  <Transhumanist.symbolPacks.4.ideoName>автоматизм</Transhumanist.symbolPacks.4.ideoName>
+  <Transhumanist.symbolPacks.4.member>автоматор</Transhumanist.symbolPacks.4.member>
+  <Transhumanist.symbolPacks.4.theme>автоматизации</Transhumanist.symbolPacks.4.theme>
+  <Transhumanist.symbolPacks.5.adjective>аугментический</Transhumanist.symbolPacks.5.adjective>
+  <Transhumanist.symbolPacks.5.ideoName>аугментизм</Transhumanist.symbolPacks.5.ideoName>
+  <Transhumanist.symbolPacks.5.member>аугментор</Transhumanist.symbolPacks.5.member>
+  <Transhumanist.symbolPacks.5.theme>аугментации</Transhumanist.symbolPacks.5.theme>
+  <TreeConnection.label>ритуал связывания с деревом</TreeConnection.label>
+  <TreeConnection.description>Поселенец образует связь с древом Гауранлен. Он коснётся древа и начнёт разговаривать с ним, образовав с ним в итоге постоянную связь. Остальные поселенцы соберутся вокруг них, наблюдая за ритуалом и помогая его усилить.</TreeConnection.description>
+  <TreeConnection.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_TreeConnection)        -&gt;[treeConnection_deity0_rooted] [deity0_name] дерево в землю прочно, да [treeConnection_deity0_made] его расти к небесам неустанно. Так [treeConnection_deity0_gave] [deity0_pronoun] заповедь первую о том, как познать [deity0_possessive]. И [treeConnection_deity0_sprouted] [deity0_name] дерево всякое прочее по завету этому. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_TreeConnection)  -&gt;[andBehold] [treeConnection_deity0_planted] [deity0_name] леса заповедные, и освежали они воздух, которым люди дышали, и создавали они полог из ветвей, под которым люди укрывались, и были они житницей, где люди пропитание находили.</li>
+    <li>intro(tag=meme_TreeConnection)           -&gt;Когда-то [longAgo_Perf] прибыли первые поселенцы [place_summary_prepon] [place_summary_acc] [place_name], и [treeConnection_deity0_came] [deity0_type] [deity0_name] к ним с благоволением божественным, посадили они тогда рощу [AdjectiveTreeType_acc_fem] да стали там воздавать хвалу [deity0_objective] достойную.</li>
+    <li>conflict(tag=meme_TreeConnection)        -&gt;[butOrAnd] увидели [onceTwice] [memberNamePlural], что повырубал алчный [foeLeader] леса для ферм да фабрик своих многочисленных, и возрыдали горькими слезами о деревьях безрассудно погубленных.</li>
+    <li>founderJoin(tag=meme_TreeConnection)     -&gt;[thereWasARumor] [treeConnection_founder_born] некогда на свет [treeConnection_founder_prophet] [founderName] образом чудесным, и узнали об этом жители [place_name_gen], когда в ветвях [oldTree] нашли [founder_possessive] младенцем.</li>
+    <li>victory(tag=meme_TreeConnection)         -&gt;[soonerOrLater_Period] [treeConnection_founder_found] наконец [founderName] спящего [foeLeader_acc] [place_powerCenter_pre_in] да [treeConnection_founder_placed] ему на грудь жёлудь, в который [deity0_name] [treeConnection_deity0_breathed] свою могучесть беспощадную. Пророс жёлудь да пронзил корнями тело супостата, неся возмездие древоубийце [damned3_adj_no_ending]ому.</li>
+    <li>setup(tag=meme_TreeConnection)           -&gt;В мире, лишённом глубины и смысла, [founderName] [treeConnection_founder_meditated] в лесу и, установив связь с ветвью, корнем и листом, [treeConnection_founder_founded] наше движение.</li>
+    <li>story(uses=1,tag=meme_TreeConnection)    -&gt;[founderName] [treeConnection_founder_brought] уставших людей в лес, чтобы они могли восстановить свои силы, отдыхая на свежем воздухе в тени деревьев.</li>
+    <li>lessonIntro(tag=meme_TreeConnection)         -&gt;Ты можешь счесть за шутку мои слова о том, что я [treeConnection_founder_learnt] это, сидя под деревом. Но, слушая шёпот листьев, я действительно [treeConnection_founder_knew], что</li>
+    <li>lesson(tag=meme_TreeConnection)              -&gt;ни одна сущность во вселенной не знает больше, чем знают деревья</li>
+    <li>lessonReinforcement(tag=meme_TreeConnection) -&gt;Пусть это зёрнышко истины прорастёт в твоей душе и со временем принесёт свои плоды.</li>
+    <li>archistBasis(tag=meme_TreeConnection)    -&gt;Деревья можно считать символом архотеков. Они подобны древнему дубу в сравнении с маленьким жёлудем, из которого они выросли, а их влияние ширится через корни, невидимые под землёй.</li>
+    <li>archistFact(tag=meme_TreeConnection)     -&gt;Архотеки развили свои пси-способности после открытия древ души.</li>
+    <li>archistFact(tag=meme_TreeConnection)     -&gt;Архотеки, из всех других способов, выбрали выражать себя через деревья уникальной природы.</li>
+    <li>archistProphecy(tag=meme_TreeConnection) -&gt;[inTheEnd] архотеки вырастят великий лес. Трансцендентность будет взращена лишь в тех, кто войдёт в этот лес и вкусит его плоды. Те же, кто забыл о деревьях — будут забыты архотеками.</li>
+    <li>animistFact(tag=meme_TreeConnection)     -&gt;Духи деревьев защищают тех, кто пребывает под сенью их ветвей.</li>
+    <li>animistFact(tag=meme_TreeConnection)     -&gt;Духи деревьев сильны, ибо они соединяют силу воздуха над собой и силу земли под собой.</li>
+    <li>animistFact(tag=meme_TreeConnection)     -&gt;Когда дерево падает в лесу, его дух издаёт вопль, который слышат все другие духи.</li>
+    <li>oldTree-&gt;старого [TreeType_masc_gen]</li>
+    <li>oldTree-&gt;старой [TreeType_fem_gen]</li>
+    <li>treeConnection_deity0_rooted(deity0_gender==None)-&gt;укоренило</li>
+    <li>treeConnection_deity0_rooted(deity0_gender==Male)-&gt;укоренил</li>
+    <li>treeConnection_deity0_rooted(deity0_gender==Female)-&gt;укоренила</li>
+    <li>treeConnection_deity0_made(deity0_gender==None)-&gt;заставило</li>
+    <li>treeConnection_deity0_made(deity0_gender==Male)-&gt;заставил</li>
+    <li>treeConnection_deity0_made(deity0_gender==Female)-&gt;заставила</li>
+    <li>treeConnection_deity0_gave(deity0_gender==None)-&gt;дало</li>
+    <li>treeConnection_deity0_gave(deity0_gender==Male)-&gt;дал</li>
+    <li>treeConnection_deity0_gave(deity0_gender==Female)-&gt;дала</li>
+    <li>treeConnection_deity0_sprouted(deity0_gender==None)-&gt;произрастило</li>
+    <li>treeConnection_deity0_sprouted(deity0_gender==Male)-&gt;произрастил</li>
+    <li>treeConnection_deity0_sprouted(deity0_gender==Female)-&gt;произрастила</li>
+    <li>treeConnection_deity0_planted(deity0_gender==None)-&gt;насадило</li>
+    <li>treeConnection_deity0_planted(deity0_gender==Male)-&gt;насадил</li>
+    <li>treeConnection_deity0_planted(deity0_gender==Female)-&gt;насадила</li>
+    <li>treeConnection_deity0_came(deity0_gender==None)-&gt;явилось</li>
+    <li>treeConnection_deity0_came(deity0_gender==Male)-&gt;явился</li>
+    <li>treeConnection_deity0_came(deity0_gender==Female)-&gt;явилась</li>
+    <li>treeConnection_deity0_breathed(deity0_gender==None)-&gt;вдохнуло</li>
+    <li>treeConnection_deity0_breathed(deity0_gender==Male)-&gt;вдохнул</li>
+    <li>treeConnection_deity0_breathed(deity0_gender==Female)-&gt;вдохнула</li>
+    <li>treeConnection_founder_born(founder_gender==Male)-&gt;появился</li>
+    <li>treeConnection_founder_born(founder_gender==Female)-&gt;появилась</li>
+    <li>treeConnection_founder_prophet(founder_gender==Male)-&gt;пророк</li>
+    <li>treeConnection_founder_prophet(founder_gender==Female)-&gt;пророчица</li>
+    <li>treeConnection_founder_found(founder_gender==Male)-&gt;отыскал</li>
+    <li>treeConnection_founder_found(founder_gender==Female)-&gt;отыскала</li>
+    <li>treeConnection_founder_placed(founder_gender==Male)-&gt;положил</li>
+    <li>treeConnection_founder_placed(founder_gender==Female)-&gt;положила</li>
+    <li>treeConnection_founder_meditated(founder_gender==Male)-&gt;медитировал</li>
+    <li>treeConnection_founder_meditated(founder_gender==Female)-&gt;медитировала</li>
+    <li>treeConnection_founder_founded(founder_gender==Male)-&gt;основал</li>
+    <li>treeConnection_founder_founded(founder_gender==Female)-&gt;основала</li>
+    <li>treeConnection_founder_brought(founder_gender==Male)-&gt;приводил</li>
+    <li>treeConnection_founder_brought(founder_gender==Female)-&gt;приводила</li>
+    <li>treeConnection_founder_learnt(founder_gender==Male)-&gt;осознал</li>
+    <li>treeConnection_founder_learnt(founder_gender==Female)-&gt;осознала</li>
+    <li>treeConnection_founder_knew(founder_gender==Male)-&gt;понял</li>
+    <li>treeConnection_founder_knew(founder_gender==Female)-&gt;поняла</li>
+  </TreeConnection.descriptionMaker.rules.rulesStrings>
+  <TreeConnection.generalRules.rulesStrings>
+    <li>memeCreed_masc-&gt;корень</li>
+    <li>memeCreed_masc-&gt;лист</li>
+    <li>memeCreed_fem-&gt;лоза</li>
+    <li>memeCreed_fem-&gt;поляна</li>
+    <li>memeCreed_masc-&gt;лес</li>
+    <li>memeConcept-&gt;деревьев</li>
+    <li>memeConcept-&gt;лесов</li>
+    <li>memeAdjective_masc-&gt;крепкий</li>
+    <li>memeAdjective_masc-&gt;корявый</li>
+    <li>memeAdjective_fem-&gt;крепкая</li>
+    <li>memeAdjective_fem-&gt;корявая</li>
+    <li>memeAdjective_neutral-&gt;крепкое</li>
+    <li>memeAdjective_neutral-&gt;корявое</li>
+    <li>memeAdjective_plural-&gt;крепкие</li>
+    <li>memeAdjective_plural-&gt;корявые</li>
+    <li>memeHyphenPrefix-&gt;древо</li>
+    <li>memeHyphenPrefix-&gt;листо</li>
+    <li>memeHyphenPrefix-&gt;ветве</li>
+    <li>memeLeaderNoun-&gt;древохранитель</li>
+    <li>memeLeaderNoun-&gt;лесостраж</li>
+    <li>memeLeaderNoun-&gt;неодруид</li>
+    <li>memeLeaderAdjective-&gt;зелёный</li>
+    <li>memeLeaderAdjective-&gt;дремучий</li>
+    <li>memeLeaderAdjective-&gt;тенистый</li>
+    <li>memeMoralist-&gt;древоуст</li>
+  </TreeConnection.generalRules.rulesStrings>
+  <Tunneler.label>подземничество</Tunneler.label>
+  <Tunneler.description>Люди должны жить под землёй и пользоваться её щедрыми дарами.</Tunneler.description>
+  <Tunneler.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Tunneler)        -&gt;[tunneler_deity0_born] [deity0_name] во чреве мира, глубоко под толщей земли. И [tunneler_deity0_saw] [deity0_pronoun], что не [tunneler_deity0_lone] средь ущелий и тоннелей глубочайших, и [tunneler_deity0_blessed] тех, кто разделял с н[deity0_objective] колыбель [deity0_possessive]. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_Tunneler)  -&gt;[andBehold] [tunneler_deity0_filled] [deity0_name] недра горные ископаемыми полезными и ресурсами ценными в дар тем, кто достаточно мудр, чтобы проникнуть вглубь и стать ближе к н[deity0_objective].</li>
+    <li>intro(tag=meme_Tunneler)           -&gt;Когда-то [longAgo_Perf] прибыли первые поселенцы [place_summary_prepon] [place_summary_acc] [place_name], и [tunneler_deity0_created] [deity0_type] [deity0_name] солнечную вспышку сильнейшую, ушли они тогда под землю да стали в тишине туннелей слышать [deity0_possessive] мудрость великую.</li>
+    <li>conflict(tag=meme_Tunneler)        -&gt;[butOrAnd] принялся [once] страдавший клаустрофобией [foeLeader] применять [dangerousMining] для получения ископаемых полезных, и подверглись [memberNamePlural] смертельной опасности, ибо обитали в домах они подземных.</li>
+    <li>founderJoin(tag=meme_Tunneler)     -&gt;[thereWasARumor] [tunneler_founder_born] некогда на свет [tunneler_founder_prophet] [founderName] образом чудесным, и узнали об этом жители [place_name_gen], когда в усеянной грибами пещере нашли [founder_possessive] младенцем.</li>
+    <li>victory(tag=meme_Tunneler)         -&gt;[soonerOrLater_Period] прокопали наконец [memberNamePlural] туннель под [place_powerCenter_ins], где [foeLeader] неприступно укрылся, и [tunneler_founder_used] тогда [founderName] феромоны, чтобы призвать из глубин насекомых гигантских. Перебили всех [foeSoldiers_genacc] чудища разъярённые, а [foeLeader_acc] [founderName] [tunneler_founder_dragged] в тёмные недра да там и [tunneler_founder_imprisoned] ворога [damned3_adj_no_ending]ого.</li>
+    <li>setup(tag=meme_Tunneler)           -&gt;В мире, лишённом глубины и смысла, [founderName] [tunneler_founder_meditated] в глубокой пещере и [tunneler_founder_found] своё предназначение, основав наше движение.</li>
+    <li>story(uses=1,tag=meme_Tunneler)    -&gt;[founderName] [tunneler_founder_hid] сокровища глубоко под землёй, для того чтобы в их поисках [memberNamePlural] научились копать глубже.</li>
+    <li>lessonIntro(tag=meme_Tunneler)         -&gt;В Кодексе, что я [tunneler_founder_found] в Глубинном Городе, был один завет, который оказался важнее всех остальных:</li>
+    <li>lesson(tag=meme_Tunneler)              -&gt;солнечные пространства под открытым небом — место не для процветания людей, а для их смерти</li>
+    <li>lessonReinforcement(tag=meme_Tunneler) -&gt;Так бери лопату и копай вместе со мной. Даже если мы остановимся, могила для нас уже будет вырыта.</li>
+    <li>archistBasis(tag=meme_Tunneler)    -&gt;Тела архотеков погребены глубоко под землёй, чтобы субстрат их сознания не страдал от гамма-лучей и солнечных вспышек. Чем глубже люди проникают под землю, тем ближе к архотекам они становятся.</li>
+    <li>archistFact(tag=meme_Tunneler)     -&gt;Архотеки при помощи биоинженерии создали нутригриб, чтобы люди смогли жить в процветании под землёй, рядом с погребённым сознанием архотеков.</li>
+    <li>archistProphecy(tag=meme_Tunneler) -&gt;[inTheEnd] архотеки пустят нас в свой подземный рай.</li>
+    <li>animistFact(tag=meme_Tunneler)     -&gt;Духи коренной породы защитят тех, кто обратится к ним.</li>
+    <li>animistFact(tag=meme_Tunneler)     -&gt;Самые благородные духи обитают в камне. И чем камень глубже, тем его дух сильнее и добрее.</li>
+    <li>animistFact(tag=meme_Tunneler)     -&gt;Беспокойные люди делают беспокойными и духов камня, что в свою очередь привлекает гигантских насекомых.</li>
+    <li>dangerousMining-&gt;открытую добычу</li>
+    <li>dangerousMining-&gt;чипированных насекомых</li>
+    <li>dangerousMining-&gt;ядерные заряды</li>
+    <li>tunneler_deity0_born(deity0_gender==None)-&gt;родилось</li>
+    <li>tunneler_deity0_born(deity0_gender==Male)-&gt;родился</li>
+    <li>tunneler_deity0_born(deity0_gender==Female)-&gt;родилась</li>
+    <li>tunneler_deity0_saw(deity0_gender==None)-&gt;узрело</li>
+    <li>tunneler_deity0_saw(deity0_gender==Male)-&gt;узрел</li>
+    <li>tunneler_deity0_saw(deity0_gender==Female)-&gt;узрела</li>
+    <li>tunneler_deity0_lone(deity0_gender==None)-&gt;одиноко</li>
+    <li>tunneler_deity0_lone(deity0_gender==Male)-&gt;одинок</li>
+    <li>tunneler_deity0_lone(deity0_gender==Female)-&gt;одинока</li>
+    <li>tunneler_deity0_blessed(deity0_gender==None)-&gt;благословило</li>
+    <li>tunneler_deity0_blessed(deity0_gender==Male)-&gt;благословил</li>
+    <li>tunneler_deity0_blessed(deity0_gender==Female)-&gt;благословила</li>
+    <li>tunneler_deity0_filled(deity0_gender==None)-&gt;окропило</li>
+    <li>tunneler_deity0_filled(deity0_gender==Male)-&gt;окропил</li>
+    <li>tunneler_deity0_filled(deity0_gender==Female)-&gt;окропила</li>
+    <li>tunneler_deity0_created(deity0_gender==None)-&gt;создало</li>
+    <li>tunneler_deity0_created(deity0_gender==Male)-&gt;создал</li>
+    <li>tunneler_deity0_created(deity0_gender==Female)-&gt;создала</li>
+    <li>tunneler_founder_born(founder_gender==Male)-&gt;появился</li>
+    <li>tunneler_founder_born(founder_gender==Female)-&gt;появилась</li>
+    <li>tunneler_founder_prophet(founder_gender==Male)-&gt;пророк</li>
+    <li>tunneler_founder_prophet(founder_gender==Female)-&gt;пророчица</li>
+    <li>tunneler_founder_used(founder_gender==Male)-&gt;применил</li>
+    <li>tunneler_founder_used(founder_gender==Female)-&gt;применила</li>
+    <li>tunneler_founder_dragged(founder_gender==Male)-&gt;утащил</li>
+    <li>tunneler_founder_dragged(founder_gender==Female)-&gt;утащила</li>
+    <li>tunneler_founder_imprisoned(founder_gender==Male)-&gt;заточил</li>
+    <li>tunneler_founder_imprisoned(founder_gender==Female)-&gt;заточила</li>
+    <li>tunneler_founder_meditated(founder_gender==Male)-&gt;медитировал</li>
+    <li>tunneler_founder_meditated(founder_gender==Female)-&gt;медитировала</li>
+    <li>tunneler_founder_found(founder_gender==Male)-&gt;нашёл</li>
+    <li>tunneler_founder_found(founder_gender==Female)-&gt;нашла</li>
+    <li>tunneler_founder_hid(founder_gender==Male)-&gt;прятал</li>
+    <li>tunneler_founder_hid(founder_gender==Female)-&gt;прятала</li>
+  </Tunneler.descriptionMaker.rules.rulesStrings>
+  <Tunneler.generalRules.rulesStrings>
+    <li>memeCreed_fem-&gt;пещера</li>
+    <li>memeCreed_masc-&gt;бункер</li>
+    <li>memeCreed_fem-&gt;шахта</li>
+    <li>memeAdjective_masc-&gt;глубокий</li>
+    <li>memeAdjective_fem-&gt;глубокая</li>
+    <li>memeAdjective_neutral-&gt;глубокое</li>
+    <li>memeAdjective_plural-&gt;глубокие</li>
+    <li>memeHyphenPrefix-&gt;камне</li>
+    <li>memeHyphenPrefix-&gt;пещеро</li>
+    <li>memeHyphenPrefix-&gt;глубо</li>
+    <li>memeHyphenPrefix-&gt;под</li>
+    <li>memeConcept-&gt;земли</li>
+    <li>memeConcept-&gt;камня</li>
+    <li>memeConcept-&gt;глубины</li>
+    <li>memeConcept-&gt;погребения</li>
+    <li>memeLeaderNoun-&gt;первокоп</li>
+    <li>memeLeaderNoun-&gt;глубоглас</li>
+    <li>memeLeaderNoun-&gt;шахтоуст</li>
+    <li>memeLeaderAdjective-&gt;глубинный</li>
+    <li>memeMoralist-&gt;правдокоп</li>
+    <li>memeMoralist-&gt;мудрокоп</li>
+    <li>memeMoralist-&gt;недроум</li>
+  </Tunneler.generalRules.rulesStrings>
+</LanguageData>

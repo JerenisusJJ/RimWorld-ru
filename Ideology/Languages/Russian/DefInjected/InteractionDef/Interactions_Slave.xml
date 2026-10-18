@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SparkSlaveRebellion.label>склонение рабов к восстанию</SparkSlaveRebellion.label>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] предлагает вырваться из плена.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] воодушевляет [RECIPIENT_nameDef] вернуть себе свободу.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] говорит о том, что порабощению должен настать конец и что нужно бежать.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] говорит о жизни на свободе и воодушевляет [RECIPIENT_nameDef] бежать.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] шепчет, что охрана на самом деле не такая сильная и что сейчас самое время бежать.</li>
+  </SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+  <Suppress.label>подавлять</Suppress.label>
+  <Suppress.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] говорит [RECIPIENT_nameDef], что за бунтом последуют наказания.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] предупреждает [RECIPIENT_nameDef], что за неподчинение последует наказание.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] предостерегает [RECIPIENT_nameDef] от совершения каких-либо нарушений.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] говорит [RECIPIENT_nameDef], что нужно выполнять приказы и не задавать лишних вопросов.</li>
+  </Suppress.logRulesInitiator.rulesStrings>
+</LanguageData>

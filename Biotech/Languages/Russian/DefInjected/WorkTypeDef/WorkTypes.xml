@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Childcare.label>Воспитание</Childcare.label>
+  <Childcare.description>Воспитатели заботятся о младенцах, кормят их грудью или смесью и развивают детей поселения.</Childcare.description>
+  <Childcare.gerundLabel>Заботиться</Childcare.gerundLabel>
+  <Childcare.labelShort>дети</Childcare.labelShort>
+  <Childcare.pawnLabel>Воспитатель</Childcare.pawnLabel>
+  <Childcare.verb>Заботиться</Childcare.verb>
+</LanguageData>

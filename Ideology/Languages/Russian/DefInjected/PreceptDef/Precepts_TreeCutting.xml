@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <TreeCutting_Disapproved.label>не одобряется</TreeCutting_Disapproved.label>
+  <TreeCutting_Disapproved.description>Рубить деревья — нехорошо.</TreeCutting_Disapproved.description>
+  <TreeCutting_Disapproved.comps.2.description>Кто-то срубил дерево</TreeCutting_Disapproved.comps.2.description>
+  <TreeCutting_Horrible.label>ужасна</TreeCutting_Horrible.label>
+  <TreeCutting_Horrible.description>Вырубка деревьев — это ужасно.</TreeCutting_Horrible.description>
+  <TreeCutting_Horrible.comps.2.description>Кто-то срубил дерево</TreeCutting_Horrible.comps.2.description>
+  <TreeCutting_Prohibited.label>запрещена</TreeCutting_Prohibited.label>
+  <TreeCutting_Prohibited.description>Осквернять лес, срубая деревья, — крайне отвратительно. Так делать нельзя ни в коем случае.</TreeCutting_Prohibited.description>
+  <TreeCutting_Prohibited.comps.2.description>Кто-то срубил дерево</TreeCutting_Prohibited.comps.2.description>
+</LanguageData>

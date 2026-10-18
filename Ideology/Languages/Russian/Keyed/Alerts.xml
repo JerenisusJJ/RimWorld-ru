@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NeedSlaveBeds>Нужны кровати для рабов</NeedSlaveBeds>
+  <NeedSlaveBedsDesc>У вас больше рабов, чем кроватей для них. Кому-то не хватит места для сна.\n\nЛибо разместите больше кроватей, либо назначьте рабам часть кроватей поселенцев или пленников.\n\nЕсли у вас не хватает ресурсов, вы можете просто обозначить для них спальные места.</NeedSlaveBedsDesc>
+  <SlavesUnsuppressedLabel>Раб не подавлен</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedDesc>{0_gender ? Раб : Рабыня : Раб} {0_nameDef} недостаточно {0_gender ? подавлен : подавлена : подавлно}. Велик шанс, что {0_pronoun} начнёт бунтовать.\n\nУбедитесь, что среди поселенцев есть надзиратель. Надзиратели будут периодически подавлять рабов для предотвращения восстаний.</SlavesUnsuppressedDesc>
+  <SlaveUnattendedLabel>Раб без надзора</SlaveUnattendedLabel>
+  <SlaveUnattendedMultipleLabel>Рабы без надзора</SlaveUnattendedMultipleLabel>
+  <SlavesUnattendedDesc>За некоторыми рабами не следит ни один трудоспособный поселенец.\n\nРабы, оставленные без надзора, скорее всего поднимут восстание в ближайшие дни или часы.</SlavesUnattendedDesc>
+  <RitualOpportunity>Можно провести {0}</RitualOpportunity>
+  <RitualOpportunityFor>Можно провести {0} для {1}</RitualOpportunityFor>
+  <RitualExpiresIn>Истекает через {0}, {1}.</RitualExpiresIn>
+  <RitualSingleTargetDesc>Чтобы начать ритуал, выберите {FOCUS} и нажмите «Начать {RITUAL_label}».</RitualSingleTargetDesc>
+  <RitualMultiTargetDesc>Чтобы начать ритуал, выберите что-либо из перечисленного и нажмите «Начать {RITUAL_label}».</RitualMultiTargetDesc>
+  <RitualTargetsExplanation>Чтобы начать ритуал, выберите место проведения и нажмите «Начать {RITUAL_label}». Подходящие места проведения:\n{1}</RitualTargetsExplanation>
+  <RitualJumpToTargets>Нажмите, чтобы перейти к целям</RitualJumpToTargets>
+  <RitualUnfilledRoles>Для проведения {0} требуются следующие роли</RitualUnfilledRoles>
+  <IdeoBuildingMissing>Требуется {0}</IdeoBuildingMissing>
+  <IdeoBuildingMissingDesc>{IDEO_name} требует наличия {lookup: {0}; Case; 1} в вашем поселении, если {2} или выше.\n\n{0} — это вид {lookup: {BASEBUILDING_label}; Case; 1}.{BUILDINGINFO}\n\nЭто требование актуально, только если {IDEO_name} — основная идеолигия вашей фракции, или у вас есть хотя бы {MINBELIEVERS} её последователей.{4}.\n\nЕсли требования не будут соблюдены, эти последователи будут недовольны:\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingArchitectTabDesc>Вы можете построить это сооружение, открыв вкладку «{TABNAME}» в меню «Проекты».</IdeoBuildingArchitectTabDesc>
+  <IdeoBuildingCanBeCraftedAt>Этот предмет можно создать на следующих рабочих местах:\n{0}.</IdeoBuildingCanBeCraftedAt>
+  <IdeoBuildingRoomRequirementsDesc>Помещение, достойное {0}, должно удовлетворять следующим требованиям</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingExpectations>ожидания —</IdeoBuildingExpectations>
+  <IdeoBuildingDisrespected>{0} не почитается</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespectedDesc>Согласно традициям {0}, помещение для {1} должно удовлетворять следующим требованиям:\n{2}\n\nЕсли требования не будут соблюдены, эти последователи расстроятся:\n{3}</IdeoBuildingDisrespectedDesc>
+  <QuestPartRaidsDelay>Налёты начнутся через {0}</QuestPartRaidsDelay>
+  <QuestPartRaidsDelayDesc>Налёты начнутся через {0}.\n\nНалётчики будут пытаться уничтожить космический дрон. Защищайте его, чтобы ваши поселенцы могли взломать бортовой компьютер и получить данные.</QuestPartRaidsDelayDesc>
+  <IdeoRoleEmpty>Роль {0} не назначена</IdeoRoleEmpty>
+  <IdeoRolesEmpty>Роли {0} не назначены</IdeoRolesEmpty>
+  <IdeoRolesEmptyDesc>Роли не назначены:\n{0}\n\nВы можете назначить роль поселенцу во вкладке «Социум». Вы также можете выбрать место проведения ритуала или алтарь и нажать кнопку «Начать смену роли».\n\nЕсли на роли никто не будет назначен, эти люди расстроятся</IdeoRolesEmptyDesc>
+  <AncientAltarThreatsWaking>Система безопасности активируется через {0}</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWakingDesc>Система безопасности активируется через {0}. Всё, кто представляет угрозу для реликвии, будут атакованы.</AncientAltarThreatsWakingDesc>
+  <AlertRitualComing>Скоро можно провести ритуал</AlertRitualComing>
+  <AlertRitualComingDesc>Скоро будет можно провести следующие ритуалы</AlertRitualComingDesc>
+  <AlertRitualComingExtra>Возможность проведения ритуала истекает через {0_numCase ? день : дня : дней} и появляется ежегодно в тот же день.</AlertRitualComingExtra>
+  <AlertRitualComingEntry>{0} проводится {1}, возможность для этого появится через {2}</AlertRitualComingEntry>
+  <AlertAgeReversalDemandNear>Требуется омоложение</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandDesc>Убеждения некоторых ваших поселенцев требуют от них регулярно омолаживаться в биоскульпторе. Если этого не делать, они будут недовольны.\n\nПроцедура омоложения нужна следующим поселенцам</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc_Recruit>{PAWN} недавно {PAWN_gender ? присоединился : присоединилась : присоединился} к фракции {FACTION} и требует омоложения в ближайшие {DURATION}.</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Next>{PAWN} требует проведения омоложения в ближайшие {DURATION}.</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN} требует проведения своего первого омоложения в ближайшие {DURATION}.</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Overdue>Омоложение {PAWN} просрочено на {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>Вера {PAWN_nameDef} в {IDEO_name} запрещает употреблять в пищу мясо этих животных: {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <AlertGauranlenTreeWithoutDryadTypeLabel>Не выбрана каста дриад</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>В одном или более древах Гауранлен не выбрана каста дриад. Выберите древо и нажмите «{0}», чтобы выбрать выращиваемую касту дриад.</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>Связующий не назначен садоводом</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>Древа Гауранлен ожидают остригания, но их связующие не назначены садоводами.\n\nВам следует назначить садоводами следующих поселенцев</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+  <AlertFuelNodeIgniting>Топливный узел взорвётся через {0}</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgnitingDesc>Топливный узел загорелся! Очень скоро он расплавится и взорвётся.\n\nОтойдите подальше и будьте готовы к тушению пожара.</AlertFuelNodeIgnitingDesc>
+  <AlertInfestationArriving>Насекомые прибывают через {0}</AlertInfestationArriving>
+  <AlertInfestationArrivingDesc>Гигантские насекомые почувствовали ваше присутствие и пробираются к вам из-под земли, чтобы напасть. Нашествие насекомых скоро начнётся.</AlertInfestationArrivingDesc>
+  <AlertHostilesWakingUp>{0_pawnsPlural} пробудятся через {1}</AlertHostilesWakingUp>
+  <AlertHostilesWakingUpDesc>Один или более {lookup: {0_pawnsPlural}; Case; 1} пробуждаются.\n\nОни нападут, если найдут вас.</AlertHostilesWakingUpDesc>
+  <AlertCasketOpening>Саркофаги криптосна откроются через {0}</AlertCasketOpening>
+  <AlertCasketOpeningDesc>Неизвестная угроза, дремлющая в саркофагах криптосна, скоро пробудится.</AlertCasketOpeningDesc>
+  <AlertSlaveRebellionLikely>Возможно восстание рабов</AlertSlaveRebellionLikely>
+  <AlertSlaveRebellionLikelyRebelliousCount>У вас в поселении есть {REBELLIOUSCOUNT} рабов, которые могут начать восстание.</AlertSlaveRebellionLikelyRebelliousCount>
+  <AlertSlaveRebellionLikelyMostRebellious>Восстания рабов ожидаются примерно раз в {COMBINEDTIME}. Обратите внимание, что вероятность поднять восстание рассчитывается индивидуально для каждого из рабов, и любой из них, кто поднимет восстание, может повести за собой остальных.\n\nК восстаниям наиболее склонен раб по имени {REBEL_labelShort}, и {REBEL_pronoun} будет их поднимать примерно раз в {INDIVIDUALTIME}. На это влияют следующие факторы:</AlertSlaveRebellionLikelyMostRebellious>
+</LanguageData>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LetterLabelLostRoyalTitle>Потерян титул {lookup: {TITLE}; Case; 1}: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
+  <LetterLabelGainedRoyalTitle>Принят титул {lookup: {TITLE}; Case; 1}: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
+  <PermitPointsAwarded>Полученные очки привилегий: {0}.</PermitPointsAwarded>
+  <LetterRoyalTitleApparelQualityRequirement>Этот титул предполагает ношение одежды качества «{1}» или выше.</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelRequirement>{PAWN_nameDef} требует соответствующую одежду титула.</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleExpectation>У н{PAWN_possessive} всегда будут как минимум {1} ожидания.</LetterRoyalTitleExpectation>
+  <LetterRoyalTitleConceitedTrait>Поскольку в {PAWN_labelShort} есть {1}, {PAWN_pronoun} будет требовать всех привилегий, соответствующих {PAWN_possessive} титулу. {PAWN_pronoun} будет отказываться выполнять работу определённых видов, есть низкосортную еду и начнёт выпускать указы.</LetterRoyalTitleConceitedTrait>
+  <LetterGainedRoyalTitle>{PAWN_labelShort} {PAWN_gender ? принял : приняла : приняло} титул {lookup: {TITLE}; Case; 1} во фракции {FACTION_name}!</LetterGainedRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort} {PAWN_gender ? лишился : лишилась : лишился} титула {lookup: {TITLE}; Case; 1} во фракции {FACTION_name}!</LetterLostRoyalTitle>
+  <LetterLabelRewardsForNewTitle>Награда за титул</LetterLabelRewardsForNewTitle>
+  <LetterRewardsForNewTitle>В честь того, что {PAWN_labelShort} {PAWN_gender ? принял : приняла : приняло} титул {lookup: {TITLE}; Case; 1}, {FACTION_name} дарует {PAWN_objective}:</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitleDeliveryBase>Дары прибыли в ваше поселение в транспортных капсулах.</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryDirect>Дары доставлены прямо в руки {PAWN_labelShort}.</LetterRewardsForNewTitleDeliveryDirect>
+  <LetterRoyalTitlePermits>{PAWN_pronoun} имеет следующие привилегии:</LetterRoyalTitlePermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun} {PAWN_gender ? потерял : потеряла : потеряло} следующие привилегии:</LetterRoyalTitleLostPermits>
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} не желает выполнять эти виды работ:\n{1}</LetterRoyalTitleDisabledWorkTag>
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_objective} теперь доступен следующий вид развлечения:</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>Этот титул запрещает следующий вид развлечения:</LetterRoyalTitleDisabledJoyKind>
+  <LetterRoyalTitleAllowedImplants>{PAWN_objective} разрешено применять следующие импланты:{1}</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_objective} более не разрешено применять следующие импланты:{1}</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantGracePeriod>Такие импланты должны быть извлечены в течение пяти дней, во избежание дипломатических последствий.</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} теперь может произносить тронные речи. Сильная речь вдохновит слушателей, слабая — принесёт только вред. Результат зависит от социальных навыков {PAWN_labelShort}.</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleThroneroomRequirements>Этот титул требует наличие тронного зала, удовлетворяющего следующим требованиям:{1}</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>Этот титул требует наличие спальни, удовлетворяющей следующим требованиям:{1}</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleFoodRequirements>Этот титул предписывает {PAWN_objective} принимать в пищу только следующие виды блюд:{1}</LetterRoyalTitleFoodRequirements>
+  <LetterRoyalTitleRewardGranted>{PAWN_objective} отправят следующие предметы транспортной капсулой:{1}</LetterRoyalTitleRewardGranted>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort} {PAWN_gender ? удостоился : удостоилась : удостоился} {1} ед. {lookup: {FACTION_royalFavorLabel}; Case; 1} от фракции {FACTION_name}.</PeaceTalksRoyalFavorGain>
+  <LetterRoyalTitleHeir>Когда {PAWN_pronoun} умрёт, {PAWN_possessive} титул перейдёт по наследству к {HEIR_nameFull}.</LetterRoyalTitleHeir>
+  <LetterRoyalTitleNoHeir>Когда {PAWN_pronoun} умрёт, {PAWN_possessive} титул не перейдёт ни к кому.</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} — член фракции {FACTION_name}.</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleChangingHeir>Вы можете изменить наследника титула, обратившись к {FACTION_name} через консоль связи.</LetterRoyalTitleChangingHeir>
+  <LetterTitleHeirLostLabel>Наследник умер</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLost>{HEIR_nameFull} {HEIR_gender ? умер : умерла : умер}, оставив {HOLDER_labelShort} без наследника титула в {FACTION_name}. Вы можете обратиться к {FACTION_name} через консоль связи, чтобы назначить нового наследника.</LetterTitleHeirLost>
+  <LetterRoyalTitleCantBeInherited>Титул {lookup: {TITLE}; Case; 1} нельзя унаследовать.</LetterRoyalTitleCantBeInherited>
+  <LetterTitleInheritance>Наследование титула</LetterTitleInheritance>
+  <LetterTitleInheritance_Base>Поскольку {PAWN_nameFull} {PAWN_gender ? мёртв : мертва : мёртв}, {PAWN_possessive} титул будет передан законному наследнику.</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_AsReplacement>В соответствии с законами о наследовании фракции {FACTION_name}, {PAWN_possessive} титул {lookup: {TITLE}; Case; 1}, должен перейти к {HEIR_nameFull}, замещая {HEIR_possessive} титул {lookup: {REPLACEDTITLE}; Case; 1} в ходе церемонии присвоения титула.</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_NoEffectHigherTitle>В соответствии с законами о наследовании фракции {FACTION_name}, {PAWN_possessive} титул {lookup: {TITLE}; Case; 1}, должен был перейти к {HEIR_nameFull}, но {HEIR_pronoun} уже обладает более высоким титулом {lookup: {HIGHERTITLE}; Case; 1}.</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_WasInherited>В соответствии с законами о наследовании фракции {FACTION_name}, {PAWN_possessive} титул {lookup: {TITLE}; Case; 1} должен перейти к {HEIR_nameFull} в ходе церемонии присвоения титула.</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_NoHeirFound>{PAWN_possessive} титул {lookup: {TITLE}; Case; 1} не переходит ни к кому, поскольку {PAWN_pronoun} не {PAWN_gender ? назначил : назначила : назначило} для себя наследника.</LetterTitleInheritance_NoHeirFound>
+  <LetterLawViolationDetectedLabel>Нарушитель: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedForbiddenThingUse>Фракция {FACTION_name} обнаружила, что {PAWN_labelShort} незаконно {PAWN_gender ? применил : применила : применило} {lookup: {CULPRIT}; Case; 3} (шанс обнаружения {CHANCE}).\n\nВ соответствии с законами {FACTION_name}, только {lookup: {TITLE}; Plural; 1} имеют право использовать {lookup: {CULPRIT}; Case; 3}.\n\nОтношение к вашей фракции упало на {GOODWILL}.</LetterLawViolationDetectedForbiddenThingUse>
+  <WildDecree>Безумный указ</WildDecree>
+  <LetterLabelRandomDecree>{0_nameIndef} издаёт указ</LetterLabelRandomDecree>
+  <LetterDecreeMentalBreak>В попытке снять стресс {0_nameIndef} издаёт безумный указ и требует его выполнения.\n\nЕсли он не будет выполнен в срок, {0_nameIndef} будет очень {0_gender ? недоволен : недовольна : недоволно}.</LetterDecreeMentalBreak>
+  <LetterRandomDecree>{0_nameIndef}, чтобы подтвердить свой титул {lookup: {0_bestRoyalTitleIndef}; Case; 1}, издаёт указ и требует его выполнения.\n\nЕсли он не будет выполнен в срок, {0_nameIndef} будет очень {0_gender ? недоволен : недовольна : недоволно}.</LetterRandomDecree>
+  <LetterDecree_Quest>Указ назван «{0}».</LetterDecree_Quest>
+  <LentColonistDied>{PAWN_nameDef} {PAWN_gender ? был : была : было} временно {PAWN_gender ? передан : передана : передан} фракции {FACTION}. Вскоре они вернут вам {PAWN_possessive} тело.</LentColonistDied>
+  <LetterLabelPsylinkLevelGained>Установлена пси-связь</LetterLabelPsylinkLevelGained>
+  <LetterPsylinkLevelGained_First>{USER_labelShort} {USER_gender ? получил : получила : получило} свой первый уровень пси-связи! {USER_pronoun} становится псиоником.\n\nЧтобы применять свои новые способности, {USER_labelShort} {USER_gender ? должен : должна : должно} накапливать пси-концентрацию с помощью медитации. Эффективность медитации может повыситься, если использовать для неё определённый объект.\n\nРазным людям требуются разные объекты для медитации. Они определяются прошлым персонажа, его чертами характера и наличием знатного титула. Например:\n\n- Знатные псионики могут медитировать, восседая на троне.\n- Выходцы из племён могут медитировать с помощью древ души и камней духа.\n- Аскетичные псионики могут медитировать в окружении голых стен.\n- Псионики-психопаты могут медитировать, находясь рядом с могилой. Ещё лучше, если с близким человеком внутри.\n\nЧтобы увидеть доступные персонажу виды медитации, откройте окно с подробной информацией о нём. Для этого, выберите персонажа и нажмите кнопку «i».</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} {USER_gender ? получил : получила : получило} новый уровень пси-связи! {USER_pronoun} теперь может применять пси-способности соответствующего уровня, однако {USER_objective} необходимо их сначала изучить.</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_PsycastLearned>Получив новый уровень пси-связи, {USER_labelShort} автоматически {USER_gender ? изучил : изучила : изучило} эти пси-способности: {2}.</LetterPsylinkLevelGained_PsycastLearned>
+  <LetterPsychicInspiration>Благодаря психическому воздействию {CASTER_nameIndef}, {PAWN_nameIndef} испытывает воодушевление!</LetterPsychicInspiration>
+  <LetterLabelBestowingCeremonyExpired>Время церемонии истекло</LetterLabelBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} не {TARGET_gender ? явился : явилась : явился} на церемонию присвоения титула, и она была отменена.</LetterTextBestowingCeremonyExpired>
+  <LetterLabelBestowingCeremonyTitleUpdated>Титул {TARGET_definite} изменён</LetterLabelBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} {TARGET_gender ? получил : получила : получило} новый титул, когда церемония присвоения предыдущего титула ещё не состоялась. Чтобы церемония соответствовала новому титулу, вскоре будет запланирована новая церемония.\n\nОна будет включать в себя награждение уровнями пси-связи за всё титулы, награда за которые не была получена ранее.</LetterTextBestowingCeremonyTitleUpdated>
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort} {PAWN_gender ? удостоился : удостоилась : удостоился} {1} ед. чести от фракции {FACTION_name} в знак уважения за присутствие на церемонии {3_numCase ? зрителя : зрителей : зрителей}.</LetterPartBestowingExtraHonor>
+  <LetterPartNoExtraHonor>{PAWN_labelShort} не {PAWN_gender ? удостоился : удостоилась : удостоился} дополнительной чести, поскольку на церемонии было недостаточно зрителей.</LetterPartNoExtraHonor>
+  <LetterPartMoodBonus>Всё зрители церемонии получили бонус к настроению.</LetterPartMoodBonus>
+  <LetterTextHonorAward_BanditCamp>Кому причитается {0} за разгром лагеря бандитов?</LetterTextHonorAward_BanditCamp>
+  <LetterLabelShuttleCrashed>Разбился челнок</LetterLabelShuttleCrashed>
+  <LetterTextShuttleCrashed>Неподалёку разбился челнок</LetterTextShuttleCrashed>
+  <LetterLabelWandererJoinsAbasia>Крушение капсулы: {0_nameDef}</LetterLabelWandererJoinsAbasia>
+  <LetterTextWandererJoinsAbasia>{0_nameDef} страдает паралитическим абазиозом ({1}) и присоединяется к вам.</LetterTextWandererJoinsAbasia>
+</LanguageData>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Archogenetics.label>архогенетика</Archogenetics.label>
+  <Archogenetics.description>Позволяет генному сборщику использовать капсулы с архитами, чтобы создавать невозможные на первый взгляд гены. Архитные гены и капсулы с архитами можно купить у торговцев.</Archogenetics.description>
+  <Archogenetics.generalRules.rulesStrings>
+    <li>subject-&gt;архогенетика</li>
+    <li>subject_gen-&gt;архогенетики</li>
+    <li>subject_dat-&gt;архогенетике</li>
+    <li>subject_pre_about-&gt;об архогенетике</li>
+    <li>subject_story-&gt;в ходе раскопок {ANYPAWN_gender ? обнаружил : обнаружила} архитные гены, в глубокой древности доставленные с трансцендентной луны Айкса</li>
+    <li>subject_story-&gt;неплохо {ANYPAWN_gender ? заработал : заработала} на торговле архитными генами</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возглавил : возглавила} исследовательскую экспедицию к древнему монолиту, из которой {ANYPAWN_gender ? вернулся сильно изменившимся : вернулась сильно изменившейся}</li>
+    <li>subject_gerund-&gt;использования архитных генов</li>
+    <li>subject_gerund-&gt;создания немыслимых генов</li>
+  </Archogenetics.generalRules.rulesStrings>
+  <Deathrest.label>торпор</Deathrest.label>
+  <Deathrest.description>Обладатели гена торпора должны периодически входить на несколько дней в особое коматозное состояние, продолжающееся несколько дней. Данное исследование позволяет создавать аппараты, уменьшающие время комы и дающие особые преимущества от торпора. Со временем вы сможете построить великий храм торпора.</Deathrest.description>
+  <Deathrest.generalRules.rulesStrings>
+    <li>subject-&gt;торпор</li>
+    <li>subject_gen-&gt;торпора</li>
+    <li>subject_dat-&gt;торпору</li>
+    <li>subject_pre_about-&gt;о торпоре</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? анатомировал : анатомировала} трупы из храма торпора, чтобы окончательно разобраться во всех тонкостях этого процесса</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? взял : взяла} интервью у, казалось бы, никогда не старевшей знаменитости, в ходе которого {ANYPAWN_gender ? выведал : выведала} её тайну</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? попытался : попыталась} воспроизвести эту технологию, но {ANYPAWN_gender ? впал : впала} в кому, из которой {ANYPAWN_gender ? вышел : вышла} лишь спустя несколько недель</li>
+    <li>subject_gerund-&gt;сооружения вспомогательных торпорных аппаратов</li>
+    <li>subject_gerund-&gt;улучшения торпора</li>
+  </Deathrest.generalRules.rulesStrings>
+  <FertilityProcedures.label>процедуры оплодотворения</FertilityProcedures.label>
+  <FertilityProcedures.description>Проведение операций, необходимых для создания эмбрионов от фертильных мужчин и женщин. Эмбрионы можно либо имплантировать суррогатным матерям, либо помещать в инкубаторы. Также данное исследование позволит осуществлять операции по стерилизации мужчин и женщин.</FertilityProcedures.description>
+  <FertilityProcedures.generalRules.rulesStrings>
+    <li>subject-&gt;процедуры оплодотворения</li>
+    <li>subject_gen-&gt;процедур оплодотворения</li>
+    <li>subject_dat-&gt;процедурам оплодотворения</li>
+    <li>subject_pre_about-&gt;о процедурах оплодотворения</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? занялся : занялась} оказанием помощи семьям с центральных миров в осуществлении их мечтаний о родительстве, выращивая эмбрионы в пробирке</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? спас : спасла} от вымирания редкий вид каллопиевой крысы с помощью рискованного метода мануального оплодотворения</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разрешил : разрешила} демографический кризис, поразивший соседний урбанизированный мир, с помощью мер по повышению рождаемости и широкого применения инкубаторов</li>
+    <li>subject_gerund-&gt;изменения фертильности человека</li>
+    <li>subject_gerund-&gt;контроля рождаемости</li>
+  </FertilityProcedures.generalRules.rulesStrings>
+  <GeneProcessor.label>генетический обработчик</GeneProcessor.label>
+  <GeneProcessor.description>Система генетического анализа и обработки. Увеличивает максимальную генетическую сложность создаваемых ксеносемян, если разместить рядом с генным сборщиком. Эффект от нескольких генетических обработчиков складывается.</GeneProcessor.description>
+  <GeneProcessor.generalRules.rulesStrings>
+    <li>subject-&gt;генетические обработчики</li>
+    <li>subject_gen-&gt;генетических обработчиков</li>
+    <li>subject_dat-&gt;генетическим обработчикам</li>
+    <li>subject_pre_about-&gt;о генетических обработчиках</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? снарядил : снарядила} экспедицию на дрейфующий заброшенный корабль за особо ценившимися на утопических мирах генами</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? подверг : подвергла} обработке целую деревню, чтобы создать набор генов повышенной сложности</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? вживил : вживила} ксеносемена в представителей первобытного племени, чем {ANYPAWN_gender ? положил : положила} начало долгому процессу культурного преображения</li>
+    <li>subject_gerund-&gt;сооружения генетических обработчиков</li>
+    <li>subject_gerund-&gt;анализа и обработки генов</li>
+  </GeneProcessor.generalRules.rulesStrings>
+  <GrowthVats.label>инкубаторы</GrowthVats.label>
+  <GrowthVats.description>Постройка инкубатора позволит искусственно выращивать детей или ускорять их рост.</GrowthVats.description>
+  <GrowthVats.generalRules.rulesStrings>
+    <li>subject-&gt;инкубация</li>
+    <li>subject-&gt;искусственные утробы</li>
+    <li>subject_gen-&gt;инкубации</li>
+    <li>subject_gen-&gt;искусственных утроб</li>
+    <li>subject_dat-&gt;инкубации</li>
+    <li>subject_dat-&gt;искусственным утробам</li>
+    <li>subject_pre_about-&gt;об инкубации</li>
+    <li>subject_pre_about-&gt;об искусственных утробах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} лабораторию по клонированию, поставлявшую слуг на центральные миры</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} новую армию для хунты, правившей воюющим миром</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? помог : помогла} завести детей множеству семей из разных слоёв общества</li>
+    <li>subject_gerund-&gt;вынашивания эмбрионов в искусственных утробах</li>
+    <li>subject_gerund-&gt;ускорения роста человека</li>
+    <li>subject_gerund-&gt;сооружения инкубаторов</li>
+  </GrowthVats.generalRules.rulesStrings>
+  <ToxFiltration.label>фильтрация токсинов</ToxFiltration.label>
+  <ToxFiltration.description>Создание и вживление бионических органов, которые нейтрализуют токсины, получаемые из окружающей среды и от атак врагов.</ToxFiltration.description>
+  <ToxFiltration.generalRules.rulesStrings>
+    <li>subject-&gt;фильтрация токсинов</li>
+    <li>subject-&gt;метаболизирование токсинов</li>
+    <li>subject_gen-&gt;фильтрации токсинов</li>
+    <li>subject_gen-&gt;метаболизирования токсинов</li>
+    <li>subject_dat-&gt;фильтрации токсинов</li>
+    <li>subject_dat-&gt;метаболизированию токсинов</li>
+    <li>subject_pre_about-&gt;о фильтрации токсинов</li>
+    <li>subject_pre_about-&gt;о метаболизировании токсинов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? вернул : вернула} возможность вновь свободно дышать бойцам, выжившим на милитарном мире</li>
+    <li>subject_story-&gt;, проходя профессиональную переподготовку, {ANYPAWN_gender ? отдал : отдала} предпочтение дополнительным семинарам по этике вместо практических занятий по химии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? нанялся : нанялась} в шахтёрскую корпорацию специалистом по фильтрации</li>
+    <li>subject_gerund-&gt;метаболизирования токсинов</li>
+    <li>subject_gerund-&gt;создания детоксицирующих почек</li>
+    <li>subject_gerund-&gt;создания детоксицирующих лёгких</li>
+  </ToxFiltration.generalRules.rulesStrings>
+  <ToxGas.label>токсичный газ</ToxGas.label>
+  <ToxGas.description>Сборка оружия, использующего едкий токсичный газ.</ToxGas.description>
+  <ToxGas.generalRules.rulesStrings>
+    <li>subject-&gt;газовое оружие</li>
+    <li>subject-&gt;химическое оружие</li>
+    <li>subject_gen-&gt;газового оружия</li>
+    <li>subject_gen-&gt;химического оружия</li>
+    <li>subject_dat-&gt;газовому оружию</li>
+    <li>subject_dat-&gt;химическому оружию</li>
+    <li>subject_pre_about-&gt;о газовом оружии</li>
+    <li>subject_pre_about-&gt;о химическом оружии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? задался : задалась} мыслью придумать оружие, способное положить конец всем войнам</li>
+    <li>subject_story-&gt;, проходя профессиональную переподготовку, {ANYPAWN_gender ? отдал : отдала} предпочтение дополнительным практическим занятиям по химии вместо семинаров по этике</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала} технологию управления облаками для тиранического режима, установившегося на соседнем мёртвом мире</li>
+    <li>subject_gerund-&gt;изготовления токсичных гранат</li>
+    <li>subject_gerund-&gt;изготовления токсичных гранатомётов</li>
+    <li>subject_gerund-&gt;изготовления токсичных ранцев</li>
+  </ToxGas.generalRules.rulesStrings>
+  <ToxifierGenerator.label>токсичный генератор</ToxifierGenerator.label>
+  <ToxifierGenerator.description>Этот электрический генератор вырабатывает энергию, медленно загрязняя местность вокруг себя. Генератор отключится, если вся местность в его радиусе будет загрязнена.</ToxifierGenerator.description>
+  <ToxifierGenerator.generalRules.rulesStrings>
+    <li>subject-&gt;токсичные генераторы</li>
+    <li>subject_gen-&gt;токсичных генераторов</li>
+    <li>subject_dat-&gt;токсичным генераторам</li>
+    <li>subject_pre_about-&gt;о токсичных генераторах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? снарядил : снарядила} отряд чистильщиков на соседний токсичный планетоид</li>
+    <li>subject_story-&gt;многое {ANYPAWN_gender ? узнал : узнала} о токсичных веществах в глубоких отстойниках небоскрёбов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала} дешёвые «грязные» источники энергии по заказу городской корпорации</li>
+    <li>subject_gerund-&gt;сооружения токсичных генераторов</li>
+  </ToxifierGenerator.generalRules.rulesStrings>
+  <Xenogermination.label>ксеногенетика</Xenogermination.label>
+  <Xenogermination.description>Создание ксеносемян, которые можно вживлять в людей с целью генетической модификации последних. При помощи генного экстрактора из живого человека можно извлечь генные пакеты, чтобы вживить их в кого-то другого.</Xenogermination.description>
+  <Xenogermination.generalRules.rulesStrings>
+    <li>subject-&gt;ксеногенетика</li>
+    <li>subject-&gt;вживление генов</li>
+    <li>subject_gen-&gt;ксеногенетики</li>
+    <li>subject_gen-&gt;вживления генов</li>
+    <li>subject_dat-&gt;ксеногенетике</li>
+    <li>subject_dat-&gt;вживлению генов</li>
+    <li>subject_pre_about-&gt;о ксеногенетике</li>
+    <li>subject_pre_about-&gt;о вживлении генов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? получил : получила} поддержку благотворительной организации с одного утопического мира, которая занималась проблемами генетически неблагополучных людей</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} жертвой биолога-афериста, укравшего [ANYPAWN_possessive] гены</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возглавил : возглавила} клинику по переносу генов для элиты мира-утопии</li>
+    <li>subject_gerund-&gt;создания ксеносемян</li>
+  </Xenogermination.generalRules.rulesStrings>
+</LanguageData>

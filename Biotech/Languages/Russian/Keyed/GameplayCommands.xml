@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CommandAutoRepair>Автопочинка</CommandAutoRepair>
+  <CommandAutoRepairDesc>Если активно, механитор будет самостоятельно приступать к починке этого механоида.\n\nПроцесс починки сопровождается значительным потреблением энергии механоида.</CommandAutoRepairDesc>
+  <CommandDisabledDeathresting>{0_labelShort} находится в торпоре.</CommandDisabledDeathresting>
+  <CommandCancelGrowth>Прервать инкубацию</CommandCancelGrowth>
+  <CommandCancelGrowthDesc>Прервать процесс инкубирования. Организм, находящийся внутри, будет выброшен наружу.</CommandCancelGrowthDesc>
+  <CommandSelectOverseer>Выбрать оператора</CommandSelectOverseer>
+  <CommandSelectOverseerDesc>Выбрать механитора — оператора этого механоида.</CommandSelectOverseerDesc>
+  <CommandSelectOverseerDisabledDesc>Нет оператора.</CommandSelectOverseerDisabledDesc>
+  <CommandCancelExtraction>Отменить извлечение</CommandCancelExtraction>
+  <CommandCancelExtractionDesc>Прервать процесс извлечения. Человек, находящийся внутри, будет выброшен наружу.</CommandCancelExtractionDesc>
+  <CommandCallBossgroup>Призвать лидера механоидов…</CommandCallBossgroup>
+  <CommandCallBossgroupDesc>Призвать лидера враждебных механоидов вместе с сопровождающей его охраной.\n\nЕсли вы одержите над ним победу, то на его останках сможете найти особый чип, необходимый вам для дальнейшего развития технологий механоидов.\n\nСуществует три типа лидеров механоидов. Призыв каждого имеет свои особенности. И из каждого можно извлечь свой тип чипа.</CommandCallBossgroupDesc>
+  <CommandAutoLoad>Автозагрузка {lookup: {0}; Case; 4}</CommandAutoLoad>
+  <CommandAutoLoadDesc>Если активно, поселенцы будут самостоятельно загружать сюда {0}.</CommandAutoLoadDesc>
+  <CommandEjectContents>Извлечь содержимое</CommandEjectContents>
+  <CommandEjectContentsDesc>Извлечь всё содержащиеся здесь {0} наружу.</CommandEjectContentsDesc>
+  <CommandSelectAllMechs>Выбрать всех механоидов</CommandSelectAllMechs>
+  <CommandSelectAllMechsDesc>Выбрать всех механоидов, подконтрольных этому механитору.</CommandSelectAllMechsDesc>
+  <CommandToggleTurret>Турель включена</CommandToggleTurret>
+  <CommandToggleTurretDesc>Включить или отключить режим самонаведения турели.\n\nЕсли турель выключена, механоид не будет самостоятельно использовать её. Это может оказаться полезным для незаметного приближения к противнику.</CommandToggleTurretDesc>
+  <CommandCancelSubcoreScan>Отменить сканирование</CommandCancelSubcoreScan>
+  <CommandCancelSubcoreScanDesc>Прервать процесс сканирования. Человек, находящийся внутри, будет выброшен наружу.</CommandCancelSubcoreScanDesc>
+  <ForceXenogermImplantation>заставить вживить гены</ForceXenogermImplantation>
+  <ForceXenogermImplantationDesc>Заставить вживить свои ксеногены в другого человека при помощи специального органа-инъектора. Если гены владельца в данный момент восстанавливаются, то он умрёт.\n\nПри вживлении ксеносемя перезапишет ксеногены цели, однако на наследуемые гены это никак не повлияет.</ForceXenogermImplantationDesc>
+</LanguageData>

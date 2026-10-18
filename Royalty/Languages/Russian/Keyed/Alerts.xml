@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NeedThroneAssigned>Нужен тронный зал</NeedThroneAssigned>
+  <NeedThroneAssignedDesc>У одного из ваших знатных поселенцев нет полагающегося ему тронного зала.\n\nУбедитесь, что держателю титула назначен трон, и он находится в тронном зале.\n\nЭтот зал должен быть достаточно просторным и красивым, чтобы соответствовать требованиям знатной особы.\n\nВ одном зале можно разместить несколько тронов.</NeedThroneAssignedDesc>
+  <UndignifiedBedroom>Недостойная спальня</UndignifiedBedroom>
+  <UndignifiedBedroomDesc>Одному из ваших знатных поселенцев необходима особенная спальня. Такая спальня либо не назначена, либо не соответствует требованиям знатной особы.</UndignifiedBedroomDesc>
+  <NeedBedroomAssigned>Знатному поселенцу нужна спальня</NeedBedroomAssigned>
+  <NeedBedroomAssignedDesc>У одного из ваших знатных поселенцев нет полагающейся ему спальни.\n\nНазначьте ему личную спальню. Она должна быть достаточно просторной и красивой, чтобы соответствовать требованиям знатной особы.</NeedBedroomAssignedDesc>
+  <UndignifiedThroneroom>Недостойный тронный зал</UndignifiedThroneroom>
+  <UndignifiedThroneroomDesc>Трон одного из ваших знатных поселенцев находится в тронном зале, не соответствующем требованиям знатной особы.</UndignifiedThroneroomDesc>
+  <RoyalNoAcceptableFood>Низкосортная пища</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFoodDesc>Титул одного из ваших поселенцев предписывает употребление определённых видов блюд. В данный момент в поселении отсутствует нужная еда.</RoyalNoAcceptableFoodDesc>
+  <RoomRequirementGracePeriodDesc>{0_numCase ? день : дня : дней} до вступления в силу требований</RoomRequirementGracePeriodDesc>
+  <ThroneroomInvalidConfiguration>Невозможно использовать трон</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfigurationDesc>Трон расположен так, что им невозможно пользоваться:</ThroneroomInvalidConfigurationDesc>
+  <MonumentMarkerMissingBlueprints>Проект монумента не завершён</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprintsDesc>Монумент не может быть завершён, так как для некоторых из его частей отсутствует проект.\n\nВыберите метку монумента и нажмите «Разместить проект» или создайте его вручную.</MonumentMarkerMissingBlueprintsDesc>
+  <ShipLandingBeaconUnusable>Невозможно использовать посадочную площадку</ShipLandingBeaconUnusable>
+  <ShipLandingBeaconUnusableDesc>Один или несколько посадочных маяков работают, но посадочной площадкой невозможно воспользоваться. Для этого 4 маяка должны быть размещены в углах прямоугольной области со сторонами более 8 клеток, свободной от любых преград, включая сооружения, людей и животных.</ShipLandingBeaconUnusableDesc>
+  <NeedMeditationSpotAlert>Нужно место медитации</NeedMeditationSpotAlert>
+  <NeedMeditationSpotAlertDesc>Этим поселенцам необходимо восполнять уровень пси-концентрации или им назначено медитировать, но предназначенные для этого места отсутствуют:\n{0}\n\nУкажите место медитации и убедитесь, что оно в пределах досягаемости и им можно пользоваться. Поселенцы будут предпочитать места медитации рядом с наилучшими объектами для концентрации, при этом они не станут медитировать в спальнях, принадлежащих другим поселенцам.</NeedMeditationSpotAlertDesc>
+  <UnusableMeditationFocusAlert>Недоступный вид медитации</UnusableMeditationFocusAlert>
+  <UnusableMeditationFocusAlertDesc>Эти поселенцы не могут использовать для медитации объект рядом с ними:\n{0}\n\nРазным людям требуются разные объекты для медитации. Они определяются прошлым человека, его чертами характера и наличием знатного титула. Чтобы увидеть доступные персонажу виды медитации, откройте окно с подробной информацией о нём. Для этого выберите поселенца и нажмите кнопку «i».</UnusableMeditationFocusAlertDesc>
+  <PermitChoiceReadyAlert>Доступна новая привилегия</PermitChoiceReadyAlert>
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef} может выбрать новую привилегию.</PermitChoiceReadyAlertDesc>
+  <BestowerWaitingAlert>Эмиссар ждёт</BestowerWaitingAlert>
+  <BestowerWaitingAlertDesc>Эмиссар ожидает вас, чтобы начать церемонию присвоения титула.</BestowerWaitingAlertDesc>
+  <AnimaLinkingReadyLabel>Древо души готово к связыванию</AnimaLinkingReadyLabel>
+  <AnimaLinkingReadyDesc>Вокруг древа души выросло достаточно травы души, чтобы провести ритуал связывания и повысить уровень пси-связи следующих поселенцев</AnimaLinkingReadyDesc>
+  <AnimaLinkingReadyDescExtra>Чтобы начать ритуал, выберите поселенца, нажмите на кнопку «Начать ритуал связывания» и выберите древо души</AnimaLinkingReadyDescExtra>
+</LanguageData>

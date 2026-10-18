@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DetoxifierKidney.label>детоксицирующая почка</DetoxifierKidney.label>
+  <DetoxifierKidney.description>Вживлённая детоксицирующая почка. Набор нанофильтров позволяет быстро бороться с отравлениями и выводить из крови широкий спектр вредных веществ, включая токсины окружающей среды и яды.</DetoxifierKidney.description>
+  <DetoxifierKidney.labelNoun>детоксицирующая почка</DetoxifierKidney.labelNoun>
+  <DetoxifierLung.label>детоксицирующее лёгкое</DetoxifierLung.label>
+  <DetoxifierLung.description>Вживлённое детоксицирующее лёгкое. Устраняет негативное влияние кислотного смога и не подвержено трупной чахотке.\n\nОбратите внимание, детоксцирующее лёгкое не защищает от раздражающего действия токсичного газа.</DetoxifierLung.description>
+  <DetoxifierLung.labelNoun>детоксицирующее лёгкое</DetoxifierLung.labelNoun>
+</LanguageData>

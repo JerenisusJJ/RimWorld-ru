@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EnslaveAttempt.label>попытка порабощения</EnslaveAttempt.label>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] говорит [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [recipient_must] работать на благо поселения.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] сообщает [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [recipient_must] подчиняться приказам и работать.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] приказывает [RECIPIENT_nameDef] подготовиться к жизни в подневольном труде.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] объясняет [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [recipient_must] работать, иначе последует наказание.</li>
+    <li>recipient_must(RECIPIENT_gender==Male)-&gt;должен</li>
+    <li>recipient_must(RECIPIENT_gender==Female)-&gt;должна</li>
+  </EnslaveAttempt.logRulesInitiator.rulesStrings>
+  <ReduceWill.label>только ослаблять волю</ReduceWill.label>
+  <ReduceWill.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] говорит [RECIPIENT_nameDef], что у н[RECIPIENT_possessive] [negative].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] объясняет [RECIPIENT_nameDef], что [RECIPIENT_objective] [negative1].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] угрожает [RECIPIENT_nameDef] [threat], если [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] сообщает [RECIPIENT_nameDef], что [RECIPIENT_objective] [disillusionment].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] требует [RECIPIENT_nameDef] [givein] воле поселения.</li>
+    <li>negative-&gt;нет будущего</li>
+    <li>negative-&gt;не получится сбежать</li>
+    <li>negative-&gt;нет будущего за пределами поселения</li>
+    <li>negative-&gt;нет ни малейшего шанса на побег</li>
+    <li>negative1-&gt;стоит немедленно подчиниться</li>
+    <li>negative1-&gt;стоит забыть обо всех своих стремлениях</li>
+    <li>negative1-&gt;нужно подчиниться воле поселения</li>
+    <li>threat-&gt;пыткой</li>
+    <li>threat-&gt;наказанием</li>
+    <li>threat-&gt;изувечиванием</li>
+    <li>threat-&gt;голодом</li>
+    <li>threat-&gt;пожизненным заключением</li>
+    <li>threat-&gt;смертью</li>
+    <li>threat-&gt;изоляцией</li>
+    <li>threat-&gt;ампутацией конечности</li>
+    <li>threat-&gt;ударом чем-то тяжёлым</li>
+    <li>threat-&gt;порезами</li>
+    <li>threat-&gt;извлечением органа</li>
+    <li>threat-&gt;длительным заключением</li>
+    <li>refused-&gt;попытается сбежать</li>
+    <li>refused-&gt;оскорбит поселение</li>
+    <li>refused-&gt;откажется работать</li>
+    <li>refused-&gt;откажется выполнять команды</li>
+    <li>refused-&gt;откажется подчиняться</li>
+    <li>refused-&gt;откажется слушаться</li>
+    <li>refused-&gt;будет дерзко себя вести</li>
+    <li>disillusionment-&gt;стоит принять свою ситуацию</li>
+    <li>disillusionment-&gt;не на что больше надеяться</li>
+    <li>disillusionment-&gt;лучше просто подчиниться</li>
+    <li>disillusionment-&gt;не удастся выжить самостоятельно</li>
+    <li>disillusionment-&gt;ничего не остаётся, кроме как подчиниться</li>
+    <li>givein-&gt;подчиниться</li>
+    <li>givein-&gt;покориться</li>
+    <li>givein-&gt;повиноваться</li>
+  </ReduceWill.logRulesInitiator.rulesStrings>
+</LanguageData>

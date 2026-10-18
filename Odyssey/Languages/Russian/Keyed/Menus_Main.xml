@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PlanetLandmarkDensity>Ориентиры</PlanetLandmarkDensity>
+  <PlanetLandmarkDensity_Low>Низкая</PlanetLandmarkDensity_Low>
+  <PlanetLandmarkDensity_Normal>Умеренная</PlanetLandmarkDensity_Normal>
+  <PlanetLandmarkDensity_High>Высокая</PlanetLandmarkDensity_High>
+  <GeneratingGravship>Подготовка к взлету</GeneratingGravship>
+  <PreparingForLanding>Подготовка к посадке</PreparingForLanding>
+  <Subject>Тема</Subject>
+  <Difficulty_FishingYieldFactor_Label>Размер улова</Difficulty_FishingYieldFactor_Label>
+  <Difficulty_FishingYieldFactor_Info>Настройте, сколько рыбы можно поймать во время рыбалки.</Difficulty_FishingYieldFactor_Info>
+  <OdysseyFactionDisabledContentWarning>Отключение {0} не позволит завершить основные задания Одиссеи.</OdysseyFactionDisabledContentWarning>
+</LanguageData>

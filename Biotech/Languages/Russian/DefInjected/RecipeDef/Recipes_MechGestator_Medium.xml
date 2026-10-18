@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CentipedeBlaster.label>вырастить бластерную сентипеду</CentipedeBlaster.label>
+  <CentipedeBlaster.description>Вырастить сентипеду, вооружённую тяжёлым бластером.</CentipedeBlaster.description>
+  <CentipedeBlaster.jobString>Выращивает механоида</CentipedeBlaster.jobString>
+  <Lancer.label>вырастить улана</Lancer.label>
+  <Lancer.description>Вырастить улана.</Lancer.description>
+  <Lancer.jobString>Выращивает механоида</Lancer.jobString>
+  <Legionary.label>вырастить легионера</Legionary.label>
+  <Legionary.description>Вырастить легионера.</Legionary.description>
+  <Legionary.jobString>Выращивает механоида</Legionary.jobString>
+  <Pikeman.label>вырастить драгуна</Pikeman.label>
+  <Pikeman.description>Вырастить драгуна.</Pikeman.description>
+  <Pikeman.jobString>Выращивает механоида</Pikeman.jobString>
+  <Scorcher.label>вырастить испепелителя</Scorcher.label>
+  <Scorcher.description>Вырастить испепелителя.</Scorcher.description>
+  <Scorcher.jobString>Выращивает механоида</Scorcher.jobString>
+  <Scyther.label>вырастить жнеца</Scyther.label>
+  <Scyther.description>Вырастить жнеца.</Scyther.description>
+  <Scyther.jobString>Выращивает механоида</Scyther.jobString>
+  <Tesseron.label>вырастить тессерона</Tesseron.label>
+  <Tesseron.description>Вырастить тессерона.</Tesseron.description>
+  <Tesseron.jobString>Выращивает механоида</Tesseron.jobString>
+</LanguageData>

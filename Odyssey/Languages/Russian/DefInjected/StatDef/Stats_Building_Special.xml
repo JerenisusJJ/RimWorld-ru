@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GravshipRange.label>дальность гравикорабля</GravshipRange.label>
+  <GravshipRange.description>Максимальное расстояние, на которое этот гравикорабль может перемещаться с подсоединенной надстройкой.</GravshipRange.description>
+  <SubstructureSupport.label>поддержка надстроек</SubstructureSupport.label>
+  <SubstructureSupport.description>Максимальное количество надстроек, которые может выдержать этот гравикорабль.</SubstructureSupport.description>
+</LanguageData>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LetterLabelTributeCollectorArrival>Имперский сборщик податей</LetterLabelTributeCollectorArrival>
+  <LetterTributeCollectorArrival>Приближается имперский сборщик податей с караваном из фракции {FACTION_name}.\n\nОн принимает золото и пленников в обмен на {FACTION_royalFavorLabel} за соблюдение традиций и поддержку сюзеренов.\n\nСборщик податей будет приходить примерно дважды в год при условии, что вы не враждуете с фракцией {FACTION_name}.</LetterTributeCollectorArrival>
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AbandonedColonyOutlander.label>заброшенное поселение</AbandonedColonyOutlander.label>
+  <AbandonedColonyOutlander.description>Недавно заброшенное поселение.</AbandonedColonyOutlander.description>
+  <AbandonedColonyTribal.label>заброшенное поселение</AbandonedColonyTribal.label>
+  <AbandonedColonyTribal.description>Недавно заброшенное поселение.</AbandonedColonyTribal.description>
+  <AncientHeatVent.label>древний теплоотвод</AncientHeatVent.label>
+  <AncientHeatVent.description>Древние каналы регулярно выпускают тепло из подземной мегапостройки, резко повышая температуру в окрестности.</AncientHeatVent.description>
+  <AncientQuarry.label>древний карьер</AncientQuarry.label>
+  <AncientQuarry.description>Ранее здесь добывали природные ресурсы, и остатки древнего карьера до сих пор сохранились.</AncientQuarry.description>
+  <AncientRuins.label>развалины</AncientRuins.label>
+  <AncientRuins.description>Остатки древнего поселения. Эти развалины могут таить в себе самые разные опасности.</AncientRuins.description>
+  <AncientRuins_Frozen.label>замерзшие развалины</AncientRuins_Frozen.label>
+  <AncientRuins_Frozen.description>Развалины древнего поселения, ныне окутанные льдом. Эти руины могут скрывать неизведанные опасности.</AncientRuins_Frozen.description>
+  <AncientSmokeVent.label>древний дымоотвод</AncientSmokeVent.label>
+  <AncientSmokeVent.description>В этой области расположено несколько огромных вентиляционных выходов. Древний механизм, зарытый глубоко под землей, время от времени выбрасывает большие объемы дыма, затмевая солнце на несколько дней.</AncientSmokeVent.description>
+  <AncientToxVent.label>древний газоотвод</AncientToxVent.label>
+  <AncientToxVent.description>Огромные газоотводы регулярно выбрасывают в воздух облака ядовитых осадков. Эти выходы соединены с древней подземной постройкой, скрытой глубоко под землей.</AncientToxVent.description>
+  <AncientUplink.label>древний канал связи</AncientUplink.label>
+  <AncientUplink.description>В этом районе расположен канал, использовавшийся для связи со спутником на низкой орбите. Взлом канала связи позволит выявить скрытое место на орбите.</AncientUplink.description>
+  <Harbor.label>гавань</Harbor.label>
+  <Harbor.description>Заброшенное прибрежное поселение.</Harbor.description>
+  <Stockpile.label>склад</Stockpile.label>
+  <Stockpile.description>Здесь находится подземный склад ресурсов. Будьте осторожны: некоторые из древних систем защиты могут всё ещё действовать.</Stockpile.description>
+</LanguageData>

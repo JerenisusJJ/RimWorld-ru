@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <StatsReport_Slave>Множитель для порабощённых (низкая мотивация)</StatsReport_Slave>
+  <StatsReport_Terror>Модификатор запугивания</StatsReport_Terror>
+  <StatsReport_LeaderOffset>Бонус лидера фракции</StatsReport_LeaderOffset>
+  <StatsReport_OccupiedCorpseCasket>Содержит труп</StatsReport_OccupiedCorpseCasket>
+  <StatsReport_InstalledRelicConvertPowerFactor>Бонус эффективности обращения на карте</StatsReport_InstalledRelicConvertPowerFactor>
+  <StatsReport_RelicAtRitualMoodBonus>Бонус к настроению от ритуалов в помещении</StatsReport_RelicAtRitualMoodBonus>
+  <Stat_Thing_RelicOf_Name>Идеолигия</Stat_Thing_RelicOf_Name>
+  <Stat_Thing_RelicOf_Desc>Идеолигия, к которой принадлежит реликвия.</Stat_Thing_RelicOf_Desc>
+  <Stat_Thing_RelicStatus>Статус реликвии</Stat_Thing_RelicStatus>
+  <Stat_Thing_RelicStatus_Desc>Широко востребованный предмет, имеющий особую духовную или идеологическую значимость.</Stat_Thing_RelicStatus_Desc>
+  <Stat_Thing_RelatedToIdeos_Name>Относится к</Stat_Thing_RelatedToIdeos_Name>
+  <Stat_Thing_RelatedToIdeos_Desc>Идеолигии, с которыми связан предмет.</Stat_Thing_RelatedToIdeos_Desc>
+  <StatsReports_HasRelic>Обладает реликвией</StatsReports_HasRelic>
+  <StatsReport_BlindPsychicSensitivityOffset>Бонус ослепления</StatsReport_BlindPsychicSensitivityOffset>
+  <StatsReport_SightPsychicSensitivityOffset>Бонус зрения</StatsReport_SightPsychicSensitivityOffset>
+  <Stat_Thing_StyleDominanceCategory>Преобладающий стиль</Stat_Thing_StyleDominanceCategory>
+  <Stat_Thing_StyleDominanceCategoryDesc>Стиль данного объекта. Он может быть связан с некоторыми идеолигиями. Разные люди, в зависимости от их идеолигиозных взглядов, по-разному смотрят на определённые стили.</Stat_Thing_StyleDominanceCategoryDesc>
+  <Stat_Thing_IdeosSatisfied>Удовлетворяет идеолигии</Stat_Thing_IdeosSatisfied>
+  <Style>Стиль</Style>
+  <Stat_Pawn_DarknessCombatShooting_Name>Точность стрельбы в темноте</Stat_Pawn_DarknessCombatShooting_Name>
+  <Stat_Pawn_DarknessCombatShooting_Desc>Прирост шанса поражения цели в зависимости от её освещённости.</Stat_Pawn_DarknessCombatShooting_Desc>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>Шанс уворота в рукопашной в темноте</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>Прирост шанса уворота в рукопашной в зависимости от локальной освещённости.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <Stat_Pawn_DarknessMeleeHitChance_Name>Шанс удара врукопашную в темноте</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>Прирост шанса поражения цели в зависимости от её освещённости.</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <Stat_PawnDarkness_FollowingOffset>Могут быть применены следующие модификаторы</Stat_PawnDarkness_FollowingOffset>
+  <StatsReport_BiosculptingSpeedFactor>Скорость биоскульптинга</StatsReport_BiosculptingSpeedFactor>
+</LanguageData>

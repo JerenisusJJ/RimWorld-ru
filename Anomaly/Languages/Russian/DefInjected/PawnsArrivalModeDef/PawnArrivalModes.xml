@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EdgeWalkInDarkness.textEnemy>Враждебные {0} расположились поблизости.</EdgeWalkInDarkness.textEnemy>
+  <EdgeWalkInDarkness.textFriendly>Дружественные {0} расположились поблизости.</EdgeWalkInDarkness.textFriendly>
+  <EdgeWalkInDarkness.textWillArrive>{0_pawnsPluralDef} прибудут пешком.</EdgeWalkInDarkness.textWillArrive>
+  <EdgeWalkInDistributedGroups.textEnemy>Приближается орда из {0} еле ковыляющих гнилых трупов.</EdgeWalkInDistributedGroups.textEnemy>
+  <EdgeWalkInDistributedGroups.textWillArrive>Орда из {0} еле ковыляющих гнилых трупов вот-вот прибудет.</EdgeWalkInDistributedGroups.textWillArrive>
+  <EdgeWalkInHateChanters.textEnemy>Враждебные {0} из фракции {1} расположились поблизости.</EdgeWalkInHateChanters.textEnemy>
+  <EdgeWalkInHateChanters.textFriendly>Дружественные {0} из фракции {1} расположились поблизости.</EdgeWalkInHateChanters.textFriendly>
+  <EdgeWalkInHateChanters.textWillArrive>{0_pawnsPluralDef} прибудут пешком.</EdgeWalkInHateChanters.textWillArrive>
+</LanguageData>

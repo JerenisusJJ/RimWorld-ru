@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AdvancedGravtech.label>продвинутая гравитехнология</AdvancedGravtech.label>
+  <AdvancedGravtech.description>Создавайте продвинутые детали для гравикорабля.</AdvancedGravtech.description>
+  <AdvancedGravtech.generalRules.rulesStrings>
+    <li>subject-&gt;продвинутая гравитехнология</li>
+    <li>subject_story-&gt;изучены продвинутые компоненты гравикорабля</li>
+    <li>subject_gerund-&gt;исследует подавление сигналов</li>
+  </AdvancedGravtech.generalRules.rulesStrings>
+  <BasicGravtech.label>базовая гравитехнология</BasicGravtech.label>
+  <BasicGravtech.description>Постройте гравикорабль и используйте его для перемещения по планете. При запуске гравикорабля текущая карта будет покинута. Вы не сможете вернуться.</BasicGravtech.description>
+  <BasicGravtech.generalRules.rulesStrings>
+    <li>subject-&gt;гравикорабль</li>
+    <li>subject_story-&gt;управлял гравикораблем для туристической компании</li>
+    <li>subject_gerund-&gt;строит гравикорабли</li>
+  </BasicGravtech.generalRules.rulesStrings>
+  <BeamWeapons.label>лучевое оружие</BeamWeapons.label>
+  <BeamWeapons.description>Создавайте оружие, использующее гамма-лучи для прожигания брони и поджигания целей.</BeamWeapons.description>
+  <BeamWeapons.generalRules.rulesStrings>
+    <li>subject-&gt;лучевое оружие</li>
+    <li>subject_story-&gt;создал оружие на основе гамма-лучей</li>
+    <li>subject_gerund-&gt;создает лучевое оружие</li>
+  </BeamWeapons.generalRules.rulesStrings>
+  <Fishing.label>рыбалка</Fishing.label>
+  <Fishing.description>Размещайте зоны, где ваши поселенцы смогут ловить рыбу.</Fishing.description>
+  <Fishing.customUnlockTexts.0>Рыболовная зона</Fishing.customUnlockTexts.0>
+  <Fishing.generalRules.rulesStrings>
+    <li>subject-&gt;рыбалка</li>
+    <li>subject_story-&gt;зарабатывал на жизнь рыбалкой</li>
+    <li>subject_gerund-&gt;рыбалка</li>
+  </Fishing.generalRules.rulesStrings>
+  <HeavyBridges.label>тяжёлые мосты</HeavyBridges.label>
+  <HeavyBridges.description>Стройте тяжёлые мосты, способные выдерживать массивные здания. Это позволит возводить целые поселения на воде.</HeavyBridges.description>
+  <HeavyBridges.generalRules.rulesStrings>
+    <li>subject-&gt;строительство</li>
+    <li>subject_story-&gt;строил мосты</li>
+    <li>subject_gerund-&gt;занимается строительством</li>
+  </HeavyBridges.generalRules.rulesStrings>
+  <HunterDrones.label>дрон-охотник</HunterDrones.label>
+  <HunterDrones.description>Создавайте ловушки и переносные ранцы, выпускающие дронов-охотников. Эти взрывающиеся дроны преследуют противников и подрываются при приближении.</HunterDrones.description>
+  <HunterDrones.generalRules.rulesStrings>
+    <li>subject-&gt;дроны-охотники</li>
+    <li>subject_story-&gt;создавал самовзрывающиеся дроны</li>
+    <li>subject_gerund-&gt;делает дроны-охотники</li>
+  </HunterDrones.generalRules.rulesStrings>
+  <OrbitalTech.label>орбитальные технологии</OrbitalTech.label>
+  <OrbitalTech.description>Стройте здания и одежду, которые защищают от сурового вакуума космоса.</OrbitalTech.description>
+  <OrbitalTech.generalRules.rulesStrings>
+    <li>subject-&gt;орбитальная одежда</li>
+    <li>subject_story-&gt;собирал подкладки для скафандров</li>
+    <li>subject_story-&gt;тестировал скафандры</li>
+    <li>subject_story-&gt;разрабатывал технологию респираторов</li>
+    <li>subject_story-&gt;изучал влияние космической радиации на человеческие ткани</li>
+    <li>subject_gerund-&gt;собирает скафандры</li>
+    <li>subject_gerund-&gt;собирает респираторы</li>
+    <li>subject_gerund-&gt;тестирует скафандры</li>
+  </OrbitalTech.generalRules.rulesStrings>
+  <Shuttles.label>челнок</Shuttles.label>
+  <Shuttles.description>Постройте челнок для дальних путешествий или выхода на орбиту. Для этого понадобится двигатель челнока, который можно купить у орбитальных торговцев, снять с других челноков или получить за выполнение заданий.</Shuttles.description>
+  <Shuttles.generalRules.rulesStrings>
+    <li>subject-&gt;челноки</li>
+    <li>subject_story-&gt;летал на челноке</li>
+    <li>subject_story-&gt;проектировал челнок</li>
+    <li>subject_gerund-&gt;разрабатывает челнок</li>
+    <li>subject_gerund-&gt;пилотирует челноки</li>
+  </Shuttles.generalRules.rulesStrings>
+  <StandardGravtech.label>стандартная гравитехнология</StandardGravtech.label>
+  <StandardGravtech.description>Создавайте сложные детали для гравикорабля.</StandardGravtech.description>
+  <StandardGravtech.discoveredLetterText>Теперь у вас есть технология для создания крупных двигателей. Для этого требуются блоки вакуумита, который можно добыть на орбитальных астероидах.\n\nВы можете перемещаться в орбитальные зоны с помощью транспортных капсул, челноков или гравикорабля. Обязательно экипируйте своих поселенцев скафандрами или другой продвинутой бронёй для выживания в космосе.</StandardGravtech.discoveredLetterText>
+  <StandardGravtech.discoveredLetterTitle>О вакуумите: получение</StandardGravtech.discoveredLetterTitle>
+  <StandardGravtech.generalRules.rulesStrings>
+    <li>subject-&gt;гравитехнология</li>
+    <li>subject_story-&gt;изучал сложные компоненты гравикорабля</li>
+    <li>subject_gerund-&gt;исследует гравикорабли</li>
+  </StandardGravtech.generalRules.rulesStrings>
+</LanguageData>

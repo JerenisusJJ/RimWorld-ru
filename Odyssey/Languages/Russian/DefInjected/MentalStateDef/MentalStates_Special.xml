@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Terror.label>ужас</Terror.label>
+  <Terror.baseInspectLine>Душевное состояние: убегает в ужасе</Terror.baseInspectLine>
+  <Terror.beginLetter>{0} убегает в ужасе.</Terror.beginLetter>
+  <Terror.beginLetterLabel>убегает в ужасе</Terror.beginLetterLabel>
+  <Terror.recoveryMessage>{0} больше не убегает в ужасе.</Terror.recoveryMessage>
+</LanguageData>

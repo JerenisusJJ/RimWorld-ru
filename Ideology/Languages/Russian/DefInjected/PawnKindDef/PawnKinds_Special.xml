@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Beggar.label>попрошайка</Beggar.label>
+  <Beggar.labelPlural>попрошайки</Beggar.labelPlural>
+  <PovertyPilgrim.label>паломник</PovertyPilgrim.label>
+  <PovertyPilgrim.labelPlural>паломники</PovertyPilgrim.labelPlural>
+  <WellEquippedTraveler.label>путешественник с хорошим снаряжением</WellEquippedTraveler.label>
+  <WellEquippedTraveler.labelPlural>путешественники с хорошим снаряжением</WellEquippedTraveler.labelPlural>
+</LanguageData>

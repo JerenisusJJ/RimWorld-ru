@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;[gameConditionDescriptionFuture].</li>
+  </Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+  <Util_Infestation.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;(*Threat)[hivesCount] групп насекомых(/Threat) проберутся к вам из-под земли.</li>
+  </Util_Infestation.questDescriptionRules.rulesStrings>
+  <Util_ManhunterPack.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;придут [animalKind_labelPlural] стаей из (*Threat)[animalCount] особей(/Threat).</li>
+  </Util_ManhunterPack.questDescriptionRules.rulesStrings>
+  <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;появится новое опасное место, где [allSitePartsDescriptions] Эта опасность останется там, пока вы её не уничтожите.</li>
+    <li>defaultSiteAppearedLetterText-&gt;Неподалёку появилось новое опасное место.\n\nТам [allSitePartsDescriptions]</li>
+    <li>defaultSiteAppearedLetterLabel-&gt;Появилось опасное место: [site_label]</li>
+  </Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+</LanguageData>

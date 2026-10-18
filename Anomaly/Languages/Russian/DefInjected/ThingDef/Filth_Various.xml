@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Filth_DarkBlood.label>тёмная кровь</Filth_DarkBlood.label>
+  <Filth_DarkBloodSmear.label>размазанная тёмная кровь</Filth_DarkBloodSmear.label>
+  <Filth_Fleshmass.label>сгустки биомассы</Filth_Fleshmass.label>
+  <Filth_GrayFlesh.label>серая плоть</Filth_GrayFlesh.label>
+  <Filth_GrayFleshNoticeable.label>серая плоть</Filth_GrayFleshNoticeable.label>
+  <Filth_MetalhorrorDebris.label>останки металлической жути</Filth_MetalhorrorDebris.label>
+  <Filth_RevenantBloodPool.label>внутренности ревенанта</Filth_RevenantBloodPool.label>
+  <Filth_RevenantSmear.label>пятно от ревенанта</Filth_RevenantSmear.label>
+  <Filth_TwistedFlesh.label>мерзкая плоть</Filth_TwistedFlesh.label>
+</LanguageData>

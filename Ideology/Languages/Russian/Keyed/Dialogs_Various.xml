@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <TradingAnimalProduceBonus>Бонус к продаже продуктов животного происхождения</TradingAnimalProduceBonus>
+  <SlavesSection>Рабы</SlavesSection>
+  <DominantStyle>преобладающий стиль</DominantStyle>
+  <Date>Дата</Date>
+  <RitualDevelopmentPointRewards>В зависимости от результата ритуала, столько очков развития вы сможете получить</RitualDevelopmentPointRewards>
+  <UseGlobalStyle>Применить глобальный стиль</UseGlobalStyle>
+  <NoStylesAvailable>Нет доступных вариаций стиля</NoStylesAvailable>
+  <ChooseStructureMemesInfo>Выберите символическую структуру вашей идеолигии. Это влияет только на символику — не на геймплей.</ChooseStructureMemesInfo>
+  <ChooseNormalMemesInfo>Выберите {0}-{1_numCase ? черту : черты : черты}, которые сформируют фундамент вашей идеолигии.</ChooseNormalMemesInfo>
+  <NotEnoughMemes>Выберите как минимум {0} черту.</NotEnoughMemes>
+  <TooManyMemes>Выберите максимум {0} черты.</TooManyMemes>
+  <ChooseStructureMeme>Выберите структуру.</ChooseStructureMeme>
+  <IncompatibleMemes>{0_label} и {1_label} несовместимы.</IncompatibleMemes>
+  <SomeMemesHaveMoreImpact>Некоторые из них влияют на геймплей сильнее, чем другие.</SomeMemesHaveMoreImpact>
+  <ChooseNormalMemesFluidIdeoInfo>Выберите черту, определяющую изначальную суть вашей идеолигии. Со временем, в процессе развития, вы сможете добавлять к ней новые черты.</ChooseNormalMemesFluidIdeoInfo>
+  <ChooseOrRemoveMeme>Выберите или удалите черту.</ChooseOrRemoveMeme>
+  <ReformIdeoResetChanges>Сбросить изменения</ReformIdeoResetChanges>
+  <NotEnoughMemesFluidIdeo>Выберите {0_numCase ? черту : черты : черты}.</NotEnoughMemesFluidIdeo>
+  <ChangesRandomizePrecepts>Нажатие кнопки «{0}» случайно перераспределит всё принципы, которые вы поменяли.\n\nПродолжить?</ChangesRandomizePrecepts>
+  <ChangesRemovePrecepts>Эти принципы несовместимы с выбранными чертами и будут удалены:\n\n{0}\n\nПродолжить?</ChangesRemovePrecepts>
+  <RoomRequirements>Требования к помещению</RoomRequirements>
+  <ConfirmChangeMemesForFluidIdeo>Идеолигия, которую вы загружаете, имеет черты, несовместимые с новой изменчивой идеолигией. Их нужно будет выбрать заново (изменчивые идеолигии могут быть основаны только на одной черте со слабым влиянием на игровой процесс).</ConfirmChangeMemesForFluidIdeo>
+  <ConfirmIncompatibleMemes>Эти черты несовместимы</ConfirmIncompatibleMemes>
+  <ConfirmChangeMemesForFluidIdeoContinue>Продолжить?</ConfirmChangeMemesForFluidIdeoContinue>
+  <Role>роль</Role>
+  <ChooseRole>Назначить роль</ChooseRole>
+  <ChooseNewRole>Назначить новую роль</ChooseNewRole>
+  <NoRoleAssigned>Роли не назначены</NoRoleAssigned>
+  <ChildNoRoleAssigned>Дети не могут занимать роли</ChildNoRoleAssigned>
+  <RemoveRole>Снять роль: {0}</RemoveRole>
+  <ChooseRoleConfirmAssign>Вы собираетесь назначить {PAWN_labelShort} на роль {ROLE_labelDef}</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssignPostfix>Вы уверены?</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignReplace>{PAWN_labelShort} уже занимает эту роль и расстроится, если потеряет её.</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} уже занимает роль {ROLE_label} и расстроится, если потеряет её.</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignReplaceLeader>Лидер может быть только один. Церемония приведёт к тому, что {PAWN_labelShort} потеряет свою роль {OTHERROLE_labelDef}, и это расстроит {PAWN_possessive}.</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmUnassign>Вы собираетесь лишить {PAWN_labelShort} роли {ROLE_labelIndef}. Это {PAWN_possessive} расстроит.</ChooseRoleConfirmUnassign>
+  <ChooseRoleListAbilities>{PAWN_labelShort} получит следующие способности</ChooseRoleListAbilities>
+  <ChooseRoleListApparelDemands>Поселенцу с ролью {ROLE_label} необходима следующая одежда</ChooseRoleListApparelDemands>
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} не будет выполнять следующие виды работ</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleHint>Иногда роли лучше назначать после того, как поселение уверенно встанет на ноги.</ChooseRoleHint>
+  <UnlockedByMeme>Доступно благодаря</UnlockedByMeme>
+  <Origin>Происхождение</Origin>
+  <MemeUnlocksRoles>Доступные роли</MemeUnlocksRoles>
+  <MemeUnlocksRituals>Доступные ритуалы</MemeUnlocksRituals>
+  <ChooseRoleRequiredWorkTagsDisabled>Внимание: {PAWN_nameDef} не может заниматься работой, подразумеваемой ролью {ROLE_label}. Если вы назначите {PAWN_objective} эту роль, {PAWN_pronoun}, вероятно, не сможет использовать некоторые связанные с ней способности. Недоступные виды работ</ChooseRoleRequiredWorkTagsDisabled>
+  <YourLeaderTradeBonus>Бонус лидера</YourLeaderTradeBonus>
+  <CannotNotAddRoleApparelDueToMeme>Черта {MEME} не позволяет добавлять требования к одежде для ролей.</CannotNotAddRoleApparelDueToMeme>
+  <CannotBeWornWith>нельзя надеть с {lookup: {0_label}; Case; 4}</CannotBeWornWith>
+  <AbilityIdeoConvertBreakdownLabel>Уменьшение уверенности</AbilityIdeoConvertBreakdownLabel>
+  <AbilityIdeoConvertBreakdownUsingAbility>Применение «{lookup: {ABILITY}; Case; 1}»</AbilityIdeoConvertBreakdownUsingAbility>
+  <AbilityIdeoConvertBreakdownConversionPower>Эффективность обращения {PAWN_labelShort}</AbilityIdeoConvertBreakdownConversionPower>
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>Потеря уверенности {PAWN_labelShort} в {IDEO_name}</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} — {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownTrait>Черта характера «{TRAIT}»</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownPercept>Принцип «{PRECEPT}»</AbilityIdeoConvertBreakdownPercept>
+  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT_numCase ? реликвия находится : реликвии находятся : реликвий находится} на карте</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownSocialSkill>Социальный навык {PAWN_labelShort}</AbilityIdeoConvertBreakdownSocialSkill>
+  <AbilityIdeoConvertBreakdownOpinion>Мнение {RECIPIENT_labelShort} о {INITIATOR_labelShort}</AbilityIdeoConvertBreakdownOpinion>
+  <AbilityIdeoConvertBreakdownPawnIdeo>Идеолигия {PAWN_nameDef}</AbilityIdeoConvertBreakdownPawnIdeo>
+  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} против черты характера «{TRAIT}»</AbilityIdeoConvertBreakdownMemeVsTrait>
+  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} недавно уже была {PAWN_gender ? утешен : утешена : утешно}.</AbilityCantApplyAlreadyCounselled>
+  <ReformIdeo>Реформация…</ReformIdeo>
+  <ReformIdeoligion>Реформировать идеолигию</ReformIdeoligion>
+  <ReformIdeoligionDesc>Реформировать идеолигию, изменив её структуру, черты или стиль.</ReformIdeoligionDesc>
+  <ReformIdeoChangeStyles>Изменить стили</ReformIdeoChangeStyles>
+  <ReformIdeoAddOrRemoveMeme>Добавить или удалить черту</ReformIdeoAddOrRemoveMeme>
+  <ReformIdeoAddMeme>Добавить черту</ReformIdeoAddMeme>
+  <ReformIdeoChooseOneChange>Выберите</ReformIdeoChooseOneChange>
+  <ReformIdeoChangeStructure>Сменить структуру</ReformIdeoChangeStructure>
+  <ReformIdeoChangeAny>Измените что угодно из перечисленного</ReformIdeoChangeAny>
+  <ReformIdeoRelicHuntQuestEnd>Реликвия «{0}» перестанет почитаться вашими поселенцами после реформации идеолигии. Следовательно, задание «{0}», посвящённое поиску этой реликвии, будет деактивировано.</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoCancelRituals>Ритуал {0}, проводимый в данный момент, будет отменён.</ReformIdeoCancelRituals>
+  <ReformIdeoContinue>Продолжить?</ReformIdeoContinue>
+  <CannotAssignBedToSlave>Раб</CannotAssignBedToSlave>
+  <CannotAssignBedToColonist>Поселенец</CannotAssignBedToColonist>
+  <AnySlave>Любой раб</AnySlave>
+  <NegotiatorWillNotTradeSlaves>{0_nameDef} отказывается продавать людей в рабство, по идеолигиозным убеждениям.</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlavesTip>Переговорщик, {0_nameDef}, не станет продавать людей в рабство из-за веры в {1}.\n\nОбратите внимание, {0_nameDef} не против выкупать пленников обратно в свою фракцию, но продавать людей чужим фракциям не станет.</NegotiatorWillNotTradeSlavesTip>
+  <LastHumanMeat>Последний раз съедена человечина</LastHumanMeat>
+  <LastHumanMeatDesc>Из-за веры в {IDEO_name}, {PAWN_nameDef} расстроится, если не будет есть человеческое мясо дольше {DURATION_numCase ? дня : дней : дней}.</LastHumanMeatDesc>
+  <ExectueNeutralFactionSlave>Казнь {PAWN_labelShort} негативно повлияет на отношения с фракцией {FACTION_name}.</ExectueNeutralFactionSlave>
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>Вы должны назначить как минимум одного не порабощённого поселенца, способного ходить.</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>Вы должны оставить как минимум одного не порабощённого поселенца, способного ходить.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+  <StylePawn>Стиль</StylePawn>
+  <Hair>причёски</Hair>
+  <Beard>бороды</Beard>
+  <TattooFace>лицевые татуировки</TattooFace>
+  <TattooBody>нательные татуировки</TattooBody>
+  <ApparelColor>цвет одежды</ApparelColor>
+  <HairColor>цвет волос</HairColor>
+  <ShowHeadgear>Показывать головные уборы</ShowHeadgear>
+  <ShowApparel>Показывать одежду</ShowApparel>
+  <PawnUnhappyWithStyleItems>Это расстроит {PAWN_nameDef}:</PawnUnhappyWithStyleItems>
+  <StyleCategoryDescription>Категории стиля влияют на внешний вид некоторых строений, одежды и оружия, которые создают ваши {IDEO_memberNamePlural}. Если несколько стилей влияют на один и тот же объект, применён будет первый в списке.</StyleCategoryDescription>
+  <StyleCategoryDescriptionAbstract>Категории стиля влияют на внешний вид некоторых строений, одежды и оружия, созданных в вашем поселении. Если несколько стилей влияют на один и тот же объект, применён будет первый в списке.</StyleCategoryDescriptionAbstract>
+  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} будут счастливы видеть строения, покрытия и объекты искусства, соответствующие этому стилю.</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominanceAbstract>Идеолигиозные последователи будут рады видеть сооружения, покрытия и предметы искусства, выполненные в соответствующем стиле.</StyleCategoryDescStyleDominanceAbstract>
+  <StyleCategoryDetails>{0} стиль влияет на</StyleCategoryDetails>
+  <OverriddenByStyle>Переопределено {lookup: {0}; Case; 4} стилем</OverriddenByStyle>
+  <IdeoMakesBuildingBuildable>Новые строения</IdeoMakesBuildingBuildable>
+  <NoneUsableForPawn>нет ничего для {PAWN_nameDef}</NoneUsableForPawn>
+  <HairAndBeards>Причёски и бороды</HairAndBeards>
+  <HairAndBeardsDesc>Эти настройки определяют, как часто каждый стиль проявляется на последователях этой идеолигии.</HairAndBeardsDesc>
+  <Tattoos>Татуировки</Tattoos>
+  <TattoosDesc>Эти настройки определяют, как часто каждая татуировка появляется на последователях этой идеолигии</TattoosDesc>
+  <StyleItemFrequencyNever>Никогда</StyleItemFrequencyNever>
+  <StyleItemFrequencyRare>Редко</StyleItemFrequencyRare>
+  <StyleItemFrequencyUncommon>Иногда</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyNormal>Умеренно</StyleItemFrequencyNormal>
+  <StyleItemFrequencyCommon>Часто</StyleItemFrequencyCommon>
+  <StyleItemFrequencyFrequent>Очень часто</StyleItemFrequencyFrequent>
+  <EditAppearanceItems>Изменить внешний вид</EditAppearanceItems>
+  <NumAvailable>{0} используется</NumAvailable>
+  <ResetButtonDesc>Возвращает стиль всех предметов по умолчанию.</ResetButtonDesc>
+  <SendShuttleAnyway>Всё равно отправить челнок</SendShuttleAnyway>
+  <ReLoadShuttle>Перезагрузить челнок</ReLoadShuttle>
+  <MedGroupSlaves>Рабы</MedGroupSlaves>
+  <MedGroupSlavesDesc>Порабощённые жители вашего поселения.</MedGroupSlavesDesc>
+  <ChangeMode>Выберите касту дриад</ChangeMode>
+  <RequiredMemes>Необходимые черты</RequiredMemes>
+  <RequiredStage>Необходимая каста</RequiredStage>
+  <MissingRequiredMemes>Недостаточно необходимых черт</MissingRequiredMemes>
+  <MissingRequiredCaste>Отсутствует необходимая каста</MissingRequiredCaste>
+  <AlreadySelected>Уже выбрано</AlreadySelected>
+  <ChooseProductionModeInitialDesc>Здесь можно выбрать, какую касту дриад создаст {TREE_label}.\n\nДриады появятся из капсул, растущих у основания дерева. Максимальное число дриад зависит от силы связи между {TREE_definite} и связанным человеком.</ChooseProductionModeInitialDesc>
+  <ChooseColonistsForIdeoTitle>Выберите, кого обратить в свою идеолигию</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoDesc>Вы можете обратить своих поселенцев в свою основную идеолигию, когда основываете новое поселение.</ChooseColonistsForIdeoDesc>
+  <ChooseThingsForNewColonyTitle>Новое поселение</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyDesc>Выберите, каких поселенцев, животных и реликвии взять с собой.</ChooseThingsForNewColonyDesc>
+  <ChooseThingsDesc>Выберите до {0} {lookup: {1}; Case; 1}.</ChooseThingsDesc>
+  <ChoosePeopleDesc>Выберите до {0} человек.</ChoosePeopleDesc>
+  <ChooseOnlySlavesInfo>Выбрав только рабов, в новом поселении вы будете играть за них как за поселенцев.</ChooseOnlySlavesInfo>
+  <ConfirmDecisionsTitle>Подтвердить решения</ConfirmDecisionsTitle>
+  <ShipEscapeWillEndDescription>Космический корабль, о котором сообщал ИИ по имени (*Name)Шарлон Вайтстоун(/Name), улетит к моменту основания нового поселения. Покинуть планету на этом корабле будет невозможно.</ShipEscapeWillEndDescription>
+  <ArchonexusRelicNotChosen>Не выбрана реликвия для переноса в другое поселение.</ArchonexusRelicNotChosen>
+  <ArchonexusItemsNotChosen>{0} из {1} возможных предметов были выбраны для переноса в другое поселение.</ArchonexusItemsNotChosen>
+  <RemoveEquippedRelicsDescription>Новые владельцы поселения разрешают вам взять с собой только одну реликвию. Всё остальные реликвии (включая те, что уже носят поселенцы) будут оставлены здесь:</RemoveEquippedRelicsDescription>
+  <WantToProceed>Вы уверены, что хотите продолжить? Вернуться назад уже не получится.</WantToProceed>
+  <ConvertToPlayerIdeoligion>Обратить</ConvertToPlayerIdeoligion>
+  <RevertToPreviousIdeoligion>Отменить обращение</RevertToPreviousIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>Существующий последователь</ExistingFollowerOfPlayerIdeoligion>
+  <AbandonArchotechStructuresWarningDialog>Вы покидаете место с сооружениями архотеков, которые вы ещё до конца не изучили.\n\nВы сможете потом поселиться здесь заново, но ваше прошлое поселение исчезнет навсегда.</AbandonArchotechStructuresWarningDialog>
+  <ItemQuantityTooltip>Количество {lookup: {lookup: {0}; Plural; 1}; Case; 1}, которое можно взять с собой в новое поселение.\n\nМаксимальное разрешённое количество — {1}</ItemQuantityTooltip>
+  <SoldColonyDescription>Ваше поселение продано. Его новые владельцы готовы доставить вас в нужное вам место.</SoldColonyDescription>
+  <ConfirmHackEnemyTerminal>Взлом {lookup: {0}; Case; 1} оповестит противников, и они нападут на вас. Вы действительно хотите взломать {lookup: {0}; Case; 3}?</ConfirmHackEnemyTerminal>
+  <RelicsSection>Реликвии</RelicsSection>
+  <FoodRestrictionVegetarian>Вегетарианская</FoodRestrictionVegetarian>
+  <FoodRestrictionCarnivore>Мясоедская</FoodRestrictionCarnivore>
+  <FoodRestrictionCannibal>Людоедская</FoodRestrictionCannibal>
+  <FoodRestrictionInsectMeat>Насекомая</FoodRestrictionInsectMeat>
+  <StylesInUse>Применяемые стили</StylesInUse>
+  <StyleCategoryAddDesc>Добавить стиль.</StyleCategoryAddDesc>
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Harp.label>арфа</Harp.label>
+  <Harp.description>Простой стационарный музыкальный инструмент. Музыкант играет пальцами на рядах струн, натянутых на раму.\n\nАрфу можно изготовить на рабочем месте или кузне.</Harp.description>
+  <Harp.generalRules.rulesStrings>
+    <li>subject-&gt;арфы</li>
+    <li>subject-&gt;простые струнные инструменты</li>
+    <li>subject_gen-&gt;арф</li>
+    <li>subject_gen-&gt;простых струнных инструментов</li>
+    <li>subject_dat-&gt;арфам</li>
+    <li>subject_dat-&gt;простым струнным инструментам</li>
+    <li>subject_pre_about-&gt;об арфах</li>
+    <li>subject_pre_about-&gt;о простых струнных инструментах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? прошёл : прошла} обучение в музыкальном училище</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? смастерил : смастерила} арфу из распространённых на диких мирах материалов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? исполнил : исполнила} соло на арфе для имперской знати</li>
+    <li>subject_story-&gt;после долгих ежедневных практик {ANYPAWN_gender ? освоил : освоила} глиссандо</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? подверг : подвергла} исследованию культурное значение струнных музыкальных инструментов</li>
+    <li>subject_gerund-&gt;игры на арфе</li>
+  </Harp.generalRules.rulesStrings>
+  <Harpsichord.label>клавесин</Harpsichord.label>
+  <Harpsichord.description>Сложный стационарный музыкальный инструмент, изготавливаемый на кузне. Музыкант касается ряда клавиш, расположенных на передней части инструмента. Каждая клавиша связана с внутренним механизмом, ударяющим по одной или нескольким струнам, натянутым на деревянную раму. Клавесин позволяет исполнять более сложные музыкальные композиции, чем арфа, но его деревянная рама и конструкция механизмов ограничивает объём и выразительность звучания.</Harpsichord.description>
+  <Harpsichord.generalRules.rulesStrings>
+    <li>subject-&gt;клавесины</li>
+    <li>subject_gen-&gt;клавесинов</li>
+    <li>subject_dat-&gt;клавесинам</li>
+    <li>subject_pre_about-&gt;о клавесинах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возглавил : возглавила} движение за возрождение клавесинной музыки на центральных мирах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал ответственным : стала ответственной} за настройку клавесинов перед концертами на утопических мирах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал ведущим клавесинистом : стала ведущей клавесинисткой} в местной филармонии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла} мастерскую по изготовлению двухмануальных клавесинов, конструкция которых обеспечивала богатое гармоническими обертонами звучание</li>
+    <li>subject_gerund-&gt;игры на клавесине</li>
+  </Harpsichord.generalRules.rulesStrings>
+  <Piano.label>фортепиано</Piano.label>
+  <Piano.description>Продвинутый стационарный музыкальный инструмент. По нажатии клавиш молоточки ударяют по струнам внутри инструмента, натянутым на стальную раму. Молоточковый механизм и повышенное натяжение струн позволяют музыканту играть одновременно и мягко, и громко, великолепно передавая всё эмоции в мелодии.\n\nФортепиано можно построить на кузне.</Piano.description>
+  <Piano.generalRules.rulesStrings>
+    <li>subject-&gt;фортепиано</li>
+    <li>subject_gen-&gt;фортепиано</li>
+    <li>subject_dat-&gt;фортепиано</li>
+    <li>subject_pre_about-&gt;о фортепиано</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? овладел : овладела} игрой на каждом струнном музыкальном инструменте из всего их многообразия</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? поступил : поступила} в музыкальную академию, в учебной программе которой знакомству с биографиями композиторов уделялось времени не меньше, чем самому обучению игре на фортепиано</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла} фирму, занимавшуюся перевозками крупногабаритных музыкальных инструментов, таких как фортепиано, между центральными мирами</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? задокументировал : задокументировала} технику исполнения нескольких выдающихся пианистов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? смастерил : смастерила} необычное пианино</li>
+    <li>subject_gerund-&gt;игры на фортепиано</li>
+  </Piano.generalRules.rulesStrings>
+</LanguageData>

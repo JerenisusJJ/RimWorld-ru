@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LeftFin.label>левый плавник</LeftFin.label>
+  <LeftFin.labelShort>плавник</LeftFin.labelShort>
+  <LeftFleshClub.label>левая дубина из плоти</LeftFleshClub.label>
+  <LeftFleshClub.labelShort>дубина из плоти</LeftFleshClub.labelShort>
+  <RightFin.label>правый плавник</RightFin.label>
+  <RightFin.labelShort>плавник</RightFin.labelShort>
+  <RightFleshClub.label>правая дубина из плоти</RightFleshClub.label>
+  <RightFleshClub.labelShort>дубина из плоти</RightFleshClub.labelShort>
+</LanguageData>

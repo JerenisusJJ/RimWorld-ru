@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DeadlifeDust.label>порошок мёртвой жизни</DeadlifeDust.label>
+  <DeadlifeDust.deathMessage>{0} умирает насильственной смертью.</DeadlifeDust.deathMessage>
+  <Digested.label>поглощение</Digested.label>
+  <Digested.deathMessage>{0} умирает от поглощения.</Digested.deathMessage>
+  <EnergyBolt.label>энергетический заряд</EnergyBolt.label>
+  <EnergyBolt.deathMessage>{0} умирает от энергетического заряда.</EnergyBolt.deathMessage>
+  <NociosphereVaporize.label>сверхвысокие температуры</NociosphereVaporize.label>
+  <NociosphereVaporize.deathMessage>{0} умирает от перегрева.</NociosphereVaporize.deathMessage>
+  <Psychic.label>псионическая смерть</Psychic.label>
+  <Psychic.deathMessage>{0} умирает от псионической атаки.</Psychic.deathMessage>
+</LanguageData>

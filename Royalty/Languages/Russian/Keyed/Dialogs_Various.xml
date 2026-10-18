@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RoyalFavorDescription>Количество {lookup: {FACTION_royalFavorLabel}; Case; 1}, которой удостоится ваш переговорщик в результате сделки.</RoyalFavorDescription>
+  <RoyalTitleTooltipRequiredApparel>Требуемая одежда</RoyalTitleTooltipRequiredApparel>
+  <RoyalTitleTooltipRequiredApparelQuality>Минимальное качество одежды</RoyalTitleTooltipRequiredApparelQuality>
+  <RoyalTitleTooltipBedroomRequirements>Требования к спальне</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipThroneroomRequirements>Требования к тронному залу</RoyalTitleTooltipThroneroomRequirements>
+  <RoyalTitleTooltipPermits>Привилегии титула</RoyalTitleTooltipPermits>
+  <RoyalTitleRequiredApparelStatDescription>Держатели этого титула должны в любых сочетаниях носить следующее одеяние</RoyalTitleRequiredApparelStatDescription>
+  <ApparelRequirementAnyPrestigeArmor>Любая роскошная броня</ApparelRequirementAnyPrestigeArmor>
+  <ApparelRequirementAnyPsycasterApparel>Любая одежда из эльтекса</ApparelRequirementAnyPsycasterApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>или любая роскошная одежда или одежда для псиоников</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <DisabledWorkTypes>Не полагающиеся виды работ</DisabledWorkTypes>
+  <RoyalTitleRequiredMeals>Полагающаяся еда</RoyalTitleRequiredMeals>
+  <RoyalTitleRequiredMealsDesc>Держателю этого титула предписывается есть пищу только этих видов, если он не голодает или не путешествует в караване.</RoyalTitleRequiredMealsDesc>
+  <RoyalImplantIllegalUseWarning>В соответствии с законами фракции {FACTION_name}, чтобы применять {lookup: {IMPLANT}; Case; 3}, требуется титул не ниже {lookup: {TITLE}; Case; 1}.\n\n{VIOLATIONTRIGGER}, есть вероятность, что {FACTION_name} обнаружит его характерные признаки, и это приведёт к нежелательным дипломатическим последствиям.</RoyalImplantIllegalUseWarning>
+  <RoyalImplantInstallConfirmation>Всё равно вживить этот имплант?</RoyalImplantInstallConfirmation>
+  <RoyalImplantUpgradeConfirmation>Всё равно улучшить этот имплант?</RoyalImplantUpgradeConfirmation>
+  <BladelinkEquipWarning>После синхронизации с владельцем ИИ-личность этого оружия будет отказываться работать со всеми остальными.</BladelinkEquipWarning>
+  <BladelinkEquipWarningTraits>Это оружие обладает следующими чертами</BladelinkEquipWarningTraits>
+  <RoyalWeaponEquipConfirmation>Вы уверены, что хотите взять это оружие?</RoyalWeaponEquipConfirmation>
+  <AbilityTargetPsychicallyDeaf>Цель психически глуха</AbilityTargetPsychicallyDeaf>
+  <PsycastIsIllegal>Эта пси-способность незаконна для {PAWN_labelShort}. Требуется титул {lookup: {TITLE}; Case; 1}.</PsycastIsIllegal>
+  <CannotSkipTarget>Невозможно переместить {PAWN_labelShort}</CannotSkipTarget>
+  <CannotSkipTargetTooLarge>цель слишком велика</CannotSkipTargetTooLarge>
+  <CannotSkipTargetPsychicResistant>цель обладает психическим сопротивлением</CannotSkipTargetPsychicResistant>
+  <QuestGivesRoyalFavor>Наградой за выполнение этого задания будет {FACTION_royalFavorLabel} и, соответственно, знатные титулы для {PAWN_labelShort}.</QuestGivesRoyalFavor>
+  <RoyalIncapableOfSocial>{PAWN_pronoun} не имеет навыков общения. Для титулованных особ очень важно обладать высокими социальными навыками, и если {PAWN_labelShort} получит титул, для н{PAWN_possessive} могут настать трудные времена. Другие поселенцы могут лучше подходить для этой роли.</RoyalIncapableOfSocial>
+  <RoyalWithConceitedTrait>Поскольку в {PAWN_gender ? нём : ней : нём} есть {2}, {PAWN_labelShort} будет требовать всех привилегий, соответствующих {PAWN_possessive} титулу. {PAWN_pronoun} будет отказываться выполнять работу определённых видов, есть низкосортную еду и начнёт выпускать указы. Другие поселенцы могут более гибко относиться к своим знатным привилегиям.</RoyalWithConceitedTrait>
+  <RoyalWithTraitAffectingPsylinkNegatively>Поскольку у {PAWN_labelShort} есть {2}, обладание пси-связью может быть бесполезным для н{PAWN_possessive}.</RoyalWithTraitAffectingPsylinkNegatively>
+  <PsylinkTooLowForGainAbility>{PAWN_labelShort} не обладает пси-связью достаточного уровня чтобы применять «{lookup: {ABILITY}; Case; 3}».\n\nВы уверены, что хотите изучить её?</PsylinkTooLowForGainAbility>
+  <SendShuttleWithNoContents>На этом челноке нет ни груза, ни пассажиров. Если вы отправите его, то не сможете больше им воспользоваться.\n\nВы уверены, что хотите продолжить?</SendShuttleWithNoContents>
+  <DropResourcesOverweightConfirm>С запрошенными ресурсами караван не сможет двигаться из-за превышения максимального веса.\n\nВы уверены, что хотите продолжить?</DropResourcesOverweightConfirm>
+</LanguageData>

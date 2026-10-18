@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Salvagers.label>сталкеры</Salvagers.label>
+  <Salvagers.description>Безжалостная фракция орбитальных мародеров, которые прочесывают космос в поисках брошенных кораблей и ценных обломков. Сталкеры действуют исключительно в космосе.</Salvagers.description>
+  <Salvagers.leaderTitle>главарь</Salvagers.leaderTitle>
+  <Salvagers.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</Salvagers.messageDefendersAttacking>
+  <Salvagers.pawnSingular>пират</Salvagers.pawnSingular>
+  <Salvagers.pawnsPlural>пираты</Salvagers.pawnsPlural>
+  <TradersGuild.label>гильдия торговцев</TradersGuild.label>
+  <TradersGuild.description>Свободная коалиция орбитальных торговцев. Вместе они образуют орбитальный рынок, который покупает и продает товары со всей планеты. Орбитальные торговцы также приобретают товары у межпланетных торговых судов, что дает им доступ к редким технологиям.\n\nЭти торговцы редко спускаются на саму планету, предпочитая жить в безопасности своих орбитальных платформ.</TradersGuild.description>
+  <TradersGuild.leaderTitle>магистр торговли</TradersGuild.leaderTitle>
+  <TradersGuild.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</TradersGuild.messageDefendersAttacking>
+  <TradersGuild.pawnSingular>член гильдии</TradersGuild.pawnSingular>
+  <TradersGuild.pawnsPlural>члены гильдии</TradersGuild.pawnsPlural>
+</LanguageData>

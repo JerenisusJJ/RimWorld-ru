@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение заброшенной орбитальной платформы. Вы не обнаруживаете никаких признаков жизни.\n\nВы можете взломать ее, чтобы получить находящиеся там трофеи, но вероятно, на платформе есть системы защиты.\n\nВы можете добраться до орбитальных объектов с помощью гравикораблей, челноков или транспортных капсул.</li>
+  </OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+    <li>questName(p=3)-&gt;[ancientPlatAdj] [platform]</li>
+    <li>questName-&gt;[PlaceOutlander] [platform]</li>
+    <li>questName-&gt;[platform] [greekLetter]</li>
+    <li>questName-&gt;[platAdj] [platform] [RomanNumeral]</li>
+    <li>ancientPlatAdj-&gt;заброшенная</li>
+    <li>ancientPlatAdj-&gt;древними</li>
+    <li>ancientPlatAdj-&gt;[platAdj]</li>
+    <li>platAdj-&gt;звездный свет</li>
+    <li>platAdj-&gt;туманность</li>
+    <li>platAdj-&gt;горизонт</li>
+    <li>platAdj-&gt;затмение</li>
+    <li>platAdj-&gt;зенит</li>
+    <li>platAdj-&gt;аврора</li>
+    <li>platAdj-&gt;корона</li>
+    <li>platAdj-&gt;нова</li>
+    <li>platAdj-&gt;эон</li>
+    <li>platAdj-&gt;утешение</li>
+    <li>platAdj-&gt;люмина</li>
+    <li>platAdj-&gt;ион</li>
+    <li>platAdj-&gt;астралис</li>
+    <li>platAdj-&gt;аполлон</li>
+    <li>platAdj-&gt;арес</li>
+    <li>platAdj-&gt;хадес</li>
+    <li>platAdj-&gt;аякс</li>
+    <li>platAdj-&gt;эос</li>
+    <li>platAdj-&gt;эрос</li>
+    <li>platAdj-&gt;хронос</li>
+    <li>platAdj-&gt;зефир</li>
+    <li>platAdj-&gt;аргос</li>
+    <li>platAdj-&gt;Орион</li>
+    <li>platAdj-&gt;гермес</li>
+    <li>platAdj-&gt;атлас</li>
+    <li>platAdj-&gt;гелиос</li>
+    <li>platAdj-&gt;гефест</li>
+    <li>platAdj-&gt;талос</li>
+    <li>platAdj-&gt;авангарда</li>
+    <li>platAdj-&gt;эйгис</li>
+    <li>platAdj-&gt;галкион</li>
+    <li>platAdj-&gt;небесная кузница</li>
+    <li>platAdj-&gt;вдова</li>
+    <li>platform(p=2)-&gt;станция</li>
+    <li>platform-&gt;платформа</li>
+    <li>platform-&gt;орбитальная платформа</li>
+    <li>platform-&gt;орбитальный узел</li>
+    <li>platform(p=0.5)-&gt;небесные врата</li>
+    <li>platform(p=0.5)-&gt;космодок</li>
+    <li>platform(p=0.5)-&gt;портал</li>
+    <li>greekLetter-&gt;альфа</li>
+    <li>greekLetter-&gt;бета</li>
+    <li>greekLetter-&gt;тета</li>
+    <li>greekLetter-&gt;дельта</li>
+    <li>greekLetter-&gt;зета</li>
+    <li>greekLetter-&gt;сигма</li>
+    <li>greekLetter-&gt;омега</li>
+    <li>PlaceOutlander(p=3)-&gt;[SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[SylE][SylE][place_end]</li>
+  </OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+  <OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Вы обнаружили</OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>Срок задания истек: [resolvedQuestName]</OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>Судя по перехваченным сообщениям, платформой завладел кто-то другой. Время, отведенное для задания «[resolvedQuestName]», истекло.</OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение астероида на орбите планеты. В нем в больших количествах содержится [resource] и, возможно, другие ресурсы.\n\nОрбитальные шахтеры направляют ценные астероиды на орбиту планеты, чтобы их было легче добывать и продавать орбитальным торговцам. Признаков жизни на астероиде не обнаружено.\n\nДобраться до астероида можно на транспортных капсулах, челноках или гравикорабле. Перед вылетом оснастите поселенцев подходящей орбитальной одеждой.</li>
+  </OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+  <OpportunitySite_Asteroid.questNameRules.rulesStrings>
+    <li>questName-&gt;[resource] Астероид</li>
+  </OpportunitySite_Asteroid.questNameRules.rulesStrings>
+  <OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Вы обнаружили</OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение орбитальной платформы. Вы фиксируете высокий уровень активности механоидов.\n\nВы можете собрать ценные трофеи с платформы.\n\nВы можете добраться до орбитальных объектов с помощью гравикораблей, челноков или транспортных капсул.</li>
+  </OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+  <OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName-&gt;[platAdj] [platform] [designation]</li>
+    <li>questName-&gt;[platAdj] [platform]</li>
+    <li>platAdj(p=3)-&gt;механоидная</li>
+    <li>platAdj(p=3)-&gt;[mechanoid]</li>
+    <li>platAdj-&gt;генезис</li>
+    <li>platAdj-&gt;синтез</li>
+    <li>platAdj-&gt;сборка</li>
+    <li>platAdj-&gt;формация</li>
+    <li>platform-&gt;платформа</li>
+    <li>platform-&gt;станция</li>
+    <li>platform-&gt;узел</li>
+    <li>designation-&gt;[RomanNumeral]</li>
+    <li>designation-&gt;[Letter]-[RomanNumeral]</li>
+    <li>mechanoid-&gt;сайтер</li>
+    <li>mechanoid-&gt;лансер</li>
+    <li>mechanoid-&gt;сотоножка</li>
+    <li>mechanoid-&gt;циклоп</li>
+  </OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+  <OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Вы обнаружили</OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>Срок задания истек: [resolvedQuestName]</OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>Судя по перехваченным сообщениям, платформой завладел кто-то другой. Время, отведенное для задания «[resolvedQuestName]», истекло.</OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] необычный астероид на орбите планеты. У астероида полое ядро, внутри которого расположены несколько сооружений.\n\nВы можете проникнуть внутрь, чтобы добыть сокровища.\n\nОсторожно — в строениях могут быть защитные системы.</li>
+  </OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+  <OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+    <li>questName-&gt;[adjective] [orbital] [stash_noun]</li>
+    <li>questName-&gt;[orbital] [stash_noun]</li>
+    <li>adjective-&gt;Спрятанный</li>
+    <li>adjective-&gt;Секретный</li>
+    <li>orbital-&gt;Орбитальные</li>
+    <li>orbital-&gt;Астероид</li>
+    <li>stash_noun-&gt;Тайник</li>
+    <li>stash_noun-&gt;Схрон</li>
+  </OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+  <OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Вы обнаружили</OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] координаты крупного обломка на орбите. Он может содержать ценные ресурсы. Орбитальные поля обломков часто заняты враждебными мародерами.\n\nВы можете добраться до орбитальных объектов с помощью гравикораблей, челноков или транспортных капсул.</li>
+  </OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+  <OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+    <li>questName(p=2)-&gt;руины [platAdj] [platform]</li>
+    <li>questName-&gt;[platAdj] [wreckage]</li>
+    <li>questName-&gt;[PlaceOutlander] [wreckage]</li>
+    <li>questName-&gt;[ruined] [platAdj] [platform]</li>
+    <li>platAdj-&gt;звездный свет</li>
+    <li>platAdj-&gt;туманность</li>
+    <li>platAdj-&gt;горизонт</li>
+    <li>platAdj-&gt;затмение</li>
+    <li>platAdj-&gt;зенит</li>
+    <li>platAdj-&gt;аврора</li>
+    <li>platAdj-&gt;корона</li>
+    <li>platAdj-&gt;нова</li>
+    <li>platAdj-&gt;эон</li>
+    <li>platAdj-&gt;утешение</li>
+    <li>platAdj-&gt;люмина</li>
+    <li>platAdj-&gt;ион</li>
+    <li>platAdj-&gt;астралис</li>
+    <li>platAdj-&gt;аполлон</li>
+    <li>platAdj-&gt;арес</li>
+    <li>platAdj-&gt;хадес</li>
+    <li>platAdj-&gt;аякс</li>
+    <li>platAdj-&gt;эос</li>
+    <li>platAdj-&gt;эрос</li>
+    <li>platAdj-&gt;хронос</li>
+    <li>platAdj-&gt;зефир</li>
+    <li>platAdj-&gt;аргос</li>
+    <li>platAdj-&gt;Орион</li>
+    <li>platAdj-&gt;гермес</li>
+    <li>platAdj-&gt;атлас</li>
+    <li>platAdj-&gt;гелиос</li>
+    <li>platAdj-&gt;гефест</li>
+    <li>platAdj-&gt;талос</li>
+    <li>platAdj-&gt;авангарда</li>
+    <li>platAdj-&gt;эйгис</li>
+    <li>platAdj-&gt;галкион</li>
+    <li>platAdj-&gt;небесная кузница</li>
+    <li>platAdj-&gt;вдова</li>
+    <li>wreckage(p=2)-&gt;обломки</li>
+    <li>wreckage(p=2)-&gt;крушение</li>
+    <li>wreckage-&gt;орбитальные руины</li>
+    <li>wreckage-&gt;поле обломков</li>
+    <li>platform(p=2)-&gt;станция</li>
+    <li>platform-&gt;платформа</li>
+    <li>platform(p=0.5)-&gt;небесные врата</li>
+    <li>platform(p=0.5)-&gt;космодок</li>
+    <li>platform(p=0.5)-&gt;портал</li>
+    <li>ruined-&gt;разрушенный</li>
+    <li>ruined-&gt;уничтоженные</li>
+    <li>ruined-&gt;затопленные</li>
+    <li>ruined-&gt;потерянные</li>
+    <li>ruined-&gt;разоренные</li>
+    <li>PlaceOutlander(p=3)-&gt;[SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[SylE][SylE][place_end]</li>
+  </OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+  <OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Вы обнаружили</OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>Срок задания истек: [resolvedQuestName]</OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>Судя по перехваченным сообщениям, орбитальным обломком завладел кто-то другой. Время, отведенное для задания «[resolvedQuestName]», истекло.</OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение орбитального спутника. Эти спутники не имеют экипажа и часто не приспособлены для жизни. Спутники служат разным целям: от сбора энергии до оружия.\n\nВы можете получить ценные технологии со спутников, но будьте осторожны: они обычно защищены древними системами безопасности.\n\nДобраться до орбитальных объектов можно на гравикораблях, челноках или транспортных капсулах.</li>
+  </OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+  <OpportunitySite_Satellite.questNameRules.rulesStrings>
+    <li>questName-&gt;[PlaceOutlander] [platform]</li>
+    <li>questName-&gt;[platAdj] [platform]</li>
+    <li>platAdj(p=4)-&gt;орбитальная</li>
+    <li>platAdj-&gt;наблюдение</li>
+    <li>platAdj-&gt;биржа</li>
+    <li>platAdj-&gt;имперский</li>
+    <li>platAdj-&gt;солнечный</li>
+    <li>platAdj-&gt;звездный свет</li>
+    <li>platAdj-&gt;туманность</li>
+    <li>platAdj-&gt;горизонт</li>
+    <li>platAdj-&gt;затмение</li>
+    <li>platAdj-&gt;зенит</li>
+    <li>platAdj-&gt;аврора</li>
+    <li>platAdj-&gt;корона</li>
+    <li>platAdj-&gt;нова</li>
+    <li>platAdj-&gt;эон</li>
+    <li>platAdj-&gt;утешение</li>
+    <li>platAdj-&gt;люмина</li>
+    <li>platAdj-&gt;ион</li>
+    <li>platAdj-&gt;астралис</li>
+    <li>platAdj-&gt;эхо</li>
+    <li>platform(p=4)-&gt;спутник</li>
+    <li>platform-&gt;ретранслятор</li>
+    <li>platform-&gt;кольцо</li>
+    <li>platform-&gt;сатлинк</li>
+    <li>platform-&gt;страж</li>
+    <li>platform-&gt;прайм</li>
+    <li>platform-&gt;маяк</li>
+    <li>platform-&gt;бомбардир</li>
+    <li>PlaceOutlander(p=3)-&gt;[SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[SylE][SylE][place_end]</li>
+  </OpportunitySite_Satellite.questNameRules.rulesStrings>
+  <OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Вы обнаружили</OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>Срок задания истек: [resolvedQuestName]</OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>Данные сканирования показывают, что спутник поднялся на более высокую, недостижимую орбиту. Время, отведенное для задания «[resolvedQuestName]», истекло.</OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>
+</LanguageData>

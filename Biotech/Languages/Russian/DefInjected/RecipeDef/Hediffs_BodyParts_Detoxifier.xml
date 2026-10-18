@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InstallDetoxifierKidney.label>вживить детоксицирующую почку</InstallDetoxifierKidney.label>
+  <InstallDetoxifierKidney.description>Вживить детоксицирующую почку.</InstallDetoxifierKidney.description>
+  <InstallDetoxifierKidney.jobString>Вживляет детоксицирующую почку</InstallDetoxifierKidney.jobString>
+  <InstallDetoxifierLung.label>вживить детоксицирующее лёгкое</InstallDetoxifierLung.label>
+  <InstallDetoxifierLung.description>Вживить детоксицирующее лёгкое.</InstallDetoxifierLung.description>
+  <InstallDetoxifierLung.jobString>Вживляет детоксицирующее лёгкое</InstallDetoxifierLung.jobString>
+</LanguageData>

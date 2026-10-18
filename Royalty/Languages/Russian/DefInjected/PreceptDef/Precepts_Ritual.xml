@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimaTreeLinking.label>ритуал связывания</AnimaTreeLinking.label>
+  <AnimaTreeLinking.description>Один человек связывается с древом души. Связующий медитирует перед древом, формируя пси-связь. Другие собираются вокруг и смотрят, добавляя ритуалу силы.</AnimaTreeLinking.description>
+  <ThroneSpeech.label>тронная речь</ThroneSpeech.label>
+  <ThroneSpeech.description>Начинает тронную речь. {ORGANIZER_labelShort} отправится к своему трону и позовёт всех поселенцев, чтобы прослушать речь. Если всё пройдёт гладко, речь вдохновит слушателей, а оратор укрепит свой авторитет. Если нет — она принесёт только вред. Результат зависит от социальных навыков говорящего.</ThroneSpeech.description>
+</LanguageData>

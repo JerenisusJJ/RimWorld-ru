@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HungerMaker.label>муки голода</HungerMaker.label>
+  <HungerMaker.description>Личность этого оружия обожает еду и любит дразнить аппетит своего хозяина. Владелец оружия становится голодным на 50% быстрее обычного.</HungerMaker.description>
+  <Jealous.label>ревнивость</Jealous.label>
+  <Jealous.description>Личность этого оружия сердится и портит настроение своему хозяину, когда тот пользуется другим оружием.</Jealous.description>
+  <NeedKill.label>жажда крови</NeedKill.label>
+  <NeedKill.description>Личность этого оружия нашла своё предназначение в кровопролитии. Если она никого не убивает 20 дней, то начинает сердиться и выражать недовольство своему хозяину.</NeedKill.description>
+  <NeuralHeatRecoveryGain.label>нейроохлаждение</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>Личность этого оружия способна рассеивать нейроперегрев своего хозяина. Скорость рассеивания увеличивается на 0.15 единиц в секунду.</NeuralHeatRecoveryGain.description>
+  <NeverBond.label>свободолюбие</NeverBond.label>
+  <NeverBond.description>Личность этого оружия не формирует обычной связи с хозяином. Кто угодно может взять его в руки и пользоваться им.</NeverBond.description>
+  <NoPain.label>анальгезия</NoPain.label>
+  <NoPain.description>Личность этого оружия способна каким-то образом психически заглушать боль своего хозяина. Он перестаёт испытывать любые болевые ощущения.</NoPain.description>
+  <OnKill_PsyfocusGain.label>убойная концентрация</OnKill_PsyfocusGain.label>
+  <OnKill_PsyfocusGain.description>Личность этого оружия сосредоточена на убийстве. С каждым убитым врагом хозяин будет мгновенно получать 20% к пси-концентрации.</OnKill_PsyfocusGain.description>
+  <OnKill_ThoughtBad.label>скорбь убийцы</OnKill_ThoughtBad.label>
+  <OnKill_ThoughtBad.description>Личность этого оружия ненавидит убивать. Её скорбь по каждой убитой жертве будет передаваться хозяину, ухудшая его настроение на несколько дней.</OnKill_ThoughtBad.description>
+  <OnKill_ThoughtGood.label>торжество убийцы</OnKill_ThoughtGood.label>
+  <OnKill_ThoughtGood.description>Личность этого оружия обожает убивать. С каждым убитым врагом её радость будет передаваться хозяину, поднимая ему настроение на несколько дней.</OnKill_ThoughtGood.description>
+  <PsychicSensitivityDownMajor.label>пси-помутнение</PsychicSensitivityDownMajor.label>
+  <PsychicSensitivityDownMajor.description>Это оружие подавляет психочувствительность хозяина на 30% всякий раз, когда тот берёт его в руки.</PsychicSensitivityDownMajor.description>
+  <PsychicSensitivityDownMinor.label>пси-покой</PsychicSensitivityDownMinor.label>
+  <PsychicSensitivityDownMinor.description>Это оружие подавляет психочувствительность хозяина на 15% всякий раз, когда тот берёт его в руки.</PsychicSensitivityDownMinor.description>
+  <PsychicSensitivityUpMajor.label>пси-возбуждение</PsychicSensitivityUpMajor.label>
+  <PsychicSensitivityUpMajor.description>Это оружие усиливает психочувствительность хозяина на 40% всякий раз, когда тот берёт его в руки.</PsychicSensitivityUpMajor.description>
+  <PsychicSensitivityUpMinor.label>пси-стимуляция</PsychicSensitivityUpMinor.label>
+  <PsychicSensitivityUpMinor.description>Это оружие усиливает психочувствительность хозяина на 20% всякий раз, когда тот берёт его в руки.</PsychicSensitivityUpMinor.description>
+  <PsyfocusMeditationBonus.label>медитативность</PsyfocusMeditationBonus.label>
+  <PsyfocusMeditationBonus.description>Личность этого оружия любит медитацию и помогает своему хозяину концентрироваться во время этого процесса. Пока оно в руках, хозяин будет за день медитации восстанавливать пси-концентрацию на 10% больше обычного.</PsyfocusMeditationBonus.description>
+  <SpeedBoost.label>подвижность</SpeedBoost.label>
+  <SpeedBoost.description>Личность этого оружия любит движение. Она передаёт эту любовь своему хозяину, побуждая его двигаться на 15% быстрее, пока тот держит оружие в руках.</SpeedBoost.description>
+  <ThoughtCalm.label>спокойствие</ThoughtCalm.label>
+  <ThoughtCalm.description>Личность этого оружия расслаблена и уравновешенна. Она шепчет своему хозяину успокаивающие мысли, чем поднимает ему настроение.</ThoughtCalm.description>
+  <ThoughtKind.label>доброта</ThoughtKind.label>
+  <ThoughtKind.description>Личность этого оружия добра и отзывчива. Она всегда поддерживает своего хозяина, чем поднимает ему настроение.</ThoughtKind.description>
+  <ThoughtMuttering.label>полоумное бурчание</ThoughtMuttering.label>
+  <ThoughtMuttering.description>Личность этого оружия — нервная и неуравновешенная. Она будет бурчать своему хозяину всякие безумства и портить ему настроение.</ThoughtMuttering.description>
+  <ThoughtWailing.label>полоумный вой</ThoughtWailing.label>
+  <ThoughtWailing.description>Личность этого оружия очень тревожна и никак не может замолчать. Она будет портить хозяину настроение своим безумным нытьём.</ThoughtWailing.description>
+</LanguageData>

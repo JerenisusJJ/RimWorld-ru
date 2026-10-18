@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ConfirmGravEngineLaunch>Вы уверены, что хотите запустить?\n\nВаша текущая карта, а также всё, что не находится на надстройках гравикорабля, будет безвозвратно утеряно. Процесс запуска необратим, вы не сможете вернуться.</ConfirmGravEngineLaunch>
+  <GravEngineWarning>Предупреждение</GravEngineWarning>
+  <PeopleWillBeLeftBehind>Следующие люди останутся</PeopleWillBeLeftBehind>
+  <AnimalsWillBeLeftBehind>Следующие животные останутся</AnimalsWillBeLeftBehind>
+  <PawnsKidnappedOnGravship>Следующие люди и животные из другой фракции отправятся с вами. Это вызовет недовольство фракции, и они могут стать враждебными.</PawnsKidnappedOnGravship>
+  <BuildingsWillBeLeftBehind>Следующие постройки не полностью находятся на гравикорабле и останутся</BuildingsWillBeLeftBehind>
+  <SubstructureWillBeLeftBehind>Некоторые надстройки размещены неверно и останутся</SubstructureWillBeLeftBehind>
+  <DisconnectedSubstructure>Отключено от гравидвигателя</DisconnectedSubstructure>
+  <SubstructureUnderRockRoof>Под скальным потолком</SubstructureUnderRockRoof>
+  <SubstructureOutsideFootprint>Вне зоны действия</SubstructureOutsideFootprint>
+  <NamePlayerGravshipMessage>{0} возлагает большие надежды на ваш новый гравикорабль и хочет дать ему хорошее имя. Как вы назовете свой гравикорабль?</NamePlayerGravshipMessage>
+  <PlayerGravshipGainsName>Гравикорабль теперь называется «{0}».</PlayerGravshipGainsName>
+  <PlayerGravshipNameIsInvalid>Это имя недопустимо.</PlayerGravshipNameIsInvalid>
+  <ConfirmLandOnHostileFactionBase>{0} враждебны. Если вы приземлитесь здесь, они нападут на вас.</ConfirmLandOnHostileFactionBase>
+  <ConfirmLandOnNeutralFactionBase>{0} воспримут посадку здесь как агрессию. Они станут враждебными и нападут.</ConfirmLandOnNeutralFactionBase>
+  <ConfirmLand>Всё равно приземлиться здесь?</ConfirmLand>
+  <OrbitalWarning>Орбитальные локации опасны. Убедитесь, что вы готовы:\n — Оснастите поселенцев скафандрами или другой продвинутой броней.\n — Спланируйте путь обратно. Долгое пребывание на орбите крайне затруднительно.</OrbitalWarning>
+  <OrbitalWarning_Gravship>Подготовьте свой гравикорабль к орбите:\n- Используйте герметичные стены и двери.\n- Убедитесь, что помещения хорошо отапливаются и полностью перекрыты крышей.\n- Постройте кислородные насосы.</OrbitalWarning_Gravship>
+  <OrbitalWarning_Warning>Предупреждение</OrbitalWarning_Warning>
+  <OrbitalWarning_Vacuum>Некоторые внешние стены или двери негерметичны.</OrbitalWarning_Vacuum>
+  <OrbitalWarning_NoHeatSources>Нет работающих источников тепла.</OrbitalWarning_NoHeatSources>
+  <OrbitalWarning_FewHeatSources>Мало работающих источников тепла</OrbitalWarning_FewHeatSources>
+  <OrbitalWarning_NoOxygenPumps>Нет работающих кислородных насосов.</OrbitalWarning_NoOxygenPumps>
+  <OrbitalWarning_FewOxygenPumps>Мало работающих кислородных насосов</OrbitalWarning_FewOxygenPumps>
+  <ConfirmShuttleNotEnoughFuelToReturn>У челнока недостаточно топлива для возвращения с этого пункта назначения. Он может застрять.\n\nСейчас у вас {0} топлива, а для обратного полета требуется {1} топлива.\n\nВы уверены, что хотите продолжить?</ConfirmShuttleNotEnoughFuelToReturn>
+  <CaravanMovementSpeedShuttle>Караван не может двигаться из-за челнока</CaravanMovementSpeedShuttle>
+  <RefuelShuttleCount>Заправить {0} ед. химтоплива</RefuelShuttleCount>
+  <ZoomRangeGravshipCutscene>Диапазон увеличения (гравикорабль) {0}</ZoomRangeGravshipCutscene>
+  <GravshipForceVisitorsToLeaveLabel>Выпроводить гостей</GravshipForceVisitorsToLeaveLabel>
+  <GravshipForceVisitorsToLeaveTooltip>Дождаться, пока все гости покинут грав-корабль перед взлётом. Не затрагивает врагов, пленников и раненых гостей.</GravshipForceVisitorsToLeaveTooltip>
+  <GravshipBoardColonyAnimalsLabel>Погрузить животных колонии</GravshipBoardColonyAnimalsLabel>
+  <GravshipBoardColonyAnimalsTooltip>Приказать всем домашним животным колонии подняться на борт грав-корабля. Корабль не взлетит, пока они не зайдут.</GravshipBoardColonyAnimalsTooltip>
+  <GravshipBoardColonyMechsLabel>Погрузить механоидов колонии</GravshipBoardColonyMechsLabel>
+  <GravshipBoardColonyMechsTooltip>Приказать всем механоидам колонии подняться на борт грав-корабля. Корабль не взлетит, пока они не зайдут.</GravshipBoardColonyMechsTooltip>
+</LanguageData>

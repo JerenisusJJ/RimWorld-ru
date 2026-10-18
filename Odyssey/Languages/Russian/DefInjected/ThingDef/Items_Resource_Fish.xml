@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Fish_Bass.label>окунь</Fish_Bass.label>
+  <Fish_Bass.description>Обыкновенная пресноводная рыба, известная своей агрессивностью и мягким вкусом.</Fish_Bass.description>
+  <Fish_Bluefish.label>макрель</Fish_Bluefish.label>
+  <Fish_Bluefish.description>Обыкновенная рыба, которую легко узнать по раздвоенному хвосту. На некоторых урбмирах макрель массово разводят на фермах.</Fish_Bluefish.description>
+  <Fish_Catfish.label>сом</Fish_Catfish.label>
+  <Fish_Catfish.description>Крупная пресноводная рыба с характерными усами. Из-за больших размеров содержит больше питательных веществ, чем большинство других рыб.</Fish_Catfish.description>
+  <Fish_Cod.label>треска</Fish_Cod.label>
+  <Fish_Cod.description>Обитающая в холодных водах рыба, которую легко узнать по характерному усу на нижней челюсти.</Fish_Cod.description>
+  <Fish_Dogfish.label>катран</Fish_Dogfish.label>
+  <Fish_Dogfish.description>Мелкий вид акулы. Крупнее большинства других рыб и потому содержит больше питательных веществ. Однако некоторые жалуются на неприятное послевкусие.</Fish_Dogfish.description>
+  <Fish_Flounder.label>камбала</Fish_Flounder.label>
+  <Fish_Flounder.description>Крупная плоская рыба, часто встречающаяся в прибрежных водах. Питается на илистых участках морского дна.</Fish_Flounder.description>
+  <Fish_Frostfish.label>ледяная рыба</Fish_Frostfish.label>
+  <Fish_Frostfish.description>Крупная биоинженерная рыба, созданная для перевозки на большие расстояния. Сохраняет превосходный вкус даже после многолетней заморозки. Благодаря большим размерам дает больше питательных веществ, чем большинство других рыб.</Fish_Frostfish.description>
+  <Fish_Guppy.label>гуппи</Fish_Guppy.label>
+  <Fish_Guppy.description>Маленькая яркая пресноводная рыбка. Хотя гуппи съедобны, их редко употребляют в пищу из-за небольшого размера и низкой питательной ценности. Обычно их продают ради яркой чешуи.</Fish_Guppy.description>
+  <Fish_Marlin.label>марлин</Fish_Marlin.label>
+  <Fish_Marlin.description>Крупная океаническая рыба с копьеобразным рылом, обитающая преимущественно в умеренных и тропических водах. Благодаря большим размерам марлин более питательный, чем большинство других рыб.</Fish_Marlin.description>
+  <Fish_Piranha.label>пиранья</Fish_Piranha.label>
+  <Fish_Piranha.description>Пресноводная рыба с острыми зубами и мощными челюстями. Несмотря на свою агрессивность, представляет для людей небольшую опасность. Пираний часто покупают охотники за трофеями, поэтому они могут стоить довольно дорого.</Fish_Piranha.description>
+  <Fish_Salmon.label>лосось</Fish_Salmon.label>
+  <Fish_Salmon.description>Рыба, известная своим насыщенным розовым мясом. Лосось проводит часть жизни и в пресной, и в соленой воде.</Fish_Salmon.description>
+  <Fish_Tilapia.label>тилапия</Fish_Tilapia.label>
+  <Fish_Tilapia.description>Неприхотливая пресноводная рыба, часто встречается в тёплых реках и озерах.</Fish_Tilapia.description>
+  <Fish_Toxfish.label>токсирыба</Fish_Toxfish.label>
+  <Fish_Toxfish.description>Рыба, мутировавшая под воздействием загрязненной воды. При употреблении в сыром виде высока вероятность пищевого отравления. Безопасно использовать только в приготовленных блюдах, но содержит мало питательных веществ.</Fish_Toxfish.description>
+  <Fish_Tuna.label>тунец</Fish_Tuna.label>
+  <Fish_Tuna.description>Крупная мигрирующая рыба, обитающая в теплых морях. Благодаря своим размерам содержит больше питательных веществ, чем большинство других рыб.</Fish_Tuna.description>
+</LanguageData>

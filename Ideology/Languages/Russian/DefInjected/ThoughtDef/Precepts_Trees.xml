@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GauranlenConnectionDesired.stages.Gauranlen_connection.label>связь с Гауранлен</GauranlenConnectionDesired.stages.Gauranlen_connection.label>
+  <GauranlenConnectionDesired.stages.Gauranlen_connection.description>Я {PAWN_gender ? рад : рада}, что {PAWN_gender ? связан : связана} с древом Гауранлен.</GauranlenConnectionDesired.stages.Gauranlen_connection.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>хочет связи с Гауранлен</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>Без связи с древом Гауранлен не чувствую слияния с природой.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>хочет связи с Гауранлен</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>Без связи с древом Гауранлен не чувствую слияния с природой.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>хочет связи с Гауранлен</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>Без связи с древом Гауранлен не чувствую слияния с природой.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>хочет связи с Гауранлен</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>Без связи с древом Гауранлен не чувствую слияния с природой.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>хочет связи с Гауранлен</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>Без связи с древом Гауранлен не чувствую слияния с природой.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>
+  <TreeDensityReduced.stages.healthy_trees.label>здоровые деревья</TreeDensityReduced.stages.healthy_trees.label>
+  <TreeDensityReduced.stages.healthy_trees.description>За последний квартал мы почти не губили деревья. Гармония с деревьями — основа нормальной жизни.</TreeDensityReduced.stages.healthy_trees.description>
+  <TreeDensityReduced.stages.trees_disturbed.label>деревья потревожены</TreeDensityReduced.stages.trees_disturbed.label>
+  <TreeDensityReduced.stages.trees_disturbed.description>За последний квартал мы погубили несколько деревьев. Наверняка по-другому было никак, но это всё равно тревожно.</TreeDensityReduced.stages.trees_disturbed.description>
+  <TreeDensityReduced.stages.trees_defaced.label>деревья пострадали</TreeDensityReduced.stages.trees_defaced.label>
+  <TreeDensityReduced.stages.trees_defaced.description>За последний квартал мы погубили много деревьев. Вряд ли это было необходимо.</TreeDensityReduced.stages.trees_defaced.description>
+  <TreeDensityReduced.stages.trees_damaged.label>деревья повреждены</TreeDensityReduced.stages.trees_damaged.label>
+  <TreeDensityReduced.stages.trees_damaged.description>За последний квартал мы погубили очень много деревьев. Такое надругательство точно не было необходимо.</TreeDensityReduced.stages.trees_damaged.description>
+  <TreeDensityReduced.stages.trees_harmed.label>деревья испорчены</TreeDensityReduced.stages.trees_harmed.label>
+  <TreeDensityReduced.stages.trees_harmed.description>За последний квартал мы погубили слишком много деревьев. Это никуда не годится.</TreeDensityReduced.stages.trees_harmed.description>
+  <TreeDensityReduced.stages.trees_defiled.label>деревья загублены</TreeDensityReduced.stages.trees_defiled.label>
+  <TreeDensityReduced.stages.trees_defiled.description>За последний квартал мы погубили непозволительно много деревьев. Тяжёлая вина лежит на всех нас.</TreeDensityReduced.stages.trees_defiled.description>
+  <TreeDensityReduced.stages.trees_wrecked.label>деревья разорены</TreeDensityReduced.stages.trees_wrecked.label>
+  <TreeDensityReduced.stages.trees_wrecked.description>За последний квартал мы погубили огромное количество деревьев. Даже сейчас я слышу их предсмертные вопли.</TreeDensityReduced.stages.trees_wrecked.description>
+  <TreeDensityReduced.stages.trees_ravaged.label>деревья уничтожены</TreeDensityReduced.stages.trees_ravaged.label>
+  <TreeDensityReduced.stages.trees_ravaged.description>За последний квартал мы погубили ужасающее количество деревьев. Мы — чёрное пятно на нашей вселенной.</TreeDensityReduced.stages.trees_ravaged.description>
+  <TreesDesired.stages.amazing_trees.label>удивительные деревья</TreesDesired.stages.amazing_trees.label>
+  <TreesDesired.stages.amazing_trees.description>Рядом со мной растут несколько прекрасных массивных деревьев. Великолепие природы поражает!</TreesDesired.stages.amazing_trees.description>
+  <TreesDesired.stages.amazing_tree-0.label>удивительное дерево</TreesDesired.stages.amazing_tree-0.label>
+  <TreesDesired.stages.amazing_tree-0.description>Я только что {PAWN_gender ? видел : видела} прекрасное массивное дерево — воплощение благородства!</TreesDesired.stages.amazing_tree-0.description>
+  <TreesDesired.stages.remarkable_trees.label>замечательные деревья</TreesDesired.stages.remarkable_trees.label>
+  <TreesDesired.stages.remarkable_trees.description>Я {PAWN_gender ? окружён : окружена} пышным лесом.</TreesDesired.stages.remarkable_trees.description>
+  <TreesDesired.stages.amazing_tree-1.label>удивительное дерево</TreesDesired.stages.amazing_tree-1.label>
+  <TreesDesired.stages.amazing_tree-1.description>Я недавно {PAWN_gender ? видел : видела} прекрасное массивное дерево.</TreesDesired.stages.amazing_tree-1.description>
+  <TreesDesired.stages.rich_forest.label>густой лес</TreesDesired.stages.rich_forest.label>
+  <TreesDesired.stages.rich_forest.description>Я недавно {PAWN_gender ? был : была} в густом пышном лесу.</TreesDesired.stages.rich_forest.description>
+  <TreesDesired.stages.full_trees.label>зрелые деревья</TreesDesired.stages.full_trees.label>
+  <TreesDesired.stages.full_trees.description>Я недавно {PAWN_gender ? гулял : гуляла} среди зрелых деревьев.</TreesDesired.stages.full_trees.description>
+  <TreesDesired.stages.mixed_trees.label>разные деревья</TreesDesired.stages.mixed_trees.label>
+  <TreesDesired.stages.mixed_trees.description>Я недавно {PAWN_gender ? гулял : гуляла} среди самых разных деревьев.</TreesDesired.stages.mixed_trees.description>
+  <TreesDesired.stages.full_tree.label>зрелое дерево</TreesDesired.stages.full_tree.label>
+  <TreesDesired.stages.full_tree.description>Я недавно {PAWN_gender ? видел : видела} зрелое дерево.</TreesDesired.stages.full_tree.description>
+  <TreesDesired.stages.mini_trees.label>миниатюрные деревья</TreesDesired.stages.mini_trees.label>
+  <TreesDesired.stages.mini_trees.description>Я недавно {PAWN_gender ? был : была} среди множества миниатюрных деревьев.</TreesDesired.stages.mini_trees.description>
+  <TreesDesired.stages.mini_tree.label>миниатюрное дерево</TreesDesired.stages.mini_tree.label>
+  <TreesDesired.stages.mini_tree.description>Мне недавно удалось насладиться компанией миниатюрного дерева.</TreesDesired.stages.mini_tree.description>
+  <TreesDesired.stages.no_tree-0.label>нет деревьев</TreesDesired.stages.no_tree-0.label>
+  <TreesDesired.stages.no_tree-0.description>Я уже некоторое время не {PAWN_gender ? видел : видела} ни одного дерева.</TreesDesired.stages.no_tree-0.description>
+  <TreesDesired.stages.no_tree-1.label>нет деревьев</TreesDesired.stages.no_tree-1.label>
+  <TreesDesired.stages.no_tree-1.description>Я скучаю по деревьям.</TreesDesired.stages.no_tree-1.description>
+  <TreesDesired.stages.trees_missed-0.label>тоска по деревьям</TreesDesired.stages.trees_missed-0.label>
+  <TreesDesired.stages.trees_missed-0.description>Я уже некоторое время не {PAWN_gender ? видел : видела} деревьев.</TreesDesired.stages.trees_missed-0.description>
+  <TreesDesired.stages.trees_missed-1.label>тоска по деревьям</TreesDesired.stages.trees_missed-1.label>
+  <TreesDesired.stages.trees_missed-1.description>Я уже очень давно не {PAWN_gender ? видел : видела} деревьев.</TreesDesired.stages.trees_missed-1.description>
+  <TreesDesired.stages.trees_sorely_missed.label>горькая тоска по деревьям</TreesDesired.stages.trees_sorely_missed.label>
+  <TreesDesired.stages.trees_sorely_missed.description>Я уже слишком давно не {PAWN_gender ? видел : видела} ни единого дерева!</TreesDesired.stages.trees_sorely_missed.description>
+</LanguageData>

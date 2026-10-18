@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AgonyPulse.label>волна агонии</AgonyPulse.label>
+  <AgonyPulse.description>Сильная психическая боль, вызванная шоком от пережитых страданий. Она невыносима, но относительно быстро проходит.</AgonyPulse.description>
+  <AgonyPulse.stages.acute.label>острая</AgonyPulse.stages.acute.label>
+  <AgonyPulse.stages.lingering.label>ноющая</AgonyPulse.stages.lingering.label>
+  <AwokenHypnosis.label>гипноз мертвеца</AwokenHypnosis.label>
+  <AwokenHypnosis.description>Этого человека загипнотизировал странный мертвец. Жертва впала в абсолютный транс, но, когда мертвец отведёт взгляд, действие гипноза закончится.</AwokenHypnosis.description>
+  <BioferriteExtracted.label>извлечение биоферрита</BioferriteExtracted.label>
+  <BioferriteExtracted.description>Биоферрит был хирургически удалён из этой твари. Через несколько дней он регенерирует.</BioferriteExtracted.description>
+  <BlissLobotomy.label>блаженство от лоботомии</BlissLobotomy.label>
+  <BlissLobotomy.description>Проводите поселенцам лоботомию. Лоботомированные люди становятся счастливее, но не способны на интеллектуальный и квалифицированный труд.</BlissLobotomy.description>
+  <BloodRage.label>кровавая ярость</BloodRage.label>
+  <BloodRage.description>Этот человек попал под кровавый дождь — капли психоактивной жидкости, вызывающие ярость. Тем дольше человек стоит под дождём, тем сильнее она становится, что может закончиться сильнейшим срывом. На некоторых кровавый дождь воздействует быстрее — это зависит от черт характера, психочувствительности и прочих условий.</BloodRage.description>
+  <BloodRage.stages.very_mild.label>незначительная</BloodRage.stages.very_mild.label>
+  <BloodRage.stages.mild.label>лёгкая</BloodRage.stages.mild.label>
+  <BloodRage.stages.moderate.label>умеренная</BloodRage.stages.moderate.label>
+  <BloodRage.stages.severe.label>серьёзная</BloodRage.stages.severe.label>
+  <BloodRage.stages.extreme-0.label>сильнейшая</BloodRage.stages.extreme-0.label>
+  <BloodRage.stages.extreme-1.label>сильнейшая</BloodRage.stages.extreme-1.label>
+  <BrainwipeComa.label>кома после зачистки памяти</BrainwipeComa.label>
+  <BrainwipeComa.description>Этому человеку стёрли память. Он не выдержал такого тяжёлого испытания и впал в кому.</BrainwipeComa.description>
+  <CorpseTorment.label>месть мертвеца</CorpseTorment.label>
+  <CorpseTorment.description>У этого человека тесная пси-связь с мертвецом с идентичной внешностью. Несчастный чем-то разозлил мёртвого двойника, отчего теперь лежит без сознания.</CorpseTorment.description>
+  <CrumbledMind.label>мёртвый разум</CrumbledMind.label>
+  <CrumbledMind.description>Этот человек потерял большую часть когнитивных способностей и не может выполнять сложную работу. Теперь это лишь оболочка прежней личности.\n\nСостояние неизлечимо.</CrumbledMind.description>
+  <CrumblingMind.label>отмирание разума</CrumblingMind.label>
+  <CrumblingMind.description>У этого человека быстро слабеет рассудок. Спустя несколько дней он не сможет выполнять большинство видов работ. Развитые технологии, например сыворотка исцеления, помогут обратить процесс, но времени остаётся очень мало.</CrumblingMind.description>
+  <CrumblingMind.comps.HediffComp_ReplaceHediff.message>{PAWN_nameDef} {PAWN_gender ? деградировал : деградировала} навсегда.</CrumblingMind.comps.HediffComp_ReplaceHediff.message>
+  <CrumblingMind.stages.mild.label>лёгкое</CrumblingMind.stages.mild.label>
+  <CrumblingMind.stages.moderate.label>умеренное</CrumblingMind.stages.moderate.label>
+  <CrumblingMind.stages.extreme.label>сильнейшее</CrumblingMind.stages.extreme.label>
+  <CrumblingMindUndiagnosedCreepjoiner.label>отмирание разума</CrumblingMindUndiagnosedCreepjoiner.label>
+  <CrumblingMindUndiagnosedCreepjoiner.description>У этого человека заметны первые признаки состояния, ведущего к тяжёлой умственной деградации. Её симптомы начнут проявляться через несколько дней.</CrumblingMindUndiagnosedCreepjoiner.description>
+  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>У {PAWN_nameDef} заметны первые признаки состояния, ведущего к тяжёлой умственной деградации. {SURGEON_nameDef} пока не знает, чем вызван недуг, но очень скоро {PAWN_gender ? пациенту : пациентке} станет хуже.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} жалуется на пульсирующую головную боль и умоляет о помощи. {PAWN_pronoun} не может ясно мыслить и утрачивает когнитивные способности. {PAWN_nameDef} утверждает, что {PAWN_gender ? видел : видела} будущее. За несколько дней {PAWN_possessive} разум полностью деградирует, и {PAWN_pronoun} не сможет выполнять большинство заданий.\n\nОбратить процесс можно с помощью продвинутых технологий, например сыворотки исцеления, но времени остаётся очень мало.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>
+  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>отмирание разума: {PAWN_nameDef}</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>
+  <CrumblingMindUndiagnosedCreepjoiner.stages.diagnosed.label>диагностировано</CrumblingMindUndiagnosedCreepjoiner.stages.diagnosed.label>
+  <CrumblingMindUndiagnosedDuplication.label>отмирание разума</CrumblingMindUndiagnosedDuplication.label>
+  <CrumblingMindUndiagnosedDuplication.description>У этого человека заметны первые признаки состояния, ведущего к тяжёлой умственной деградации. Её симптомы начнут проявляться через несколько дней.</CrumblingMindUndiagnosedDuplication.description>
+  <CrumblingMindUndiagnosedDuplication.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>У {PAWN_nameDef} заметны первые признаки состояния, ведущего к тяжёлой умственной деградации. {SURGEON_nameDef} пока не знает, чем вызван недуг, но очень скоро {PAWN_gender ? пациенту : пациентке} станет хуже.</CrumblingMindUndiagnosedDuplication.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} жалуется на пульсирующую головную боль. Похоже, что {PAWN_pronoun} не может ясно мыслить и быстро утрачивает когнитивные способности. Во время дупликации что-то пошло не так.\n\nРазвитые технологии, например сыворотка исцеления, пока могут обратить процесс, но времени остаётся очень мало.</CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>
+  <CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterLabel>отмирание разума: {PAWN_nameDef}</CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterLabel>
+  <CrumblingMindUndiagnosedDuplication.stages.diagnosed.label>диагностировано</CrumblingMindUndiagnosedDuplication.stages.diagnosed.label>
+  <CubeComa.label>кубическая кома</CubeComa.label>
+  <CubeComa.description>Этот человек привязался к золотистому кубу, но лишился его. Разрыв довёл несчастного до комы.</CubeComa.description>
+  <CubeInterest.label>интерес к кубу</CubeInterest.label>
+  <CubeInterest.description>Этого человека привлёк золотистый куб. При долгом пребывании вдали от куба он начнёт страдать от негативных эффектов.</CubeInterest.description>
+  <CubeInterest.reportStringOverrides.0.reportString>блуждает и думает о кубе</CubeInterest.reportStringOverrides.0.reportString>
+  <CubeInterest.reportStringOverrides.1.reportString>блуждает и думает о кубе</CubeInterest.reportStringOverrides.1.reportString>
+  <CubeInterest.reportStringOverrides.2.reportString>спит и видит во сне куб</CubeInterest.reportStringOverrides.2.reportString>
+  <CubeInterest.reportStringOverrides.3.reportString>медитирует на куб</CubeInterest.reportStringOverrides.3.reportString>
+  <CubeInterest.reportStringOverrides.4.reportString>молит о кубе</CubeInterest.reportStringOverrides.4.reportString>
+  <CubeInterest.reportStringOverrides.5.reportString>молит о кубе</CubeInterest.reportStringOverrides.5.reportString>
+  <CubeInterest.stages.curious.label>любопытство</CubeInterest.stages.curious.label>
+  <CubeInterest.stages.fascinated.label>влечение</CubeInterest.stages.fascinated.label>
+  <CubeInterest.stages.obsessed.label>одержимость</CubeInterest.stages.obsessed.label>
+  <CubeRage.label>кубический гнев</CubeRage.label>
+  <CubeRage.description>Это человек расстроен, что его скульптуру куба разрушили. Если так будет продолжаться, он может перейти к насилию.</CubeRage.description>
+  <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>{PAWN_nameDef} больше не может контролировать свой гнев. Скульптуры куба бесценны, а их разрушили далеко не одну.\n\n{PAWN_nameDef} впадает в слепую ярость!</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>
+  <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>Кубический гнев: {PAWN_nameDef}</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>
+  <CubeWithdrawal.label>кубическая ломка</CubeWithdrawal.label>
+  <CubeWithdrawal.description>Этот человек одержим поисками золотистого куба. Его кожа ужасно зудит, а в голове крутятся мысли о том, как бы поближе подобраться к вожделенному. Если долго не играть с кубом, то симптомы усилятся.</CubeWithdrawal.description>
+  <CubeWithdrawal.stages.inital.label>начальная</CubeWithdrawal.stages.inital.label>
+  <CubeWithdrawal.stages.moderate.label>умеренная</CubeWithdrawal.stages.moderate.label>
+  <CubeWithdrawal.stages.extreme.label>сильнейшая</CubeWithdrawal.stages.extreme.label>
+  <DarknessExposure.label>пребывание в темноте</DarknessExposure.label>
+  <DarknessExposure.description>Этот человек оказался в неестественной темноте. Если остаться там надолго, её существа и излучения могут причинить ему вред.</DarknessExposure.description>
+  <DarkPsychicShock.label>тёмный пси-шок</DarkPsychicShock.label>
+  <DarkPsychicShock.description>Часть нейронной системы этого человека подавила тёмная пси-энергия. Это привело к шоку и временной коме.</DarkPsychicShock.description>
+  <DeathRefusal.label>лекарство от смерти</DeathRefusal.label>
+  <DeathRefusal.description>Проводите псионический ритуал, дарующий цели лекарство от смерти — то есть возможность один раз воскреснуть после смерти.</DeathRefusal.description>
+  <DeathRefusalCreepJoiner.label>лекарство от смерти</DeathRefusalCreepJoiner.label>
+  <DeathRefusalCreepJoiner.description>Этому человеку ввели семя наноразмерных архотехнологичных механизмов, способных возвращать к жизни. После смерти хозяина архиты сохранят его разум и, когда потребуется, восстановят его тело, заменяя утерянные органы и заживляя раны. Этот процесс несовершенен и может оставить шрамы или другие проблемы со здоровьем. Количество воскрешений ограничено.</DeathRefusalCreepJoiner.description>
+  <DeathRefusalSickness.label>недомогание из-за лекарства от смерти</DeathRefusalSickness.label>
+  <DeathRefusalSickness.description>Этот человек восстал из мёртвых и испытывает побочные эффекты лекарства от смерти.</DeathRefusalSickness.description>
+  <DisruptorFlash.label>вспышка дизраптора</DisruptorFlash.label>
+  <DisruptorFlash.description>Это существо оглушила псионическая волна от ракеты-дизраптора.</DisruptorFlash.description>
+  <DuplicateSickness.label>недомогание из-за дупликации</DuplicateSickness.label>
+  <DuplicateSickness.description>Пси-помехи между этим человеком и его двойником провоцируют медленную умственную деградацию. Пока живы его клоны, состояние будет только ухудшаться, но не приведёт к смерти.</DuplicateSickness.description>
+  <DuplicateSickness.comps.HediffComp_MessageAboveSeverity.message>{0_nameDef} недомогает из-за дупликации.</DuplicateSickness.comps.HediffComp_MessageAboveSeverity.message>
+  <DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} недомогает из-за дупликации. Пси-помехи между этим человеком и {PAWN_possessive} двойником провоцируют умственную деградацию. Пока живы {PAWN_possessive} клоны, состояние будет только ухудшаться, но не приведёт к смерти.</DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <DuplicateSickness.stages.initial-0.label>начальное</DuplicateSickness.stages.initial-0.label>
+  <DuplicateSickness.stages.initial-1.label>начальное</DuplicateSickness.stages.initial-1.label>
+  <DuplicateSickness.stages.moderate.label>умеренное</DuplicateSickness.stages.moderate.label>
+  <DuplicateSickness.stages.extreme.label>сильное</DuplicateSickness.stages.extreme.label>
+  <DuplicateSickness.stages.debilitating.label>очень тяжёлое</DuplicateSickness.stages.debilitating.label>
+  <FrenzyField.label>стимулирующее поле</FrenzyField.label>
+  <FrenzyField.description>Этот человек находится под влиянием пси-поля, наполняющего его нервной энергией. Такая ажитация заставляет быстрее работать и руками, и ногами, однако нервный срыв в таком случае будет особенно бурным.</FrenzyField.description>
+  <FrenzyField.stages.very_mild.label>незначительное</FrenzyField.stages.very_mild.label>
+  <FrenzyField.stages.mild.label>лёгкое</FrenzyField.stages.mild.label>
+  <FrenzyField.stages.moderate.label>умеренное</FrenzyField.stages.moderate.label>
+  <FrenzyField.stages.extreme.label>сильнейшее</FrenzyField.stages.extreme.label>
+  <HoraxianInvisibility.label>тёмная пси-невидимость</HoraxianInvisibility.label>
+  <HoraxianInvisibility.description>С помощью пси-воздействия это существо обманывает восприятие ближайших людей, животных и машин, становясь для них невидимым. Сигнал, который получает глаз при виде этого существа, не обрабатывается мозгом.</HoraxianInvisibility.description>
+  <Inhumanized.label>обесчеловечивание</Inhumanized.label>
+  <Inhumanized.description>Разум этого человека заполнила пустота. Они выместила привычные человеческие ценности — семью, дружбу и любовь. Теперь он смотрит на окружающую реальность как из-за пыльного стекла и подчиняется пси-воздействию тёмного сверхразума.</Inhumanized.description>
+  <JuggernautSerum.label>сыворотка сокрушительной силы</JuggernautSerum.label>
+  <JuggernautSerum.description>Шприц с непрозрачной желтоватой жидкостью, которая увеличивает силу и скорость, а также позволяет быстрее восстанавливаться после травм. Вводится внутримышечно и ускоряет метаболические процессы. При этом нестабильность вещества плохо сказывается на психике — у пациента появляются тревожные мысли и резко портится настроение.</JuggernautSerum.description>
+  <LightExposure.label>пребывание на свету</LightExposure.label>
+  <LightExposure.description>Это создание страдает даже от тусклого света. Оно замедляется и бьёт слабее.</LightExposure.description>
+  <LightExposure.stages.initial.label>начальное</LightExposure.stages.initial.label>
+  <LightExposure.stages.moderate.label>умеренное</LightExposure.stages.moderate.label>
+  <LightExposure.stages.serious.label>опасное</LightExposure.stages.serious.label>
+  <LightExposure.stages.extreme.label>смертельное</LightExposure.stages.extreme.label>
+  <Metalblood.label>железная кровь</Metalblood.label>
+  <Metalblood.description>В кровоток этого существа попала железная кровь. Она заставляет плоть мгновенно твердеть, что снижает получаемый урон. Но, так как в основе сыворотки биоферрит, поселенец становится крайне уязвимым к огню.</Metalblood.description>
+  <MetalhorrorImplant.label>вживление металлической жути</MetalhorrorImplant.label>
+  <MetalhorrorImplant.description>Зародыш металлической жути. Появившись из крошечного архометаллического семени, жуть быстро возьмёт под контроль нервную систему, будет расти и распространяться по всему телу хозяина и только потом проявит себя. Проведите хирургическую диагностику, чтобы выгнать металлическую жуть из тела хозяина, и будьте готовы сражаться.</MetalhorrorImplant.description>
+  <MetalhorrorImplant.possiblePathways.0.explanation>Вживлена перед прибытием в ваше поселение</MetalhorrorImplant.possiblePathways.0.explanation>
+  <MetalhorrorImplant.possiblePathways.1.explanation>Вживлена при атаке: {SOURCEKIND_label}</MetalhorrorImplant.possiblePathways.1.explanation>
+  <MetalhorrorImplant.possiblePathways.2.explanation>Вживлена ревенантом во время гипноза</MetalhorrorImplant.possiblePathways.2.explanation>
+  <MetalhorrorSpeedBoost.label>нечеловеческая скорость</MetalhorrorSpeedBoost.label>
+  <MetalhorrorSpeedBoost.description>Ускоренные движения за счёт неестественной архотехнологичной энергии. Её прилив длится совсем недолго.</MetalhorrorSpeedBoost.description>
+  <MindNumbSerum.label>сыворотка притупления чувств</MindNumbSerum.label>
+  <MindNumbSerum.description>Шприц с прозрачной вязкой жидкостью. Впрыскивается в ствол мозга и притупляет его, после чего поселенец не способен ощущать сильные эмоции. Какое-то время у него не будет ни срывов, ни воодушевления.</MindNumbSerum.description>
+  <NeurosisPulse.label>волна невроза</NeurosisPulse.label>
+  <NeurosisPulse.description>Проводите псионический ритуал, заставляющий всех в большой области работать быстрее. При этом люди под действием ритуала становятся раздражительнее.</NeurosisPulse.description>
+  <PainField.label>болевое поле</PainField.label>
+  <PainField.description>Жгучая боль, вызванная близким соседством с психоактивным феноменом. Чем активнее феномен — тем сильнее эффект.</PainField.description>
+  <PleasurePulse.label>волна удовольствия</PleasurePulse.label>
+  <PleasurePulse.description>Проводите псионический ритуал, который делает жителей региона счастливее. Осчастливленные люди не спешат работать.</PleasurePulse.description>
+  <PsychicallyDead.label>психическая смерть</PsychicallyDead.label>
+  <PsychicallyDead.description>Псионическая сущность этого человека поглощена и выжжена. Теперь пси-феномены на него не действуют.</PsychicallyDead.description>
+  <PsychicTrance.label>психотранс</PsychicTrance.label>
+  <PsychicTrance.description>Этот человек находится под воздействием поля, исходящего от удалённого архотека. Это выливается в состояние, напоминающее транс. Неестественное влияние также удовлетворяет потребность во сне и еде.</PsychicTrance.description>
+  <Psychophage.label>психофагия</Psychophage.label>
+  <Psychophage.description>Этот человек поглотил псионическую сущность другого. Его психочувствительность временно повышена.</Psychophage.description>
+  <RageSpeed.label>яростная скорость</RageSpeed.label>
+  <RageSpeed.description>Это существо пришло в ярость от полученных ран и теперь двигается быстрее.</RageSpeed.description>
+  <Regeneration.label>архо-регенерация</Regeneration.label>
+  <Regeneration.description>Благодаря удалённому архо-двигателю у этого существа невероятно быстрая скорость регенерации. Оно быстро излечивается от любых ранений.</Regeneration.description>
+  <Regeneration.stages.unnatural.label>неестественная</Regeneration.stages.unnatural.label>
+  <Regeneration.stages.impossible.label>невероятная</Regeneration.stages.impossible.label>
+  <RevenantHypnosis.label>гипноз ревенанта</RevenantHypnosis.label>
+  <RevenantHypnosis.description>Этого человека загипнотизировал ревенант, и теперь они связаны. Несчастный смотрит на мир застывшим взглядом, окунаясь в одному ему видимые кошмары, и бормочет про ужасных чудовищ.\n\nЗагипнотизировав жертву, ревенант впадает в спячку на одной с ней карте.\n\nУбейте ревенанта, чтобы прекратить действие гипноза. Невидимого ревенанта можно обнаружить с помощью ракет-дизрапторов, взрывов, ЭМИ, пожарной пены, а также огня.</RevenantHypnosis.description>
+  <ShardHolder.label>страж осколков</ShardHolder.label>
+  <ShardHolder.description>При поражении это существо роняет осколки. Этот текст видно только в режиме разработчика.</ShardHolder.description>
+  <SleepSuppression.label>подавление сонливости</SleepSuppression.label>
+  <SleepSuppression.description>Клетки мозга этого человека подверглись влиянию пси-импульсов, которые выводят токсины, вызывающие усталость. Потребность во сне снижена.</SleepSuppression.description>
+  <SleepSuppression.stages.very_mild.label>незначительное</SleepSuppression.stages.very_mild.label>
+  <SleepSuppression.stages.mild.label>лёгкое</SleepSuppression.stages.mild.label>
+  <SleepSuppression.stages.moderate.label>умеренное</SleepSuppression.stages.moderate.label>
+  <SleepSuppression.stages.extreme.label>сильнейшее</SleepSuppression.stages.extreme.label>
+  <VoidShock.label>шок от пустоты</VoidShock.label>
+  <VoidShock.description>Этот человек увидел пустоту. Его потрясённое сознание переполняют видения о бесконечной бурлящей тьме, которая простирается между всеми гранями мироздания, всеми искажёнными от криков лицами и уходит куда-то в бездну.</VoidShock.description>
+  <Voidsight.label>взгляд в пустоту</Voidsight.label>
+  <Voidsight.description>Это человек принял вещество, усиливающее восприятие тёмных пси-феноменов, и будет получать больше знаний при изучении таких явлений и существ. Препарат также повышает психочувствительность.</Voidsight.description>
+  <VoidTouched.label>касание пустоты</VoidTouched.label>
+  <VoidTouched.description>Этот человек узрел глубины пустоты и вкусил её сущность. Она и сейчас внутри него, управляет его действиями и искажает плоть. Волосы его истончились и побелели. Ему больше не нужно есть и спать. Теперь его питает пустота.</VoidTouched.description>
+</LanguageData>

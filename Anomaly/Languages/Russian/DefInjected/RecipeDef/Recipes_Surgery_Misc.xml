@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BlissLobotomy.label>блаженство от лоботомии</BlissLobotomy.label>
+  <BlissLobotomy.description>Удаление части мозга делает человека неспособным к интеллектуальному и квалифицированному труду, но при этом он пребывает в полном блаженстве. Лоботомированные люди медленнее учатся, а также менее склонны к побегам и восстаниям.</BlissLobotomy.description>
+  <BlissLobotomy.jobString>TargetA переносит лоботомию.</BlissLobotomy.jobString>
+  <GhoulInfusion.label>превращение в упыря</GhoulInfusion.label>
+  <GhoulInfusion.description>Проводите хирургические операции по вживлению архо-осколков живым людям, превращая их в кошмарных упырей. Упыри — мощные бойцы ближнего боя, но не могут работать. Если не давать им достаточно сырого мяса, они потеряют рассудок.</GhoulInfusion.description>
+  <GhoulInfusion.jobString>TargetA превращается в упыря.</GhoulInfusion.jobString>
+  <SurgicalInspection.label>хирургическая диагностика</SurgicalInspection.label>
+  <SurgicalInspection.description>Поиск отклонений в живом теле с помощью инвазивной хирургии.</SurgicalInspection.description>
+  <SurgicalInspection.jobString>TargetA подвергается хирургической диагностике.</SurgicalInspection.jobString>
+</LanguageData>

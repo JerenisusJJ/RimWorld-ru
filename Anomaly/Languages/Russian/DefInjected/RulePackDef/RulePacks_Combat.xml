@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Combat_RangedFlamethrower.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] [firedat] ([RECIPIENT_definite]) из своего оружия ([WEAPON_label]).</li>
+    <li>r_logentry-&gt;[INITIATOR_definite] [fired] ([RECIPIENT_definite]) из своего оружия ([WEAPON_label]).</li>
+    <li>r_logentry-&gt;[INITIATOR_definite] [firedat] ([RECIPIENT_definite]).</li>
+    <li>r_logentry(RECIPIENT_missing==True)-&gt;[INITIATOR_definite] [fired] из своего оружия ([WEAPON_label]).</li>
+    <li>fired(p=2)-&gt;[verb_fired]</li>
+    <li>fired-&gt;[skillAdv] [verb_fired]</li>
+    <li>firedat-&gt;стреляет по цели</li>
+    <li>firedat-&gt;стреляет [skillAdv] по цели</li>
+    <li>firedat(p=0.5)-&gt;прицеливается и стреляет в цель</li>
+    <li>firedat(p=0.5)-&gt;[skillAdv] прицеливается и стреляет в цель</li>
+    <li>firedat(p=0.3)-&gt;открывает огонь по цели</li>
+    <li>verb_fired-&gt;стреляет</li>
+  </Combat_RangedFlamethrower.rulePack.rulesStrings>
+</LanguageData>

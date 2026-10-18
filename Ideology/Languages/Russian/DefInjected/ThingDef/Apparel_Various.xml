@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apparel_Blindfold.label>повязка на глаза</Apparel_Blindfold.label>
+  <Apparel_Blindfold.description>Длинная полоса ткани, которая полностью закрывает глаза.</Apparel_Blindfold.description>
+  <Apparel_BodyStrap.label>рабская шлейка</Apparel_BodyStrap.label>
+  <Apparel_BodyStrap.description>Система ремней, повязывающаяся на верхнюю часть тела раба. Напоминает носителю о его рабском положении, тем самым подавляя его. Уменьшает вероятность восстания.</Apparel_BodyStrap.description>
+  <Apparel_Burka.label>бурка</Apparel_Burka.label>
+  <Apparel_Burka.description>Наряд, закрывающий всю голову и тело владельца.</Apparel_Burka.description>
+  <Apparel_TortureCrown.label>терновая корона</Apparel_TortureCrown.label>
+  <Apparel_TortureCrown.description>Головной убор в виде короны с короткими шипами, обращёнными внутрь. Шипы впиваются в голову и причиняют носящему боль.</Apparel_TortureCrown.description>
+</LanguageData>

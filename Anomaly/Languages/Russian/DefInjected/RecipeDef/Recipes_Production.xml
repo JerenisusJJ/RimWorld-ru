@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ExtractBioferrite.label>извлекать биоферрит из тварей</ExtractBioferrite.label>
+  <ExtractBioferrite.description>Переработать труп, чтобы подготовить порцию биоферрита из внедрённых в плоть и нервную систему архитов.</ExtractBioferrite.description>
+  <ExtractBioferrite.jobString>Из трупа вырабатывается биоферрит.</ExtractBioferrite.jobString>
+</LanguageData>

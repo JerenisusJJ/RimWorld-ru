@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Body_Buttons.label>пуговицы</Body_Buttons.label>
+  <Body_Cross.label>крест</Body_Cross.label>
+  <Body_Heart.label>сердце</Body_Heart.label>
+  <Body_Insect.label>насекомое</Body_Insect.label>
+  <Body_Jester.label>шут</Body_Jester.label>
+  <Body_Moon.label>луна</Body_Moon.label>
+  <Body_Power.label>молния</Body_Power.label>
+  <Body_Rings.label>кольца</Body_Rings.label>
+  <Body_Royal.label>корона</Body_Royal.label>
+  <Body_Scar.label>шрам</Body_Scar.label>
+  <Body_Skeleton.label>скелет</Body_Skeleton.label>
+  <Body_Skull.label>черепа</Body_Skull.label>
+  <Body_Spike.label>шип</Body_Spike.label>
+  <Body_Sun.label>солнце</Body_Sun.label>
+  <Body_Tiger.label>тигр</Body_Tiger.label>
+  <Body_Wings.label>крылья</Body_Wings.label>
+  <Face_Cobweb.label>паутина</Face_Cobweb.label>
+  <Face_Eclipse.label>затмение</Face_Eclipse.label>
+  <Face_Headshot.label>в яблочко</Face_Headshot.label>
+  <Face_Line.label>полоса</Face_Line.label>
+  <Face_Love.label>сердечко</Face_Love.label>
+  <Face_Oracle.label>оракул</Face_Oracle.label>
+  <Face_Pantheon.label>пантеон</Face_Pantheon.label>
+  <Face_Spider.label>паук</Face_Spider.label>
+  <Face_Stars.label>звёзды</Face_Stars.label>
+  <Face_Tear.label>слеза</Face_Tear.label>
+  <Face_Tiger.label>тигр</Face_Tiger.label>
+  <Face_Warpaint.label>боевые полоски</Face_Warpaint.label>
+  <Face_Worried.label>обеспокоенность</Face_Worried.label>
+</LanguageData>

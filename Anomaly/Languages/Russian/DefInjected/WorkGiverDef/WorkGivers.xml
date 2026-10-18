@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ActivitySuppression.label>подавить активность твари</ActivitySuppression.label>
+  <ActivitySuppression.gerund>подавляет существо:</ActivitySuppression.gerund>
+  <ActivitySuppression.verb>подавить</ActivitySuppression.verb>
+  <DoBillsBioferriteShaper.label>работать за биоферритовым верстаком</DoBillsBioferriteShaper.label>
+  <DoBillsBioferriteShaper.gerund>работает, используя</DoBillsBioferriteShaper.gerund>
+  <DoBillsBioferriteShaper.verb>работать, используя</DoBillsBioferriteShaper.verb>
+  <DoBillsSerumCentrifuge.label>создавать предметы в лаборатории сывороток</DoBillsSerumCentrifuge.label>
+  <DoBillsSerumCentrifuge.gerund>работает, используя</DoBillsSerumCentrifuge.gerund>
+  <DoBillsSerumCentrifuge.verb>работать, используя</DoBillsSerumCentrifuge.verb>
+  <DoctorTendToEntities.label>смотреть за тварями</DoctorTendToEntities.label>
+  <DoctorTendToEntities.gerund>лечит пациента:</DoctorTendToEntities.gerund>
+  <DoctorTendToEntities.verb>лечить пациента:</DoctorTendToEntities.verb>
+  <ExecuteEntity.label>казнить тварей</ExecuteEntity.label>
+  <ExecuteEntity.gerund>казнит существо:</ExecuteEntity.gerund>
+  <ExecuteEntity.verb>казнить существо:</ExecuteEntity.verb>
+  <ExtractBioferrite.label>извлекать биоферрит из тварей</ExtractBioferrite.label>
+  <ExtractBioferrite.gerund>извлечь биоферрит из</ExtractBioferrite.gerund>
+  <ExtractBioferrite.verb>извлечь биоферрит из</ExtractBioferrite.verb>
+  <InterrogatePrisoner.label>допрос и выяснение личности</InterrogatePrisoner.label>
+  <InterrogatePrisoner.gerund>допрашивает:</InterrogatePrisoner.gerund>
+  <InterrogatePrisoner.verb>допросить</InterrogatePrisoner.verb>
+  <ReleaseEntity.label>отпустить тварей</ReleaseEntity.label>
+  <ReleaseEntity.gerund>отпускает существо:</ReleaseEntity.gerund>
+  <ReleaseEntity.verb>отпустить</ReleaseEntity.verb>
+  <StudyInteract.label>исследование</StudyInteract.label>
+  <StudyInteract.gerund>исследует:</StudyInteract.gerund>
+  <StudyInteract.verb>исследовать</StudyInteract.verb>
+  <TakeBioferriteOutOfHarvester.label>извлечь биоферрит из сборщика</TakeBioferriteOutOfHarvester.label>
+  <TakeBioferriteOutOfHarvester.gerund>извлекает биоферрит из:</TakeBioferriteOutOfHarvester.gerund>
+  <TakeBioferriteOutOfHarvester.verb>взять биоферрит</TakeBioferriteOutOfHarvester.verb>
+  <TakeEntityToHoldingPlatform.label>захватить тварь</TakeEntityToHoldingPlatform.label>
+  <TakeEntityToHoldingPlatform.gerund>захватывает существо:</TakeEntityToHoldingPlatform.gerund>
+  <TakeEntityToHoldingPlatform.verb>захватить</TakeEntityToHoldingPlatform.verb>
+  <TransferEntity.label>переместить тварей</TransferEntity.label>
+  <TransferEntity.gerund>перемещает существо:</TransferEntity.gerund>
+  <TransferEntity.verb>переместить</TransferEntity.verb>
+</LanguageData>

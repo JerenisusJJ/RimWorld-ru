@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Empire_Common_Laborer.label>имперский рабочий</Empire_Common_Laborer.label>
+  <Empire_Common_Laborer.labelPlural>имперские рабочие</Empire_Common_Laborer.labelPlural>
+  <Empire_Common_Lodger.label>гражданин империи</Empire_Common_Lodger.label>
+  <Empire_Common_Lodger.labelPlural>граждане империи</Empire_Common_Lodger.labelPlural>
+  <Empire_Common_Trader.label>имперский торговец</Empire_Common_Trader.label>
+  <Empire_Common_Trader.labelPlural>имперские торговцы</Empire_Common_Trader.labelPlural>
+  <Empire_Fighter_Cataphract.label>катафрактарий</Empire_Fighter_Cataphract.label>
+  <Empire_Fighter_Cataphract.labelPlural>катафрактарии</Empire_Fighter_Cataphract.labelPlural>
+  <Empire_Fighter_Champion.label>чемпион</Empire_Fighter_Champion.label>
+  <Empire_Fighter_Champion.labelPlural>чемпионы</Empire_Fighter_Champion.labelPlural>
+  <Empire_Fighter_Grenadier.label>имперский гренадер</Empire_Fighter_Grenadier.label>
+  <Empire_Fighter_Grenadier.labelPlural>имперские гренадеры</Empire_Fighter_Grenadier.labelPlural>
+  <Empire_Fighter_Janissary.label>янычар</Empire_Fighter_Janissary.label>
+  <Empire_Fighter_Janissary.labelPlural>янычары</Empire_Fighter_Janissary.labelPlural>
+  <Empire_Fighter_StellicGuardMelee.label>звёздный хранитель</Empire_Fighter_StellicGuardMelee.label>
+  <Empire_Fighter_StellicGuardMelee.labelPlural>звёздные хранители</Empire_Fighter_StellicGuardMelee.labelPlural>
+  <Empire_Fighter_StellicGuardRanged.label>звёздный защитник</Empire_Fighter_StellicGuardRanged.label>
+  <Empire_Fighter_StellicGuardRanged.labelPlural>звёздные защитники</Empire_Fighter_StellicGuardRanged.labelPlural>
+  <Empire_Fighter_Trooper.label>пехотинец</Empire_Fighter_Trooper.label>
+  <Empire_Fighter_Trooper.labelPlural>пехотинцы</Empire_Fighter_Trooper.labelPlural>
+  <Empire_Royal_Acolyte.label>аколит</Empire_Royal_Acolyte.label>
+  <Empire_Royal_Acolyte.labelPlural>аколиты</Empire_Royal_Acolyte.labelPlural>
+  <Empire_Royal_Baron.label>барон</Empire_Royal_Baron.label>
+  <Empire_Royal_Baron.labelFemale>баронесса</Empire_Royal_Baron.labelFemale>
+  <Empire_Royal_Baron.labelFemalePlural>баронессы</Empire_Royal_Baron.labelFemalePlural>
+  <Empire_Royal_Baron.labelPlural>бароны</Empire_Royal_Baron.labelPlural>
+  <Empire_Royal_Bestower.label>эмиссар</Empire_Royal_Bestower.label>
+  <Empire_Royal_Bestower.labelPlural>эмиссары</Empire_Royal_Bestower.labelPlural>
+  <Empire_Royal_Consul.label>консул</Empire_Royal_Consul.label>
+  <Empire_Royal_Consul.labelPlural>консулы</Empire_Royal_Consul.labelPlural>
+  <Empire_Royal_Count.label>архонт</Empire_Royal_Count.label>
+  <Empire_Royal_Count.labelPlural>архонты</Empire_Royal_Count.labelPlural>
+  <Empire_Royal_Duke.label>владыка</Empire_Royal_Duke.label>
+  <Empire_Royal_Duke.labelFemale>владычица</Empire_Royal_Duke.labelFemale>
+  <Empire_Royal_Duke.labelFemalePlural>владычицы</Empire_Royal_Duke.labelFemalePlural>
+  <Empire_Royal_Duke.labelPlural>владыки</Empire_Royal_Duke.labelPlural>
+  <Empire_Royal_Knight.label>рыцарь</Empire_Royal_Knight.label>
+  <Empire_Royal_Knight.labelFemale>дама</Empire_Royal_Knight.labelFemale>
+  <Empire_Royal_Knight.labelFemalePlural>дамы</Empire_Royal_Knight.labelFemalePlural>
+  <Empire_Royal_Knight.labelPlural>рыцари</Empire_Royal_Knight.labelPlural>
+  <Empire_Royal_NobleWimp.label>дворянин</Empire_Royal_NobleWimp.label>
+  <Empire_Royal_NobleWimp.labelPlural>дворяне</Empire_Royal_NobleWimp.labelPlural>
+  <Empire_Royal_Praetor.label>претор</Empire_Royal_Praetor.label>
+  <Empire_Royal_Praetor.labelPlural>преторы</Empire_Royal_Praetor.labelPlural>
+  <Empire_Royal_Stellarch.label>стелларх</Empire_Royal_Stellarch.label>
+  <Empire_Royal_Stellarch.labelPlural>стеллархи</Empire_Royal_Stellarch.labelPlural>
+  <Empire_Royal_Yeoman.label>послушник</Empire_Royal_Yeoman.label>
+  <Empire_Royal_Yeoman.labelFemale>послушница</Empire_Royal_Yeoman.labelFemale>
+  <Empire_Royal_Yeoman.labelFemalePlural>послушницы</Empire_Royal_Yeoman.labelFemalePlural>
+  <Empire_Royal_Yeoman.labelPlural>послушники</Empire_Royal_Yeoman.labelPlural>
+  <Slave_Empire.label>раб</Slave_Empire.label>
+  <Slave_Empire.labelPlural>рабы</Slave_Empire.labelPlural>
+</LanguageData>

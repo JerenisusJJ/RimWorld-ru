@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MechBandShockwave.label>механоидный разряд</MechBandShockwave.label>
+  <MechBandShockwave.deathMessage>{0} {0_gender ? погиб : погибла : погибло} от электрического шока.</MechBandShockwave.deathMessage>
+</LanguageData>

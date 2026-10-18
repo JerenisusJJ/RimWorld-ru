@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DeathPall.label>пелена смерти</DeathPall.label>
+  <DeathPall.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] смотрит на приближающуюся пелену смерти</li>
+    <li>image-&gt;[PAWN_nameFull] с ужасом всматривается в пелену смерти. Она стелется по земле, воскрешая мертвецов, и [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] сжимает рукоять оружия и смотрит, как на мир опускается пелена смерти. Она воскрешает мертвецов и [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] трясётся от напряжения, но не сводит глаз с пелены смерти. Она нисходит на мир, вдыхая жизнь в мертвецов, и [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] с ужасом наблюдает, как всё вокруг утопает в пелене смерти. Она превращает [PAWN_possessive] мирный дом в поле битвы против мертвецов пеленой смерти и [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;заглушает [PAWN_possessive] отчаянные мольбы о защите и избавлении</li>
+    <li>circumstance_phrase-&gt;наполняет воздух запахом разложения и отчаяния</li>
+    <li>circumstance_phrase-&gt;загоняет {PAWN_possessive} в окружение: куда ни посмотри, всюду шамблеры</li>
+    <li>desc_sentence-&gt;Посреди пелены смерти [PAWN_nameDef] готовится к битве.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] видит, как наплыв пелены смерти сеет среди знакомых тихий ужас.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] содрогается, наблюдая, как неумолимо распространяется пелена смерти.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] чувствует, как отчаяние тяжким грузом ложится на [PAWN_possessive] сердце, испытывая [PAWN_possessive] решимость перед лицом смерти и ужаса.</li>
+  </DeathPall.rulePack.rulesStrings>
+  <UnnaturalDarkness.label>неестественная темнота</UnnaturalDarkness.label>
+  <UnnaturalDarkness.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] выступает против неестественной темноты</li>
+    <li>image-&gt;[PAWN_nameFull] в полном шоке наблюдает, как весь мир погружается в беспросветную тьму, [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] стоит посреди чёрных столбов, падающих с неба. Из них разливается тьма и покрывает землю, [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] с трудом находит дорогу в удушающей темноте. [PAWN_possessive] по пятам преследуют ноктолы, [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] наблюдает за тем, как мир погружается в бездонные тени, [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;а друзья отчаянно пытаются вернуться на свет, в безопасность</li>
+    <li>circumstance_phrase-&gt;а вокруг раздаются леденящие душу вопли</li>
+    <li>circumstance_phrase-&gt;а свет кое-как сдерживает натиск кошмаров</li>
+    <li>circumstance_phrase-&gt;и [PAWN_pronoun] начинает молить о спасении</li>
+    <li>desc_sentence-&gt;Насколько хватает взгляда, нигде нет ни проблеска света.</li>
+    <li>desc_sentence-&gt;Кажется, что всё пропало.</li>
+    <li>desc_sentence-&gt;На краю тьмы виднеются очертания теневых существ.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] пытается найти хоть крохотный проблеск надежды среди наступающей тьмы.</li>
+  </UnnaturalDarkness.rulePack.rulesStrings>
+</LanguageData>

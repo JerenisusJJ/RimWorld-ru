@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BulbTurret.label>бластер</BulbTurret.label>
+  <DiabolusCapacitor.label>гиперконденсатор</DiabolusCapacitor.label>
+  <MechanicalDiabolusBodyFifthRing.label>кольцо тела</MechanicalDiabolusBodyFifthRing.label>
+  <MechanicalDiabolusBodyFifthRing.labelShort>кольцо тела</MechanicalDiabolusBodyFifthRing.labelShort>
+  <MechanicalDiabolusBodyFirstRing.label>первое кольцо тела</MechanicalDiabolusBodyFirstRing.label>
+  <MechanicalDiabolusBodyFirstRing.labelShort>кольцо тела</MechanicalDiabolusBodyFirstRing.labelShort>
+  <MechanicalDiabolusBodyFourthRing.label>четвёртое кольцо тела</MechanicalDiabolusBodyFourthRing.label>
+  <MechanicalDiabolusBodyFourthRing.labelShort>кольцо тела</MechanicalDiabolusBodyFourthRing.labelShort>
+  <MechanicalDiabolusBodySecondRing.label>второе кольцо тела</MechanicalDiabolusBodySecondRing.label>
+  <MechanicalDiabolusBodySecondRing.labelShort>кольцо тела</MechanicalDiabolusBodySecondRing.labelShort>
+  <MechanicalDiabolusBodySixthRing.label>шестое кольцо тела</MechanicalDiabolusBodySixthRing.label>
+  <MechanicalDiabolusBodySixthRing.labelShort>кольцо тела</MechanicalDiabolusBodySixthRing.labelShort>
+  <MechanicalDiabolusBodyThirdRing.label>третье кольцо тела</MechanicalDiabolusBodyThirdRing.label>
+  <MechanicalDiabolusBodyThirdRing.labelShort>кольцо тела</MechanicalDiabolusBodyThirdRing.labelShort>
+  <MechanicalWarqueenBodyFifthRing.label>пятое кольцо тела</MechanicalWarqueenBodyFifthRing.label>
+  <MechanicalWarqueenBodyFifthRing.labelShort>кольцо тела</MechanicalWarqueenBodyFifthRing.labelShort>
+  <MechanicalWarqueenBodyFirstRing.label>первое кольцо тела</MechanicalWarqueenBodyFirstRing.label>
+  <MechanicalWarqueenBodyFirstRing.labelShort>кольцо тела</MechanicalWarqueenBodyFirstRing.labelShort>
+  <MechanicalWarqueenBodyFourthRing.label>четвёртое кольцо тела</MechanicalWarqueenBodyFourthRing.label>
+  <MechanicalWarqueenBodyFourthRing.labelShort>кольцо тела</MechanicalWarqueenBodyFourthRing.labelShort>
+  <MechanicalWarqueenBodySecondRing.label>второе кольцо тела</MechanicalWarqueenBodySecondRing.label>
+  <MechanicalWarqueenBodySecondRing.labelShort>кольцо тела</MechanicalWarqueenBodySecondRing.labelShort>
+  <MechanicalWarqueenBodyThirdRing.label>третье кольцо тела</MechanicalWarqueenBodyThirdRing.label>
+  <MechanicalWarqueenBodyThirdRing.labelShort>кольцо тела</MechanicalWarqueenBodyThirdRing.labelShort>
+  <MechanicalWarqueenFormingPod.label>сборочный отсек</MechanicalWarqueenFormingPod.label>
+  <PowerClaw.label>силовая клешня</PowerClaw.label>
+  <SmallMechanicalFoot.label>маленькая ступня</SmallMechanicalFoot.label>
+  <SmallMechanicalLeg.label>маленькая нога</SmallMechanicalLeg.label>
+</LanguageData>

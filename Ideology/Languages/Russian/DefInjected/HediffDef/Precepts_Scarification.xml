@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Scarification.label>шрамирование</Scarification.label>
+  <Scarification.description>Вычурный шрам, аккуратно нанесённый на кожу в ритуальных целях.</Scarification.description>
+  <Scarification.comps.HediffComp_GetsPermanent.permanentLabel>шрамирование</Scarification.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Scarification.labelNoun>шрамирование</Scarification.labelNoun>
+  <Scarification.labelNounPretty>{0} на {lookup: {1}; Case; 5}</Scarification.labelNounPretty>
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Crab.label>краб</Crab.label>
+  <Crab.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>левый глаз</Crab.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>
+  <Crab.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>правый глаз</Crab.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>
+  <Crab.corePart.parts.left_claw.customLabel>левая клешня</Crab.corePart.parts.left_claw.customLabel>
+  <Crab.corePart.parts.right_claw.customLabel>правая клешня</Crab.corePart.parts.right_claw.customLabel>
+  <Crab.corePart.parts.left_first_leg.customLabel>левая первая нога</Crab.corePart.parts.left_first_leg.customLabel>
+  <Crab.corePart.parts.right_first_leg.customLabel>правая первая нога</Crab.corePart.parts.right_first_leg.customLabel>
+  <Crab.corePart.parts.left_second_leg.customLabel>левая вторая нога</Crab.corePart.parts.left_second_leg.customLabel>
+  <Crab.corePart.parts.right_second_leg.customLabel>правая вторая нога</Crab.corePart.parts.right_second_leg.customLabel>
+  <Crab.corePart.parts.left_third_leg.customLabel>левая третья нога</Crab.corePart.parts.left_third_leg.customLabel>
+  <Crab.corePart.parts.right_third_leg.customLabel>правая третья нога</Crab.corePart.parts.right_third_leg.customLabel>
+  <Crab.corePart.parts.left_swimming_leg.customLabel>левая плавательная нога</Crab.corePart.parts.left_swimming_leg.customLabel>
+  <Crab.corePart.parts.right_swimming_leg.customLabel>правая плавательная нога</Crab.corePart.parts.right_swimming_leg.customLabel>
+</LanguageData>

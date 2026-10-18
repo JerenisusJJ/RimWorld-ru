@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DarkDialogue.rulePack.rulesStrings>
+    <li>rambled-&gt;разглагольствует</li>
+    <li>rambled-&gt;шепчет</li>
+    <li>rambled-&gt;шутит</li>
+    <li>rambled-&gt;твердит</li>
+    <li>rambled-&gt;рассуждает</li>
+    <li>rambled-&gt;бормочет</li>
+    <li>rambled-&gt;лопочет</li>
+    <li>rambled-&gt;бубнит</li>
+    <li>rambled-&gt;болтает</li>
+    <li>rambled-&gt;толкует</li>
+    <li>darkSpeechAdverb-&gt;еле слышно</li>
+    <li>darkSpeechAdverb-&gt;прерывисто</li>
+    <li>darkSpeechAdverb-&gt;бессвязно</li>
+    <li>darkSpeechAdverb-&gt;мрачно</li>
+    <li>darkSpeechAdverb-&gt;сбивчиво</li>
+    <li>darkSpeechAdverb-&gt;одержимо</li>
+    <li>subjectInsane-&gt;об ошибках человечества</li>
+    <li>subjectInsane-&gt;о конце существования</li>
+    <li>subjectInsane-&gt;о тирании времени</li>
+    <li>subjectInsane-&gt;о пустоте</li>
+    <li>subjectInsane-&gt;об иллюзии реальности</li>
+    <li>subjectInsane-&gt; об ужасах лабиринтов разума</li>
+    <li>subjectInsane-&gt;о зловещих тенях</li>
+    <li>subjectInsane-&gt;о неизбежности разложения</li>
+    <li>subjectInsane-&gt;о безумии Вселенной</li>
+    <li>subjectInsane-&gt;об обманчивой природе грёз</li>
+    <li>subjectInsane-&gt;о тайном языке страданий</li>
+    <li>subjectInsane-&gt;о бесполезности круговорота жизни</li>
+    <li>subjectInsane-&gt;о тщетности надежды</li>
+    <li>subjectInsane-&gt;о хрупкости рассудка</li>
+    <li>subjectInsane-&gt;о фальшивости счастья</li>
+    <li>subjectInsane-&gt;о гротескности бытия</li>
+    <li>subjectInsane-&gt;о молчании Вселенной</li>
+    <li>subjectInsane-&gt;о жестоких капризах судьбы</li>
+    <li>subjectInsane-&gt;о несостоятельности морали</li>
+    <li>subjectInsane-&gt;о никчёмности любви</li>
+    <li>subjectInsane-&gt;о горьком привкусе правды</li>
+    <li>subjectInsane-&gt;об эхе умолкнувших криков</li>
+    <li>subjectInsane-&gt;об обманах памяти</li>
+    <li>subjectInsane-&gt;о неумолимости хаоса</li>
+    <li>subjectInsane-&gt;о холодных объятиях одиночества</li>
+    <li>subjectInsane-&gt;о пылающем огне отчаяния</li>
+    <li>subjectInsane-&gt;о бессмысленности амбиций</li>
+    <li>subjectInsane-&gt;о злой иронии радости</li>
+    <li>subjectInsane-&gt;о пустых клятвах в верности</li>
+    <li>subjectInsane-&gt;о своеобразной эстетике страданий</li>
+    <li>subjectInsane-&gt;о неизбежном крахе цивилизации</li>
+    <li>subjectDarkStudy-&gt;о Хораксе</li>
+    <li>subjectDarkStudy-&gt;о человечестве</li>
+    <li>subjectDarkStudy-&gt;о шамблерах</li>
+    <li>subjectDarkStudy-&gt;о кошмарных машинах</li>
+    <li>subjectDarkStudy-&gt;о биошматах</li>
+    <li>subjectDarkStudy-&gt;о хтонических вратах</li>
+    <li>subjectDarkStudy-&gt;о неестественной темноте</li>
+    <li>subjectDarkStudy-&gt;о каналах в пустоту</li>
+    <li>subjectDarkStudy-&gt;о монолите</li>
+    <li>subjectDarkStudy-&gt;о пустоте</li>
+    <li>subjectDarkStudy-&gt;о воплощениях страха</li>
+    <li>subjectDarkStudy-&gt;о силе ярости</li>
+    <li>subjectDarkStudy-&gt;о связи между людьми</li>
+    <li>subjectDarkStudy-&gt;о целях людей и машин</li>
+    <li>subjectDarkStudy-&gt;о происхождении тёмных тварей</li>
+    <li>subjectDarkStudy-&gt;об источнике знаний</li>
+    <li>subjectDarkStudy-&gt;о пси-потоках</li>
+    <li>subjectDarkStudy-&gt;о псионических механизмах</li>
+    <li>subjectDarkStudy-&gt;о псионических явлениях</li>
+    <li>subjectDarkStudy-&gt;о законах силы</li>
+  </DarkDialogue.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChildBirth.description>Все качественные факторы, влияющие на то, насколько будут здоровы мама и её будущий ребёнок.</ChildBirth.description>
+  <ChildBirth.comps.0.label>Возраст {PAWN_labelShort}</ChildBirth.comps.0.label>
+  <ChildBirth.comps.0.labelAbstract>возраст матери</ChildBirth.comps.0.labelAbstract>
+  <ChildBirth.comps.1.label>Навык Медицины {PAWN_labelShort}</ChildBirth.comps.1.label>
+  <ChildBirth.comps.1.labelAbstract>медицинские навыки врача</ChildBirth.comps.1.labelAbstract>
+  <ChildBirth.comps.2.label>присутствие близкого человека</ChildBirth.comps.2.label>
+  <ChildBirth.comps.2.labelNotMet>любимый человек не присутствует</ChildBirth.comps.2.labelNotMet>
+  <ChildBirth.comps.3.label>в помещении</ChildBirth.comps.3.label>
+  <ChildBirth.comps.4.label>чистота окружения</ChildBirth.comps.4.label>
+  <ChildBirth.comps.5.label>свойства кровати</ChildBirth.comps.5.label>
+  <ChildBirth.extraOutcomeDescriptions.0.description>Риск смерти матери при родах составляет {0_percentage}.</ChildBirth.extraOutcomeDescriptions.0.description>
+  <ChildBirth.outcomeChances.0.label>мертворождённый</ChildBirth.outcomeChances.0.label>
+  <ChildBirth.outcomeChances.0.description>{MOTHER_labelShort} родила мёртвого ребёнка.</ChildBirth.outcomeChances.0.description>
+  <ChildBirth.outcomeChances.1.label>больной младенец</ChildBirth.outcomeChances.1.label>
+  <ChildBirth.outcomeChances.1.description>{MOTHER_labelShort} родила. К сожалению, ребёнок болен.</ChildBirth.outcomeChances.1.description>
+  <ChildBirth.outcomeChances.2.label>здоровый младенец</ChildBirth.outcomeChances.2.label>
+  <ChildBirth.outcomeChances.2.description>{MOTHER_labelShort} родила здорового ребёнка!</ChildBirth.outcomeChances.2.description>
+</LanguageData>

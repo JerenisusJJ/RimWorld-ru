@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CustomizeIdeoligion>Редактирование идеолигии</CustomizeIdeoligion>
+  <ChooseYourIdeoligion>Выбор идеолигии</ChooseYourIdeoligion>
+  <RandomStructureTip>Случайная структура вашей идеолигии.</RandomStructureTip>
+  <RandomStyleTip>Случайный стиль для вашей идеолигии</RandomStyleTip>
+  <PlayClassic>Играть без идеолигий</PlayClassic>
+  <CreateCustomFluid>Создать свою\n(изменчивую)</CreateCustomFluid>
+  <CreateCustomFixed>Создать свою\n(устоявшуюся)</CreateCustomFixed>
+  <CustomIdeoligions>Созданные идеолигии</CustomIdeoligions>
+  <LoadSaved>Загрузить</LoadSaved>
+  <Structure>Структура</Structure>
+  <ChooseYourIdeoligionDesc>Во что должны верить ваши первые поселенцы? Их убеждения повлияют на игровой процесс и визуальное оформление. Эти убеждения вы сможете распространять среди других людей, или же принять чужие.</ChooseYourIdeoligionDesc>
+  <CreateCustom>Создать свою</CreateCustom>
+  <DeleteCustom>Удалить свою</DeleteCustom>
+  <CreateNew>Создать новую</CreateNew>
+  <CreateFluid>Создать изменчивую</CreateFluid>
+  <LoadExisting>Загрузить сохранённую</LoadExisting>
+  <CreateCustomIdeoligion>Создать свою идеолигию</CreateCustomIdeoligion>
+  <CustomIdeoligionSectionHeader>Своя идеолигия</CustomIdeoligionSectionHeader>
+  <FactionIdeoligionSectionHeader>Идеолигии фракций</FactionIdeoligionSectionHeader>
+  <LoadExistingIdeoligion>Загрузить сохранённую идеолигию</LoadExistingIdeoligion>
+  <SelectAnIdeo>Вы можете выбрать идеолигию для вашей фракции в меню слева или</SelectAnIdeo>
+  <Ideo>идеолигия</Ideo>
+  <RandomizeAll>Случайно</RandomizeAll>
+  <Appearance>Внешний вид</Appearance>
+  <DoneButton>Готово</DoneButton>
+  <BeliefInIdeo>Вера в</BeliefInIdeo>
+  <Reward_RelicInfo>Информация про реликвию «{0}»</Reward_RelicInfo>
+  <Reward_RelicInfoLabel>Информация про реликвию «{0}»</Reward_RelicInfoLabel>
+  <RelicOf>Реликвия {IDEO_name}</RelicOf>
+  <Altar>алтарь</Altar>
+  <Base>основа</Base>
+  <MinExpectation>мин. ожидания</MinExpectation>
+  <PreceptThoughtMoodRange>от {0} до {1}</PreceptThoughtMoodRange>
+  <ComesFromIdeo>Источник (идеолигия)</ComesFromIdeo>
+  <CurrentTotalAnimalBodySizePerColonist>Текущий суммарный размер тел животных на поселенца</CurrentTotalAnimalBodySizePerColonist>
+  <AnimalsBodySizePerColonist>суммарный размер тел на поселенца</AnimalsBodySizePerColonist>
+  <VeneratedAnimalsBodySizePerColonist>суммарный размер тел животных на поселенца поблизости</VeneratedAnimalsBodySizePerColonist>
+  <MinAnimalBodySizePerColonist>Необходимо хотя бы {0} ед. суммарного размера тел животных на поселенца.</MinAnimalBodySizePerColonist>
+  <Disables>Блокирует</Disables>
+  <RequiresOnePrecept>Требует один из принципов</RequiresOnePrecept>
+  <RequiredPrecepts>Обязательные принципы</RequiredPrecepts>
+  <RequiredRituals>Обязательные ритуалы</RequiredRituals>
+  <PreventsPrecepts>Исключает принципы</PreventsPrecepts>
+  <Styles>Стили</Styles>
+  <ChanceToHavePrecept>Шанс получить принцип</ChanceToHavePrecept>
+  <FavoriteColorTooltip>Любимый цвет {PAWN_labelShort}: {COLOR}\nНошение более {PERCENTAGE} одежды этого цвета {ORIDEO} улучшит {PAWN_objective} настроение.\n\nЦвет одежды можно поменять на туалетном столике, используя красители.</FavoriteColorTooltip>
+  <OrIdeoColor>или цвета {PAWN_possessive} идеолигии</OrIdeoColor>
+  <SetIdeoColor>Окрасить в цвет идеолигии</SetIdeoColor>
+  <SetFavoriteColor>Окрасить любимым цветом</SetFavoriteColor>
+  <FavoriteColorPickerTip>Любимый цвет {PAWN_nameDef}. Ношение более 60% одежды этого цвета или цвета {PAWN_possessive} идеолигии улучшит {PAWN_objective} настроение.</FavoriteColorPickerTip>
+  <IdeoColorPickerTip>Цвет идеолигии {PAWN_nameDef}. Ношение более 60% одежды этого цвета или {PAWN_possessive} любимого цвета улучшит {PAWN_objective} настроение.</IdeoColorPickerTip>
+  <ConfigureIdeoligion>Редактировать идеолигию фракции</ConfigureIdeoligion>
+  <NotEnoughDye>Недостаточно красителя.</NotEnoughDye>
+  <ApparelLockedCannotRecolor>{PAWN_nameDef} не желает перекрашивать {PAWN_possessive} {lookup: {APPAREL_labelShort}; Case; 3}.</ApparelLockedCannotRecolor>
+  <NotEnoughDyeWillRecolorApparel>Поселенец перекрасит одежду, когда появится краситель.</NotEnoughDyeWillRecolorApparel>
+  <NotEnoughDyeWillRecolorHair>Поселенец перекрасит волосы, когда появится краситель.</NotEnoughDyeWillRecolorHair>
+  <IdeoCertaintyTooltip>{PAWN_labelShort} {PAWN_gender ? уверен : уверена : уверно} в {IDEO} на {PERCENTAGE}</IdeoCertaintyTooltip>
+  <DisabledByPrecept>Заблокировано принципом {0}</DisabledByPrecept>
+  <Everyone>Всё</Everyone>
+  <Narrative>Описание</Narrative>
+  <NarrativeLower>описание</NarrativeLower>
+  <PreceptName>Название принципа</PreceptName>
+  <PreceptNameLower>название принципа</PreceptNameLower>
+  <Changing>Изменение {0}</Changing>
+  <StructuresLower>структур</StructuresLower>
+  <MemesLower>черт</MemesLower>
+  <Reward_DevelopmentPointsLabel>Очки развития</Reward_DevelopmentPointsLabel>
+  <Reward_DevelopmentPoints>Вы получите {1_numCase ? очко : очка : очков} развития идеолигии «{0}».\n\nСейчас у вас {2_numCase ? очко : очка : очков} развития. Когда у вас будет {3_numCase ? очко : очка : очков}, вы сможете реформировать идеолигию.\n\nЗарабатывайте очки развития, выполняя задания и проводя ритуалы.</Reward_DevelopmentPoints>
+  <CurrentDevelopmentPoints>Сейчас очков</CurrentDevelopmentPoints>
+  <ReformDevelopmentPoints>Для реформации нужно</ReformDevelopmentPoints>
+  <QuestLower>задание</QuestLower>
+  <MealKindVegetarian>Вегетарианское</MealKindVegetarian>
+  <MealKindMeat>Содержит мясо</MealKindMeat>
+  <MealKindAny>Еда, подходящая всем</MealKindAny>
+  <WearingDesiredApparelMulti>свою одежду</WearingDesiredApparelMulti>
+  <UnableToLoadIdeoTitle>Невозможно загрузить идеолигию</UnableToLoadIdeoTitle>
+  <UnableToLoadIdeoDescription>Невозможно загрузить выбранную идеолигию из-за требований фракций, которые будут её придерживаться. Несовместимы эти требования:</UnableToLoadIdeoDescription>
+  <UnableToLoadIdeoMemeNotAllowed>Черта «{MEME}» недопустима для фракции типа «{FACTIONTYPE}»</UnableToLoadIdeoMemeNotAllowed>
+  <UnableToLoadIdeoMemeRequired>Черта «{MEME}» обязательна для фракции типа «{FACTIONTYPE}»</UnableToLoadIdeoMemeRequired>
+  <UnableToLoadIdeoPreceptNotAllowed>Принцип «{PRECEPT}» не подходит для фракций, не управляемых игроком.</UnableToLoadIdeoPreceptNotAllowed>
+  <RitualTargetGraveInfo>В могиле находится труп {PAWN_labelShort}.</RitualTargetGraveInfo>
+  <RitualTargetEmptyGraveInfo>Пустая могила для оплакивания {PAWN_labelShort}.</RitualTargetEmptyGraveInfo>
+  <RitualTargetGraveInfoAbstract>В могиле покоится {IDEO_memberNameIndef}</RitualTargetGraveInfoAbstract>
+  <RitualTargetGraveInfoAbstractNoIdeo>В могиле находится труп.</RitualTargetGraveInfoAbstractNoIdeo>
+  <RitualTargetEmptyGraveInfoAbstract>Пустая могила для оплакивания {IDEO_memberNameIndef}.</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetGraveInfoMustBeBuried>Тело {PAWN_labelShort} сперва должно быть погребено</RitualTargetGraveInfoMustBeBuried>
+  <RitualTargetGatherSpotInfo>Любое место сбора, например стол</RitualTargetGatherSpotInfo>
+  <RitualTargetGatherAltarOrRitualSpotInfo>Алтарь или другое ритуальное место.</RitualTargetGatherAltarOrRitualSpotInfo>
+  <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>Алтарь, идеограмма или другое ритуальное место.</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
+  <RitualTargetLightBallIsNotPowered>Диско-шар обесточен.</RitualTargetLightBallIsNotPowered>
+  <RitualTargetNoPoweredSpeakers>Нет подключённых колонок.</RitualTargetNoPoweredSpeakers>
+  <RitualTargetCampfireNoFuel>Недостаточно дров в костре.</RitualTargetCampfireNoFuel>
+  <RitualTargetCampfireMustBeUnroofed>Костёр должен находиться снаружи.</RitualTargetCampfireMustBeUnroofed>
+  <RitualTargetNoDrum>Нет барабанов.</RitualTargetNoDrum>
+  <RitualTargetNeedUnroofedCells>Необходимо хотя бы {0_numCase ? клетка : клетки : клеток} без крыши.</RitualTargetNeedUnroofedCells>
+  <RitualTargetCampfirePartyInfo>зажжённый костёр</RitualTargetCampfirePartyInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>несвязанное древо Гауранлен</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetConnectedGauranlenTree>Уже связано с {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>Связь с {lookup: {TREE_definite}; Case; 4} оборвалась. Связывание можно повторить через {1}.</RitualTargetConnectionTornGauranlenTree>
+  <RitualTargetWoodInfo>Нужно {0} ед. дерева для каждого участника (всего {1}).</RitualTargetWoodInfo>
+  <RitualTargetWoodInfoAppend>Участник не может найти достаточно дерева.</RitualTargetWoodInfoAppend>
+  <RitualTargetWoodInfoAppendMultiple>{0_numCase ? участник не может : участника не могут : участников не могут} найти достаточно дерева.</RitualTargetWoodInfoAppendMultiple>
+  <RitualTargetWoodInfoWarning>{PAWN_labelShort} не может найти достаточно дерева.</RitualTargetWoodInfoWarning>
+  <RitualTargetUnreachable>{0} должен иметь возможность добраться до цели ритуала.</RitualTargetUnreachable>
+  <Accuse>Обвинить</Accuse>
+  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} не верит в идеолигиозное шрамирование и не хочет быть {PAWN_gender ? шрамированным : шрамированной : шрамированным}.</RitualScarificationWarnNonScarificationIdeo>
+  <RitualScarificationWarnWimp>{PAWN_labelShort} хлюпик и не хочет быть {PAWN_gender ? шрамированным : шрамированной : шрамированным}.</RitualScarificationWarnWimp>
+  <RitualBlindingWarnWimp>{PAWN_labelShort} хлюпик и не хочет быть {PAWN_gender ? ослеплённым : ослеплённой : ослеплённым}.</RitualBlindingWarnWimp>
+  <RitualScarificationTriggerExtraDesc>{IDEOMEMBERPLURAL} будут желать шрамирования до тех пор, пока не наберётся {0} или больше шрамированных последователей их идеолигии.</RitualScarificationTriggerExtraDesc>
+  <RitualBlindingTriggerExtraDesc>Ослепления будет желать каждый {IDEOMEMBER}, находящийся в поселении или присоединяющийся к нему.</RitualBlindingTriggerExtraDesc>
+  <RitualOutcomeExtraDesc_DancePartyWorkFocus>Общая скорость работы всех участников ритуала на один день возросла на {PERCENTAGE}!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+  <RitualOutcomeExtraDesc_BlindingPsylink>Благодаря проведению ритуала ослепления, {PAWN_labelShort} повышает свой уровень пси-связи!</RitualOutcomeExtraDesc_BlindingPsylink>
+  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>С новым уровнем пси-связи {PAWN_pronoun} получает способность «{0}».</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
+  <RitualOutcomeExtraDesc_ConsumableInspiration>Благодаря проведению ритуала {RITUAL}, {PAWN_labelShort} получает {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
+  <RitualOutcomeExtraDesc_SkylanternWanderers>Ваши небесные фонарики привлекли внимание дружелюбно настроенных путешественников. Они скоро прибудут с дарами.</RitualOutcomeExtraDesc_SkylanternWanderers>
+  <RitualOutcomeExtraDesc_Execution>Всё присутствующие рабы были ошеломлены сценой смерти. Их подавленность достигла максимального уровня.</RitualOutcomeExtraDesc_Execution>
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>В соответствии с качеством ритуала, число ваших очков развития возросло на {2} (с {0} до {1}).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>Нельзя получить больше {0_numCase ? очка : очков : очков} развития.</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
+  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>Из-за низкого качества ритуала вы не получили очков развития.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
+  <RitualAttachedReward>Дополнительная награда</RitualAttachedReward>
+  <RitualAttachedRewardChoose>Выбрать</RitualAttachedRewardChoose>
+  <RitualAttachedRewardCantUseWithRitual>Нельзя использовать {0} с ритуалом {1}.</RitualAttachedRewardCantUseWithRitual>
+  <RitualAttachedRewardRequiredMemeAny>Требует хотя бы одну из черт</RitualAttachedRewardRequiredMemeAny>
+  <RitualAttachedRewardRequiredFaction>Требует фракцию {0}</RitualAttachedRewardRequiredFaction>
+  <RitualAttachedOutcomes_Positive>позитивном</RitualAttachedOutcomes_Positive>
+  <RitualAttachedOutcomes_Negative>негативном</RitualAttachedOutcomes_Negative>
+  <RitualAttachedOutcomesInfo>Если ритуал {0} прошёл {1}</RitualAttachedOutcomesInfo>
+  <RitualAttachedApplliesForOutcome>При исходе «{0}»</RitualAttachedApplliesForOutcome>
+  <RitualAttachedApplliesForOutcomes>При любом {0} исходе</RitualAttachedApplliesForOutcomes>
+  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>Шум от ритуала {0} привлёк любопытных животных!\n\nОни, видимо, привычны к людям, и потому прибиваются к вашему поселению.</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0} пробуждает росток с семенной капсулой Гауранлен.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+  <RitualAttachedOutcomeCantApply>Невозможно применить награду</RitualAttachedOutcomeCantApply>
+  <RitualAttachedOutcomeCantApply_NoValidSpot>Нет места</RitualAttachedOutcomeCantApply_NoValidSpot>
+  <RitualAttachedOutcomeCantApply_ExtremeBiome>Экстремальный биом</RitualAttachedOutcomeCantApply_ExtremeBiome>
+  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>Древний комплекс уже найден поблизости.</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
+  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>Недоступно в данный момент.</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
+  <IdeoBuildingVariationOf>Это сооружение является разновидностью</IdeoBuildingVariationOf>
+  <IdeoBuildingMinimumExpectations>Минимальные ожидания</IdeoBuildingMinimumExpectations>
+  <Optional>необязательно</Optional>
+  <Expectations>ожидания</Expectations>
+  <RitualRepeatPenaltyTip>Повторное проведение ритуала в течение {0_numCase ? дня : дней : дней} уменьшит его качество. С прошлого ритуала прошло {1_numCase ? день : дня : дней}, при повторном проведении его качество понизится на {2}. Этот штраф понизится до нуля через {3_numCase ? день : дня : дней}.</RitualRepeatPenaltyTip>
+  <RitualOutcomeCompTip_RitualTargetDefsPart1>Чтобы получить лучший результат, начните {0} у {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
+  <RitualOutcomeCompTip_RitualTargetDefsPart2>Сейчас рядом с местом ритуала {0} находится {1_labelShortIndef}.</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <RitualDevelopmentPoints>Очки развития</RitualDevelopmentPoints>
+  <RitualDevelopmentPointsTip>Завершение этого ритуала принесёт {0}-{1_numCase ? очко : очка : очков} развития, в зависимости от его качества.</RitualDevelopmentPointsTip>
+  <RitualOutcomeBlockedNoPower>{lookup: {0}; Case; 3} нужно подключить.</RitualOutcomeBlockedNoPower>
+  <ForSlaveUse>Для рабов</ForSlaveUse>
+  <SellingAsSlave>Если вы продадите человека не его начальной фракции, он станет рабом.</SellingAsSlave>
+  <SellingAsRansom>Если вы продадите человека его начальной фракции, он не станет рабом.</SellingAsRansom>
+  <MemeGoodwillImpact_Player>Мы {0}</MemeGoodwillImpact_Player>
+  <MemeGoodwillImpact_Other>Они {0}</MemeGoodwillImpact_Other>
+  <TextMote_SuppressionIncreased>Подавленность раба: {0}</TextMote_SuppressionIncreased>
+  <RoleRequirementsLabel>Требования</RoleRequirementsLabel>
+  <RoleEffectsLabel>Пассивные эффекты</RoleEffectsLabel>
+  <RoleRequirementLabelSameIdeo>нужен {0}</RoleRequirementLabelSameIdeo>
+  <RoleRequirementLabelSupremeGender>{replace: {0}; «мужчина»-«нужен»; «женщина»-«нужна»} {0}</RoleRequirementLabelSupremeGender>
+  <RoleRequirementCannotBe>не может быть ребёнком</RoleRequirementCannotBe>
+  <RoleGrantedAbilitiesLabel>Способности</RoleGrantedAbilitiesLabel>
+  <RoleRequiredApparelLabel>Требуемая одежда</RoleRequiredApparelLabel>
+  <RoleRitualsLabel>Участвует в ритуалах</RoleRitualsLabel>
+  <RoleBelieverCountDesc>Эта роль становится доступна, когда ваша фракция имеет {1} {0}. Она перестаёт быть доступной, когда у вас всего {3} {2}.</RoleBelieverCountDesc>
+  <RoleExpectationOffset>Увеличены на {0_numCase ? уровень : уровня : уровней}.</RoleExpectationOffset>
+  <RoleRaisedExpectation>{0} повысил свои ожидания.</RoleRaisedExpectation>
+  <RoleRaisedExpectationGracePeriod>{0} повысит свои ожидания через {1}.</RoleRaisedExpectationGracePeriod>
+  <IdeoLeaderDifferentIdeoThoughtLabel>Лидер — {0}</IdeoLeaderDifferentIdeoThoughtLabel>
+  <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} не будет выполнять работу: {1}.</AbilityDisabled_IncapableOfWorkTag>
+  <AbilityDisabledNoAltarOrRitualsSpot>Нет доступных алтарей или ритуальных мест.</AbilityDisabledNoAltarOrRitualsSpot>
+  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>Нет доступных алтарей, идеограмм или ритуальных мест.</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
+  <AbilityDisabledNoRitualSpot>Нет доступных ритуальных мест.</AbilityDisabledNoRitualSpot>
+  <TextMote_WillReduced>Воля ослаблена\nс {0} до {1}</TextMote_WillReduced>
+  <ConfirmationCharityJoiner>Принятие этого человека в ряды поселения считается актом милосердия. Если вы откажете ему, следующие поселенцы будут недовольны:\n{0}\n\nВы действительно хотите отказать этому человеку?</ConfirmationCharityJoiner>
+  <BelieversIn>Верующие в {0} ({1})</BelieversIn>
+  <AddPrecept>добавить {0}</AddPrecept>
+  <Precept>принцип</Precept>
+  <IdeoBuilding>сооружение</IdeoBuilding>
+  <IdeoRelic>реликвию</IdeoRelic>
+  <GiveItemsTo>Дать {lookup: {0}; Case; 3} {1_nameDef}</GiveItemsTo>
+  <CannotGiveItemsTo>Нельзя дать {lookup: {0}; Case; 3} {1_nameDef}</CannotGiveItemsTo>
+  <NoItemFound>Предмет не найден</NoItemFound>
+  <OutfitSlave>Раб</OutfitSlave>
+  <RelicInfoFound>Найдена информация о реликвии</RelicInfoFound>
+  <InactiveRoleRequiresMoreBelievers>неактивна, необходимо хотя бы {0} {1} (есть {2})</InactiveRoleRequiresMoreBelievers>
+  <Certainty>уверенность</Certainty>
+  <EmancipateNonCololonistWithFactionTooltip>Раб уйдёт пешком и вернётся в свою фракцию, {0}.</EmancipateNonCololonistWithFactionTooltip>
+  <EmancipateNonCololonistWithoutFactionTooltip>Раб уйдёт пешком.</EmancipateNonCololonistWithoutFactionTooltip>
+  <EmancipateCololonistTooltip>Рабы снова станут поселенцами.</EmancipateCololonistTooltip>
+  <WorshippedTerminalFactionBecameHostileTimed>Вы пробыли в поселении слишком долго. Люди из {FACTION_name} нападают на вас!</WorshippedTerminalFactionBecameHostileTimed>
+  <WorshippedTerminalRaidIncoming>Жители из ближайшей деревни пришли защищать священный терминал!</WorshippedTerminalRaidIncoming>
+  <RelicHuntFoundRelicSite>Реликвия находится в древнем комплексе под защитой многоуровневой системы безопасности.\n\nВы можете убить противников одного за другим или попытаться убежать с похищенной реликвией.</RelicHuntFoundRelicSite>
+  <RelicHuntFoundRelicSitePeaceful>Реликвия находится в древнем комплексе поблизости.</RelicHuntFoundRelicSitePeaceful>
+  <Relic>реликвия</Relic>
+  <RitualSeat>Ритуальное место</RitualSeat>
+  <RitualPredictedOutcomeDescNumActiveLoudspeakers>Колонки</RitualPredictedOutcomeDescNumActiveLoudspeakers>
+  <RitualPredictedOutcomeDescNumDrums>Барабаны</RitualPredictedOutcomeDescNumDrums>
+  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>Использование ритуального места уменьшит бонус к настроению на {0} для всех участников.</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
+  <RitualOutcomeLabelAnyOfThese>Любое из</RitualOutcomeLabelAnyOfThese>
+  <PreceptReplaceWith>Заменить на</PreceptReplaceWith>
+  <RitualSeatOf>Ритуальное место {IDEOS}</RitualSeatOf>
+  <StartingQuality>Начальное качество</StartingQuality>
+  <ExpectedConvictionChance>Шанс осуждения</ExpectedConvictionChance>
+  <MustBePlacedIndoors>Должно располагаться в помещении.</MustBePlacedIndoors>
+  <ConnectedPawn>Связующий</ConnectedPawn>
+  <Nobody>Никто</Nobody>
+  <ConnectedPawnDesc>Человек, с которым связано {TREE_label}. Если связующий умрёт, {TREE_label} будет недоступно для связывания в течение {DURATION}.</ConnectedPawnDesc>
+  <ConnectionTorn>Связь разорвана. Связывание можно повторить через {0}.</ConnectionTorn>
+  <ConnectedPawnAway>{PAWN_nameDef} слишком далеко</ConnectedPawnAway>
+  <TreeBlockedByNearbyBuildingsDesc>Посадка {lookup: {PLANT_definite}; Case; 1} рядом с искусственными сооружениями приведёт к тому, что сила связи с ним будет ухудшаться со временем. Сила связи определяет максимальное количество дриад, которое оно сможет поддерживать.\n\nВы уверены, что хотите посадить древо здесь?</TreeBlockedByNearbyBuildingsDesc>
+  <GauranlenModeChangeDescFull>Смена касты дриад у {lookup: {TREE_definite}; Case; 1} требует времени и энергии.\n\nПосле того как связанный человек инициирует этот процесс, всё дриады спрячутся в коконы для трансформации на {DURATION_numCase ? день : дня : дней}.\n\nДриады, уже находящиеся в коконах, прервут текущую трансформацию, чтобы преобразоваться в выбранную касту.</GauranlenModeChangeDescFull>
+  <ChangeModeDesc>Сменить тип дриад, созданных {lookup: {TREE_definite}; Case; 4}.</ChangeModeDesc>
+  <ConnectionStrengthFall>Падение силы связи</ConnectionStrengthFall>
+  <ConnectionStrength>Сила связи</ConnectionStrength>
+  <ConnectionStrengthDisplay>{0} силы</ConnectionStrengthDisplay>
+  <ConnectionStrengthDesc>Определяет, сколько дриад древо сможет поддерживать.</ConnectionStrengthDesc>
+  <MaximumDryads>Максимум дриад</MaximumDryads>
+  <MaximumDryadsDesc>Максимальное количество дриад, которое это древо сможет поддерживать.</MaximumDryadsDesc>
+  <MaxDryadsBasedOnConnectionStrength>Максимум дриад определяется силой связи</MaxDryadsBasedOnConnectionStrength>
+  <PruningConnectionStrength>Прирост силы связи при уходе</PruningConnectionStrength>
+  <PruningHoursToMaintain>Часов ухода в день</PruningHoursToMaintain>
+  <DesiredConnectionStrength>Желаемая</DesiredConnectionStrength>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} будет ухаживать за {lookup: {TREE_definite}; Case; 4} настолько часто, насколько это необходимо для обеспечения силы связи на желаемом уровне.\n\nЧем сильнее связь, тем больше дриад сможет поддерживать древо, но тем быстрее её уровень будет падать, и тем чаще за древом придётся ухаживать.\n\nЩёлкните по полосе, чтобы задать желаемую силу связи.\n\nСила связи падает на {FALL} в день.\n\nНа силу связи влияют близлежащие сооружения.</DesiredConnectionStrengthDesc>
+  <WaitingForConnectorToChangeCaste>Ожидает {CONNECTEDPAWN_nameDef} для смены касты дриад.</WaitingForConnectorToChangeCaste>
+  <GauranlenTreeMode>Каста дриад.</GauranlenTreeMode>
+  <NoCaste>нет касты</NoCaste>
+  <GauranlenTreeModeDesc>Определяет касту рождённых на текущий момент дриад.</GauranlenTreeModeDesc>
+  <SpawningDryadIn>{DRYAD_label} родится через {TIME}</SpawningDryadIn>
+  <ChangingDryadIntoType>Трансформирует {lookup: {DRYAD_labelShort}; Case; 3} в {lookup: {TYPE_label}; Case; 3}.</ChangingDryadIntoType>
+  <HoursEveryDay>{0} ч каждый день</HoursEveryDay>
+  <HoursEveryOtherDay>{0} ч каждый второй день</HoursEveryOtherDay>
+  <DryadProducesResourcesDesc>{DRYAD_labelPlural} производят {lookup: {RESOURCES}; Case; 3} каждые {DURATION}.</DryadProducesResourcesDesc>
+  <DryadCannotChangeMaster>{ANIMAL_nameDef} {ANIMAL_gender ? связан : связана : связано} с {MASTER_nameDef} через своё древо Гауранлен. {ANIMAL_possessive} хозяин не может быть изменён.</DryadCannotChangeMaster>
+  <ConnectionStrengthTooWeakForGaumakerPod>Связь слишком слаба для создания ростка Гауранлен.</ConnectionStrengthTooWeakForGaumakerPod>
+  <Unconnected>Нет связи</Unconnected>
+  <DryadPlural>Дриады</DryadPlural>
+  <ConnectionStrengthAffectedBy>Сила связи зависит от</ConnectionStrengthAffectedBy>
+  <CurrentlyAffectedBy>Сейчас зависит от</CurrentlyAffectedBy>
+  <NotEnoughConnectionStrengthForSingleDryad>Для рождения дриады необходима связь с силой {0}.</NotEnoughConnectionStrengthForSingleDryad>
+  <CannotAssignAllowedAreaToDryad>Невозможно назначить доступную область</CannotAssignAllowedAreaToDryad>
+  <TargetNightOutdoors>Цель снаружи ночью</TargetNightOutdoors>
+  <TargetDarkIndoors>Цель в тёмном помещении</TargetDarkIndoors>
+  <TargetDayOutdoors>Цель снаружи днём</TargetDayOutdoors>
+  <TargetLitIndoors>Цель в освещённом помещении</TargetLitIndoors>
+  <RechargeableCharging>Заряжание</RechargeableCharging>
+  <RechargeableReady>Готово</RechargeableReady>
+  <RoleRequirementSkill>Навык</RoleRequirementSkill>
+  <RoleRequirementSkillAny>Любой из навыков</RoleRequirementSkillAny>
+  <RoleEffectWontUseRangedWeapons>Не может использовать оружие дальнего боя</RoleEffectWontUseRangedWeapons>
+  <RoleEffectWontUseMeleeWeapons>Не может использовать оружие ближнего боя</RoleEffectWontUseMeleeWeapons>
+  <RoleEffectProductionQualityOffset>Качество создаваемых изделий или возводимых сооружений: {0}</RoleEffectProductionQualityOffset>
+  <RoleEffectHuntingRevengeChance>Шанс ответного нападения при охоте {0}</RoleEffectHuntingRevengeChance>
+  <RoleEffectGiveThoughtOnTended>Даёт мысль</RoleEffectGiveThoughtOnTended>
+  <AssignColonists>Обратить поселенцев</AssignColonists>
+  <RemoveNewIdeoligion>Удалить новую идеолигию</RemoveNewIdeoligion>
+  <MakeIdeoligionPrimary>Сделать основной идеолигией</MakeIdeoligionPrimary>
+  <GameOverArchotechInvokedIntro>Вы активировали ядро архонексуса. Мир наполняется слепящим светом, а время словно замедляется…\n\n</GameOverArchotechInvokedIntro>
+  <GameOverArchotechInvokedEnding>Бог-машина заметил вас. Никто не знает, что произойдёт дальше. Он может уничтожить вас, связаться с вами напрямую или перенести ваше сознание в другую плоскость реальности.\n\nВы чувствуете, как огромная нечеловеческая сущность бесконечной фрактальной сложности проникает в ваше сознание. Пространство и время перестают существовать. Это вселяет ужас. И это так красиво…</GameOverArchotechInvokedEnding>
+  <GameOverColonistsTranscended>Эти поселенцы вознеслись:\n\n{0}</GameOverColonistsTranscended>
+  <Reward_ArchonexusMapPart>Часть карты архонексуса</Reward_ArchonexusMapPart>
+  <Reward_ArchonexusMapPartLabel>Часть карты архонексуса {0}/{1}</Reward_ArchonexusMapPartLabel>
+  <RelicsLower>реликвии</RelicsLower>
+  <RelicLower>реликвия</RelicLower>
+  <LinkedTo>Связяна с</LinkedTo>
+  <SupplySatellite>Спутник с припасами</SupplySatellite>
+  <CannotExtractSkull>Поселенец не желает извлекать череп из тела (нет идеолигиозного принципа, разрешающего черепа на кольях)</CannotExtractSkull>
+  <TipPreviewRitualAmbienceSound>Прослушать мелодию, сопровождающую ритуалы</TipPreviewRitualAmbienceSound>
+  <ChooseStuffForRelic>Выберите</ChooseStuffForRelic>
+  <RelicStuff>Сделано из</RelicStuff>
+  <BiosculpterPodCycleLabel>Цикл</BiosculpterPodCycleLabel>
+  <BiosculpterPodCycleLabelLoading>заправка ингредиентами</BiosculpterPodCycleLabelLoading>
+  <BiosculpterPodCycleWillBiotune>(и биокалибровка)</BiosculpterPodCycleWillBiotune>
+  <BiosculpterPodCycleCommand>Начать цикл {lookup: {0}; Case; 1}</BiosculpterPodCycleCommand>
+  <BiosculpterPodCycleDuration>Длительность</BiosculpterPodCycleDuration>
+  <BiosculpterPodCycleDurationTranshumanists>Длительность (для трансгуманистов)</BiosculpterPodCycleDurationTranshumanists>
+  <BiosculpterPodCycleSelection>Готов к выбору цикла</BiosculpterPodCycleSelection>
+  <BiosculpterPodCycleStandby>Готов к циклу {lookup: {CYCLE}; Case; 1} для {PAWN_labelShort}</BiosculpterPodCycleStandby>
+  <BiosculpterPodCycleSelectionNoPower>Еда загружена, нет питания</BiosculpterPodCycleSelectionNoPower>
+  <BiosculpterCycleTimeRemaining>Закончится через</BiosculpterCycleTimeRemaining>
+  <BiosculpterCycleAccelerated>ускорен для трансгуманистов</BiosculpterCycleAccelerated>
+  <BiosculpterCycleNoPowerInterrupt>На паузе: нет питания (цикл прервётся через {TIME})</BiosculpterCycleNoPowerInterrupt>
+  <BiosculpterBiotunedTo>Откалиброван для</BiosculpterBiotunedTo>
+  <BiosculpterInteruptCycle>Прервать цикл</BiosculpterInteruptCycle>
+  <BiosculpterInteruptCycleDesc>Прервать текущий цикл. Человек, находящийся внутри, будет выброшен из капсулы, не получив никаких положительных эффектов цикла, и будет непродолжительно страдать от биоскульпторной болезни.</BiosculpterInteruptCycleDesc>
+  <BiosculpterEnteringMessage>{PAWN_labelShort} войдёт в биоскульптор и начнёт цикл {lookup: {CYCLE}; Case; 1}.</BiosculpterEnteringMessage>
+  <BiosculpterLoadingStartedMessage>{PAWN_labelShort} соберёт {INGREDIENTS} и начнёт цикл {lookup: {CYCLE}; Case; 1}.</BiosculpterLoadingStartedMessage>
+  <BiosculpterCarryStartedMessage>{PAWN_labelShort} соберёт {INGREDIENTS}, поместит {DOWNED_labelShort} в биоскульптор и начнёт цикл {lookup: {CYCLE}; Case; 1}.</BiosculpterCarryStartedMessage>
+  <NumNutrition>{0} ед. еды</NumNutrition>
+  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} {PAWN_gender ? выброшен : выброшена : выброшно} из капсулы биоскульптора из-за нехватки энергии.</BiosculpterNoPowerEjectedMessage>
+  <BiosculpterHealCompletedMessage>{PAWN_labelShort} {PAWN_gender ? прошёл : прошла : прошёло} цикл оздоровления.</BiosculpterHealCompletedMessage>
+  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} {PAWN_gender ? прошёл : прошла : прошёло} цикл оздоровления, а {PAWN_possessive} заболевание — {HEDIFF_label} — было вылечено.</BiosculpterHealCompletedWithCureMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} {PAWN_gender ? прошёл : прошла : прошёло} цикл омоложения.</BiosculpterAgeReversalCompletedMessage>
+  <AgeReversalExpectationDeadline>Следующий цикл {PAWN_pronoun} ожидает пройти через {DEADLINE_numCase ? день : дня : дней}.</AgeReversalExpectationDeadline>
+  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort} {PAWN_gender ? прошёл : прошла : прошёло} цикл удовольствия.</BiosculpterPleasureCompletedMessage>
+  <BiosculpterCleanlinessSpeedFactor>Модификатор санитарных условий</BiosculpterCleanlinessSpeedFactor>
+  <BiosculpterBiotunedSpeedFactor>Скорость после биокалибровки</BiosculpterBiotunedSpeedFactor>
+  <HealingCycleWillHeal>Следующие проблемы со здоровьем будут решены</HealingCycleWillHeal>
+  <HealingCycleOneWillHeal>Одна из следующих проблем со здоровьем будет решена</HealingCycleOneWillHeal>
+  <MissingRequiredResearch>Отсутствует необходимая технология</MissingRequiredResearch>
+  <BiosculpterRequiresIngredients>Требует</BiosculpterRequiresIngredients>
+  <OnCompletionOfCycle>По завершении цикла {lookup: {CYCLE}; Case; 1} произойдёт следующее</OnCompletionOfCycle>
+  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef} не имеет проблем со здоровьем, которые мог бы решить цикл {lookup: {CYCLE}; Case; 1}.\n\nПродолжить?</BiosculpterNoCoditionsToHeal>
+  <Basic>основной</Basic>
+  <ChangeStyleDesc>Изменить стиль будущего сооружения. Изменения будут лишь визуальными и не будут влиять на геймплей.</ChangeStyleDesc>
+  <ChangeStyleDisabledNoCategories>нет доступных стилей.</ChangeStyleDisabledNoCategories>
+  <SpacedroneSelfDestructsIn>Космический дрон самоуничтожится через {0}</SpacedroneSelfDestructsIn>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RoyaltyTips.TitleMilitaryAid>Некоторые титулы позволяют своим владельцам обращаться за военной помощью. Это может спасти вас в трудную минуту.</RoyaltyTips.TitleMilitaryAid>
+  <RoyaltyTips.NoblesDemandPrivileges>Имперская знать будет требовать всех привилегий, соответствующих их титулу. Ваши же титулованные поселенцы могут быть более гибкими, если в них нет грубости, снобизма или завистливости.</RoyaltyTips.NoblesDemandPrivileges>
+  <RoyaltyTips.RoyalArmor>Требованиям обладателей высоких титулов соответствуют роскошная силовая броня, а также одежда из эльтекса.</RoyaltyTips.RoyalArmor>
+  <RoyaltyTips.TitleInheritance>Если обладатель титула умирает, его титул переходит к избранному наследнику.</RoyaltyTips.TitleInheritance>
+  <RoyaltyTips.ChangeHeir>Вы можете изменить наследника титула через консоль связи. Однако это потребует соблюдения определённого ритуала.</RoyaltyTips.ChangeHeir>
+  <RoyaltyTips.FreePsychicAmplifier>Империя любезно дарует нейроформер пси-связи каждому, кто получает соответствующий титул.</RoyaltyTips.FreePsychicAmplifier>
+  <RoyaltyTips.IllegalImplantUse>Нейроформеры пси-связи могут быть получены при выполнении заданий. Эти устройства позволяют человеку получить пси-способности.</RoyaltyTips.IllegalImplantUse>
+  <RoyaltyTips.InstallingPsychicAmplifier>Каждый получаемый уровень пси-связи позволяет изучить случайную пси-способность.</RoyaltyTips.InstallingPsychicAmplifier>
+  <RoyaltyTips.PsycastAdvantage>Применение пси-способностей может дать значительное преимущество в бою.</RoyaltyTips.PsycastAdvantage>
+  <RoyaltyTips.PsycastFactionRelations>Применение пси-способности на союзнике испортит отношения между фракциями — но только в случае, если оно ему навредило.</RoyaltyTips.PsycastFactionRelations>
+  <RoyaltyTips.PsycastInvisibility>Пси-невидимость не исчезает, когда вы атакуете.</RoyaltyTips.PsycastInvisibility>
+  <RoyaltyTips.PsychicEntropyLimit>Превышение лимитов нейроперегрева может спасти вас в отчаянной ситуации, но спровоцирует длительный пси-срыв.</RoyaltyTips.PsychicEntropyLimit>
+  <RoyaltyTips.PsycastSensitivity>Существа с повышенной психочувствительностью более подвержены пси-воздействиям.</RoyaltyTips.PsycastSensitivity>
+  <RoyaltyTips.EltexGear>Одежда из эльтекса увеличит лимит нейроперегрева для ваших псиоников и ускорит его рассеивание.</RoyaltyTips.EltexGear>
+  <RoyaltyTips.MechClusterPowercell>Сражаясь с кластером механоидов, старайтесь уничтожать их энергоячейки. Они взрываются, нанося тяжёлый урон всем существам и сооружениям вокруг.</RoyaltyTips.MechClusterPowercell>
+  <RoyaltyTips.MechClusterDormant>Некоторые кластеры механоидов остаются «спящими», пока их не потревожить. Используйте это как возможность подготовить свою атаку.</RoyaltyTips.MechClusterDormant>
+  <RoyaltyTips.RoyalTributeCollector>Имперский сборщик податей прибывает дважды в год и принимает золото и пленников в обмен на честь.</RoyaltyTips.RoyalTributeCollector>
+  <RoyaltyTips.MechClusterDormantTrigger>Вы можете спокойно проходить мимо «спящих» кластеров механоидов до тех пор, пока не атакуете его или не активируете датчик движения.</RoyaltyTips.MechClusterDormantTrigger>
+  <RoyaltyTips.SkipPsycastsMultiuse>Пси-способность «прыжок» можно применять к себе, союзникам, противникам и даже предметам. Его тактические возможности безграничны.</RoyaltyTips.SkipPsycastsMultiuse>
+  <RoyaltyTips.JumpPackRescue>Поселенцы могут использовать прыжковые ранцы, перенося обездвиженных союзников. Воздушная эвакуация спасает жизни.</RoyaltyTips.JumpPackRescue>
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChooseHeir>Выбрать нового наследника для {HOLDER_nameIndef}:</ChooseHeir>
+  <MakeHeirConfirm>Вы собираетесь сменить наследника для титула, который {HOLDER_nameIndef} {HOLDER_gender ? получил : получила : получило} от {0_name}. Чтобы увековечить нового наследника, потребуется построить монумент в ограниченные сроки.</MakeHeirConfirm>
+  <MakeHeirPreviousHeirWarning>Это расстроит {HOLDER_possessive} текущего наследника, {HEIR_nameFull}</MakeHeirPreviousHeirWarning>
+  <CommandCallRoyalAid>Запросить помощь…</CommandCallRoyalAid>
+  <CommandCallRoyalAidDesc>Запросить помощь, воспользовавшись особой привилегией.\n\nКаждым видом помощи можно бесплатно воспользоваться в первый раз. Для повторного бесплатного запроса придётся подождать некоторое время. Вы можете вызывать помощь чаще, но ценой чести.</CommandCallRoyalAidDesc>
+  <CommandCallRoyalAidLodger>Гости не могут пользоваться своей привилегией запроса помощи.</CommandCallRoyalAidLodger>
+  <CommandCallRoyalAidSlave>Рабы не могут пользоваться своими привилегиями.</CommandCallRoyalAidSlave>
+  <CommandCallRoyalAidFactionHostile>Вы находитесь во враждебных отношениях с фракцией {FACTION_name}</CommandCallRoyalAidFactionHostile>
+  <CommandCallRoyalAidFreeOption>Бесплатно</CommandCallRoyalAidFreeOption>
+  <CommandCallRoyalAidFavorOption>{0_numCase ? Остался : Осталось : Осталось} {0_numCase ? день : дня : дней}, будет стоить {1} ед. {lookup: {FACTION_royalFavorLabel}; Case; 1}</CommandCallRoyalAidFavorOption>
+  <CommandCallRoyalAidWarningNonHostileFactions>Вы собираетесь запросить помощь, но рядом с вами находятся представители фракций, с которыми {0_name} не враждует. Ни один солдат из тех, что вы вызовете, не станет на них нападать: {1}</CommandCallRoyalAidWarningNonHostileFactions>
+  <CommandCallRoyalAidNotEnoughFavor>Недостаточно чести.</CommandCallRoyalAidNotEnoughFavor>
+  <CommandCallRoyalAidMapUnreachable>Фракция {FACTION_name} не может добраться в это место.</CommandCallRoyalAidMapUnreachable>
+  <CommandCallRoyalAidInvalidMap>Невозможно запросить помощь здесь.</CommandCallRoyalAidInvalidMap>
+  <CommandCallLaborers>Запросить рабочую силу</CommandCallLaborers>
+  <CommandCallLaborersDesc>Воспользоваться особой привилегией, чтобы запросить группу рабочих у ваших союзников. Они будут выполнять только трудовые задачи, но вы сможете управлять ими, как своими поселенцами. Вы будете обязаны обеспечить их безопасность.</CommandCallLaborersDesc>
+  <CommandOnCooldown>Нужно подождать. Осталось {0_numCase ? день : дня : дней}.</CommandOnCooldown>
+  <CommandCallLaborersNumLaborers>{0_numCase ? рабочий : рабочих : рабочих}</CommandCallLaborersNumLaborers>
+  <CommandPsycastWouldExceedEntropy>Уровень нейроперегрева будет превышен. Отключите ограничитель нейроперегрева, чтобы использовать способность.</CommandPsycastWouldExceedEntropy>
+  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME} требует {0} пси-концентрации, но у {CASTERNAME} только {1}.</CommandPsycastNotEnoughPsyfocus>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME} требует {0} пси-концентрации для остановки нервного срыва {1}, но у {CASTERNAME} только {2}.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastHigherLevelPsylinkRequired>требуется {0} уровень пси-связи.</CommandPsycastHigherLevelPsylinkRequired>
+  <CommandPsycastZeroPsychicSensitivity>Психочувствительность отсутствует.</CommandPsycastZeroPsychicSensitivity>
+  <CommandPsycastPawnIsUnconscious>Псионик без сознания.</CommandPsycastPawnIsUnconscious>
+  <CommandPsycastLowPsyfocus>Необходимо как минимум {0} ед. пси-концентрации для применения этой способности.</CommandPsycastLowPsyfocus>
+  <CommandPsycastInsanityImmune>Иммунитет к безумию.</CommandPsycastInsanityImmune>
+  <NeuralHeatLetter>П</NeuralHeatLetter>
+  <PsyfocusLetter>К</PsyfocusLetter>
+  <IneffectivePsychicImmune>Иммунитет к безумию</IneffectivePsychicImmune>
+  <CommandSelectMonumentMarker>Выбрать монумент</CommandSelectMonumentMarker>
+  <CommandSelectMonumentMarkerDesc>Выбрать метку монумента, к которой относится этот объект.</CommandSelectMonumentMarkerDesc>
+  <CommandWarnInBuildingRadius>Постройки рядом</CommandWarnInBuildingRadius>
+  <CommandWarnInBuildingRadiusDesc>При включённой опции красная линия будет указывать на искусственные сооружения, мешающие медитации, если вы попытаетесь их поставить слишком близко.\n\nВы можете выключить эту опцию, если не собираетесь использовать этот объект для медитации.</CommandWarnInBuildingRadiusDesc>
+  <ChooseRoyalPermit>Выбрать привилегию</ChooseRoyalPermit>
+  <ChooseRoyalPermit_Desc>Открыть окно получения привилегий.</ChooseRoyalPermit_Desc>
+  <CommandLeaveBestowingCeremony>Покинуть церемонию присвоения титула</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremonyDesc>Прекратить участие в церемонии присвоения титула.</CommandLeaveBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremony>Прервать церемонию присвоения титула</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremonyDesc>Немедленно прервать церемонию присвоения титула. Эмиссар уйдёт, но возможность провести церемонию скоро снова появится.</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyConfirm>Вы уверены, что хотите прервать церемонию присвоения титула?</CommandCancelBestowingCeremonyConfirm>
+</LanguageData>

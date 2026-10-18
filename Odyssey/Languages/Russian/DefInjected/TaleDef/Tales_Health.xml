@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <VacuumExposureRevealed.label>выявлено воздействие вакуума</VacuumExposureRevealed.label>
+  <VacuumExposureRevealed.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] подвергается воздействию космического вакуума</li>
+    <li>tale_noun-&gt;[PAWN_nameDef] страдает от воздействия вакуума</li>
+    <li>image-&gt;[PAWN_nameFull] уносится от корабля [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] дрейфует в космосе [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] плывет среди звезд [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] еле держится на ногах, выходя из воздушного шлюза [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;пока лицо [PAWN_possessive] медленно синеет</li>
+    <li>circumstance_phrase-&gt;пока слюна [PAWN_possessive] начинает закипать</li>
+    <li>circumstance_phrase-&gt;пока тело [PAWN_possessive] начинает раздуваться</li>
+    <li>circumstance_phrase-&gt;пока кожа [PAWN_possessive] начинает замерзать</li>
+    <li>circumstance_phrase-&gt;пока он/она безмолвно кричит</li>
+    <li>circumstance_phrase-&gt;и начинает терять сознание</li>
+    <li>circumstance_phrase-&gt;и пытается схватить воздух</li>
+    <li>desc_sentence-&gt;Глаза [PAWN_nameDef] становятся стеклянными.</li>
+    <li>desc_sentence-&gt;Субъекта окружает бесконечная тьма.</li>
+    <li>desc_sentence-&gt;Сцена, по-видимому, происходит в космосе.</li>
+    <li>desc_sentence-&gt;Под разбитым шлемом видны безжизненные глаза.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] искаженных звезд окружают изображение.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] одет в порванный скафандр.</li>
+    <li>desc_sentence-&gt;За изображением нависает огромный [Color] астероид.</li>
+    <li>desc_sentence-&gt;Позади изображения находится большая [Color] планета.</li>
+  </VacuumExposureRevealed.rulePack.rulesStrings>
+</LanguageData>

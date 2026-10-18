@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AlertMechLacksOverseer>Механоиды без управления</AlertMechLacksOverseer>
+  <AlertMechLacksOverseerDesc>Некоторые ваши механоиды не контролируются механитором.\n\nВыберите механитора с достаточной пропускной способностью и нажмите правой кнопкой мыши на оставленном без управления механоиде, чтобы взять того под контроль.\n\nМеханоид может одичать, если оставить его без управления более чем на сутки:\nон присоединится к {replace: {0}; «рой механоидов»-«рою механоидов»} и станет враждебным к вам. Более того, он сможет увлечь за собой и других находящихся рядом механоидов.\n\nДиких механоидов невозможно воскресить через гестацию после убийства.</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerUncontrolled>Эти механоиды оставлены без управления</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerMayGoFeral>Эти механоиды оставлены без управления и могут одичать в любой момент</AlertMechLacksOverseerMayGoFeral>
+  <AlertWarqueenHasLowResources>У {lookup: {0}; Case; 1} мало ресурсов</AlertWarqueenHasLowResources>
+  <AlertWarqueenHasLowResourcesDesc>Ваши {0} с малым запасом ресурсов рискуют в ближайшее время оказаться неспособными формировать новых механоидов, если полностью его исчерпают.</AlertWarqueenHasLowResourcesDesc>
+  <AlertLowDeathrestPawn>{PAWN} нуждается в торпоре</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawns>{NUMCULPRITS_numCase ? поселенцу : поселенцам : поселенцам} нужен торпор</AlertLowDeathrestPawns>
+  <AlertLowDeathrestDesc>Люди, давно не находившиеся в торпоре, начинают страдать от торпорного истощения.\n\nЧтобы поселенец погрузился в торпор, выберите его и нажмите правой кнопкой мыши на назначенные ему кровать или торпорный саркофаг.\n\nЭти люди нуждаются в торпоре:\n{CULPRITS}</AlertLowDeathrestDesc>
+  <AlertLowHemogen>Низкий уровень гемогена</AlertLowHemogen>
+  <AlertLowHemogenDesc>У одного или нескольких поселенецев почти закончились запасы гемогена в организме. Полное истощение запасов гемогена приводит к гемогенному голоданию.\n\nЧтобы избежать этого, дайте этим поселенцам гемоген-пакеты. Такие пакеты можно получить в результате проведения медицинской процедуры «Откачать гемоген» над негемогеничным человеком.\n\nУ этих поселенцев низкий уровень гемогена</AlertLowHemogenDesc>
+  <AlertRechargerFull>Зарядная станция заполнена</AlertRechargerFull>
+  <AlertRechargerFullDesc>Некоторые зарядные станции содержат предельно допустимое количество мешков отходов. Механоиды не смогут заряжаться на этих станциях, пока мешки не будут извлечены.\n\nВыберите поселенца и нажмите правой кнопкой мыши на зарядную станцию, чтобы разгрузить её.</AlertRechargerFullDesc>
+  <AlertNeedMechChargers>Нужны зарядные станции</AlertNeedMechChargers>
+  <AlertNeedMechChargersDesc>Вашим механоидам нужны зарядные станции. Если заряд механоида полностью израсходуется, тот войдёт в режим сна и будет очень медленно подзаряжаться самостоятельно.\n\nПостройте указанные зарядные станции:\n{0}\n\nПримечание: на простой зарядной станции могут заряжаться только лёгкие механоиды, а средним и более тяжёлым нужна большая зарядная станция.</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargerBasicMechtech>Исследуйте базовые или более сложные технологии механоидов, чтобы построить зарядную станцию.</AlertNeedMechChargerBasicMechtech>
+  <AlertReimplantationAvailable>Вживление доступно</AlertReimplantationAvailable>
+  <AlertReimplantationAvailableDesc>{0_nameDef} {0_gender ? готов : готова : готов} вживить своё ксеносемя в одного из ваших поселенцев.</AlertReimplantationAvailableDesc>
+  <AlertLowBabyFood>Мало пищи для младенцев</AlertLowBabyFood>
+  <AlertLowBabyFoodDesc>У поселения мало еды для младенцев.\n\n Нужно прокормить {0_numCase ? младенца : младенцев : младенцев}\n Еды для них хватит на {1_numCase ? день : дня : дней}\n\nПриготовьте, найдите или купите пропитание для младенцев, такое как {2}.</AlertLowBabyFoodDesc>
+  <AlertNoBabyFeeder>Нет кормильцев</AlertNoBabyFeeder>
+  <AlertNoBabyFeederDesc>Для кормления некоторых младенцев не назначен ни один способный стоять на ногах {FACTION_pawnSingular}.\n\nНазначьте одного из ваших {lookup: {FACTION_pawnsPlural}; Case; 1} заботиться о детях или, выбрав младенца и перейдя во вкладку «Питание», укажите приоритет «Всегда» напротив кормилицы. Также удостоверьтесь, что назначенные {FACTION_pawnsPlural} не обездвижены.</AlertNoBabyFeederDesc>
+  <AlertAbandonedBaby>Брошенный младенец</AlertAbandonedBaby>
+  <AlertAbandonedBabyDesc>Неподалёку находится как минимум один младенец, за которым некому ухаживать. Если вы не возьмёте его под свою опеку, он скорее всего умрёт от голода.\n\nЧтобы принять младенца в поселение, выберите его и нажмите «{0}».</AlertAbandonedBabyDesc>
+  <AlertNoBabyFoodCaravan>Караван без еды для младенцев</AlertNoBabyFoodCaravan>
+  <AlertNoBabyFoodCaravanDesc>У младенцев в караване нет еды, и ни одна кормящая {FACTION_pawnsPlural} не назначена кормить их.</AlertNoBabyFoodCaravanDesc>
+  <AlertToxicBuildup>Отравление токсинами</AlertToxicBuildup>
+  <AlertToxicBuildupDesc>Эти поселенцы страдают от серьёзного отравления токсинами:\n\n{0}\n\nУведите их подальше от воздействующих факторов.\n\nОтравление токсинами может быть вызвано многими причинами, включая такие, как токсичные осадки, загрязнённая почва и токсичный газ.</AlertToxicBuildupDesc>
+  <AlertNeedBabyCribs>Нужны люльки</AlertNeedBabyCribs>
+  <AlertNeedBabyCribsDesc>У вас больше младенцев, чем люлек для них.\n\nЛибо разместите больше люлек, либо, если у вас не хватает ресурсов, просто обозначьте места сна младенцев.</AlertNeedBabyCribsDesc>
+  <AlertNeedSlaveCribs>Нужны люльки для рабов</AlertNeedSlaveCribs>
+  <AlertNeedSlaveCribsDesc>У вас больше порабощённых младенцев, чем люлек для них.\n\nЛибо разместите больше люлек, либо назначьте рабам люльки поселенцев.\n\nЕсли у вас не хватает ресурсов, вы можете просто обозначить места сна младенцев.</AlertNeedSlaveCribsDesc>
+  <AlertPollutedTerrain>Загрязнённая почва</AlertPollutedTerrain>
+  <AlertPollutedTerrainDesc>Некоторые люди или животные страдают от отравления токсинами и находятся на загрязнённой почве. Нахождение на ней приводит к накоплению в организме токсинов, которое в долгосрочной перспективе смертельно.\n\nДержите людей подальше от загрязнённой почвы или найдите способ защитить их от её пагубного воздействия. Определённое снаряжение, импланты и генетические модификации могут защитить от отравления токсинами. Воздействие загрязнения не будет нейтрализовано или уменьшено уложенным поверх такой почвы напольным покрытием. Устранить загрязнение можно либо вручную, либо другими методами.\n\nЭти люди или животные подвержены влиянию загрязнения:\n\n{0}</AlertPollutedTerrainDesc>
+  <AlertMechMissingBodyPart>У механоида отсутствует часть тела</AlertMechMissingBodyPart>
+  <AlertMechsMissingBodyPart>У механоидов отсутствуют части тела</AlertMechsMissingBodyPart>
+  <AlertMechMissingBodyPartDesc>Некоторые ваши механоиды лишились частей тела. Механиторы в ходе починки способны восстановить их целостность.\n\nЭтим механоидам недостаёт частей тела</AlertMechMissingBodyPartDesc>
+  <AlertMechNeedsRepair>Неисправности механоидов</AlertMechNeedsRepair>
+  <AlertMechNeedsRepairDescPrefix>Эти механоиды повреждены и нуждаются в ремонте</AlertMechNeedsRepairDescPrefix>
+  <AlertMechNeedsRepairDesc>Прикажите механитору починить их или включите им автопочинку.\n\nПроцесс починки механоида сопровождается значительным потреблением его энергии. Если у механоида останется настолько мало энергии, что он не сможет самостоятельно перемещаться, его придётся отнести к зарядной станции.</AlertMechNeedsRepairDesc>
+  <AlertToxifierGeneratorStopped>{0} остановлен</AlertToxifierGeneratorStopped>
+  <AlertToxifierGeneratorStoppedDesc>Ваш {0} не вырабатывает энергию, потому что всё доступное ему пространство уже заполнено токсичными отходами.\n\nОчистить загрязнённую почву можно, установив очистные помпы или указав область очистки загрязнения.</AlertToxifierGeneratorStoppedDesc>
+  <AlertPsychicBondedPawnsSeparated>Психическая связь на расстоянии</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparatedDesc>Некоторые поселенцы со сформированной психической связью разлучены и испытывают чувство одиночества.\n\nЧтобы избежать подобных ситуаций, психически связанные люди должны находиться в пределах одной местности, быть участниками одного каравана или пассажирами одной транспортной капсулы. Помимо этого, они не должны находиться в криптосне или подобном состоянии анабиоза.\n\nЭти люди испытывают чувство одиночества</AlertPsychicBondedPawnsSeparatedDesc>
+  <AlertGenebankUnpowered>Генный банк обесточен</AlertGenebankUnpowered>
+  <AlertGenebankUnpoweredDesc>Оставшийся без электроэнергии генный банк не способен предотвращать ветшание хранящихся внутри него генных пакетов.\n\nПодключите генный банк к электрической сети, чтобы он остановил процесс ветшания и запустил механизмы восстановления находящихся в нём генных пакетов.</AlertGenebankUnpoweredDesc>
+  <AlertBossgroupIncoming>{0} приближается</AlertBossgroupIncoming>
+  <AlertBossgroupIncomingDesc>{0_gender ? Враждебный : Враждебная : Враждебное} {0}, {0_gender ? призванный : призванная : призванное} вашим механитором, уже приближается со своей охраной. Будьте готовы — это будет непростое сражение.\n\nВраждебные механоиды прибудут в любой момент в течение ближайших нескольких дней.</AlertBossgroupIncomingDesc>
+  <AlertDeathrestComplete>Торпор завершён</AlertDeathrestComplete>
+  <AlertDeathrestCompleteDesc>Эти люди завершили свой торпор и могут безопасно пробудиться</AlertDeathrestCompleteDesc>
+</LanguageData>

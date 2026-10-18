@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Event_DevourerConsumeLeap.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] набрасывается на жертву ([SUBJECT_definite]) и проглатывает её. [SUBJECT_definite] начинает перевариваться.</li>
+  </Event_DevourerConsumeLeap.rulePack.rulesStrings>
+  <Event_DevourerDigestionAborted.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] исторгает из себя жертву: наружу выходит [SUBJECT_definite].</li>
+  </Event_DevourerDigestionAborted.rulePack.rulesStrings>
+  <Event_DevourerDigestionCompleted.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] {INITIATOR_gender ? переварил : переварила} свою жертву ([SUBJECT_definite]).</li>
+  </Event_DevourerDigestionCompleted.rulePack.rulesStrings>
+  <Event_Hypnotized.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] погружает свою жертву ([SUBJECT_definite]) в транс.</li>
+  </Event_Hypnotized.rulePack.rulesStrings>
+  <Event_MetalhorrorEmerged.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] продирается наружу из тела хозяина ([SUBJECT_definite]).</li>
+  </Event_MetalhorrorEmerged.rulePack.rulesStrings>
+  <Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] начисто испепеляет мозг своей цели ([SUBJECT_definite]).</li>
+  </Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
+  <RevenantNoises.rulePack.rulesStrings>
+    <li>verb-&gt;дышит</li>
+    <li>verb-&gt;подрагивает</li>
+    <li>verb-&gt;трясётся</li>
+    <li>verb-&gt;скрипит</li>
+    <li>verb-&gt;хрипит</li>
+    <li>verb-&gt;скребётся</li>
+    <li>verb-&gt;шипит</li>
+    <li>verb-&gt;кряхтит</li>
+    <li>verb-&gt;бурчит</li>
+    <li>verb-&gt;бормочет</li>
+    <li>verb-&gt;пощёлкивает</li>
+    <li>verb-&gt;задыхается</li>
+    <li>verb-&gt;гремит</li>
+    <li>verb-&gt;подёргивается</li>
+    <li>verb-&gt;скрежещет</li>
+    <li>verb-&gt;кашляет</li>
+  </RevenantNoises.rulePack.rulesStrings>
+</LanguageData>

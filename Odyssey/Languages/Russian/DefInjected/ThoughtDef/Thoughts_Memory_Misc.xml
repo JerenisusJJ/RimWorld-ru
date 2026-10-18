@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BlowingSand.stages.blowing_sand.label>песчаная буря</BlowingSand.stages.blowing_sand.label>
+  <BlowingSand.stages.blowing_sand.description>Он проникает повсюду! Я чувствую его на зубах.</BlowingSand.stages.blowing_sand.description>
+  <DestroyedMechhive.stages.destroyed_mechhive.label>уничтоженный мехрой</DestroyedMechhive.stages.destroyed_mechhive.label>
+  <DestroyedMechhive.stages.destroyed_mechhive.description>Мы победили их! Теперь мы свободны.</DestroyedMechhive.stages.destroyed_mechhive.description>
+  <HotSpring.stages.hot_spring.label>горячий источник</HotSpring.stages.hot_spring.label>
+  <HotSpring.stages.hot_spring.description>Приятно погрузить ноги в теплую воду.</HotSpring.stages.hot_spring.description>
+  <ToxWater.stages.tox_water.label>токсичная вода</ToxWater.stages.tox_water.label>
+  <ToxWater.stages.tox_water.description>Я промок(ла) в этой отвратительной жиже. Она колет и жжет.</ToxWater.stages.tox_water.description>
+</LanguageData>

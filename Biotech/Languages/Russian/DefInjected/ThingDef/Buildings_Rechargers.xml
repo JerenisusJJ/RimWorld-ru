@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BasicRecharger.label>зарядная станция механоидов</BasicRecharger.label>
+  <BasicRecharger.description>Зарядная станция для лёгких механоидов. Во время зарядки производит отходы, которые следует своевременно извлекать и переносить в места хранения или перерабатывать.</BasicRecharger.description>
+  <StandardRecharger.label>большая зарядная станция механоидов</StandardRecharger.label>
+  <StandardRecharger.description>Зарядная станция для средних, тяжёлых и сверхтяжёлых механоидов. Во время зарядки производит отходы, которые следует своевременно извлекать и переносить в места хранения или перерабатывать.</StandardRecharger.description>
+</LanguageData>

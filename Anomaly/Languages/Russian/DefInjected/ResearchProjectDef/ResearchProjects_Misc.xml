@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SecurityDoor.label>защитная дверь</SecurityDoor.label>
+  <SecurityDoor.description>Особо усиленная дверь. Для работы ей нужно питание, а открывается она медленно, но зато она исключительно прочная. Если вам нужно изолироваться от опасности (или изолировать что-то опасное), такая дверь — ваш выбор. По бокам от двери должны стоять стены.</SecurityDoor.description>
+  <SecurityDoor.generalRules.rulesStrings>
+    <li>subject-&gt;защитные двери</li>
+    <li>subject_gen-&gt;защитных дверей</li>
+    <li>subject_dat-&gt;защитным дверям</li>
+    <li>subject_pre_about-&gt;о защитных дверях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? нанялся : нанялась} в исследовательский комплекс оператором охранных дронов и {ANYPAWN_gender ? патрулировал : патрулировала} внешний периметр не покидая изолированных помещений</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изготовил : изготовила} защитные устройства для одного межзвёздного торговца</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? углубился : углубилась} в исследования в области материаловедения, подписав контракт с частной наёмнической компанией</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? устроился : устроилась} работать инженером по эксплуатации в зоопарк с животными из разных уголков утопических миров</li>
+    <li>subject_gerund-&gt;установки защитных дверей</li>
+  </SecurityDoor.generalRules.rulesStrings>
+  <TurretPack.label>ранец с турелью</TurretPack.label>
+  <TurretPack.description>Создайте переносной ранец, который пользователь может превратить в турель с питанием от встроенной батареи.</TurretPack.description>
+  <TurretPack.generalRules.rulesStrings>
+    <li>subject-&gt;портативные турели</li>
+    <li>subject_gen-&gt;портативных турелей</li>
+    <li>subject_dat-&gt;портативным турелям</li>
+    <li>subject_pre_about-&gt;о портативных турелях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? принял : приняла} участие в обороне замка от нападения дикого племени</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? отслужил : отслужила} стрелком на кормовом орудии имперского десантного корабля</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала} новые виды портативного вооружения</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? принял : приняла} участие в захлестнувшей мир окопной войне</li>
+    <li>subject_gerund-&gt;изготовления портативных пулемётных турелей</li>
+  </TurretPack.generalRules.rulesStrings>
+</LanguageData>

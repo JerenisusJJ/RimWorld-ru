@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GauranlenPodSpawn.label>росток Гауранлен</GauranlenPodSpawn.label>
+  <GauranlenPodSpawn.letterLabel>Росток Гауранлен</GauranlenPodSpawn.letterLabel>
+  <GauranlenPodSpawn.letterText>Неподалёку появился росток с семенной капсулой Гауранлен!\n\nСоберите её, чтобы получить семя Гауранлен, которое можно использовать для посадки этого удивительного древа.\n\nВаши поселенцы могут провести ритуал связывания с древом, чтобы получать от него ресурсы и помощников в бою.</GauranlenPodSpawn.letterText>
+  <GiveQuest_Beggars.label>прибыли попрошайки</GiveQuest_Beggars.label>
+  <GiveQuest_Beggars.letterLabel>Прибыли попрошайки</GiveQuest_Beggars.letterLabel>
+  <GiveQuest_ReliquaryPilgrims.label>прибыли паломники</GiveQuest_ReliquaryPilgrims.label>
+  <GiveQuest_ReliquaryPilgrims.letterLabel>Прибыли паломники</GiveQuest_ReliquaryPilgrims.letterLabel>
+  <Infestation_Jelly.label>желе насекомых</Infestation_Jelly.label>
+  <Infestation_Jelly.letterLabel>Желе насекомых</Infestation_Jelly.letterLabel>
+  <Infestation_Jelly.letterText>Гигантские насекомые прорыли из-под земли туннель на поверхность и оставили на ней небольшой запас желе.</Infestation_Jelly.letterText>
+  <WanderersSkylantern.label>Странники</WanderersSkylantern.label>
+  <WanderersSkylantern.letterLabel>Доброжелательные посетители</WanderersSkylantern.letterLabel>
+  <WanderersSkylantern.letterText>Ваши небесные фонарики привлекли внимание дружелюбно настроенных путешественников. Их поразило устроенное вами представление и они надеются, что в следующий раз тоже смогут поучаствовать.\n\nОни посетят вас и оставят подарок.</WanderersSkylantern.letterText>
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bioregeneration.label>биорегенерация</Bioregeneration.label>
+  <Bioregeneration.description>Позволяет использовать биоскульпторы для проведения биорегенерации. В её процессе исчезают старые шрамы, заново отрастают потерянные части тела небольшого размера, такие как пальцы на руках или ногах, а также проходят некоторые старческие заболевания.</Bioregeneration.description>
+  <Bioregeneration.generalRules.rulesStrings>
+    <li>subject-&gt;биорегенерация</li>
+    <li>subject_gen-&gt;биорегенерации</li>
+    <li>subject_dat-&gt;биорегенерации</li>
+    <li>subject_pre_about-&gt;о биорегенерации</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? исследовал : исследовала} способность бумалоп сезонно отращивать рога на предмет схожести с процессами регенерации у человека</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? внедрил : внедрила} генетические данные саламандры в собственное тело</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? прошёл : прошла} обучение в госпитале утопического мира</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? окончил : окончила} заочный курс по эстетике в университете утопического мира</li>
+    <li>subject_gerund-&gt;восстановления человеческого облика</li>
+    <li>subject_gerund-&gt;активации регенерации в биоскульпторе</li>
+  </Bioregeneration.generalRules.rulesStrings>
+  <Biosculpting.label>биоскульптинг</Biosculpting.label>
+  <Biosculpting.description>Позволяет сооружать биоскульпторы. Эти устройства особенно важны для последователей трансгуманизма, так как позволяют производить различные манипуляции над телом на биологическом уровне.</Biosculpting.description>
+  <Biosculpting.generalRules.rulesStrings>
+    <li>subject-&gt;биоскульптинг</li>
+    <li>subject_gen-&gt;биоскульптинга</li>
+    <li>subject_dat-&gt;биоскульптингу</li>
+    <li>subject_pre_about-&gt;о биоскульптинге</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла} бизнес по производству биоскульптуров на заказ для различных поселений</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} принципы трансгуманизма, утверждавших жизненную необходимость в биоскульптинге</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? провёл : провела} исследования на предмет безопасности проведения различных биологических изменений</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? выкрал : выкрала} файлы с фермы поддержания на утопическом мире, чтобы дополнить эту документацию</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? был принят : была принята} в поселение трансгуманистов</li>
+    <li>subject_gerund-&gt;сооружения биоскульпторов</li>
+    <li>subject_gerund-&gt;преображения человеческого облика</li>
+  </Biosculpting.generalRules.rulesStrings>
+  <NeuralSupercharger.label>нейронный стимулятор</NeuralSupercharger.label>
+  <NeuralSupercharger.description>Устройство, используемое для получения нейростимуляции. Нейростимуляция повышает чувствительность нейронов, ускоряя работу мозга и усиливая эффективность обучения, ценой повышения аппетита. Эффект длится один день. Нейронные стимуляторы требуют большое количество энергии.</NeuralSupercharger.description>
+  <NeuralSupercharger.generalRules.rulesStrings>
+    <li>subject-&gt;нейростимуляция</li>
+    <li>subject_gen-&gt;нейростимуляции</li>
+    <li>subject_dat-&gt;нейростимуляции</li>
+    <li>subject_pre_about-&gt;о нейростимуляции</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? ввёл : ввела} практику использования нейронных стимуляторов в своей школе-интернате</li>
+    <li>subject_story-&gt;значительно {ANYPAWN_gender ? ускорил : ускорила} развитие выращенных на фермах клонов, простимулировав их нейроны</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? предпринял : предприняла} попытки запретить нейростимуляцию во время курса, который {ANYPAWN_gender ? он преподавал : она преподавала} в университете</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? присоединился : присоединилась} к секте трансгуманистов, в которой нейростимуляция была обязательной</li>
+    <li>subject_gerund-&gt;стимулирования интеллекта человека</li>
+    <li>subject_gerund-&gt;сооружения нейронных стимуляторов</li>
+  </NeuralSupercharger.generalRules.rulesStrings>
+</LanguageData>

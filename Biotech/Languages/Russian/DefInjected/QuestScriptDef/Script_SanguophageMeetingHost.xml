@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SanguophageMeetingHost.questContentRules.rulesStrings>
+    <li>sanguophagesArriveLetterLabel-&gt;Гемофаги прибыли</li>
+    <li>sanguophagesArriveLetterText-&gt;[sanguophageCount] гемофагов прибывают в [map_definite] с разных направлений. Они проведут встречу в поселении.</li>
+    <li>successLetterLabel-&gt;Встреча завершилась</li>
+    <li>successLetterText-&gt;Гемофаги завершили встречу и готовы выдать вам награду.</li>
+    <li>raidArrivedLetterLabel-&gt;Охотники на гемофагов</li>
+    <li>raidArrivedLetterText-&gt;Прибывает группа охотников на гемофагов из фракции [enemyFaction_name]!\n\nОни будут атаковать гемофагов и ваших поселенцев.</li>
+  </SanguophageMeetingHost.questContentRules.rulesStrings>
+  <SanguophageMeetingHost.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Гемофаг [asker_nameDef] ищет место для встречи с [sanguophageCountMinusOne] [sanguophageSingOrPlural], где их не смогут обнаружить. Их лидер, [asker_nameDef], просит вас организовать встречу в [map_definite].\n\nЕсли вы согласитесь, то [sanguophageCount] гемофагов прибудут в [map_definite] с разных направлений. Их встреча продлится несколько часов, а перед уходом они обещают вознаградить вас.\n\nВы можете предать их и сорвать встречу. Сражённого гемофага можно заставить обратить одного из ваших поселенцев в гемофага.\n\n[sanguophageInfo]</li>
+    <li>sanguophageSingOrPlural(sanguophageCountMinusOne==1)-&gt;другим гемофагом</li>
+    <li>sanguophageSingOrPlural(sanguophageCountMinusOne&gt;=2)-&gt;другими гемофагами</li>
+    <li>sanguophageInfo-&gt;(*Gray)Гемофаги — это бессмертные, нестареющие, красивые и умные сверхлюди, ставшие таковыми из-за архитов в их крови. Они могут исцелять любые раны и никогда не страдают от болезней и ядов. В бою они могут выпускать смертоносные шипы и исцелять раненных товарищей. Чтобы жить, гемофаги должны потреблять гемоген, который извлекается из человеческой крови, а также погружаться в торпор на продолжительное время. Они уязвимы к огню и чувствительны к солнечному свету.(/Gray)</li>
+  </SanguophageMeetingHost.questDescriptionRules.rulesStrings>
+  <SanguophageMeetingHost.questNameRules.rulesStrings>
+    <li>questName-&gt;[meetNoun] [meetAdjective]</li>
+    <li>meetAdjective-&gt;гемофагов</li>
+    <li>meetAdjective-&gt;жаждущих крови</li>
+    <li>meetAdjective-&gt;крови</li>
+    <li>meetAdjective-&gt;теней</li>
+    <li>meetAdjective-&gt;тьмы</li>
+    <li>meetAdjective-&gt;тёмно-красных</li>
+    <li>meetAdjective-&gt;красных</li>
+    <li>meetAdjective-&gt;коростовых</li>
+    <li>meetAdjective-&gt;кровавых</li>
+    <li>meetAdjective-&gt;кроваво-красных</li>
+    <li>meetNoun-&gt;встреча</li>
+    <li>meetNoun-&gt;форум</li>
+    <li>meetNoun-&gt;собрание</li>
+    <li>meetNoun-&gt;воссоединение</li>
+    <li>meetNoun-&gt;сходка</li>
+    <li>meetNoun-&gt;тайное совещание</li>
+    <li>meetNoun-&gt;слёт</li>
+    <li>meetNoun-&gt;переговоры</li>
+  </SanguophageMeetingHost.questNameRules.rulesStrings>
+</LanguageData>

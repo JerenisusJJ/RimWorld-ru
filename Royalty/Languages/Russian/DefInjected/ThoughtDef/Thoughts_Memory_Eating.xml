@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AteFoodInappropriateForTitle.stages.ate_lowclass_food.label>{PAWN_gender ? Съел : Съела} низкосортное блюдо</AteFoodInappropriateForTitle.stages.ate_lowclass_food.label>
+  <AteFoodInappropriateForTitle.stages.ate_lowclass_food.description>Такое едят простолюдины. Я требую к себе отношения, соответствующего моему титулу.</AteFoodInappropriateForTitle.stages.ate_lowclass_food.description>
+</LanguageData>

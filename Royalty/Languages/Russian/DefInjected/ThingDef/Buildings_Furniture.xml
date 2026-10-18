@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Brazier.label>жаровня</Brazier.label>
+  <Brazier.description>Предмет мебели, формой похожий на миску, в котором разжигают огонь. Он будет освещать окружающее пространство и выделять тепло.</Brazier.description>
+  <DarklightBrazier.label>тусклая жаровня</DarklightBrazier.label>
+  <DarklightBrazier.description>Особая жаровня, освещающая окружающее пространство тусклым светом и выделяющая тепло. Такие жаровни, как и обычные, подходят для знати.</DarklightBrazier.description>
+  <Drape.label>ширма</Drape.label>
+  <Drape.description>Декоративная занавесь, свисающая с деревянной рамы. Подойдёт для комнат знати.</Drape.description>
+  <GrandThrone.label>великий трон</GrandThrone.label>
+  <GrandThrone.description>Огромное кресло, украшенное узорами и орнаментами, на котором восседает правитель и выносит решения. Правление с трона является формой медитации и позволяет повышать уровень пси-концентрации знатных псиоников. Чем лучше впечатление производят трон и тронный зал, тем быстрее повышается пси-концентрация.</GrandThrone.description>
+  <GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Трон можно назначить только человеку со знатным титулом.</GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+  <Throne.label>трон</Throne.label>
+  <Throne.description>Большое кресло, украшенное узорами и орнаментами, на котором восседает правитель. Правление с трона является формой медитации и позволяет повышать уровень пси-концентрации знатных псиоников. Чем лучше впечатление производят трон и тронный зал, тем быстрее повышается пси-концентрация.</Throne.description>
+  <Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Трон можно назначить только человеку со знатным титулом.</Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+</LanguageData>

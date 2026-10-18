@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Boomshroom.label>бум-гриб</Boomshroom.label>
+  <Boomshroom.description>Эти грибы в качестве защиты вырабатывают летучие химические вещества. Их можно собирать для получения химтоплива. Однако делать это нужно с особой осторожностью, потому что при разрушении бум-грибы могут взорваться.\n\nУченые глиттермиров использовали генетический материал бум-грибов для создания ряда животных, производящих химтопливо.</Boomshroom.description>
+  <Plant_Berry_Leafless.label>ягодный куст</Plant_Berry_Leafless.label>
+  <Plant_Berry_Leafless.description>Кустистое дикорастущее растение, дающее вкусные ягоды. Ягоды можно готовить, но они хороши и в сыром виде.</Plant_Berry_Leafless.description>
+  <Plant_Brambles_Leafless.label>ежевика</Plant_Brambles_Leafless.label>
+  <Plant_Brambles_Leafless.description>Запутанные, колючие древовидные побеги, покрытые листьями. Ежевика растет группами и замедляет всех, кто по ней передвигается.</Plant_Brambles_Leafless.description>
+  <Plant_Bush_Leafless.label>куст</Plant_Bush_Leafless.label>
+  <Plant_Bush_Leafless.description>Низкий кустарник. Обычно не разговаривает.</Plant_Bush_Leafless.description>
+  <Plant_Fireweed.label>огневик</Plant_Fireweed.label>
+  <Plant_Fireweed.description>Низкорослое растение, образующее скопления фиолетовых цветов. Обычно встречается в альпийских районах.</Plant_Fireweed.description>
+  <Plant_MagmaCactus.label>магмовый кактус</Plant_MagmaCactus.label>
+  <Plant_MagmaCactus.description>Выносливый вид кактуса, известный своей способностью выживать при экстремальной жаре.</Plant_MagmaCactus.description>
+  <Plant_Nightgrass.label>ночная трава</Plant_Nightgrass.label>
+  <Plant_Nightgrass.description>Гриб, похожий на траву, растущий в составе обширной сети мицелия.</Plant_Nightgrass.description>
+  <Plant_NightRafflesia.label>ночная раффлезия</Plant_NightRafflesia.label>
+  <Plant_NightRafflesia.description>Дальний родственник гигантской раффлезии, это растение приспособилось к жизни в тёмных местах. Его красоту омрачает резкий запах мускуса и тухлых яиц.</Plant_NightRafflesia.description>
+  <Plant_Psilocap.label>псилошляпка</Plant_Psilocap.label>
+  <Plant_Psilocap.description>Гриб, выделяющий галлюциногенные споры. Достаточно просто стоять рядом, чтобы испытать лёгкие галлюцинации. Псилошляпки можно собирать и употреблять для ярких органолептических ощущений, улучшающих настроение.</Plant_Psilocap.description>
+  <Plant_Thornvine.label>шиполоза</Plant_Thornvine.label>
+  <Plant_Thornvine.description>Колючая лиана, приспособленная к жизни в суровых условиях.</Plant_Thornvine.description>
+  <Plant_TreeSnagroot.label>коряга</Plant_TreeSnagroot.label>
+  <Plant_TreeSnagroot.description>Корявое, медленно растущее дерево, приспособленное к жизни в ядовитых шрамях. Дает скудное количество древесины.</Plant_TreeSnagroot.description>
+  <Plant_Willowgill.label>ивожабра</Plant_Willowgill.label>
+  <Plant_Willowgill.description>Высокий, тонкий и медленно растущий гриб с пластинками, свисающими, как ветви ивы. Излучает мягкий свет.</Plant_Willowgill.description>
+  <Plant_YellowGrass.label>жёлтая трава</Plant_YellowGrass.label>
+  <Plant_YellowGrass.description>Дикая трава. Растёт там, где есть хоть немного света и минимально плодородная почва.</Plant_YellowGrass.description>
+  <Plant_YellowTallGrass.label>высокая жёлтая трава</Plant_YellowTallGrass.label>
+  <Plant_YellowTallGrass.description>Дикая высокая трава, образующая густые заросли. Замедляет каждого, кто по ней идет.</Plant_YellowTallGrass.description>
+</LanguageData>

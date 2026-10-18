@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BabyPlay.label>игра</BabyPlay.label>
+  <BabyPlay.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] {INITIATOR_gender ? заставил : заставила} [RECIPIENT_nameDef] [reaction].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [interaction] [RECIPIENT_nameDef].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] {INITIATOR_gender ? поиграл : поиграла} с [RECIPIENT_nameDef] в [babyGame].</li>
+    <li>reaction-&gt;захихикать</li>
+    <li>reaction-&gt;улыбнуться</li>
+    <li>reaction-&gt;рассмеяться</li>
+    <li>reaction-&gt;расплыться в улыбке</li>
+    <li>reaction-&gt;игриво пустить слюни</li>
+    <li>reaction-&gt;весело взвизгнуть</li>
+    <li>reaction-&gt;задорно рыгнуть</li>
+    <li>reaction-&gt;уставиться на н[INITIATOR_possessive] в восхищении</li>
+    <li>interaction-&gt;{INITIATOR_gender ? повеселил : повеселила}</li>
+    <li>interaction-&gt;{INITIATOR_gender ? поиграл : поиграла} с</li>
+    <li>interaction-&gt;{INITIATOR_gender ? развлёк : развлекла}</li>
+    <li>interaction-&gt;{INITIATOR_gender ? рассмешил : рассмешила}</li>
+    <li>interaction-&gt;{INITIATOR_gender ? позабавил : позабавила}</li>
+    <li>interaction-&gt;{INITIATOR_gender ? пощекотал : пощекотала}</li>
+    <li>interaction-&gt;{INITIATOR_gender ? приласкал : приласкала}</li>
+    <li>interaction-&gt;{INITIATOR_gender ? обнял : обняла}</li>
+    <li>interaction-&gt;{INITIATOR_gender ? спел : спела} для</li>
+    <li>interaction-&gt;{INITIATOR_gender ? рассказал : рассказала} сказку</li>
+    <li>interaction-&gt;{INITIATOR_gender ? показал : показал} фокус</li>
+    <li>babyGame-&gt;прятки</li>
+    <li>babyGame-&gt;жмурки</li>
+    <li>babyGame-&gt;«ладушки»</li>
+    <li>babyGame-&gt;«поехали-поехали»</li>
+    <li>babyGame-&gt;«козу рогатую»</li>
+    <li>babyGame-&gt;«сороку-сороку»</li>
+    <li>babyGame-&gt;«рельсы-рельсы, шпалы-шпалы»</li>
+    <li>babyGame-&gt;«кошечку мяу-мяу, собачку гав-гав»</li>
+    <li>babyGame-&gt;игру «где ляля?»</li>
+  </BabyPlay.logRulesInitiator.rulesStrings>
+  <LessonAnimals.label>урок зоологии</LessonAnimals.label>
+  <LessonAnimals.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=4)-&gt;[INITIATOR_nameDef] [teach_verb] [RECIPIENT_nameDef], как [animal_verb] [article_animal].</li>
+    <li>animal_verb-&gt;приручить {lookup: [animal]; Case; 3}</li>
+    <li>animal_verb-&gt;кормить {lookup: [animal]; Case; 3}</li>
+    <li>animal_verb-&gt;гладить {lookup: [animal]; Case; 3}</li>
+    <li>animal_verb-&gt;общаться c  {lookup: [animal]; Case; 4}</li>
+    <li>animal_verb-&gt;заслужить доверие {lookup: [animal]; Case; 1}</li>
+    <li>animal-&gt;гигантский ленивец</li>
+    <li>animal-&gt;мегапаук</li>
+    <li>animal-&gt;трумбо</li>
+    <li>animal-&gt;бумкрыса</li>
+    <li>animal-&gt;шиншилла</li>
+    <li>animal-&gt;морская свинка</li>
+    <li>animal-&gt;кобра</li>
+    <li>animal-&gt;эму</li>
+    <li>animal-&gt;игуана</li>
+    <li>animal-&gt;енот</li>
+    <li>animal-&gt;варг</li>
+    <li>animal-&gt;як</li>
+    <li>animal-&gt;белка</li>
+    <li>animal-&gt;муффало</li>
+    <li>subject-&gt;о психологии животных</li>
+    <li>subject-&gt;о техниках приручения</li>
+    <li>subject-&gt;об опасностях дикой природы</li>
+    <li>subject-&gt;о рептилиях</li>
+    <li>subject-&gt;об агриозе</li>
+    <li>subject-&gt;о комбикорме</li>
+  </LessonAnimals.logRulesInitiator.rulesStrings>
+  <LessonArtistic.label>урок искусств</LessonArtistic.label>
+  <LessonArtistic.logRulesInitiator.rulesStrings>
+    <li>action_with_tool-&gt;воплощать образы при помощи [tool_or_material_gen]</li>
+    <li>action_with_tool-&gt;работать с [tool_or_material_ins]</li>
+    <li>action_with_tool-&gt;работать [tool_ins]</li>
+    <li>action_with_tool-&gt;выражать себя при помощи [tool_or_material_gen]</li>
+    <li>subject_action_with_tool-&gt;о воплощении образов при помощи [tool_or_material_gen]</li>
+    <li>subject_action_with_tool-&gt;о работе с [tool_or_material_ins]</li>
+    <li>subject_action_with_tool-&gt;о работе [tool_ins]</li>
+    <li>subject_action_with_tool-&gt;о творческой самореализации при помощи [tool_or_material_gen]</li>
+    <li>tool_or_material_gen-&gt;[tool_gen]</li>
+    <li>tool_or_material_acc-&gt;[tool_acc]</li>
+    <li>tool_or_material_ins-&gt;[tool_ins]</li>
+    <li>tool_or_material_gen-&gt;[material_gen]</li>
+    <li>tool_or_material_acc-&gt;[material_acc]</li>
+    <li>tool_or_material_ins-&gt;[material_ins]</li>
+    <li>tool_gen-&gt;кисти</li>
+    <li>tool_acc-&gt;кисть</li>
+    <li>tool_ins-&gt;кистью</li>
+    <li>tool_gen-&gt;угольного карандаша</li>
+    <li>tool_acc-&gt;угольный карандаш</li>
+    <li>tool_ins-&gt;угольным карандашом</li>
+    <li>tool_gen-&gt;зубила</li>
+    <li>tool_acc-&gt;зубило</li>
+    <li>tool_ins-&gt;зубилом</li>
+    <li>material_gen-&gt;холста</li>
+    <li>material_acc-&gt;холст</li>
+    <li>material_ins-&gt;холстом</li>
+    <li>material_gen-&gt;глины</li>
+    <li>material_acc-&gt;глину</li>
+    <li>material_ins-&gt;глиной</li>
+    <li>subject-&gt;о скульптурных материалах</li>
+    <li>subject-&gt;об известных художниках</li>
+    <li>subject-&gt;о знаменитых полотнах</li>
+    <li>subject-&gt;о галереях на утопических мирах</li>
+    <li>subject-&gt;о портретном искусстве</li>
+    <li>subject-&gt;об абстрактном искусстве</li>
+    <li>subject-&gt;о смешивании красок</li>
+  </LessonArtistic.logRulesInitiator.rulesStrings>
+  <LessonConstruction.label>урок строительства</LessonConstruction.label>
+  <LessonConstruction.logRulesInitiator.rulesStrings>
+    <li>action_with_tool-&gt;пользоваться [tool_ins]</li>
+    <li>action_with_tool-&gt;работать с [tool_ins]</li>
+    <li>action_with_tool-&gt;проверять [tool_acc]</li>
+    <li>subject_action_with_tool-&gt;о применении [tool_gen]</li>
+    <li>subject_action_with_tool-&gt;о работе с [tool_ins]</li>
+    <li>subject_action_with_tool-&gt;об устройстве [tool_gen]</li>
+    <li>tool_gen-&gt;сварочного аппарата</li>
+    <li>tool_acc-&gt;сварочный аппарат</li>
+    <li>tool_ins-&gt;сварочным аппаратом</li>
+    <li>tool_gen-&gt;болгарки</li>
+    <li>tool_acc-&gt;болгарку</li>
+    <li>tool_ins-&gt;болгаркой</li>
+    <li>tool_gen-&gt;рулетки</li>
+    <li>tool_acc-&gt;рулетку</li>
+    <li>tool_ins-&gt;рулеткой</li>
+    <li>tool_gen-&gt;стремянки</li>
+    <li>tool_acc-&gt;стремянку</li>
+    <li>tool_ins-&gt;стремянкой</li>
+    <li>tool_gen-&gt;уровня</li>
+    <li>tool_acc-&gt;уровень</li>
+    <li>tool_ins-&gt;уровнем</li>
+    <li>subject-&gt;об архитектуре</li>
+    <li>subject-&gt;о приёмах в строительстве</li>
+    <li>subject-&gt;о способах демонтажа</li>
+    <li>subject-&gt;о строительных материалах</li>
+    <li>subject-&gt;о программах для проектирования</li>
+    <li>subject-&gt;о чертежах</li>
+  </LessonConstruction.logRulesInitiator.rulesStrings>
+  <LessonCooking.label>урок кулинарии</LessonCooking.label>
+  <LessonCooking.logRulesInitiator.rulesStrings>
+    <li>action_with_tool-&gt;чистить [tool_acc]</li>
+    <li>action_with_tool-&gt;готовить с помощью [tool_gen]</li>
+    <li>action_with_tool-&gt;пользоваться [tool_ins]</li>
+    <li>subject_action_with_tool-&gt;о чистке [tool_gen]</li>
+    <li>subject_action_with_tool-&gt;о готовке с помощью [tool_gen]</li>
+    <li>subject_action_with_tool-&gt;о применении [tool_gen]</li>
+    <li>tool_gen-&gt;{lookup: [tool]; Case; 1}</li>
+    <li>tool_gen-&gt;[tool_fixed_gen]</li>
+    <li>tool_acc-&gt;{lookup: [tool]; Case; 3}</li>
+    <li>tool_acc-&gt;[tool_fixed_acc]</li>
+    <li>tool_ins-&gt;{lookup: [tool]; Case; 4}</li>
+    <li>tool_ins-&gt;[tool_fixed_ins]</li>
+    <li>tool_fixed_gen-&gt;лопатки</li>
+    <li>tool_fixed_acc-&gt;лопатку</li>
+    <li>tool_fixed_ins-&gt;лопаткой</li>
+    <li>tool_fixed_gen-&gt;духовки</li>
+    <li>tool_fixed_acc-&gt;духовку</li>
+    <li>tool_fixed_ins-&gt;духовкой</li>
+    <li>tool_fixed_gen-&gt;сотейника</li>
+    <li>tool_fixed_acc-&gt;сотейник</li>
+    <li>tool_fixed_ins-&gt;сотейником</li>
+    <li>tool-&gt;электроплита</li>
+    <li>tool-&gt;твердотопливная плита</li>
+    <li>tool-&gt;дозатор пасты</li>
+    <li>tool-&gt;разделочный стол</li>
+    <li>subject-&gt;о специях</li>
+    <li>subject-&gt;о сухих пайках</li>
+    <li>subject-&gt;о видах яиц</li>
+    <li>subject-&gt;о видах мяса</li>
+    <li>subject-&gt;о приправах</li>
+    <li>subject-&gt;о рецептах</li>
+    <li>subject-&gt;о вкусной и здоровой пище</li>
+    <li>situation-&gt; в караване</li>
+    <li>situation-&gt; вслепую</li>
+    <li>situation-&gt; быстро</li>
+    <li>situation-&gt; безопасно</li>
+  </LessonCooking.logRulesInitiator.rulesStrings>
+  <LessonCrafting.label>урок ремесла</LessonCrafting.label>
+  <LessonCrafting.logRulesInitiator.rulesStrings>
+    <li>action_with_tool-&gt;пользоваться [tool_ins]</li>
+    <li>action_with_tool-&gt;работать с [tool_ins]</li>
+    <li>action_with_tool-&gt;проверять [tool_acc]</li>
+    <li>subject_action_with_tool-&gt;о применении [tool_gen]</li>
+    <li>subject_action_with_tool-&gt;о работе с [tool_ins]</li>
+    <li>subject_action_with_tool-&gt;об устройстве [tool_gen]</li>
+    <li>tool_gen-&gt;отвёртки</li>
+    <li>tool_acc-&gt;отвёртку</li>
+    <li>tool_ins-&gt;отвёрткой</li>
+    <li>tool_gen-&gt;плоскогубцев</li>
+    <li>tool_acc-&gt;плоскогубцы</li>
+    <li>tool_ins-&gt;плоскогубцами</li>
+    <li>tool_gen-&gt;монтажных плат</li>
+    <li>tool_acc-&gt;монтажные платы</li>
+    <li>tool_ins-&gt;монтажными платами</li>
+    <li>tool_gen-&gt;швейной машинки</li>
+    <li>tool_acc-&gt;швейную машинку</li>
+    <li>tool_ins-&gt;швейной машинкой</li>
+    <li>tool_gen-&gt;верстака</li>
+    <li>tool_acc-&gt;верстак</li>
+    <li>tool_ins-&gt;верстаком</li>
+    <li>tool_gen-&gt;токарного станка</li>
+    <li>tool_acc-&gt;токарный станок</li>
+    <li>tool_ins-&gt;токарным станком</li>
+    <li>subject-&gt;об организации рабочего места</li>
+    <li>subject-&gt;о хранении инструментов</li>
+    <li>subject-&gt;о технических достижениях</li>
+    <li>subject-&gt;о гаджетах</li>
+    <li>subject-&gt;о видах ткани</li>
+    <li>subject-&gt;о техниках ткачества</li>
+    <li>subject-&gt;о пластинчатых доспехах</li>
+    <li>subject-&gt;о поясах с инструментами</li>
+    <li>subject-&gt;о бионике</li>
+    <li>situation-&gt; безопасно</li>
+    <li>situation-&gt; без инструкций</li>
+    <li>situation-&gt; при свечах</li>
+  </LessonCrafting.logRulesInitiator.rulesStrings>
+  <LessonGeneric.label>урок</LessonGeneric.label>
+  <LessonGeneric.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] {INITIATOR_gender ? провёл : провела} для [RECIPIENT_nameDef] урок</li>
+  </LessonGeneric.logRulesInitiator.rulesStrings>
+  <LessonIntellectual.label>научная лекция</LessonIntellectual.label>
+  <LessonIntellectual.logRulesInitiator.rulesStrings>
+    <li>subject-&gt;о генетике</li>
+    <li>subject-&gt;о чертежах</li>
+    <li>subject-&gt;о функциях мультианализатора</li>
+    <li>subject-&gt;о философии</li>
+    <li>subject-&gt;о математике</li>
+    <li>subject-&gt;о биологии</li>
+    <li>subject-&gt;о химии</li>
+    <li>subject-&gt;о тайнах архотеков</li>
+    <li>subject-&gt;о корабельных реакторах</li>
+    <li>subject-&gt;о научном методе</li>
+    <li>subject-&gt;о фундаментальных открытиях</li>
+    <li>subject-&gt;о двигателях Джонсона — Танаки</li>
+  </LessonIntellectual.logRulesInitiator.rulesStrings>
+  <LessonMedicine.label>урок медицины</LessonMedicine.label>
+  <LessonMedicine.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)-&gt;[INITIATOR_nameDef] [teach_adverb] [teach_verb] [RECIPIENT_nameDef], как [medical_verb] [hediff].</li>
+    <li>action_with_tool-&gt;применять [tool_acc]</li>
+    <li>action_with_tool-&gt;работать с [tool_ins]</li>
+    <li>action_with_tool-&gt;проверять [tool_acc]</li>
+    <li>subject_action_with_tool-&gt;о применении [tool_gen]</li>
+    <li>subject_action_with_tool-&gt;о работе с [tool_ins]</li>
+    <li>subject_action_with_tool-&gt;о проверке [tool_gen]</li>
+    <li>tool_gen-&gt;{lookup: [tool]; Case; 1}</li>
+    <li>tool_gen-&gt;[tool_fixed_gen]</li>
+    <li>tool_acc-&gt;{lookup: [tool]; Case; 3}</li>
+    <li>tool_acc-&gt;[tool_fixed_acc]</li>
+    <li>tool_ins-&gt;{lookup: [tool]; Case; 4}</li>
+    <li>tool_ins-&gt;[tool_fixed_ins]</li>
+    <li>tool_fixed_gen-&gt;аптечки</li>
+    <li>tool_fixed_acc-&gt;аптечку</li>
+    <li>tool_fixed_ins-&gt;аптечкой</li>
+    <li>tool_fixed_gen-&gt;бинта</li>
+    <li>tool_fixed_acc-&gt;бинт</li>
+    <li>tool_fixed_ins-&gt;бинтом</li>
+    <li>tool_fixed_gen-&gt;шприца</li>
+    <li>tool_fixed_acc-&gt;шприц</li>
+    <li>tool_fixed_ins-&gt;шприцем</li>
+    <li>tool_fixed_gen-&gt;скальпеля</li>
+    <li>tool_fixed_acc-&gt;скальпель</li>
+    <li>tool_fixed_ins-&gt;скальпелем</li>
+    <li>tool-&gt;лечебный корень</li>
+    <li>tool-&gt;мониторы жизненных показателей</li>
+    <li>tool-&gt;сыворотка исцеления</li>
+    <li>tool-&gt;чип обезболивания</li>
+    <li>hediff-&gt;кровопотерю</li>
+    <li>hediff-&gt;сердечный приступ</li>
+    <li>hediff-&gt;тепловой удар</li>
+    <li>hediff-&gt;пищевое отравление</li>
+    <li>hediff-&gt;карциному</li>
+    <li>hediff-&gt;кишечных червей</li>
+    <li>hediff-&gt;мышечных паразитов</li>
+    <li>hediff-&gt;абазию</li>
+    <li>hediff-&gt;малярию</li>
+    <li>hediff-&gt;грипп</li>
+    <li>hediff-&gt;цирроз</li>
+    <li>medical_verb-&gt;диагностировать</li>
+    <li>medical_verb-&gt;предотвращать</li>
+    <li>medical_verb-&gt;лечить</li>
+    <li>subject-&gt;о дозировке при анестезии</li>
+    <li>subject-&gt;видах рака</li>
+    <li>subject-&gt;хирургических операциях</li>
+    <li>subject-&gt;постельном режиме</li>
+    <li>subject-&gt;методах стерилизации</li>
+  </LessonMedicine.logRulesInitiator.rulesStrings>
+  <LessonMelee.label>урок ближнего боя</LessonMelee.label>
+  <LessonMelee.logRulesInitiator.rulesStrings>
+    <li>action_with_tool-&gt;парировать удары {lookup: [tool]; Case; 4}</li>
+    <li>action_with_tool-&gt;драться {lookup: [tool]; Case; 4}</li>
+    <li>action_with_tool-&gt;противостоять {lookup: [tool]; Case; 2}</li>
+    <li>action_with_tool-&gt;ухаживать за {lookup: [tool]; Case; 4}</li>
+    <li>action_with_tool-&gt;применять {lookup: [tool]; Case; 3}</li>
+    <li>action_with_tool-&gt;бить {lookup: [tool]; Case; 4}</li>
+    <li>subject_action_with_tool-&gt;о приёмах парирования {lookup: [tool]; Case; 4}</li>
+    <li>subject_action_with_tool-&gt;о технике боя {lookup: [tool]; Case; 4}</li>
+    <li>subject_action_with_tool-&gt;об отражении ударов {lookup: [tool]; Case; 1}</li>
+    <li>subject_action_with_tool-&gt;об уходе за {lookup: [tool]; Case; 4}</li>
+    <li>subject_action_with_tool-&gt;о применении {lookup: [tool]; Case; 1}</li>
+    <li>subject_action_with_tool-&gt;об ударах {lookup: [tool]; Case; 4}</li>
+    <li>tool-&gt;нож</li>
+    <li>tool-&gt;топор</li>
+    <li>tool-&gt;дубина</li>
+    <li>tool-&gt;гладиус</li>
+    <li>tool-&gt;локтевое лезвие</li>
+    <li>tool-&gt;кистевой коготь</li>
+    <li>tool-&gt;длинный меч</li>
+    <li>tool-&gt;мономеч</li>
+    <li>tool-&gt;плазменный меч</li>
+    <li>tool-&gt;копьё</li>
+    <li>tool-&gt;булава</li>
+    <li>tool-&gt;молот</li>
+    <li>tool-&gt;кулак</li>
+  </LessonMelee.logRulesInitiator.rulesStrings>
+  <LessonMining.label>урок горного дела</LessonMining.label>
+  <LessonMining.logRulesInitiator.rulesStrings>
+    <li>action_with_tool-&gt;использовать [tool_acc]</li>
+    <li>action_with_tool-&gt;добывать минералы, используя [tool_acc]</li>
+    <li>action_with_tool-&gt;работать [tool_ins]</li>
+    <li>action_with_tool-&gt;проверять [tool_acc]</li>
+    <li>subject_action_with_tool-&gt;об использовании [tool_gen]</li>
+    <li>subject_action_with_tool-&gt;о добыче минералов при помощи [tool_gen]</li>
+    <li>subject_action_with_tool-&gt;о работе [tool_gen]</li>
+    <li>subject_action_with_tool-&gt;об устройстве [tool_gen]</li>
+    <li>tool_gen-&gt;{lookup: [tool]; Case; 1}</li>
+    <li>tool_gen-&gt;[tool_fixed_gen]</li>
+    <li>tool_acc-&gt;{lookup: [tool]; Case; 3}</li>
+    <li>tool_acc-&gt;[tool_fixed_acc]</li>
+    <li>tool_ins-&gt;{lookup: [tool]; Case; 4}</li>
+    <li>tool_ins-&gt;[tool_fixed_ins]</li>
+    <li>tool-&gt;буровая установка</li>
+    <li>tool-&gt;сканер минералов дальнего действия</li>
+    <li>tool-&gt;глубинный сканер</li>
+    <li>tool_fixed_gen-&gt;кирки</li>
+    <li>tool_fixed_acc-&gt;кирку</li>
+    <li>tool_fixed_ins-&gt;киркой</li>
+    <li>tool_fixed_gen-&gt;лопаты</li>
+    <li>tool_fixed_acc-&gt;лопату</li>
+    <li>tool_fixed_ins-&gt;лопатой</li>
+    <li>subject-&gt;о месторождениях полезных ископаемых</li>
+    <li>subject-&gt;о драгоценных камнях</li>
+    <li>subject-&gt;о геологии</li>
+    <li>subject-&gt;о копании туннелей</li>
+    <li>subject-&gt;о седиментационном анализе</li>
+    <li>subject-&gt;о пещерных насекомых</li>
+    <li>situation(p=2)-&gt; под землёй</li>
+  </LessonMining.logRulesInitiator.rulesStrings>
+  <LessonPlants.label>урок садоводства</LessonPlants.label>
+  <LessonPlants.logRulesInitiator.rulesStrings>
+    <li>action_with_tool-&gt;заниматься садоводством, используя [tool_fixed_acc]</li>
+    <li>action_with_tool-&gt;пользоваться [tool_fixed_ins]</li>
+    <li>action_with_tool-&gt;проверять [tool_fixed_acc]</li>
+    <li>subject_action_with_tool-&gt;об использовании [tool_fixed_gen]</li>
+    <li>subject_action_with_tool-&gt;о работе с [tool_fixed_ins]</li>
+    <li>subject_action_with_tool-&gt;об устройстве [tool_fixed_gen]</li>
+    <li>tool_fixed_gen-&gt;солнечной лампы</li>
+    <li>tool_fixed_acc-&gt;солнечную лампу</li>
+    <li>tool_fixed_ins-&gt;солнечной лампой</li>
+    <li>tool_fixed_gen-&gt;гидропонного бассейна</li>
+    <li>tool_fixed_acc-&gt;гидропонный бассейн</li>
+    <li>tool_fixed_ins-&gt;гидропонным бассейном</li>
+    <li>tool_fixed_gen-&gt;дождевателя</li>
+    <li>tool_fixed_acc-&gt;дождеватель</li>
+    <li>tool_fixed_ins-&gt;дождевателем</li>
+    <li>tool_fixed_gen-&gt;лопаты</li>
+    <li>tool_fixed_acc-&gt;лопату</li>
+    <li>tool_fixed_ins-&gt;лопатой</li>
+    <li>tool_fixed_gen-&gt;секатора</li>
+    <li>tool_fixed_acc-&gt;секатор</li>
+    <li>tool_fixed_ins-&gt;секатором</li>
+    <li>subject-&gt;о типах почвы</li>
+    <li>subject-&gt;о пестицидах</li>
+    <li>subject-&gt;о техниках полива</li>
+    <li>subject-&gt;о разновидностях кактусов</li>
+    <li>subject-&gt;о древах души</li>
+    <li>subject-&gt;о древах Гауранлен</li>
+  </LessonPlants.logRulesInitiator.rulesStrings>
+  <LessonShooting.label>урок стрельбы</LessonShooting.label>
+  <LessonShooting.logRulesInitiator.rulesStrings>
+    <li>action_with_tool-&gt;целиться из {lookup: [tool]; Case; 1}</li>
+    <li>action_with_tool-&gt;стрелять из {lookup: [tool]; Case; 1}</li>
+    <li>action_with_tool-&gt;ухаживать за {lookup: [tool]; Case; 4}</li>
+    <li>action_with_tool-&gt;заряжать {lookup: [tool]; Case; 3}</li>
+    <li>subject_action_with_tool-&gt;о прицеливании из {lookup: [tool]; Case; 1}</li>
+    <li>subject_action_with_tool-&gt;о стрельбе из {lookup: [tool]; Case; 1}</li>
+    <li>subject_action_with_tool-&gt;об уходе за {lookup: [tool]; Case; 4}</li>
+    <li>subject_action_with_tool-&gt;о заряжании {lookup: [tool]; Case; 1}</li>
+    <li>tool-&gt;винтовка</li>
+    <li>tool-&gt;пистолет</li>
+    <li>tool-&gt;дробовик</li>
+    <li>tool(p=0.25)-&gt;ЭМИ-гранатомёт</li>
+    <li>tool(p=0.25)-&gt;дымовой гранатомёт</li>
+    <li>tool(p=0.25)-&gt;ракетница судного дня</li>
+    <li>tool(p=0.25)-&gt;ракетница «Тройка»</li>
+    <li>tool-&gt;пистолет-пулемёт</li>
+    <li>tool-&gt;миниган</li>
+    <li>tool-&gt;короткий лук</li>
+    <li>tool-&gt;рекурсивный лук</li>
+    <li>tool-&gt;длинный лук</li>
+  </LessonShooting.logRulesInitiator.rulesStrings>
+  <LessonSocial.label>урок риторики</LessonSocial.label>
+  <LessonSocial.logRulesInitiator.rulesStrings>
+    <li>subject-&gt;о публичных выступлениях</li>
+    <li>subject-&gt;об отношениях между фракциями</li>
+    <li>subject-&gt;о вербовке пленников</li>
+    <li>subject-&gt;о приёмах торга</li>
+    <li>subject-&gt;о поддержании отношений</li>
+    <li>subject-&gt;об этике общения по консоли связи</li>
+    <li>subject-&gt;об укреплении морального духа</li>
+    <li>subject-&gt;о неприличных словах</li>
+    <li>subject-&gt;о языке жестов</li>
+  </LessonSocial.logRulesInitiator.rulesStrings>
+  <SanguophageChat.label>беседа гемофагов</SanguophageChat.label>
+  <SanguophageChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] и [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>talkedabout-&gt;поговорили</li>
+    <li>talkedabout-&gt;поболтали</li>
+    <li>talkedabout-&gt;побеседовали</li>
+    <li>talkedabout(p=0.5)-&gt;[adverb] поговорили</li>
+    <li>talkedabout(p=0.5)-&gt;[adverb] поболтали</li>
+    <li>talkedabout(p=0.5)-&gt;[adverb] побеседовали</li>
+    <li>talkedabout-&gt;перекинулись парой слов</li>
+    <li>talkedabout-&gt;обменялись мыслями</li>
+    <li>talkedabout-&gt;обменялись идеями</li>
+    <li>talkedabout-&gt;поделились историями</li>
+    <li>talkedabout-&gt;потолковали</li>
+    <li>talkedabout-&gt;порассуждали</li>
+    <li>talkedabout-&gt;поспорили</li>
+    <li>adverb-&gt;дружески</li>
+    <li>adverb-&gt;тихо</li>
+    <li>adverb-&gt;мягко</li>
+    <li>adverb-&gt;с отвращением</li>
+    <li>adverb-&gt;с горечью</li>
+    <li>adverb-&gt;утомлённо</li>
+    <li>adverb-&gt;вдумчиво</li>
+    <li>adverb-&gt;начистоту</li>
+    <li>adverb-&gt;угрюмо</li>
+    <li>adverb-&gt;торжественно</li>
+    <li>subject(p=20)-&gt;о планах [planType]</li>
+    <li>subject(p=0.1)-&gt;[TalkTopicHeavy]</li>
+    <li>subject-&gt;о гемогене</li>
+    <li>subject-&gt;о качестве крови</li>
+    <li>subject-&gt;о каннибализме</li>
+    <li>subject-&gt;о бессмертии</li>
+    <li>subject-&gt;об энтропии</li>
+    <li>subject-&gt;о вечности</li>
+    <li>subject-&gt;о течении времени</li>
+    <li>subject-&gt;о жизни и смерти</li>
+    <li>subject-&gt;о торпоре</li>
+    <li>subject-&gt;об обмане смерти</li>
+    <li>subject-&gt;о «кормовой базе»</li>
+    <li>subject-&gt;о роде людском</li>
+    <li>subject-&gt;об огне</li>
+    <li>subject-&gt;о пламени</li>
+    <li>subject-&gt;о боли</li>
+    <li>subject-&gt;об агонии</li>
+    <li>subject-&gt;об обезглавливании</li>
+    <li>subject-&gt;об освежевании врагов</li>
+    <li>subject-&gt;о пытках</li>
+    <li>subject-&gt;об архитах</li>
+    <li>subject-&gt;о генетике</li>
+    <li>subject-&gt;о генах</li>
+    <li>subject-&gt;о ксенотипах</li>
+    <li>subject-&gt;о гемофагах</li>
+    <li>subject-&gt;о гусарах</li>
+    <li>subject-&gt;об импидах</li>
+    <li>subject-&gt;о кротолюдях</li>
+    <li>subject-&gt;об инжах</li>
+    <li>subject-&gt;о неандертальцах</li>
+    <li>subject-&gt;о свинолюдях</li>
+    <li>subject-&gt;о мусорщиках</li>
+    <li>subject-&gt;о древней истории</li>
+    <li>subject-&gt;об истории будущего</li>
+    <li>planType-&gt;господства</li>
+    <li>planType-&gt;бегства</li>
+    <li>planType-&gt;смешения с обычными людьми</li>
+    <li>planType-&gt;расширения влияния</li>
+    <li>planType-&gt;получения гемогена</li>
+    <li>planType-&gt;освоения технологий</li>
+    <li>planType-&gt;освоения других миров</li>
+    <li>planType-&gt;влияния на людей</li>
+    <li>planType-&gt;устранения охотников за гемофагами</li>
+    <li>planType-&gt;наслаждения бесконечной жизнью</li>
+  </SanguophageChat.logRulesInitiator.rulesStrings>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bluebird.label>синешейка</Bluebird.label>
+  <Crow.label>ворона</Crow.label>
+  <Flamingo.label>фламинго</Flamingo.label>
+  <Heron.label>цапля</Heron.label>
+  <Macaw.label>ара</Macaw.label>
+  <Peacock.label>павлин</Peacock.label>
+  <Penguin.label>пингвин</Penguin.label>
+  <Quail.label>перепел</Quail.label>
+  <Sparrow.label>воробей</Sparrow.label>
+  <Swan.label>лебедь</Swan.label>
+  <Vulture.label>гриф</Vulture.label>
+</LanguageData>

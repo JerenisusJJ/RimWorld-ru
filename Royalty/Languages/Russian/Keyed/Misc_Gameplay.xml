@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ThroneMaxSatisfiedTitle>Удовлетворяет титулу</ThroneMaxSatisfiedTitle>
+  <ThroneRoomImpressivenessInfo>(впечатление: {0})</ThroneRoomImpressivenessInfo>
+  <ThroneMustBePlacedInside>Трон нужно размещать в помещении.</ThroneMustBePlacedInside>
+  <MinimumRoyalTitleInspectString>Минимальный титул ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
+  <RequiresTradePermission>Торговля в этом месте требует наличия титула {0}</RequiresTradePermission>
+  <RequirementPersonalBedroom>Личная спальня (допускается наличие партнёра)</RequirementPersonalBedroom>
+  <PsycastNeurotrainerLabel>пси-тренер ({0})</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerUseLabel>Использовать пси-тренер, чтобы изучить «{lookup: {0}; Case; 3}»</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerDescription>Сыворотка с дозой механитов, запрограммированных на обучение конкретной пси-способности.\n\nСыворотка вводится через глазное яблоко. После того как механиты попадают в мозг пациента, они наделяют его определённой способностью, при необходимости преобразуя себя в нервную ткань.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
+  <AbilityNeurotrainerUsed>{USER_labelShort} {USER_gender ? использовал : использовала : использовало} пси-тренер и {USER_gender ? изучил : изучила : изучило} «{lookup: {1}; Case; 3}».</AbilityNeurotrainerUsed>
+  <PsycastNeurotrainerNoPsylink>необходима пси-связь</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} уже {USER_gender ? изучил : изучила : изучило} «{lookup: {1}; Case; 3}».</PsycastNeurotrainerAbilityAlreadyLearned>
+  <Reward_RoyalFavor>принявший задание удостоится {1} ед. {lookup: {0_royalFavorLabel}; Case; 1} от фракции {0_name}</Reward_RoyalFavor>
+  <Reward_RoyalFavor_ChoosePawn>вы можете выбрать одного из участников ({2}), чтобы получить {1} {0_royalFavorLabel} от фракции {0_name}</Reward_RoyalFavor_ChoosePawn>
+  <NotUsable>Невозможно использовать</NotUsable>
+  <Unpowered>не подключён</Unpowered>
+  <TooCloseToOtherBeacon>Слишком близко к другому маяку</TooCloseToOtherBeacon>
+  <Psyfocus>Пси-концентрация</Psyfocus>
+  <PsyfocusLabelGizmo>Конц-ция</PsyfocusLabelGizmo>
+  <PsyfocusDesc>Пси-концентрация — это особый вид организации сознания, необходимый для применения пси-способностей. Пси-концентрация рассеивается со временем и должна восполняться регулярной медитацией. Потеря всей концентрации сделает невозможным применение любых пси-способностей.\n\nЧем выше концентрация, тем более высокоуровневые способности можно применять, но при этом ускоряется её рассеивание</PsyfocusDesc>
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoPsycasts>для пси-способностей {0} уровня.</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoFallRate>пси-концентрация будет снижаться на {0} в день.</PsyfocusLevelInfoFallRate>
+  <UserMeditationFocusStrength>Степень концентрации {LASTUSER_labelShort} во время медитации</UserMeditationFocusStrength>
+  <MeditationFocusImpacted>На концентрацию влияют</MeditationFocusImpacted>
+  <MeditationFocusPerAnimusStoneAbstract>{1} за каждый камень духа поблизости (до {0_numCase ? камня : камней : камней})</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStone>{2} за каждый камень духа поблизости ({0} / {1_numCase ? камня : камней : камней})</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>За каждый камень духа поблизости — {2}, за природное святилище — {1} (до {0_numCase ? объекта : объектов : объектов})</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrine>За каждый камень духа поблизости — {3}, за природное святилище — {2} ({0} / {1_numCase ? объекта : объектов : объектов})</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerSculptureAbstract>До {1} за каждую скульптуру поблизости, в зависимости от качества (до {0_numCase ? скульптуры : скульптур : скульптур})</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculpture>До {2} за каждую скульптуру поблизости, в зависимости от качества ({0} / {1_numCase ? скульптуры : скульптур : скульптур})</MeditationFocusPerSculpture>
+  <MeditationFocusPerGraveAbstract>За каждую пустую могилу поблизости — {1}, за занятую телом человека — {2} (до {0_numCase ? могилы : могил : могил})</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGrave>За каждую пустую могилу поблизости — {2}, за занятую телом человека — {3} ({0} / {1_numCase ? могилы : могил : могил})</MeditationFocusPerGrave>
+  <MeditationFocusPerFlameAbstract>{1} за каждый источник пламени поблизости (до {0_numCase ? источника : источников : источников})</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlame>{2} за каждый источник пламени поблизости ({0} / {1_numCase ? источника : источников : источников})</MeditationFocusPerFlame>
+  <PsyfocusPerDayOfMeditation>Прирост пси-концентрации: {0} в день</PsyfocusPerDayOfMeditation>
+  <DesiredPsyfocus>Желаемая пси-концентрация</DesiredPsyfocus>
+  <DesiredPsyfocusDesc>Нажмите, чтобы установить желаемый уровень пси-концентрации.</DesiredPsyfocusDesc>
+  <AbilitySpeechDisabledNoThroneAssigned>трон не назначен.</AbilitySpeechDisabledNoThroneAssigned>
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>трон вне досягаемости.</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <AbilitySpeechDisabledNoThroneUndignified>трон невозможно использовать, поскольку он недостоин титула говорящего.</AbilitySpeechDisabledNoThroneUndignified>
+  <AbilitySpeechDisabledAlreadyGivingSpeech>уже произносит речь.</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <AbilitySpeechPossibleOutcomes>Возможные результаты</AbilitySpeechPossibleOutcomes>
+  <AbilitySpeechStatInfo>{1} {ORGANIZER_labelShort}</AbilitySpeechStatInfo>
+  <AbilitySpeechTargetDescThrone>величественном троне</AbilitySpeechTargetDescThrone>
+  <RitualDisabledNoAltar>нет доступного алтаря.</RitualDisabledNoAltar>
+  <RitualBestowingCeremony>Церемония присвоения титула</RitualBestowingCeremony>
+  <BestowingSpotUnavailable>Нет подходящего места рядом с эмиссаром</BestowingSpotUnavailable>
+  <TotalMeditationToday>Всего медитации сегодня: {0} (множитель прогресса {1})</TotalMeditationToday>
+  <ProgressToNextSubplant>прогресс {0}</ProgressToNextSubplant>
+  <BeginLinkingRitualFloatMenu>Начать ритуал связывания</BeginLinkingRitualFloatMenu>
+  <BeginLinkingRitualNeedSubplants>Нужно {0} ед. {lookup: {1}; Case; 1} (есть {2})</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedFocus>Требуется вид медитации: {0}</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualMaxPsylinkLevel>Максимальный уровень пси-связи</BeginLinkingRitualMaxPsylinkLevel>
+  <BeginLinkingRitualNeedLinkSpot>Для проведения ритуала необходимо свободное место в радиусе 3 клеток, находящееся в пределах досягаемости поселенцев</BeginLinkingRitualNeedLinkSpot>
+  <LetterLabelLinkingRitualCompleted>Ритуал связывания завершён</LetterLabelLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompleted>{PAWN_labelShort} {PAWN_gender ? завершил : завершила : завершило} ритуал связывания с {LINKABLE_labelShort}.\n\n{PAWN_pronoun} {PAWN_gender ? улучшил : улучшила : улучшило} свою пси-связь, что теперь позволяет {PAWN_objective} применять новые пси-способности.</LetterTextLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompletedAnimaGrass>В дополнение к этому, восстановилось {0} ед. травы души.</LetterTextLinkingRitualCompletedAnimaGrass>
+  <LandHere>Посадить челнок здесь</LandHere>
+  <MessageShuttleDestinationIsTooFar>Место назначения вне досягаемости.</MessageShuttleDestinationIsTooFar>
+  <BeginCeremony>Начать церемонию присвоения титула для {0_labelShort}</BeginCeremony>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Тронный зал {PAWN_definite} не удовлетворяет требованиям титула {lookup: {TITLE}; Case; 1}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Эмиссар недоволен тем, что тронный зал {PAWN_definite} не удовлетворяет требованиям титула {lookup: {TITLE}; Case; 1}. Церемония присвоения титула отменена.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyLabel>церемония присвоения титула</BestowingCeremonyLabel>
+  <BestowingOutcomeQualitySpecific>Качество церемонии присвоения титула составило {0}. На качество повлияли следующие факторы</BestowingOutcomeQualitySpecific>
+  <RitualTargetAnimaTreeNoPawnsToLink>Отсутствуют поселенцы, способные к связыванию с древом души.</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>Отсутствуют поселенцы с видом медитации «природа».</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Требуется как минимум {0} ед. травы души.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <RitualTargetAnimaTreeInfo>древо души</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeMustBeCapableOfNature>Требуется поселенец с видом медитации «природа» и уровнем пси-связи ниже максимального.</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>Требуется поселенец без психической глухоты.</RitualTargetAnimaTreeMustBePsychicallySensitive>
+  <AnimaLinkingExplanationBase>Чем больше участников в ритуале связывания, тем выше его сила: ритуал займёт меньше времени, а травы души вырастет больше.\n\nЕсли участников станет больше на {0} {0_numCase ? человека : человека : человек}, то к концу ритуала восстановится {1} ед. травы души.</AnimaLinkingExplanationBase>
+  <ShuttleRequiredItemsNotSatisfied>На челноке не хватает требуемого груза!</ShuttleRequiredItemsNotSatisfied>
+  <CannotLoadIntoShuttle>Невозможно загрузить {lookup: {0_labelShort}; Case; 3}</CannotLoadIntoShuttle>
+  <AbilityNoEntropyToDump>нет нейроперегрева для сброса.</AbilityNoEntropyToDump>
+  <LevelNum>уровень {0}</LevelNum>
+</LanguageData>

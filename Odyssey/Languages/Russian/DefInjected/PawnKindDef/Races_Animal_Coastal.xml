@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HermitCrab.label>краб-отшельник</HermitCrab.label>
+  <Otter.label>выдра</Otter.label>
+  <Seal.label>тюлень</Seal.label>
+  <Seal.lifeStages.seal_pup.label>детеныш тюленя</Seal.lifeStages.seal_pup.label>
+  <Seal.lifeStages.seal_pup.labelPlural>детеныши тюленя</Seal.lifeStages.seal_pup.labelPlural>
+  <SeaLion.label>морской лев</SeaLion.label>
+  <SeaLion.lifeStages.sea_lion_pup.label>котенок морского льва</SeaLion.lifeStages.sea_lion_pup.label>
+  <SeaLion.lifeStages.sea_lion_pup.labelPlural>котята морского льва</SeaLion.lifeStages.sea_lion_pup.labelPlural>
+  <SeaTurtle.label>морская черепаха</SeaTurtle.label>
+  <StoneCrab.label>каменный краб</StoneCrab.label>
+  <Walrus.label>морж</Walrus.label>
+  <Walrus.lifeStages.walrus_calf.label>детеныш моржа</Walrus.lifeStages.walrus_calf.label>
+  <Walrus.lifeStages.walrus_calf.labelPlural>детеныши моржа</Walrus.lifeStages.walrus_calf.labelPlural>
+</LanguageData>

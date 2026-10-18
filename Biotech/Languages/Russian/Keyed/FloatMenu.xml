@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NotAMechanitor>не механитор</NotAMechanitor>
+  <NotEnoughBandwidth>недостаточно пропускной способности</NotEnoughBandwidth>
+  <ControlMech>Взять под контроль {lookup: {0}; Case; 3}</ControlMech>
+  <CannotControlMech>Невозможно взять под контроль {lookup: {0}; Case; 3}</CannotControlMech>
+  <CannotControlMechAlreadyControlled>уже под контролем у {0}</CannotControlMechAlreadyControlled>
+  <CannotControlMechNotEnoughBandwidth>недостаточно пропускной способности</CannotControlMechNotEnoughBandwidth>
+  <CannotControlMechNeverControllable>не поддаётся контролю</CannotControlMechNeverControllable>
+  <CannotDisconnectMech>Невозможно отключиться от {lookup: {0}; Case; 1}</CannotDisconnectMech>
+  <DisconnectMech>Отключиться от {lookup: {0}; Case; 1}</DisconnectMech>
+  <DisassembleMech>Разобрать {lookup: {0}; Case; 3}</DisassembleMech>
+  <CannotDisassembleMech>Невозможно разобрать {lookup: {0}; Case; 3}</CannotDisassembleMech>
+  <MustBeOverseer>нужен оператор</MustBeOverseer>
+  <Extract>Извлечь</Extract>
+  <OutOfCommandRange>точка вне командного радиуса</OutOfCommandRange>
+  <CannotGoOutOfRange>Невозможно</CannotGoOutOfRange>
+  <WasteContainerFull>нужно опустошить</WasteContainerFull>
+  <CannotRepairMech>Невозможно починить {lookup: {0}; Case; 3}</CannotRepairMech>
+  <ExtractXenogermFrom>Извлечь ксеносемя из {PAWN_nameDef}</ExtractXenogermFrom>
+  <EnterBuilding>Войти в {lookup: {0}; Case; 3}</EnterBuilding>
+  <PawnHasNoGenes>у {PAWN_nameDef} нет генов</PawnHasNoGenes>
+  <PawnHasNoNonArchiteGenes>у {PAWN_nameDef} нет извлекаемых генов</PawnHasNoNonArchiteGenes>
+  <InXenogerminationComa>в ксенокоме</InXenogerminationComa>
+  <Occupied>занято</Occupied>
+  <OccupantEjectedFromGrowthVat>{PAWN_nameDef} {PAWN_gender ? выброшен : выброшена : выброшно} из инкубатора.</OccupantEjectedFromGrowthVat>
+  <TooOld>{PAWN_nameDef} {PAWN_gender ? должен : должна : должно} быть моложе {AGEYEARS_numCase ? года : лет : лет}.</TooOld>
+  <PawnIsTooOld>{PAWN_nameDef} слишком {PAWN_gender ? стар : стара : стар}</PawnIsTooOld>
+  <PawnBiostarving>{PAWN_nameDef} страдает от инкубационного голода</PawnBiostarving>
+  <NoViablePawns>Нет подходящих людей</NoViablePawns>
+  <NoExtractablePawns>Нет людей для извлечения</NoExtractablePawns>
+  <NoImplantablePawns>Нет людей для вживления</NoImplantablePawns>
+  <CannotEnterBuilding>Невозможно войти в {lookup: {0_labelShort}; Case; 3}</CannotEnterBuilding>
+  <AssignedToOtherPawn>{0_labelShort} {0_gender ? назначен : назначена : назначно} другому человеку.</AssignedToOtherPawn>
+  <AbsorbXenogerm>Изъять ксеносемя у {PAWN_nameDef}</AbsorbXenogerm>
+  <CannotAbsorbXenogerm>Невозможно изъять ксеносемя у {PAWN_nameDef}</CannotAbsorbXenogerm>
+  <SameXenotype>{PAWN_nameDef} уже {PAWN_xenotype}</SameXenotype>
+  <XenogermLossShockPresent>{PAWN_nameDef} страдает от генетического шока</XenogermLossShockPresent>
+  <CarryToSpecificThing>Отнести к {lookup: {0_labelShort}; Case; 2}</CarryToSpecificThing>
+  <NoCasketOrBed>нет доступных свободных кроватей или торпорных саркофагов в местах с безопасной температурой.</NoCasketOrBed>
+  <TemporaryFactionMember>{PAWN_nameDef} — временный член фракции.</TemporaryFactionMember>
+  <SubcoreScannerNotInit>анализатор не запущен</SubcoreScannerNotInit>
+  <SubcoreScannerRequiresIngredients>нужны предметы</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerOccupied>занято</SubcoreScannerOccupied>
+  <EnterSubcoreScanner>Войти в {lookup: {0}; Case; 3}</EnterSubcoreScanner>
+  <BabyCareBreastfeed>Кормить {BABY_labelShort} грудью</BabyCareBreastfeed>
+  <BabyCareBreastfeedUnable>Невозможно кормить {BABY_labelShort} грудью</BabyCareBreastfeedUnable>
+  <AlreadyBreastfeeding>Уже кормит {BABY_labelShort} грудью</AlreadyBreastfeeding>
+  <NoBabyFood>нет еды для младенцев</NoBabyFood>
+  <CannotInteractBabyPlayFull>младенец наигрался</CannotInteractBabyPlayFull>
+  <BloodfeedOn>Кормиться от {PAWN_nameDef}</BloodfeedOn>
+  <CannotBloodfeedOn>Невозможно кормиться от {PAWN_nameDef}</CannotBloodfeedOn>
+  <CannotFeedOnWouldKill>недостаточно крови</CannotFeedOnWouldKill>
+  <BreastfeedFailReason_MomNotEnoughMilk>у {MOM_labelShort} не хватает молока</BreastfeedFailReason_MomNotEnoughMilk>
+  <BreastfeedFailReason_MomInMentalState>{MOM_labelShort} не может кормить сейчас</BreastfeedFailReason_MomInMentalState>
+  <BreastfeedFailReason_BabyTooFull>{BABY_labelShort} уже {BABY_gender ? сыт : сыта : сыт}</BreastfeedFailReason_BabyTooFull>
+  <BreastfeedFailReason_BabyForbiddenToMom>доступ к {BABY_labelShort} запрещён для {MOM_labelShort}</BreastfeedFailReason_BabyForbiddenToMom>
+  <BreastfeedFailReason_BabyForbiddenToHauler>доступ к {BABY_labelShort} запрещён для {HAULER_labelShort}</BreastfeedFailReason_BabyForbiddenToHauler>
+  <BreastfeedFailReason_MomForbiddenToHauler>доступ к {MOM_labelShort} запрещён для {HAULER_labelShort}</BreastfeedFailReason_MomForbiddenToHauler>
+  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort} может кормить {BABY_labelShort} грудью без посторонней помощи</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} не может пройти от {BABY_labelShort} к {MOM_labelShort}</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} не может добраться до {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>Ни одна кормящая {BABY_factionPawnsPlural} не назначена к {BABY_labelShort}.</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} не назначена ухаживать за младенцами</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} находится внутри контейнера</BreastfeedFailReason_MomInsideContainer>
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} сейчас переносят</BreastfeedFailReason_MomBeingCarried>
+  <OrderImplantationIntoPawn>Вживить в {PAWN_nameDef}</OrderImplantationIntoPawn>
+  <AcceptXenogerm>Принять ксеносемя «{0_xenotype}»</AcceptXenogerm>
+  <CarryToRechargerOrdered>Перенести {PAWN_labelShort} к зарядной станции</CarryToRechargerOrdered>
+  <CannotCarryToRecharger>Невозможно перенести {PAWN_labelShort} к зарядной станции</CannotCarryToRecharger>
+  <CannotCarryToRechargerNoneAvailable>нет доступных зарядных станций</CannotCarryToRechargerNoneAvailable>
+  <NotAllowedHemogen>Гемоген-пакеты не включены в диету</NotAllowedHemogen>
+  <EjectGenepackFromGeneBank>Извлечь генный пакет из банка</EjectGenepackFromGeneBank>
+  <ResultingMetTooLow>показатель метаболизма будет слишком низким</ResultingMetTooLow>
+  <RomanceOnCooldown>флирт был совсем недавно</RomanceOnCooldown>
+  <CarryToSafePlace>Отнести в безопасное место</CarryToSafePlace>
+  <CannotCarryToSafePlace>Невозможно отнести в безопасное место</CannotCarryToSafePlace>
+  <NoBetterSafePlace>нет места безопаснее, чем это</NoBetterSafePlace>
+  <AlreadyCarryingToSafePlace>Уже несёт в безопасное место</AlreadyCarryingToSafePlace>
+</LanguageData>

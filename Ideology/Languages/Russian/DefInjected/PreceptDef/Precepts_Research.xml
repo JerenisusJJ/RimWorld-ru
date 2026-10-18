@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Research_ExtremelySlow.label>чрезвычайно медленные</Research_ExtremelySlow.label>
+  <Research_ExtremelySlow.description>Исследования абсолютно не стоят потраченных усилий. Так зачем стараться?</Research_ExtremelySlow.description>
+  <Research_Fast.label>быстрые</Research_Fast.label>
+  <Research_Fast.description>Исследования — крайне полезное занятие.</Research_Fast.description>
+  <Research_None.label>не разрешены</Research_None.label>
+  <Research_None.description>Изучение технологий — аморально. Мы не должны этого делать.</Research_None.description>
+  <Research_Normal.label>обычная скорость</Research_Normal.label>
+  <Research_Normal.description>Исследования — это стоящая форма работы, в которой нуждается сообщество.</Research_Normal.description>
+  <Research_Slow.label>медленные</Research_Slow.label>
+  <Research_Slow.description>Исследования не имеют особого смысла. Так зачем стараться?</Research_Slow.description>
+  <Research_VeryFast.label>очень быстрые</Research_VeryFast.label>
+  <Research_VeryFast.description>Проведение исследований — один из самых значимых видов деятельности, доступных человеку.</Research_VeryFast.description>
+  <Research_VerySlow.label>очень медленные</Research_VerySlow.label>
+  <Research_VerySlow.description>В исследовании нет ничего, заслуживающего уважения. Лучше бы никому не видеть как я этим всерьёз занимаюсь.</Research_VerySlow.description>
+</LanguageData>

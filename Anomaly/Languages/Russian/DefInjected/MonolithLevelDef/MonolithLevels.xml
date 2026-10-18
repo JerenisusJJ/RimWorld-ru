@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Disrupted.monolithDescription>Остатки разрушенного монолита, связывавшего наш мир с пустотой. Жуткие узоры, когда-то вившиеся по его поверхности, застыли навеки. Вы можете изучить разбитый монолит, чтобы больше узнать о феномене пустоты.</Disrupted.monolithDescription>
+  <Disrupted.monolithLabel>разрушенный монолит</Disrupted.monolithLabel>
+  <Embraced.levelInspectText>Уровень 4: пробуждён</Embraced.levelInspectText>
+  <Embraced.monolithLabel>монолит пустоты</Embraced.monolithLabel>
+  <Gleaming.extraQuestDescription>Пустота пробудилась. Врата открыты. Тьма из пустоты, порождённая великим и бесконечно яростным разумом, вошла в нашу реальность.</Gleaming.extraQuestDescription>
+  <Gleaming.levelInspectText>Уровень 4: пробуждён</Gleaming.levelInspectText>
+  <Gleaming.monolithLabel>монолит пустоты</Gleaming.monolithLabel>
+  <Inactive.activateFloatMenuText>исследовать: {0}</Inactive.activateFloatMenuText>
+  <Inactive.activateGizmoDescription>Отправить поселенца исследовать монолит.</Inactive.activateGizmoDescription>
+  <Inactive.activateGizmoText>исследовать</Inactive.activateGizmoText>
+  <Inactive.activateQuestText>Отправить поселенца исследовать монолит.</Inactive.activateQuestText>
+  <Inactive.levelInspectText>Вырезанные на поверхности линии сплетаются в жуткие узоры.</Inactive.levelInspectText>
+  <Inactive.monolithCanBeActivatedText>Теперь монолит можно исследовать.</Inactive.monolithCanBeActivatedText>
+  <Inactive.monolithLabel>упавший монолит</Inactive.monolithLabel>
+  <Inactive.pawnSentToActivateMessage>{PAWN_nameDef} отправляется на исследование монолита.</Inactive.pawnSentToActivateMessage>
+  <Stirring.activatableLetterLabel>Настройка монолита</Stirring.activatableLetterLabel>
+  <Stirring.activatableLetterText>Теперь вам хватает знаний о феноменах пустоты, чтобы настроить монолит и ещё шире раскрыть его псионный канал.\n\nЭто привлечёт внимание более опасных аномальных тварей.</Stirring.activatableLetterText>
+  <Stirring.activatedLetterText>Пока монолит выворачивало и корёжило, {PAWN_nameDef} {PAWN_gender ? испытал : испытала} жуткое видение. В этот краткий миг {PAWN_pronoun} всё {PAWN_gender ? осознал : осознала}.\n\nМонолит — не более чем дверь, и эта дверь пока что едва приоткрыта. А по ту сторону, постепенно проникая в нашу реальность, клубится нечто невыразимо мрачное.\n\nВо власти ужаса и воодушевления одновременно, {PAWN_nameDef} понимает, что может узнать больше… если продолжит исследование монолита.\n\n - Открыта категория сооружений: «Аномалия»\n - Открыта вкладка технологий: «Аномалия»\n - Открыт кодекс тёмных феноменов\n - Теперь вы можете изучать монолит и разнообразных тварей, чтобы развивать аномальные технологии.\n\n(*Gray)Вы можете настроить процент серьёзных угроз, связанных с аномалией, в настройках рассказчика.(/Gray)</Stirring.activatedLetterText>
+  <Stirring.activateFloatMenuText>настроить: {0}</Stirring.activateFloatMenuText>
+  <Stirring.activateGizmoDescription>Отправьте поселенца на настройку монолита.\n\nЭто привлечёт новых, более опасных тварей.</Stirring.activateGizmoDescription>
+  <Stirring.activateGizmoText>настроить</Stirring.activateGizmoText>
+  <Stirring.activateQuestText>Отправить поселенца настроить монолит.</Stirring.activateQuestText>
+  <Stirring.extraQuestDescription>Вы активировали монолит. Это проводник для пси-энергии, пока что едва открытый. По ту сторону затаился невообразимо ужасный разум, и он уже попробовал наш мир на вкус.\n\nПохоже, монолит активен только частично, но отключить его не получится. Чтобы узнать о монолите больше, вам придётся нарастить его мощность, а для этого понадобятся особые исследования.</Stirring.extraQuestDescription>
+  <Stirring.levelInspectText>Уровень 1: эпизодический псионный гул</Stirring.levelInspectText>
+  <Stirring.monolithCanBeActivatedText>Теперь монолит можно настроить.</Stirring.monolithCanBeActivatedText>
+  <Stirring.monolithLabel>монолит пустоты</Stirring.monolithLabel>
+  <Stirring.pawnSentToActivateMessage>{PAWN_nameDef} отправляется настраивать монолит.</Stirring.pawnSentToActivateMessage>
+  <VoidAwakened.activatedLetterText>Небо темнеет, а воздух наполняется злобным гулом. Монолит начал пробуждаться. Ваши действия привлекли внимание чего-то за гранью человеческого понимания.\n\nВскоре в этой реальности начнут проявляться пустотные объекты. Активируйте их, чтобы полностью пробудить монолит.\n\nСкоро нахлынет первая волна. Будьте готовы.</VoidAwakened.activatedLetterText>
+  <VoidAwakened.extraQuestDescription>Пустота пробудилась. Врата открыты. Тьма из пустоты, порождённая великим и бесконечно яростным разумом, вошла в нашу реальность.</VoidAwakened.extraQuestDescription>
+  <VoidAwakened.levelInspectText>Уровень 3: пробуждается</VoidAwakened.levelInspectText>
+  <VoidAwakened.monolithLabel>монолит пустоты</VoidAwakened.monolithLabel>
+  <Waking.activatableLetterLabel>Пробуждение монолита</Waking.activatableLetterLabel>
+  <Waking.activatableLetterText>Теперь вам хватает знаний о тёмных феноменах, чтобы полностью пробудить монолит и открыть двусторонний канал между нашим миром и пустотой.\n\nНо знайте: когда вы начнёте пробуждать монолит пустоты, пути назад уже не будет. Регион накроет неестественная темнота, и в него нахлынут жуткие твари.\n\nУбедитесь, что в вашем поселении хватает припасов и оно хорошо освещено.</Waking.activatableLetterText>
+  <Waking.activatedLetterText>После настройки монолит ещё больше искривился и вырос. В процессе {PAWN_nameDef} на краткий миг {PAWN_gender ? увидел : увидела}, что лежит по ту сторону. {PAWN_pronoun} теперь всё понимает.\n\nМонолит на самом деле дверь, и ваши действия открывают её всё шире. По другую сторону {PAWN_nameDef} ощущает невероятно развитый и бесконечно яростный нечеловеческий разум. Тёмный бог-машина вот-вот пробудится, и его физическое воздействие всё возрастает.\n\n - Теперь вы сможете обнаружить новых тварей.</Waking.activatedLetterText>
+  <Waking.activateFloatMenuText>пробудить: {0}</Waking.activateFloatMenuText>
+  <Waking.activateGizmoDescription>Отправьте поселенца пробудить монолит. Его пси-сигнал распространится на сотни километров вокруг и привлечёт бессчётное количество ужасных созданий. Будьте готовы их встретить.\n\nПосле полного пробуждения монолит превратится в прямой канал связи с пустотой.</Waking.activateGizmoDescription>
+  <Waking.activateGizmoText>пробудить</Waking.activateGizmoText>
+  <Waking.activateQuestText>Отправить поселенца пробудить монолит.</Waking.activateQuestText>
+  <Waking.extraQuestDescription>Монолит представляет собой канал между этим миром и пустотой, где тёмный сверхразум спит и видит бесконечные сны о ненависти и ярости. Сейчас вы открыли канал частично. Если активировать его ещё больше, вы сможете найти способ закрыть его навсегда… или обуздать его силу.</Waking.extraQuestDescription>
+  <Waking.levelInspectText>Уровень 2: испускает пси-энергию</Waking.levelInspectText>
+  <Waking.monolithCanBeActivatedText>Теперь монолит можно пробудить.</Waking.monolithCanBeActivatedText>
+  <Waking.monolithLabel>монолит пустоты</Waking.monolithLabel>
+  <Waking.pawnSentToActivateMessage>{PAWN_nameDef} отправляется пробуждать монолит.</Waking.pawnSentToActivateMessage>
+</LanguageData>

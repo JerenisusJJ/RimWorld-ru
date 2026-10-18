@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apparel_KidHelmet.label>детский шлем</Apparel_KidHelmet.label>
+  <Apparel_KidHelmet.description>Простой шлем детского размера, дающий умеренную защиту от проникающих ранений. Неэффективен против дробящих ударов. В любом случае, если его используют в бою, значит что-то точно пошло не так.</Apparel_KidHelmet.description>
+  <Apparel_KidPants.label>детские штаны</Apparel_KidPants.label>
+  <Apparel_KidPants.description>Пара штанов детского размера.</Apparel_KidPants.description>
+  <Apparel_KidParka.label>детский пуховик</Apparel_KidParka.label>
+  <Apparel_KidParka.description>Толстый пуховик для защиты ребёнка от холодов.</Apparel_KidParka.description>
+  <Apparel_KidRomper.label>детский комбинезон</Apparel_KidRomper.label>
+  <Apparel_KidRomper.description>Комбинация футболки и штанов детского размера на удобной подкладке. Малыши такое любят!</Apparel_KidRomper.description>
+  <Apparel_KidShirt.label>детская футболка</Apparel_KidShirt.label>
+  <Apparel_KidShirt.description>Простая футболка детского размера.</Apparel_KidShirt.description>
+  <Apparel_KidTribal.label>детская туника</Apparel_KidTribal.label>
+  <Apparel_KidTribal.description>Одеяние детского размера, созданное с применением орудий времён неолита. Даёт неплохую защиту от холода и жары.</Apparel_KidTribal.description>
+</LanguageData>

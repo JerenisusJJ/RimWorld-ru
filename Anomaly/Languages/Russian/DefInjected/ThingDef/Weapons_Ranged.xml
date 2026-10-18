@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bullet_HellcatRifle.label>пуля из винтовки «Адская фурия»</Bullet_HellcatRifle.label>
+  <Gun_HellcatRifle.label>винтовка «Адская фурия»</Gun_HellcatRifle.label>
+  <Gun_HellcatRifle.description>Универсальная и достаточно точная штурмовая винтовка с хорошим уроном и радиусом поражения.\n\nКомпактный модуль заряжается снарядами со сжатым биоферритом, которые сметают всё на своём пути языком пламени. В комплекте два заряда.</Gun_HellcatRifle.description>
+  <Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.chargeNoun>огненный заряд</Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_HellcatRifle.tools.stock.label>приклад</Gun_HellcatRifle.tools.stock.label>
+  <Gun_HellcatRifle.tools.barrel.label>ствол</Gun_HellcatRifle.tools.barrel.label>
+  <Gun_HellcatRifle.verbs.Verb_Shoot.label>винтовка «Адская фурия»</Gun_HellcatRifle.verbs.Verb_Shoot.label>
+  <Gun_Incinerator.label>испепелитель</Gun_Incinerator.label>
+  <Gun_Incinerator.description>Тяжёлое оружие, которое выжигает целые области струёй пламени. Оно может вести огонь по дуге, при этом не нанося урон союзникам под дугой. Пламя быстро прогорает, поэтому испепелитель может поджечь только легковоспламеняемые цели.\n\nОсновной режим огня не требует перезарядки, но испепелитель также снаряжён мегазарядом из сжатого биоферрита. Стрельба в этом режиме создаёт огромный конус пламени, и перезаряжать оружие необходимо после каждого использования.</Gun_Incinerator.description>
+  <Gun_Incinerator.comps.CompEquippableAbilityReloadable.chargeNoun>огненный заряд</Gun_Incinerator.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_Incinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряжается</Gun_Incinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_Incinerator.tools.stock.label>приклад</Gun_Incinerator.tools.stock.label>
+  <Gun_Incinerator.tools.barrel.label>ствол</Gun_Incinerator.tools.barrel.label>
+  <Gun_Incinerator.verbs.Verb_ArcSprayIncinerator.label>испепелитель</Gun_Incinerator.verbs.Verb_ArcSprayIncinerator.label>
+</LanguageData>

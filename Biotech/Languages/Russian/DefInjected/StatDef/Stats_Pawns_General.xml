@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BandwidthCost.label>нагрузка на сеть</BandwidthCost.label>
+  <BandwidthCost.description>Сколько пропускной способности механитора потребляет этот механоид, находясь под его контролем.</BandwidthCost.description>
+  <CancerRate.label>шанс развития рака</CancerRate.label>
+  <CancerRate.description>Множитель шанса развития рака у этого человека.</CancerRate.description>
+  <ControlTakingTime.label>инициализация управления</ControlTakingTime.label>
+  <ControlTakingTime.description>Сколько секунд займёт установление контроля над этим механоидом.</ControlTakingTime.description>
+  <ControlTakingTime.formatString>{0} сек</ControlTakingTime.formatString>
+  <Fertility.label>фертильность</Fertility.label>
+  <Fertility.description>Фертильность обоих родителей влияет на шанс зачатия. Этот показатель также влияет на шанс успешного имплантирования эмбриона в суррогат.</Fertility.description>
+  <GrowthVatOccupantSpeed.label>скорость роста в инкубаторе</GrowthVatOccupantSpeed.label>
+  <GrowthVatOccupantSpeed.description>Множитель скорости роста в инкубаторе данного человека.</GrowthVatOccupantSpeed.description>
+  <HemogenGainFactor.label>выработка гемогена</HemogenGainFactor.label>
+  <HemogenGainFactor.description>Множитель выработки гемогена.</HemogenGainFactor.description>
+  <LearningRateFactor.label>качество обучения</LearningRateFactor.label>
+  <LearningRateFactor.description>Множитель качества обучения ребёнка во время учебной деятельности.</LearningRateFactor.description>
+  <MechBandwidth.label>пропускная способность</MechBandwidth.label>
+  <MechBandwidth.description>Чем больше пропускная способность механитора, тем больше механоидов он в состоянии контролировать одновременно. Снижение пропускной способности приводит к потере управления механоидами, которые без постоянного контроля оператора могут одичать.</MechBandwidth.description>
+  <MechControlGroups.label>группы механоидов</MechControlGroups.label>
+  <MechControlGroups.description>Сколько отдельных групп механоидов может находиться под контролем этого механитора. Каждой группе можно давать отдельные приказы.</MechControlGroups.description>
+  <MechEnergyLossPerHP.label>стоимость ремонта</MechEnergyLossPerHP.label>
+  <MechEnergyLossPerHP.description>Количество энергии необходимое, чтобы восстановить 100 единиц здоровья.</MechEnergyLossPerHP.description>
+  <MechEnergyUsageFactor.label>потребление энергии</MechEnergyUsageFactor.label>
+  <MechEnergyUsageFactor.description>Множитель потребления энергии механоидом.</MechEnergyUsageFactor.description>
+  <MechFormingSpeed.label>скорость гестации</MechFormingSpeed.label>
+  <MechFormingSpeed.description>Множитель скорости выращивания механоидов в гестаторе этим механитором.</MechFormingSpeed.description>
+  <MechRemoteRepairDistance.label>дальность ремонта</MechRemoteRepairDistance.label>
+  <MechRemoteRepairDistance.description>Насколько далеко может находиться механоид при проведении удалённого ремонта.</MechRemoteRepairDistance.description>
+  <MechRemoteShieldDistance.label>дальность установки щита</MechRemoteShieldDistance.label>
+  <MechRemoteShieldDistance.description>На каком расстоянии от механитора может находиться механоид для установки на него дистанционного щита.</MechRemoteShieldDistance.description>
+  <MechRemoteShieldEnergy.label>потребление дистанционного щита</MechRemoteShieldEnergy.label>
+  <MechRemoteShieldEnergy.description>Сколько энергии будет потрачено на создание механитором дистанционного щита.</MechRemoteShieldEnergy.description>
+  <MechRepairSpeed.label>скорость ремонта</MechRepairSpeed.label>
+  <MechRepairSpeed.description>Множитель скорости ремонта механоидов этим механитором.</MechRepairSpeed.description>
+  <RawNutritionFactor.label>питательность сырой пищи</RawNutritionFactor.label>
+  <RawNutritionFactor.description>Множитель питательности сырой пищи для этого человека. Повышенные значения этого показателя будут означать, что питательность готовых блюд и сырых ингредиентов для них будет одинаковой.</RawNutritionFactor.description>
+  <SubcoreEncodingSpeed.label>скорость создания субъядра</SubcoreEncodingSpeed.label>
+  <SubcoreEncodingSpeed.description>Скорость создания субъядер этим механитором.</SubcoreEncodingSpeed.description>
+  <WastepacksPerRecharge.label>отходов от подзарядки</WastepacksPerRecharge.label>
+  <WastepacksPerRecharge.description>Сколько отходов произведёт механоид после зарядки у зарядной станции с нуля до ста процентов. Чем больше механоид, тем больше будет произведено отходов.</WastepacksPerRecharge.description>
+  <WastepacksPerRecharge.statFactorsExplanationHeader>Влияющие характеристики</WastepacksPerRecharge.statFactorsExplanationHeader>
+</LanguageData>

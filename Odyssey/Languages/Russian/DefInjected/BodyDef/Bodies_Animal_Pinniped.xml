@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Pinniped.label>ластоногое</Pinniped.label>
+  <Pinniped.corePart.parts.left_lung.customLabel>левое легкое</Pinniped.corePart.parts.left_lung.customLabel>
+  <Pinniped.corePart.parts.right_lung.customLabel>правое легкое</Pinniped.corePart.parts.right_lung.customLabel>
+  <Pinniped.corePart.parts.left_kidney.customLabel>левая почка</Pinniped.corePart.parts.left_kidney.customLabel>
+  <Pinniped.corePart.parts.right_kidney.customLabel>правая почка</Pinniped.corePart.parts.right_kidney.customLabel>
+  <Pinniped.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>левый глаз</Pinniped.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>
+  <Pinniped.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>правый глаз</Pinniped.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>
+  <Pinniped.corePart.parts.left_forelimb.customLabel>левая передняя конечность</Pinniped.corePart.parts.left_forelimb.customLabel>
+  <Pinniped.corePart.parts.left_forelimb.parts.front_left_flipper.customLabel>левый передний плавник</Pinniped.corePart.parts.left_forelimb.parts.front_left_flipper.customLabel>
+  <Pinniped.corePart.parts.right_forelimb.customLabel>правая передняя конечность</Pinniped.corePart.parts.right_forelimb.customLabel>
+  <Pinniped.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>правый передний плавник</Pinniped.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>
+  <Pinniped.corePart.parts.left_hindlimb.customLabel>левая задняя конечность</Pinniped.corePart.parts.left_hindlimb.customLabel>
+  <Pinniped.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>левый задний плавник</Pinniped.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>
+  <Pinniped.corePart.parts.right_hindlimb.customLabel>правая задняя конечность</Pinniped.corePart.parts.right_hindlimb.customLabel>
+  <Pinniped.corePart.parts.right_hindlimb.parts.rear_right_flipper.customLabel>правый задний плавник</Pinniped.corePart.parts.right_hindlimb.parts.rear_right_flipper.customLabel>
+  <PinnipedWithTusks.label>ластоногое</PinnipedWithTusks.label>
+  <PinnipedWithTusks.corePart.parts.left_lung.customLabel>левое легкое</PinnipedWithTusks.corePart.parts.left_lung.customLabel>
+  <PinnipedWithTusks.corePart.parts.right_lung.customLabel>правое легкое</PinnipedWithTusks.corePart.parts.right_lung.customLabel>
+  <PinnipedWithTusks.corePart.parts.left_kidney.customLabel>левая почка</PinnipedWithTusks.corePart.parts.left_kidney.customLabel>
+  <PinnipedWithTusks.corePart.parts.right_kidney.customLabel>правая почка</PinnipedWithTusks.corePart.parts.right_kidney.customLabel>
+  <PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>левый глаз</PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>
+  <PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>правый глаз</PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>
+  <PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_tusk.customLabel>левый бивень</PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_tusk.customLabel>
+  <PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_tusk.customLabel>правый бивень</PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_tusk.customLabel>
+  <PinnipedWithTusks.corePart.parts.left_forelimb.customLabel>левая передняя конечность</PinnipedWithTusks.corePart.parts.left_forelimb.customLabel>
+  <PinnipedWithTusks.corePart.parts.left_forelimb.parts.front_left_flipper.customLabel>левый передний плавник</PinnipedWithTusks.corePart.parts.left_forelimb.parts.front_left_flipper.customLabel>
+  <PinnipedWithTusks.corePart.parts.right_forelimb.customLabel>правая передняя конечность</PinnipedWithTusks.corePart.parts.right_forelimb.customLabel>
+  <PinnipedWithTusks.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>правый передний плавник</PinnipedWithTusks.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>
+  <PinnipedWithTusks.corePart.parts.left_hindlimb.customLabel>левая задняя конечность</PinnipedWithTusks.corePart.parts.left_hindlimb.customLabel>
+  <PinnipedWithTusks.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>левый задний плавник</PinnipedWithTusks.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>
+  <PinnipedWithTusks.corePart.parts.right_hindlimb.customLabel>правая задняя конечность</PinnipedWithTusks.corePart.parts.right_hindlimb.customLabel>
+  <PinnipedWithTusks.corePart.parts.right_hindlimb.parts.rear_right_flipper.customLabel>правый задний плавник</PinnipedWithTusks.corePart.parts.right_hindlimb.parts.rear_right_flipper.customLabel>
+</LanguageData>

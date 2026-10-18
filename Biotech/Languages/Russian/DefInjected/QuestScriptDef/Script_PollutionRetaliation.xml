@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PollutionRetaliation.questContentRules.rulesStrings>
+    <li>retaliationLetterLabel-&gt;возмездие за отходы</li>
+    <li>retaliationLetterLabel(senderIsNull==False)-&gt;возмездие [sender_faction_pawnSingular] за отходы</li>
+    <li>retaliationLetterLabel(senderIsNull==False,sender_royalInCurrentFaction==False)-&gt;возмездие [sender_nameDef] за отходы</li>
+    <li>retaliationLetterText(senderIsNull==True)-&gt;Ваш несанкционированный сброс токсичных отходов за пределы поселения не остался незамеченным. Разгневанные соседи принимают ответные меры, сбрасывая на вас транспортные капсулы с мешками отходов.\n\nМешки отходов следует хранить при отрицательной температуре, иначе они будут растворяться, а их содержимое будет загрязнять окружающую среду.</li>
+    <li>retaliationLetterText(sender_factionLeader==True)-&gt;[sender_nameFull], [sender_faction_leaderTitle] фракции [sender_faction_name], утверждает, что ваш безответственный сброс токсичных отходов за пределы поселения нанёс вред [sender_possessive] фракции. В качестве ответной меры [sender_pronoun] использует транспортные капсулы, чтобы завалить вас мешками отходов.\n\nМешки отходов следует хранить при отрицательной температуре, иначе они будут растворяться, а их содержимое будет загрязнять окружающую среду.</li>
+    <li>retaliationLetterText(sender_royalInCurrentFaction==True)-&gt;[sender_nameFull], [sender_faction_leaderTitle] фракции [sender_faction_name], утверждает, что ваш безответственный сброс токсичных отходов за пределы поселения нанёс вред [sender_possessive] фракции, и [sender_pronoun] считает долгом чести принять ответные меры. [sender_nameFull] использует транспортные капсулы, чтобы завалить вас мешками отходов.\n\nМешки отходов следует хранить при отрицательной температуре, иначе они будут растворяться, а их содержимое будет загрязнять окружающую среду.</li>
+  </PollutionRetaliation.questContentRules.rulesStrings>
+  <PollutionRetaliation.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;pollutionretaliation</li>
+  </PollutionRetaliation.questDescriptionRules.rulesStrings>
+  <PollutionRetaliation.questNameRules.rulesStrings>
+    <li>questDescription-&gt;pollutionretaliation</li>
+  </PollutionRetaliation.questNameRules.rulesStrings>
+</LanguageData>

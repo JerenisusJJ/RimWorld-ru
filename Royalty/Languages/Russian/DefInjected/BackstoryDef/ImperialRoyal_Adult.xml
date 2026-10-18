@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ArtsPatron54.description>{PAWN_nameDef} {PAWN_gender ? занимался : занималась : занимался} инвестициями финансов своей семьи в искусство.\n\n{PAWN_pronoun} {PAWN_gender ? отбирал : отбирала : отбирало} деятелей творчества и {PAWN_gender ? покровительствовал : покровительствовала : покровительствовало} им. Вместе они работали над произведениями искусства, восхвалявшими {PAWN_possessive} семью, Имперскую Церковь и саму Империю.</ArtsPatron54.description>
+  <ArtsPatron54.title>меценат</ArtsPatron54.title>
+  <ArtsPatron54.titleShort>меценат</ArtsPatron54.titleShort>
+  <Beastmaster67.description>У знатной семьи {PAWN_nameDef} детей было больше чем титулов, которые можно было бы унаследовать. Будучи младшим ребёнком в семье, {PAWN_pronoun} {PAWN_gender ? получил : получила : получило} почётный титул {PAWN_gender ? придворного дрессировщика : придворной дрессировщицы : придворного дрессировщика}.\n\n{PAWN_nameDef} {PAWN_gender ? распоряжался : распоряжалась : распоряжался} обширным семейным зверинцем. Несмотря на то, что {PAWN_pronoun} никогда не {PAWN_gender ? работал : работала : работало} напрямую с животными, {PAWN_nameDef} {PAWN_gender ? привязался : привязалась : привязался} к ним. Мало кто ценил {PAWN_possessive} так, как они.</Beastmaster67.description>
+  <Beastmaster67.title>дрессировщик</Beastmaster67.title>
+  <Beastmaster67.titleShort>дрессировщик</Beastmaster67.titleShort>
+  <Landworker98.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} майордомом знатной семьи. {PAWN_pronoun} {PAWN_gender ? управлял : управляла : управляло} сельскохозяйственными и добывающими предприятиями, которые этой семье принадлежали.\n\nХоть {PAWN_pronoun} никогда не {PAWN_gender ? работал : работала : работало} напрямую на этих предприятиях, управление ими требовало определённых знаний в сельском хозяйстве и горном деле.</Landworker98.description>
+  <Landworker98.title>майордом</Landworker98.title>
+  <Landworker98.titleShort>майордом</Landworker98.titleShort>
+  <Regent9.description>После того как глава дружественной семьи был убит, а несовершеннолетний сын {PAWN_nameDef} унаследовал трон, {PAWN_gender ? самого его : саму её : самого его} назначили регентом.\n\n{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала : отвечало} за многие дела знатной семьи: от составления бюджета и ведения военных дел до противостояния попыткам узурпации власти жадными родственниками. {PAWN_pronoun} никогда не {PAWN_gender ? злоупотреблял : злоупотребляла : злоупотребляло} своим положением.</Regent9.description>
+  <Regent9.title>регент</Regent9.title>
+  <Regent9.titleShort>регент</Regent9.titleShort>
+  <Spymaster41.description>Как только {PAWN_nameDef} {PAWN_gender ? достиг : достигла : достиг} нужного возраста, {PAWN_possessive} назначили шпионом-мейстером своего знатного семейства. Холодная и расчётливая натура сделали {PAWN_possessive} искусным мастером клинка, яда и предательства.</Spymaster41.description>
+  <Spymaster41.title>шпион-мейстер</Spymaster41.title>
+  <Spymaster41.titleShort>шпион-мейстер</Spymaster41.titleShort>
+  <Warmaster54.description>{PAWN_nameDef} {PAWN_gender ? был военным советником : была военной советницей : был военным советником} при знатной семье. {PAWN_pronoun} {PAWN_gender ? занимался : занималась : занимался} всеми военными делами при дворе.\n\nВ тех редких случаях, когда происходили сражения, {PAWN_nameDef} {PAWN_gender ? руководил : руководила : руководило} офицерским составом.</Warmaster54.description>
+  <Warmaster54.title>военный советник</Warmaster54.title>
+  <Warmaster54.titleShort>советник</Warmaster54.titleShort>
+</LanguageData>

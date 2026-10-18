@@ -1,0 +1,1921 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AturaStation.placeRules.rulesStrings>
+    <li>place_name-&gt;Станция Атуры</li>
+    <li>place_name_gen-&gt;Станции Атуры</li>
+    <li>place_name_acc-&gt;Станцию Атуры</li>
+    <li>place_name_pre-&gt;Станции Атуры</li>
+    <li>place_adjective_masc-&gt;атуранский</li>
+    <li>place_adjective_fem-&gt;атуранская</li>
+    <li>place_adjective_neutral-&gt;атуранское</li>
+    <li>place_adjective_plural-&gt;атуранские</li>
+    <li>place_summary-&gt;космическая верфь</li>
+    <li>place_summary_gen-&gt;космической верфи</li>
+    <li>place_summary_acc-&gt;космическую верфь</li>
+    <li>place_summary_pre-&gt;космической верфи</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;док челноков</li>
+    <li>place_community-&gt;промышленное кольцо</li>
+    <li>place_community-&gt;жилое кольцо</li>
+    <li>place_community_dat_to-&gt;к доку челноков</li>
+    <li>place_community_dat_to-&gt;к промышленному кольцу</li>
+    <li>place_community_dat_to-&gt;к жилому кольцу</li>
+    <li>place_community_acc-&gt;[place_community]</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в доке челноков</li>
+    <li>place_community_pre_in-&gt;в промышленном кольце</li>
+    <li>place_community_pre_in-&gt;в жилом кольце</li>
+    <li>place_powerCenter-&gt;центральная рубка</li>
+    <li>place_powerCenter_acc-&gt;центральную рубку</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;центральной рубкой</li>
+    <li>place_powerCenter_pre_in-&gt;в центральной рубке</li>
+    <li>place_job-&gt;оператор строительного дрона</li>
+    <li>place_job-&gt;менеджер</li>
+    <li>place_job-&gt;лётчик-испытатель</li>
+    <li>place_job-&gt;специалист по продажам</li>
+    <li>place_job-&gt;оператор 3D-принтера</li>
+    <li>place_job_fem-&gt;оператор строительного дрона</li>
+    <li>place_job_fem-&gt;менеджер</li>
+    <li>place_job_fem-&gt;лётчица-испытатель</li>
+    <li>place_job_fem-&gt;специалистка по продажам</li>
+    <li>place_job_fem-&gt;оператор 3D-принтера</li>
+    <li>place_job_gen-&gt;оператора строительного дрона</li>
+    <li>place_job_gen-&gt;менеджера</li>
+    <li>place_job_gen-&gt;лётчика-испытателя</li>
+    <li>place_job_gen-&gt;специалиста по продажам</li>
+    <li>place_job_gen-&gt;оператора 3D-принтера</li>
+    <li>place_job_gen_fem-&gt;оператора строительного дрона</li>
+    <li>place_job_gen_fem-&gt;менеджера</li>
+    <li>place_job_gen_fem-&gt;лётчицы-испытателя</li>
+    <li>place_job_gen_fem-&gt;специалистки по продажам</li>
+    <li>place_job_gen_fem-&gt;оператора 3D-принтера</li>
+    <li>place_job_dat-&gt;оператору строительного дрона</li>
+    <li>place_job_dat-&gt;менеджеру</li>
+    <li>place_job_dat-&gt;лётчику-испытателю</li>
+    <li>place_job_dat-&gt;специалисту по продажам</li>
+    <li>place_job_dat-&gt;оператору 3D-принтера</li>
+    <li>place_job_dat_fem-&gt;оператору строительного дрона</li>
+    <li>place_job_dat_fem-&gt;менеджеру</li>
+    <li>place_job_dat_fem-&gt;лётчице-испытателю</li>
+    <li>place_job_dat_fem-&gt;специалистке по продажам</li>
+    <li>place_job_dat_fem-&gt;оператору 3D-принтера</li>
+    <li>place_job_acc-&gt;оператора строительного дрона</li>
+    <li>place_job_acc-&gt;менеджера</li>
+    <li>place_job_acc-&gt;лётчика-испытателя</li>
+    <li>place_job_acc-&gt;специалиста по продажам</li>
+    <li>place_job_acc-&gt;оператора 3D-принтера</li>
+    <li>place_job_acc_fem-&gt;оператора строительного дрона</li>
+    <li>place_job_acc_fem-&gt;менеджера</li>
+    <li>place_job_acc_fem-&gt;лётчицу-испытателя</li>
+    <li>place_job_acc_fem-&gt;специалистку по продажам</li>
+    <li>place_job_acc_fem-&gt;оператора 3D-принтера</li>
+    <li>place_personalWeapon-&gt;тазер</li>
+    <li>place_personalWeapon-&gt;плазменный сварочный аппарат</li>
+    <li>place_personalWeapon_plural-&gt;тазеры</li>
+    <li>place_personalWeapon_plural-&gt;плазменные сварочные аппараты</li>
+    <li>place_personalWeapon_gen-&gt;тазера</li>
+    <li>place_personalWeapon_gen-&gt;плазменного сварочного аппарата</li>
+    <li>place_personalWeapon_acc-&gt;тазер</li>
+    <li>place_personalWeapon_acc-&gt;плазменный сварочный аппарат</li>
+    <li>place_personalWeapon_ins-&gt;тазером</li>
+    <li>place_personalWeapon_ins-&gt;плазменным сварочным аппаратом</li>
+    <li>place_personalWeapon_ins_plural-&gt;тазерами</li>
+    <li>place_personalWeapon_ins_plural-&gt;плазменными сварочными аппаратами</li>
+    <li>place_massWeapon-&gt;[anEMPAttack]</li>
+    <li>place_massWeapon-&gt;дистанционные сварочные дроны</li>
+    <li>place_massWeapon_gen-&gt;[anEMPAttack_gen]</li>
+    <li>place_massWeapon_gen-&gt;дистанционных сварочных дронов</li>
+    <li>place_massWeapon_acc-&gt;[anEMPAttack_acc]</li>
+    <li>place_massWeapon_acc-&gt;дистанционных сварочных дронов</li>
+    <li>place_foeLeader-&gt;криминальный авторитет</li>
+    <li>foeLeader_gen-&gt;криминального авторитета</li>
+    <li>foeLeader_dat-&gt;криминальному авторитету</li>
+    <li>foeLeader_acc-&gt;криминального авторитета</li>
+    <li>foeLeader_ins-&gt;криминальным авторитетом</li>
+    <li>place_foeSoldiers-&gt;бандиты</li>
+    <li>foeSoldiers_genacc-&gt;бандитов</li>
+    <li>foeSoldiers_dat-&gt;бандитам</li>
+    <li>foeSoldiers_ins-&gt;бандитами</li>
+  </AturaStation.placeRules.rulesStrings>
+  <Bagua5.placeRules.rulesStrings>
+    <li>place_name-&gt;Багуа-5</li>
+    <li>place_name_gen-&gt;[place_name]</li>
+    <li>place_name_acc-&gt;[place_name]</li>
+    <li>place_name_pre-&gt;[place_name]</li>
+    <li>place_adjective_masc-&gt;багуанский</li>
+    <li>place_adjective_fem-&gt;багуанская</li>
+    <li>place_adjective_neutral-&gt;багуанское</li>
+    <li>place_adjective_plural-&gt;багуанские</li>
+    <li>place_summary-&gt;планета-свалка</li>
+    <li>place_summary_gen-&gt;планеты-свалки</li>
+    <li>place_summary_acc-&gt;планету-свалку</li>
+    <li>place_summary_pre-&gt;планете-свалке</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;укреплённый аванпост мусорщиков</li>
+    <li>place_community-&gt;станция по переработке дождевой воды</li>
+    <li>place_community-&gt;город мусорщиков</li>
+    <li>place_community_dat_to-&gt;к укреплённому аванпосту мусорщиков</li>
+    <li>place_community_dat_to-&gt;к станции по переработке дождевой воды</li>
+    <li>place_community_dat_to-&gt;к городу мусорщиков</li>
+    <li>place_community_acc-&gt;укреплённый аванпост мусорщиков</li>
+    <li>place_community_acc-&gt;станцию по переработке дождевой воды</li>
+    <li>place_community_acc-&gt;город мусорщиков</li>
+    <li>place_community_acc_to-&gt;на укреплённый аванпост мусорщиков</li>
+    <li>place_community_acc_to-&gt;на станцию по переработке дождевой воды</li>
+    <li>place_community_acc_to-&gt;в город мусорщиков</li>
+    <li>place_community_pre_in-&gt;на укреплённом аванпосту мусорщиков</li>
+    <li>place_community_pre_in-&gt;на станции по переработке дождевой воды</li>
+    <li>place_community_pre_in-&gt;в городе мусорщиков</li>
+    <li>place_powerCenter-&gt;торговый космопорт</li>
+    <li>place_powerCenter_acc-&gt;торговый космопорт</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;торговым космопортом</li>
+    <li>place_powerCenter_pre_in-&gt;в торговом космопорту</li>
+    <li>place_job-&gt;мусорщик</li>
+    <li>place_job-&gt;торговец</li>
+    <li>place_job-&gt;лудильщик</li>
+    <li>place_job-&gt;охранник</li>
+    <li>place_job-&gt;разборщик</li>
+    <li>place_job_fem-&gt;мусорщица</li>
+    <li>place_job_fem-&gt;торговка</li>
+    <li>place_job_fem-&gt;лудильщица</li>
+    <li>place_job_fem-&gt;охранница</li>
+    <li>place_job_fem-&gt;разборщица</li>
+    <li>place_job_gen-&gt;мусорщика</li>
+    <li>place_job_gen-&gt;торговца</li>
+    <li>place_job_gen-&gt;лудильщика</li>
+    <li>place_job_gen-&gt;охранника</li>
+    <li>place_job_gen-&gt;разборщика</li>
+    <li>place_job_gen_fem-&gt;мусорщицы</li>
+    <li>place_job_gen_fem-&gt;торговки</li>
+    <li>place_job_gen_fem-&gt;лудильщицы</li>
+    <li>place_job_gen_fem-&gt;охранницы</li>
+    <li>place_job_gen_fem-&gt;разборщицы</li>
+    <li>place_job_dat-&gt;мусорщику</li>
+    <li>place_job_dat-&gt;торговцу</li>
+    <li>place_job_dat-&gt;лудильщику</li>
+    <li>place_job_dat-&gt;охраннику</li>
+    <li>place_job_dat-&gt;разборщику</li>
+    <li>place_job_dat_fem-&gt;мусорщице</li>
+    <li>place_job_dat_fem-&gt;торговке</li>
+    <li>place_job_dat_fem-&gt;лудильщице</li>
+    <li>place_job_dat_fem-&gt;охраннице</li>
+    <li>place_job_dat_fem-&gt;разборщице</li>
+    <li>place_job_acc-&gt;мусорщика</li>
+    <li>place_job_acc-&gt;торговца</li>
+    <li>place_job_acc-&gt;лудильщика</li>
+    <li>place_job_acc-&gt;охранника</li>
+    <li>place_job_acc-&gt;разборщика</li>
+    <li>place_job_acc_fem-&gt;мусорщицу</li>
+    <li>place_job_acc_fem-&gt;торговку</li>
+    <li>place_job_acc_fem-&gt;лудильщицу</li>
+    <li>place_job_acc_fem-&gt;охранницу</li>
+    <li>place_job_acc_fem-&gt;разборщицу</li>
+    <li>place_personalWeapon-&gt;ружьё-самопал</li>
+    <li>place_personalWeapon-&gt;импровизированный меч</li>
+    <li>place_personalWeapon_plural-&gt;ружья-самопалы</li>
+    <li>place_personalWeapon_plural-&gt;импровизированные мечи</li>
+    <li>place_personalWeapon_gen-&gt;ружья-самопала</li>
+    <li>place_personalWeapon_gen-&gt;импровизированного меча</li>
+    <li>place_personalWeapon_acc-&gt;ружьё-самопал</li>
+    <li>place_personalWeapon_acc-&gt;импровизированный меч</li>
+    <li>place_personalWeapon_ins-&gt;ружьём-самопалом</li>
+    <li>place_personalWeapon_ins-&gt;импровизированным мечом</li>
+    <li>place_personalWeapon_ins_plural-&gt;ружьями-самопалами</li>
+    <li>place_personalWeapon_ins_plural-&gt;импровизированными мечами</li>
+    <li>place_massWeapon-&gt;импровизированная ядерная бомба</li>
+    <li>place_massWeapon-&gt;вирус ржавчины</li>
+    <li>place_massWeapon_gen-&gt;импровизированной ядерной бомбы</li>
+    <li>place_massWeapon_gen-&gt;вируса ржавчины</li>
+    <li>place_massWeapon_acc-&gt;импровизированную ядерную бомбу</li>
+    <li>place_massWeapon_acc-&gt;вирус ржавчины</li>
+    <li>place_foeLeader-&gt;мусорный владыка</li>
+    <li>foeLeader_gen-&gt;мусорного владыки</li>
+    <li>foeLeader_dat-&gt;мусорному владыке</li>
+    <li>foeLeader_acc-&gt;мусорного владыку</li>
+    <li>foeLeader_ins-&gt;мусорным владыкой</li>
+    <li>place_foeSoldiers-&gt;клёпкоголовые</li>
+    <li>foeSoldiers_genacc-&gt;клёпкоголовых</li>
+    <li>foeSoldiers_dat-&gt;клёпкоголовым</li>
+    <li>foeSoldiers_ins-&gt;клёпкоголовыми</li>
+  </Bagua5.placeRules.rulesStrings>
+  <Boccocarro.placeRules.rulesStrings>
+    <li>place_name-&gt;Боккокаро</li>
+    <li>place_name_gen-&gt;[place_name]</li>
+    <li>place_name_acc-&gt;[place_name]</li>
+    <li>place_name_pre-&gt;[place_name]</li>
+    <li>place_adjective_masc-&gt;боккокарский</li>
+    <li>place_adjective_fem-&gt;боккокарская</li>
+    <li>place_adjective_neutral-&gt;боккокарское</li>
+    <li>place_adjective_plural-&gt;боккокарские</li>
+    <li>place_summary-&gt;пещерный мир</li>
+    <li>place_summary_gen-&gt;пещерного мира</li>
+    <li>place_summary_acc-&gt;пещерный мир</li>
+    <li>place_summary_pre-&gt;пещерном мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;наземный туннель</li>
+    <li>place_community-&gt;грибная пещера</li>
+    <li>place_community-&gt;коллектор конденсата</li>
+    <li>place_community_dat_to-&gt;к наземному туннелю</li>
+    <li>place_community_dat_to-&gt;к грибной пещере</li>
+    <li>place_community_dat_to-&gt;к коллектору конденсата</li>
+    <li>place_community_acc-&gt;наземный туннель</li>
+    <li>place_community_acc-&gt;грибную пещеру</li>
+    <li>place_community_acc-&gt;коллектор конденсата</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в наземном туннеле</li>
+    <li>place_community_pre_in-&gt;в грибной пещере</li>
+    <li>place_community_pre_in-&gt;в коллекторе конденсата</li>
+    <li>place_powerCenter-&gt;зал речей</li>
+    <li>place_powerCenter_acc-&gt;зал речей</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;залом речей</li>
+    <li>place_powerCenter_pre_in-&gt;в зале речей</li>
+    <li>place_job-&gt;шахтёр</li>
+    <li>place_job-&gt;грибной фермер</li>
+    <li>place_job-&gt;мусорщик</li>
+    <li>place_job-&gt;повар</li>
+    <li>place_job-&gt;охотник на лягушек</li>
+    <li>place_job_fem-&gt;шахтёр</li>
+    <li>place_job_fem-&gt;грибная фермерша</li>
+    <li>place_job_fem-&gt;мусорщица</li>
+    <li>place_job_fem-&gt;повариха</li>
+    <li>place_job_fem-&gt;охотница на лягушек</li>
+    <li>place_job_gen-&gt;шахтёра</li>
+    <li>place_job_gen-&gt;грибного фермера</li>
+    <li>place_job_gen-&gt;мусорщика</li>
+    <li>place_job_gen-&gt;повара</li>
+    <li>place_job_gen-&gt;охотника на лягушек</li>
+    <li>place_job_gen_fem-&gt;шахтёра</li>
+    <li>place_job_gen_fem-&gt;грибной фермерши</li>
+    <li>place_job_gen_fem-&gt;мусорщицы</li>
+    <li>place_job_gen_fem-&gt;поварихи</li>
+    <li>place_job_gen_fem-&gt;охотницы на лягушек</li>
+    <li>place_job_dat-&gt;шахтёру</li>
+    <li>place_job_dat-&gt;грибному фермеру</li>
+    <li>place_job_dat-&gt;мусорщику</li>
+    <li>place_job_dat-&gt;повару</li>
+    <li>place_job_dat-&gt;охотнику на лягушек</li>
+    <li>place_job_dat_fem-&gt;шахтёру</li>
+    <li>place_job_dat_fem-&gt;грибной фермерше</li>
+    <li>place_job_dat_fem-&gt;мусорщице</li>
+    <li>place_job_dat_fem-&gt;поварихе</li>
+    <li>place_job_dat_fem-&gt;охотнице на лягушек</li>
+    <li>place_job_acc-&gt;шахтёра</li>
+    <li>place_job_acc-&gt;грибного фермера</li>
+    <li>place_job_acc-&gt;мусорщика</li>
+    <li>place_job_acc-&gt;повара</li>
+    <li>place_job_acc-&gt;охотника на лягушек</li>
+    <li>place_job_acc_fem-&gt;шахтёра</li>
+    <li>place_job_acc_fem-&gt;грибную фермершу</li>
+    <li>place_job_acc_fem-&gt;мусорщицу</li>
+    <li>place_job_acc_fem-&gt;повариху</li>
+    <li>place_job_acc_fem-&gt;охотницу на лягушек</li>
+    <li>place_personalWeapon-&gt;кирка</li>
+    <li>place_personalWeapon-&gt;гидравлический арбалет</li>
+    <li>place_personalWeapon_plural-&gt;кирки</li>
+    <li>place_personalWeapon_plural-&gt;гидравлические арбалеты</li>
+    <li>place_personalWeapon_gen-&gt;кирки</li>
+    <li>place_personalWeapon_gen-&gt;гидравлического арбалета</li>
+    <li>place_personalWeapon_acc-&gt;кирку</li>
+    <li>place_personalWeapon_acc-&gt;гидравлический арбалет</li>
+    <li>place_personalWeapon_ins-&gt;киркой</li>
+    <li>place_personalWeapon_ins-&gt;гидравлическим арбалетом</li>
+    <li>place_personalWeapon_ins_plural-&gt;кирками</li>
+    <li>place_personalWeapon_ins_plural-&gt;гидравлическими арбалетами</li>
+    <li>place_massWeapon-&gt;[seismicDevice]</li>
+    <li>place_massWeapon-&gt;бомба из чёрного пороха</li>
+    <li>place_massWeapon_gen-&gt;[seismicDevice_gen]</li>
+    <li>place_massWeapon_gen-&gt;бомбы из чёрного пороха</li>
+    <li>place_massWeapon_acc-&gt;[seismicDevice_acc]</li>
+    <li>place_massWeapon_acc-&gt;бомбу из чёрного пороха</li>
+    <li>place_foeLeader-&gt;управляющий шахтами</li>
+    <li>foeLeader_gen-&gt;управляющего шахтами</li>
+    <li>foeLeader_dat-&gt;управляющему шахтами</li>
+    <li>foeLeader_acc-&gt;управляющего шахтами</li>
+    <li>foeLeader_ins-&gt;управляющим шахтами</li>
+    <li>place_foeSoldiers-&gt;солдаты бездны</li>
+    <li>foeSoldiers_genacc-&gt;солдат бездны</li>
+    <li>foeSoldiers_dat-&gt;солдатам бездны</li>
+    <li>foeSoldiers_ins-&gt;солдатами бездны</li>
+  </Boccocarro.placeRules.rulesStrings>
+  <Chelis.placeRules.rulesStrings>
+    <li>place_name-&gt;Челис</li>
+    <li>place_name_gen-&gt;Челиса</li>
+    <li>place_name_acc-&gt;Челис</li>
+    <li>place_name_pre-&gt;Челисе</li>
+    <li>place_adjective_masc-&gt;челисианский</li>
+    <li>place_adjective_fem-&gt;челисианская</li>
+    <li>place_adjective_neutral-&gt;челисианское</li>
+    <li>place_adjective_plural-&gt;челисианские</li>
+    <li>place_summary-&gt;засушливый мир</li>
+    <li>place_summary_gen-&gt;засушливого мира</li>
+    <li>place_summary_acc-&gt;засушливый мир</li>
+    <li>place_summary_pre-&gt;засушливом мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;коллектор влаги</li>
+    <li>place_community-&gt;иссушенный город</li>
+    <li>place_community-&gt;центр водоснабжения</li>
+    <li>place_community_dat_to-&gt;к коллектору влаги</li>
+    <li>place_community_dat_to-&gt;к иссушенному городу</li>
+    <li>place_community_dat_to-&gt;к центру водоснабжения</li>
+    <li>place_community_acc-&gt;[place_community]</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в коллекторе влаги</li>
+    <li>place_community_pre_in-&gt;в иссушенном городе</li>
+    <li>place_community_pre_in-&gt;в центре водоснабжения</li>
+    <li>place_powerCenter-&gt;зал жизни</li>
+    <li>place_powerCenter_acc-&gt;зал жизни</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;залом жизни</li>
+    <li>place_powerCenter_pre_in-&gt;в зале жизни</li>
+    <li>place_job-&gt;собиратель воды</li>
+    <li>place_job-&gt;свежевальщик ящеров</li>
+    <li>place_job-&gt;искатель оазисов</li>
+    <li>place_job-&gt;собиратель кактусов</li>
+    <li>place_job-&gt;пастух</li>
+    <li>place_job_fem-&gt;собирательница воды</li>
+    <li>place_job_fem-&gt;свежевальщица ящеров</li>
+    <li>place_job_fem-&gt;искательница оазисов</li>
+    <li>place_job_fem-&gt;собирательница кактусов</li>
+    <li>place_job_fem-&gt;пастушка</li>
+    <li>place_job_gen-&gt;собирателя воды</li>
+    <li>place_job_gen-&gt;свежевальщика ящеров</li>
+    <li>place_job_gen-&gt;искателя оазисов</li>
+    <li>place_job_gen-&gt;собирателя кактусов</li>
+    <li>place_job_gen-&gt;пастуха</li>
+    <li>place_job_gen_fem-&gt;собирательницы воды</li>
+    <li>place_job_gen_fem-&gt;свежевальщицы ящеров</li>
+    <li>place_job_gen_fem-&gt;искательницы оазисов</li>
+    <li>place_job_gen_fem-&gt;собирательницы кактусов</li>
+    <li>place_job_gen_fem-&gt;пастушки</li>
+    <li>place_job_dat-&gt;собирателю воды</li>
+    <li>place_job_dat-&gt;свежевальщику ящеров</li>
+    <li>place_job_dat-&gt;искателю оазисов</li>
+    <li>place_job_dat-&gt;собирателю кактусов</li>
+    <li>place_job_dat-&gt;пастуху</li>
+    <li>place_job_dat_fem-&gt;собирательнице воды</li>
+    <li>place_job_dat_fem-&gt;свежевальщице ящеров</li>
+    <li>place_job_dat_fem-&gt;искательнице оазисов</li>
+    <li>place_job_dat_fem-&gt;собирательнице кактусов</li>
+    <li>place_job_dat_fem-&gt;пастушке</li>
+    <li>place_job_acc-&gt;собирателя воды</li>
+    <li>place_job_acc-&gt;свежевальщика ящеров</li>
+    <li>place_job_acc-&gt;искателя оазисов</li>
+    <li>place_job_acc-&gt;собирателя кактусов</li>
+    <li>place_job_acc-&gt;пастуха</li>
+    <li>place_job_acc_fem-&gt;собирательницу воды</li>
+    <li>place_job_acc_fem-&gt;свежевальщицу ящеров</li>
+    <li>place_job_acc_fem-&gt;искательницу оазисов</li>
+    <li>place_job_acc_fem-&gt;собирательницу кактусов</li>
+    <li>place_job_acc_fem-&gt;пастушку</li>
+    <li>place_personalWeapon-&gt;песчаные стрелы</li>
+    <li>place_personalWeapon-&gt;дубина-кактус</li>
+    <li>place_personalWeapon_plural-&gt;песчаные стрелы</li>
+    <li>place_personalWeapon_plural-&gt;дубины-кактусы</li>
+    <li>place_personalWeapon_gen-&gt;песчаных стрел</li>
+    <li>place_personalWeapon_gen-&gt;дубины-кактуса</li>
+    <li>place_personalWeapon_acc-&gt;песчаные стрелы</li>
+    <li>place_personalWeapon_acc-&gt;дубину-кактус</li>
+    <li>place_personalWeapon_ins-&gt;песчаными стрелами</li>
+    <li>place_personalWeapon_ins-&gt;дубиной-кактусом</li>
+    <li>place_personalWeapon_ins_plural-&gt;песчаными стрелами</li>
+    <li>place_personalWeapon_ins_plural-&gt;дубинами-кактусами</li>
+    <li>place_massWeapon-&gt;вызванная архотеком песчаная буря</li>
+    <li>place_massWeapon-&gt;нашествие шипастых ящериц</li>
+    <li>place_massWeapon_gen-&gt;вызванной архотеком песчаной бури</li>
+    <li>place_massWeapon_gen-&gt;нашествия шипастых ящериц</li>
+    <li>place_massWeapon_acc-&gt;вызванную архотеком песчаную бурю</li>
+    <li>place_massWeapon_acc-&gt;нашествие шипастых ящериц</li>
+    <li>place_foeLeader-&gt;вождь</li>
+    <li>foeLeader_gen-&gt;вождя</li>
+    <li>foeLeader_dat-&gt;вождю</li>
+    <li>foeLeader_acc-&gt;вождя</li>
+    <li>foeLeader_ins-&gt;вождём</li>
+    <li>place_foeSoldiers-&gt;песчаные воины</li>
+    <li>foeSoldiers_genacc-&gt;песчаных воинов</li>
+    <li>foeSoldiers_dat-&gt;песчаным воинам</li>
+    <li>foeSoldiers_ins-&gt;песчаными воинами</li>
+  </Chelis.placeRules.rulesStrings>
+  <Creticon.placeRules.rulesStrings>
+    <li>place_name-&gt;Кретикон</li>
+    <li>place_name_gen-&gt;Кретикона</li>
+    <li>place_name_acc-&gt;Кретикон</li>
+    <li>place_name_pre-&gt;Кретиконе</li>
+    <li>place_adjective_masc-&gt;кретиконский</li>
+    <li>place_adjective_fem-&gt;кретиконская</li>
+    <li>place_adjective_neutral-&gt;кретиконское</li>
+    <li>place_adjective_plural-&gt;кретиконские</li>
+    <li>place_summary-&gt;мёртвый пост-апокалиптический мир</li>
+    <li>place_summary_gen-&gt;мёртвого пост-апокалиптического мира</li>
+    <li>place_summary_acc-&gt;мёртвый пост-апокалиптический мир</li>
+    <li>place_summary_pre-&gt;мёртвом пост-апокалиптическом мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;бункер</li>
+    <li>place_community-&gt;пещера</li>
+    <li>place_community-&gt;ледяное убежище</li>
+    <li>place_community_dat_to-&gt;к бункеру</li>
+    <li>place_community_dat_to-&gt;к пещере</li>
+    <li>place_community_dat_to-&gt;к ледяному убежищу</li>
+    <li>place_community_acc-&gt;бункер</li>
+    <li>place_community_acc-&gt;пещеру</li>
+    <li>place_community_acc-&gt;ледяное убежище</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в бункере</li>
+    <li>place_community_pre_in-&gt;в пещере</li>
+    <li>place_community_pre_in-&gt;в ледяном убежище</li>
+    <li>place_powerCenter-&gt;бункер управляющего</li>
+    <li>place_powerCenter_acc-&gt;бункер управляющего</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;бункером управляющего</li>
+    <li>place_powerCenter_pre_in-&gt;в бункере управляющего</li>
+    <li>place_job-&gt;техник водоочистного агрегата</li>
+    <li>place_job-&gt;марикультуролог</li>
+    <li>place_job-&gt;врач</li>
+    <li>place_job-&gt;учитель</li>
+    <li>place_job-&gt;командир ополчения</li>
+    <li>place_job-&gt;пилот челнока</li>
+    <li>place_job_fem-&gt;техник водоочистного агрегата</li>
+    <li>place_job_fem-&gt;марикультуролог</li>
+    <li>place_job_fem-&gt;врач</li>
+    <li>place_job_fem-&gt;учительница</li>
+    <li>place_job_fem-&gt;командир ополчения</li>
+    <li>place_job_fem-&gt;пилотесса челнока</li>
+    <li>place_job_gen-&gt;техника водоочистного агрегата</li>
+    <li>place_job_gen-&gt;марикультуролога</li>
+    <li>place_job_gen-&gt;врача</li>
+    <li>place_job_gen-&gt;учителя</li>
+    <li>place_job_gen-&gt;командира ополчения</li>
+    <li>place_job_gen-&gt;пилота челнока</li>
+    <li>place_job_gen_fem-&gt;техника водоочистного агрегата</li>
+    <li>place_job_gen_fem-&gt;марикультуролога</li>
+    <li>place_job_gen_fem-&gt;врача</li>
+    <li>place_job_gen_fem-&gt;учительницы</li>
+    <li>place_job_gen_fem-&gt;командира ополчения</li>
+    <li>place_job_gen_fem-&gt;пилотессы челнока</li>
+    <li>place_job_dat-&gt;технику водоочистного агрегата</li>
+    <li>place_job_dat-&gt;марикультурологу</li>
+    <li>place_job_dat-&gt;врачу</li>
+    <li>place_job_dat-&gt;учителю</li>
+    <li>place_job_dat-&gt;командиру ополчения</li>
+    <li>place_job_dat-&gt;пилоту челнока</li>
+    <li>place_job_dat_fem-&gt;технику водоочистного агрегата</li>
+    <li>place_job_dat_fem-&gt;марикультурологу</li>
+    <li>place_job_dat_fem-&gt;врачу</li>
+    <li>place_job_dat_fem-&gt;учительнице</li>
+    <li>place_job_dat_fem-&gt;командиру ополчения</li>
+    <li>place_job_dat_fem-&gt;пилотессе челнока</li>
+    <li>place_job_acc-&gt;техника водоочистного агрегата</li>
+    <li>place_job_acc-&gt;марикультуролога</li>
+    <li>place_job_acc-&gt;врача</li>
+    <li>place_job_acc-&gt;учителя</li>
+    <li>place_job_acc-&gt;командира ополчения</li>
+    <li>place_job_acc-&gt;пилота челнока</li>
+    <li>place_job_acc_fem-&gt;техника водоочистного агрегата</li>
+    <li>place_job_acc_fem-&gt;марикультуролога</li>
+    <li>place_job_acc_fem-&gt;врача</li>
+    <li>place_job_acc_fem-&gt;учительницу</li>
+    <li>place_job_acc_fem-&gt;командира ополчения</li>
+    <li>place_job_acc_fem-&gt;пилотессу челнока</li>
+    <li>place_personalWeapon-&gt;автоматический пистолет</li>
+    <li>place_personalWeapon-&gt;пулемёт</li>
+    <li>place_personalWeapon_plural-&gt;автоматические пистолеты</li>
+    <li>place_personalWeapon_plural-&gt;пулемёты</li>
+    <li>place_personalWeapon_gen-&gt;автоматического пистолета</li>
+    <li>place_personalWeapon_gen-&gt;пулемёта</li>
+    <li>place_personalWeapon_acc-&gt;автоматический пистолет</li>
+    <li>place_personalWeapon_acc-&gt;пулемёт</li>
+    <li>place_personalWeapon_ins-&gt;автоматическим пистолетом</li>
+    <li>place_personalWeapon_ins-&gt;пулемётом</li>
+    <li>place_personalWeapon_ins_plural-&gt;автоматическими пистолетами</li>
+    <li>place_personalWeapon_ins_plural-&gt;пулемётами</li>
+    <li>place_massWeapon-&gt;ядерный гранатомёт</li>
+    <li>place_massWeapon-&gt;орбитальная бомбардировка</li>
+    <li>place_massWeapon-&gt;химические бомбы</li>
+    <li>place_massWeapon-&gt;взломанные механоиды</li>
+    <li>place_massWeapon_gen-&gt;ядерного гранатомёта</li>
+    <li>place_massWeapon_gen-&gt;орбитальной бомбардировки</li>
+    <li>place_massWeapon_gen-&gt;химических бомб</li>
+    <li>place_massWeapon_gen-&gt;взломанных механоидов</li>
+    <li>place_massWeapon_acc-&gt;ядерный гранатомёт</li>
+    <li>place_massWeapon_acc-&gt;орбитальную бомбардировку</li>
+    <li>place_massWeapon_acc-&gt;химические бомбы</li>
+    <li>place_massWeapon_acc-&gt;взломанных механоидов</li>
+    <li>place_foeLeader-&gt;предводитель</li>
+    <li>foeLeader_gen-&gt;предводителя</li>
+    <li>foeLeader_dat-&gt;предводителю</li>
+    <li>foeLeader_acc-&gt;предводителя</li>
+    <li>foeLeader_ins-&gt;предводителем</li>
+    <li>place_foeSoldiers-&gt;наёмники</li>
+    <li>foeSoldiers_genacc-&gt;наёмников</li>
+    <li>foeSoldiers_dat-&gt;наёмникам</li>
+    <li>foeSoldiers_ins-&gt;наёмниками</li>
+  </Creticon.placeRules.rulesStrings>
+  <Filson.placeRules.rulesStrings>
+    <li>place_name-&gt;Филсон</li>
+    <li>place_name_gen-&gt;Филсона</li>
+    <li>place_name_acc-&gt;Филсон</li>
+    <li>place_name_pre-&gt;Филсоне</li>
+    <li>place_adjective_masc-&gt;филсонский</li>
+    <li>place_adjective_fem-&gt;филсонская</li>
+    <li>place_adjective_neutral-&gt;филсонское</li>
+    <li>place_adjective_plural-&gt;филсонские</li>
+    <li>place_summary-&gt;тихий аграрный мир</li>
+    <li>place_summary_gen-&gt;тихого аграрного мира</li>
+    <li>place_summary_acc-&gt;тихий аграрный мир</li>
+    <li>place_summary_pre-&gt;тихом аграрном мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;ратуша</li>
+    <li>place_community-&gt;завод удобрений</li>
+    <li>place_community-&gt;мегаэлеватор</li>
+    <li>place_community-&gt;водопроводная колонка</li>
+    <li>place_community_dat_to-&gt;к ратуше</li>
+    <li>place_community_dat_to-&gt;к заводу удобрений</li>
+    <li>place_community_dat_to-&gt;к мегаэлеватору</li>
+    <li>place_community_dat_to-&gt;к водопроводной колонке</li>
+    <li>place_community_acc-&gt;ратушу</li>
+    <li>place_community_acc-&gt;завод удобрений</li>
+    <li>place_community_acc-&gt;мегаэлеватор</li>
+    <li>place_community_acc-&gt;водопроводную колонку</li>
+    <li>place_community_acc_to-&gt;в ратушу</li>
+    <li>place_community_acc_to-&gt;на завод удобрений</li>
+    <li>place_community_acc_to-&gt;на мегаэлеватор</li>
+    <li>place_community_acc_to-&gt;на водопроводную колонку</li>
+    <li>place_community_pre_in-&gt;в ратуше</li>
+    <li>place_community_pre_in-&gt;на заводе удобрений</li>
+    <li>place_community_pre_in-&gt;на мегаэлеваторе</li>
+    <li>place_community_pre_in-&gt;на водопроводной колонке</li>
+    <li>place_powerCenter-&gt;ратуша</li>
+    <li>place_powerCenter_acc-&gt;ратушу</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;ратушей</li>
+    <li>place_powerCenter_pre_in-&gt;в ратуше</li>
+    <li>place_job-&gt;помощник фермера</li>
+    <li>place_job-&gt;сборщик фруктов</li>
+    <li>place_job-&gt;водитель транспорта</li>
+    <li>place_job-&gt;школьный учитель</li>
+    <li>place_job-&gt;инженер-эколог</li>
+    <li>place_job_fem-&gt;помощница фермера</li>
+    <li>place_job_fem-&gt;сборщица фруктов</li>
+    <li>place_job_fem-&gt;водитель транспорта</li>
+    <li>place_job_fem-&gt;школьная учительница</li>
+    <li>place_job_fem-&gt;инженер-эколог</li>
+    <li>place_job_gen-&gt;помощника фермера</li>
+    <li>place_job_gen-&gt;сборщика фруктов</li>
+    <li>place_job_gen-&gt;водителя транспорта</li>
+    <li>place_job_gen-&gt;школьного учителя</li>
+    <li>place_job_gen-&gt;инженера-эколога</li>
+    <li>place_job_gen_fem-&gt;помощницы фермера</li>
+    <li>place_job_gen_fem-&gt;сборщицы фруктов</li>
+    <li>place_job_gen_fem-&gt;водителя транспорта</li>
+    <li>place_job_gen_fem-&gt;школьной учительницы</li>
+    <li>place_job_gen_fem-&gt;инженера-эколога</li>
+    <li>place_job_dat-&gt;помощнику фермера</li>
+    <li>place_job_dat-&gt;сборщику фруктов</li>
+    <li>place_job_dat-&gt;водителю транспорта</li>
+    <li>place_job_dat-&gt;школьному учителю</li>
+    <li>place_job_dat-&gt;инженеру-экологу</li>
+    <li>place_job_dat_fem-&gt;помощнице фермера</li>
+    <li>place_job_dat_fem-&gt;сборщице фруктов</li>
+    <li>place_job_dat_fem-&gt;водителю транспорта</li>
+    <li>place_job_dat_fem-&gt;школьной учительнице</li>
+    <li>place_job_dat_fem-&gt;инженеру-экологу</li>
+    <li>place_job_acc-&gt;помощника фермера</li>
+    <li>place_job_acc-&gt;сборщика фруктов</li>
+    <li>place_job_acc-&gt;водителя транспорта</li>
+    <li>place_job_acc-&gt;школьного учителю</li>
+    <li>place_job_acc-&gt;инженера-эколога</li>
+    <li>place_job_acc_fem-&gt;помощницу фермера</li>
+    <li>place_job_acc_fem-&gt;сборщицу фруктов</li>
+    <li>place_job_acc_fem-&gt;водителя транспорта</li>
+    <li>place_job_acc_fem-&gt;школьную учительницу</li>
+    <li>place_job_acc_fem-&gt;инженера-эколога</li>
+    <li>place_personalWeapon-&gt;винтовка</li>
+    <li>place_personalWeapon-&gt;коса</li>
+    <li>place_personalWeapon_plural-&gt;винтовки</li>
+    <li>place_personalWeapon_plural-&gt;косы</li>
+    <li>place_personalWeapon_gen-&gt;винтовки</li>
+    <li>place_personalWeapon_gen-&gt;косы</li>
+    <li>place_personalWeapon_acc-&gt;винтовку</li>
+    <li>place_personalWeapon_acc-&gt;косу</li>
+    <li>place_personalWeapon_ins-&gt;винтовкой</li>
+    <li>place_personalWeapon_ins-&gt;косой</li>
+    <li>place_personalWeapon_ins_plural-&gt;винтовками</li>
+    <li>place_personalWeapon_ins_plural-&gt;косами</li>
+    <li>place_massWeapon-&gt;бомбы из удобрений</li>
+    <li>place_massWeapon-&gt;боевые пестициды</li>
+    <li>place_massWeapon-&gt;космическая линза</li>
+    <li>place_massWeapon_gen-&gt;бомб из удобрений</li>
+    <li>place_massWeapon_gen-&gt;боевых пестицидов</li>
+    <li>place_massWeapon_gen-&gt;космической линзы</li>
+    <li>place_massWeapon_acc-&gt;бомбы из удобрений</li>
+    <li>place_massWeapon_acc-&gt;боевые пестициды</li>
+    <li>place_massWeapon_acc-&gt;космическую линзу</li>
+    <li>place_foeLeader-&gt;землевладелец</li>
+    <li>foeLeader_gen-&gt;землевладельца</li>
+    <li>foeLeader_dat-&gt;землевладельцу</li>
+    <li>foeLeader_acc-&gt;землевладельца</li>
+    <li>foeLeader_ins-&gt;землевладельцем</li>
+    <li>place_foeSoldiers-&gt;ополченцы</li>
+    <li>foeSoldiers_genacc-&gt;ополченцев</li>
+    <li>foeSoldiers_dat-&gt;ополченцам</li>
+    <li>foeSoldiers_ins-&gt;ополченцами</li>
+  </Filson.placeRules.rulesStrings>
+  <Ilwaba.placeRules.rulesStrings>
+    <li>place_name-&gt;Ильваба</li>
+    <li>place_name_gen-&gt;Ильвабы</li>
+    <li>place_name_acc-&gt;Ильвабу</li>
+    <li>place_name_pre-&gt;Ильвабе</li>
+    <li>place_adjective_masc-&gt;ильвабский</li>
+    <li>place_adjective_fem-&gt;ильвабская</li>
+    <li>place_adjective_neutral-&gt;ильвабское</li>
+    <li>place_adjective_plural-&gt;ильвабские</li>
+    <li>place_summary-&gt;оживший пост-апокалиптический мир</li>
+    <li>place_summary_gen-&gt;ожившего пост-апокалиптического мира</li>
+    <li>place_summary_acc-&gt;оживший пост-апокалиптический мир</li>
+    <li>place_summary_pre-&gt;ожившем пост-апокалиптическом мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;деревня на небоскрёбе</li>
+    <li>place_community-&gt;пришоссейный магазин</li>
+    <li>place_community-&gt;оазис посреди пустоши</li>
+    <li>place_community_dat_to-&gt;к деревне на небоскрёбе</li>
+    <li>place_community_dat_to-&gt;к пришоссейному магазину</li>
+    <li>place_community_dat_to-&gt;к оазису посреди пустоши</li>
+    <li>place_community_acc-&gt;деревню на небоскрёбе</li>
+    <li>place_community_acc-&gt;пришоссейный магазин</li>
+    <li>place_community_acc-&gt;оазис посреди пустоши</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в деревне на небоскрёбе</li>
+    <li>place_community_pre_in-&gt;в пришоссейном магазине</li>
+    <li>place_community_pre_in-&gt;в оазисе посреди пустоши</li>
+    <li>place_powerCenter-&gt;дом жизни</li>
+    <li>place_powerCenter_acc-&gt;дом жизни</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;домом жизни</li>
+    <li>place_powerCenter_pre_in-&gt;в доме жизни</li>
+    <li>place_job-&gt;фермер</li>
+    <li>place_job-&gt;проводник</li>
+    <li>place_job-&gt;охотник за артефактами</li>
+    <li>place_job-&gt;знающий туннели</li>
+    <li>place_job-&gt;восстановитель артефактов</li>
+    <li>place_job_fem-&gt;фермерша</li>
+    <li>place_job_fem-&gt;проводница</li>
+    <li>place_job_fem-&gt;охотница за артефактами</li>
+    <li>place_job_fem-&gt;знающая туннели</li>
+    <li>place_job_fem-&gt;восстановительница артефактов</li>
+    <li>place_job_gen-&gt;фермера</li>
+    <li>place_job_gen-&gt;проводника</li>
+    <li>place_job_gen-&gt;охотника за артефактами</li>
+    <li>place_job_gen-&gt;знающего туннели</li>
+    <li>place_job_gen-&gt;восстановителя артефактов</li>
+    <li>place_job_gen_fem-&gt;фермерши</li>
+    <li>place_job_gen_fem-&gt;проводницы</li>
+    <li>place_job_gen_fem-&gt;охотницы за артефактами</li>
+    <li>place_job_gen_fem-&gt;знающей туннели</li>
+    <li>place_job_gen_fem-&gt;восстановительницы артефактов</li>
+    <li>place_job_dat-&gt;фермеру</li>
+    <li>place_job_dat-&gt;проводнику</li>
+    <li>place_job_dat-&gt;охотнику за артефактами</li>
+    <li>place_job_dat-&gt;знающему туннели</li>
+    <li>place_job_dat-&gt;восстановителю артефактов</li>
+    <li>place_job_dat_fem-&gt;фермерше</li>
+    <li>place_job_dat_fem-&gt;проводнице</li>
+    <li>place_job_dat_fem-&gt;охотнице за артефактами</li>
+    <li>place_job_dat_fem-&gt;знающей туннели</li>
+    <li>place_job_dat_fem-&gt;восстановительнице артефактов</li>
+    <li>place_job_acc-&gt;фермера</li>
+    <li>place_job_acc-&gt;проводника</li>
+    <li>place_job_acc-&gt;охотника за артефактами</li>
+    <li>place_job_acc-&gt;знающего туннели</li>
+    <li>place_job_acc-&gt;восстановителя артефактов</li>
+    <li>place_job_acc_fem-&gt;фермершу</li>
+    <li>place_job_acc_fem-&gt;проводницу</li>
+    <li>place_job_acc_fem-&gt;охотницу за артефактами</li>
+    <li>place_job_acc_fem-&gt;знающую туннели</li>
+    <li>place_job_acc_fem-&gt;восстановительницу артефактов</li>
+    <li>place_personalWeapon-&gt;импровизированный меч</li>
+    <li>place_personalWeapon-&gt;импровизированный кинжал</li>
+    <li>place_personalWeapon_plural-&gt;импровизированные мечи</li>
+    <li>place_personalWeapon_plural-&gt;импровизированные кинжалы</li>
+    <li>place_personalWeapon_gen-&gt;импровизированного меча</li>
+    <li>place_personalWeapon_gen-&gt;импровизированного кинжала</li>
+    <li>place_personalWeapon_acc-&gt;импровизированный меч</li>
+    <li>place_personalWeapon_acc-&gt;импровизированный кинжал</li>
+    <li>place_personalWeapon_ins-&gt;импровизированным мечом</li>
+    <li>place_personalWeapon_ins-&gt;импровизированным кинжалом</li>
+    <li>place_personalWeapon_ins_plural-&gt;импровизированными мечами</li>
+    <li>place_personalWeapon_ins_plural-&gt;импровизированными кинжалами</li>
+    <li>place_massWeapon-&gt;давно забытая ядерная бомба</li>
+    <li>place_massWeapon-&gt;древняя токсичная бомба</li>
+    <li>place_massWeapon_gen-&gt;давно забытой ядерной бомбы</li>
+    <li>place_massWeapon_gen-&gt;древней токсичной бомбы</li>
+    <li>place_massWeapon_acc-&gt;давно забытую ядерную бомбу</li>
+    <li>place_massWeapon_acc-&gt;древнюю токсичную бомбу</li>
+    <li>place_foeLeader-&gt;криптовождь</li>
+    <li>foeLeader_gen-&gt;криптовождя</li>
+    <li>foeLeader_dat-&gt;криптовождю</li>
+    <li>foeLeader_acc-&gt;криптовождя</li>
+    <li>foeLeader_ins-&gt;криптовождём</li>
+    <li>place_foeSoldiers-&gt;криптосолдаты</li>
+    <li>foeSoldiers_genacc-&gt;криптосолдат</li>
+    <li>foeSoldiers_dat-&gt;криптосолдатам</li>
+    <li>foeSoldiers_ins-&gt;криптосолдатами</li>
+  </Ilwaba.placeRules.rulesStrings>
+  <Iwamura.placeRules.rulesStrings>
+    <li>place_name-&gt;Ивамура</li>
+    <li>place_name_gen-&gt;Ивамуры</li>
+    <li>place_name_acc-&gt;Ивамуру</li>
+    <li>place_name_pre-&gt;Ивамуре</li>
+    <li>place_adjective_masc-&gt;ивамурский</li>
+    <li>place_adjective_fem-&gt;ивамурская</li>
+    <li>place_adjective_neutral-&gt;ивамурское</li>
+    <li>place_adjective_plural-&gt;ивамурские</li>
+    <li>place_summary-&gt;астероид</li>
+    <li>place_summary_gen-&gt;астероида</li>
+    <li>place_summary_acc-&gt;астероид</li>
+    <li>place_summary_pre-&gt;астероиде</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;капсула-рынок</li>
+    <li>place_community-&gt;капсула-склад</li>
+    <li>place_community-&gt;стыковочный шлюз</li>
+    <li>place_community_dat_to-&gt;к капсуле-рынку</li>
+    <li>place_community_dat_to-&gt;к капсуле-складу</li>
+    <li>place_community_dat_to-&gt;к стыковочному шлюзу</li>
+    <li>place_community_acc-&gt;капсулу-рынок</li>
+    <li>place_community_acc-&gt;капсулу-склад</li>
+    <li>place_community_acc-&gt;стыковочный шлюз</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в капсуле-рынке</li>
+    <li>place_community_pre_in-&gt;в капсуле-складе</li>
+    <li>place_community_pre_in-&gt;в стыковочном шлюзе</li>
+    <li>place_powerCenter-&gt;станционный мостик</li>
+    <li>place_powerCenter_acc-&gt;станционный мостик</li>
+    <li>place_powerCenter_acc_to-&gt;на [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;станционным мостиком</li>
+    <li>place_powerCenter_pre_in-&gt;на станционном мостике</li>
+    <li>place_job-&gt;инженер системы жизнеобеспечения</li>
+    <li>place_job-&gt;торговец</li>
+    <li>place_job-&gt;диспетчер управления полётами</li>
+    <li>place_job-&gt;спортсмен нулевой гравитации</li>
+    <li>place_job-&gt;радиоведущий</li>
+    <li>place_job_fem-&gt;инженер системы жизнеобеспечения</li>
+    <li>place_job_fem-&gt;торговка</li>
+    <li>place_job_fem-&gt;диспетчер управления полётами</li>
+    <li>place_job_fem-&gt;спортсменка нулевой гравитации</li>
+    <li>place_job_fem-&gt;радиоведущая</li>
+    <li>place_job_gen-&gt;инженера системы жизнеобеспечения</li>
+    <li>place_job_gen-&gt;торговца</li>
+    <li>place_job_gen-&gt;диспетчера управления полётами</li>
+    <li>place_job_gen-&gt;спортсмена нулевой гравитации</li>
+    <li>place_job_gen-&gt;радиоведущего</li>
+    <li>place_job_gen_fem-&gt;инженера системы жизнеобеспечения</li>
+    <li>place_job_gen_fem-&gt;торговки</li>
+    <li>place_job_gen_fem-&gt;диспетчера управления полётами</li>
+    <li>place_job_gen_fem-&gt;спортсменки нулевой гравитации</li>
+    <li>place_job_gen_fem-&gt;радиоведущей</li>
+    <li>place_job_dat-&gt;инженеру системы жизнеобеспечения</li>
+    <li>place_job_dat-&gt;торговцу</li>
+    <li>place_job_dat-&gt;диспетчеру управления полётами</li>
+    <li>place_job_dat-&gt;спортсмену нулевой гравитации</li>
+    <li>place_job_dat-&gt;радиоведущему</li>
+    <li>place_job_dat_fem-&gt;инженеру системы жизнеобеспечения</li>
+    <li>place_job_dat_fem-&gt;торговке</li>
+    <li>place_job_dat_fem-&gt;диспетчеру управления полётами</li>
+    <li>place_job_dat_fem-&gt;спортсменке нулевой гравитации</li>
+    <li>place_job_dat_fem-&gt;радиоведущей</li>
+    <li>place_job_acc-&gt;инженера системы жизнеобеспечения</li>
+    <li>place_job_acc-&gt;торговца</li>
+    <li>place_job_acc-&gt;диспетчера управления полётами</li>
+    <li>place_job_acc-&gt;спортсмена нулевой гравитации</li>
+    <li>place_job_acc-&gt;радиоведущего</li>
+    <li>place_job_acc_fem-&gt;инженера системы жизнеобеспечения</li>
+    <li>place_job_acc_fem-&gt;торговку</li>
+    <li>place_job_acc_fem-&gt;диспетчера управления полётами</li>
+    <li>place_job_acc_fem-&gt;спортсменку нулевой гравитации</li>
+    <li>place_job_acc_fem-&gt;радиоведущую</li>
+    <li>place_personalWeapon-&gt;энергетическая винтовка</li>
+    <li>place_personalWeapon-&gt;сварочный аппарат</li>
+    <li>place_personalWeapon_plural-&gt;энергетические винтовки</li>
+    <li>place_personalWeapon_plural-&gt;сварочные аппараты</li>
+    <li>place_personalWeapon_gen-&gt;энергетической винтовки</li>
+    <li>place_personalWeapon_gen-&gt;сварочного аппарата</li>
+    <li>place_personalWeapon_acc-&gt;энергетическую винтовку</li>
+    <li>place_personalWeapon_acc-&gt;сварочный аппарат</li>
+    <li>place_personalWeapon_ins-&gt;энергетической винтовкой</li>
+    <li>place_personalWeapon_ins-&gt;сварочным аппаратом</li>
+    <li>place_personalWeapon_ins_plural-&gt;энергетическими винтовками</li>
+    <li>place_personalWeapon_ins_plural-&gt;сварочными аппаратами</li>
+    <li>place_massWeapon-&gt;токсичный аэрозоль</li>
+    <li>place_massWeapon-&gt;[anEMPAttack]</li>
+    <li>place_massWeapon-&gt;вирус системы жизнеобеспечения</li>
+    <li>place_massWeapon_gen-&gt;токсичного аэрозоля</li>
+    <li>place_massWeapon_gen-&gt;[anEMPAttack_gen]</li>
+    <li>place_massWeapon_gen-&gt;вируса системы жизнеобеспечения</li>
+    <li>place_massWeapon_acc-&gt;токсичный аэрозоль</li>
+    <li>place_massWeapon_acc-&gt;[anEMPAttack_acc]</li>
+    <li>place_massWeapon_acc-&gt;вирус системы жизнеобеспечения</li>
+    <li>place_foeLeader-&gt;генеральный директор мегакорпорации</li>
+    <li>foeLeader_gen-&gt;генерального директора мегакорпорации</li>
+    <li>foeLeader_dat-&gt;генеральному директору мегакорпорации</li>
+    <li>foeLeader_acc-&gt;генерального директора мегакорпорации</li>
+    <li>foeLeader_ins-&gt;генеральным директором мегакорпорации</li>
+    <li>place_foeSoldiers-&gt;наёмные стражи порядка</li>
+    <li>foeSoldiers_genacc-&gt;наёмных стражей порядка</li>
+    <li>foeSoldiers_dat-&gt;наёмным стражам порядка</li>
+    <li>foeSoldiers_ins-&gt;наёмными стражами порядка</li>
+  </Iwamura.placeRules.rulesStrings>
+  <Kemia.placeRules.rulesStrings>
+    <li>place_name-&gt;Кемия</li>
+    <li>place_name_gen-&gt;Кемии</li>
+    <li>place_name_acc-&gt;Кемию</li>
+    <li>place_name_pre-&gt;Кемии</li>
+    <li>place_adjective_masc-&gt;кемийский</li>
+    <li>place_adjective_fem-&gt;кемийская</li>
+    <li>place_adjective_neutral-&gt;кемийское</li>
+    <li>place_adjective_plural-&gt;кемийские</li>
+    <li>place_summary-&gt;погружённый в войну токсичный мир</li>
+    <li>place_summary_gen-&gt;погружённого в войну токсичного мира</li>
+    <li>place_summary_acc-&gt;погружённый в войну токсичный мир</li>
+    <li>place_summary_pre-&gt;погружённом в войну токсичном мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;трущобы</li>
+    <li>place_community-&gt;туннельная колония</li>
+    <li>place_community-&gt;подземный город</li>
+    <li>place_community_dat_to-&gt;к трущобам</li>
+    <li>place_community_dat_to-&gt;к туннельной колонии</li>
+    <li>place_community_dat_to-&gt;к подземному городу</li>
+    <li>place_community_acc-&gt;трущобы</li>
+    <li>place_community_acc-&gt;туннельную колонию</li>
+    <li>place_community_acc-&gt;подземный город</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в трущобах</li>
+    <li>place_community_pre_in-&gt;в туннельной колонии</li>
+    <li>place_community_pre_in-&gt;в подземном городе</li>
+    <li>place_powerCenter-&gt;дворец городского владыки</li>
+    <li>place_powerCenter_acc-&gt;дворец городского владыки</li>
+    <li>place_powerCenter_acc_to-&gt;во [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;дворцом городского владыки</li>
+    <li>place_powerCenter_pre_in-&gt;во дворце городского владыки</li>
+    <li>place_job-&gt;уборщик улиц</li>
+    <li>place_job-&gt;инженер очистки</li>
+    <li>place_job-&gt;работник протеиновой фермы</li>
+    <li>place_job-&gt;таксист</li>
+    <li>place_job-&gt;оружейник</li>
+    <li>place_job_fem-&gt;уборщица улиц</li>
+    <li>place_job_fem-&gt;инженер очистки</li>
+    <li>place_job_fem-&gt;работница протеиновой фермы</li>
+    <li>place_job_fem-&gt;таксистка</li>
+    <li>place_job_fem-&gt;оружейница</li>
+    <li>place_job_gen-&gt;уборщика улиц</li>
+    <li>place_job_gen-&gt;инженера очистки</li>
+    <li>place_job_gen-&gt;работника протеиновой фермы</li>
+    <li>place_job_gen-&gt;таксиста</li>
+    <li>place_job_gen-&gt;оружейника</li>
+    <li>place_job_gen_fem-&gt;уборщицы улиц</li>
+    <li>place_job_gen_fem-&gt;инженера очистки</li>
+    <li>place_job_gen_fem-&gt;работницы протеиновой фермы</li>
+    <li>place_job_gen_fem-&gt;таксистки</li>
+    <li>place_job_gen_fem-&gt;оружейницы</li>
+    <li>place_job_dat-&gt;уборщику улиц</li>
+    <li>place_job_dat-&gt;инженеру очистки</li>
+    <li>place_job_dat-&gt;работнику протеиновой фермы</li>
+    <li>place_job_dat-&gt;таксисту</li>
+    <li>place_job_dat-&gt;оружейнику</li>
+    <li>place_job_dat_fem-&gt;уборщице улиц</li>
+    <li>place_job_dat_fem-&gt;инженеру очистки</li>
+    <li>place_job_dat_fem-&gt;работнице протеиновой фермы</li>
+    <li>place_job_dat_fem-&gt;таксистке</li>
+    <li>place_job_dat_fem-&gt;оружейнице</li>
+    <li>place_job_acc-&gt;уборщика улиц</li>
+    <li>place_job_acc-&gt;инженера очистки</li>
+    <li>place_job_acc-&gt;работника протеиновой фермы</li>
+    <li>place_job_acc-&gt;таксиста</li>
+    <li>place_job_acc-&gt;оружейника</li>
+    <li>place_job_acc_fem-&gt;уборщицу улиц</li>
+    <li>place_job_acc_fem-&gt;инженера очистки</li>
+    <li>place_job_acc_fem-&gt;работницу протеиновой фермы</li>
+    <li>place_job_acc_fem-&gt;таксистку</li>
+    <li>place_job_acc_fem-&gt;оружейницу</li>
+    <li>place_personalWeapon-&gt;газовая бомба</li>
+    <li>place_personalWeapon-&gt;токсичный огнемёт</li>
+    <li>place_personalWeapon_plural-&gt;газовые бомбы</li>
+    <li>place_personalWeapon_plural-&gt;токсичные огнемёты</li>
+    <li>place_personalWeapon_gen-&gt;газовой бомбы</li>
+    <li>place_personalWeapon_gen-&gt;токсичного огнемёта</li>
+    <li>place_personalWeapon_acc-&gt;газовую бомбу</li>
+    <li>place_personalWeapon_acc-&gt;токсичный огнемёт</li>
+    <li>place_personalWeapon_ins-&gt;газовой бомбой</li>
+    <li>place_personalWeapon_ins-&gt;токсичным огнемётом</li>
+    <li>place_personalWeapon_ins_plural-&gt;газовыми бомбами</li>
+    <li>place_personalWeapon_ins_plural-&gt;токсичными огнемётами</li>
+    <li>place_massWeapon-&gt;«грязные» ядерные бомбы</li>
+    <li>place_massWeapon-&gt;военизированный штамм чумы</li>
+    <li>place_massWeapon-&gt;пробивные токсичные бомбы</li>
+    <li>place_massWeapon_gen-&gt;«грязных» ядерных бомб</li>
+    <li>place_massWeapon_gen-&gt;военизированного штамма чумы</li>
+    <li>place_massWeapon_gen-&gt;пробивных токсичных бомб</li>
+    <li>place_massWeapon_acc-&gt;«грязные» ядерные бомбы</li>
+    <li>place_massWeapon_acc-&gt;военизированный штамм чумы</li>
+    <li>place_massWeapon_acc-&gt;пробивные токсичные бомбы</li>
+    <li>place_foeLeader-&gt;владыка яда</li>
+    <li>foeLeader_gen-&gt;владыки яда</li>
+    <li>foeLeader_dat-&gt;владыке яда</li>
+    <li>foeLeader_acc-&gt;владыку яда</li>
+    <li>foeLeader_ins-&gt;владыкой яда</li>
+    <li>place_foeSoldiers-&gt;ядовитые солдаты</li>
+    <li>foeSoldiers_genacc-&gt;ядовитых солдат</li>
+    <li>foeSoldiers_dat-&gt;ядовитым солдатам</li>
+    <li>foeSoldiers_ins-&gt;ядовитыми солдатами</li>
+  </Kemia.placeRules.rulesStrings>
+  <Lutuni.placeRules.rulesStrings>
+    <li>place_name-&gt;Лутини</li>
+    <li>place_name_gen-&gt;[place_name]</li>
+    <li>place_name_acc-&gt;[place_name]</li>
+    <li>place_name_pre-&gt;[place_name]</li>
+    <li>place_adjective_masc-&gt;лутинийский</li>
+    <li>place_adjective_fem-&gt;лутинийская</li>
+    <li>place_adjective_neutral-&gt;лутинийское</li>
+    <li>place_adjective_plural-&gt;лутинийские</li>
+    <li>place_summary-&gt;райский тропический лес</li>
+    <li>place_summary_gen-&gt;райского тропического леса</li>
+    <li>place_summary_acc-&gt;райский тропический лес</li>
+    <li>place_summary_pre-&gt;райском тропическом лесу</li>
+    <li>place_summary_prepon-&gt;в</li>
+    <li>place_community-&gt;клиника аугментации</li>
+    <li>place_community-&gt;гипер-яхта</li>
+    <li>place_community-&gt;стадион с нулевой гравитацией</li>
+    <li>place_community_dat_to-&gt;к клинике аугментации</li>
+    <li>place_community_dat_to-&gt;к гипер-яхте</li>
+    <li>place_community_dat_to-&gt;к стадиону с нулевой гравитацией</li>
+    <li>place_community_acc-&gt;клинику аугментации</li>
+    <li>place_community_acc-&gt;гипер-яхту</li>
+    <li>place_community_acc-&gt;стадион с нулевой гравитацией</li>
+    <li>place_community_acc_to-&gt;в клинику аугментации</li>
+    <li>place_community_acc_to-&gt;на гипер-яхту</li>
+    <li>place_community_acc_to-&gt;на стадион с нулевой гравитацией</li>
+    <li>place_community_pre_in-&gt;в клинике аугментации</li>
+    <li>place_community_pre_in-&gt;на гипер-яхте</li>
+    <li>place_community_pre_in-&gt;на стадионе с нулевой гравитацией</li>
+    <li>place_powerCenter-&gt;космический лифт</li>
+    <li>place_powerCenter_acc-&gt;космический лифт</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;космическим лифтом</li>
+    <li>place_powerCenter_pre_in-&gt;в космическом лифте</li>
+    <li>place_job-&gt;гид</li>
+    <li>place_job-&gt;артист нулевой гравитации</li>
+    <li>place_job-&gt;торговец люциферием</li>
+    <li>place_job-&gt;виртуальный кумир</li>
+    <li>place_job-&gt;пилот челнока</li>
+    <li>place_job_fem-&gt;гид</li>
+    <li>place_job_fem-&gt;артистка нулевой гравитации</li>
+    <li>place_job_fem-&gt;торговка люциферием</li>
+    <li>place_job_fem-&gt;виртуальная звезда</li>
+    <li>place_job_fem-&gt;пилотесса челнока</li>
+    <li>place_job_gen-&gt;гида</li>
+    <li>place_job_gen-&gt;артиста нулевой гравитации</li>
+    <li>place_job_gen-&gt;торговца люциферием</li>
+    <li>place_job_gen-&gt;виртуального кумира</li>
+    <li>place_job_gen-&gt;пилота челнока</li>
+    <li>place_job_gen_fem-&gt;гида</li>
+    <li>place_job_gen_fem-&gt;артистки нулевой гравитации</li>
+    <li>place_job_gen_fem-&gt;торговки люциферием</li>
+    <li>place_job_gen_fem-&gt;виртуальной звезды</li>
+    <li>place_job_gen_fem-&gt;пилотессы челнока</li>
+    <li>place_job_dat-&gt;гиду</li>
+    <li>place_job_dat-&gt;артисту нулевой гравитации</li>
+    <li>place_job_dat-&gt;торговцу люциферием</li>
+    <li>place_job_dat-&gt;виртуальному кумиру</li>
+    <li>place_job_dat-&gt;пилоту челнока</li>
+    <li>place_job_dat_fem-&gt;гиду</li>
+    <li>place_job_dat_fem-&gt;артистке нулевой гравитации</li>
+    <li>place_job_dat_fem-&gt;торговке люциферием</li>
+    <li>place_job_dat_fem-&gt;виртуальной звезде</li>
+    <li>place_job_dat_fem-&gt;пилотессе челнока</li>
+    <li>place_job_acc-&gt;гида</li>
+    <li>place_job_acc-&gt;артиста нулевой гравитации</li>
+    <li>place_job_acc-&gt;торговца люциферием</li>
+    <li>place_job_acc-&gt;виртуального кумира</li>
+    <li>place_job_acc-&gt;пилота челнока</li>
+    <li>place_job_acc_fem-&gt;гида</li>
+    <li>place_job_acc_fem-&gt;артистку нулевой гравитации</li>
+    <li>place_job_acc_fem-&gt;торговку люциферием</li>
+    <li>place_job_acc_fem-&gt;виртуальную звезду</li>
+    <li>place_job_acc_fem-&gt;пилотессу челнока</li>
+    <li>place_personalWeapon-&gt;вибронож</li>
+    <li>place_personalWeapon-&gt;энергетический пистолет</li>
+    <li>place_personalWeapon_plural-&gt;виброножи</li>
+    <li>place_personalWeapon_plural-&gt;энергетические пистолеты</li>
+    <li>place_personalWeapon_gen-&gt;виброножа</li>
+    <li>place_personalWeapon_gen-&gt;энергетического пистолета</li>
+    <li>place_personalWeapon_acc-&gt;вибронож</li>
+    <li>place_personalWeapon_acc-&gt;энергетический пистолет</li>
+    <li>place_personalWeapon_ins-&gt;виброножом</li>
+    <li>place_personalWeapon_ins-&gt;энергетическим пистолетом</li>
+    <li>place_personalWeapon_ins_plural-&gt;виброножами</li>
+    <li>place_personalWeapon_ins_plural-&gt;энергетическими пистолетами</li>
+    <li>place_massWeapon-&gt;дезинтегрирующая бактерия</li>
+    <li>place_massWeapon-&gt;контрабандный указатель орбитальной бомбардировки</li>
+    <li>place_massWeapon_gen-&gt;дезинтегрирующей бактерии</li>
+    <li>place_massWeapon_gen-&gt;контрабандного указателя орбитальной бомбардировки</li>
+    <li>place_massWeapon_acc-&gt;дезинтегрирующую бактерию</li>
+    <li>place_massWeapon_acc-&gt;контрабандный указатель орбитальной бомбардировки</li>
+    <li>place_foeLeader-&gt;магнат сферы развлечений</li>
+    <li>foeLeader_gen-&gt;магната сферы развлечений</li>
+    <li>foeLeader_dat-&gt;магнату сферы развлечений</li>
+    <li>foeLeader_acc-&gt;магната сферы развлечений</li>
+    <li>foeLeader_ins-&gt;магнатом сферы развлечений</li>
+    <li>place_foeSoldiers-&gt;головорезы</li>
+    <li>foeSoldiers_genacc-&gt;головорезов</li>
+    <li>foeSoldiers_dat-&gt;головорезам</li>
+    <li>foeSoldiers_ins-&gt;головорезами</li>
+  </Lutuni.placeRules.rulesStrings>
+  <Novaroma.placeRules.rulesStrings>
+    <li>place_name-&gt;Новарома</li>
+    <li>place_name_gen-&gt;Новаромы</li>
+    <li>place_name_acc-&gt;Новарому</li>
+    <li>place_name_pre-&gt;Новароме</li>
+    <li>place_adjective_masc-&gt;новаромский</li>
+    <li>place_adjective_fem-&gt;новаромская</li>
+    <li>place_adjective_neutral-&gt;новаромское</li>
+    <li>place_adjective_plural-&gt;новаромские</li>
+    <li>place_summary-&gt;планетоид</li>
+    <li>place_summary_gen-&gt;планетоида</li>
+    <li>place_summary_acc-&gt;планетоид</li>
+    <li>place_summary_pre-&gt;планетоиде</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;министерство дозволений</li>
+    <li>place_community-&gt;огороженный пригородный район</li>
+    <li>place_community-&gt;верхний город</li>
+    <li>place_community-&gt;нижний город</li>
+    <li>place_community_dat_to-&gt;к министерству дозволений</li>
+    <li>place_community_dat_to-&gt;к огороженному пригородному району</li>
+    <li>place_community_dat_to-&gt;к верхнему городу</li>
+    <li>place_community_dat_to-&gt;к нижнему городу</li>
+    <li>place_community_acc-&gt;[place_community]</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в министерстве дозволений</li>
+    <li>place_community_pre_in-&gt;в огороженном пригородном районе</li>
+    <li>place_community_pre_in-&gt;в верхнем городе</li>
+    <li>place_community_pre_in-&gt;в нижнем городе</li>
+    <li>place_powerCenter-&gt;главный зал мегагорода</li>
+    <li>place_powerCenter_acc-&gt;главный зал мегагорода</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;главным залом мегагорода</li>
+    <li>place_powerCenter_pre_in-&gt;в главном зале мегагорода</li>
+    <li>place_job-&gt;клерк</li>
+    <li>place_job-&gt;чиновник</li>
+    <li>place_job-&gt;доставщик еды</li>
+    <li>place_job-&gt;таксист</li>
+    <li>place_job-&gt;работник сферы продаж</li>
+    <li>place_job_fem-&gt;клерк</li>
+    <li>place_job_fem-&gt;чиновница</li>
+    <li>place_job_fem-&gt;доставщица еды</li>
+    <li>place_job_fem-&gt;таксистка</li>
+    <li>place_job_fem-&gt;работница сферы продаж</li>
+    <li>place_job_gen-&gt;клерка</li>
+    <li>place_job_gen-&gt;чиновника</li>
+    <li>place_job_gen-&gt;доставщика еды</li>
+    <li>place_job_gen-&gt;таксиста</li>
+    <li>place_job_gen-&gt;работника сферы продаж</li>
+    <li>place_job_gen_fem-&gt;клерка</li>
+    <li>place_job_gen_fem-&gt;чиновницы</li>
+    <li>place_job_gen_fem-&gt;доставщицы еды</li>
+    <li>place_job_gen_fem-&gt;таксистки</li>
+    <li>place_job_gen_fem-&gt;работницы сферы продаж</li>
+    <li>place_job_dat-&gt;клерку</li>
+    <li>place_job_dat-&gt;чиновнику</li>
+    <li>place_job_dat-&gt;доставщику еды</li>
+    <li>place_job_dat-&gt;таксисту</li>
+    <li>place_job_dat-&gt;работнику сферы продаж</li>
+    <li>place_job_dat_fem-&gt;клерку</li>
+    <li>place_job_dat_fem-&gt;чиновнице</li>
+    <li>place_job_dat_fem-&gt;доставщице еды</li>
+    <li>place_job_dat_fem-&gt;таксистке</li>
+    <li>place_job_dat_fem-&gt;работнице сферы продаж</li>
+    <li>place_job_acc-&gt;клерка</li>
+    <li>place_job_acc-&gt;чиновника</li>
+    <li>place_job_acc-&gt;доставщика еды</li>
+    <li>place_job_acc-&gt;таксиста</li>
+    <li>place_job_acc-&gt;работника сферы продаж</li>
+    <li>place_job_acc_fem-&gt;клерка</li>
+    <li>place_job_acc_fem-&gt;чиновницу</li>
+    <li>place_job_acc_fem-&gt;доставщицу еды</li>
+    <li>place_job_acc_fem-&gt;таксистку</li>
+    <li>place_job_acc_fem-&gt;работницу сферы продаж</li>
+    <li>place_personalWeapon-&gt;револьвер</li>
+    <li>place_personalWeapon-&gt;нож</li>
+    <li>place_personalWeapon_plural-&gt;револьверы</li>
+    <li>place_personalWeapon_plural-&gt;ножи</li>
+    <li>place_personalWeapon_gen-&gt;револьвера</li>
+    <li>place_personalWeapon_gen-&gt;ножа</li>
+    <li>place_personalWeapon_acc-&gt;револьвер</li>
+    <li>place_personalWeapon_acc-&gt;нож</li>
+    <li>place_personalWeapon_ins-&gt;револьвером</li>
+    <li>place_personalWeapon_ins-&gt;ножом</li>
+    <li>place_personalWeapon_ins_plural-&gt;револьверами</li>
+    <li>place_personalWeapon_ins_plural-&gt;ножами</li>
+    <li>place_massWeapon-&gt;[seismicDevice]</li>
+    <li>place_massWeapon-&gt;кассетные бомбы</li>
+    <li>place_massWeapon-&gt;чемоданчик с ядерной бомбой</li>
+    <li>place_massWeapon_gen-&gt;[seismicDevice_gen]</li>
+    <li>place_massWeapon_gen-&gt;кассетных бомб</li>
+    <li>place_massWeapon_gen-&gt;чемоданчика с ядерной бомбой</li>
+    <li>place_massWeapon_acc-&gt;[seismicDevice_acc]</li>
+    <li>place_massWeapon_acc-&gt;кассетные бомбы</li>
+    <li>place_massWeapon_acc-&gt;чемоданчик с ядерной бомбой</li>
+    <li>place_foeLeader-&gt;владыка нижнего города</li>
+    <li>foeLeader_gen-&gt;владыки нижнего города</li>
+    <li>foeLeader_dat-&gt;владыке нижнего города</li>
+    <li>foeLeader_acc-&gt;владыку нижнего города</li>
+    <li>foeLeader_ins-&gt;владыкой нижнего города</li>
+    <li>place_foeSoldiers-&gt;бойцы нижнего города</li>
+    <li>foeSoldiers_genacc-&gt;бойцов нижнего города</li>
+    <li>foeSoldiers_dat-&gt;бойцам нижнего города</li>
+    <li>foeSoldiers_ins-&gt;бойцами нижнего города</li>
+  </Novaroma.placeRules.rulesStrings>
+  <Nuchadus.placeRules.rulesStrings>
+    <li>place_name-&gt;Нухад</li>
+    <li>place_name_gen-&gt;Нухада</li>
+    <li>place_name_acc-&gt;Нухад</li>
+    <li>place_name_pre-&gt;Нухаде</li>
+    <li>place_adjective_masc-&gt;нухадийский</li>
+    <li>place_adjective_fem-&gt;нухадийская</li>
+    <li>place_adjective_neutral-&gt;нухадийское</li>
+    <li>place_adjective_plural-&gt;нухадийские</li>
+    <li>place_summary-&gt;тусклый вулканический мир</li>
+    <li>place_summary_gen-&gt;тусклого вулканического мира</li>
+    <li>place_summary_acc-&gt;тусклый вулканический мир</li>
+    <li>place_summary_pre-&gt;тусклом вулканическом мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;базальтовый остров</li>
+    <li>place_community-&gt;город у кратерного озера</li>
+    <li>place_community-&gt;деревня-дирижабль</li>
+    <li>place_community_dat_to-&gt;к базальтовому острову</li>
+    <li>place_community_dat_to-&gt;к городу у кратерного озера</li>
+    <li>place_community_dat_to-&gt;к деревне-дирижаблю</li>
+    <li>place_community_acc-&gt;базальтовый остров</li>
+    <li>place_community_acc-&gt;город у кратерного озера</li>
+    <li>place_community_acc-&gt;деревню-дирижабль</li>
+    <li>place_community_acc_to-&gt;на базальтовый остров</li>
+    <li>place_community_acc_to-&gt;в город у кратерного озера</li>
+    <li>place_community_acc_to-&gt;в деревню-дирижабль</li>
+    <li>place_community_pre_in-&gt;на базальтовом острове</li>
+    <li>place_community_pre_in-&gt;в городе у кратерного озера</li>
+    <li>place_community_pre_in-&gt;в деревне-дирижабле</li>
+    <li>place_powerCenter-&gt;геотермальная крепость</li>
+    <li>place_powerCenter_acc-&gt;геотермальную крепость</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;геотермальной крепостью</li>
+    <li>place_powerCenter_pre_in-&gt;в геотермальной крепости</li>
+    <li>place_job-&gt;сейсмолог</li>
+    <li>place_job-&gt;работник фермы лавовых улиток</li>
+    <li>place_job-&gt;ремонтник танковых гусениц</li>
+    <li>place_job-&gt;десантник-разведчик</li>
+    <li>place_job_fem-&gt;сейсмолог</li>
+    <li>place_job_fem-&gt;работница фермы лавовых улиток</li>
+    <li>place_job_fem-&gt;ремонтница танковых гусениц</li>
+    <li>place_job_fem-&gt;десантница-разведчица</li>
+    <li>place_job_gen-&gt;сейсмолога</li>
+    <li>place_job_gen-&gt;работника фермы лавовых улиток</li>
+    <li>place_job_gen-&gt;ремонтника танковых гусениц</li>
+    <li>place_job_gen-&gt;десантника-разведчика</li>
+    <li>place_job_gen_fem-&gt;сейсмолога</li>
+    <li>place_job_gen_fem-&gt;работницы фермы лавовых улиток</li>
+    <li>place_job_gen_fem-&gt;ремонтницы танковых гусениц</li>
+    <li>place_job_gen_fem-&gt;десантницы-разведчицы</li>
+    <li>place_job_dat-&gt;сейсмологу</li>
+    <li>place_job_dat-&gt;работнику фермы лавовых улиток</li>
+    <li>place_job_dat-&gt;ремонтнику танковых гусениц</li>
+    <li>place_job_dat-&gt;десантнику-разведчику</li>
+    <li>place_job_dat_fem-&gt;сейсмологу</li>
+    <li>place_job_dat_fem-&gt;работнице фермы лавовых улиток</li>
+    <li>place_job_dat_fem-&gt;ремонтнице танковых гусениц</li>
+    <li>place_job_dat_fem-&gt;десантнице-разведчице</li>
+    <li>place_job_acc-&gt;сейсмолога</li>
+    <li>place_job_acc-&gt;работника фермы лавовых улиток</li>
+    <li>place_job_acc-&gt;ремонтника танковых гусениц</li>
+    <li>place_job_acc-&gt;десантника-разведчика</li>
+    <li>place_job_acc_fem-&gt;сейсмолога</li>
+    <li>place_job_acc_fem-&gt;работницу фермы лавовых улиток</li>
+    <li>place_job_acc_fem-&gt;ремонтницу танковых гусениц</li>
+    <li>place_job_acc_fem-&gt;десантницу-разведчицу</li>
+    <li>place_personalWeapon-&gt;обсидиановый кинжал</li>
+    <li>place_personalWeapon-&gt;гарпунное ружьё</li>
+    <li>place_personalWeapon_plural-&gt;обсидиановые кинжалы</li>
+    <li>place_personalWeapon_plural-&gt;гарпунные ружья</li>
+    <li>place_personalWeapon_gen-&gt;обсидианового кинжала</li>
+    <li>place_personalWeapon_gen-&gt;гарпунного ружья</li>
+    <li>place_personalWeapon_acc-&gt;обсидиановый кинжал</li>
+    <li>place_personalWeapon_acc-&gt;гарпунное ружьё</li>
+    <li>place_personalWeapon_ins-&gt;обсидиановым кинжалом</li>
+    <li>place_personalWeapon_ins-&gt;гарпунным ружьём</li>
+    <li>place_personalWeapon_ins_plural-&gt;обсидиановыми кинжалами</li>
+    <li>place_personalWeapon_ins_plural-&gt;гарпунными ружьями</li>
+    <li>place_massWeapon-&gt;вызванное архотеком извержение вулкана</li>
+    <li>place_massWeapon-&gt;химическая бомба</li>
+    <li>place_massWeapon_gen-&gt;вызванного архотеком извержения вулкана</li>
+    <li>place_massWeapon_gen-&gt;химической бомбы</li>
+    <li>place_massWeapon_acc-&gt;вызванное архотеком извержение вулкана</li>
+    <li>place_massWeapon_acc-&gt;химическую бомбу</li>
+    <li>place_foeLeader-&gt;владыка лавы</li>
+    <li>foeLeader_gen-&gt;владыки лавы</li>
+    <li>foeLeader_dat-&gt;владыке лавы</li>
+    <li>foeLeader_acc-&gt;владыку лавы</li>
+    <li>foeLeader_ins-&gt;владыкой лавы</li>
+    <li>place_foeSoldiers-&gt;адские пехотинцы</li>
+    <li>foeSoldiers_genacc-&gt;адских пехотинцев</li>
+    <li>foeSoldiers_dat-&gt;адским пехотинцам</li>
+    <li>foeSoldiers_ins-&gt;адскими пехотинцами</li>
+  </Nuchadus.placeRules.rulesStrings>
+  <Oubanyen.placeRules.rulesStrings>
+    <li>place_name-&gt;Убаньен</li>
+    <li>place_name_gen-&gt;Убаньена</li>
+    <li>place_name_acc-&gt;Убаньен</li>
+    <li>place_name_pre-&gt;Убаньене</li>
+    <li>place_adjective_masc-&gt;убаньенский</li>
+    <li>place_adjective_fem-&gt;убаньенская</li>
+    <li>place_adjective_neutral-&gt;убаньенское</li>
+    <li>place_adjective_plural-&gt;убаньенские</li>
+    <li>place_summary-&gt;покрытый влажными джунглями мир</li>
+    <li>place_summary_gen-&gt;покрытого влажными джунглями мира</li>
+    <li>place_summary_acc-&gt;покрытый влажными джунглями мир</li>
+    <li>place_summary_pre-&gt;покрытом влажными джунглями мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;поселение на вершине дерева</li>
+    <li>place_community-&gt;пещера шамана</li>
+    <li>place_community-&gt;зиккурат</li>
+    <li>place_community_dat_to-&gt;к поселению на вершине дерева</li>
+    <li>place_community_dat_to-&gt;к пещере шамана</li>
+    <li>place_community_dat_to-&gt;к зиккурату</li>
+    <li>place_community_acc-&gt;поселение на вершине дерева</li>
+    <li>place_community_acc-&gt;пещеру шамана</li>
+    <li>place_community_acc-&gt;зиккурат</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в поселении на вершине дерева</li>
+    <li>place_community_pre_in-&gt;в пещере шамана</li>
+    <li>place_community_pre_in-&gt;в зиккурате</li>
+    <li>place_powerCenter-&gt;городской храм</li>
+    <li>place_powerCenter_acc-&gt;городской храм</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;городским храмом</li>
+    <li>place_powerCenter_pre_in-&gt;в городском храме</li>
+    <li>place_job-&gt;шаман</li>
+    <li>place_job-&gt;охотник</li>
+    <li>place_job-&gt;рыбак</li>
+    <li>place_job-&gt;собиратель</li>
+    <li>place_job-&gt;козий пастух</li>
+    <li>place_job_fem-&gt;шаманка</li>
+    <li>place_job_fem-&gt;охотница</li>
+    <li>place_job_fem-&gt;рыбачка</li>
+    <li>place_job_fem-&gt;собирательница</li>
+    <li>place_job_fem-&gt;козья пастушка</li>
+    <li>place_job_gen-&gt;шамана</li>
+    <li>place_job_gen-&gt;охотника</li>
+    <li>place_job_gen-&gt;рыбака</li>
+    <li>place_job_gen-&gt;собирателя</li>
+    <li>place_job_gen-&gt;козьего пастуха</li>
+    <li>place_job_gen_fem-&gt;шаманки</li>
+    <li>place_job_gen_fem-&gt;охотницы</li>
+    <li>place_job_gen_fem-&gt;рыбачки</li>
+    <li>place_job_gen_fem-&gt;собирательницы</li>
+    <li>place_job_gen_fem-&gt;козьей пастушки</li>
+    <li>place_job_dat-&gt;шаману</li>
+    <li>place_job_dat-&gt;охотнику</li>
+    <li>place_job_dat-&gt;рыбаку</li>
+    <li>place_job_dat-&gt;собирателю</li>
+    <li>place_job_dat-&gt;козьему пастуху</li>
+    <li>place_job_dat_fem-&gt;шаманке</li>
+    <li>place_job_dat_fem-&gt;охотнице</li>
+    <li>place_job_dat_fem-&gt;рыбачке</li>
+    <li>place_job_dat_fem-&gt;собирательнице</li>
+    <li>place_job_dat_fem-&gt;козьей пастушке</li>
+    <li>place_job_acc-&gt;шамана</li>
+    <li>place_job_acc-&gt;охотника</li>
+    <li>place_job_acc-&gt;рыбака</li>
+    <li>place_job_acc-&gt;собирателя</li>
+    <li>place_job_acc-&gt;козьего пастуха</li>
+    <li>place_job_acc_fem-&gt;шаманку</li>
+    <li>place_job_acc_fem-&gt;охотницу</li>
+    <li>place_job_acc_fem-&gt;рыбачку</li>
+    <li>place_job_acc_fem-&gt;собирательницу</li>
+    <li>place_job_acc_fem-&gt;козью пастушку</li>
+    <li>place_personalWeapon-&gt;пилум</li>
+    <li>place_personalWeapon-&gt;иклва</li>
+    <li>place_personalWeapon_plural-&gt;пилумы</li>
+    <li>place_personalWeapon_plural-&gt;иклва</li>
+    <li>place_personalWeapon_gen-&gt;пилума</li>
+    <li>place_personalWeapon_gen-&gt;иклва</li>
+    <li>place_personalWeapon_acc-&gt;пилум</li>
+    <li>place_personalWeapon_acc-&gt;иклва</li>
+    <li>place_personalWeapon_ins-&gt;пилумом</li>
+    <li>place_personalWeapon_ins-&gt;иклва</li>
+    <li>place_personalWeapon_ins_plural-&gt;пилумами</li>
+    <li>place_personalWeapon_ins_plural-&gt;иклва</li>
+    <li>place_massWeapon-&gt;смертельный гул</li>
+    <li>place_massWeapon-&gt;нейротоксичная бомба</li>
+    <li>place_massWeapon_gen-&gt;смертельного гула</li>
+    <li>place_massWeapon_gen-&gt;нейротоксичной бомбы</li>
+    <li>place_massWeapon_acc-&gt;смертельный гул</li>
+    <li>place_massWeapon_acc-&gt;нейротоксичную бомбу</li>
+    <li>place_foeLeader-&gt;лесозаготовитель</li>
+    <li>foeLeader_gen-&gt;лесозаготовителя</li>
+    <li>foeLeader_dat-&gt;лесозаготовителю</li>
+    <li>foeLeader_acc-&gt;лесозаготовителя</li>
+    <li>foeLeader_ins-&gt;лесозаготовителем</li>
+    <li>place_foeSoldiers-&gt;подельники</li>
+    <li>foeSoldiers_genacc-&gt;подельников</li>
+    <li>foeSoldiers_dat-&gt;подельникам</li>
+    <li>foeSoldiers_ins-&gt;подельниками</li>
+  </Oubanyen.placeRules.rulesStrings>
+  <Rhydell.placeRules.rulesStrings>
+    <li>place_name-&gt;Райдел</li>
+    <li>place_name_gen-&gt;Райдела</li>
+    <li>place_name_acc-&gt;Райдел</li>
+    <li>place_name_pre-&gt;Райделе</li>
+    <li>place_adjective_masc-&gt;райделианский</li>
+    <li>place_adjective_fem-&gt;райделианская</li>
+    <li>place_adjective_neutral-&gt;райделианское</li>
+    <li>place_adjective_plural-&gt;райделианские</li>
+    <li>place_summary-&gt;покрытая дремучими лесами луна</li>
+    <li>place_summary_gen-&gt;покрытой дремучими лесами луны</li>
+    <li>place_summary_acc-&gt;покрытую дремучими лесами луну</li>
+    <li>place_summary_pre-&gt;покрытой дремучими лесами луне</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;переоборудованный десантный корабль</li>
+    <li>place_community-&gt;лагерь с энергетическим барьером</li>
+    <li>place_community-&gt;центр связи</li>
+    <li>place_community_dat_to-&gt;к переоборудованному десантному кораблю</li>
+    <li>place_community_dat_to-&gt;к лагерю с энергетическим барьером</li>
+    <li>place_community_dat_to-&gt;к центру связи</li>
+    <li>place_community_acc-&gt;[place_community]</li>
+    <li>place_community_acc_to-&gt;на переоборудованный десантный корабль</li>
+    <li>place_community_acc_to-&gt;в лагерь с энергетическим барьером</li>
+    <li>place_community_acc_to-&gt;в центр связи</li>
+    <li>place_community_pre_in-&gt;на переоборудованном десантном корабле</li>
+    <li>place_community_pre_in-&gt;в лагере с энергетическим барьером</li>
+    <li>place_community_pre_in-&gt;в центре связи</li>
+    <li>place_powerCenter-&gt;укреплённый жилой модуль</li>
+    <li>place_powerCenter_acc-&gt;укреплённый жилой модуль</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;укреплённым жилым модулем</li>
+    <li>place_powerCenter_pre_in-&gt;в укреплённом жилом модуле</li>
+    <li>place_job-&gt;пограничный ботаник</li>
+    <li>place_job-&gt;охотник за трофеями</li>
+    <li>place_job-&gt;врач</li>
+    <li>place_job-&gt;повар лагеря</li>
+    <li>place_job-&gt;инженер биолаборатории</li>
+    <li>place_job_fem-&gt;пограничный ботаник</li>
+    <li>place_job_fem-&gt;охотница за трофеями</li>
+    <li>place_job_fem-&gt;врач</li>
+    <li>place_job_fem-&gt;повариха лагеря</li>
+    <li>place_job_fem-&gt;инженер биолаборатории</li>
+    <li>place_job_gen-&gt;пограничного ботаника</li>
+    <li>place_job_gen-&gt;охотника за трофеями</li>
+    <li>place_job_gen-&gt;врача</li>
+    <li>place_job_gen-&gt;повара лагеря</li>
+    <li>place_job_gen-&gt;инженера биолаборатории</li>
+    <li>place_job_gen_fem-&gt;пограничного ботаника</li>
+    <li>place_job_gen_fem-&gt;охотницы за трофеями</li>
+    <li>place_job_gen_fem-&gt;врача</li>
+    <li>place_job_gen_fem-&gt;поварихи лагеря</li>
+    <li>place_job_gen_fem-&gt;инженера биолаборатории</li>
+    <li>place_job_dat-&gt;пограничному ботанику</li>
+    <li>place_job_dat-&gt;охотнику за трофеями</li>
+    <li>place_job_dat-&gt;врачу</li>
+    <li>place_job_dat-&gt;повару лагеря</li>
+    <li>place_job_dat-&gt;инженеру биолаборатории</li>
+    <li>place_job_dat_fem-&gt;пограничному ботанику</li>
+    <li>place_job_dat_fem-&gt;охотнице за трофеями</li>
+    <li>place_job_dat_fem-&gt;врачу</li>
+    <li>place_job_dat_fem-&gt;поварихе лагеря</li>
+    <li>place_job_dat_fem-&gt;инженеру биолаборатории</li>
+    <li>place_job_acc-&gt;пограничного ботаника</li>
+    <li>place_job_acc-&gt;охотника за трофеями</li>
+    <li>place_job_acc-&gt;врача</li>
+    <li>place_job_acc-&gt;повара лагеря</li>
+    <li>place_job_acc-&gt;инженера биолаборатории</li>
+    <li>place_job_acc_fem-&gt;пограничного ботаника</li>
+    <li>place_job_acc_fem-&gt;охотницу за трофеями</li>
+    <li>place_job_acc_fem-&gt;врача</li>
+    <li>place_job_acc_fem-&gt;повариху лагеря</li>
+    <li>place_job_acc_fem-&gt;инженера биолаборатории</li>
+    <li>place_personalWeapon-&gt;снайперская винтовка</li>
+    <li>place_personalWeapon-&gt;мачете</li>
+    <li>place_personalWeapon_plural-&gt;снайперские винтовки</li>
+    <li>place_personalWeapon_plural-&gt;мачете</li>
+    <li>place_personalWeapon_gen-&gt;снайперской винтовки</li>
+    <li>place_personalWeapon_gen-&gt;мачете</li>
+    <li>place_personalWeapon_acc-&gt;снайперскую винтовку</li>
+    <li>place_personalWeapon_acc-&gt;мачете</li>
+    <li>place_personalWeapon_ins-&gt;снайперской винтовкой</li>
+    <li>place_personalWeapon_ins-&gt;мачете</li>
+    <li>place_personalWeapon_ins_plural-&gt;снайперскими винтовками</li>
+    <li>place_personalWeapon_ins_plural-&gt;мачете</li>
+    <li>place_massWeapon-&gt;газ с растительным нейротоксином</li>
+    <li>place_massWeapon-&gt;орбитальный лазерный удар</li>
+    <li>place_massWeapon_gen-&gt;газа с растительным нейротоксином</li>
+    <li>place_massWeapon_gen-&gt;орбитального лазерного удара</li>
+    <li>place_massWeapon_acc-&gt;газ с растительным нейротоксином</li>
+    <li>place_massWeapon_acc-&gt;орбитальный лазерный удар</li>
+    <li>place_foeLeader-&gt;генеральный директор глубинной корпорации</li>
+    <li>foeLeader_gen-&gt;генерального директора глубинной корпорации</li>
+    <li>foeLeader_dat-&gt;генеральному директору глубинной корпорации</li>
+    <li>foeLeader_acc-&gt;генерального директора глубинной корпорации</li>
+    <li>foeLeader_ins-&gt;генеральным директором глубинной корпорации</li>
+    <li>place_foeSoldiers-&gt;оперативники глубинной корпорации</li>
+    <li>foeSoldiers_genacc-&gt;оперативников глубинной корпорации</li>
+    <li>foeSoldiers_dat-&gt;оперативникам глубинной корпорации</li>
+    <li>foeSoldiers_ins-&gt;оперативниками глубинной корпорации</li>
+  </Rhydell.placeRules.rulesStrings>
+  <Rogia.placeRules.rulesStrings>
+    <li>place_name-&gt;Рогия</li>
+    <li>place_name_gen-&gt;Рогии</li>
+    <li>place_name_acc-&gt;Рогию</li>
+    <li>place_name_pre-&gt;Рогии</li>
+    <li>place_adjective_masc-&gt;рогийский</li>
+    <li>place_adjective_fem-&gt;рогийская</li>
+    <li>place_adjective_neutral-&gt;рогийское</li>
+    <li>place_adjective_plural-&gt;рогийские</li>
+    <li>place_summary-&gt;утопический мир</li>
+    <li>place_summary_gen-&gt;утопического мира</li>
+    <li>place_summary_acc-&gt;утопический мир</li>
+    <li>place_summary_pre-&gt;утопическом мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;медицинский институт</li>
+    <li>place_community-&gt;космический лифт</li>
+    <li>place_community-&gt;завод робототехники</li>
+    <li>place_community_dat_to-&gt;к медицинскому институту</li>
+    <li>place_community_dat_to-&gt;к космическому лифту</li>
+    <li>place_community_dat_to-&gt;к заводу робототехники</li>
+    <li>place_community_acc-&gt;[place_community]</li>
+    <li>place_community_acc_to-&gt;в медицинский институт</li>
+    <li>place_community_acc_to-&gt;на космический лифт</li>
+    <li>place_community_acc_to-&gt;на завод робототехники</li>
+    <li>place_community_pre_in-&gt;в медицинском институте</li>
+    <li>place_community_pre_in-&gt;на космическом лифте</li>
+    <li>place_community_pre_in-&gt;на заводе робототехники</li>
+    <li>place_powerCenter-&gt;планетарный капитолий</li>
+    <li>place_powerCenter_acc-&gt;планетарный капитолий</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;планетарным капитолием</li>
+    <li>place_powerCenter_pre_in-&gt;в планетарном капитолии</li>
+    <li>place_job-&gt;кадет военно-космических сил</li>
+    <li>place_job-&gt;фермер-ремесленник</li>
+    <li>place_job-&gt;гений социальных медиа</li>
+    <li>place_job-&gt;спортсмен нулевой гравитации</li>
+    <li>place_job-&gt;контрабандист утопических технологий</li>
+    <li>place_job_fem-&gt;кадет военно-космических сил</li>
+    <li>place_job_fem-&gt;фермерша-ремесленница</li>
+    <li>place_job_fem-&gt;гений социальных медиа</li>
+    <li>place_job_fem-&gt;спортсменка нулевой гравитации</li>
+    <li>place_job_fem-&gt;контрабандистка утопических технологий</li>
+    <li>place_job_gen-&gt;кадета военно-космических сил</li>
+    <li>place_job_gen-&gt;фермера-ремесленника</li>
+    <li>place_job_gen-&gt;гения социальных медиа</li>
+    <li>place_job_gen-&gt;спортсмена нулевой гравитации</li>
+    <li>place_job_gen-&gt;контрабандиста утопических технологий</li>
+    <li>place_job_gen_fem-&gt;кадета военно-космических сил</li>
+    <li>place_job_gen_fem-&gt;фермерши-ремесленницы</li>
+    <li>place_job_gen_fem-&gt;гения социальных медиа</li>
+    <li>place_job_gen_fem-&gt;спортсменки нулевой гравитации</li>
+    <li>place_job_gen_fem-&gt;контрабандистки утопических технологий</li>
+    <li>place_job_dat-&gt;кадету военно-космических сил</li>
+    <li>place_job_dat-&gt;фермеру-ремесленнику</li>
+    <li>place_job_dat-&gt;гению социальных медиа</li>
+    <li>place_job_dat-&gt;спортсмену нулевой гравитации</li>
+    <li>place_job_dat-&gt;контрабандисту утопических технологий</li>
+    <li>place_job_dat_fem-&gt;кадету военно-космических сил</li>
+    <li>place_job_dat_fem-&gt;фермерше-ремесленнице</li>
+    <li>place_job_dat_fem-&gt;гению социальных медиа</li>
+    <li>place_job_dat_fem-&gt;спортсменке нулевой гравитации</li>
+    <li>place_job_dat_fem-&gt;контрабандистке утопических технологий</li>
+    <li>place_job_acc-&gt;кадета военно-космических сил</li>
+    <li>place_job_acc-&gt;фермера-ремесленника</li>
+    <li>place_job_acc-&gt;гения социальных медиа</li>
+    <li>place_job_acc-&gt;спортсмена нулевой гравитации</li>
+    <li>place_job_acc-&gt;контрабандиста утопических технологий</li>
+    <li>place_job_acc_fem-&gt;кадета военно-космических сил</li>
+    <li>place_job_acc_fem-&gt;фермершу-ремесленницу</li>
+    <li>place_job_acc_fem-&gt;гения социальных медиа</li>
+    <li>place_job_acc_fem-&gt;спортсменку нулевой гравитации</li>
+    <li>place_job_acc_fem-&gt;контрабандистку утопических технологий</li>
+    <li>place_personalWeapon-&gt;энергокопьё</li>
+    <li>place_personalWeapon-&gt;синхромономеч</li>
+    <li>place_personalWeapon_plural-&gt;энергокопья</li>
+    <li>place_personalWeapon_plural-&gt;синхромономечи</li>
+    <li>place_personalWeapon_gen-&gt;энергокопья</li>
+    <li>place_personalWeapon_gen-&gt;синхромономеча</li>
+    <li>place_personalWeapon_acc-&gt;энергокопьё</li>
+    <li>place_personalWeapon_acc-&gt;синхромономеч</li>
+    <li>place_personalWeapon_ins-&gt;энергокопьём</li>
+    <li>place_personalWeapon_ins-&gt;синхромономечом</li>
+    <li>place_personalWeapon_ins_plural-&gt;энергокопьями</li>
+    <li>place_personalWeapon_ins_plural-&gt;синхромономечами</li>
+    <li>place_massWeapon-&gt;антиматериальные боеголовки</li>
+    <li>place_massWeapon-&gt;боевой компьютерный вирус</li>
+    <li>place_massWeapon-&gt;дистанционно управляемые рабочие-механоиды</li>
+    <li>place_massWeapon_gen-&gt;антиматериальных боеголовок</li>
+    <li>place_massWeapon_gen-&gt;боевого компьютерного вируса</li>
+    <li>place_massWeapon_gen-&gt;дистанционно управляемых рабочих-механоидов</li>
+    <li>place_massWeapon_acc-&gt;антиматериальные боеголовки</li>
+    <li>place_massWeapon_acc-&gt;боевой компьютерный вирус</li>
+    <li>place_massWeapon_acc-&gt;дистанционно управляемых рабочих-механоидов</li>
+    <li>place_foeLeader-&gt;коррумпированный бюрократ</li>
+    <li>foeLeader_gen-&gt;коррумпированного бюрократа</li>
+    <li>foeLeader_dat-&gt;коррумпированному бюрократу</li>
+    <li>foeLeader_acc-&gt;коррумпированного бюрократа</li>
+    <li>foeLeader_ins-&gt;коррумпированным бюрократом</li>
+    <li>place_foeSoldiers-&gt;бионические стражи</li>
+    <li>foeSoldiers_genacc-&gt;бионических стражей</li>
+    <li>foeSoldiers_dat-&gt;бионическим стражам</li>
+    <li>foeSoldiers_ins-&gt;бионическими стражами</li>
+  </Rogia.placeRules.rulesStrings>
+  <Wavia.placeRules.rulesStrings>
+    <li>place_name-&gt;Вавия</li>
+    <li>place_name_gen-&gt;Вавии</li>
+    <li>place_name_acc-&gt;Вавию</li>
+    <li>place_name_pre-&gt;Вавии</li>
+    <li>place_adjective_masc-&gt;вавийский</li>
+    <li>place_adjective_fem-&gt;вавийская</li>
+    <li>place_adjective_neutral-&gt;вавийское</li>
+    <li>place_adjective_plural-&gt;вавийские</li>
+    <li>place_summary-&gt;океанический мир</li>
+    <li>place_summary_gen-&gt;океанического мира</li>
+    <li>place_summary_acc-&gt;океанический мир</li>
+    <li>place_summary_pre-&gt;океаническом мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;торговый атолл</li>
+    <li>place_community-&gt;плавучая деревня</li>
+    <li>place_community-&gt;завод по переработке ламинарии</li>
+    <li>place_community_dat_to-&gt;к торговому атоллу</li>
+    <li>place_community_dat_to-&gt;к плавучей деревне</li>
+    <li>place_community_dat_to-&gt;к заводу по переработке ламинарии</li>
+    <li>place_community_acc-&gt;торговый атолл</li>
+    <li>place_community_acc-&gt;плавучую деревню</li>
+    <li>place_community_acc-&gt;завод по переработке ламинарии</li>
+    <li>place_community_acc_to-&gt;на торговый атолл</li>
+    <li>place_community_acc_to-&gt;в плавучую деревню</li>
+    <li>place_community_acc_to-&gt;на завод по переработке ламинарии</li>
+    <li>place_community_pre_in-&gt;на торговом атолле</li>
+    <li>place_community_pre_in-&gt;в плавучей деревне</li>
+    <li>place_community_pre_in-&gt;на заводе по переработке ламинарии</li>
+    <li>place_powerCenter-&gt;мост-капитолий</li>
+    <li>place_powerCenter_acc-&gt;мост-капитолий</li>
+    <li>place_powerCenter_acc_to-&gt;на [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;мостом-капитолием</li>
+    <li>place_powerCenter_pre_in-&gt;на мосту-капитолии</li>
+    <li>place_job-&gt;рыбак</li>
+    <li>place_job-&gt;ныряльщик за жемчугом</li>
+    <li>place_job-&gt;парусный мастер</li>
+    <li>place_job-&gt;капитан</li>
+    <li>place_job-&gt;сборщик водорослей</li>
+    <li>place_job_fem-&gt;рыбачка</li>
+    <li>place_job_fem-&gt;ныряльщица за жемчугом</li>
+    <li>place_job_fem-&gt;парусная мастерица</li>
+    <li>place_job_fem-&gt;капитан</li>
+    <li>place_job_fem-&gt;сборщица водорослей</li>
+    <li>place_job_gen-&gt;рыбака</li>
+    <li>place_job_gen-&gt;ныряльщика за жемчугом</li>
+    <li>place_job_gen-&gt;парусного мастера</li>
+    <li>place_job_gen-&gt;капитана</li>
+    <li>place_job_gen-&gt;сборщика водорослей</li>
+    <li>place_job_gen_fem-&gt;рыбачки</li>
+    <li>place_job_gen_fem-&gt;ныряльщицы за жемчугом</li>
+    <li>place_job_gen_fem-&gt;парусной мастерицы</li>
+    <li>place_job_gen_fem-&gt;капитана</li>
+    <li>place_job_gen_fem-&gt;сборщицы водорослей</li>
+    <li>place_job_dat-&gt;рыбаку</li>
+    <li>place_job_dat-&gt;ныряльщику за жемчугом</li>
+    <li>place_job_dat-&gt;парусному мастеру</li>
+    <li>place_job_dat-&gt;капитану</li>
+    <li>place_job_dat-&gt;сборщику водорослей</li>
+    <li>place_job_dat_fem-&gt;рыбачке</li>
+    <li>place_job_dat_fem-&gt;ныряльщице за жемчугом</li>
+    <li>place_job_dat_fem-&gt;парусной мастерице</li>
+    <li>place_job_dat_fem-&gt;капитану</li>
+    <li>place_job_dat_fem-&gt;сборщице водорослей</li>
+    <li>place_job_acc-&gt;рыбака</li>
+    <li>place_job_acc-&gt;ныряльщика за жемчугом</li>
+    <li>place_job_acc-&gt;парусного мастера</li>
+    <li>place_job_acc-&gt;капитана</li>
+    <li>place_job_acc-&gt;сборщика водорослей</li>
+    <li>place_job_acc_fem-&gt;рыбачку</li>
+    <li>place_job_acc_fem-&gt;ныряльщицу за жемчугом</li>
+    <li>place_job_acc_fem-&gt;парусную мастерицу</li>
+    <li>place_job_acc_fem-&gt;капитана</li>
+    <li>place_job_acc_fem-&gt;сборщицу водорослей</li>
+    <li>place_personalWeapon-&gt;гарпун</li>
+    <li>place_personalWeapon-&gt;колючая сеть</li>
+    <li>place_personalWeapon_plural-&gt;гарпуны</li>
+    <li>place_personalWeapon_plural-&gt;колючие сети</li>
+    <li>place_personalWeapon_gen-&gt;гарпуна</li>
+    <li>place_personalWeapon_gen-&gt;колючей сети</li>
+    <li>place_personalWeapon_acc-&gt;гарпун</li>
+    <li>place_personalWeapon_acc-&gt;колючую сеть</li>
+    <li>place_personalWeapon_ins-&gt;гарпуном</li>
+    <li>place_personalWeapon_ins-&gt;колючей сетью</li>
+    <li>place_personalWeapon_ins_plural-&gt;гарпунами</li>
+    <li>place_personalWeapon_ins_plural-&gt;колючими сетями</li>
+    <li>place_massWeapon-&gt;сверхмощная торпеда</li>
+    <li>place_massWeapon-&gt;приманенный [seaBeast]</li>
+    <li>place_massWeapon_gen-&gt;сверхмощной торпеды</li>
+    <li>place_massWeapon_gen-&gt;приманенного [seaBeast_gen]</li>
+    <li>place_massWeapon_acc-&gt;сверхмощную торпеду</li>
+    <li>place_massWeapon_acc-&gt;приманенного [seaBeast_gen]</li>
+    <li>place_foeLeader-&gt;китобойный адмирал</li>
+    <li>foeLeader_gen-&gt;китобойного адмирала</li>
+    <li>foeLeader_dat-&gt;китобойному адмиралу</li>
+    <li>foeLeader_acc-&gt;китобойного адмирала</li>
+    <li>foeLeader_ins-&gt;китобойным адмиралом</li>
+    <li>place_foeSoldiers-&gt;морпехи-китобои</li>
+    <li>foeSoldiers_genacc-&gt;морпехов-китобоев</li>
+    <li>foeSoldiers_dat-&gt;морпехам-китобоям</li>
+    <li>foeSoldiers_ins-&gt;морпехами-китобоями</li>
+    <li>seaBeast-&gt;глубинный кракен</li>
+    <li>seaBeast-&gt;вавийский левиафан</li>
+    <li>seaBeast_gen-&gt;глубинного кракена</li>
+    <li>seaBeast_gen-&gt;вавийского левиафана</li>
+  </Wavia.placeRules.rulesStrings>
+  <Xanides.placeRules.rulesStrings>
+    <li>place_name-&gt;Ксанид</li>
+    <li>place_name_gen-&gt;Ксанида</li>
+    <li>place_name_acc-&gt;Ксанид</li>
+    <li>place_name_pre-&gt;Ксаниде</li>
+    <li>place_adjective_masc-&gt;ксанидский</li>
+    <li>place_adjective_fem-&gt;ксанидская</li>
+    <li>place_adjective_neutral-&gt;ксанидское</li>
+    <li>place_adjective_plural-&gt;ксанидские</li>
+    <li>place_summary-&gt;богатая минералами иссякшая планета</li>
+    <li>place_summary_gen-&gt;богатой минералами иссякшей планеты</li>
+    <li>place_summary_acc-&gt;богатую минералами иссякшую планету</li>
+    <li>place_summary_pre-&gt;богатой минералами иссякшей планете</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;опустошённая шахта</li>
+    <li>place_community-&gt;завод по переработке руды</li>
+    <li>place_community-&gt;столовая с питательной пастой</li>
+    <li>place_community_dat_to-&gt;к опустошённой шахте</li>
+    <li>place_community_dat_to-&gt;к заводу по переработке руды</li>
+    <li>place_community_dat_to-&gt;к столовой с питательной пастой</li>
+    <li>place_community_acc-&gt;опустошённую шахту</li>
+    <li>place_community_acc-&gt;завод по переработке руды</li>
+    <li>place_community_acc-&gt;столовую с питательной пастой</li>
+    <li>place_community_acc_to-&gt;в опустошённую шахту</li>
+    <li>place_community_acc_to-&gt;на завод по переработке руды</li>
+    <li>place_community_acc_to-&gt;в столовую с питательной пастой</li>
+    <li>place_community_pre_in-&gt;в опустошённой шахте</li>
+    <li>place_community_pre_in-&gt;на заводе по переработке руды</li>
+    <li>place_community_pre_in-&gt;в столовой с питательной пастой</li>
+    <li>place_powerCenter-&gt;центр атмосферного контроля</li>
+    <li>place_powerCenter_acc-&gt;центр атмосферного контроля</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;центром атмосферного контроля</li>
+    <li>place_powerCenter_pre_in-&gt;в центре атмосферного контроля</li>
+    <li>place_job-&gt;шахтёр</li>
+    <li>place_job-&gt;прораб</li>
+    <li>place_job-&gt;техник</li>
+    <li>place_job-&gt;механик</li>
+    <li>place_job-&gt;инженер системы жизнеобеспечения</li>
+    <li>place_job_fem-&gt;[place_job]</li>
+    <li>place_job_gen-&gt;шахтёра</li>
+    <li>place_job_gen-&gt;прораба</li>
+    <li>place_job_gen-&gt;техника</li>
+    <li>place_job_gen-&gt;механика</li>
+    <li>place_job_gen-&gt;инженера системы жизнеобеспечения</li>
+    <li>place_job_gen_fem-&gt;[place_job_gen]</li>
+    <li>place_job_dat-&gt;шахтёру</li>
+    <li>place_job_dat-&gt;прорабу</li>
+    <li>place_job_dat-&gt;технику</li>
+    <li>place_job_dat-&gt;механику</li>
+    <li>place_job_dat-&gt;инженеру системы жизнеобеспечения</li>
+    <li>place_job_dat_fem-&gt;[place_job_dat]</li>
+    <li>place_job_acc-&gt;шахтёра</li>
+    <li>place_job_acc-&gt;прораба</li>
+    <li>place_job_acc-&gt;техника</li>
+    <li>place_job_acc-&gt;механика</li>
+    <li>place_job_acc-&gt;инженера системы жизнеобеспечения</li>
+    <li>place_job_acc_fem-&gt;[place_job_acc]</li>
+    <li>place_personalWeapon-&gt;шоковая дубинка</li>
+    <li>place_personalWeapon-&gt;автоматический пистолет</li>
+    <li>place_personalWeapon_plural-&gt;шоковые дубинки</li>
+    <li>place_personalWeapon_plural-&gt;автоматические пистолеты</li>
+    <li>place_personalWeapon_gen-&gt;шоковой дубинки</li>
+    <li>place_personalWeapon_gen-&gt;автоматического пистолета</li>
+    <li>place_personalWeapon_acc-&gt;шоковую дубинку</li>
+    <li>place_personalWeapon_acc-&gt;автоматический пистолет</li>
+    <li>place_personalWeapon_ins-&gt;шоковой дубинкой</li>
+    <li>place_personalWeapon_ins-&gt;автоматическим пистолетом</li>
+    <li>place_personalWeapon_ins_plural-&gt;шоковыми дубинками</li>
+    <li>place_personalWeapon_ins_plural-&gt;автоматическими пистолетами</li>
+    <li>place_massWeapon-&gt;шахтёрская взрывчатка</li>
+    <li>place_massWeapon-&gt;[anEMPAttack]</li>
+    <li>place_massWeapon_gen-&gt;шахтёрской взрывчатки</li>
+    <li>place_massWeapon_gen-&gt;[anEMPAttack_gen]</li>
+    <li>place_massWeapon_acc-&gt;шахтёрскую взрывчатку</li>
+    <li>place_massWeapon_acc-&gt;[anEMPAttack_acc]</li>
+    <li>place_foeLeader-&gt;босс шахтёрской корпорации</li>
+    <li>foeLeader_gen-&gt;босса шахтёрской корпорации</li>
+    <li>foeLeader_dat-&gt;боссу шахтёрской корпорации</li>
+    <li>foeLeader_acc-&gt;босса шахтёрской корпорации</li>
+    <li>foeLeader_ins-&gt;боссом шахтёрской корпорации</li>
+    <li>place_foeSoldiers-&gt;солдаты шахтёрской корпорации</li>
+    <li>foeSoldiers_genacc-&gt;солдат шахтёрской корпорации</li>
+    <li>foeSoldiers_dat-&gt;солдатам шахтёрской корпорации</li>
+    <li>foeSoldiers_ins-&gt;солдатами шахтёрской корпорации</li>
+  </Xanides.placeRules.rulesStrings>
+  <Yttak.placeRules.rulesStrings>
+    <li>place_name-&gt;Иттак</li>
+    <li>place_name_gen-&gt;Иттака</li>
+    <li>place_name_acc-&gt;Иттак</li>
+    <li>place_name_pre-&gt;Иттаке</li>
+    <li>place_adjective_masc-&gt;иттакийский</li>
+    <li>place_adjective_fem-&gt;иттакийская</li>
+    <li>place_adjective_neutral-&gt;иттакийское</li>
+    <li>place_adjective_plural-&gt;иттакийские</li>
+    <li>place_summary-&gt;тюрьма ледяной луны</li>
+    <li>place_summary_gen-&gt;тюрьмы ледяной луны</li>
+    <li>place_summary_acc-&gt;тюрьму ледяной луны</li>
+    <li>place_summary_pre-&gt;тюрьме ледяной луны</li>
+    <li>place_summary_prepon-&gt;в</li>
+    <li>place_community-&gt;столовая</li>
+    <li>place_community-&gt;бараки охраны</li>
+    <li>place_community-&gt;тюремный блок</li>
+    <li>place_community_dat_to-&gt;к столовой</li>
+    <li>place_community_dat_to-&gt;к баракам охраны</li>
+    <li>place_community_dat_to-&gt;к тюремному блоку</li>
+    <li>place_community_acc-&gt;столовую</li>
+    <li>place_community_acc-&gt;бараки охраны</li>
+    <li>place_community_acc-&gt;тюремный блок</li>
+    <li>place_community_acc_to-&gt;в [place_community_acc]</li>
+    <li>place_community_pre_in-&gt;в столовой</li>
+    <li>place_community_pre_in-&gt;в бараках охраны</li>
+    <li>place_community_pre_in-&gt;в тюремном блоке</li>
+    <li>place_powerCenter-&gt;административный комплекс</li>
+    <li>place_powerCenter_acc-&gt;административный комплекс</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;административным комплексом</li>
+    <li>place_powerCenter_pre_in-&gt;в административном комплексе</li>
+    <li>place_job-&gt;заключённый</li>
+    <li>place_job-&gt;охранник</li>
+    <li>place_job-&gt;беглец</li>
+    <li>place_job-&gt;обслуживающий работник</li>
+    <li>place_job-&gt;водитель транспорта</li>
+    <li>place_job_fem-&gt;заключённая</li>
+    <li>place_job_fem-&gt;охранница</li>
+    <li>place_job_fem-&gt;беглянка</li>
+    <li>place_job_fem-&gt;обслуживающая работница</li>
+    <li>place_job_fem-&gt;водитель транспорта</li>
+    <li>place_job_gen-&gt;заключённого</li>
+    <li>place_job_gen-&gt;охранника</li>
+    <li>place_job_gen-&gt;беглеца</li>
+    <li>place_job_gen-&gt;обслуживающего работника</li>
+    <li>place_job_gen-&gt;водителя транспорта</li>
+    <li>place_job_gen_fem-&gt;заключённой</li>
+    <li>place_job_gen_fem-&gt;охранницы</li>
+    <li>place_job_gen_fem-&gt;беглянки</li>
+    <li>place_job_gen_fem-&gt;обслуживающей работницы</li>
+    <li>place_job_gen_fem-&gt;водителя транспорта</li>
+    <li>place_job_dat-&gt;заключённому</li>
+    <li>place_job_dat-&gt;охраннику</li>
+    <li>place_job_dat-&gt;беглецу</li>
+    <li>place_job_dat-&gt;обслуживающему работнику</li>
+    <li>place_job_dat-&gt;водителю транспорта</li>
+    <li>place_job_dat_fem-&gt;заключённой</li>
+    <li>place_job_dat_fem-&gt;охраннице</li>
+    <li>place_job_dat_fem-&gt;беглянке</li>
+    <li>place_job_dat_fem-&gt;обслуживающей работнице</li>
+    <li>place_job_dat_fem-&gt;водителю транспорта</li>
+    <li>place_job_acc-&gt;заключённого</li>
+    <li>place_job_acc-&gt;охранника</li>
+    <li>place_job_acc-&gt;беглеца</li>
+    <li>place_job_acc-&gt;обслуживающего работника</li>
+    <li>place_job_acc-&gt;водителя транспорта</li>
+    <li>place_job_acc_fem-&gt;заключённую</li>
+    <li>place_job_acc_fem-&gt;охранницу</li>
+    <li>place_job_acc_fem-&gt;беглянку</li>
+    <li>place_job_acc_fem-&gt;обслуживающую работницу</li>
+    <li>place_job_acc_fem-&gt;водителя транспорта</li>
+    <li>place_personalWeapon-&gt;заточка</li>
+    <li>place_personalWeapon-&gt;пистолет-пулемёт</li>
+    <li>place_personalWeapon_plural-&gt;заточки</li>
+    <li>place_personalWeapon_plural-&gt;пистолеты-пулемёты</li>
+    <li>place_personalWeapon_gen-&gt;заточки</li>
+    <li>place_personalWeapon_gen-&gt;пистолета-пулемёта</li>
+    <li>place_personalWeapon_acc-&gt;заточку</li>
+    <li>place_personalWeapon_acc-&gt;пистолет-пулемёт</li>
+    <li>place_personalWeapon_ins-&gt;заточкой</li>
+    <li>place_personalWeapon_ins-&gt;пистолетом-пулемётом</li>
+    <li>place_personalWeapon_ins_plural-&gt;заточками</li>
+    <li>place_personalWeapon_ins_plural-&gt;пистолетами-пулемётами</li>
+    <li>place_massWeapon-&gt;самодельная химическая бомба</li>
+    <li>place_massWeapon-&gt;орбитальный лазерный удар</li>
+    <li>place_massWeapon_gen-&gt;самодельной химической бомбы</li>
+    <li>place_massWeapon_gen-&gt;орбитального лазерного удара</li>
+    <li>place_massWeapon_acc-&gt;самодельную химическую бомбу</li>
+    <li>place_massWeapon_acc-&gt;орбитальный лазерный удар</li>
+    <li>place_foeLeader-&gt;управляющий тюрьмой</li>
+    <li>foeLeader_gen-&gt;управляющего тюрьмой</li>
+    <li>foeLeader_dat-&gt;управляющему тюрьмой</li>
+    <li>foeLeader_acc-&gt;управляющего тюрьмой</li>
+    <li>foeLeader_ins-&gt;управляющим тюрьмой</li>
+    <li>place_foeSoldiers-&gt;коррумпированные охранники</li>
+    <li>foeSoldiers_genacc-&gt;коррумпированных охранников</li>
+    <li>foeSoldiers_dat-&gt;коррумпированным охранникам</li>
+    <li>foeSoldiers_ins-&gt;коррумпированными охранниками</li>
+  </Yttak.placeRules.rulesStrings>
+  <Zoutera.placeRules.rulesStrings>
+    <li>place_name-&gt;Зоутера</li>
+    <li>place_name_gen-&gt;Зоутеры</li>
+    <li>place_name_acc-&gt;Зоутеру</li>
+    <li>place_name_pre-&gt;Зоутере</li>
+    <li>place_adjective_masc-&gt;зоутерский</li>
+    <li>place_adjective_fem-&gt;зоутерская</li>
+    <li>place_adjective_neutral-&gt;зоутерское</li>
+    <li>place_adjective_plural-&gt;зоутерские</li>
+    <li>place_summary-&gt;кишащий динозаврами степной мир</li>
+    <li>place_summary_gen-&gt;кишащего динозаврами степного мира</li>
+    <li>place_summary_acc-&gt;кишащий динозаврами степной мир</li>
+    <li>place_summary_pre-&gt;кишащем динозаврами степном мире</li>
+    <li>place_summary_prepon-&gt;на</li>
+    <li>place_community-&gt;торговый аванпост</li>
+    <li>place_community-&gt;палаточный городок</li>
+    <li>place_community-&gt;курган мамонтов</li>
+    <li>place_community_dat_to-&gt;к торговому аванпосту</li>
+    <li>place_community_dat_to-&gt;к палаточному городку</li>
+    <li>place_community_dat_to-&gt;к кургану мамонтов</li>
+    <li>place_community_acc-&gt;[place_community]</li>
+    <li>place_community_acc_to-&gt;на торговый аванпост</li>
+    <li>place_community_acc_to-&gt;в палаточный городок</li>
+    <li>place_community_acc_to-&gt;на курган мамонтов</li>
+    <li>place_community_pre_in-&gt;на торговом аванпосту</li>
+    <li>place_community_pre_in-&gt;в палаточном городке</li>
+    <li>place_community_pre_in-&gt;на кургане мамонтов</li>
+    <li>place_powerCenter-&gt;форт на вершине холма</li>
+    <li>place_powerCenter_acc-&gt;форт на вершине холма</li>
+    <li>place_powerCenter_acc_to-&gt;в [place_powerCenter_acc]</li>
+    <li>place_powerCenter_ins-&gt;фортом на вершине холма</li>
+    <li>place_powerCenter_pre_in-&gt;в форте на вершине холма</li>
+    <li>place_job-&gt;наездник на динозаврах</li>
+    <li>place_job-&gt;пастух муффало</li>
+    <li>place_job-&gt;охотник</li>
+    <li>place_job-&gt;кожевенник по плотным шкурам</li>
+    <li>place_job_fem-&gt;наездница на динозаврах</li>
+    <li>place_job_fem-&gt;пастушка муффало</li>
+    <li>place_job_fem-&gt;охотница</li>
+    <li>place_job_fem-&gt;кожевенница по плотным шкурам</li>
+    <li>place_job_gen-&gt;наездника на динозаврах</li>
+    <li>place_job_gen-&gt;пастуха муффало</li>
+    <li>place_job_gen-&gt;охотника</li>
+    <li>place_job_gen-&gt;кожевенника по плотным шкурам</li>
+    <li>place_job_gen_fem-&gt;наездницы на динозаврах</li>
+    <li>place_job_gen_fem-&gt;пастушки муффало</li>
+    <li>place_job_gen_fem-&gt;охотницы</li>
+    <li>place_job_gen_fem-&gt;кожевенницы по плотным шкурам</li>
+    <li>place_job_dat-&gt;наезднику на динозаврах</li>
+    <li>place_job_dat-&gt;пастуху муффало</li>
+    <li>place_job_dat-&gt;охотнику</li>
+    <li>place_job_dat-&gt;кожевеннику по плотным шкурам</li>
+    <li>place_job_dat_fem-&gt;наезднице на динозаврах</li>
+    <li>place_job_dat_fem-&gt;пастушке муффало</li>
+    <li>place_job_dat_fem-&gt;охотнице</li>
+    <li>place_job_dat_fem-&gt;кожевеннице по плотным шкурам</li>
+    <li>place_job_acc-&gt;наездника на динозаврах</li>
+    <li>place_job_acc-&gt;пастуха муффало</li>
+    <li>place_job_acc-&gt;охотника</li>
+    <li>place_job_acc-&gt;кожевенника по плотным шкурам</li>
+    <li>place_job_acc_fem-&gt;наездницу на динозаврах</li>
+    <li>place_job_acc_fem-&gt;пастушку муффало</li>
+    <li>place_job_acc_fem-&gt;охотницу</li>
+    <li>place_job_acc_fem-&gt;кожевенницу по плотным шкурам</li>
+    <li>place_personalWeapon-&gt;бамбуковый посох</li>
+    <li>place_personalWeapon-&gt;стрелы со взрывчаткой</li>
+    <li>place_personalWeapon_plural-&gt;бамбуковые посохи</li>
+    <li>place_personalWeapon_plural-&gt;стрелы со взрывчаткой</li>
+    <li>place_personalWeapon_gen-&gt;бамбукового посоха</li>
+    <li>place_personalWeapon_gen-&gt;стрел со взрывчаткой</li>
+    <li>place_personalWeapon_acc-&gt;бамбуковый посох</li>
+    <li>place_personalWeapon_acc-&gt;стрелы со взрывчаткой</li>
+    <li>place_personalWeapon_ins-&gt;бамбуковым посохом</li>
+    <li>place_personalWeapon_ins-&gt;стрелами со взрывчаткой</li>
+    <li>place_personalWeapon_ins_plural-&gt;бамбуковыми посохами</li>
+    <li>place_personalWeapon_ins_plural-&gt;стрелами со взрывчаткой</li>
+    <li>place_massWeapon-&gt;нашествие стада [megaFauna]</li>
+    <li>place_massWeapon-&gt;бомба из удобрений</li>
+    <li>place_massWeapon_gen-&gt;нашествия стада [megaFauna]</li>
+    <li>place_massWeapon_gen-&gt;бомбы из удобрений</li>
+    <li>place_massWeapon_acc-&gt;нашествие стада [megaFauna]</li>
+    <li>place_massWeapon_acc-&gt;бомбу из удобрений</li>
+    <li>place_foeLeader-&gt;король клыков</li>
+    <li>foeLeader_gen-&gt;короля клыков</li>
+    <li>foeLeader_dat-&gt;королю клыков</li>
+    <li>foeLeader_acc-&gt;короля клыков</li>
+    <li>foeLeader_ins-&gt;королём клыков</li>
+    <li>place_foeSoldiers-&gt;воины-клыки</li>
+    <li>foeSoldiers_genacc-&gt;воинов-клыков</li>
+    <li>foeSoldiers_dat-&gt;воинам-клыкам</li>
+    <li>foeSoldiers_ins-&gt;воинами-клыками</li>
+    <li>megaFauna-&gt;анкилозавров</li>
+    <li>megaFauna-&gt;голубых мамонтов</li>
+    <li>megaFauna-&gt;новорапторов</li>
+  </Zoutera.placeRules.rulesStrings>
+</LanguageData>

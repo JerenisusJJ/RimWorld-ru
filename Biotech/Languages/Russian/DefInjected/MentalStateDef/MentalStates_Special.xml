@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BerserkWarcall.label>боевая ярость</BerserkWarcall.label>
+  <BerserkWarcall.baseInspectLine>Душевное состояние: боевая ярость</BerserkWarcall.baseInspectLine>
+  <BerserkWarcall.beginLetter>{0} впадает в боевую ярость.\n\n[PAWN_pronoun] нападает на всех врагов поселения.</BerserkWarcall.beginLetter>
+  <BerserkWarcall.recoveryMessage>{0} успокаивается.</BerserkWarcall.recoveryMessage>
+  <PanicFleeFire.label>паника от огня</PanicFleeFire.label>
+  <PanicFleeFire.baseInspectLine>Душевное состояние: паника от огня</PanicFleeFire.baseInspectLine>
+  <PanicFleeFire.beginLetter>{0} в панике бежит от огня.</PanicFleeFire.beginLetter>
+  <PanicFleeFire.beginLetterLabel>бежит от огня</PanicFleeFire.beginLetterLabel>
+  <PanicFleeFire.recoveryMessage>{0} больше не бежит от огня.</PanicFleeFire.recoveryMessage>
+</LanguageData>

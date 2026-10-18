@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BloodRain.label>кровавый дождь</BloodRain.label>
+  <BloodRain.description>Под кровавым дождём любой человек рано или поздно теряет рассудок и отдаётся слепой ярости. На этот процесс могут влиять некоторые черты характера и психочуствительность.</BloodRain.description>
+  <GrayPall.label>серая пелена</GrayPall.label>
+  <GrayPall.description>В воздухе висит зернистый туман. Он пахнет гнилью и кислотой. Эта неестественная погода наводит липкий ужас.</GrayPall.description>
+  <MetalHell.label>металлический ад</MetalHell.label>
+  <MetalHell.description>Под землёй нет погодных явлений.</MetalHell.description>
+  <Undercave.label>подвратная пещера</Undercave.label>
+  <Undercave.description>Под землёй нет погодных явлений.</Undercave.description>
+  <UnnaturalDarkness_Stage1.label>неестественная темнота</UnnaturalDarkness_Stage1.label>
+  <UnnaturalDarkness_Stage1.description>Небо трескается и растворяется, погружая мир в неестественную темноту. Со временем света будет всё меньше, а опасности всё страшнее.</UnnaturalDarkness_Stage1.description>
+  <UnnaturalDarkness_Stage2.label>неестественная темнота</UnnaturalDarkness_Stage2.label>
+  <UnnaturalDarkness_Stage2.description>Небо будто рухнуло. Мир погрузился в непроглядную неестественную темноту. Держитесь на свету.</UnnaturalDarkness_Stage2.description>
+  <UnnaturalFog.label>пелена смерти</UnnaturalFog.label>
+  <UnnaturalFog.description>Это место окутало мертвенно-серое облако чёрной пыли. В воздухе стоит отвратительный затхлый запах. Пыль проникает во всё дыры и щели.\n\nЭта пыль — повреждённые архиты. Они воскресят любое тело, вдохнув в него извращённую имитацию жизни.\n\nМёртвые восстанут! Сжигайте, закапывайте или заносите тела в помещения, иначе они поднимутся.</UnnaturalFog.description>
+</LanguageData>

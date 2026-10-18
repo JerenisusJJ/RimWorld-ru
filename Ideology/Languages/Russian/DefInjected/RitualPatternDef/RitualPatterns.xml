@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BurnCircle.descOverride>Ритуальное сожжение ненавистного символа. Участники соберутся вокруг ритуальной постройки, зажгут её и, пока она не сгорит дотла, будут праздновать.</BurnCircle.descOverride>
+  <BurnCircle.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</BurnCircle.ritualExpectedDesc>
+  <BurnCircle.shortDescOverride>ритуал сожжения символа</BurnCircle.shortDescOverride>
+  <CelebrationPartyChat.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</CelebrationPartyChat.ritualExpectedDesc>
+  <CelebrationPartyDanceDrum.descOverride>Танцевальная вечеринка с барабанами. Участники соберутся вместе, пообщаются, поиграют на барабанах, потанцуют, зарядятся хорошим настроением и улучшат отношения друг с другом.</CelebrationPartyDanceDrum.descOverride>
+  <CelebrationPartyDanceDrum.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</CelebrationPartyDanceDrum.ritualExpectedDesc>
+  <CelebrationPartyDanceDrum.shortDescOverride>вечеринка с барабанами</CelebrationPartyDanceDrum.shortDescOverride>
+  <CelebrationPartyDanceTech.descOverride>Танцевальная вечеринка под громкую музыку. Участники соберутся вместе, пообщаются, потанцуют, зарядятся хорошим настроением и улучшат отношения друг с другом.</CelebrationPartyDanceTech.descOverride>
+  <CelebrationPartyDanceTech.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</CelebrationPartyDanceTech.ritualExpectedDesc>
+  <CelebrationPartyDanceTech.shortDescOverride>танцевальная вечеринка</CelebrationPartyDanceTech.shortDescOverride>
+  <CelebrationSkyLanterns.descOverride>Фестиваль небесных фонариков. Участники соберут деревянные фонарики, параллельно общаясь между собой, после чего запустят их и будут наблюдать за тем, как они улетают в небо.</CelebrationSkyLanterns.descOverride>
+  <CelebrationSkyLanterns.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</CelebrationSkyLanterns.ritualExpectedDesc>
+  <CelebrationSkyLanterns.shortDescOverride>фестиваль небесных фонариков</CelebrationSkyLanterns.shortDescOverride>
+  <CelebrationTree.descOverride>Рождественская вечеринка. Участники соберутся вокруг Рождественской ёлки и будут веселиться.</CelebrationTree.descOverride>
+  <CelebrationTree.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</CelebrationTree.ritualExpectedDesc>
+  <CelebrationTree.shortDescOverride>рождественская вечеринка</CelebrationTree.shortDescOverride>
+  <Conversion.ritualExplanation>В случае успеха, уверенность цели снизится и она может незамедлительно принять новую идеолигию. Провал лишь повысит уверенность цели в своих убеждениях.</Conversion.ritualExplanation>
+  <FeastCannibal.descOverride>Ритуальный пир. Участники соберутся вокруг блюда с человеческой плотью и начнут пожирать её.</FeastCannibal.descOverride>
+  <FeastCannibal.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</FeastCannibal.ritualExpectedDesc>
+  <FeastCannibal.shortDescOverride>каннибальский пир</FeastCannibal.shortDescOverride>
+  <FuneralNoCorpse.ritualExpectedDesc>Вы можете провести {IDEOLIGION_adjective} похоронный обряд для {PAWN_nameDef}, несмотря на то, что его {PAWN_possessive} тело утеряно.</FuneralNoCorpse.ritualExpectedDesc>
+  <FuneralNoCorpse.ritualExpectedDescNoAdjective>Вы можете провести похороны для {PAWN_nameDef}, несмотря на то, что его {PAWN_possessive} тело утеряно.</FuneralNoCorpse.ritualExpectedDescNoAdjective>
+  <FuneralStandard.ritualExpectedDesc>Вы можете провести {IDEOLIGION_adjective} похоронный обряд для {PAWN_nameDef}.</FuneralStandard.ritualExpectedDesc>
+  <FuneralStandard.ritualExpectedDescNoAdjective>Вы можете провести похороны для {PAWN_nameDef}.</FuneralStandard.ritualExpectedDescNoAdjective>
+  <SacrificeAnimal.descOverride>Ритуальное жертвоприношение. Исполнитель произнесёт речь, чтобы разгорячить толпу, после чего перережет жертве горло. Когда животное умрёт, исполнитель произнесёт короткую завершающую речь.</SacrificeAnimal.descOverride>
+  <SacrificeAnimal.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</SacrificeAnimal.ritualExpectedDesc>
+  <SacrificeAnimal.shortDescOverride>животное жертвоприношение</SacrificeAnimal.shortDescOverride>
+  <SacrificePrisoner.descOverride>Ритуальное жертвоприношение. Исполнитель произнесёт речь, чтобы разгорячить толпу, после чего перережет жертве горло. Когда пленник умрёт, исполнитель произнесёт короткую завершающую речь.</SacrificePrisoner.descOverride>
+  <SacrificePrisoner.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</SacrificePrisoner.ritualExpectedDesc>
+  <SacrificePrisoner.shortDescOverride>человеческое жертвоприношение</SacrificePrisoner.shortDescOverride>
+  <SmokeCircle.descOverride>Ритуальное курение большого количества дымолиста. Участники соберутся вместе, подожгут одноразовый бонг или алтарь благовоний и начнут праздновать, вдыхая дым.</SmokeCircle.descOverride>
+  <SmokeCircle.ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</SmokeCircle.ritualExpectedDesc>
+  <SmokeCircle.shortDescOverride>круг дымолиста</SmokeCircle.shortDescOverride>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PreferredXenotype.stages.preferred_xenotype.label>предпочтительный ксенотип</PreferredXenotype.stages.preferred_xenotype.label>
+  <PreferredXenotype.stages.disliked_xenotype.label>нежелательный ксенотип</PreferredXenotype.stages.disliked_xenotype.label>
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>предпочтительные ксенотипы</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>Мы построили сильное и правильное общество, в котором нет места другим ксенотипам.</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>нежелательные ксенотипы</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>Среди нас есть люди с неприемлемыми ксенотипами. Таким здесь не место.</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>нежелательные ксенотипы</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>Среди нас слишком много людей неприемлемых ксенотипов. Таким здесь не место!</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>нежелательные ксенотипы</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>Я {PAWN_gender ? окружён : окружена} людьми неприемлемых ксенотипов. Им здесь не место!</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>у меня нежелательный ксенотип</SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>Я — {XENOTYPENAME}, а это плохой ксенотип.</SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>
+</LanguageData>

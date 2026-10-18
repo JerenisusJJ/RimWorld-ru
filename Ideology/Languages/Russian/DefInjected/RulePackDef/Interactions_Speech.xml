@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SpeechUtility.rulePack.rulesStrings>
+    <li>spokeof-&gt;говорит о</li>
+    <li>spokeof-&gt;рассказывает о</li>
+    <li>spokeof-&gt;делится размышлениями о</li>
+    <li>spokeof-&gt;произносит речь о</li>
+    <li>spokeof-&gt;ведёт рассказ о</li>
+    <li>spokeof-&gt;излагает свои мысли о</li>
+    <li>praised-&gt;прославляет</li>
+    <li>praised-&gt;славословит</li>
+    <li>praised-&gt;восхваляет</li>
+    <li>praised-&gt;превозносит</li>
+    <li>praised-&gt;чествует</li>
+    <li>praised-&gt;воспевает</li>
+  </SpeechUtility.rulePack.rulesStrings>
+</LanguageData>

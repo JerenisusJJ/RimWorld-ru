@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Nomadic_Preferred.label>желание</Nomadic_Preferred.label>
+  <Nomadic_Preferred.description>Оставаясь на одном месте, мы становимся слабыми. Путешествия делают нас сильнее.</Nomadic_Preferred.description>
+  <Nomadic_Preferred.comps.0.description>Последний переезд был {DURATION} назад</Nomadic_Preferred.comps.0.description>
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.0>Только что переселились</Nomadic_Preferred.comps.0.thoughtStageDescriptions.0>
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.1>Недавно переселились</Nomadic_Preferred.comps.0.thoughtStageDescriptions.1>
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.2>Скоро нужно переселиться</Nomadic_Preferred.comps.0.thoughtStageDescriptions.2>
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.3>Необходимо переселиться в ближайшее время</Nomadic_Preferred.comps.0.thoughtStageDescriptions.3>
+</LanguageData>

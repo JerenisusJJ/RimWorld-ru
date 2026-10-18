@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mote_DuelCircle.label>Частица</Mote_DuelCircle.label>
+  <Mote_GauranlenCasteChanged.label>Частица</Mote_GauranlenCasteChanged.label>
+  <Mote_LightBall.label>Частица</Mote_LightBall.label>
+  <Mote_LightBallLights.label>Частица</Mote_LightBallLights.label>
+  <Mote_LoudspeakerLights.label>Частица</Mote_LoudspeakerLights.label>
+  <Mote_SkyLanternGlow.label>Частица</Mote_SkyLanternGlow.label>
+  <Mote_SkyLanternOuterGlow.label>Частица</Mote_SkyLanternOuterGlow.label>
+  <Mote_SkyLanternSmoke.label>Частица</Mote_SkyLanternSmoke.label>
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Assembler69.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} на сборочной линии завода, с помощью роботов собирая различные изделия.</Assembler69.description>
+  <Assembler69.title>сборщик на заводе</Assembler69.title>
+  <Assembler69.titleShort>сборщик</Assembler69.titleShort>
+  <BalletDancer81.description>{PAWN_nameDef} {PAWN_gender ? выступал : выступала : выступало} в традиционном балете. {PAWN_pronoun} {PAWN_gender ? восхищал : восхищала : восхищало} тысячи человек своими талантами в этом древнем танце.</BalletDancer81.description>
+  <BalletDancer81.title>танцор балета</BalletDancer81.title>
+  <BalletDancer81.titleShort>танцор</BalletDancer81.titleShort>
+  <Builder96.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} строителем, возводя различные сооружения, согласно указаниям начальства.</Builder96.description>
+  <Builder96.title>строитель</Builder96.title>
+  <Builder96.titleShort>строитель</Builder96.titleShort>
+  <ChurchPsychic98.description>Во взрослом возрасте {PAWN_nameDef} {PAWN_gender ? учился : училась : учился} в имперской церковной псионической школе.\n\n{PAWN_pronoun} {PAWN_gender ? тренировался : тренировалася : тренировался} воспринимать коллективные эмоции и впечатления людей, чтобы прикоснуться к духу империи, а также искоренять еретические настроения.</ChurchPsychic98.description>
+  <ChurchPsychic98.title>церковный псионик</ChurchPsychic98.title>
+  <ChurchPsychic98.titleShort>псионик</ChurchPsychic98.titleShort>
+  <CorporateDrone10.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в огромном офисном комплексе в окружении тысяч таких же непримечательных работников.\n\nСама по себе работа состояла из бесконечной организационной рутины и бессмысленных совещаний, с периодическим анализом эффективности выполненной работы.</CorporateDrone10.description>
+  <CorporateDrone10.title>офисный планктон</CorporateDrone10.title>
+  <CorporateDrone10.titleShort>планктон</CorporateDrone10.titleShort>
+  <CorporateFixer36.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} «решалой» в энергетической компании. В такой работе нужно было понимать, когда можно надавить, а когда не стоит, когда нужно отступить, а когда нанести удар. И {PAWN_nameDef} хорошо {PAWN_gender ? подходил : подходила : подходило} для неё из-за врожденного недостатка эмпатии.\n\nДаже когда применение силы не требовалось, {PAWN_pronoun} {PAWN_gender ? оставался готов : оставалась готова : оставался готов} ко всему.</CorporateFixer36.description>
+  <CorporateFixer36.title>корпоративный решала</CorporateFixer36.title>
+  <CorporateFixer36.titleShort>решала</CorporateFixer36.titleShort>
+  <HeadButler50.description>[PAWN_nameDef] {PAWN_gender ? работал старшим дворецким : работала старшей экономкой : работал старшим дворецким} при знатном семействе.\n\n{PAWN_pronoun} {PAWN_gender ? руководил : руководила : руководило} остальной прислугой и делала так, чтобы желания лорда исполнялись ещё до того, как он поймёт, чего хочет.</HeadButler50.description>
+  <HeadButler50.title>старший дворецкий</HeadButler50.title>
+  <HeadButler50.titleShort>дворецкий</HeadButler50.titleShort>
+  <HouseServant86.description>{PAWN_nameDef} {PAWN_gender ? был младшей прислугой : младшей прислугой : был младшей прислугой} при знатном семействе.\n\n{PAWN_pronoun} {PAWN_gender ? убирал : убирала : убирало} комнаты и {PAWN_gender ? переносил : переносила : переносило} вещи в соответствии с указаниями старшего персонала, пытаясь оставаться {PAWN_gender ? незамеченным : незамеченной : незамеченным} для господ и дам.</HouseServant86.description>
+  <HouseServant86.title>домашняя прислуга</HouseServant86.title>
+  <HouseServant86.titleShort>слуга</HouseServant86.titleShort>
+  <ImperialInquisitor53.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} инквизитором Имперской Церкви.\n\n{PAWN_nameDef} {PAWN_gender ? выслеживал : выслеживала : выслеживало} отступнические идеи везде, где их можно было найти: искусство, музыка, чужое поведение, и даже личные беседы. Если такие идеи находились, {PAWN_pronoun} {PAWN_gender ? раскрывал : раскрывала : раскрывало} отступников и {PAWN_gender ? предавал : предавала : предавало} их наказанию. А идеи {PAWN_pronoun} {PAWN_gender ? мог : могла : мог} найти всегда, стоило лишь пристальнее приглядеться.</ImperialInquisitor53.description>
+  <ImperialInquisitor53.title>имперский инквизитор</ImperialInquisitor53.title>
+  <ImperialInquisitor53.titleShort>инквизитор</ImperialInquisitor53.titleShort>
+  <ImperialPriest24.description>{PAWN_nameDef} {PAWN_gender ? был священником : была священницей : был священником} Имперской Церкви.\n\n{PAWN_pronoun} {PAWN_gender ? тратил : тратила : тратило} половину своего времени на изучение религиозных трудов, чтобы понять отношения между Божественным началом и обществом. Остальное время {PAWN_pronoun} {PAWN_gender ? тратил : тратила : тратило} на проповеди о зле лени и пьянства.</ImperialPriest24.description>
+  <ImperialPriest24.title>имперский священник</ImperialPriest24.title>
+  <ImperialPriest24.titleShort>священник</ImperialPriest24.titleShort>
+  <Mailman2.description>{PAWN_nameDef} {PAWN_gender ? развозил : развозила : развозило} почту. Иногда {PAWN_objective} даже поручали доставку специальных посылок в стильные корпоративные офисы и особняки.\n\n{PAWN_nameDef} неплохо {PAWN_gender ? наловчился : наловчилась : наловчился} обращаться со злыми собаками: избегать их и драться с ними.</Mailman2.description>
+  <Mailman2.title>сотрудник почты</Mailman2.title>
+  <Mailman2.titleShort>почтальон</Mailman2.titleShort>
+  <MenagerieKeeper1.description>{PAWN_nameDef} {PAWN_gender ? управлял : управляла : управляло} королевским зверинцем могущественной семьи в их поместье.\n\n{PAWN_possessive} работа заключалась в кормлении слонов, усмирении львов, и в обучении птиц показывать своё оперение титулованным посетителям.</MenagerieKeeper1.description>
+  <MenagerieKeeper1.title>смотритель зверинца</MenagerieKeeper1.title>
+  <MenagerieKeeper1.titleShort>смотритель</MenagerieKeeper1.titleShort>
+  <OrnamentMaker56.description>{PAWN_nameDef} {PAWN_gender ? изготавливал : изготавливала : изготавливало} часы, медали, обработанные украшения и другие сложные изделия для королевских покровителей.</OrnamentMaker56.description>
+  <OrnamentMaker56.title>создатель украшений</OrnamentMaker56.title>
+  <OrnamentMaker56.titleShort>ювелир</OrnamentMaker56.titleShort>
+  <PlanetaryMiner64.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} инженером-шахтёром в одной из крупнейших планетарных горнодобывающих корпораций. Работа порой держала {PAWN_possessive} под землёй неделями, поэтому {PAWN_pronoun} со временем {PAWN_gender ? полюбил : полюбила : полюбило} темноту.</PlanetaryMiner64.description>
+  <PlanetaryMiner64.title>планетарный шахтёр</PlanetaryMiner64.title>
+  <PlanetaryMiner64.titleShort>шахтёр</PlanetaryMiner64.titleShort>
+  <RoyalCook18.description>{PAWN_nameDef} {PAWN_gender ? готовил : готовила : готовило} для знатных особ.\n\nДля работы требовалось исключительное качество продуктов. {PAWN_nameDef} {PAWN_gender ? ухаживал : ухаживала : ухаживало} за небольшим садом на территории поместья, чтобы иметь доступ к самым свежим травам и овощам. Еда стала {PAWN_possessive} страстью.</RoyalCook18.description>
+  <RoyalCook18.title>придворный повар</RoyalCook18.title>
+  <RoyalCook18.titleShort>повар</RoyalCook18.titleShort>
+  <RoyalMasseuse43.description>{PAWN_nameDef} {PAWN_gender ? работал массажистом : работала массажисткой : работал массажистом} при дворе известного и знатного рода, обслуживая множество членов знатной семьи и их гостей.\n\n{PAWN_nameDef} иногда {PAWN_gender ? предлагал : предлагала : предлагало} «особенные» услуги, если лорд или леди были в соответствующем расположении духа. Совершенствование в этом роде деятельности помогало оттачивать {PAWN_objective} социальные навыки.</RoyalMasseuse43.description>
+  <RoyalMasseuse43.title>королевский массажист</RoyalMasseuse43.title>
+  <RoyalMasseuse43.titleShort>массажист</RoyalMasseuse43.titleShort>
+</LanguageData>

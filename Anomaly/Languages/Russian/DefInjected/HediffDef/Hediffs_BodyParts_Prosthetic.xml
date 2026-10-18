@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AdrenalHeart.label>адреналиновое сердце</AdrenalHeart.label>
+  <AdrenalHeart.description>Особый биоферритовый протез, позволяющий наполнять кровь упыря гормоном стресса и бодрящей эссенцией. Так в течение короткого времени упырь будет двигаться и атаковать с необычайной скоростью. Протез немного ускоряет и метаболизм упыря, что повышает его аппетит.\n\nЧеловек был бы не в силах носить этот протез. Такую страшную боль может стерпеть только упырь.</AdrenalHeart.description>
+  <CorrosiveHeart.label>разъедающее сердце</CorrosiveHeart.label>
+  <CorrosiveHeart.description>Особый биоферритовый протез, позволяющий упырю разбрызгивать едкую субстанцию. В камере сердца упыря начинает вырабатываться агрессивная кислота, которой он может плеваться.\n\nЧеловек был бы не в силах носить этот протез. Такую страшную боль может стерпеть только упырь.</CorrosiveHeart.description>
+  <FleshmassLung.label>лёгкое из биомассы</FleshmassLung.label>
+  <FleshmassLung.description>Злокачественная биомасса с зачатками разума. Её ткани непрерывно перерождаются, вырабатывая иммунитет к трупной чахотке и астме.\n\nОрган обладает собственной нейронной сетью и может представлять угрозу в случае удаления.</FleshmassLung.description>
+  <FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>Операция на биомассе</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>{PAWN_nameDef} плохо {PAWN_gender ? перенёс : перенесла} операцию. Попытка удалить лёгкое из биомассы обернулась нападением. Извивающийся комок плоти отделился от носителя и превратился в биошмата!</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>
+  <FleshmassLung.labelNoun>лёгкое из биомассы</FleshmassLung.labelNoun>
+  <FleshmassStomach.label>желудок из биомассы</FleshmassStomach.label>
+  <FleshmassStomach.description>Злокачественная биомасса с зачатками разума. Агрессивная кислота внутри неё вызывает боль, но способна предотвратить почти любое пищевое отравление.\n\nОрган обладает собственной нейронной сетью и может представлять угрозу в случае удаления.</FleshmassStomach.description>
+  <FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>Операция на биомассе</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>{PAWN_nameDef} плохо {PAWN_gender ? перенёс : перенесла} операцию. Попытка удалить желудок из биомассы обернулась нападением. Извивающийся комок плоти отделился от носителя и превратился в биошмата!</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>
+  <FleshmassStomach.labelNoun>желудок из биомассы</FleshmassStomach.labelNoun>
+  <FleshWhip.label>хлыст из биомассы</FleshWhip.label>
+  <FleshWhip.description>Развитое мясистое щупальце с лезвием на конце — прекрасное оружие ближнего боя.\n\nОбладает собственной нейронной сетью и может представлять угрозу в случае удаления.</FleshWhip.description>
+  <FleshWhip.comps.HediffComp_VerbGiver.tools.blade.label>лезвие</FleshWhip.comps.HediffComp_VerbGiver.tools.blade.label>
+  <FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>Операция на биомассе</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>{PAWN_nameDef} плохо {PAWN_gender ? перенёс : перенесла} операцию. Попытка удалить хлыст из биомассы обернулась нападением. Извивающийся комок плоти отделился от носителя и превратился в биошмата!</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>
+  <FleshWhip.labelNoun>хлыст из биомассы</FleshWhip.labelNoun>
+  <GhoulBarbs.label>шипы упыря</GhoulBarbs.label>
+  <GhoulBarbs.description>Несколько колючих биоферритовых шипов, которые можно вживить упырю. Они значительно увеличивают силу в ближнем бою, но снижают подвижность и замедляют.\n\nЧеловек был бы не в силах носить этот протез. Такую страшную боль может стерпеть только упырь.</GhoulBarbs.description>
+  <GhoulBarbs.renderNodeProperties.0.debugLabel>Шипы упыря</GhoulBarbs.renderNodeProperties.0.debugLabel>
+  <GhoulBarbs.renderNodeProperties.1.debugLabel>Шипы упыря</GhoulBarbs.renderNodeProperties.1.debugLabel>
+  <GhoulPlating.label>пластины упыря</GhoulPlating.label>
+  <GhoulPlating.description>Уязвимые части тела упыря можно защитить, вживив ему биоферритовые пластины. Они сильно снижают получаемый урон, но при этом замедляют носителя.\n\nЧеловек был бы не в силах носить этот протез. Такую страшную боль может стерпеть только упырь.</GhoulPlating.description>
+  <GhoulPlating.renderNodeProperties.0.debugLabel>пластины упыря</GhoulPlating.renderNodeProperties.0.debugLabel>
+  <MetalbloodHeart.label>сердце с железной кровью</MetalbloodHeart.label>
+  <MetalbloodHeart.description>Особый биоферритовый протез, который забрасывает в кровоток упыря небольшое количество железной крови. Это ненадолго повышает его сопротивление к урону. Железная кровь также делает её обладателя более восприимчивым к огню. Из-за этого протеза сильно опухает тело, и упырь замедляется.\n\nЧеловек был бы не в силах носить этот протез. Такую страшную боль может стерпеть только упырь.</MetalbloodHeart.description>
+  <RevenantVertebrae.label>позвонки ревенанта</RevenantVertebrae.label>
+  <RevenantVertebrae.description>Протез позвоночника, дающий временную невидимость. Изготовлен из модифицированного позвоночника ревенанта и сдерживает спящего донора архо-осколками. Протез позволяет воздействовать на зрительные центры тех, кто находится рядом, и на короткое время становиться для них невидимым.</RevenantVertebrae.description>
+  <Tentacle.label>щупальце из биомассы</Tentacle.label>
+  <Tentacle.description>Это развитое мясистое щупальце — результат частичного превращения в биошмата. Им очень удобно управлять.\n\nЩупальце из биомассы обладает собственной нейронной сетью и может представлять угрозу в случае удаления.</Tentacle.description>
+  <Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>Операция на биомассе</Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>{PAWN_nameDef} плохо {PAWN_gender ? перенёс : перенесла} операцию. Попытка удалить щупальце из биомассы обернулась нападением. Извивающийся комок плоти отделился от носителя и превратился в биошмата!</Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>
+  <Tentacle.labelNoun>щупальце из биомассы</Tentacle.labelNoun>
+</LanguageData>

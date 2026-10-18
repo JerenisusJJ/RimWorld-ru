@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BroadshieldProjector.label>установленный барьерный проектор</BroadshieldProjector.label>
+  <BroadshieldProjector.description>Переносной одноразовый проектор защитного барьера ограниченной высоты. Защитное поле перехватывает пули извне, при этом позволяя вести огонь изнутри. Проектор выгорает и выходит из строя через несколько секунд работы.</BroadshieldProjector.description>
+  <BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>Выйдет из строя через</BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>
+</LanguageData>

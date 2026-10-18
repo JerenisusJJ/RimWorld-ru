@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apparel_PackBroadshield.label>переносной барьерный проектор</Apparel_PackBroadshield.label>
+  <Apparel_PackBroadshield.description>Переносной одноразовый проектор защитного барьера. Развёртывается на земле и создаёт поле, не пропускающее пули извне. Генератор предназначен для непродолжительного периода работы, после чего выходит из строя.\n\nМногие боевые отряды с высокотехнологичных миров обязаны своими жизнями этому устройству, активированному в правильный момент.</Apparel_PackBroadshield.description>
+  <Apparel_PackBroadshield.comps.CompApparelReloadable.chargeNoun>щит</Apparel_PackBroadshield.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_PackBroadshield.comps.CompApparelReloadable.cooldownGerund>перезаряжается</Apparel_PackBroadshield.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_PackBroadshield.verbs.deploy_lowshield.label>активировать барьер</Apparel_PackBroadshield.verbs.deploy_lowshield.label>
+  <Apparel_PackJump.label>прыжковый ранец</Apparel_PackJump.label>
+  <Apparel_PackJump.description>Переносной прыжковый ранец для полётов на короткие расстояния. Интегрированная настраиваемая система креплений и система управления полётом помогают совершать длинные прыжки на высокой скорости даже через препятствия. После нескольких применений требует перезарядки.\n\nВ армиях некоторых высокотехнологичных миров есть специалисты ближнего боя, использующие данное устройство для стремительного сближения с противником в обход препятствий.</Apparel_PackJump.description>
+  <Apparel_PackJump.comps.CompApparelReloadable.chargeNoun>прыжок</Apparel_PackJump.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_PackJump.comps.CompApparelReloadable.cooldownGerund>перезаряжается</Apparel_PackJump.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_PackJump.verbs.jump.label>совершить прыжок</Apparel_PackJump.verbs.jump.label>
+</LanguageData>

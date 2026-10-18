@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] место расположения коллекции ценных предметов стоимостью [itemStashContentsValue]. Коллекция состоит из:\n\n[itemStashContents]\n\nПохоже, что [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+    <li>questName-&gt;[stash] из [treasure]</li>
+    <li>stash-&gt;Тайник</li>
+    <li>stash-&gt;Схрон</li>
+    <li>stash-&gt;Коллекция</li>
+    <li>stash-&gt;Хижина</li>
+    <li>treasure-&gt;Сокровища</li>
+    <li>treasure-&gt;Ценности</li>
+    <li>treasure-&gt;Добыча</li>
+    <li>treasure-&gt;Добро</li>
+    <li>treasure-&gt;Припасы</li>
+  </OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+    <li>subject-&gt;тайники с добычей</li>
+    <li>subject-&gt;секретные сокровища</li>
+    <li>subject-&gt;ценности</li>
+    <li>questMapFeature-&gt;рисунок сундука с сокровищами</li>
+    <li>questMapFeature-&gt;хижина с припасами</li>
+    <li>questMapText-&gt;секретный тайник с предметами</li>
+    <li>questMapText-&gt;добыча здесь</li>
+    <li>questMapText-&gt;спрятанные ценности</li>
+  </OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>Срок задания истек: [resolvedQuestName]</OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>Судя по перехваченным сообщениям, содержимым схрона завладел кто-то другой. Время, отведенное для задания «[resolvedQuestName]», истекло.</OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>
+</LanguageData>

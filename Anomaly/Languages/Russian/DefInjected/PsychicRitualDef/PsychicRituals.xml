@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BloodRain.label>Кровавый дождь</BloodRain.label>
+  <BloodRain.description>Ритуал, который вызывает дождь из психоактивной жидкости, похожей на кровь. Эта жидкость постепенно доводит попавших под неё людей и животных до безумной ярости. На эффект влияют черты характера и психочувствительность.</BloodRain.description>
+  <BloodRain.outcomeDescription>Учитывая качество ритуала, кровавый дождь продлится {0}.</BloodRain.outcomeDescription>
+  <Brainwipe.label>Зачистка памяти</Brainwipe.label>
+  <Brainwipe.description>Стирает память человека. Позволяет ему оставить в прошлом психологические травмы. Пленники забывают о своей фракции, и их становится проще завербовать, даже если раньше их верность была непоколебимой. Обесчеловеченные забывают о своей связи с пустотой. К сожалению, побочный эффект ритуала — кома, которая может оказаться длительной, особенно если ритуал плохого качества.</Brainwipe.description>
+  <Brainwipe.outcomeDescription>Учитывая качество ритуала, кома продлится {0}.</Brainwipe.outcomeDescription>
+  <Chronophagy.label>Хронофагия</Chronophagy.label>
+  <Chronophagy.description>С помощью таинственных архотехнологий ритуал переносит энтропию с одного человека на другого. Вызывает ускоренное старение цели и омоложение заклинателя. Способен избавить заклинателя от шрамов и возрастных болезней. Вызывает у цели повреждение мозга, в результате которого та впадает в кому на несколько дней.</Chronophagy.description>
+  <Chronophagy.outcomeDescription>{replace: {0} лет; «22 лет»-«22 года»; «23 лет»-«23 года»; «24 лет»-«24 года»; «32 лет»-«32 года»; «33 лет»-«33 года»; «34 лет»-«34 года»}Учитывая качество ритуала, заклинатель станет на {0} {0_numCase ? год : года : лет} моложе, а цель — на {1} {0_numCase ? год : года : лет} старше.</Chronophagy.outcomeDescription>
+  <ImbueDeathRefusal.label>Создание лекарства от смерти</ImbueDeathRefusal.label>
+  <ImbueDeathRefusal.description>Связывает цель с далёким архотехнологическим агрегатом, способным воскресить её после смерти за считанные секунды. Впрочем, процесс не без побочных эффектов.</ImbueDeathRefusal.description>
+  <ImbueDeathRefusal.outcomeDescription>Учитывая качество ритуала, навыки цели ухудшатся на {0} ед.</ImbueDeathRefusal.outcomeDescription>
+  <NeurosisPulse.label>Волна невроза</NeurosisPulse.label>
+  <NeurosisPulse.description>Ритуал испускает мощный псионный импульс, который заставляет всех психочувствительных людей в регионе работать быстрее, но делает их более раздражительными. Попавшие под воздействие будут испытывать меньшую потребность в развлечениях, но у них ухудшится настроение, и они станут сильнее подвержены нервным срывам. Этот эффект заменяет эффекты всех остальных активных импульсов.</NeurosisPulse.description>
+  <NeurosisPulse.outcomeDescription>Учитывая качество ритуала, эффект продлится {0}.</NeurosisPulse.outcomeDescription>
+  <Philophagy.label>Филофагия</Philophagy.label>
+  <Philophagy.description>Этот ритуал извлекает из разума жертвы жизненный опыт и передаёт его заклинателю, нацеливаясь на самый развитый навык жертвы. Цель получает повреждение мозга, в результате которого впадает в кому на несколько дней.</Philophagy.description>
+  <Philophagy.outcomeDescription>Учитывая качество ритуала, заклинатель похитит {0} ед. опыта цели в её лучшем навыке.</Philophagy.outcomeDescription>
+  <PleasurePulse.label>Волна удовольствия</PleasurePulse.label>
+  <PleasurePulse.description>Испускает мощный псионный импульс, который делает всех психочувствительных людей в регионе счастливее, но снижает их желание работать. Этот эффект заменяет эффекты всех остальных активных импульсов.</PleasurePulse.description>
+  <PleasurePulse.outcomeDescription>Учитывая качество ритуала, эффект продлится {0}.</PleasurePulse.outcomeDescription>
+  <Psychophagy.label>Психофагия</Psychophagy.label>
+  <Psychophagy.description>Поглощает психочувствительность цели, на определенный период увеличивая психочувствительность заклинателя. Эффект не суммируется. Цель получает повреждение мозга, в результате которого впадает в кому на несколько дней.</Psychophagy.description>
+  <Psychophagy.outcomeDescription>Учитывая качество ритуала, эффект продлится {0}.</Psychophagy.outcomeDescription>
+  <SkipAbduction.label>Похищение телепортацией</SkipAbduction.label>
+  <SkipAbduction.description>Телепортирует случайного выбранного враждебного человека в место ритуала и ввергает его в кому.</SkipAbduction.description>
+  <SkipAbduction.letterAIArrivedText>Одного из поселенцев собираются похитить телепортацией с помощью псионического ритуала.</SkipAbduction.letterAIArrivedText>
+  <SkipAbduction.letterAICompleteLabel>Похищение телепортацией</SkipAbduction.letterAICompleteLabel>
+  <SkipAbduction.letterAICompleteText>{PAWN_nameDef} {PAWN_gender ? стал : стала} жертвой сектантов! {PAWN_possessive} похитили.</SkipAbduction.letterAICompleteText>
+  <SkipAbduction.outcomeDescription>Цель телепортируется к заклинателю и впадёт в кому.</SkipAbduction.outcomeDescription>
+  <SkipAbductionPlayer.label>Похищение телепортацией</SkipAbductionPlayer.label>
+  <SkipAbductionPlayer.description>Похищает случайного выбранного враждебного человека из любого места в мире, ставя в приоритет тех, кто ближе. Ритуал с помощью тёмных архотехнологий создаёт искажение пространства-времени и телепортирует жертву в центр ритуального круга. Из-за переноса цель ненадолго впадает в кому.</SkipAbductionPlayer.description>
+  <SkipAbductionPlayer.outcomeDescription>Учитывая качество ритуала, кома продлится {0}.</SkipAbductionPlayer.outcomeDescription>
+  <SummonAnimals.label>Привлечение животных</SummonAnimals.label>
+  <SummonAnimals.description>Создаёт псионный импульс, на который сбегаются животные. На этих животных можно охотиться, среди прочего. Неудачно проведённый ритуал доводит животных до безумия.</SummonAnimals.description>
+  <SummonAnimals.outcomeDescription>Учитывая качество ритуала, животные станут агрессивными с {0} вероятностью.</SummonAnimals.outcomeDescription>
+  <SummonFleshbeasts.label>Привлечение биошматов</SummonFleshbeasts.label>
+  <SummonFleshbeasts.description>Создаёт псионный импульс, от которого биошматы начинают лезть из земли рядом с вашими врагами. Нападать они будут на всех подряд — и на врагов, и на союзников. Биошматов можно ловить и изучать, либо же забивать на мясо, хотя вид у этого мяса жуткий и искрученный.</SummonFleshbeasts.description>
+  <SummonFleshbeasts.letterAIArrivedText>На вас собираются натравить ужасных биошматов с помощью псионического ритуала.</SummonFleshbeasts.letterAIArrivedText>
+  <SummonFleshbeasts.letterAICompleteLabel>Появление биошматов</SummonFleshbeasts.letterAICompleteLabel>
+  <SummonFleshbeasts.letterAICompleteText>Биошматы вырываются из-под земли. Готовьтесь к их нападению!</SummonFleshbeasts.letterAICompleteText>
+  <SummonFleshbeasts.outcomeDescription>Создаёт псионный импульс, который привлекает орду биошматов.</SummonFleshbeasts.outcomeDescription>
+  <SummonFleshbeastsPlayer.label>Привлечение биошматов</SummonFleshbeastsPlayer.label>
+  <SummonFleshbeastsPlayer.description>Создаёт псионный импульс, от которого биошматы начинают лезть из земли рядом с вашими врагами. Нападать они будут на всех подряд — и на врагов, и на союзников. Биошматов можно ловить и изучать, либо же забивать на мясо, хотя вид у этого мяса жуткий и искрученный.</SummonFleshbeastsPlayer.description>
+  <SummonFleshbeastsPlayer.outcomeDescription>Ритуал более высокого качества привлечёт больше биошматов.</SummonFleshbeastsPlayer.outcomeDescription>
+  <SummonPitGate.label>Создание хтонических врат</SummonPitGate.label>
+  <SummonPitGate.description>С помощью псионного импульса провоцирует биошматов вырыть где-нибудь рядом хтонические врата. Этот огромный провал — вход в пещеру, забитую биошматами. Там могут найтись ресурсы.</SummonPitGate.description>
+  <SummonPitGate.outcomeDescription>Ритуал более высокого качества привлечёт больше биошматов. Биошматов можно ловить и изучать, либо же забивать на мясо, хотя вид у него странный и искрученный.</SummonPitGate.outcomeDescription>
+  <SummonShamblers.label>Призыв шамблеров</SummonShamblers.label>
+  <SummonShamblers.description>Создаёт псионный импульс, на который сходится толпа оживших трупов. Хотя они будут нападать на всех людей, которых увидят, атаковать ваше поселение напрямую они не станут. Их можно будет ловить и изучать.</SummonShamblers.description>
+  <SummonShamblers.outcomeDescription>Чем выше качество ритуала, тем больше шамблеров будет призвано.</SummonShamblers.outcomeDescription>
+  <VoidProvocation.label>Воззвание к пустоте</VoidProvocation.label>
+  <VoidProvocation.description>Устанавливает псионическую связь с пустотой и призывает в наш мир тварь, которую можно поймать и изучить. Есть вероятность того, что заклинатель впадёт в кому на несколько часов.</VoidProvocation.description>
+  <VoidProvocation.outcomeDescription>Учитывая качество ритуала, вероятность получения заклинателем тёмного пси-шока составляет {0}.</VoidProvocation.outcomeDescription>
+</LanguageData>

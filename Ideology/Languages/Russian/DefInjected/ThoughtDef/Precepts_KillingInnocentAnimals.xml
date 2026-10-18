@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>убито невинное животное ({0})</KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>
+  <KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>Мне пришлось убить невинное животное. Я {PAWN_gender ? сделал : сделала} то, что {PAWN_gender ? сам : сама} не одобряю.</KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>
+  <KilledInnocentAnimal_Horrible.stages.killed_innocent.label>убито невинное животное ({0})</KilledInnocentAnimal_Horrible.stages.killed_innocent.label>
+  <KilledInnocentAnimal_Horrible.stages.killed_innocent.description>Мне пришлось убить невинное животное. Это почти то же самое, что и убить человека.</KilledInnocentAnimal_Horrible.stages.killed_innocent.description>
+  <KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.label>убил(а) невинное животное</KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.label>
+  <KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.labelSocial>{OTHERPAWN_gender ? убил : убила} невинное животное</KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.labelSocial>
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.label>убито невинное животное</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.label>
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.description>Один из нас убил очаровательное, невинное животное! Это так же жестоко, как и убить невиновного человека!</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.description>
+  <KilledInnocentAnimal_Know_Disapproved.stages.killed_innocent_animal.label>убил(а) невинное животное</KilledInnocentAnimal_Know_Disapproved.stages.killed_innocent_animal.label>
+  <KilledInnocentAnimal_Know_Disapproved.stages.killed_innocent_animal.labelSocial>{OTHERPAWN_gender ? убил : убила} невинное животное</KilledInnocentAnimal_Know_Disapproved.stages.killed_innocent_animal.labelSocial>
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.label>убито невинное животное</KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.label>
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.description>Один из нас убил невинное животное. Я такое не одобряю.</KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.description>
+  <KilledInnocentAnimal_Know_Horrible.stages.killed_innocent_animal.label>убил(а) невинное животное</KilledInnocentAnimal_Know_Horrible.stages.killed_innocent_animal.label>
+  <KilledInnocentAnimal_Know_Horrible.stages.killed_innocent_animal.labelSocial>{OTHERPAWN_gender ? убил : убила} невинное животное</KilledInnocentAnimal_Know_Horrible.stages.killed_innocent_animal.labelSocial>
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.label>убито невинное животное</KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.label>
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.description>Один из нас убил невинное животное. Это ужасно.</KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.description>
+</LanguageData>

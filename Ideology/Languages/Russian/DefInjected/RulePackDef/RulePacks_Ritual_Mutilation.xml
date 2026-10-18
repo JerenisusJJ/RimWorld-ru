@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerRitualMutilation.rulePack.rulesStrings>
+    <li>r_ritualName-&gt;[ritNoun] [keyDeity]</li>
+    <li>r_ritualName-&gt;[ritNoun] [chosenTheme]</li>
+    <li>r_ritualName-&gt;[ritNoun] [memeConcept]</li>
+    <li>r_ritualName-&gt;[memeAdjective_neutral] [ritNoun]</li>
+    <li>ritNoun-&gt;калечение</li>
+    <li>ritNoun-&gt;изрезание</li>
+    <li>ritNoun-&gt;иссечение</li>
+    <li>ritNoun-&gt;обдирание</li>
+    <li>ritNoun-&gt;разрывание</li>
+    <li>ritNoun-&gt;кромсание</li>
+    <li>ritNoun-&gt;надсекание</li>
+    <li>ritNoun-&gt;надрывание</li>
+  </NamerRitualMutilation.rulePack.rulesStrings>
+</LanguageData>

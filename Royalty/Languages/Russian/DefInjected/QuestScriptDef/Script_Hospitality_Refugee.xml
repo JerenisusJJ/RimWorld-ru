@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Hospitality_Refugee.questContentRules.rulesStrings>
+    <li>lodgersArriveLetterLabel-&gt;[lodgersLabelSingularOrPlural] [arrived]</li>
+    <li>lodgersArriveLetterText-&gt;[lodgersSingularOrPluralDef] [arrived]. [lodgersPronoun] [willStay] у вас на [questDurationTicks_duration], чтобы набраться сил и собраться в дальнейший путь.</li>
+    <li>questOver-&gt;Задание «[resolvedQuestName]» завершено.</li>
+    <li>lodgerDiedMemoryThoughtLetterLabel-&gt;[lodgersLabel] [died]: злость</li>
+    <li>lodgerDiedMemoryThoughtLetterText-&gt;[letterIntroDeath]\n\n[appalledButNoAction]</li>
+    <li>lodgerDiedAttackPlayerLetterLabel-&gt;[lodgersLabel] [died]: месть</li>
+    <li>lodgerDiedAttackPlayerLetterText-&gt;[letterIntroDeath]\n\n[turnedViolent]</li>
+    <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] [died]: уход</li>
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>lodgersAllDiedLetterLabel-&gt;Задание провалено</li>
+    <li>lodgersAllDiedLetterText-&gt;{SUBJECT_definite}, [lastOfTheDesperateLodgers], {SUBJECT_gender ? погиб : погибла}.\n\n[questOver]</li>
+    <li>lodgerArrestedMemoryThoughtLetterLabel-&gt;[lodgersLabel] [arrested]: злость</li>
+    <li>lodgerArrestedMemoryThoughtLetterText-&gt;[letterIntroArrested]\n\n[appalledButNoAction]</li>
+    <li>lodgerArrestedAttackPlayerLetterLabel-&gt;[lodgersLabel] [arrested]: месть</li>
+    <li>lodgerArrestedAttackPlayerLetterText-&gt;[letterIntroArrested]\n\n[turnedViolent]</li>
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] [arrested]: уход</li>
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>lodgersAllArrestedLetterLabel-&gt;Задание провалено</li>
+    <li>lodgersAllArrestedLetterText-&gt;{SUBJECT_definite}, [lastOfTheDesperateLodgers], {SUBJECT_gender ? арестован : арестована}.\n\n[questOver]</li>
+    <li>lodgerLeftBehindMemoryThoughtLetterLabel-&gt;[lodgersLabel] [leftBehind]: злость</li>
+    <li>lodgerLeftBehindMemoryThoughtLetterText-&gt;[letterIntroLeftBehind]\n\n[appalledButNoAction]</li>
+    <li>lodgerLeftBehindLeaveMapLetterLabel-&gt;[lodgersLabel] [leftBehind]: уход</li>
+    <li>lodgerLeftBehindLeaveMapLetterText-&gt;[letterIntroLeftBehind]\n\n[decidedToLeave]</li>
+    <li>lodgerViolatedMemoryThoughtLetterLabel-&gt;Недопустимое действие над беженцем: злость</li>
+    <li>lodgerViolatedMemoryThoughtLetterText-&gt;[letterIntroViolated]\n\n[appalledButNoAction]</li>
+    <li>lodgerViolatedAttackPlayerLetterLabel-&gt;Недопустимое действие над беженцем: месть</li>
+    <li>lodgerViolatedAttackPlayerLetterText-&gt;[letterIntroViolated]\n\n[turnedViolent]</li>
+    <li>lodgerViolatedLeaveMapLetterLabel-&gt;Недопустимое действие над беженцем: уход</li>
+    <li>lodgerViolatedLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroPsychicRitualTarget-&gt;{SUBJECT_definite}, [oneOfTheDesperateLodgers], {SUBJECT_gender ? стал : стала} объектом психического ритуала.</li>
+    <li>lodgerPsychicRitualTargetMemoryThoughtLetterLabel-&gt;Недопустимое действие над беженцем: злость</li>
+    <li>lodgerPsychicRitualTargetMemoryThoughtLetterText-&gt;[letterIntroPsychicRitualTarget]\n\n[appalledButNoAction]</li>
+    <li>lodgerPsychicRitualTargetAttackPlayerLetterLabel-&gt;Недопустимое действие над беженцем: месть</li>
+    <li>lodgerPsychicRitualTargetAttackPlayerLetterText-&gt;[letterIntroPsychicRitualTarget]\n\n[turnedViolent]</li>
+    <li>lodgerPsychicRitualTargetLeaveMapLetterLabel-&gt;Недопустимое действие над беженцем: уход</li>
+    <li>lodgerPsychicRitualTargetLeaveMapLetterText-&gt;[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <li>mutinyLetterLabel-&gt;Предательство</li>
+    <li>mutinyLetterText-&gt;[lodgersSingularOrPluralDef], [whoAskedToStay], [turnedAgainst] против вас!\n\nКажется, [lodgersPronoun] заранее [planned] своё предательство.</li>
+    <li>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] [leaving]</li>
+    <li>lodgersLeavingLetterText-&gt;{FACTION_leaderNameDef} благодарит вас за разрешение остаться в [map_definite] в течение этих [questDurationTicks_duration]. Теперь {FACTION_leaderPronoun} отправится со своими людьми дальше в путь.\n\n{FACTION_leaderNameDef} говорит, что не забудет то, что вы для них сделали.</li>
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfTheDesperateLodgers], {SUBJECT_gender ? погиб : погибла}.</li>
+    <li>letterIntroArrested-&gt;{SUBJECT_definite}, [oneOfTheDesperateLodgers], {SUBJECT_gender ? арестован : арестована}.</li>
+    <li>letterIntroLeftBehind-&gt;{SUBJECT_definite}, [oneOfTheDesperateLodgers], {SUBJECT_gender ? оставлен : оставлена} на произвол судьбы.</li>
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfTheDesperateLodgers], {SUBJECT_gender ? был подвергнут : была подвергнута} несогласованному, надругательскому хирургическому вмешательству.</li>
+    <li>appalledButNoAction-&gt;{PAWNSALIVECOUNT_multiple ? остальные, кажется, : оставшийся [lodgersLabel]} в ужасе, но ничего делать по этому поводу не {PAWNSALIVECOUNT_multiple ? собираются : собирается}.</li>
+    <li>turnedViolent-&gt;[othersWillNotAccept] и {PAWNSALIVECOUNT_multiple ? становятся вашими врагами : становится вашим врагом}.</li>
+    <li>decidedToLeave-&gt;[othersWillNotAccept] и {PAWNSALIVECOUNT_multiple ? решают : решает} покинуть вас.</li>
+    <li>othersWillNotAccept-&gt;{PAWNSALIVECOUNT_multiple ? остальные : оставшийся [lodgersLabel]} {PAWNSALIVECOUNT_multiple ? отказываются : отказывается} с этим мириться</li>
+    <li>oneOfTheDesperateLodgers(lodgerCount==1)-&gt;[theDesperateLodger]</li>
+    <li>oneOfTheDesperateLodgers(lodgerCount&gt;=2)-&gt;{SUBJECT_gender ? один : одна} из отчаянных [lodgersLabelPluralGen], [whoAskedToStay]</li>
+    <li>lastOfTheDesperateLodgers(lodgerCount==1)-&gt;[theDesperateLodger]</li>
+    <li>lastOfTheDesperateLodgers(lodgerCount&gt;=2)-&gt;{SUBJECT_gender ? последний : последняя} из отчаянных [lodgersLabelPluralGen], [whoAskedToStay]</li>
+    <li>theDesperateLodger(lodgers0_gender==Male)-&gt;отчаянный [lodgersLabel], [whoAskedToStay]</li>
+    <li>theDesperateLodger(lodgers0_gender==Female)-&gt;отчаянная [lodgersLabel], [whoAskedToStay]</li>
+    <li>whoAskedToStay(lodgerCount==1,lodgers0_gender==Male)-&gt;который просил разрешения остаться у вас</li>
+    <li>whoAskedToStay(lodgerCount==1,lodgers0_gender==Female)-&gt;которая просила разрешения остаться у вас</li>
+    <li>whoAskedToStay(lodgerCount&gt;=2)-&gt;которые просили разрешения остаться у вас</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)-&gt;[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>turnedAgainst(lodgerCount==1,lodgers0_gender==Male)-&gt;обернулся</li>
+    <li>turnedAgainst(lodgerCount==1,lodgers0_gender==Female)-&gt;обернулась</li>
+    <li>turnedAgainst(lodgerCount&gt;=2)-&gt;обернулись</li>
+    <li>planned(lodgerCount==1,lodgers0_gender==Male)-&gt;спланировал</li>
+    <li>planned(lodgerCount==1,lodgers0_gender==Female)-&gt;спланировала</li>
+    <li>planned(lodgerCount&gt;=2)-&gt;спланировали</li>
+    <li>arrived(lodgerCount==1,lodgers0_gender==Male)-&gt;прибыл</li>
+    <li>arrived(lodgerCount==1,lodgers0_gender==Female)-&gt;прибыла</li>
+    <li>arrived(lodgerCount&gt;=2)-&gt;прибыли</li>
+    <li>willStay(lodgerCount==1)-&gt;останется</li>
+    <li>willStay(lodgerCount&gt;=2)-&gt;останутся</li>
+    <li>wasViolated(lodgers0_gender==Male)-&gt;был подвергнут</li>
+    <li>wasViolated(lodgers0_gender==Female)-&gt;была подвергнута</li>
+    <li>died(lodgerCount==1,lodgers0_gender==Male)-&gt;погиб</li>
+    <li>died(lodgerCount==1,lodgers0_gender==Female)-&gt;погибла</li>
+    <li>died(lodgerCount&gt;=2)-&gt;погибли</li>
+    <li>arrested(lodgerCount==1,lodgers0_gender==Male)-&gt;арестован</li>
+    <li>arrested(lodgerCount==1,lodgers0_gender==Female)-&gt;арестована</li>
+    <li>arrested(lodgerCount&gt;=2)-&gt;арестованы</li>
+    <li>leftBehind(lodgerCount==1,lodgers0_gender==Male)-&gt;оставлен на произвол судьбы</li>
+    <li>leftBehind(lodgerCount==1,lodgers0_gender==Female)-&gt;оставлена на произвол судьбы</li>
+    <li>leftBehind(lodgerCount&gt;=2)-&gt;оставлены на произвол судьбы</li>
+    <li>leaving(lodgerCount==1)-&gt;уходит</li>
+    <li>leaving(lodgerCount&gt;=2)-&gt;уходят</li>
+    <li>areIs(lodgerCount==1)-&gt;находится</li>
+    <li>areIs(lodgerCount&gt;=2)-&gt;находятся</li>
+  </Hospitality_Refugee.questContentRules.rulesStrings>
+  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel(lodgers0_gender==Male)-&gt;беженец</li>
+    <li>lodgersLabel(lodgers0_gender==Female)-&gt;беженка</li>
+    <li>lodgersLabelPlural-&gt;беженцы</li>
+    <li>lodgersLabelGen(lodgers0_gender==Male)-&gt;беженца</li>
+    <li>lodgersLabelGen(lodgers0_gender==Female)-&gt;беженки</li>
+    <li>lodgersLabelPluralGen-&gt;беженцев</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Male)-&gt;беженца</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Female)-&gt;беженку</li>
+    <li>lodgersLabelPluralAcc-&gt;беженцев</li>
+  </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings>
+    <li>offer(lodgerCount==1)-&gt;будет</li>
+    <li>offer(lodgerCount&gt;=2)-&gt;будут</li>
+    <li>lodgersPronoun(lodgerCount==1)-&gt;[asker_pronoun]</li>
+    <li>lodgersPronoun(lodgerCount&gt;=2)-&gt;они</li>
+    <li>lodgersPreposition(lodgerCount==1)-&gt;[asker_objective]self</li>
+    <li>lodgersPreposition(lodgerCount&gt;=2)-&gt;themselves</li>
+    <li>lodgersObjective(lodgerCount==1)-&gt;[asker_objective]</li>
+    <li>lodgersObjective(lodgerCount&gt;=2)-&gt;им</li>
+    <li>lodgersPossessive(lodgerCount==1)-&gt;[asker_possessive]</li>
+    <li>lodgersPossessive(lodgerCount&gt;=2)-&gt;их</li>
+    <li>lodgersSingularOrPluralDef(lodgerCount==1)-&gt;[asker_nameDef]</li>
+    <li>lodgersSingularOrPluralDef(lodgerCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>questDescription-&gt;[approachInfo] [claimInfo] [asker_nameDef] умоляет вас разрешить [lodgersObjective] остаться в [map_definite] на [questDurationTicks_duration], чтобы [lodgersPronoun] [could] отдохнуть и собраться в дальнейший путь.\n\nВзамен [lodgersPronoun] [offer] помогать вашим поселенцам и сражаться на вашей стороне.\n\n[joinInfo] [lodgersPronoun] так же [can] вознаградить вас за помощь в будущем, но никто не знает, какие у н[lodgersPossessive] истинные намерения.\n\n[travelerInfo] к какой-либо фракции. Если вы хотите, вы можете убить, арестовать, продать в рабство или пустить [lodgersPossessive] на органы без каких-либо дипломатических последствий.</li>
+    <li>could(lodgerCount==1,lodgers0_gender==Male)-&gt;мог</li>
+    <li>could(lodgerCount==1,lodgers0_gender==Female)-&gt;могла</li>
+    <li>could(lodgerCount&gt;=2)-&gt;могли</li>
+    <li>can(lodgerCount==1)-&gt;может</li>
+    <li>can(lodgerCount&gt;=2)-&gt;могут</li>
+    <li>approachInfo(lodgerCount==1)-&gt;Приближается отчаянный [faction_pawnSingular] по имени [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount==2)-&gt;Приближаются [asker_nameDef] и ещё один отчаянный [faction_pawnSingular].</li>
+    <li>approachInfo(lodgerCount==2,childCount==1,priority=1)-&gt;Приближается [asker_nameDef] с ребёнком.</li>
+    <li>approachInfo(lodgerCount&gt;=3)-&gt;Приближаются отчаянные [faction_pawnsPlural] в количестве [lodgerCount] человек. Их ведёт [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount&gt;=3,childCount==1,priority=1)-&gt;Приближаются отчаянные [faction_pawnsPlural] с ребёнком, в количестве [lodgerCount] человек. Их ведёт [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount&gt;=3,childCount&gt;=2,priority=1)-&gt;Приближаются отчаянные [faction_pawnsPlural] с детьми, в количестве [lodgerCount] человек. Их ведёт [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount&gt;=3,allButOneChildren==true,priority=2)-&gt;Приближаются отчаянные [faction_pawnsPlural]: [asker_nameDef] и [lodgersCountMinusOne] детей, которых [asker_pronoun] [taken] под своё крыло.</li>
+    <li>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] утверждает, что [hasLost] своего дома после недавнего нападения.</li>
+    <li>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] говорит, что, проснувшись от криптосна, [appearedAlone].</li>
+    <li>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] говорит, что бежит из дома от [exLover].</li>
+    <li>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] утверждает, что [asker_possessive] изгнали из деревни из-за спора со старейшиной.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Они утверждают, что лишились дома после недавнего нападения.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Они утверждают, что чудом избежали операции по изъятию органов.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Они говорят, что сбежали из каравана работорговцев.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Они говорят, что покинули свою деревню, после того как болезнь растений уничтожила их урожай.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Они говорят, что их дом сгорел из-за грозового шторма.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Они говорят, что на их караван напали разбойники и отобрали весь груз.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Они говорят, что их выгнали из их города из-за конфликта с властями.</li>
+    <li>joinInfo(lodgerCount==1)-&gt;Если [asker_nameDef] будет [happy], находясь в поселении, [asker_pronoun] может захотеть присоединиться к вам.</li>
+    <li>joinInfo(lodgerCount&gt;=2)-&gt;Если они будут довольны, находясь в поселении, кто-то из них может захотеть присоединиться к вам.</li>
+    <li>travelerInfo(lodgerCount==1)-&gt;[asker_nameDef] не принадлежит</li>
+    <li>travelerInfo(lodgerCount&gt;=2)-&gt;Эти [faction_pawnsPlural] не принадлежат</li>
+    <li>hasLost(lodgers0_gender==Male)-&gt;лишился</li>
+    <li>hasLost(lodgers0_gender==Female)-&gt;лишилась</li>
+    <li>happy(lodgers0_gender==Male)-&gt;доволен</li>
+    <li>happy(lodgers0_gender==Female)-&gt;довольна</li>
+    <li>exLover(lodgers0_gender==Male)-&gt;своей мстительной бывшей</li>
+    <li>exLover(lodgers0_gender==Female)-&gt;своего мстительного бывшего</li>
+    <li>appearedAlone(lodgers0_gender==Male)-&gt;обнаружил себя совершенно одиноким</li>
+    <li>appearedAlone(lodgers0_gender==Female)-&gt;обнаружила себя совершенно одинокой</li>
+    <li>taken(asker_gender==Male)-&gt;взял</li>
+    <li>taken(asker_gender==Female)-&gt;взяла</li>
+  </Hospitality_Refugee.questDescriptionRules.rulesStrings>
+  <Hospitality_Refugee.questNameRules.rulesStrings>
+    <li>questName(lodgerCount==1,asker_gender==Male)-&gt;[lodgerAdj] [asker_nameDef]</li>
+    <li>questName(lodgerCount==1,asker_gender==Female)-&gt;[lodgerAdjFem] [asker_nameDef]</li>
+    <li>questName(lodgerCount==1,asker_gender==Male)-&gt;[lodgerAdj] [lodgerSingle]</li>
+    <li>questName(lodgerCount==1,asker_gender==Female)-&gt;[lodgerAdjFem] [lodgerSingleFem]</li>
+    <li>questName(p=2,lodgerCount&gt;=2)-&gt;[lodgerAdjPlural] [lodgerPlural]</li>
+    <li>questName(lodgerCount&gt;=2)-&gt;[asker_nameDef] и [lodgerAdjPlural] [lodgerPlural]</li>
+    <li>questName(lodgerCount&gt;=2)-&gt;[asker_nameDef] и [lodgerPlural]</li>
+    <li>lodgerAdj-&gt;уставший</li>
+    <li>lodgerAdj-&gt;потерянный</li>
+    <li>lodgerAdj-&gt;несчастный</li>
+    <li>lodgerAdj-&gt;бедный</li>
+    <li>lodgerAdj-&gt;отчаянный</li>
+    <li>lodgerAdj-&gt;печальный</li>
+    <li>lodgerAdj-&gt;потрёпанный</li>
+    <li>lodgerAdj-&gt;отчаявшийся</li>
+    <li>lodgerAdj-&gt;неизвестный</li>
+    <li>lodgerAdj-&gt;одинокий</li>
+    <li>lodgerAdj-&gt;забытый</li>
+    <li>lodgerAdjFem-&gt;уставшая</li>
+    <li>lodgerAdjFem-&gt;потерянная</li>
+    <li>lodgerAdjFem-&gt;несчастная</li>
+    <li>lodgerAdjFem-&gt;бедная</li>
+    <li>lodgerAdjFem-&gt;отчаянная</li>
+    <li>lodgerAdjFem-&gt;печальная</li>
+    <li>lodgerAdjFem-&gt;потрёпанная</li>
+    <li>lodgerAdjFem-&gt;безнадёжная</li>
+    <li>lodgerAdjFem-&gt;неизвестная</li>
+    <li>lodgerAdjFem-&gt;одинокая</li>
+    <li>lodgerAdjFem-&gt;забытый</li>
+    <li>lodgerAdjPlural-&gt;уставшие</li>
+    <li>lodgerAdjPlural-&gt;потерянные</li>
+    <li>lodgerAdjPlural-&gt;несчастные</li>
+    <li>lodgerAdjPlural-&gt;бедные</li>
+    <li>lodgerAdjPlural-&gt;отчаянные</li>
+    <li>lodgerAdjPlural-&gt;печальные</li>
+    <li>lodgerAdjPlural-&gt;потрёпанные</li>
+    <li>lodgerAdjPlural-&gt;отчаявшиеся</li>
+    <li>lodgerAdjPlural-&gt;неизвестные</li>
+    <li>lodgerAdjPlural-&gt;одинокие</li>
+    <li>lodgerAdjPlural-&gt;забытые</li>
+    <li>lodgerSingle-&gt;странник</li>
+    <li>lodgerSingle-&gt;беженец</li>
+    <li>lodgerSingle-&gt;бродяга</li>
+    <li>lodgerSingle-&gt;выживший</li>
+    <li>lodgerSingle-&gt;кочевник</li>
+    <li>lodgerSingle-&gt;оборванец</li>
+    <li>lodgerSingleFem-&gt;странница</li>
+    <li>lodgerSingleFem-&gt;беженка</li>
+    <li>lodgerSingleFem-&gt;бродяга</li>
+    <li>lodgerSingleFem-&gt;выжившая</li>
+    <li>lodgerSingleFem-&gt;кочевница</li>
+    <li>lodgerSingleFem-&gt;оборванка</li>
+    <li>lodgerPlural-&gt;странники</li>
+    <li>lodgerPlural-&gt;беженцы</li>
+    <li>lodgerPlural-&gt;бродяги</li>
+    <li>lodgerPlural-&gt;выжившие</li>
+    <li>lodgerPlural-&gt;кочевники</li>
+    <li>lodgerPlural-&gt;оборванцы</li>
+  </Hospitality_Refugee.questNameRules.rulesStrings>
+  <RefugeeBetrayal.questContentRules.rulesStrings>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)-&gt;[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>betrayalOfferRewardLetterLabel-&gt;Награда за предательство: [factionOpponent_nameDef]</li>
+    <li>betrayalOfferRewardLetterText-&gt;[factionOpponent_nameDef] [promised] награду, если вы убьёте [asker_nameDef] [otherMembersAcc]. [factionOpponent_pronoun] [hasLearned], что это свершилось, и отправляет транспортную капсулу с наградой (общей стоимостью [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>betrayalOfferFailedBecauseRecruitedLetterLabel-&gt;Betrayal reward retracted</li>
+    <li>betrayalOfferFailedBecauseRecruitedLetterText-&gt;[factionOpponent_nameDef] [hasLearned], что выжившие члены фракции [faction_name] присоединились к вам! [factionOpponent_nameDef] [wanted], чтобы умерли все члены фракции [faction_name], а потому отзывает своё предложение.</li>
+    <li>betrayalOfferFailedLetterLabel-&gt;Награда за предательство отменена</li>
+    <li>betrayalOfferFailedLetterText-&gt;[factionOpponent_nameDef] [hasLearned], что один из членов фракции [faction_name] больше не находится в [map_definite]. [factionOpponent_nameDef] [wanted], чтобы умерли все члены фракции [faction_name], а потому отзывает своё предложение.</li>
+    <li>otherMembersAcc(lodgerCount==1)-&gt;</li>
+    <li>otherMembersAcc(lodgerCount==2)-&gt;и другого члена фракции [faction_name]</li>
+    <li>otherMembersAcc(lodgerCount&gt;=3)-&gt;и всех остальных членов фракции [faction_name]</li>
+    <li>questOver-&gt;Задание «[resolvedQuestName]» завершено.</li>
+    <li>hasLearned(factionOpponent_gender==Male)-&gt;прознал</li>
+    <li>hasLearned(factionOpponent_gender==Female)-&gt;прознала</li>
+    <li>promised(factionOpponent_gender==Male)-&gt;обещал</li>
+    <li>promised(factionOpponent_gender==Female)-&gt;обещала</li>
+    <li>wanted(factionOpponent_gender==Male)-&gt;хотел</li>
+    <li>wanted(factionOpponent_gender==Female)-&gt;хотела</li>
+  </RefugeeBetrayal.questContentRules.rulesStrings>
+  <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgerSingle-&gt;беженец</li>
+    <li>lodgersLabel(lodgers0_gender==Male)-&gt;беженец</li>
+    <li>lodgersLabel(lodgers0_gender==Female)-&gt;беженка</li>
+    <li>lodgersLabelPlural-&gt;беженцы</li>
+    <li>lodgersLabelGen(lodgers0_gender==Male)-&gt;беженца</li>
+    <li>lodgersLabelGen(lodgers0_gender==Female)-&gt;беженки</li>
+    <li>lodgersLabelPluralGen-&gt;беженцев</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Male)-&gt;беженца</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Female)-&gt;беженку</li>
+    <li>lodgersLabelPluralAcc-&gt;беженцев</li>
+  </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+  <RefugeeBetrayal.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[factionOpponent_nameDef], [factionOpponent_faction_pawnSingular] из фракции [factionOpponent_faction_name], [hasLearned] что [asker_nameDef] [otherLodgers] сейчас [areIs] в [map_definite]. [factionOpponent_pronoun] враждует с [asker_nameDef] и хочет [asker_possessive] смерти.\n\n[factionOpponent_pronoun] отправит вам следующую награду, если вы убьёте всех членов фракции [faction_name] (общей стоимостью [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)-&gt;[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>otherLodgers(lodgerCount==1)-&gt;</li>
+    <li>otherLodgers(lodgerCount==2)-&gt;и ещё один [faction_pawnSingular]</li>
+    <li>otherLodgers(lodgerCount&gt;=3)-&gt;и ещё несколько [lodgersLabelPluralGen]</li>
+    <li>hasLearned(factionOpponent_gender==Male)-&gt;прознал</li>
+    <li>hasLearned(factionOpponent_gender==Female)-&gt;прознала</li>
+    <li>areIs(lodgerCount==1)-&gt;находится</li>
+    <li>areIs(lodgerCount&gt;=2)-&gt;находятся</li>
+  </RefugeeBetrayal.questDescriptionRules.rulesStrings>
+  <RefugeeBetrayal.questNameRules.rulesStrings>
+    <li>questName-&gt;Предложение предательства: [factionOpponent_nameDef]</li>
+  </RefugeeBetrayal.questNameRules.rulesStrings>
+  <RefugeeDelayedReward.questContentRules.rulesStrings>
+    <li>rewardLetterLabel-&gt;Награда за гостеприимство</li>
+    <li>rewardLetterText-&gt;[rewardGiver_nameDef] связывается с вами. [rewardDelayTicks_duration] назад вы помогли [rewardGiver_objective] в безвыходной ситуации.\n\nС тех пор [rewardGiver_pronoun] [hasGotten] своё положение и теперь хочет вознаградить вас за помощь. [rewardGiver_pronoun] отправляет вам капсулу со следующим содержимым:\n\n[listOfRewards]</li>
+    <li>hasGotten(rewardGiver_gender==Male)-&gt;поправил</li>
+    <li>hasGotten(rewardGiver_gender==Female)-&gt;поправила</li>
+  </RefugeeDelayedReward.questContentRules.rulesStrings>
+  <RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;отсроченная награда за задание с беженцами</li>
+  </RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+  <RefugeeDelayedReward.questNameRules.rulesStrings>
+    <li>questName-&gt;Отсроченная награда за беженцев</li>
+  </RefugeeDelayedReward.questNameRules.rulesStrings>
+</LanguageData>

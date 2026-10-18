@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BlindingCeremony.roles.0.label>ослепляемый</BlindingCeremony.roles.0.label>
+  <BlindingCeremony.roles.0.missingDesc>тот, кого будут ослеплять</BlindingCeremony.roles.0.missingDesc>
+  <BlindingCeremony.roles.1.label>исполнитель</BlindingCeremony.roles.1.label>
+  <BlindingCeremony.roles.1.missingDesc>тот, кто будет ослеплять</BlindingCeremony.roles.1.missingDesc>
+  <BlindingCeremony.stages.0.failTriggers.0.desc>Ослепляемый недоступен.</BlindingCeremony.stages.0.failTriggers.0.desc>
+  <BlindingCeremony.stages.0.failTriggers.1.desc>исполнитель спит</BlindingCeremony.stages.0.failTriggers.1.desc>
+  <BurnCircle.spectatorGerund>участвовать</BurnCircle.spectatorGerund>
+  <BurnCircle.spectatorsLabel>Участники</BurnCircle.spectatorsLabel>
+  <CelebrationPartyDanceDrum.spectatorGerund>участвовать</CelebrationPartyDanceDrum.spectatorGerund>
+  <CelebrationPartyDanceDrum.spectatorsLabel>Участники</CelebrationPartyDanceDrum.spectatorsLabel>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>Отсутствует костёр.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>Костёр не разожжён.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>Отсутствуют барабаны.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+  <CelebrationSkyLanterns.spectatorGerund>участвовать</CelebrationSkyLanterns.spectatorGerund>
+  <CelebrationSkyLanterns.spectatorsLabel>Участники</CelebrationSkyLanterns.spectatorsLabel>
+  <CelebrationTree.spectatorGerund>участвовать</CelebrationTree.spectatorGerund>
+  <CelebrationTree.spectatorsLabel>Участники</CelebrationTree.spectatorsLabel>
+  <Conversion.roles.0.label>оратор</Conversion.roles.0.label>
+  <Conversion.roles.1.label>обращаемый</Conversion.roles.1.label>
+  <Conversion.stages.0.failTriggers.0.desc>Пленник недоступен.</Conversion.stages.0.failTriggers.0.desc>
+  <Conversion.stages.0.failTriggers.1.desc>оратор спит</Conversion.stages.0.failTriggers.1.desc>
+  <DancePartyTech.spectatorGerund>участвовать</DancePartyTech.spectatorGerund>
+  <DancePartyTech.spectatorsLabel>Участники</DancePartyTech.spectatorsLabel>
+  <DancePartyTech.stages.0.failTriggers.0.desc>Отсутствует диско-шар</DancePartyTech.stages.0.failTriggers.0.desc>
+  <DancePartyTech.stages.0.failTriggers.1.desc>Диско-шар обесточен</DancePartyTech.stages.0.failTriggers.1.desc>
+  <DancePartyTech.stages.0.failTriggers.2.desc>Нет подключённых колонок</DancePartyTech.stages.0.failTriggers.2.desc>
+  <DateRitual.roles.0.label>оратор</DateRitual.roles.0.label>
+  <DateRitual.spectatorGerund>участвовать</DateRitual.spectatorGerund>
+  <DateRitual.spectatorsLabel>Участники</DateRitual.spectatorsLabel>
+  <DateRitual.stages.0.postAction.text>{0}: речь подошла к концу, началась вечеринка.</DateRitual.stages.0.postAction.text>
+  <Execution.roles.0.label>палач</Execution.roles.0.label>
+  <Execution.roles.0.missingDesc>тот, кто проводит казнь</Execution.roles.0.missingDesc>
+  <Execution.roles.1.label>жертва</Execution.roles.1.label>
+  <Execution.roles.1.missingDesc>тот, кого будут казнить</Execution.roles.1.missingDesc>
+  <Execution.spectatorFilter.description>Наблюдатели должны хотеть присутствовать на казни.</Execution.spectatorFilter.description>
+  <Execution.stages.0.failTriggers.0.desc>Пленник недоступен.</Execution.stages.0.failTriggers.0.desc>
+  <Execution.stages.0.failTriggers.1.desc>палач спит</Execution.stages.0.failTriggers.1.desc>
+  <FeastCannibal.spectatorGerund>участвовать</FeastCannibal.spectatorGerund>
+  <FeastCannibal.spectatorsLabel>Участники</FeastCannibal.spectatorsLabel>
+  <Funeral.roles.0.label>оратор</Funeral.roles.0.label>
+  <GladiatorDuel.roles.0.label>оратор</GladiatorDuel.roles.0.label>
+  <GladiatorDuel.roles.1.label>гладиатор</GladiatorDuel.roles.1.label>
+  <GladiatorDuel.roles.1.categoryLabel>гладиаторы</GladiatorDuel.roles.1.categoryLabel>
+  <GladiatorDuel.roles.1.missingDesc>пленники / рабы (гладиаторы)</GladiatorDuel.roles.1.missingDesc>
+  <GladiatorDuel.roles.2.label>гладиатор</GladiatorDuel.roles.2.label>
+  <GladiatorDuel.roles.2.categoryLabel>--&gt;</GladiatorDuel.roles.2.categoryLabel>
+  <GladiatorDuel.roles.2.missingDesc>пленники / рабы (гладиаторы)</GladiatorDuel.roles.2.missingDesc>
+  <GladiatorDuel.roles.3.label>надзиратель</GladiatorDuel.roles.3.label>
+  <GladiatorDuel.roles.3.categoryLabel>надзиратели</GladiatorDuel.roles.3.categoryLabel>
+  <GladiatorDuel.roles.3.missingDesc>поселенцы, стоящие на ногах и способные переносить</GladiatorDuel.roles.3.missingDesc>
+  <GladiatorDuel.roles.4.label>надзиратель</GladiatorDuel.roles.4.label>
+  <GladiatorDuel.roles.4.categoryLabel>надзиратели</GladiatorDuel.roles.4.categoryLabel>
+  <GladiatorDuel.roles.4.missingDesc>поселенцы, стоящие на ногах и способные переносить</GladiatorDuel.roles.4.missingDesc>
+  <GladiatorDuel.spectatorGerund>участвовать</GladiatorDuel.spectatorGerund>
+  <GladiatorDuel.spectatorsLabel>Зрители</GladiatorDuel.spectatorsLabel>
+  <GladiatorDuel.stages.2.failTriggers.0.desc>Гладиатор недоступен.</GladiatorDuel.stages.2.failTriggers.0.desc>
+  <GladiatorDuel.stages.2.failTriggers.1.desc>надзиратель спит</GladiatorDuel.stages.2.failTriggers.1.desc>
+  <GladiatorDuel.stages.2.failTriggers.2.desc>надзиратель спит</GladiatorDuel.stages.2.failTriggers.2.desc>
+  <LeaderSpeech.letterText>{SPEAKER_labelShort} произносит речь в рамках ритуала «{RITUAL_labelIndef}».
+
+Если всё пройдёт успешно, слушатели вдохновятся и проникнутся уважением к {SPEAKER_labelShort}. Если речь будет провальной, это ухудшит отношения. Положительный эффект снижен для не-{IDEOMEMBERS}.</LeaderSpeech.letterText>
+  <LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
+  <LeaderSpeech.roles.0.label>оратор</LeaderSpeech.roles.0.label>
+  <RoleChange.roles.0.label>сменяющий роль</RoleChange.roles.0.label>
+  <RoleChange.roles.0.missingDesc>сменяющий роль</RoleChange.roles.0.missingDesc>
+  <RoleChange.spectatorGerund>смотреть</RoleChange.spectatorGerund>
+  <RoleChange.spectatorsLabel>Зрители</RoleChange.spectatorsLabel>
+  <SacrificeAnimal.roles.0.label>исполнитель</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.roles.1.label>жертва</SacrificeAnimal.roles.1.label>
+  <SacrificeAnimal.roles.1.missingDesc>животное, размером не меньше 0.8</SacrificeAnimal.roles.1.missingDesc>
+  <SacrificeAnimal.spectatorGerund>участвовать</SacrificeAnimal.spectatorGerund>
+  <SacrificeAnimal.spectatorsLabel>Участники</SacrificeAnimal.spectatorsLabel>
+  <SacrificeAnimal.stages.0.failTriggers.0.desc>Животное недоступно.</SacrificeAnimal.stages.0.failTriggers.0.desc>
+  <SacrificeAnimal.stages.0.failTriggers.1.desc>исполнитель спит</SacrificeAnimal.stages.0.failTriggers.1.desc>
+  <SacrificeAnimal.stages.3.failTriggers.0.desc>жертва больше не мертва</SacrificeAnimal.stages.3.failTriggers.0.desc>
+  <SacrificePrisoner.roles.0.label>исполнитель</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.roles.1.label>жертва</SacrificePrisoner.roles.1.label>
+  <SacrificePrisoner.roles.1.missingDesc>пленник</SacrificePrisoner.roles.1.missingDesc>
+  <SacrificePrisoner.spectatorGerund>участвовать</SacrificePrisoner.spectatorGerund>
+  <SacrificePrisoner.spectatorsLabel>Участники</SacrificePrisoner.spectatorsLabel>
+  <SacrificePrisoner.stages.0.failTriggers.0.desc>Пленник недоступен.</SacrificePrisoner.stages.0.failTriggers.0.desc>
+  <SacrificePrisoner.stages.0.failTriggers.1.desc>исполнитель спит</SacrificePrisoner.stages.0.failTriggers.1.desc>
+  <SacrificePrisoner.stages.3.failTriggers.0.desc>жертва больше не мертва</SacrificePrisoner.stages.3.failTriggers.0.desc>
+  <ScarificationCeremony.roles.0.label>шрамируемый</ScarificationCeremony.roles.0.label>
+  <ScarificationCeremony.roles.0.missingDesc>тот, кто подвергнется шрамированию</ScarificationCeremony.roles.0.missingDesc>
+  <ScarificationCeremony.roles.1.label>исполнитель</ScarificationCeremony.roles.1.label>
+  <ScarificationCeremony.roles.1.missingDesc>тот, кто будет проводить шрамирование</ScarificationCeremony.roles.1.missingDesc>
+  <ScarificationCeremony.stages.0.failTriggers.0.desc>Шрамируемый недоступен.</ScarificationCeremony.stages.0.failTriggers.0.desc>
+  <ScarificationCeremony.stages.0.failTriggers.1.desc>исполнитель спит</ScarificationCeremony.stages.0.failTriggers.1.desc>
+  <SmokeCircle.spectatorGerund>участвовать</SmokeCircle.spectatorGerund>
+  <SmokeCircle.spectatorsLabel>Участники</SmokeCircle.spectatorsLabel>
+  <TreeConnection.roles.0.label>связующий</TreeConnection.roles.0.label>
+  <TreeConnection.roles.0.customChildDisallowMessage>Только взрослые могут связываться с древом Гауранлен.</TreeConnection.roles.0.customChildDisallowMessage>
+  <TreeConnection.spectatorGerund>наблюдать</TreeConnection.spectatorGerund>
+  <TreeConnection.spectatorsLabel>Наблюдатели</TreeConnection.spectatorsLabel>
+  <Trial.roles.0.label>судья</Trial.roles.0.label>
+  <Trial.roles.1.label>ответчик</Trial.roles.1.label>
+  <TrialMentalState.roles.0.label>судья</TrialMentalState.roles.0.label>
+  <TrialMentalState.roles.1.label>ответчик</TrialMentalState.roles.1.label>
+  <TrialPrisoner.roles.0.label>судья</TrialPrisoner.roles.0.label>
+  <TrialPrisoner.roles.1.label>ответчик</TrialPrisoner.roles.1.label>
+  <TrialPrisoner.stages.0.failTriggers.0.desc>Пленник-ответчик недоступен.</TrialPrisoner.stages.0.failTriggers.0.desc>
+  <TrialPrisoner.stages.0.failTriggers.1.desc>судья спит</TrialPrisoner.stages.0.failTriggers.1.desc>
+</LanguageData>

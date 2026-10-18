@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ActivitySuppressionRate.label>скорость подавления активности</ActivitySuppressionRate.label>
+  <ActivitySuppressionRate.description>Скорость, с которой этот человек подавляет активность противоестественных тварей. Чем выше этот показатель, тем быстрее человек подавит существо.</ActivitySuppressionRate.description>
+  <ActivitySuppressionRate.formatString>{0} в час</ActivitySuppressionRate.formatString>
+  <EntityStudyRate.label>скорость исследования тварей</EntityStudyRate.label>
+  <EntityStudyRate.description>Скорость, с которой этот человек добывает знания при исследовании противоестественных тварей.</EntityStudyRate.description>
+  <StudyEfficiency.label>эффективность исследования</StudyEfficiency.label>
+  <StudyEfficiency.description>Множитель, применяемый к объёму знаний, которые человек добывает при исследовании противоестественных тварей.</StudyEfficiency.description>
+</LanguageData>

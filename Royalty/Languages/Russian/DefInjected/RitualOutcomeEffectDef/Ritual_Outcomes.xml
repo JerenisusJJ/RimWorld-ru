@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimaTreeLinking.comps.0.label>количество участников</AnimaTreeLinking.comps.0.label>
+  <BestowingCeremony.description>В зависимости от качества церемонии, получающему титул может быть даровано до 3 единиц чести. Другие участники могут получить бонус к настроению до +6 на следующие 6 дней.</BestowingCeremony.description>
+  <BestowingCeremony.comps.0.label>количество участников</BestowingCeremony.comps.0.label>
+  <BestowingCeremony.comps.1.label>впечатление от комнаты</BestowingCeremony.comps.1.label>
+  <BestowingCeremony.outcomeChances.0.label>ужасно</BestowingCeremony.outcomeChances.0.label>
+  <BestowingCeremony.outcomeChances.1.label>посредственно</BestowingCeremony.outcomeChances.1.label>
+  <BestowingCeremony.outcomeChances.2.label>достойно</BestowingCeremony.outcomeChances.2.label>
+  <BestowingCeremony.outcomeChances.3.label>грандиозно</BestowingCeremony.outcomeChances.3.label>
+</LanguageData>

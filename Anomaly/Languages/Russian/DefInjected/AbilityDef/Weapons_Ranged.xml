@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HellcatBurner.label>огненный заряд «Адская фурия»</HellcatBurner.label>
+  <HellcatBurner.description>Создаёт язык пламени с помощью снаряда со сжатым биоферритом.</HellcatBurner.description>
+  <IncineratorBurner.label>огненный заряд испепелителя</IncineratorBurner.label>
+  <IncineratorBurner.description>Создаёт огромный конус пламени с помощью снаряда со сжатым биоферритом.</IncineratorBurner.description>
+</LanguageData>

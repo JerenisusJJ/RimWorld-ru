@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HeavyBridge.label>тяжёлый мост</HeavyBridge.label>
+  <HeavyBridge.description>Более прочная версия обычного моста, способная выдерживать тяжёлые конструкции наверху. На нем можно построить целое поселение прямо на воде.</HeavyBridge.description>
+  <Substructure.label>надстройка гравокорабля</Substructure.label>
+  <Substructure.description>Лёгкая ферменная конструкция с настилом сверху, формирующая палубу гравикорабля. Только предметы, находящиеся на этой надстройке, могут быть подняты левитационным полем гравидвигателя. Этот настил должен находиться в пределах досягаемости гравидвигателя.</Substructure.description>
+</LanguageData>

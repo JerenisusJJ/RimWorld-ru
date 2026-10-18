@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WorshippedTerminal.label>набожная деревня</WorshippedTerminal.label>
+  <WorshippedTerminal.description>Деревня, в которой находится древний терминал, служащий объектом поклонения местных жителей.</WorshippedTerminal.description>
+  <WorshippedTerminal.approachingReportString>Нападает на {lookup: {0}; Case; 3}</WorshippedTerminal.approachingReportString>
+  <WorshippedTerminal.approachOrderString>Исследовать {lookup: {0}; Case; 3}</WorshippedTerminal.approachOrderString>
+  <WorshippedTerminal.arrivedLetter>Ваши поселенцы могут остаться здесь на {TIMER}, если они не будут нарушать их правила.</WorshippedTerminal.arrivedLetter>
+</LanguageData>

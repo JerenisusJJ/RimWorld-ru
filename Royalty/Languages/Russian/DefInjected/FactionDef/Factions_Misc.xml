@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OutlanderRefugee.label>группа чужаков-беженцев</OutlanderRefugee.label>
+  <OutlanderRefugee.description>Группа беженцев, утверждающих, что они потеряли свой дом.</OutlanderRefugee.description>
+  <OutlanderRefugee.leaderTitle>лидер</OutlanderRefugee.leaderTitle>
+  <OutlanderRefugee.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</OutlanderRefugee.messageDefendersAttacking>
+  <OutlanderRefugee.pawnSingular>беженец</OutlanderRefugee.pawnSingular>
+  <OutlanderRefugee.pawnsPlural>беженцы</OutlanderRefugee.pawnsPlural>
+</LanguageData>

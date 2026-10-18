@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SanguophageShip.questContentRules.rulesStrings>
+    <li>sanguophageShuttleCrashedLetterLabel-&gt;Разбившийся челнок</li>
+    <li>sanguophageShuttleCrashedLetterText-&gt;Неподалёку разбился челнок, на борту которого находились гемофаг-повелитель и [thrallCount] трэллов. Они скоро выберутся из корабля и будут готовы к бою.</li>
+    <li>reinforcementsArrivedLetterLabel-&gt;Подкрепление трэллов</li>
+    <li>reinforcementsArrivedLetterText-&gt;Для того, чтобы помочь потерпевшим крушение, прибывают трэллы в транспортных капсулах.</li>
+    <li>assaultBeginLetterLabel-&gt;Штурм начался</li>
+    <li>assaultBeginLetterText-&gt;Враждебный гемофаг-повелитель и его трэллы начали штурм поселения!</li>
+  </SanguophageShip.questContentRules.rulesStrings>
+  <SanguophageShip.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы перехватили сигнал бедствия! У вражеского челнока, на борту которого находятся повелитель-гемофаг и [thrallCount] трэллов, проблемы с двигателями. Вы можете послать ему сигнал, чтобы он разбился рядом с [map_definite].\n\nКак только корабль потерпит крушение, вы сможете сразиться с гемофагом и [sanguophage_possessive] приспешниками. Если у вас получится захватить повелителя, то вы сможете заставить [sanguophage_possessive] обратить одного из ваших поселенцев в гемофага.\n\n[sanguophageInfo]</li>
+    <li>sanguophageInfo-&gt;(*Gray)Гемофаги — это бессмертные, нестареющие, красивые и умные сверхлюди, ставшие таковыми из-за архитов в их крови. Они могут исцелять любые раны и никогда не страдают от болезней и ядов. В бою они могут выпускать смертоносные шипы и исцелять раненных товарищей. Чтобы жить, гемофаги должны потреблять гемоген, который извлекается из человеческой крови, а также погружаться в торпор на продолжительное время. Они уязвимы к огню и чувствительны к солнечному свету.(/Gray)</li>
+  </SanguophageShip.questDescriptionRules.rulesStrings>
+  <SanguophageShip.questNameRules.rulesStrings>
+    <li>questName-&gt;[shipNoun] [shipAdjective]</li>
+    <li>shipAdjective-&gt;гемофагов</li>
+    <li>shipAdjective-&gt;жаждущих крови</li>
+    <li>shipAdjective-&gt;крови</li>
+    <li>shipAdjective-&gt;теней</li>
+    <li>shipAdjective-&gt;тьмы</li>
+    <li>shipAdjective-&gt;тёмно-красных</li>
+    <li>shipAdjective-&gt;красных</li>
+    <li>shipAdjective-&gt;коростовых</li>
+    <li>shipAdjective-&gt;кровавых</li>
+    <li>shipAdjective-&gt;кроваво-красных</li>
+    <li>shipNoun-&gt;корабль</li>
+    <li>shipNoun-&gt;челнок</li>
+    <li>shipNoun-&gt;судно</li>
+    <li>shipNoun-&gt;ковчег</li>
+    <li>shipNoun-&gt;авария</li>
+    <li>shipNoun-&gt;крушение</li>
+  </SanguophageShip.questNameRules.rulesStrings>
+</LanguageData>

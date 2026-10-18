@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DeityTypeMakerGlobal.rulePack.rulesStrings>
+    <li>r_deityType-&gt;[god] [memeConcept]</li>
+    <li>god(p=7, gender==Male)-&gt;Бог</li>
+    <li>god(p=7, gender==Female)-&gt;Богиня</li>
+    <li>god(p=7, gender==Neuter)-&gt;Божество</li>
+    <li>god(p=4)-&gt;[memeGod]</li>
+    <li>god(p=3)-&gt;Дух</li>
+    <li>god(gender!=Female)-&gt;Создатель</li>
+    <li>god(gender==Female)-&gt;Создательница</li>
+    <li>god(gender!=Female)-&gt;Повелитель</li>
+    <li>god(gender==Female)-&gt;Повелительница</li>
+  </DeityTypeMakerGlobal.rulePack.rulesStrings>
+</LanguageData>

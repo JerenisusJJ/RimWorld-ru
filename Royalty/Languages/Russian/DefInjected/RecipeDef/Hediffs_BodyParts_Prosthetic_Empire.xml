@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InstallDrillArm.label>вживить руку-бур</InstallDrillArm.label>
+  <InstallDrillArm.description>Вживить руку-бур.</InstallDrillArm.description>
+  <InstallDrillArm.jobString>Вживляет руку-бур</InstallDrillArm.jobString>
+  <InstallElbowBlade.label>вживить локтевое лезвие</InstallElbowBlade.label>
+  <InstallElbowBlade.description>Вживить локтевое лезвие.</InstallElbowBlade.description>
+  <InstallElbowBlade.jobString>Вживляет локтевое лезвие</InstallElbowBlade.jobString>
+  <InstallFieldHand.label>вживить агроруку</InstallFieldHand.label>
+  <InstallFieldHand.description>Вживить агроруку.</InstallFieldHand.description>
+  <InstallFieldHand.jobString>Вживляет агроруку</InstallFieldHand.jobString>
+  <InstallHandTalon.label>вживить кистевой коготь</InstallHandTalon.label>
+  <InstallHandTalon.description>Вживить кистевой коготь.</InstallHandTalon.description>
+  <InstallHandTalon.jobString>Вживляет кистевой коготь</InstallHandTalon.jobString>
+  <InstallKneeSpike.label>вживить коленный шип</InstallKneeSpike.label>
+  <InstallKneeSpike.description>Вживить коленный шип.</InstallKneeSpike.description>
+  <InstallKneeSpike.jobString>Вживляет коленный шип</InstallKneeSpike.jobString>
+  <InstallMindscrew.label>вживить мозгорез</InstallMindscrew.label>
+  <InstallMindscrew.description>Вживить мозгорез.</InstallMindscrew.description>
+  <InstallMindscrew.jobString>Вживляет мозгорез</InstallMindscrew.jobString>
+  <InstallVenomFangs.label>вживить ядовитые клыки</InstallVenomFangs.label>
+  <InstallVenomFangs.description>Вживить ядовитые клыки.</InstallVenomFangs.description>
+  <InstallVenomFangs.jobString>Вживляет ядовитые клыки</InstallVenomFangs.jobString>
+  <InstallVenomTalon.label>вживить ядовитый коготь</InstallVenomTalon.label>
+  <InstallVenomTalon.description>Вживить ядовитый коготь.</InstallVenomTalon.description>
+  <InstallVenomTalon.jobString>Вживляет ядовитый коготь</InstallVenomTalon.jobString>
+  <RemoveElbowBlade.label>удалить локтевое лезвие</RemoveElbowBlade.label>
+  <RemoveElbowBlade.description>Удалить локтевое лезвие.</RemoveElbowBlade.description>
+  <RemoveElbowBlade.jobString>Удаляет локтевое лезвие</RemoveElbowBlade.jobString>
+  <RemoveHandTalon.label>удалить кистевой коготь</RemoveHandTalon.label>
+  <RemoveHandTalon.description>Удалить кистевой коготь.</RemoveHandTalon.description>
+  <RemoveHandTalon.jobString>Удаляет кистевой коготь</RemoveHandTalon.jobString>
+  <RemoveKneeSpike.label>удалить коленный шип</RemoveKneeSpike.label>
+  <RemoveKneeSpike.description>Удалить коленный шип.</RemoveKneeSpike.description>
+  <RemoveKneeSpike.jobString>Удаляет коленный шип</RemoveKneeSpike.jobString>
+  <RemoveVenomFangs.label>удалить ядовитые клыки</RemoveVenomFangs.label>
+  <RemoveVenomFangs.description>Удалить ядовитые клыки.</RemoveVenomFangs.description>
+  <RemoveVenomFangs.jobString>Удаляет ядовитые клыки</RemoveVenomFangs.jobString>
+  <RemoveVenomTalon.label>удалить ядовитый коготь</RemoveVenomTalon.label>
+  <RemoveVenomTalon.description>Удалить ядовитый коготь.</RemoveVenomTalon.description>
+  <RemoveVenomTalon.jobString>Удаляет ядовитый коготь</RemoveVenomTalon.jobString>
+</LanguageData>

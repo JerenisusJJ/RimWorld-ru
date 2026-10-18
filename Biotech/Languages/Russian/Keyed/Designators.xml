@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DesignatorMechControlGroup>Прикрепить к группе</DesignatorMechControlGroup>
+  <DesignatorMechControlGroupDesc>Прикрепить механоида(ов) к другой группе механитора.</DesignatorMechControlGroupDesc>
+  <MechCanBuildThis>Однако {0} может возвести это сооружение.</MechCanBuildThis>
+  <DesignatorAdopt>Принять</DesignatorAdopt>
+  <DesignatorAdoptDesc>Принять младенца в поселение.</DesignatorAdoptDesc>
+  <ChooseMechColor>Изменить цвет механоидов…</ChooseMechColor>
+  <DesignatorAreaPollutionClearExpand>Расширить область очистки загрязнения</DesignatorAreaPollutionClearExpand>
+  <DesignatorAreaPollutionClearExpandDesc>Эту область поселенцы будут очищать от токсичных загрязнений. Загрязняющие вещества будут упаковываться в мешки, которые можно переносить.</DesignatorAreaPollutionClearExpandDesc>
+  <DesignatorAreaPollutionClearClear>Уменьшить область очистки загрязнения</DesignatorAreaPollutionClearClear>
+  <DesignatorAreaPollutionClearClearDesc>Уменьшает область очистки загрязнения. Поселенцы больше не будут очищать от загрязнения эту территорию.</DesignatorAreaPollutionClearClearDesc>
+</LanguageData>

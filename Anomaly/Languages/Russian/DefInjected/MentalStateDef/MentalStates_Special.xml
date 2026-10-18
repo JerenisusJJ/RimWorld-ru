@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BerserkShort.label>в ярости</BerserkShort.label>
+  <BerserkShort.baseInspectLine>Душевное состояние: слепая ярость</BerserkShort.baseInspectLine>
+  <BerserkShort.beginLetter>{0} впадает в ярость.\n\n[PAWN_pronoun] будет атаковать всех, кого видит.</BerserkShort.beginLetter>
+  <BerserkShort.recoveryMessage>{0} больше не чувствует слепую ярость.</BerserkShort.recoveryMessage>
+  <CubeSculpting.label>ваяет куб</CubeSculpting.label>
+  <CubeSculpting.baseInspectLine>Душевное состояние: ваяет куб</CubeSculpting.baseInspectLine>
+  <CubeSculpting.beginLetter>Из-за одержимости кубом {PAWN_nameDef} как будто в трансе. {PAWN_pronoun} попробует выразить навязчивые мысли в творчестве и создать скульптуру.</CubeSculpting.beginLetter>
+  <CubeSculpting.beginLetterLabel>одержимость кубом</CubeSculpting.beginLetterLabel>
+  <CubeSculpting.recoveryMessage>{PAWN_nameDef} завершает создание куба.</CubeSculpting.recoveryMessage>
+  <HumanityBreak.label>отходит от человечности</HumanityBreak.label>
+  <HumanityBreak.baseInspectLine>Душевное состояние: отходит от человечности</HumanityBreak.baseInspectLine>
+  <HumanityBreak.beginLetter>{PAWN_nameDef} отбрасывает оставшиеся связи с человечеством и полностью отдаётся поклонению пустоте. {PAWN_possessive} больше не заботят ни здоровье, ни семья, ни дружба, ни любовь.\n\n{PAWN_nameDef} больше не считает себя человеком и переживает пси-срыв, так как пытается найти новые точки опоры.</HumanityBreak.beginLetter>
+  <ManhunterBloodRain.label>агрессия</ManhunterBloodRain.label>
+  <ManhunterBloodRain.baseInspectLine>Душевное состояние: агрессия</ManhunterBloodRain.baseInspectLine>
+  <ManhunterBloodRain.recoveryMessage>{0} успокаивается, агрессия проходит.</ManhunterBloodRain.recoveryMessage>
+</LanguageData>

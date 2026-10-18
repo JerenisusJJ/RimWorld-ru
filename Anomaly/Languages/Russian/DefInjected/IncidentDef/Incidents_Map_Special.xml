@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HarbingerTreeSpawn.label>древо-предвестник</HarbingerTreeSpawn.label>
+  <HarbingerTreeSpawn.letterLabel>росток древа-предвестника</HarbingerTreeSpawn.letterLabel>
+  <HarbingerTreeSpawn.letterText>Неподалёку проросло древо-предвестник. Эти сучковатые деревья отращивают оболочку из чего-то, похожего на плоть. Питаются они трупами и сырым мясом, и если оставлять рядом с ними такие «удобрения», то вырастет целая роща.\n\nВ племенах верят, что эти деревья — посланники бесплотного божества, повелителя чёрного океана. В конце легенды божество выходит из воды и опрокидывает небеса.</HarbingerTreeSpawn.letterText>
+  <HarbingerTreeSpawn.letterTextPlural>Неподалёку проросли древеса-предвестники. Эти сучковатые деревья отращивают оболочку из чего-то, похожего на плоть. Питаются они трупами и сырым мясом, и если оставлять рядом с ними такие «удобрения», то вырастет целая роща.\n\nВ племенах верят, что эти деревья — посланники бесплотного божества, повелителя чёрного океана. В конце легенды божество выходит из воды и опрокидывает небеса.</HarbingerTreeSpawn.letterTextPlural>
+  <MonolithMigration.label>Странный сигнал</MonolithMigration.label>
+  <MonolithMigration.letterLabel>Странный сигнал</MonolithMigration.letterLabel>
+  <MonolithMigration.letterText>Ваши поселенцы ощущают странный пси-сигнал. На него можно ответить, но последствия этого неизвестны.</MonolithMigration.letterText>
+  <RefugeePodCrash_Ghoul.label>крушение капсулы с упырём</RefugeePodCrash_Ghoul.label>
+  <VoidCuriosity.label>интерес к пустоте</VoidCuriosity.label>
+  <VoidCuriosity.letterLabel>Интерес к пустоте</VoidCuriosity.letterLabel>
+</LanguageData>

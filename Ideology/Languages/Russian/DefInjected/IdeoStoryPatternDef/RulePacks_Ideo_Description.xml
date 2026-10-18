@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimistDescription.rules.rulesStrings>
+    <li>animistBasis-&gt;Вселенная — это бесконечный цикл созидания и разрушения, которым руководят духи, воплощённые во всех явлениях вокруг нас.</li>
+    <li>animistBasis-&gt;С нашим миром неразрывно связана параллельная вселенная духов. Любой предмет, кажущийся неодушевлённым в нашем мире, на самом деле связан с духом в другом.</li>
+    <li>animistFact-&gt;Каждый дух имеет свою стихию и ищет способы расширения своего влияния на этот мир. Иногда это влияние может быть полезным, а иногда — опасным.</li>
+    <li>animistProphecy-&gt;[itIsSaid], что великий дух реликвии «[relic0_name]» однажды дарует обладателю этого священного предмета власть над всеми духами.</li>
+    <li>animistProphecy-&gt;[itIsSaid], что однажды на планету упадёт звёздный странник, дух появившегося после падения кратера разбудит его, и странник поведёт за собой последнее племя.</li>
+    <li>itIsSaid-&gt;Говорят</li>
+    <li>itIsSaid-&gt;В пророчествах сказано</li>
+    <li>itIsSaid-&gt;Древнее писание говорит</li>
+    <li>itIsSaid-&gt;В наших книгах сказано</li>
+    <li>itIsSaid-&gt;Наши мудрецы говорят</li>
+    <li>itIsSaid-&gt;Мы знаем</li>
+  </AnimistDescription.rules.rulesStrings>
+  <ArchistDescription.rules.rulesStrings>
+    <li>archistBasis-&gt;Наш мир — это сон внутри вселенского сознания. Общаться с этим вселенским сознанием могут только архотеки.</li>
+    <li>archistBasis-&gt;Наша вселенная — это симуляция, созданная великим Чужим. Только архотеки могут общаться с этим Чужим.</li>
+    <li>archistBasis-&gt;Архотеки — это дети человечества и его же судьи.</li>
+    <li>archistBasis-&gt;Архотеки — это следующий этап развития сознания.</li>
+    <li>archistBasis-&gt;Архотеки — это боги, которых мы всё время ждали.</li>
+    <li>archistFact-&gt;После смерти сознание каждого человека принимается или отвергается архотеками.</li>
+    <li>archistFact-&gt;Архотеки всемогущи. Они незаметно управляют нашими жизнями.</li>
+    <li>archistFact-&gt;Архотеки постоянно взаимодействуют с сознанием людей, но только уверовавшие могут почувствовать это и извлечь пользу из их мудрости.</li>
+    <li>archistFact-&gt;Архотеки — зло. Главная задача человечества — понять их, чтобы избавиться от их влияния.</li>
+    <li>archistFact-&gt;Архотеки — благо. Главная задача человечества — понять их, чтобы адаптироваться под их видение мира.</li>
+    <li>archistFact-&gt;Архотеки всемогущи. Они позволяют нам жить и выбирать лишь потому, что считают себя нашими судьями.</li>
+    <li>archistProphecy-&gt;[inTheEnd] архотеки, всё это время становившиеся более могущественными, станут самой вселенной и поглотят в себя сознание всего человечества. Только тогда мы начнём истинно осознавать.</li>
+    <li>archistProphecy-&gt;[inTheEnd] архотеки закончат свои этические споры о судьбе человечества. Следующие их знакам возвысятся, все неверующие сгинут.</li>
+    <li>archistProphecy-&gt;[inTheEnd] архотеки покинут нас. Они заберут с собой небольшую группу людей, оставив остальных страдать.</li>
+    <li>inTheEnd-&gt;В будущем</li>
+    <li>inTheEnd-&gt;В конце концов</li>
+    <li>inTheEnd-&gt;Однажды</li>
+  </ArchistDescription.rules.rulesStrings>
+  <IdeologicalFounder.rules.rulesStrings>
+    <li>story(priority=-999)-&gt;</li>
+    <li>setup-&gt;Среди прогнившего мира [founderName] [founder_saw] всё, что было неправильно, и [founder_created] собственное движение.</li>
+    <li>setup-&gt;[founder_struck] пороками мира, [founderName] [founder_studied] историю и философию и [founder_discovered] новую истину, ставшую нашим ориентиром.</li>
+    <li>setup-&gt;Однажды, трудясь на работе, [founderName] [founder_experienced] озарение. [founder_pronoun] [founder_dropped] инструменты и [founder_started] нести своё слово среди других рабочих.</li>
+    <li>setup-&gt;Двадцать лет [founderName] [founder_was_sitting] на скамейке в парке, размышляя о судьбах мира. [founder_pronoun] [founder_reflected] своё видение в книге, ставшей нашим священным писанием.</li>
+    <li>story(uses=1,priority=-10)-&gt;[memberNamePlural] не поняли бы значение [memeConcept] без наставлений [founderName].</li>
+    <li>story(uses=1,priority=-10)-&gt;Речь [founderName] во время ритуала [ritualName] многих вдохновила на жизнь, основа которой — идея [memeConcept].</li>
+    <li>story(uses=1,priority=-10)-&gt;Никто не понимал идею [memeConcept] лучше, чем [founderName], за что первые [memberNamePlural] наделили [founder_possessive] титулом «[leaderTitle]».</li>
+    <li>story(uses=1,priority=-10)-&gt;[founderName] везде [founder_carried] с собой реликвию «[relic0_name]», потому что [relic0_thingDef_label] — лучшее напоминание людям о том, как важна [memeAdjective_fem] жизнь.</li>
+    <li>founder_saw(founder_gender==Male)-&gt;увидел</li>
+    <li>founder_saw(founder_gender==Female)-&gt;увидела</li>
+    <li>founder_created(founder_gender==Male)-&gt;создал</li>
+    <li>founder_created(founder_gender==Female)-&gt;создала</li>
+    <li>founder_struck(founder_gender==Male)-&gt;поражённый</li>
+    <li>founder_struck(founder_gender==Female)-&gt;поражённая</li>
+    <li>founder_studied(founder_gender==Male)-&gt;изучил</li>
+    <li>founder_studied(founder_gender==Female)-&gt;изучила</li>
+    <li>founder_discovered(founder_gender==Male)-&gt;открыл</li>
+    <li>founder_discovered(founder_gender==Female)-&gt;открыла</li>
+    <li>founder_experienced(founder_gender==Male)-&gt;испытал</li>
+    <li>founder_experienced(founder_gender==Female)-&gt;испытала</li>
+    <li>founder_dropped(founder_gender==Male)-&gt;бросил</li>
+    <li>founder_dropped(founder_gender==Female)-&gt;бросила</li>
+    <li>founder_started(founder_gender==Male)-&gt;начал</li>
+    <li>founder_started(founder_gender==Female)-&gt;начала</li>
+    <li>founder_was_sitting(founder_gender==Male)-&gt;сидел</li>
+    <li>founder_was_sitting(founder_gender==Female)-&gt;сидела</li>
+    <li>founder_reflected(founder_gender==Male)-&gt;отразил</li>
+    <li>founder_reflected(founder_gender==Female)-&gt;отразила</li>
+    <li>founder_carried(founder_gender==Male)-&gt;носил</li>
+    <li>founder_carried(founder_gender==Female)-&gt;носила</li>
+  </IdeologicalFounder.rules.rulesStrings>
+  <IdeologicalLesson.rules.rulesStrings>
+    <li>lesson(priority=-1)-&gt;всякое случается</li>
+    <li>r_pattern-&gt;«[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]»\n\n - [lessonAttribution]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull]</li>
+    <li>lessonAttribution(p=2)-&gt;&lt;i&gt;[attributionSource_titleCase]&lt;/i&gt;, [founder_nameFull]</li>
+    <li>lessonAttribution-&gt;письмо [founder_nameFull] к [believer_nameFull]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull], из материалов [memeConference_titleCase]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull] на своём смертном одре</li>
+    <li>lessonAttribution-&gt;[founder_nameFull] прямо перед своей казнью</li>
+    <li>lessonAttribution-&gt;[speech] [founder_nameFull] на [TerrainFeature_prep]</li>
+    <li>lessonAttribution-&gt;[speech] [founder_nameFull] в [Community_prep]</li>
+    <li>attributionSource-&gt;идея [memeConcept]</li>
+    <li>attributionSource-&gt;[memeAdjective_fem] идея [memeConcept]</li>
+    <li>attributionSource-&gt;[memeAdjective_fem] жизнь</li>
+    <li>attributionSource-&gt;[attributionMemeAdjectivePlural] Размышления [attributionJob]</li>
+    <li>attributionSource-&gt;[attributionMemeAdjectivePlural] Мемуары [attributionJob]</li>
+    <li>attributionSource-&gt;[attributionMemeAdjectivePlural] Мысли [attributionJob]</li>
+    <li>attributionSource-&gt;[attributionMemeAdjectiveFemale] Жизнь [attributionJob]</li>
+    <li>attributionMemeAdjectivePlural-&gt;[memeAdjective_plural]</li>
+    <li>attributionMemeAdjectivePlural-&gt;</li>
+    <li>attributionMemeAdjectiveFemale-&gt;[memeAdjective_fem]</li>
+    <li>attributionMemeAdjectiveFemale-&gt;</li>
+    <li>attributionJob(founder_gender==Male)-&gt;[place_job_gen]</li>
+    <li>attributionJob(founder_gender==Female)-&gt;[place_job_gen_fem]</li>
+    <li>memeConference(p=1.5)-&gt;[conferencePrefix] [conferenceType], посвящённого теме [memeConcept]</li>
+    <li>memeConference(p=1.5)-&gt;[conferencePrefixFem] [conferenceTypeFem], посвящённой теме [memeConcept]</li>
+    <li>memeConference-&gt;[conferenceType], посвящённого теме [memeConcept]</li>
+    <li>memeConference-&gt;[conferenceTypeFem], посвящённой теме [memeConcept]</li>
+    <li>memeConference-&gt;[memeHyphenPrefix_titleCase]-кон</li>
+    <li>conferencePrefixFem-&gt;первой</li>
+    <li>conferencePrefixFem-&gt;второй</li>
+    <li>conferencePrefixFem-&gt;третьей</li>
+    <li>conferencePrefixFem-&gt;четвёртой</li>
+    <li>conferencePrefixFem-&gt;последней</li>
+    <li>conferencePrefixFem-&gt;мировой</li>
+    <li>conferencePrefixFem-&gt;межпланетной</li>
+    <li>conferencePrefixFem-&gt;планетарной</li>
+    <li>conferencePrefixFem-&gt;вселенской</li>
+    <li>conferencePrefix-&gt;первого</li>
+    <li>conferencePrefix-&gt;второго</li>
+    <li>conferencePrefix-&gt;третьего</li>
+    <li>conferencePrefix-&gt;четвёртого</li>
+    <li>conferencePrefix-&gt;последнего</li>
+    <li>conferencePrefix-&gt;мирового</li>
+    <li>conferencePrefix-&gt;межпланетного</li>
+    <li>conferencePrefix-&gt;планетарного</li>
+    <li>conferencePrefix-&gt;вселенского</li>
+    <li>conferenceTypeFem-&gt;конференции</li>
+    <li>conferenceType-&gt;съезда</li>
+    <li>conferenceType-&gt;форума</li>
+    <li>speech-&gt;речь</li>
+    <li>speech-&gt;монолог</li>
+    <li>lessonIntro-&gt;Моим последователям было сложно принять одну вещь:</li>
+    <li>lessonIntro-&gt;Моим тяжелейшим преступлением было так долго не понимать, что</li>
+    <li>lessonIntro-&gt;Моя борьба с [foeLeader_ins] казалась бесконечной. Но она научила меня кое-чему:</li>
+    <li>lessonIntro-&gt;Даже в детстве, проведённом [place_summary_prepon] [place_summary_pre] [place_name], у меня было понимание, что</li>
+    <li>lessonIntro-&gt;Во время школьных занятий [place_community_pre_in] один из учеников кинул в меня [thrownObject] и попал в голову. Тогда-то меня осенило, что</li>
+    <li>lessonIntro-&gt;Я говорю это не для того, чтобы ты прожил мою жизнь, а чтобы ты узнал то, чему я научился. Что</li>
+    <li>lessonIntro-&gt;Когда врач закончил своё ужасное дело, мне наконец стало понятно, что</li>
+    <li>lessonIntro-&gt;С каждым годом, проведённым [place_summary_prepon] [place_summary_pre] [place_name], мне становилось всё яснее, что</li>
+    <li>lessonIntro-&gt;Вспоминая своё прошлое, я жалею об упущенной возможности прийти к осознанию, что</li>
+    <li>lessonIntro-&gt;Они все казались мне потерянными. Я [founder_showed] им, что</li>
+    <li>lessonIntro-&gt;Они молили о праведном пути. Я [founder_showed] им, что</li>
+    <li>thrownObject-&gt;книгу</li>
+    <li>thrownObject-&gt;сэндвич</li>
+    <li>thrownObject-&gt;игрушечную модель [place_personalWeapon_gen]</li>
+    <li>thrownObject-&gt;чучело [Animal_gen]</li>
+    <li>lessonReinforcement-&gt;С этим невозможно поспорить.</li>
+    <li>lessonReinforcement-&gt;Только дураки считают иначе.</li>
+    <li>lessonReinforcement-&gt;И скоро это всем станет очевидно так же, как и нам.</li>
+    <li>lessonReinforcement-&gt;Всё, что происходило дальше, являлось лишь подтверждением этому.</li>
+    <li>lessonReinforcement-&gt;Это словно отпечатано в моём сознании.</li>
+    <li>lessonReinforcement-&gt;Я этого никогда не забуду.</li>
+    <li>founder_showed(founder_gender==Male)-&gt;показал</li>
+    <li>founder_showed(founder_gender==Female)-&gt;показала</li>
+  </IdeologicalLesson.rules.rulesStrings>
+  <TheistFounder.rules.rulesStrings>
+    <li>intro-&gt;[longAgo_Cont] хранило население [place_summary_gen] [place_name] [memeAdjective_masc] порядок свято, и [deity0_watched] [deity0_type] [deity0_name] неустанно за порядком этим.</li>
+    <li>intro-&gt;[longAgo_Cont] жили [place_summary_prepon] [place_summary_pre] [place_name] в мире да согласии [memberNamePlural] и люди все прочие, и [deity0_spread] [deity0_name] взор над ними свой пристальный.</li>
+    <li>intro-&gt;[once] [longAgo_Perf] [deity0_showed] [deity0_type] [deity0_name] людям [place_summary_gen] [place_name] да [deity0_started_to_lead] их по пути праведному, дабы поняли они важность [memeConcept] истинную.</li>
+    <li>intro-&gt;[once] [longAgo_Perf] [deity0_led] [deity0_type] [deity0_name] [place_summary_prepon] [place_summary_acc] [place_name] первых представителей рода людского да [deity0_hepled] им обустроить [memeAdjective_masc] быт их всемерно.</li>
+    <li>intro-&gt;[longAgo_Cont] [deity0_was_revered] [deity0_name] [place_summary_prepon] [place_summary_pre] [place_name], и приходили люди во время ритуала [ritualName] в [deity0_possessive] [altarRoomLabel_acc], дабы помолиться у святыни [altarName] великой, лелея в своих сердцах образ [memeConcept] заветный.</li>
+    <li>conflict-&gt;[butOrAnd] восстал [once] [evil_adj_no_ending]ый лидер революции да заявил клятвенно, что использует он [place_massWeapon_acc], да и встретит [deity0_name] конец дней своих прожитых.</li>
+    <li>conflict-&gt;[butOrAnd] пришёл [once] [evil_adj_no_ending]ый [foeLeader] с [foeSoldiers_ins] злонравными, да поработили они тех, в ком [deity0_saw] [deity0_name] своих последователей приверженных.</li>
+    <li>conflict-&gt;[butOrAnd] пришёл [once] [evil_adj_no_ending]ый [foeLeader] в сопровождении [foeSoldiers_genacc], [place_personalWeapon_ins_plural] вооружённых, и поубивали они многих из тех, в ком [deity0_saw] [deity0_name] последователей своих покорных.</li>
+    <li>conflict-&gt;[butOrAnd] восстали [once] [foeLeader] с [foeSoldiers_ins] злобные, и пленены ими были [place_community_pre_in] [memberNamePlural] многие.</li>
+    <li>conflict-&gt;[butOrAnd] [deity0_subjected] [once] [deity0_name] нападкам [evil_adj_no_ending]ого [foeLeader_gen] да его [foeSoldiers_genacc] вдруг нежданно-негаданно, и бежали [memberNamePlural] [place_community_acc_to] схорониться-попрятаться.</li>
+    <li>founderJoin-&gt;[soonerOrLater] [founder_tried] [brave_adj_no_ending][founder_ending] [founder_hero] [founderName] убить [foeLeader_acc], да провалилось покушение [founder_possessive] тщетное. [deity0_noticed] же [deity0_name] старания [founder_hero_gen] да [deity0_named] [founder_possessive] [founder_their_prophet].</li>
+    <li>founderJoin-&gt;[thereWasARumor] [deity0_showed] [deity0_name] к [founder_place_job_dat] по имени [founderName] [revelationAdverb] таинственном да [deity0_set] [founder_possessive] на путь [memeConcept] спасительный.</li>
+    <li>founderJoin-&gt;[thereWasARumor] [deity0_turned] как-то [deity0_name] в [revelationObject], да [founder_stumbled] на н[deity0_possessive] [founder_place_job] [founderName] в странствии своём длительном, и говорили они [forSoLong] о важности [memeConcept] исключительной.</li>
+    <li>founderJoin-&gt;[soonerOrLater] [founder_threw] [founder_place_job] [founderName] призывный клич, и пришли [memberNamePlural] на воззвание [founder_possessive] зычное, да даже некоторые [foeSoldiers] стали под [founder_possessive] знамёна, образумившись.</li>
+    <li>founderJoin-&gt;[soonerOrLater] [founder_stood_up] [founder_place_job] [founderName] против [foeLeader_gen], спесивца своевольного, и [deity0_blessed] [founder_possessive] [deity0_name] за доблесть беспримерную.</li>
+    <li>founderJoin-&gt;[soonerOrLater] [deity0_noticed] [deity0_name], что попали [memberNamePlural] в положение нелёгкое, да [deity0_came] к ним в обличье [founder_human_gen] по имени [founderName], дабы оказать поддержку им посильную.</li>
+    <li>founderJoin-&gt;[soonerOrLater] [founder_took] [founder_hero] [founderName] в руки [place_personalWeapon_acc] да [founder_killed] сотню [foeSoldiers_genacc] под наставлением божественным, что [deity0_guided] [deity0_name] через реликвию «[relic0_name]» священную.</li>
+    <li>victory-&gt;[soonerOrLater_Period] собрались [memberNamePlural] [place_community_pre_in] торжественно, да и [founder_taught] их наконец [founderName] мудрости божественной.</li>
+    <li>victory-&gt;[soonerOrLater] [founder_rushed] [brave_adj_no_ending][founder_ending] [founderName] в битву последнюю — да [founder_sacrificed] собой, чтобы лично убить [foeLeader_acc], гада [damned2_adj_no_ending]ого.</li>
+    <li>deity0_watched(deity0_gender==None)-&gt;следило</li>
+    <li>deity0_watched(deity0_gender==Male)-&gt;следил</li>
+    <li>deity0_watched(deity0_gender==Female)-&gt;следила</li>
+    <li>deity0_spread(deity0_gender==None)-&gt;простирало</li>
+    <li>deity0_spread(deity0_gender==Male)-&gt;простирал</li>
+    <li>deity0_spread(deity0_gender==Female)-&gt;простирала</li>
+    <li>deity0_showed(deity0_gender==None)-&gt;явилось</li>
+    <li>deity0_showed(deity0_gender==Male)-&gt;явился</li>
+    <li>deity0_showed(deity0_gender==Female)-&gt;явилась</li>
+    <li>deity0_started_to_lead(deity0_gender==None)-&gt;повело</li>
+    <li>deity0_started_to_lead(deity0_gender==Male)-&gt;повёл</li>
+    <li>deity0_started_to_lead(deity0_gender==Female)-&gt;повела</li>
+    <li>deity0_led(deity0_gender==None)-&gt;привело</li>
+    <li>deity0_led(deity0_gender==Male)-&gt;привёл</li>
+    <li>deity0_led(deity0_gender==Female)-&gt;привела</li>
+    <li>deity0_hepled(deity0_gender==None)-&gt;помогло</li>
+    <li>deity0_hepled(deity0_gender==Male)-&gt;помог</li>
+    <li>deity0_hepled(deity0_gender==Female)-&gt;помогла</li>
+    <li>deity0_was_revered(deity0_gender==None)-&gt;почитаемо было</li>
+    <li>deity0_was_revered(deity0_gender==Male)-&gt;почитаем был</li>
+    <li>deity0_was_revered(deity0_gender==Female)-&gt;почитаема была</li>
+    <li>deity0_saw(deity0_gender==None)-&gt;видело</li>
+    <li>deity0_saw(deity0_gender==Male)-&gt;видел</li>
+    <li>deity0_saw(deity0_gender==Female)-&gt;видела</li>
+    <li>deity0_subjected(deity0_gender==None)-&gt;подверглось</li>
+    <li>deity0_subjected(deity0_gender==Male)-&gt;подвергся</li>
+    <li>deity0_subjected(deity0_gender==Female)-&gt;подверглась</li>
+    <li>deity0_noticed(deity0_gender==None)-&gt;заметило</li>
+    <li>deity0_noticed(deity0_gender==Male)-&gt;заметил</li>
+    <li>deity0_noticed(deity0_gender==Female)-&gt;заметила</li>
+    <li>deity0_named(deity0_gender==None)-&gt;нарекло</li>
+    <li>deity0_named(deity0_gender==Male)-&gt;нарёк</li>
+    <li>deity0_named(deity0_gender==Female)-&gt;нарекла</li>
+    <li>deity0_set(deity0_gender==None)-&gt;направило</li>
+    <li>deity0_set(deity0_gender==Male)-&gt;направил</li>
+    <li>deity0_set(deity0_gender==Female)-&gt;направила</li>
+    <li>deity0_turned(deity0_gender==None)-&gt;обратилось</li>
+    <li>deity0_turned(deity0_gender==Male)-&gt;обратился</li>
+    <li>deity0_turned(deity0_gender==Female)-&gt;обратилась</li>
+    <li>deity0_blessed(deity0_gender==None)-&gt;благословило</li>
+    <li>deity0_blessed(deity0_gender==Male)-&gt;благословил</li>
+    <li>deity0_blessed(deity0_gender==Female)-&gt;благословила</li>
+    <li>deity0_came(deity0_gender==None)-&gt;пришло</li>
+    <li>deity0_came(deity0_gender==Male)-&gt;пришёл</li>
+    <li>deity0_came(deity0_gender==Female)-&gt;пришла</li>
+    <li>deity0_guided(deity0_gender==None)-&gt;твердило</li>
+    <li>deity0_guided(deity0_gender==Male)-&gt;твердил</li>
+    <li>deity0_guided(deity0_gender==Female)-&gt;твердила</li>
+    <li>founder_place_job(founder_gender==Male)-&gt;[place_job]</li>
+    <li>founder_place_job(founder_gender==Female)-&gt;[place_job_fem]</li>
+    <li>founder_place_job_gen(founder_gender==Male)-&gt;[place_job_gen]</li>
+    <li>founder_place_job_gen(founder_gender==Female)-&gt;[place_job_gen_fem]</li>
+    <li>founder_place_job_dat(founder_gender==Male)-&gt;[place_job_dat]</li>
+    <li>founder_place_job_dat(founder_gender==Female)-&gt;[place_job_dat_fem]</li>
+    <li>founder_place_job_acc(founder_gender==Male)-&gt;[place_job_acc]</li>
+    <li>founder_place_job_acc(founder_gender==Female)-&gt;[place_job_acc_fem]</li>
+    <li>founder_tried(founder_gender==Male)-&gt;попытался</li>
+    <li>founder_tried(founder_gender==Female)-&gt;попыталась</li>
+    <li>founder_hero(founder_gender==Male)-&gt;герой</li>
+    <li>founder_hero(founder_gender==Female)-&gt;героиня</li>
+    <li>founder_hero_gen(founder_gender==Male)-&gt;героя</li>
+    <li>founder_hero_gen(founder_gender==Female)-&gt;героини</li>
+    <li>founder_their_prophet(founder_gender==Male)-&gt;пророком своим ревностным</li>
+    <li>founder_their_prophet(founder_gender==Female)-&gt;пророчицей своей ревностной</li>
+    <li>founder_stumbled(founder_gender==Male)-&gt;наткнулся</li>
+    <li>founder_stumbled(founder_gender==Female)-&gt;наткнулась</li>
+    <li>founder_threw(founder_gender==Male)-&gt;кинул</li>
+    <li>founder_threw(founder_gender==Female)-&gt;кинула</li>
+    <li>founder_stood_up(founder_gender==Male)-&gt;выступил</li>
+    <li>founder_stood_up(founder_gender==Female)-&gt;выступила</li>
+    <li>founder_human_gen(founder_gender==Male)-&gt;мужчины</li>
+    <li>founder_human_gen(founder_gender==Female)-&gt;женщины</li>
+    <li>founder_took(founder_gender==Male)-&gt;взял</li>
+    <li>founder_took(founder_gender==Female)-&gt;взяла</li>
+    <li>founder_killed(founder_gender==Male)-&gt;убил</li>
+    <li>founder_killed(founder_gender==Female)-&gt;убила</li>
+    <li>founder_taught(founder_gender==Male)-&gt;научил</li>
+    <li>founder_taught(founder_gender==Female)-&gt;научила</li>
+    <li>founder_rushed(founder_gender==Male)-&gt;ринулся</li>
+    <li>founder_rushed(founder_gender==Female)-&gt;ринулась</li>
+    <li>founder_sacrificed(founder_gender==Male)-&gt;пожертвовал</li>
+    <li>founder_sacrificed(founder_gender==Female)-&gt;пожертвовала</li>
+    <li>founder_ending(founder_gender==Male)-&gt;ый</li>
+    <li>founder_ending(founder_gender==Female)-&gt;ая</li>
+    <li>altarRoomLabel_gen-&gt;{lookup: [altarRoomLabel]; Case; 1}</li>
+    <li>altarRoomLabel_acc-&gt;{lookup: [altarRoomLabel]; Case; 3}</li>
+    <li>altarRoomLabel_pre-&gt;{lookup: [altarRoomLabel]; Case; 5}</li>
+    <li>longAgo_Cont-&gt;издавна</li>
+    <li>longAgo_Cont-&gt;издревле</li>
+    <li>longAgo_Cont-&gt;испокон веков</li>
+    <li>longAgo_Cont-&gt;с незапамятных времён</li>
+    <li>longAgo_Perf-&gt;давным-давно</li>
+    <li>longAgo_Perf-&gt;в незапамятные времена</li>
+    <li>longAgo_Perf-&gt;в стародавние времена</li>
+    <li>once(uses=1,priority=3)-&gt;однажды</li>
+    <li>once(uses=1,priority=2)-&gt;[once_Dummy]</li>
+    <li>once-&gt;как-то</li>
+    <li>onceTwice-&gt;[once_Dummy][once]</li>
+    <li>once_Dummy(uses=1)-&gt;</li>
+    <li>but(uses=1)-&gt;но</li>
+    <li>butOrAnd(uses=1,priority=2)-&gt;[but][but_Dummy]</li>
+    <li>butOrAnd-&gt;и вот</li>
+    <li>but_Dummy(uses=1)-&gt;</li>
+    <li>revelationAdverb-&gt;в видении</li>
+    <li>revelationAdverb-&gt;во сне</li>
+    <li>revelationAdverb-&gt;в кошмаре</li>
+    <li>revelationAdverb-&gt;в образе [Animal_gen]</li>
+    <li>revelationAdverb-&gt;в обличье попрошайки</li>
+    <li>revelationObject-&gt;сияющий [Vegetable_masc]</li>
+    <li>revelationObject-&gt;сияющую [Vegetable_fem_acc]</li>
+    <li>revelationObject-&gt;древний [Weapon_masc]</li>
+    <li>revelationObject-&gt;древнюю [Weapon_fem_acc]</li>
+    <li>soonerOrLater(uses=1,priority=2)-&gt;[soonerOrLater_Period]</li>
+    <li>soonerOrLater-&gt;[soonerOrLater_Moment]</li>
+    <li>soonerOrLater_Period(uses=1)-&gt;долго ли, коротко ли,</li>
+    <li>soonerOrLater_Period(uses=1)-&gt;много ли, мало ли времени прошло,</li>
+    <li>soonerOrLater_Moment-&gt;и вот настал [crucial] день,</li>
+    <li>crucial-&gt;решающий</li>
+    <li>crucial-&gt;судьбоносный</li>
+    <li>forSoLong(uses=1)-&gt;три дня и три ночи</li>
+    <li>forSoLong(uses=1)-&gt;целый день от утра до вечера</li>
+    <li>thereWasARumor-&gt;[someTalk] [atThatTime], что</li>
+    <li>someTalk-&gt;поговаривали же</li>
+    <li>someTalk-&gt;ходила же молва</li>
+    <li>someTalk-&gt;сказывали же</li>
+    <li>atThatTime-&gt;в те времена</li>
+    <li>atThatTime-&gt;в ту пору</li>
+    <li>brave_adj_no_ending-&gt;бесстрашн</li>
+    <li>brave_adj_no_ending-&gt;доблестн</li>
+    <li>brave_adj_no_ending-&gt;отважн</li>
+    <li>brave_adj_no_ending-&gt;храбр</li>
+    <li>evil_adj_no_ending-&gt;безжалостн</li>
+    <li>evil_adj_no_ending-&gt;беспощадн</li>
+    <li>evil_adj_no_ending-&gt;злобн</li>
+    <li>vile_adj-&gt;вероломный</li>
+    <li>vile_adj-&gt;злонравный</li>
+    <li>vile_adj-&gt;коварный</li>
+    <li>vile_adj-&gt;криводушный</li>
+    <li>damned2_adj_no_ending-&gt;поган</li>
+    <li>damned2_adj_no_ending-&gt;проклят</li>
+    <li>damned2_adj_no_ending-&gt;треклят</li>
+    <li>damned3_adj_no_ending-&gt;окаянн</li>
+    <li>damned3_adj_no_ending-&gt;распроклят</li>
+    <li>damned3_adj_no_ending-&gt;растреклят</li>
+  </TheistFounder.rules.rulesStrings>
+  <TheistMyth.rules.rulesStrings>
+    <li>episode(priority=-1)-&gt;</li>
+    <li>creation-&gt;Вечность целую [universeFilledColoredMaterial]. Но [deity0_created] [deity0_name] планеты и звёзды. [andItWasSo]</li>
+    <li>creation-&gt;[deity0_saw] [deity0_name], что мир старый раздоры терзают, и [deity0_whipped] на него огонь великий. И поглотил огонь мир старый, и превратил в пепел эпоху уходящую, и родился из пепла мир новый. [andItWasSo]</li>
+    <li>creation-&gt;[deity0_created] [deity0_name] людей в великом торжестве случая. И стали [deity0_objective] любопытны они, и [deity0_began] [deity0_pronoun] наблюдать за ними.</li>
+    <li>creation-&gt;В начале была пустота, и пустота была вечной, и [deity0_was] [deity0_name] посреди неё. Но [deity0_bored] [deity0_name] от пустоты вечной, и [deity0_created] [deity0_pronoun] мужчину из [bodilyOrigin], и [deity0_created] [deity0_pronoun] женщину из [bodilyOrigin]. [andItWasSo]</li>
+    <li>episode(uses=1)-&gt;И [deity0_looking] [deity0_name] за родом человеческим чутко, и [deity0_began] [deity0_pronoun] считать людей детьми своими, и [deity0_declared] [deity0_pronoun] верховенство своё над ними.</li>
+    <li>episode(uses=1)-&gt;И [deity0_extended] [deity0_name] волю свою сквозь пространства звёздные, чтобы поддерживать жизнь человечества, пустотой окружённого.</li>
+    <li>episode(uses=1)-&gt;И пытались многие одолеть [deity0_possessive], но [deity0_prevented] [deity0_name] им с лёгкостью, ибо [deity0_was] [deity0_pronoun] — [deity0_type].</li>
+    <li>episode(uses=1)-&gt;И [deity0_saw2] [deity0_name] страдания человечества, и приносили они [deity0_objective] горе великое.</li>
+    <li>deity0_created(deity0_gender==None)-&gt;создало</li>
+    <li>deity0_created(deity0_gender==Male)-&gt;создал</li>
+    <li>deity0_created(deity0_gender==Female)-&gt;создала</li>
+    <li>deity0_saw(deity0_gender==None)-&gt;увидело</li>
+    <li>deity0_saw(deity0_gender==Male)-&gt;увидел</li>
+    <li>deity0_saw(deity0_gender==Female)-&gt;увидела</li>
+    <li>deity0_whipped(deity0_gender==None)-&gt;ниспослало</li>
+    <li>deity0_whipped(deity0_gender==Male)-&gt;ниспослал</li>
+    <li>deity0_whipped(deity0_gender==Female)-&gt;ниспослала</li>
+    <li>deity0_began(deity0_gender==None)-&gt;стало</li>
+    <li>deity0_began(deity0_gender==Male)-&gt;стал</li>
+    <li>deity0_began(deity0_gender==Female)-&gt;стала</li>
+    <li>deity0_was(deity0_gender==None)-&gt;было</li>
+    <li>deity0_was(deity0_gender==Male)-&gt;был</li>
+    <li>deity0_was(deity0_gender==Female)-&gt;была</li>
+    <li>deity0_bored(deity0_gender==None)-&gt;устало</li>
+    <li>deity0_bored(deity0_gender==Male)-&gt;устал</li>
+    <li>deity0_bored(deity0_gender==Female)-&gt;устала</li>
+    <li>deity0_looking(deity0_gender==None)-&gt;наблюдало</li>
+    <li>deity0_looking(deity0_gender==Male)-&gt;наблюдал</li>
+    <li>deity0_looking(deity0_gender==Female)-&gt;наблюдала</li>
+    <li>deity0_declared(deity0_gender==None)-&gt;провозгласило</li>
+    <li>deity0_declared(deity0_gender==Male)-&gt;провозгласил</li>
+    <li>deity0_declared(deity0_gender==Female)-&gt;провозгласила</li>
+    <li>deity0_extended(deity0_gender==None)-&gt;простирало</li>
+    <li>deity0_extended(deity0_gender==Male)-&gt;простирал</li>
+    <li>deity0_extended(deity0_gender==Female)-&gt;простирала</li>
+    <li>deity0_prevented(deity0_gender==None)-&gt;противостояло</li>
+    <li>deity0_prevented(deity0_gender==Male)-&gt;противостоял</li>
+    <li>deity0_prevented(deity0_gender==Female)-&gt;противостояла</li>
+    <li>deity0_saw2(deity0_gender==None)-&gt;видело</li>
+    <li>deity0_saw2(deity0_gender==Male)-&gt;видел</li>
+    <li>deity0_saw2(deity0_gender==Female)-&gt;видела</li>
+    <li>universeFilledColoredMaterial-&gt;полнил собой вселенную [materialOrigin_masc] [Color]</li>
+    <li>universeFilledColoredMaterial-&gt;полнила собой вселенную [materialOrigin_fem] [Color_fem]</li>
+    <li>materialOrigin_masc-&gt;газ</li>
+    <li>materialOrigin_masc-&gt;песок</li>
+    <li>materialOrigin_fem-&gt;глина</li>
+    <li>materialOrigin_fem-&gt;вода</li>
+    <li>materialOrigin_fem-&gt;пустота</li>
+    <li>bodilyOrigin-&gt;глины</li>
+    <li>bodilyOrigin-&gt;камня</li>
+    <li>bodilyOrigin-&gt;пота</li>
+    <li>andItWasSo(uses=1,priority=3)-&gt;и стало всё так.</li>
+    <li>andItWasSo(uses=1,priority=2)-&gt;и стало так.</li>
+    <li>andItWasSo-&gt;</li>
+    <li>andBehold(uses=1,priority=2)-&gt;и вот,</li>
+    <li>andBehold-&gt;и</li>
+  </TheistMyth.rules.rulesStrings>
+</LanguageData>

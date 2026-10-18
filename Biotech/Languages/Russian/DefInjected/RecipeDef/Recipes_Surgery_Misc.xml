@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BloodTransfusion.label>перелить кровь</BloodTransfusion.label>
+  <BloodTransfusion.description>Использовать гемоген-пакет для уменьшения последствий кровопотери. Каждый пакет восстанавливает 35% от общего количества крови. Операция также восстанавливает гемоген у гемогеничных существ.</BloodTransfusion.description>
+  <BloodTransfusion.jobString>Переливает кровь TargetA</BloodTransfusion.jobString>
+  <ExtractHemogenPack.label>откачать гемоген</ExtractHemogenPack.label>
+  <ExtractHemogenPack.description>Получить гемоген-пакет из крови пациента. Этого не удастся сделать, если у пациента недостаточно крови.\n\nГемоген можно переливать другим пациентам для уменьшения последствия кровопотери или насыщения тех, кто питается кровью.</ExtractHemogenPack.description>
+  <ExtractHemogenPack.jobString>Откачивает гемоген</ExtractHemogenPack.jobString>
+  <ExtractOvum.label>извлечь яйцеклетку</ExtractOvum.label>
+  <ExtractOvum.description>Извлечь яйцеклетку в капсулу для хранения. Затем яйцеклетка может быть оплодотворена мужчиной и в конечном итоге имплантирована матери для дальнейшего развития.</ExtractOvum.description>
+  <ExtractOvum.jobString>Извлекает яйцеклетку из TargetA</ExtractOvum.jobString>
+  <ImplantEmbryo.label>имплантировать эмбрион</ImplantEmbryo.label>
+  <ImplantEmbryo.description>Имплантировать эмбрион суррогатной матери для дальнейшего развития.</ImplantEmbryo.description>
+  <ImplantEmbryo.jobString>Имплантирует эмбрион в TargetA</ImplantEmbryo.jobString>
+  <ImplantIUD.label>имплантировать спираль</ImplantIUD.label>
+  <ImplantIUD.description>Имплантировать миниатюрную металлическую спираль в матку, чтобы временно лишить пациентку способности забеременеть. Позже её можно удалить, но есть небольшая вероятность того, что пациентка навсегда останется бесплодной. Эта операция прерывает беременность в первом триместре.</ImplantIUD.description>
+  <ImplantIUD.jobString>Имплантирует спираль в TargetA</ImplantIUD.jobString>
+  <ImplantIUD.successfullyRemovedHediffMessage>{0} успешно имплантирует спираль в {1}.</ImplantIUD.successfullyRemovedHediffMessage>
+  <ImplantXenogerm.label>вживить ксеносемя</ImplantXenogerm.label>
+  <ImplantXenogerm.description>Вживить ксеносемя в пациента. Эта операция заменяет предыдущее ксеносемя, если оно имелось.</ImplantXenogerm.description>
+  <ImplantXenogerm.jobString>Вживляет ксеносемя</ImplantXenogerm.jobString>
+  <RemoveIUD.label>удалить спираль</RemoveIUD.label>
+  <RemoveIUD.description>Удалить имплантированную внутриматочную спираль, возвращая пациентке способность забеременеть. Если операция пройдёт неудачно, пациентка навсегда останется бесплодной.</RemoveIUD.description>
+  <RemoveIUD.jobString>Удаляет спираль из TargetA</RemoveIUD.jobString>
+  <RemoveIUD.successfullyRemovedHediffMessage>{0} успешно удаляет спираль у {1}.</RemoveIUD.successfullyRemovedHediffMessage>
+  <ReverseVasectomy.label>обратная вазэктомия</ReverseVasectomy.label>
+  <ReverseVasectomy.description>Провести обратную вазэктомию и снова сделать мужчину способным к зачатию. Большинство операций обратной вазэктомии завершаются успешно, но в случае неудачной операции мужчина навсегда останется бесплодным.</ReverseVasectomy.description>
+  <ReverseVasectomy.jobString>Проводит обратную вазэктомию</ReverseVasectomy.jobString>
+  <ReverseVasectomy.successfullyRemovedHediffMessage>{0} успешно проводит обратную вазэктомию у {1}</ReverseVasectomy.successfullyRemovedHediffMessage>
+  <TerminatePregnancy.label>прервать беременность</TerminatePregnancy.label>
+  <TerminatePregnancy.description>Прервать беременность человека или животного.</TerminatePregnancy.description>
+  <TerminatePregnancy.jobString>Прерывает беременность TargetA</TerminatePregnancy.jobString>
+  <TubalLigation.label>перевязать маточные трубы</TubalLigation.label>
+  <TubalLigation.description>Навсегда сделать пациентку бесплодной и неспособной к воспроизведению потомства.</TubalLigation.description>
+  <TubalLigation.jobString>Выполняет перевязку маточных труб у TargetA</TubalLigation.jobString>
+  <TubalLigation.successfullyRemovedHediffMessage>{0} успешно выполняет перевязку маточных труб у {1}.</TubalLigation.successfullyRemovedHediffMessage>
+  <Vasectomy.label>провести вазэктомию</Vasectomy.label>
+  <Vasectomy.description>Удалить фрагменты семявыносящих протоков пациента, чтобы сделать его неспособным к зачатию. Если операция пройдет неудачно, пациент навсегда останется бесплодным.</Vasectomy.description>
+  <Vasectomy.jobString>Проводит вазэктомию у TargetA</Vasectomy.jobString>
+  <Vasectomy.successfullyRemovedHediffMessage>{0} успешно проводит вазэктомию у {1}.</Vasectomy.successfullyRemovedHediffMessage>
+</LanguageData>

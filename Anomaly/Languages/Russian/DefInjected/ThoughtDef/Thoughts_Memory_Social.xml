@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DrainedMySkills.stages.drained_my_skills.label>{PAWN_gender ? отнял : отняла} у меня навыки</DrainedMySkills.stages.drained_my_skills.label>
+  <UsedMeForPsychicRitual.stages.used_me_for_psychic_ritual.label>{PAWN_gender ? провёл : провела} на мне псионический ритуал</UsedMeForPsychicRitual.stages.used_me_for_psychic_ritual.label>
+</LanguageData>

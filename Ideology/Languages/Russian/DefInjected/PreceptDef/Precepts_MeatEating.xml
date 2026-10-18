@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MeatEating_Abhorrent.label>отвратительно</MeatEating_Abhorrent.label>
+  <MeatEating_Abhorrent.description>Есть мясо — очень плохо.</MeatEating_Abhorrent.description>
+  <MeatEating_Disapproved.label>не одобряется</MeatEating_Disapproved.label>
+  <MeatEating_Disapproved.description>Следует избегать употребления мяса в любом виде.</MeatEating_Disapproved.description>
+  <MeatEating_Horrible.label>ужасно</MeatEating_Horrible.label>
+  <MeatEating_Horrible.description>Есть мясо — ужасно.</MeatEating_Horrible.description>
+  <MeatEating_NonMeat_Abhorrent.label>вегетарианство отвратительно</MeatEating_NonMeat_Abhorrent.label>
+  <MeatEating_NonMeat_Abhorrent.description>Всё вегетарианцы — глубоко нравственно неполноценны. В любом блюде должно быть мясо или продукты животного происхождения, такие как яйца или молоко.</MeatEating_NonMeat_Abhorrent.description>
+  <MeatEating_NonMeat_Disapproved.label>вегетарианство не одобряется</MeatEating_NonMeat_Disapproved.label>
+  <MeatEating_NonMeat_Disapproved.description>Есть вегетарианскую еду — противно. В любом блюде должно быть мясо или продукты животного происхождения, такие как яйца или молоко.</MeatEating_NonMeat_Disapproved.description>
+  <MeatEating_NonMeat_Horrible.label>вегетарианство ненавистно</MeatEating_NonMeat_Horrible.label>
+  <MeatEating_NonMeat_Horrible.description>Есть вегетарианскую еду — омерзительно. В любом блюде должно быть мясо или продукты животного происхождения, такие как яйца или молоко.</MeatEating_NonMeat_Horrible.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChildLabor_Disapproved.label>порицается</ChildLabor_Disapproved.label>
+  <ChildLabor_Disapproved.description>Детство — это святое. Мы должны позволить детям оставаться детьми.</ChildLabor_Disapproved.description>
+  <ChildLabor_Disapproved.comps.0.description>Дети работают</ChildLabor_Disapproved.comps.0.description>
+  <ChildLabor_Encouraged.label>поощряется</ChildLabor_Encouraged.label>
+  <ChildLabor_Encouraged.description>Характер детей формируется в процессе труда. Важно, чтобы каждый вносил свой вклад.</ChildLabor_Encouraged.description>
+  <ChildLabor_Encouraged.comps.0.description>Дети развлекаются</ChildLabor_Encouraged.comps.0.description>
+</LanguageData>

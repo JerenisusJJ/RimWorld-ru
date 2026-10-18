@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CommandBedSetForSlavesLabel>Для рабов</CommandBedSetForSlavesLabel>
+  <CommandBedSetForColonistsLabel>Для поселенцев</CommandBedSetForColonistsLabel>
+  <CommandBedSetForOwnerTypeDesc>Определяет, кем будут использоваться кровати в этой комнате: поселенцами, пленниками или рабами.</CommandBedSetForOwnerTypeDesc>
+  <CommandNeuralSuperchargerNoAutoUse>Не использовать самостоятельно</CommandNeuralSuperchargerNoAutoUse>
+  <CommandNeuralSuperchargerNoAutoUseDescription>Никто из ваших поселенцев не будет самостоятельно использовать этот нейронный стимулятор.</CommandNeuralSuperchargerNoAutoUseDescription>
+  <CommandNeuralSuperchargerAutoUseWithDesire>Использовать самостоятельно по необходимости</CommandNeuralSuperchargerAutoUseWithDesire>
+  <CommandNeuralSuperchargerAutoUseWithDesireDescription>Ваши поселенцы смогут использовать этот нейронный стимулятор автоматически, если им это необходимо по убеждениям.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+  <CommandNeuralSuperchargerAutoForEveryone>Разрешить самостоятельное использование всем</CommandNeuralSuperchargerAutoForEveryone>
+  <CommandNeuralSuperchargerAutoForEveryoneDescription>Всё поселенцы смогут самостоятельно пользоваться этим нейронным стимулятором при возможности.</CommandNeuralSuperchargerAutoForEveryoneDescription>
+  <CommandNeuralSuperchargerAllowGuests>Разрешить для гостей</CommandNeuralSuperchargerAllowGuests>
+  <CommandNeuralSuperchargerAllowGuestsDescription>Разрешить гостям пользоваться этим нейронным стимулятором.</CommandNeuralSuperchargerAllowGuestsDescription>
+  <CommandSelectConnectedTree>Выбрать связанное древо</CommandSelectConnectedTree>
+  <CommandHealInHealingPod>Создавать регенеративный кокон</CommandHealInHealingPod>
+  <CommandHealInHealingPodDesc>При ранении дриада вернётся к своему древу Гауранлен и войдёт в древесный регенеративный кокон. Через {DAYS_numCase ? день : дня : дней}, проведённых в коконе, её раны залечатся, и она покинет его.</CommandHealInHealingPodDesc>
+</LanguageData>

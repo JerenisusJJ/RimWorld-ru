@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Delicate.degreeDatas.delicate.label>хрупкость</Delicate.degreeDatas.delicate.label>
+  <Delicate.degreeDatas.delicate.description>У {PAWN_nameDef} хрупкие кости и очень нежная кожа. {PAWN_pronoun} получает больше урона, чем остальные.</Delicate.degreeDatas.delicate.description>
+  <Recluse.degreeDatas.recluse.label>отшельничество</Recluse.degreeDatas.recluse.label>
+  <Recluse.degreeDatas.recluse.description>Чем меньше людей в {PAWN_possessive} фракции, тем довольнее {PAWN_nameDef}. А лучше, чтобы вообще никого не было.</Recluse.degreeDatas.recluse.description>
+</LanguageData>

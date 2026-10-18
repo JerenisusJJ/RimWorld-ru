@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NoxiousHaze.label>кислотный смог</NoxiousHaze.label>
+  <NoxiousHaze.description>Кислотный смог вызван загрязнением соседних областей. Он замедляет рост растений, разрушает лежащие на земле предметы и ухудшает настроение поселенцев.\n\nТекущая область имеет загрязнение уровня {NEARBYPOLLUTION}, исходя из загрязнения ближайших окрестностей. Это означает, что кислотный смог будет образовываться раз в {MTB_numCase ? день : дня : дней}.</NoxiousHaze.description>
+  <NoxiousHaze.endMessage>Кислотный смог рассеивается</NoxiousHaze.endMessage>
+  <NoxiousHaze.startMessage>Эту область накрыл кислотный смог из-за высокого уровня загрязнения.</NoxiousHaze.startMessage>
+</LanguageData>

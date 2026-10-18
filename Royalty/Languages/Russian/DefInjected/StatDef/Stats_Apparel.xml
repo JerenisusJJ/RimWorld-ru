@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <JumpRange.label>Дальность прыжка</JumpRange.label>
+  <JumpRange.description>Максимальная дистанция прыжка.</JumpRange.description>
+  <JumpRange.formatString>{0} м</JumpRange.formatString>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChildBirth.roles.0.label>мать</ChildBirth.roles.0.label>
+  <ChildBirth.roles.1.label>врач</ChildBirth.roles.1.label>
+  <ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>рожает</ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>
+  <ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>рожает</ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>
+  <ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>принимает роды</ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>
+</LanguageData>

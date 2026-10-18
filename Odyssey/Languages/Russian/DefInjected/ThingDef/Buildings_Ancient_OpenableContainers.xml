@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientBox_ComponentIndustrial.label>ящик с компонентами</AncientBox_ComponentIndustrial.label>
+  <AncientBox_ComponentIndustrial.description>Ящик, наполненный ценными компонентами. Некоторые из них целы и пригодны для использования.</AncientBox_ComponentIndustrial.description>
+  <AncientBox_ComponentSpacer.label>ящик с продвинутыми компонентами</AncientBox_ComponentSpacer.label>
+  <AncientBox_ComponentSpacer.description>Ящик с продвинутыми компонентами, хорошо сохранившимися и, возможно, ценными.</AncientBox_ComponentSpacer.description>
+  <AncientBox_SteelSlag.label>ящик с металлоломом</AncientBox_SteelSlag.label>
+  <AncientBox_SteelSlag.description>Ящик, наполненный стальным ломом. Он тяжёлый, но может содержать пригодный для повторного использования металл.</AncientBox_SteelSlag.description>
+  <AncientChemfuelCanister.label>канистра с химтопливом</AncientChemfuelCanister.label>
+  <AncientChemfuelCanister.description>Запечатанная канистра с химтопливом. Возможно, внутри осталось пригодное топливо.</AncientChemfuelCanister.description>
+  <AncientPallet_SteelSlag.label>палета с металлоломом</AncientPallet_SteelSlag.label>
+  <AncientPallet_SteelSlag.description>Палета, нагруженная металлоломом. Внутри всё ещё может быть пригодный металл.</AncientPallet_SteelSlag.description>
+  <AncientSafe.label>заржавевший сейф</AncientSafe.label>
+  <AncientSafe.description>Запертый сейф. Он сильно проржавел, поэтому его легко вскрыть. Возможно, внутри есть ценные вещи.</AncientSafe.description>
+  <AncientSealedContainer.label>герметичный контейнер</AncientSealedContainer.label>
+  <AncientSealedContainer.description>Большой герметичный контейнер. Возможно, в нем хранятся ценные припасы.</AncientSealedContainer.description>
+  <AncientSealedContainer_GravshipUpgrade.label>герметичный контейнер</AncientSealedContainer_GravshipUpgrade.label>
+  <AncientSealedContainer_GravshipUpgrade.description>Большой герметичный контейнер. Возможно, в нем хранятся ценные припасы.</AncientSealedContainer_GravshipUpgrade.description>
+  <AncientSealedCrate.label>герметичный ящик</AncientSealedCrate.label>
+  <AncientSealedCrate.description>Небольшой, еще не вскрытый ящик. Внутри могут быть ценные вещи.</AncientSealedCrate.description>
+  <AncientSealedCrate_Gravlite.label>герметичный ящик</AncientSealedCrate_Gravlite.label>
+  <AncientSealedCrate_Gravlite.description>Небольшой, еще не вскрытый ящик. Внутри могут быть ценные вещи.</AncientSealedCrate_Gravlite.description>
+  <AncientSealedCrate_Shells.label>герметичный ящик</AncientSealedCrate_Shells.label>
+  <AncientSealedCrate_Shells.description>Небольшой, еще не вскрытый ящик. Внутри могут быть ценные вещи.</AncientSealedCrate_Shells.description>
+  <MalfunctioningTransportPod.label>неисправная транспортная капсула</MalfunctioningTransportPod.label>
+  <MalfunctioningTransportPod.description>Грузовая капсула с неисправным механизмом открытия. Она всё ещё запечатана, содержимое неизвестно.</MalfunctioningTransportPod.description>
+  <Pallet_Medicine.label>палета с медикаментами</Pallet_Medicine.label>
+  <Pallet_Medicine.description>Палета с устаревшими медицинскими припасами. Некоторые из них могут быть ещё пригодны для использования.</Pallet_Medicine.description>
+  <Pallet_SurvivalMeals.label>палета с аварийными пайками</Pallet_SurvivalMeals.label>
+  <Pallet_SurvivalMeals.description>Палета с аварийными пайками. Содержимое повреждено, но некоторые пайки ещё можно спасти.</Pallet_SurvivalMeals.description>
+  <SealedCrate.label>герметичный ящик</SealedCrate.label>
+  <SealedCrate.description>Небольшой, ещё не вскрытый ящик. Внутри могут быть ценные вещи.</SealedCrate.description>
+</LanguageData>

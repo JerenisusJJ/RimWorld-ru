@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AttendedFuneral.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</AttendedFuneral.description>
+  <AttendedFuneral.comps.0.label>присутствует духовный лидер</AttendedFuneral.comps.0.label>
+  <AttendedFuneral.comps.1.label>количество участников</AttendedFuneral.comps.1.label>
+  <AttendedFuneral.outcomeChances.0.label>ужасно</AttendedFuneral.outcomeChances.0.label>
+  <AttendedFuneral.outcomeChances.0.description>Эти похороны были ужасны. Они были просто оскорбительны для всех присутствующих.</AttendedFuneral.outcomeChances.0.description>
+  <AttendedFuneral.outcomeChances.1.label>уныло</AttendedFuneral.outcomeChances.1.label>
+  <AttendedFuneral.outcomeChances.1.description>Похороны были унылыми. Речь была слишком длинной и не вызвала никаких эмоций.</AttendedFuneral.outcomeChances.1.description>
+  <AttendedFuneral.outcomeChances.2.label>достойно</AttendedFuneral.outcomeChances.2.label>
+  <AttendedFuneral.outcomeChances.2.description>Похороны прошли хорошо. Заключительные слова дали всем надежду на будущее.</AttendedFuneral.outcomeChances.2.description>
+  <AttendedFuneral.outcomeChances.3.label>трогательно</AttendedFuneral.outcomeChances.3.label>
+  <AttendedFuneral.outcomeChances.3.description>Похороны были трогательными. Речь захватывала внимание и грела душу, все присутствующие разошлись, погружённые в приятные воспоминания.</AttendedFuneral.outcomeChances.3.description>
+  <AttendedFuneralNoCorpse.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</AttendedFuneralNoCorpse.description>
+  <AttendedFuneralNoCorpse.comps.0.label>присутствует духовный лидер</AttendedFuneralNoCorpse.comps.0.label>
+  <AttendedFuneralNoCorpse.comps.1.label>количество участников</AttendedFuneralNoCorpse.comps.1.label>
+  <AttendedFuneralNoCorpse.outcomeChances.0.label>ужасно</AttendedFuneralNoCorpse.outcomeChances.0.label>
+  <AttendedFuneralNoCorpse.outcomeChances.0.description>Эти похороны были ужасны. Они были просто оскорбительны для всех присутствующих.</AttendedFuneralNoCorpse.outcomeChances.0.description>
+  <AttendedFuneralNoCorpse.outcomeChances.1.label>уныло</AttendedFuneralNoCorpse.outcomeChances.1.label>
+  <AttendedFuneralNoCorpse.outcomeChances.1.description>Похороны были унылыми. Речь была слишком длинной и не вызвала никаких эмоций.</AttendedFuneralNoCorpse.outcomeChances.1.description>
+  <AttendedFuneralNoCorpse.outcomeChances.2.label>достойно</AttendedFuneralNoCorpse.outcomeChances.2.label>
+  <AttendedFuneralNoCorpse.outcomeChances.2.description>Похороны прошли хорошо. Заключительные слова дали всем надежду на будущее.</AttendedFuneralNoCorpse.outcomeChances.2.description>
+  <AttendedFuneralNoCorpse.outcomeChances.3.label>трогательно</AttendedFuneralNoCorpse.outcomeChances.3.label>
+  <AttendedFuneralNoCorpse.outcomeChances.3.description>Похороны были трогательными. Речь захватывала внимание и грела душу, все присутствующие разошлись, погружённые в приятные воспоминания.</AttendedFuneralNoCorpse.outcomeChances.3.description>
+  <BlindingCeremony.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</BlindingCeremony.description>
+  <BlindingCeremony.comps.2.label>присутствует духовный лидер</BlindingCeremony.comps.2.label>
+  <BlindingCeremony.comps.3.label>количество участников</BlindingCeremony.comps.3.label>
+  <BlindingCeremony.comps.4.label>начато у алтаря</BlindingCeremony.comps.4.label>
+  <BlindingCeremony.comps.4.expectedThingLabelTip>алтарь</BlindingCeremony.comps.4.expectedThingLabelTip>
+  <BlindingCeremony.extraPredictedOutcomeDescriptions.0>Если {0} пройдёт хорошо, ослеплённый может получить новый уровень пси-связи или обрести новые пси-способности.</BlindingCeremony.extraPredictedOutcomeDescriptions.0>
+  <BlindingCeremony.outcomeChances.0.label>ужасно</BlindingCeremony.outcomeChances.0.label>
+  <BlindingCeremony.outcomeChances.0.description>Ритуал «{0}» прошёл ужасно!</BlindingCeremony.outcomeChances.0.description>
+  <BlindingCeremony.outcomeChances.1.label>скучно</BlindingCeremony.outcomeChances.1.label>
+  <BlindingCeremony.outcomeChances.1.description>Ритуал «{0}» был скучным.</BlindingCeremony.outcomeChances.1.description>
+  <BlindingCeremony.outcomeChances.2.label>достойно</BlindingCeremony.outcomeChances.2.label>
+  <BlindingCeremony.outcomeChances.2.description>Ритуал «{0}» прошёл достойно.</BlindingCeremony.outcomeChances.2.description>
+  <BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>Ослеплённый получит новый уровень пси-связи или обретёт новую пси-способность.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
+  <BlindingCeremony.outcomeChances.3.label>изумительно</BlindingCeremony.outcomeChances.3.label>
+  <BlindingCeremony.outcomeChances.3.description>Ритуал «{0}» был впечатляющим!</BlindingCeremony.outcomeChances.3.description>
+  <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>Ослеплённый получит новый уровень пси-связи или обретёт новую пси-способность.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
+  <CelebratedDate.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</CelebratedDate.description>
+  <CelebratedDate.comps.2.label>присутствует лидер</CelebratedDate.comps.2.label>
+  <CelebratedDate.comps.3.label>количество участников</CelebratedDate.comps.3.label>
+  <CelebratedDate.comps.4.label>начато у алтаря</CelebratedDate.comps.4.label>
+  <CelebratedDate.comps.4.expectedThingLabelTip>алтарь</CelebratedDate.comps.4.expectedThingLabelTip>
+  <CelebratedDate.outcomeChances.0.label>ужасно</CelebratedDate.outcomeChances.0.label>
+  <CelebratedDate.outcomeChances.0.description>Ритуал «{0}» прошёл ужасно!</CelebratedDate.outcomeChances.0.description>
+  <CelebratedDate.outcomeChances.1.label>скучно</CelebratedDate.outcomeChances.1.label>
+  <CelebratedDate.outcomeChances.1.description>Ритуал «{0}» прошёл скучно.</CelebratedDate.outcomeChances.1.description>
+  <CelebratedDate.outcomeChances.2.label>весело</CelebratedDate.outcomeChances.2.label>
+  <CelebratedDate.outcomeChances.2.description>Ритуал «{0}» прошёл хорошо.</CelebratedDate.outcomeChances.2.description>
+  <CelebratedDate.outcomeChances.3.label>незабываемо</CelebratedDate.outcomeChances.3.label>
+  <CelebratedDate.outcomeChances.3.description>Ритуал «{0}» прошёл незабываемо!</CelebratedDate.outcomeChances.3.description>
+  <CelebratedDate_Consumable.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</CelebratedDate_Consumable.description>
+  <CelebratedDate_Consumable.comps.0.label>количество участников</CelebratedDate_Consumable.comps.0.label>
+  <CelebratedDate_Consumable.comps.1.label>впечатление от помещения</CelebratedDate_Consumable.comps.1.label>
+  <CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>Если {0} пройдёт весело, один из участников может получить воодушевление.</CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>
+  <CelebratedDate_Consumable.outcomeChances.0.label>ужасно</CelebratedDate_Consumable.outcomeChances.0.label>
+  <CelebratedDate_Consumable.outcomeChances.0.description>Это было ужасно! Участники несколько часов просто ждали, когда всё кончится, разговаривая друг с другом сквозь зубы.</CelebratedDate_Consumable.outcomeChances.0.description>
+  <CelebratedDate_Consumable.outcomeChances.1.label>скучно</CelebratedDate_Consumable.outcomeChances.1.label>
+  <CelebratedDate_Consumable.outcomeChances.1.description>Встреча прошла скучно. Все чувствовали себя стеснённо и не были готовы к задушевным разговорам и веселью.</CelebratedDate_Consumable.outcomeChances.1.description>
+  <CelebratedDate_Consumable.outcomeChances.2.label>весело</CelebratedDate_Consumable.outcomeChances.2.label>
+  <CelebratedDate_Consumable.outcomeChances.2.description>Встреча прошла весело. Все были рады возможности расслабиться и повеселиться вместе.</CelebratedDate_Consumable.outcomeChances.2.description>
+  <CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>Случайный участник с вероятностью 5% может получить воодушевление.</CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>
+  <CelebratedDate_Consumable.outcomeChances.3.label>незабываемо</CelebratedDate_Consumable.outcomeChances.3.label>
+  <CelebratedDate_Consumable.outcomeChances.3.description>Встреча была незабываемой! Все узнали друг друга получше и почувствовали себя как в одной семье.</CelebratedDate_Consumable.outcomeChances.3.description>
+  <CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>Случайный участник с вероятностью 10% может получить воодушевление.</CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>
+  <CelebrationPartyDanceDrum.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</CelebrationPartyDanceDrum.description>
+  <CelebrationPartyDanceDrum.comps.0.label>количество участников</CelebrationPartyDanceDrum.comps.0.label>
+  <CelebrationPartyDanceDrum.comps.1.label>впечатление от помещения</CelebrationPartyDanceDrum.comps.1.label>
+  <CelebrationPartyDanceDrum.comps.2.label>количество барабанов</CelebrationPartyDanceDrum.comps.2.label>
+  <CelebrationPartyDanceDrum.comps.3.label>начато у костра</CelebrationPartyDanceDrum.comps.3.label>
+  <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>костёр</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
+  <CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>Если {0} пройдёт весело или незабываемо, участники могут получить временный бонус к скорости работы.</CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>
+  <CelebrationPartyDanceDrum.outcomeChances.0.label>ужасно</CelebrationPartyDanceDrum.outcomeChances.0.label>
+  <CelebrationPartyDanceDrum.outcomeChances.0.description>Это было ужасно! Стеснённые разговоры, скучные шутки, глупые танцы и отвратительные музыка.</CelebrationPartyDanceDrum.outcomeChances.0.description>
+  <CelebrationPartyDanceDrum.outcomeChances.1.label>скучно</CelebrationPartyDanceDrum.outcomeChances.1.label>
+  <CelebrationPartyDanceDrum.outcomeChances.1.description>Вечеринка была скучной. Неумелые танцы и посредственная музыка заставляли всех чувствовать, что это потеря времени.</CelebrationPartyDanceDrum.outcomeChances.1.description>
+  <CelebrationPartyDanceDrum.outcomeChances.2.label>весело</CelebrationPartyDanceDrum.outcomeChances.2.label>
+  <CelebrationPartyDanceDrum.outcomeChances.2.description>Вечеринка прошла весело. Всем понравилось вырваться из серых будней и от души потанцевать вместе.</CelebrationPartyDanceDrum.outcomeChances.2.description>
+  <CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>Все почувствовали прилив энергии после единения в танце, подобного трансу. Участники будут некоторое время работать быстрее.</CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>
+  <CelebrationPartyDanceDrum.outcomeChances.3.label>незабываемо</CelebrationPartyDanceDrum.outcomeChances.3.label>
+  <CelebrationPartyDanceDrum.outcomeChances.3.description>Вечеринка была незабываемой! Участники забывались в музыке, чувствуя прочную связь друг с другом.</CelebrationPartyDanceDrum.outcomeChances.3.description>
+  <CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>Все почувствовали прилив энергии после единения в танце, подобного трансу. Участники будут некоторое время работать быстрее.</CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>
+  <CelebrationPartyDanceTech.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</CelebrationPartyDanceTech.description>
+  <CelebrationPartyDanceTech.comps.0.label>количество участников</CelebrationPartyDanceTech.comps.0.label>
+  <CelebrationPartyDanceTech.comps.1.label>впечатление от помещения</CelebrationPartyDanceTech.comps.1.label>
+  <CelebrationPartyDanceTech.comps.2.label>количество подключённых динамиков</CelebrationPartyDanceTech.comps.2.label>
+  <CelebrationPartyDanceTech.comps.3.label>начато у диско-шара.</CelebrationPartyDanceTech.comps.3.label>
+  <CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>диско-шар</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
+  <CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>Если {0} пройдёт весело или незабываемо, участники могут получить временный бонус к скорости работы.</CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>
+  <CelebrationPartyDanceTech.outcomeChances.0.label>ужасно</CelebrationPartyDanceTech.outcomeChances.0.label>
+  <CelebrationPartyDanceTech.outcomeChances.0.description>Это было ужасно! Стеснённые разговоры, скучные шутки, глупые танцы и отвратительные музыка.</CelebrationPartyDanceTech.outcomeChances.0.description>
+  <CelebrationPartyDanceTech.outcomeChances.1.label>скучно</CelebrationPartyDanceTech.outcomeChances.1.label>
+  <CelebrationPartyDanceTech.outcomeChances.1.description>Вечеринка была скучной. Неумелые танцы и посредственная музыка заставляли всех чувствовать, что это потеря времени.</CelebrationPartyDanceTech.outcomeChances.1.description>
+  <CelebrationPartyDanceTech.outcomeChances.2.label>весело</CelebrationPartyDanceTech.outcomeChances.2.label>
+  <CelebrationPartyDanceTech.outcomeChances.2.description>Вечеринка прошла весело. Всем понравилось вырваться из серых будней и от души потанцевать вместе.</CelebrationPartyDanceTech.outcomeChances.2.description>
+  <CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>Все почувствовали прилив энергии после единения в танце, подобного трансу. Участники будут некоторое время работать быстрее.</CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>
+  <CelebrationPartyDanceTech.outcomeChances.3.label>незабываемо</CelebrationPartyDanceTech.outcomeChances.3.label>
+  <CelebrationPartyDanceTech.outcomeChances.3.description>Вечеринка была незабываемой! Участники забывались в музыке, чувствуя прочную связь друг с другом.</CelebrationPartyDanceTech.outcomeChances.3.description>
+  <CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>Все почувствовали прилив энергии после единения в танце, подобного трансу. Участники будут некоторое время работать быстрее.</CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>
+  <CelebrationSkyLanterns.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</CelebrationSkyLanterns.description>
+  <CelebrationSkyLanterns.comps.0.label>количество участников</CelebrationSkyLanterns.comps.0.label>
+  <CelebrationSkyLanterns.extraInfoLines.0>Каждому участнику потребуется 4 ед. древесины для создания небесного фонарика.</CelebrationSkyLanterns.extraInfoLines.0>
+  <CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0> Если {0} пройдёт красиво или незабываемо, небесные фонарики могут привлечь группу дружелюбных путешественников.</CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>
+  <CelebrationSkyLanterns.outcomeChances.0.label>ужасно</CelebrationSkyLanterns.outcomeChances.0.label>
+  <CelebrationSkyLanterns.outcomeChances.0.description>Запуск «{0}» прошёл ужасно! Фонарики разваливались на ветру.</CelebrationSkyLanterns.outcomeChances.0.description>
+  <CelebrationSkyLanterns.outcomeChances.1.label>посредственно</CelebrationSkyLanterns.outcomeChances.1.label>
+  <CelebrationSkyLanterns.outcomeChances.1.description>Запуск «{0}» был невпечатляющим.</CelebrationSkyLanterns.outcomeChances.1.description>
+  <CelebrationSkyLanterns.outcomeChances.2.label>красиво</CelebrationSkyLanterns.outcomeChances.2.label>
+  <CelebrationSkyLanterns.outcomeChances.2.description>Запуск «{0}» был красивым и умиротворяющим.</CelebrationSkyLanterns.outcomeChances.2.description>
+  <CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>Яркие небесные фонарики поднялись высоко в воздух. Дружелюбные путешественники могут заметить их и принести вам подарки.</CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>
+  <CelebrationSkyLanterns.outcomeChances.3.label>незабываемо</CelebrationSkyLanterns.outcomeChances.3.label>
+  <CelebrationSkyLanterns.outcomeChances.3.description>Запуск «{0}» был незабываемым!</CelebrationSkyLanterns.outcomeChances.3.description>
+  <CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>Яркие небесные фонарики поднялись высоко в воздух. Дружелюбные путешественники могут заметить их и принести вам подарки.</CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>
+  <ConnectToTree.description>Связующий образует связь с деревом</ConnectToTree.description>
+  <ConnectToTree.comps.0.label>количество участников</ConnectToTree.comps.0.label>
+  <ConnectToTree.extraPredictedOutcomeDescriptions.0>Связующий начнёт с силой связи 25-45% в зависимости от качества ритуала.</ConnectToTree.extraPredictedOutcomeDescriptions.0>
+  <ConnectToTree.extraPredictedOutcomeDescriptions.1>Каждые 2% качества ритуала вызовут рост участка мха Гауранлен, который украсит собой близлежащую территорию.</ConnectToTree.extraPredictedOutcomeDescriptions.1>
+  <Conversion.description>В случае успеха уверенность цели снизится, и она может незамедлительно принять новую идеолигию. Провал лишь повысит уверенность цели в своих убеждениях.</Conversion.description>
+  <Conversion.comps.0.label>впечатление от помещения</Conversion.comps.0.label>
+  <Conversion.comps.1.label>количество участников</Conversion.comps.1.label>
+  <Conversion.comps.2.label>социальное влияние {PAWN_labelShort}</Conversion.comps.2.label>
+  <Conversion.comps.2.labelAbstract>социальное влияние оратора</Conversion.comps.2.labelAbstract>
+  <Conversion.comps.3.label>ожидания {PAWN_labelShort}</Conversion.comps.3.label>
+  <Conversion.comps.3.labelAbstract>ожидания обращаемого</Conversion.comps.3.labelAbstract>
+  <Conversion.outcomeChances.0.label>ужасно</Conversion.outcomeChances.0.label>
+  <Conversion.outcomeChances.0.description>Ритуал «{0}» прошёл ужасно! Это был лишь бессмысленный спор.</Conversion.outcomeChances.0.description>
+  <Conversion.outcomeChances.1.label>неубедительно</Conversion.outcomeChances.1.label>
+  <Conversion.outcomeChances.1.description>Ритуал «{0}» был неэффективным.</Conversion.outcomeChances.1.description>
+  <Conversion.outcomeChances.2.label>убедительно</Conversion.outcomeChances.2.label>
+  <Conversion.outcomeChances.2.description>Ритуал «{0}» был убедительным.</Conversion.outcomeChances.2.description>
+  <Conversion.outcomeChances.3.label>великолепно</Conversion.outcomeChances.3.label>
+  <Conversion.outcomeChances.3.description>Ритуал «{0}» был виртуозным!</Conversion.outcomeChances.3.description>
+  <DestroyConsumableBuilding.description>Ритуальный объект будет уничтожен.</DestroyConsumableBuilding.description>
+  <DestroyConsumableBuilding.comps.0.label>количество участников</DestroyConsumableBuilding.comps.0.label>
+  <DestroyConsumableBuilding.comps.1.label>впечатление от помещения</DestroyConsumableBuilding.comps.1.label>
+  <DestroyConsumableBuilding.outcomeChances.0.label>ужасно</DestroyConsumableBuilding.outcomeChances.0.label>
+  <DestroyConsumableBuilding.outcomeChances.0.description>Это было ужасно! Участники несколько часов просто ждали, когда всё кончится, разговаривая друг с другом сквозь зубы.</DestroyConsumableBuilding.outcomeChances.0.description>
+  <DestroyConsumableBuilding.outcomeChances.1.label>скучно</DestroyConsumableBuilding.outcomeChances.1.label>
+  <DestroyConsumableBuilding.outcomeChances.1.description>Встреча прошла скучно. Все чувствовали себя стеснённо и не были готовы к задушевным разговорам и веселью.</DestroyConsumableBuilding.outcomeChances.1.description>
+  <DestroyConsumableBuilding.outcomeChances.2.label>весело</DestroyConsumableBuilding.outcomeChances.2.label>
+  <DestroyConsumableBuilding.outcomeChances.2.description>Встреча прошла весело. Все были рады возможности расслабиться и повеселиться вместе.</DestroyConsumableBuilding.outcomeChances.2.description>
+  <DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>Случайный участник с вероятностью 5% может получить воодушевление.</DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding.outcomeChances.3.label>незабываемо</DestroyConsumableBuilding.outcomeChances.3.label>
+  <DestroyConsumableBuilding.outcomeChances.3.description>Встреча была незабываемой! Все узнали друг друга лучше и почувствовали себя как в одной семье.</DestroyConsumableBuilding.outcomeChances.3.description>
+  <DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>Случайный участник с вероятностью 10% может получить воодушевление.</DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Burnbong.description>Ритуальный объект будет уничтожен.</DestroyConsumableBuilding_Burnbong.description>
+  <DestroyConsumableBuilding_Burnbong.comps.0.label>количество участников</DestroyConsumableBuilding_Burnbong.comps.0.label>
+  <DestroyConsumableBuilding_Burnbong.comps.1.label>впечатление от помещения</DestroyConsumableBuilding_Burnbong.comps.1.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>ужасно</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>Это было ужасно! Участники несколько часов просто ждали, когда всё кончится, разговаривая друг с другом сквозь зубы.</DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>скучно</DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>Встреча прошла скучно. Все чувствовали себя стеснённо и не были готовы к задушевным разговорам и веселью.</DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>весело</DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>Встреча прошла весело. Все были рады возможности расслабиться и повеселиться вместе.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>Случайный участник с вероятностью 5% может получить воодушевление.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>незабываемо</DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>Встреча была незабываемой! Все узнали друг друга лучше и почувствовали себя, как в одной семье.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>Случайный участник с вероятностью 10% может получить воодушевление.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_CannibalPlatter.description>Ритуальный объект будет уничтожен.</DestroyConsumableBuilding_CannibalPlatter.description>
+  <DestroyConsumableBuilding_CannibalPlatter.comps.0.label>количество участников</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
+  <DestroyConsumableBuilding_CannibalPlatter.comps.1.label>впечатление от помещения</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>ужасно</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>Это было ужасно! Участники несколько часов просто ждали, когда всё кончится, разговаривая друг с другом сквозь зубы.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>скучно</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>Встреча прошла скучно. Все чувствовали себя стеснённо и не были готовы к задушевным разговорам и веселью.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>весело</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>Встреча прошла весело. Все были рады возможности расслабиться и повеселиться вместе.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>Случайный участник с вероятностью 5% может получить воодушевление.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>незабываемо</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>Встреча была незабываемой! Все узнали друг друга лучше и почувствовали себя как в одной семье.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>Случайный участник с вероятностью 10% может получить воодушевление.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_ChristmasTree.description>Ритуальный объект будет уничтожен.</DestroyConsumableBuilding_ChristmasTree.description>
+  <DestroyConsumableBuilding_ChristmasTree.comps.0.label>количество участников</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
+  <DestroyConsumableBuilding_ChristmasTree.comps.1.label>впечатление от помещения</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>ужасно</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>Это было ужасно! Участники несколько часов просто ждали, когда всё кончится, разговаривая друг с другом сквозь зубы.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>скучно</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>Встреча прошла скучно. Все чувствовали себя стеснённо и не были готовы к задушевным разговорам и веселью.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>весело</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>Встреча прошла весело. Все были рады возможности расслабиться и повеселиться вместе.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>Случайный участник с вероятностью 5% может получить воодушевление.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>незабываемо</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>Встреча была незабываемой! Все узнали друг друга лучше и почувствовали себя как в одной семье.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>Случайный участник с вероятностью 10% может получить воодушевление.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Pyre.description>Ритуальный объект будет уничтожен.</DestroyConsumableBuilding_Pyre.description>
+  <DestroyConsumableBuilding_Pyre.comps.0.label>количество участников</DestroyConsumableBuilding_Pyre.comps.0.label>
+  <DestroyConsumableBuilding_Pyre.comps.1.label>впечатление от помещения</DestroyConsumableBuilding_Pyre.comps.1.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.label>ужасно</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.description>Это было ужасно! Участники несколько часов просто ждали, когда всё кончится, разговаривая друг с другом сквозь зубы.</DestroyConsumableBuilding_Pyre.outcomeChances.0.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.label>скучно</DestroyConsumableBuilding_Pyre.outcomeChances.1.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.description>Встреча прошла скучно. Все чувствовали себя стеснённо и не были готовы к задушевным разговорам и веселью.</DestroyConsumableBuilding_Pyre.outcomeChances.1.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.label>весело</DestroyConsumableBuilding_Pyre.outcomeChances.2.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.description>Встреча прошла весело. Все были рады возможности расслабиться и повеселиться вместе.</DestroyConsumableBuilding_Pyre.outcomeChances.2.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>Случайный участник с вероятностью 5% может получить воодушевление.</DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.label>незабываемо</DestroyConsumableBuilding_Pyre.outcomeChances.3.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.description>Встреча была незабываемой! Все узнали друг друга лучше и почувствовали себя как в одной семье.</DestroyConsumableBuilding_Pyre.outcomeChances.3.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>Случайный участник с вероятностью 10% может получить воодушевление.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
+  <Execution.description>Подавленность наблюдающих рабов составит 100%. В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</Execution.description>
+  <Execution.comps.0.label>количество участников</Execution.comps.0.label>
+  <Execution.comps.1.label>начато у алтаря или идеограммы</Execution.comps.1.label>
+  <Execution.comps.1.expectedThingLabelTip>алтарь или идеограмма</Execution.comps.1.expectedThingLabelTip>
+  <Execution.outcomeChances.0.label>нелепо</Execution.outcomeChances.0.label>
+  <Execution.outcomeChances.0.description>Ритуал «{0}» прошёл ужасно! Казнь была неумелой.</Execution.outcomeChances.0.description>
+  <Execution.outcomeChances.1.label>достойно</Execution.outcomeChances.1.label>
+  <Execution.outcomeChances.1.description>Ритуал «{0}» прошёл скучно.</Execution.outcomeChances.1.description>
+  <Execution.outcomeChances.2.label>завораживающе</Execution.outcomeChances.2.label>
+  <Execution.outcomeChances.2.description>Ритуал «{0}» прошёл достойно.</Execution.outcomeChances.2.description>
+  <GladiatorDuel.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</GladiatorDuel.description>
+  <GladiatorDuel.comps.0.label>количество участников</GladiatorDuel.comps.0.label>
+  <GladiatorDuel.comps.1.label>присутствует лидер</GladiatorDuel.comps.1.label>
+  <GladiatorDuel.comps.2.label>гладиатор погибает</GladiatorDuel.comps.2.label>
+  <GladiatorDuel.comps.3.label>используемое оружие</GladiatorDuel.comps.3.label>
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.0>гладиаторы и зрители получат опыт ближнего боя.</GladiatorDuel.extraPredictedOutcomeDescriptions.0>
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.1>Зрители получат бонус к настроению, а их шкала удовлетворённости будет полностью восполнена.</GladiatorDuel.extraPredictedOutcomeDescriptions.1>
+  <GladiatorDuel.outcomeChances.0.label>ужасно</GladiatorDuel.outcomeChances.0.label>
+  <GladiatorDuel.outcomeChances.0.description>Ужасная дуэль! Бойцы топтались то тут, то там, неумело пытаясь избегать друг друга в этом спектакле трусости и слабости. Зрителей это только расстроило.</GladiatorDuel.outcomeChances.0.description>
+  <GladiatorDuel.outcomeChances.1.label>скучно</GladiatorDuel.outcomeChances.1.label>
+  <GladiatorDuel.outcomeChances.1.description>Скучная дуэль. Бойцы сражались без какого-либо энтузиазма, ничего интересного.</GladiatorDuel.outcomeChances.1.description>
+  <GladiatorDuel.outcomeChances.2.label>хорошо</GladiatorDuel.outcomeChances.2.label>
+  <GladiatorDuel.outcomeChances.2.description>Это была хорошая дуэль. Бойцы упорно сражались, вкладывая всё свои силы в удары.</GladiatorDuel.outcomeChances.2.description>
+  <GladiatorDuel.outcomeChances.3.label>незабываемо</GladiatorDuel.outcomeChances.3.label>
+  <GladiatorDuel.outcomeChances.3.description>Это была незабываемая дуэль! Бойцы сражались до последней капли крови, не на жизнь, а на смерть.</GladiatorDuel.outcomeChances.3.description>
+  <RoleChange.description>Поселенцу будет назначена новая роль.</RoleChange.description>
+  <RoleChange.comps.0.label>требуемое число зрителей</RoleChange.comps.0.label>
+  <RoleChange.extraPredictedOutcomeDescriptions.0>Количество зрителей, требуемое для церемонии смены роли.</RoleChange.extraPredictedOutcomeDescriptions.0>
+  <RoleChange.outcomeChances.0.label>провал</RoleChange.outcomeChances.0.label>
+  <RoleChange.outcomeChances.0.description>Церемония смены роли не состоялось, потому что {IDEO_memberNamePlural} не пришли на неё в нужном количестве.</RoleChange.outcomeChances.0.description>
+  <RoleChange.outcomeChances.1.label>успех</RoleChange.outcomeChances.1.label>
+  <RoleChange.outcomeChances.1.description>Церемония смены роли завершилась.</RoleChange.outcomeChances.1.description>
+  <Sacrifice.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</Sacrifice.description>
+  <Sacrifice.comps.2.label>присутствует духовный лидер</Sacrifice.comps.2.label>
+  <Sacrifice.comps.3.label>количество участников</Sacrifice.comps.3.label>
+  <Sacrifice.comps.4.label>начато у алтаря</Sacrifice.comps.4.label>
+  <Sacrifice.comps.4.expectedThingLabelTip>алтарь</Sacrifice.comps.4.expectedThingLabelTip>
+  <Sacrifice.extraPredictedOutcomeDescriptions.0>Если {0} пройдёт хорошо, один из участников может получить воодушевление.</Sacrifice.extraPredictedOutcomeDescriptions.0>
+  <Sacrifice.outcomeChances.0.label>ужасно</Sacrifice.outcomeChances.0.label>
+  <Sacrifice.outcomeChances.0.description>Ритуал «{0}» прошёл ужасно!</Sacrifice.outcomeChances.0.description>
+  <Sacrifice.outcomeChances.1.label>скучно</Sacrifice.outcomeChances.1.label>
+  <Sacrifice.outcomeChances.1.description>Ритуал «{0}» прошёл скучно.</Sacrifice.outcomeChances.1.description>
+  <Sacrifice.outcomeChances.2.label>достойно</Sacrifice.outcomeChances.2.label>
+  <Sacrifice.outcomeChances.2.description>Ритуал «{0}» прошёл благоговейно.</Sacrifice.outcomeChances.2.description>
+  <Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>Случайный участник с вероятностью 5% может получить воодушевление.</Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>
+  <Sacrifice.outcomeChances.3.label>изумительно</Sacrifice.outcomeChances.3.label>
+  <Sacrifice.outcomeChances.3.description>Ритуал «{0}» прошёл великолепно!</Sacrifice.outcomeChances.3.description>
+  <Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>Случайный участник с вероятностью 10% может получить воодушевление.</Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>
+  <ScarificationCeremony.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</ScarificationCeremony.description>
+  <ScarificationCeremony.comps.2.label>присутствует духовный лидер</ScarificationCeremony.comps.2.label>
+  <ScarificationCeremony.comps.3.label>количество участников</ScarificationCeremony.comps.3.label>
+  <ScarificationCeremony.comps.4.label>начато у алтаря</ScarificationCeremony.comps.4.label>
+  <ScarificationCeremony.comps.4.expectedThingLabelTip>алтарь</ScarificationCeremony.comps.4.expectedThingLabelTip>
+  <ScarificationCeremony.outcomeChances.0.label>ужасно</ScarificationCeremony.outcomeChances.0.label>
+  <ScarificationCeremony.outcomeChances.0.description>Ритуал «{0}» прошёл ужасно! Скарификация была проведена неумело.</ScarificationCeremony.outcomeChances.0.description>
+  <ScarificationCeremony.outcomeChances.1.label>скучно</ScarificationCeremony.outcomeChances.1.label>
+  <ScarificationCeremony.outcomeChances.1.description>Ритуал «{0}» был скучным.</ScarificationCeremony.outcomeChances.1.description>
+  <ScarificationCeremony.outcomeChances.2.label>достойно</ScarificationCeremony.outcomeChances.2.label>
+  <ScarificationCeremony.outcomeChances.2.description>Ритуал «{0}» прошёл достойно.</ScarificationCeremony.outcomeChances.2.description>
+  <ScarificationCeremony.outcomeChances.3.label>изумительно</ScarificationCeremony.outcomeChances.3.label>
+  <ScarificationCeremony.outcomeChances.3.description>Ритуал «{0}» был захватывающим!</ScarificationCeremony.outcomeChances.3.description>
+  <Trial.description>Количество участников суда влияет на шанс обвинительного приговора.</Trial.description>
+  <Trial.comps.0.label>количество участников</Trial.comps.0.label>
+  <Trial.comps.1.label>социальные навыки {PAWN_labelShort}</Trial.comps.1.label>
+  <Trial.comps.1.labelAbstract>Социальные навыки лидера</Trial.comps.1.labelAbstract>
+  <Trial.comps.2.label>социальные навыки {PAWN_labelShort}</Trial.comps.2.label>
+  <Trial.comps.2.labelAbstract>Социальные навыки ответчика</Trial.comps.2.labelAbstract>
+  <Trial.outcomeChances.0.label>оправдательный приговор</Trial.outcomeChances.0.label>
+  <Trial.outcomeChances.0.description>Доводы обвинителя {PROSECUTOR_labelShort} никого не убедили. {PAWN_labelShort} {PAWN_gender ? был оправдан : была оправдана : было оправдано}.</Trial.outcomeChances.0.description>
+  <Trial.outcomeChances.1.label>обвинительный приговор</Trial.outcomeChances.1.label>
+  <Trial.outcomeChances.1.description>Обвинитель смог убедить всех в том, что {PAWN_labelShort} {PAWN_gender ? виновен : виновна : виновно}. {PAWN_possessive} теперь можно спокойно казнить или изгнать — никто не будет возражать.</Trial.outcomeChances.1.description>
+  <TrialMentalState.description>Количество участников суда влияет на шанс обвинительного приговора.</TrialMentalState.description>
+  <TrialMentalState.comps.0.label>количество участников</TrialMentalState.comps.0.label>
+  <TrialMentalState.comps.1.label>социальные навыки {PAWN_labelShort}</TrialMentalState.comps.1.label>
+  <TrialMentalState.comps.1.labelAbstract>Социальные навыки лидера</TrialMentalState.comps.1.labelAbstract>
+  <TrialMentalState.outcomeChances.0.label>оправдательный приговор</TrialMentalState.outcomeChances.0.label>
+  <TrialMentalState.outcomeChances.0.description>Доводы обвинителя никого не убедили. {PAWN_labelShort} {PAWN_gender ? был оправдан : была оправдана}.</TrialMentalState.outcomeChances.0.description>
+  <TrialMentalState.outcomeChances.1.label>обвинительный приговор</TrialMentalState.outcomeChances.1.label>
+  <TrialMentalState.outcomeChances.1.description>Обвинитель смог убедить всех в том, что {PAWN_labelShort} {PAWN_gender ? виновен : виновна}. {PAWN_possessive} теперь можно спокойно казнить или изгнать — никто не будет возражать.</TrialMentalState.outcomeChances.1.description>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SlaveSuppressionOffset.label>прирост эфф-ти подавления раба</SlaveSuppressionOffset.label>
+  <SlaveSuppressionOffset.description>Модификатор, показывающий насколько эффективнее можно будет запугивать раба, носящего эту вещь. Высокие значения означают более продолжительный эффект от подавления, низкие — более частые восстания.</SlaveSuppressionOffset.description>
+  <TerrorSource.label>ужас</TerrorSource.label>
+  <TerrorSource.description>Степень ужаса, который постигает каждого смотрящего на этот предмет.</TerrorSource.description>
+  <TerrorSource.formatString>{0}%</TerrorSource.formatString>
+</LanguageData>

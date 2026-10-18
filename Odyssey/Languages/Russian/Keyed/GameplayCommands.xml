@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CommandShowSubstructureOverlay>Показать наложение надстроек</CommandShowSubstructureOverlay>
+  <CommandShowSubstructureOverlayDesc>Показать допустимые надстройки синим, а недопустимые — красным.</CommandShowSubstructureOverlayDesc>
+  <CommandInspectGravEngine>Осмотреть: {0_labelShort}</CommandInspectGravEngine>
+  <CommandInspectGravEngineDesc>Выберите поселенца для осмотра загадочного гравидвигателя.</CommandInspectGravEngineDesc>
+  <CommandChooseNavigator>Выбрать поселенца</CommandChooseNavigator>
+  <CannotChooseNavigator>Нельзя назначить навигатора</CannotChooseNavigator>
+  <CommandLaunchGravship>Запуск</CommandLaunchGravship>
+  <CommandLaunchGravshipDesc>Выберите поселенца для пилотирования гравикорабля. Всё, что находится на надстройках гравикорабля, будет перемещено на новую карту. Текущая карта будет покинута.</CommandLaunchGravshipDesc>
+  <CommandAllowFish>Разрешить рыбалку</CommandAllowFish>
+  <CommandAllowFishDesc>Если эта функция отключена, поселенцы никогда не будут рыбачить в этой зоне.</CommandAllowFishDesc>
+  <CommandAllowRemovingApparel>Разрешить снимать одежду</CommandAllowRemovingApparel>
+  <CommandAllowRemovingApparelDesc>Если эта функция отключена, носильщики не будут снимать предметы одежды со стойки для нарядов, а поселенцы не будут надевать одежду без приказа.</CommandAllowRemovingApparelDesc>
+  <CommandShuttleNoPilot>Нет поселенца, способного пилотировать челнок. Требуется минимум 10% навыка пилотирования.</CommandShuttleNoPilot>
+  <ConfirmLandGravship>Подтвердить зону посадки</ConfirmLandGravship>
+  <ConfirmLandGravshipDesc>Посадите ваш гравикорабль в выбранной зоне посадки.</ConfirmLandGravshipDesc>
+  <CommandRefuelShuttleFromCargo>Заправить из груза</CommandRefuelShuttleFromCargo>
+  <CommandRefuelShuttleFromCargoDesc>Заправить пассажирский челнок, используя химтопливо из груза.</CommandRefuelShuttleFromCargoDesc>
+  <NoFuelInCaravan>Нет топлива в караване.</NoFuelInCaravan>
+  <NoFuelInShuttle>Нет топлива в челноке.</NoFuelInShuttle>
+  <ShuttleFullyFueled>Челнок уже полностью заправлен</ShuttleFullyFueled>
+  <SealHatch>Запечатать вход</SealHatch>
+  <SealHatchDesc>Навсегда запечатать вход. Всё и все, кто останется внутри, будут утеряны навсегда.</SealHatchDesc>
+  <GravshipShieldOrderActivation>Активировать</GravshipShieldOrderActivation>
+  <GravshipShieldOrderDeactivation>Деактивировать</GravshipShieldOrderDeactivation>
+  <GravshipShieldOrderActivationDesc>Приказать пешке активировать генератор щита гравикорабля.</GravshipShieldOrderActivationDesc>
+  <GravshipShieldOrderDeactivationDesc>Приказать пешке деактивировать генератор щита гравикорабля.</GravshipShieldOrderDeactivationDesc>
+  <AbortLandGravship>Отменить посадку</AbortLandGravship>
+  <AbortLandGravshipDesc>Отменить посадку на этой карте и принудительно приземлить грав-корабль поблизости на карте мира. Полезно, если подходящее место не найдено.
+
+Внимание: это увеличивает риск аварии при посадке.</AbortLandGravshipDesc>
+  <AbortLandConfirmation>Отмена посадки заставит ваш грав-корабль приземлиться в случайном соседнем месте на карте мира. Это повышает шанс аварии при посадке.
+
+Вы уверены, что хотите продолжить?</AbortLandConfirmation>
+  <FailedToFindCrashSite>Не удалось найти место падения.</FailedToFindCrashSite>
+  <GravshipLandingMarkerNotPlaced>Вы должны назначить зону посадки для вашего грав-корабля.</GravshipLandingMarkerNotPlaced>
+  <ConfirmMergeShuttles>Объединение этих караванов приведёт к потере следующего:
+{0}
+
+Вы уверены, что хотите продолжить?</ConfirmMergeShuttles>
+</LanguageData>

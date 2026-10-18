@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MessageMustChooseIdeo>Создайте или выберите идеолигию для своей фракции.</MessageMustChooseIdeo>
+  <MessageIdeoNameCantBeEmpty>Название идеолигии не может быть пустым.</MessageIdeoNameCantBeEmpty>
+  <MessageIdeoIncompatiblePrecepts>{PRECEPT1} и {PRECEPT2} несовместимы.</MessageIdeoIncompatiblePrecepts>
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>Особый предмет одежды, {DESIREDAPPAREL}, несовместим с одеждой для роли «{ROLE}»</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>Ношение {lookup: {DESIREDAPPAREL}; Case; 1} взаимно исключает ношение одежды, требуемой ролью «{ROLE}» ({ROLEAPPAREL}). Ни один {ROLE} не сможет сочетать одежду, требуемую для его роли, с особой одеждой.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <MessageRitualMissingTarget>Для {lookup: {PRECEPT}; Case; 1} требуется одно из сооружений</MessageRitualMissingTarget>
+  <MessageBuildingMissingRitual>Для {lookup: {PRECEPT}; Case; 1} необходим соответствующий ритуал.</MessageBuildingMissingRitual>
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} отказывается это делать по идеолигиозным соображениям.</MessagePawnUnwillingToDoDueToIdeo>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} {INITIATOR_gender ? попытался : попыталась : попытался} обратить {RECIPIENT_nameDef} в свою идеолигию. Уверенность {RECIPIENT_nameDef} в {RECIPIENT_possessive} взглядах опустилась с {CERTAINTYBEFORE} до {CERTAINTYAFTER}. {RECIPIENT_pronoun} {RECIPIENT_gender ? возмущён : возмущена : возмущён} попыткой обращения.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} {PAWN1_gender ? попытался : попыталась : попытался} обратить {PAWN2_nameDef} в свою идеолигию. Это привело к драке!</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageNotEnoughMemes>Необходимо выбрать хотя бы {0_numCase ? черту : черты : черт}.</MessageNotEnoughMemes>
+  <MessageTooManyMemes>Нельзя выбрать больше {0_numCase ? черты : черт : черт}.</MessageTooManyMemes>
+  <MessageNotEnoughStructureMemes>Необходимо выбрать основную черту</MessageNotEnoughStructureMemes>
+  <MessageIncompatibleMemes>{0_label} и {1_label} несовместимы друг с другом.</MessageIncompatibleMemes>
+  <MessageNoRequiredRolePawnToBeginRitual>Чтобы начать {1}, требуется {0}.</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNotEnoughSpectators>Для того, чтобы начать {1}, требуется как минимум {0_numCase ? зритель : зрителя : зрителей}.</MessageNotEnoughSpectators>
+  <MessageRoleChangeChooseDifferentRole>Нужно выбрать роль.</MessageRoleChangeChooseDifferentRole>
+  <MessageNeedAssignedRoleToBeginRitual>Перед началом {1} необходимо назначить кому-то роль {0}.</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAtLeastOneParticipantOfIdeo>Для проведения ритуала нужен хотя бы один {0}.</MessageNeedAtLeastOneParticipantOfIdeo>
+  <MessageRoleAssigned>{0_labelShort} {0_gender ? принял : приняла : приняло} роль {1}.</MessageRoleAssigned>
+  <MessageRoleUnassignedPrisoner>Поскольку {0_labelShort} {0_gender ? стал пленником : стала пленницей : стал пленником}, {0_pronoun} не может выполнять роль {1}.</MessageRoleUnassignedPrisoner>
+  <MessageWarningPlayerDesignatedTreeChopped>Внимание: настроение {0} испортится, если будет срублено дерево.</MessageWarningPlayerDesignatedTreeChopped>
+  <MessageWarningPlayerDesignatedMining>Внимание: настроение {0} испортится, если кто-то начнёт разрабатывать породу.</MessageWarningPlayerDesignatedMining>
+  <MessageConnectedPawnDied>Связь древа {TREE_label} с {PAWN_nameDef} разорвана. Древу нужно восстановиться в течение {DURATION}, перед тем как можно будет повторить ритуал связывания.</MessageConnectedPawnDied>
+  <MessageSlaveEmancipated>{1_nameDef} {1_gender ? освободил : освободила : освободило} {0_nameDef}.</MessageSlaveEmancipated>
+  <MessagePrisonerEnslaved>{1_nameDef} {1_gender ? поработил : поработила : поработило} {0_nameDef}.</MessagePrisonerEnslaved>
+  <MessagePrisonerWillBroken>{0_nameDef} {0_gender ? сломил : сломила : сломило} волю {1_gender ? пленника : пленницы : пленника} {1_nameDef}.</MessagePrisonerWillBroken>
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>Теперь можно начинать порабощение.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+  <MessageNoWardenCapableOfEnslavement>Ни один из надзирателей не способен к порабощению.</MessageNoWardenCapableOfEnslavement>
+  <MessageNoWardenOfIdeo>У вас отсутствует надзиратель-{MEMBERNAME} для обращения {PRISONER_nameDef}. Тип взаимодействия с этим пленником изменён на «Не вступать в контакт».</MessageNoWardenOfIdeo>
+  <MessageCampDetected>Вы обнаружили рядом {lookup: {CAMP_label}; Case; 3}, который контролирует фракция {FACTION_name}.</MessageCampDetected>
+  <MessageCharityEventRefused>Милосердие не проявлено</MessageCharityEventRefused>
+  <MessageCharityEventFulfilled>Милосердие проявлено</MessageCharityEventFulfilled>
+  <MessageBeggarsLeavingWithNoItems>{0} {replace: {0}; «попрошайка»-«уходит»; «попрошайки»-«уходят»} с пустыми руками.</MessageBeggarsLeavingWithNoItems>
+  <MessageBeggarsLeavingWithItemsSingular>{0} получил то, о чём просил, и уходит.</MessageBeggarsLeavingWithItemsSingular>
+  <MessageBeggarsLeavingWithItemsPlural>{0} получили то, о чём просили, и уходят.</MessageBeggarsLeavingWithItemsPlural>
+  <MessageWandererLeftToDie>{0_nameDef} {0_gender ? умер : умерла : умер}, так как не {0_gender ? получил : получила : получило} лечения.</MessageWandererLeftToDie>
+  <MessageWandererLeftBehind>{0_nameDef} {0_gender ? оставлен : оставлена : оставлно} на произвол судьбы.</MessageWandererLeftBehind>
+  <MessageWandererRecruited>{0_nameDef} {0_gender ? завербован : завербована : завербован}.</MessageWandererRecruited>
+  <MessageWandererLeftHealthy>{0_nameDef} {0_gender ? ушёл : ушла : ушёло} в добром здравии.</MessageWandererLeftHealthy>
+  <MessageCharityQuestEndedFailed>Задание «{0}» провалено.</MessageCharityQuestEndedFailed>
+  <MessageCharityQuestEndedSuccess>Задание «{0}» успешно завершено.</MessageCharityQuestEndedSuccess>
+  <CannotRemove>Невозможно убрать</CannotRemove>
+  <CannotRemoveMemeRequired>Невозможно убрать {lookup: {MEME}; Case; 3}</CannotRemoveMemeRequired>
+  <CannotRemoveMemeRequiredPlayer>Невозможно убрать {lookup: {MEME}; Case; 3}: необходимо для фракции игрока.</CannotRemoveMemeRequiredPlayer>
+  <RequiredByFaction>Необходимо для {FACTION_name}.</RequiredByFaction>
+  <OverlappingRoleApparel>Требования ролей к одежде не должны быть взаимоисключающими.</OverlappingRoleApparel>
+  <SelfDestructCountdown>{0} самоуничтожится через {1}.</SelfDestructCountdown>
+  <PreceptNameTooLong>Название принципа слишком длинное (максимум — {0} символов)</PreceptNameTooLong>
+  <MessageAncientTerminalDiscovered>Вы обнаружили древний терминал, в котором хранится информация о реликвии, известной как {0}!</MessageAncientTerminalDiscovered>
+  <MessageAncientComplexBackToShuttle>Вы получили секретную информацию о реликвии, известной как {0}! Вернитесь в челнок, чтобы улететь.</MessageAncientComplexBackToShuttle>
+  <MessageAncientSignalActivated>Вы активировали древний спутник с припасами. Припасы будут сброшены неподалёку.</MessageAncientSignalActivated>
+  <MessageAncientSignalHostileDetected>{0} из фракции {1} получили сигнал о сбросе припасов и начинают атаку.</MessageAncientSignalHostileDetected>
+  <MessageAncientAltarThreatsWokenUp>Всё охранные системы активированы!</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsAlerted>Всё охранные системы знают о вашем присутствии.</MessageAncientAltarThreatsAlerted>
+  <MessageAnimalIsVeneratedForAllColonists>Внимание: {PAWNKINDLABELPLURAL} считаются священными животными у всех {lookup: {PAWNS}; Case; 1}, и им не будет причинён вред.</MessageAnimalIsVeneratedForAllColonists>
+  <MessageNewColonyMax>Выберите не более {0} {lookup: {1}; Case; 1} для переноса в новое поселение.</MessageNewColonyMax>
+  <MessageNewColoyRequiresOneColonist>Необходимо выбрать хотя бы 1 поселенца.</MessageNewColoyRequiresOneColonist>
+  <MessageFuelNodeTriggered>{0} {0_gender ? охвачен : охвачена : охвачено} огнём и скоро взорвётся!</MessageFuelNodeTriggered>
+  <MessageSleepingThreatDelayActivated>{0_pawnsPlural} пробудятся через {1}.</MessageSleepingThreatDelayActivated>
+  <MessageInfestationDelayActivated>Насекомые прибывают.</MessageInfestationDelayActivated>
+  <MessageFuelNodeDelayActivated>{0} потревожен и взорвётся в ближайшее время!</MessageFuelNodeDelayActivated>
+  <MessageDevelopmentPointsEarned>Число очков развития изменилось с {0} до {1} ({2}).</MessageDevelopmentPointsEarned>
+  <MessageFluidIdeoOneChangeAllowed>Доступно только одно изменение структуры, черт или стилей.</MessageFluidIdeoOneChangeAllowed>
+</LanguageData>

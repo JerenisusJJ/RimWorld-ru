@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ResurrectHeavyMech.label>восстановить тяжёлого механоида</ResurrectHeavyMech.label>
+  <ResurrectHeavyMech.description>Восстановить дружественного тяжёлого механоида. До тех пор, пока тело механоида не будет уничтожено полностью, оно подлежит восстановлению.</ResurrectHeavyMech.description>
+  <ResurrectHeavyMech.jobString>Восстанавливает механоида</ResurrectHeavyMech.jobString>
+  <ResurrectLightMech.label>восстановить лёгкого механоида</ResurrectLightMech.label>
+  <ResurrectLightMech.description>Восстановить дружественного лёгкого механоида. До тех пор, пока тело механоида не будет уничтожено полностью, оно подлежит восстановлению.</ResurrectLightMech.description>
+  <ResurrectLightMech.jobString>Восстанавливает механоида</ResurrectLightMech.jobString>
+  <ResurrectMediumMech.label>восстановить среднего механоида</ResurrectMediumMech.label>
+  <ResurrectMediumMech.description>Восстановить дружественного среднего механоида. До тех пор, пока тело механоида не будет уничтожено полностью, оно подлежит восстановлению.</ResurrectMediumMech.description>
+  <ResurrectMediumMech.jobString>Восстанавливает механоида</ResurrectMediumMech.jobString>
+  <ResurrectUltraheavyMech.label>восстановить сверхтяжёлого механоида</ResurrectUltraheavyMech.label>
+  <ResurrectUltraheavyMech.description>Восстановить дружественного сверхтяжёлого механоида. До тех пор, пока тело механоида не будет уничтожено полностью, оно подлежит восстановлению.</ResurrectUltraheavyMech.description>
+  <ResurrectUltraheavyMech.jobString>Восстанавливает механоида</ResurrectUltraheavyMech.jobString>
+</LanguageData>

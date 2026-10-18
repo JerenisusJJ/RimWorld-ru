@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MeleeWeapon_Axe.label>топор</MeleeWeapon_Axe.label>
+  <MeleeWeapon_Axe.description>Боевой топор, состоящий из короткого лезвия, прикреплённого к древку, является одним из старейших образцов человеческого оружия. Простая и древняя конструкция позволяет наносить мощные рубящие удары.</MeleeWeapon_Axe.description>
+  <MeleeWeapon_Axe.tools.handle.label>рукоять</MeleeWeapon_Axe.tools.handle.label>
+  <MeleeWeapon_Axe.tools.edge.label>лезвие</MeleeWeapon_Axe.tools.edge.label>
+  <MeleeWeapon_Warhammer.label>молот</MeleeWeapon_Warhammer.label>
+  <MeleeWeapon_Warhammer.description>Оружие на длинном древке, с массивной боевой частью. Удары, наносимые этим оружием, могут превращать внутренности противника в фарш даже сквозь броню.</MeleeWeapon_Warhammer.description>
+  <MeleeWeapon_Warhammer.tools.handle.label>рукоять</MeleeWeapon_Warhammer.tools.handle.label>
+  <MeleeWeapon_Warhammer.tools.head.label>боевая часть</MeleeWeapon_Warhammer.tools.head.label>
+</LanguageData>

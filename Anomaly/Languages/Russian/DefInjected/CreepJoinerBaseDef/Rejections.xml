@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AggressiveRejection.label>агрессивность</AggressiveRejection.label>
+  <AggressiveRejection.letterDesc>Получив отказ, {PAWN_nameDef} приходит в ярость и теперь бросается на всех подряд!</AggressiveRejection.letterDesc>
+  <AggressiveRejection.letterLabel>{PAWN_nameDef} проявляет агрессию</AggressiveRejection.letterLabel>
+  <Departure.label>уходит</Departure.label>
+  <Departure.letterDesc>{PAWN_nameDef} не может больше терпеть такого обращения. {PAWN_pronoun} решает, что пора уходить.</Departure.letterDesc>
+  <Departure.letterLabel>{PAWN_nameDef} уходит</Departure.letterLabel>
+</LanguageData>

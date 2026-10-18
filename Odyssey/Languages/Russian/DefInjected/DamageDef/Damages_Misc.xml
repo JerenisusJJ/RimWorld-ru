@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MiningBomb.label>бомба</MiningBomb.label>
+  <MiningBomb.deathMessage>{0} погиб(ла) от взрыва.</MiningBomb.deathMessage>
+  <VacuumBurn.label>ожог вакуумом</VacuumBurn.label>
+  <VacuumBurn.deathMessage>{0} погиб(ла) от ожогов вакуумом.</VacuumBurn.deathMessage>
+</LanguageData>

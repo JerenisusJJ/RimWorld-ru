@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InstallAdrenalHeart.label>пересадить адреналиновое сердце</InstallAdrenalHeart.label>
+  <InstallAdrenalHeart.description>Пересадить адреналиновое сердце.</InstallAdrenalHeart.description>
+  <InstallAdrenalHeart.jobString>Пересаживает адреналиновое сердце.</InstallAdrenalHeart.jobString>
+  <InstallCorrosiveHeart.label>пересадить разъедающее сердце</InstallCorrosiveHeart.label>
+  <InstallCorrosiveHeart.description>Пересадить разъедающее сердце.</InstallCorrosiveHeart.description>
+  <InstallCorrosiveHeart.jobString>Пересаживает разъедающее сердце.</InstallCorrosiveHeart.jobString>
+  <InstallGhoulBarbs.label>пересадить шипы упыря</InstallGhoulBarbs.label>
+  <InstallGhoulBarbs.description>Пересадить шипы упыря.</InstallGhoulBarbs.description>
+  <InstallGhoulBarbs.jobString>Пересаживает шипы упыря.</InstallGhoulBarbs.jobString>
+  <InstallGhoulPlating.label>пересадить пластины упыря</InstallGhoulPlating.label>
+  <InstallGhoulPlating.description>Пересадить пластины упыря.</InstallGhoulPlating.description>
+  <InstallGhoulPlating.jobString>Пересаживает пластины упыря.</InstallGhoulPlating.jobString>
+  <InstallMetalbloodHeart.label>пересадить сердце с железной кровью</InstallMetalbloodHeart.label>
+  <InstallMetalbloodHeart.description>Пересадить сердце с железной кровью.</InstallMetalbloodHeart.description>
+  <InstallMetalbloodHeart.jobString>Пересаживает сердце с железной кровью.</InstallMetalbloodHeart.jobString>
+  <InstallRevenantVertebrae.label>пересадить позвонки ревенанта</InstallRevenantVertebrae.label>
+  <InstallRevenantVertebrae.description>Пересадить позвонки ревенанта.</InstallRevenantVertebrae.description>
+  <InstallRevenantVertebrae.jobString>Пересаживает позвонки ревенанта.</InstallRevenantVertebrae.jobString>
+</LanguageData>

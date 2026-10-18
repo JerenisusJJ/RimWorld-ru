@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CallDropPods.label>вызвать десантные капсулы</CallDropPods.label>
+  <CallDropPods.description>Вызвать десантные капсулы, которые можно использовать для перемещения в другое место.</CallDropPods.description>
+  <CallMechanoids.label>вызвать механоидов</CallMechanoids.label>
+  <CallMechanoids.description>Вызвать враждебных механоидов в указанную область с помощью десантных капсул. Они нападут на всех ближайших людей — как на врагов, так и на союзников.</CallMechanoids.description>
+  <DeactivateMechanoid.label>деактивировать механоида</DeactivateMechanoid.label>
+  <DeactivateMechanoid.description>Окончательно отключить враждебного меха.</DeactivateMechanoid.description>
+  <EggSpew.label>выбросить яйцо</EggSpew.label>
+  <EggSpew.description>Прикажите королеве выпустить яйцо и плюнуть кислотной жижей в выбранную область. После обучения королева будет производить яйца только по команде.</EggSpew.description>
+  <SludgeSpew.label>выплеск жижи</SludgeSpew.label>
+  <SludgeSpew.description>Прикажите личинке выплеснуть кислотную жижу на всю выбранную область. После обучения личинка будет выбрасывать жижу только по команде.</SludgeSpew.description>
+  <TerrorRoar.label>рев ужаса</TerrorRoar.label>
+  <TerrorRoar.description>Прикажите альфа-трумбо издать оглушительный рев. Есть шанс, что находящиеся рядом враждебные люди и животные в панике убегут.</TerrorRoar.description>
+  <ThrumboRoar.label>рев трумбо</ThrumboRoar.label>
+  <ThrumboRoar.description>Издать мощный рев, который может заставить враждебных людей и животных содрогнуться от страха, снижая их скорость передвижения и манипуляции.</ThrumboRoar.description>
+  <WarTrumpet.label>боевой рев</WarTrumpet.label>
+  <WarTrumpet.description>Издать мощный рев, который может заставить враждебных людей и животных содрогнуться от страха, снижая их скорость передвижения и манипуляции.</WarTrumpet.description>
+</LanguageData>

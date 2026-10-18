@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimaTreeLinking.roles.0.label>связующий</AnimaTreeLinking.roles.0.label>
+  <AnimaTreeLinking.roles.0.customChildDisallowMessage>С древом души могут связываться только взрослые.</AnimaTreeLinking.roles.0.customChildDisallowMessage>
+  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Требуется поселенец с видом медитации «природа», уровнем пси-связи ниже максимального и без психической глухоты.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+  <AnimaTreeLinking.spectatorFilter.description>Должен быть доступен вид медитации «природа»</AnimaTreeLinking.spectatorFilter.description>
+  <AnimaTreeLinking.spectatorGerund>участвовать</AnimaTreeLinking.spectatorGerund>
+  <AnimaTreeLinking.spectatorsLabel>Участники</AnimaTreeLinking.spectatorsLabel>
+  <ThroneSpeech.letterText>{ORGANIZER_labelShort} произносит тронную речь.\n\nЕсли всё пройдёт гладко, речь вдохновит слушателей, а оратор укрепит свой авторитет. Если нет — она принесёт только вред. Результат зависит от социальных навыков говорящего.</ThroneSpeech.letterText>
+  <ThroneSpeech.letterTitle>Тронная речь</ThroneSpeech.letterTitle>
+  <ThroneSpeech.roles.0.label>организатор</ThroneSpeech.roles.0.label>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apparel_Beret.label>берет</Apparel_Beret.label>
+  <Apparel_Beret.description>Мягкая круглая плоская шапка.</Apparel_Beret.description>
+  <Apparel_Coronet.label>коронет</Apparel_Coronet.label>
+  <Apparel_Coronet.description>Небольшой головной убор из металла, похожий на корону.</Apparel_Coronet.description>
+  <Apparel_Corset.label>корсет</Apparel_Corset.label>
+  <Apparel_Corset.description>Расшитый корсет c крепкими шнурками, созданный для поддержания фигуры настоящей леди.</Apparel_Corset.description>
+  <Apparel_Crown.label>корона</Apparel_Crown.label>
+  <Apparel_Crown.description>Искусно украшенная корона из металла.</Apparel_Crown.description>
+  <Apparel_CrownStellic.label>звёздная корона</Apparel_CrownStellic.label>
+  <Apparel_CrownStellic.description>Искусно украшенная и внушительно выглядящая корона из металла.</Apparel_CrownStellic.description>
+  <Apparel_HatLadies.label>дамская шляпка</Apparel_HatLadies.label>
+  <Apparel_HatLadies.description>Изысканная дамская шляпа, украшенная сложной вышивкой.</Apparel_HatLadies.description>
+  <Apparel_HatTop.label>шляпа-цилиндр</Apparel_HatTop.label>
+  <Apparel_HatTop.description>Высокая негнущаяся блестящая шляпа цилиндрической формы.</Apparel_HatTop.description>
+  <Apparel_RobeRoyal.label>роскошная мантия</Apparel_RobeRoyal.label>
+  <Apparel_RobeRoyal.description>Длинная струящаяся мантия, расшитая сложными декоративными узорами.</Apparel_RobeRoyal.description>
+  <Apparel_ShirtRuffle.label>парадная рубашка</Apparel_ShirtRuffle.label>
+  <Apparel_ShirtRuffle.description>Украшенная парадная рубашка с кнопками-пуговицами.</Apparel_ShirtRuffle.description>
+  <Apparel_VestRoyal.label>парадный жилет</Apparel_VestRoyal.label>
+  <Apparel_VestRoyal.description>Расшитый жилет со сложными декоративными орнаментами.</Apparel_VestRoyal.description>
+</LanguageData>

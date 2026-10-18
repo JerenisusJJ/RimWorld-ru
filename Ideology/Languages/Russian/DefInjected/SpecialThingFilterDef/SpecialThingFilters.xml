@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AllowCannibal.label>с человечиной</AllowCannibal.label>
+  <AllowCannibal.description>Разрешить еду, подходящую для каннибалов. Сюда будут попадать блюда в зависимости от ингредиентов.</AllowCannibal.description>
+  <AllowCarnivore.label>с аппетитным мясом</AllowCarnivore.label>
+  <AllowCarnivore.description>Разрешить еду, подходящую для любителей мяса, но неприемлемую для вегетарианцев. Сюда будут попадать блюда в зависимости от ингредиентов. Мясо насекомых, людей и блюда с ними в эту категорию не входят.</AllowCarnivore.description>
+  <AllowCorpsesSlave.label>рабов</AllowCorpsesSlave.label>
+  <AllowCorpsesSlave.description>Разрешить мёртвых рабов.</AllowCorpsesSlave.description>
+  <AllowInsectMeat.label>с мясом насекомых</AllowInsectMeat.label>
+  <AllowInsectMeat.description>Разрешить еду, содержащую мясо насекомых. Сюда будут попадать блюда в зависимости от ингредиентов.</AllowInsectMeat.description>
+  <AllowVegetarian.label>вегетарианская</AllowVegetarian.label>
+  <AllowVegetarian.description>Разрешить еду, подходящую для вегетарианцев, но неприемлемую тех, кто есть только мясо. Сюда будут попадать блюда в зависимости от ингредиентов.</AllowVegetarian.description>
+</LanguageData>

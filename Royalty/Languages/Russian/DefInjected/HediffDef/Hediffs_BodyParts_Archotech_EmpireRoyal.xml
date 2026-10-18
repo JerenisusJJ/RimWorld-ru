@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PsychicHarmonizer.label>пси-гармонайзер</PsychicHarmonizer.label>
+  <PsychicHarmonizer.description>Этот мозговой имплант проецирует настроение пользователя на окружающих, заставляя их чувствовать размытую, упрощённую версию его эмоций. Этот имплант может стать мощным инструментом поддержания морального духа, но, если пользователь начнёт испытывать негативные эмоции, это может привести к массовым волнениям.</PsychicHarmonizer.description>
+  <PsychicHarmonizer.labelNoun>пси-гармонайзер</PsychicHarmonizer.labelNoun>
+  <PsychicReader.label>пси-считыватель</PsychicReader.label>
+  <PsychicReader.description>Даёт пользователю ограниченные возможности чтения мыслей, что обеспечивает преимущество в социальных взаимодействиях и усиливает убедительность в переговорах. Эффект пропорционален психочувствительности пользователя.</PsychicReader.description>
+  <PsychicReader.labelNoun>пси-считыватель</PsychicReader.labelNoun>
+  <PsychicSensitizer.label>пси-сенсибилизатор</PsychicSensitizer.label>
+  <PsychicSensitizer.description>Этот имплант стимулирует области мозга, отвечающие за психологическое взаимодействие, тем самым увеличивая психочувствительность пользователя.</PsychicSensitizer.description>
+  <PsychicSensitizer.labelNoun>пси-сенсибилизатор</PsychicSensitizer.labelNoun>
+</LanguageData>

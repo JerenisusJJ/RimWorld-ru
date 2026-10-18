@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MessageColonistReaching2ndTrimesterPregnancy>Беременность {PAWN_labelShort} перешла во второй триместр.</MessageColonistReaching2ndTrimesterPregnancy>
+  <MessageColonistReaching3rdTrimesterPregnancy>Беременность {PAWN_labelShort} перешла в третий триместр.</MessageColonistReaching3rdTrimesterPregnancy>
+  <MessageColonistInFinalStagesOfLabor>У {PAWN_labelShort} началась последняя стадия схваток.</MessageColonistInFinalStagesOfLabor>
+  <MessageMechChargerDestroyedMechGoesBerserk>Зарядная станция была уничтожена, когда на ней заряжался {PAWN_nameDef}! Внезапное отключение тока повредило {PAWN_possessive} мозг и {PAWN_pronoun} {PAWN_gender ? вошёл : вошла : вошёло} в состояние берсерка.</MessageMechChargerDestroyedMechGoesBerserk>
+  <MessageCantUseOnResistingPerson>Невозможно использовать {ABILITY_label} на тех, кто будет оказывать сопротивление.</MessageCantUseOnResistingPerson>
+  <MessageCannotUseOnSameXenotype>{0_labelShort} уже относится к ксенотипу {0_xenotype}.</MessageCannotUseOnSameXenotype>
+  <MessagePawnHasNoXenogenes>У {0_labelShort} нет доступных ксеногенов для вживления.</MessagePawnHasNoXenogenes>
+  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>Ксеносемя можно вживить только в поселенцев, рабов или пленников.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
+  <MessageCannotImplantInTempFactionMembers>Невозможно вживить во временных членов фракции.</MessageCannotImplantInTempFactionMembers>
+  <MessageXenogermCompleted>Ксеносемя создано.</MessageXenogermCompleted>
+  <MessageXenogermCancelledMissingPack>Работа над ксеносеменем {0_labelShort} отменена: отсутствует требуемый генный пакет.</MessageXenogermCancelledMissingPack>
+  <MessageAbsorbingXenogermWillAngerFaction>Изъятие ксеносемени {PAWN_nameDef} разозлит фракцию {0}.</MessageAbsorbingXenogermWillAngerFaction>
+  <MessageCannotUseOnOtherFactions>Способность «{ABILITY_label}» можно использовать только на поселенцев, рабов или пленников.</MessageCannotUseOnOtherFactions>
+  <MessageCannotBecomeNonPreferredXenotype>{0_labelShort} отказывается получать нежелательный ксенотип.</MessageCannotBecomeNonPreferredXenotype>
+  <MessageCaravanAddingEscortingMech>{MECH_nameDef} {MECH_gender ? был : была : было} автоматически {MECH_gender ? добавлен : добавлена : добавлно} к каравану, так как {MECH_pronoun} сопровождает {OVERSEER_nameDef}</MessageCaravanAddingEscortingMech>
+  <MessageCaravanRemovingEscortingMech>{MECH_nameDef} {MECH_gender ? был : была : было} автоматически {MECH_gender ? исключён : исключена : исключён} из каравана, так как {MECH_pronoun} сопровождает {OVERSEER_nameDef}</MessageCaravanRemovingEscortingMech>
+  <MessageMechanitorCasketOpened>{0} {0_gender ? был : была : было} механитором. Вы можете извлечь {0_possessive} {1_label} и установить другому поселенцу.</MessageMechanitorCasketOpened>
+  <MessageNoBloodfeedersPrisonerInteractionReset>Тип взаимодействия с некоторыми пленниками требовал наличие гена кровоедства. Так как в поселении больше нет кровоедов, тип взаимодействия с этими пленниками изменён на «Не вступать в контакт».</MessageNoBloodfeedersPrisonerInteractionReset>
+  <MessagePregnancyTerminated>Беременность {PAWN_nameDef} была успешно прервана.</MessagePregnancyTerminated>
+  <MessageAngeredPollutedCell>Вы разозлили фракцию {0} ({1})</MessageAngeredPollutedCell>
+  <MessageWarningPollutedCell>Требуется незагрязнённая почва.</MessageWarningPollutedCell>
+  <MessageWarningNotPollutedCell>Требуется загрязнённая почва.</MessageWarningNotPollutedCell>
+  <MessagePlantDiedOfPollution>{0} {0_gender ? погиб : погибла : погибло} от загрязнения.</MessagePlantDiedOfPollution>
+  <MessagePlantDiedOfNoPollution>{0} {0_gender ? погиб : погибла : погибло} из-за недостатка загрязнения.</MessagePlantDiedOfNoPollution>
+  <MessageWorldTilePollutionChanged>Уровень загрязнения в области с координатами {1} увеличился на {0}.</MessageWorldTilePollutionChanged>
+  <MessageCocoonDisturbed>Кокон потревожили и он раскрылся!</MessageCocoonDisturbed>
+  <MessageCocoonDisturbedPlural>Коконы потревожили и они раскрылись!</MessageCocoonDisturbedPlural>
+  <MessagePlantDiedOfRot_PollutedTerrain>{0} {0_gender ? сгнил : сгнила : сгнило} из-за загрязнённой почвы.</MessagePlantDiedOfRot_PollutedTerrain>
+  <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} {PAWN_gender ? должен быть обездвижен : должна быть обездвижена : должен быть обездвижно}, чтобы попытаться вживить {PAWN_objective} ксеносемя.</MessageTargetMustBeDownedToForceReimplant>
+  <MessageWorkTypeDisabledAge>{0_nameDef} всего {1_numCase ? год : года : лет}, а работа «{2}» доступна с {3_numCase ? года : лет : лет}.</MessageWorkTypeDisabledAge>
+  <MessageDeathrestingPawnCanWakeSafely>{PAWN_nameDef} может безопасно выйти из торпора.</MessageDeathrestingPawnCanWakeSafely>
+  <MessageMechanitorLostControlOfMech>{0_nameDef} {0_gender ? потерял : потеряла : потеряло} контроль над {lookup: {1_kindBase}; Case; 4}.</MessageMechanitorLostControlOfMech>
+  <MessageMechanitorDisconnectedFromMech>{0_nameDef} {0_gender ? потерял : потеряла : потеряло} связь с механоидом {1_nameDef}.</MessageMechanitorDisconnectedFromMech>
+  <MetabolismTooLowToCreateXenogerm>Итоговый показатель метаболизма выбранных генов должен быть больше или равен {MIN}. Текущее значение: {AMOUNT}.</MetabolismTooLowToCreateXenogerm>
+  <ComplexityTooHighToCreateXenogerm>Итоговый показатель метаболизма выбранных генов должен быть меньше или равен {MAX}. Текущее значение: {AMOUNT}.</ComplexityTooHighToCreateXenogerm>
+  <MessageNoSelectedGenepacks>Невозможно создать ксеносемя, так как не выбраны генные пакеты.</MessageNoSelectedGenepacks>
+  <MessageNoSelectedGenes>Невозможно создать ксеносемя, так как не выбраны гены.</MessageNoSelectedGenes>
+  <CanOnlyStoreNumGenepacks>{0_label} может хранить только {1_numCase ? генный пакет : генных пакета : генных пакетов}.</CanOnlyStoreNumGenepacks>
+  <XenotypeNameCannotBeEmpty>Название ксеносемени не может быть пустым.</XenotypeNameCannotBeEmpty>
+  <MessageGeneMissingPrerequisite>Отсутствует требуемый ген для {lookup: {0}; Case; 1}</MessageGeneMissingPrerequisite>
+  <MessageDeathrestCapacityChanged>Торпорная вместимость {PAWN_nameDef} увеличилась с {OLD} до {NEW}.</MessageDeathrestCapacityChanged>
+  <SanguophagesArrivingSoon>Гемофаги прибудут на собрание через несколько часов.</SanguophagesArrivingSoon>
+  <SanguophagesBegunMeeting>Гемофаги начали собрание.</SanguophagesBegunMeeting>
+  <SanguophagesLeavingTemperature>Гемофаги покидают это место из-за опасных погодных условий.</SanguophagesLeavingTemperature>
+  <MessagePawnWokenFromSunlight>{PAWN_nameDef} {PAWN_gender ? пробудился : пробудилась : пробудился} из-за воздействия солнечного света.</MessagePawnWokenFromSunlight>
+  <MessageBedExposedToSunlight>{PAWN_nameDef} не может использовать {BED_labelShort} для торпора, так как {BED_pronoun} находится на солнечном свету.</MessageBedExposedToSunlight>
+  <GeneExtractorNoPowerEjectedMessage>{PAWN_labelShort} {PAWN_gender ? выброшен : выброшена : выброшно} из генного экстрактора из-за нехватки энергии.</GeneExtractorNoPowerEjectedMessage>
+  <MessagePawnKilledRipscanner>Мозг {PAWN_nameDef} уничтожен в результате сканирования душегубом.</MessagePawnKilledRipscanner>
+  <MessageSubcoreSoftscannerCompleted>Церебральный анализ {PAWN_nameDef} завершён.</MessageSubcoreSoftscannerCompleted>
+  <MessageCannotResurrectDessicatedCorpse>Невозможно воскресить скелетированное тело.</MessageCannotResurrectDessicatedCorpse>
+  <MessageAboutToExplode>{0} вот-вот взорвётся!</MessageAboutToExplode>
+  <MessageChildcareDisabled>{FEEDER_labelShort} не может заботиться о детях.</MessageChildcareDisabled>
+  <MessageChildcareNotAssigned>{FEEDER_labelShort} не {FEEDER_gender ? назначен : назначена : назначно} заботиться о детях.</MessageChildcareNotAssigned>
+  <MessageTooManyCustomXenotypes>Вы создали максимально возможное количество ксенотипов. Удалите часть для создания новых.</MessageTooManyCustomXenotypes>
+  <MessageConflictingGenesPresent>Невозможно сохранить ксенотип с конфликтующими генами.</MessageConflictingGenesPresent>
+  <MessageDeathrestBuildingBound>{BUILDING_labelShort} {BUILDING_gender ? привязан : привязана : привязано} к {PAWN_nameDef} (торпорная вместимость: {CUR}/{MAX}).</MessageDeathrestBuildingBound>
+  <MessageDevelopmentalStageSelectionDisabledByScenario>Выбор стадий развития отключён по сценарию.</MessageDevelopmentalStageSelectionDisabledByScenario>
+  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>У {PAWN_nameDef} не хватило крови для создания гемоген-пакета.</MessagePawnHadNotEnoughBloodToProduceHemogenPack>
+  <MessageCannotStartHemogenExtraction>У {PAWN_nameDef} недостаточно крови для создания гемоген-пакета.</MessageCannotStartHemogenExtraction>
+  <MessageCannotPostponeGrowthMoment>Выберите, как {PAWN_nameDef} будет развиваться дальше.</MessageCannotPostponeGrowthMoment>
+  <MessageDraftedPawnCarryingBaby>Внимание: {0_labelShort} сейчас носит ребёнка.</MessageDraftedPawnCarryingBaby>
+  <MessageTakingBabyToSafeTemperature>{ADULT_nameDef} переносит {BABY_nameDef} в место с менее опасной температурой.</MessageTakingBabyToSafeTemperature>
+  <MessagePregnancyFailed>{MOTHER_nameDef} не смогла забеременеть от {FATHER_nameDef}</MessagePregnancyFailed>
+  <MessageFerilizeFailed>{PAWN_nameDef} не смог оплодотворить яйцеклетку</MessageFerilizeFailed>
+  <CombinedGenesExceedMetabolismLimits>комбинируемые гены превысили ограничения метаболизма.</CombinedGenesExceedMetabolismLimits>
+  <MessageStartingPawnCapableOfViolence>В режиме обучения первые поселенцы должны быть способны к насилию.</MessageStartingPawnCapableOfViolence>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientComplex_Mechanitor.label>древний механиторский комплекс</AncientComplex_Mechanitor.label>
+  <AncientComplex_Mechanitor.description>Древний комплекс, в котором покоится тело механитора. Если попасть внутрь этого опасного сооружения, можно завладеть находящимся там мехлинком.</AncientComplex_Mechanitor.description>
+  <AncientComplex_Mechanitor.approachingReportString>Исследует {lookup: {0}; Case; 3}</AncientComplex_Mechanitor.approachingReportString>
+  <AncientComplex_Mechanitor.approachOrderString>Исследовать {lookup: {0}; Case; 3}</AncientComplex_Mechanitor.approachOrderString>
+</LanguageData>
