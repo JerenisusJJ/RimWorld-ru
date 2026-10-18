@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_HMSC.DialogTitle>Сыворотка мех-лекаря: {0_nameDef}</SY_HMSC.DialogTitle>
+  <SY_HMSC.NoHediffsToHeal>{0_nameDef}: излечимых состояний здоровья не найдено</SY_HMSC.NoHediffsToHeal>
+  <SY_HMSC.Part>Часть тела</SY_HMSC.Part>
+  <SY_HMSC.HealthCondition>Состояние</SY_HMSC.HealthCondition>
+  <SY_HMSC.Severity>Тяжесть</SY_HMSC.Severity>
+</LanguageData>

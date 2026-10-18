@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Toggle auto felling designation mode -->
+	<TMB_ToggleAutoDesignatePlantsCutMode.label>toggle auto felling designation mode</TMB_ToggleAutoDesignatePlantsCutMode.label>
+	<!-- EN: Wealth breakdown -->
+	<VisibleWealth_WealthBreakdown.label>wealth breakdown</VisibleWealth_WealthBreakdown.label>
+	<!-- EN: Wealth breakdown (Hold shift) -->
+	<VisibleWealth_WealthBreakdownShift.label>wealth breakdown (Hold shift)</VisibleWealth_WealthBreakdownShift.label>
+</LanguageData>

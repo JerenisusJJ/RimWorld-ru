@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmartWorkMode_RequireDormantGroup>Требовать существующую группу управления со спящей самозарядкой для самозарядки в умном рабочем режиме</SmartWorkMode_RequireDormantGroup>
+  <SmartWorkMode_FirstDefaultWorkMode>Рабочий режим по умолчанию для первой группы управления</SmartWorkMode_FirstDefaultWorkMode>
+  <SmartWorkMode_SecondDefaultWorkMode>Рабочий режим по умолчанию для второй группы управления</SmartWorkMode_SecondDefaultWorkMode>
+  <SmartWorkMode_AdditionalDefaultWorkMode>Рабочий режим по умолчанию для дополнительных групп управления</SmartWorkMode_AdditionalDefaultWorkMode>
+  <SmartWorkMode_ClickToChangeSmartShutdownArea>Нажмите, чтобы изменить зону самозарядки в умном рабочем режиме.</SmartWorkMode_ClickToChangeSmartShutdownArea>
+  <SmartWorkMode_SetToSmartWorkModeToChange>Переключитесь на умный рабочий режим, чтобы изменить это.</SmartWorkMode_SetToSmartWorkModeToChange>
+</LanguageData>

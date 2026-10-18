@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LSC_Category>Очистка стопки писем</LSC_Category>
+  <LSC_KeyBindingDesc>Назначение клавиши:</LSC_KeyBindingDesc>
+  <LSC_CleanUpOneLetterDesc>Очищать только одно письмо</LSC_CleanUpOneLetterDesc>
+  <LSC_OldLetterFirstDesc>Сначала очищать старые письма</LSC_OldLetterFirstDesc>
+  <LSC_DebugModeDesc>Режим отладки</LSC_DebugModeDesc>
+  <LSC_Delete_button>Кнопка Delete</LSC_Delete_button>
+  <LSC_Middle_mouse_button>Средняя кнопка мыши</LSC_Middle_mouse_button>
+  <LSC_Additional_fourth_mouse_button>Четвёртая кнопка мыши</LSC_Additional_fourth_mouse_button>
+  <LSC_Additional_fifth_mouse_button>Пятая кнопка мыши</LSC_Additional_fifth_mouse_button>
+  <LSC_Additional_sixth_mouse_button>Шестая кнопка мыши</LSC_Additional_sixth_mouse_button>
+  <LSC_Additional_seventh_mouse_button>Седьмая кнопка мыши</LSC_Additional_seventh_mouse_button>
+</LanguageData>

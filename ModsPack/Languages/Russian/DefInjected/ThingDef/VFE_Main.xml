@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Stone_DarklightCampfire.label>тёмное кострище</Stone_DarklightCampfire.label>
+  <Stone_DarklightCampfire.description>Специально обработанное кострище, дающее тусклый свет на большой площади. Те, кто предпочитает тёмный свет, лучше всего работают при таком источнике. Готовит еду и выделяет тепло, но сжигает при этом дрова. Как и любой источник тепла, должно стоять в помещении, чтобы было что обогревать. Заправляемое.</Stone_DarklightCampfire.description>
+  <VFE_AnimalSarcophagus.label>саркофаг для животных</VFE_AnimalSarcophagus.label>
+  <VFE_AnimalSarcophagus.description>Украшенный погребальный ларь для почтённых погибших животных.</VFE_AnimalSarcophagus.description>
+  <Bed_StoneSlab.label>высеченное каменное ложе</Bed_StoneSlab.label>
+  <Bed_StoneSlab.description>Простая, но красивая каменная плита для сна. Даёт минимум комфорта, зато прочная и огнеупорная.</Bed_StoneSlab.description>
+  <VFE_Bed_StoneSlabDouble.label>высеченное двуспальное каменное ложе</VFE_Bed_StoneSlabDouble.label>
+  <VFE_Bed_StoneSlabDouble.description>Простая, но красивая каменная плита для сна, на которой помещаются двое. Даёт минимум комфорта, зато прочная и огнеупорная.</VFE_Bed_StoneSlabDouble.description>
+  <Bed_Simple.label>простая кровать</Bed_Simple.label>
+  <Bed_Simple.description>Довольно удобная сетка и подушка на прочном каркасе. Из-за простоты конструкции качество этой кровати ни на что не влияет.</Bed_Simple.description>
+  <VFE_Bed_SimpleDouble.label>простая двуспальная кровать</VFE_Bed_SimpleDouble.label>
+  <VFE_Bed_SimpleDouble.description>Довольно удобная сетка и подушка на прочном каркасе, рассчитанном на двоих. Из-за простоты конструкции качество этой кровати ни на что не влияет.</VFE_Bed_SimpleDouble.description>
+  <Seat_Cushion.label>подушка для сидения</Seat_Cushion.label>
+  <Seat_Cushion.description>Мягкая подушка для сидения. Удобнее табурета, но всё равно простое место для сидения.</Seat_Cushion.description>
+  <Seat_Bench.label>скамья</Seat_Bench.label>
+  <Seat_Bench.description>Простая длинная платформа, на которой могут сидеть сразу несколько человек; не очень удобна, но намного лучше, чем ничего. Можно использовать у столов, рабочих мест и в других местах.</Seat_Bench.description>
+  <Seat_SquareChair.label>школьный стул</Seat_SquareChair.label>
+  <Seat_SquareChair.description>Неудобный школьный стул. Можно использовать у столов, рабочих мест и в других местах. Ускоряет обучение, если стоит рядом со школьной партой.</Seat_SquareChair.description>
+  <Table_1x1c.label>стол (1x1)</Table_1x1c.label>
+  <Table_1x1c.description>Люди едят за столами, если напротив них поставлены стулья.</Table_1x1c.description>
+  <Table_Counter.label>стойка</Table_Counter.label>
+  <Table_Counter.description>Люди едят за стойками, если напротив них поставлены стулья.</Table_Counter.description>
+  <VFE_CoffeeTable.label>журнальный столик</VFE_CoffeeTable.label>
+  <VFE_CoffeeTable.description>Небольшой столик, который делает ближайшие кресла и диваны чуть удобнее. Нужно ставить вплотную к дивану или креслу. Несколько журнальных столиков возле одного дивана не дают дополнительного эффекта.</VFE_CoffeeTable.description>
+  <Stone_Campfire.label>кострище</Stone_Campfire.label>
+  <Stone_Campfire.description>Готовит еду и выделяет тепло, но сжигает при этом дрова. Как и любой источник тепла, должно стоять в помещении, чтобы было что обогревать. Заправляемое.</Stone_Campfire.description>
+  <Radio_Industrial.label>промышленное радио</Radio_Industrial.label>
+  <Radio_Industrial.description>Радио индустриальной эпохи для воспроизведения музыки и разговорных передач. Даже на окраинных мирах какой-нибудь старый передатчик часто транслирует что-то хотя бы отчасти интересное. Даёт пассивный музыкальный отдых всем, кто его слышит.</Radio_Industrial.description>
+  <Radio_Spacer.label>длинноволновое радио</Radio_Spacer.label>
+  <Radio_Spacer.description>Современное радио высокой точности, использующее продвинутую длинноволновую передачу, чтобы выдавать кристально чистую музыку, передачи и межзвёздные трансляции. Даже на окраинных мирах кто-нибудь всегда что-нибудь передаёт - будь то новости, музыка или далёкие голоса из пустоты.</Radio_Spacer.description>
+  <Joy_Arcade.label>аркадный автомат</Joy_Arcade.label>
+  <Joy_Arcade.description>Громоздкий аркадный автомат на монетах со стареющим ЭЛТ-экраном и разноцветными кнопками. Он устарел, но всё ещё даёт многие часы цифровых развлечений. Классические игры никогда не умирают.</Joy_Arcade.description>
+  <Joy_InudstrialComputer.label>старый компьютер</Joy_InudstrialComputer.label>
+  <Joy_InudstrialComputer.description>Громоздкий устаревший компьютер на небольшом столе. Экран мерцает, клавиши залипают, и он гудит от старости, но простые программы всё ещё запускает. Всегда найдётся какая-нибудь архаичная программа, ждущая своего часа.</Joy_InudstrialComputer.description>
+  <Joy_ModernComputer.label>современный компьютер</Joy_ModernComputer.label>
+  <Joy_ModernComputer.description>Изящная производительная вычислительная станция на прочном столе. Быстрый процессор, эргономичная клавиатура и чёткий плоский дисплей открывают широкий выбор программ - для исследований, развлечений или лёгкой межзвёздной сети.</Joy_ModernComputer.description>
+  <Joy_Piano.label>пианино</Joy_Piano.label>
+  <Joy_Piano.description>Компактное пианино для музыкального отдыха. Отличный способ развить артистические навыки и развлечь других.</Joy_Piano.description>
+  <Joy_RouletteTable.label>стол для рулетки</Joy_RouletteTable.label>
+  <Joy_RouletteTable.description>Изысканный игорный стол для игры в рулетку. Захватывающая смесь случая и стратегии, ставшая центром любого дорогого казино или общественного места.</Joy_RouletteTable.description>
+  <Joy_DartsBoard.label>мишень для дартса</Joy_DartsBoard.label>
+  <Joy_DartsBoard.description>Простая мишень для дартса на подставке. Весёлый способ потренировать меткость и координацию рук и глаз. Тренирует навык стрельбы.</Joy_DartsBoard.description>
+  <Joy_PunchingBag.label>боксёрская груша</Joy_PunchingBag.label>
+  <Joy_PunchingBag.description>Прочная боксёрская груша на стойке для боевой подготовки и снятия стресса. Тренирует навык ближнего боя.</Joy_PunchingBag.description>
+  <VFE_Lounger.label>шезлонг</VFE_Lounger.label>
+  <VFE_Lounger.description>Откидной мягкий шезлонг для отдыха. Очень удобен, но не подходит для глубокого, спокойного сна. Позволяет отдыхать, загорая.</VFE_Lounger.description>
+  <Misc_FileCabinet.label>картотечный шкаф</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>Ускоряет исследования, если стоит рядом с исследовательским верстаком. Один исследовательский верстак может использовать до двух картотечных шкафов.</Misc_FileCabinet.description>
+  <Shelf_WeaponRack.label>оружейная стойка</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>Стеллаж для хранения оружия. Хранящиеся на нём предметы не влияют на красоту помещения и не портятся, даже под открытым небом.</Shelf_WeaponRack.description>
+  <Bin_Small.label>малый мусорный бак</Bin_Small.label>
+  <Bin_Small.description>Небольшой мусорный бак, помогающий поддерживать чистоту вокруг. Медленно убирает мусор и грязь в радиусе 10 клеток.</Bin_Small.description>
+  <Bin_Large.label>большой мусорный бак</Bin_Large.label>
+  <Bin_Large.description>Вместительное устройство для утилизации отходов, эффективно поддерживающее чистоту вокруг. Медленно убирает мусор и грязь в радиусе 15 клеток.</Bin_Large.description>
+  <VFE_LongPlantPot.label>длинный цветочный горшок</VFE_LongPlantPot.label>
+  <VFE_LongPlantPot.description>Сажайте здесь декоративные цветы, чтобы улучшить настроение людей поблизости. Рассчитан на сочетание с другими цветочными горшками для создания разных форм.</VFE_LongPlantPot.description>
+  <VFE_DeskLamp.label>настольная лампа</VFE_DeskLamp.label>
+  <VFE_DeskLamp.description>Электрическая настольная лампа, освещающая небольшую область. Людям нужен свет, чтобы двигаться и работать с полной скоростью.</VFE_DeskLamp.description>
+  <VFE_FloorLamp.label>напольный светильник</VFE_FloorLamp.label>
+  <VFE_FloorLamp.description>Низкий источник света, встроенный в пол. Он не так ярок, как торшер, но даёт мягкое ровное освещение и не мешает передвижению. Не замыкает под дождём.</VFE_FloorLamp.description>
+  <Light_Streetlamp.label>уличный фонарь</Light_Streetlamp.label>
+  <Light_Streetlamp.description>Электрический фонарь на стойке, освещающий территорию; подходит для больших открытых пространств. Днём автоматически выключается, чтобы не расходовать энергию.</Light_Streetlamp.description>
+  <Light_Streetlamp.comps.CompScheduleExtended.offMessage>Выключен: достаточно солнечного света.</Light_Streetlamp.comps.CompScheduleExtended.offMessage>
+  <Bed_Ergonomic.label>эргономичная кровать</Bed_Ergonomic.label>
+  <Bed_Ergonomic.description>Современная регулируемая кровать для максимального комфорта и правильной поддержки позвоночника.</Bed_Ergonomic.description>
+  <Bed_DoubleErgonomic.label>эргономичная двуспальная кровать</Bed_DoubleErgonomic.label>
+  <Bed_DoubleErgonomic.description>Современная регулируемая кровать для максимального комфорта и правильной поддержки позвоночника. Рассчитана на двоих.</Bed_DoubleErgonomic.description>
+  <Table_Wardrobe.label>платяной шкаф</Table_Wardrobe.label>
+  <Table_Wardrobe.description>Высокий шкаф для хранения одежды и других вещей. Немного повышает комфорт всех ближайших кроватей. Несколько шкафов возле одной кровати не дают дополнительного эффекта.</Table_Wardrobe.description>
+  <Seat_ModernChair.label>эргономичный стул</Seat_ModernChair.label>
+  <Seat_ModernChair.description>Современный продуманный стул с отличной поддержкой спины и мягкой обивкой, обеспечивающий высокий комфорт.</Seat_ModernChair.description>
+  <VFE_ModularCouch.label>модульный диван</VFE_ModularCouch.label>
+  <VFE_ModularCouch.description>Компактное мягкое сиденье, которое можно сочетать с другими, собирая большие диваны или угловые зоны отдыха. Идеально для больших комнат отдыха, гостиных и общественных мест.</VFE_ModularCouch.description>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.0.name>Вниз-влево (внутренний)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.0.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.1.name>Вниз-влево (внешний)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.1.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.2.name>Вниз-влево (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.2.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.3.name>Вниз-середина (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.3.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.4.name>Вниз-вправо (внутренний)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.4.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.5.name>Вниз-вправо (внешний)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.5.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.6.name>Вниз-вправо (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.6.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.7.name>Влево-вниз (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.7.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.8.name>Влево-середина (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.8.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.9.name>Влево-вверх (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.9.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.11.name>Вправо-вниз (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.11.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.12.name>Вправо-середина (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.12.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.13.name>Вправо-вверх (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.13.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.14.name>Вверх-влево (внутренний)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.14.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.15.name>Вверх-влево (внешний)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.15.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.16.name>Вверх-влево (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.16.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.17.name>Вверх-середина (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.17.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.18.name>Вверх-вправо (внутренний)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.18.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.19.name>Вверх-вправо (внешний)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.19.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.20.name>Вверх-вправо (прямой)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.20.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.gizmoDescription>Настройте внешний вид дивана, чтобы получилась цельная зона для сидения.</VFE_ModularCouch.comps.CompCustomizableGraphic.gizmoDescription>
+  <Bed_Kingsize.label>королевская кровать с балдахином</Bed_Kingsize.label>
+  <Bed_Kingsize.description>Роскошная кровать с четырьмя столбиками, достойная знати, украшенная сложной резьбой. Чрезвычайно удобная и роскошная; внушительный каркас и тонкая работа делают её произведением искусства. Рассчитана на двоих.</Bed_Kingsize.description>
+  <Table_RoyalEndTable.label>королевская прикроватная тумбочка</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.description>Искусно сделанная прикроватная тумбочка с золотыми инкрустациями и изысканной отделкой. Повышает комфорт ближайших кроватей и придаёт любой спальне благородный вид. Нужно ставить вплотную к изголовью кровати. Несколько тумбочек возле одной кровати не дают дополнительного эффекта.</Table_RoyalEndTable.description>
+  <Table_RoyalDresser.label>королевский комод</Table_RoyalDresser.label>
+  <Table_RoyalDresser.description>Роскошный комод из массивного золота с элегантным дизайном, делающий ближайшие кровати удобнее. Несколько прикроватных тумбочек возле одной кровати не дают дополнительного эффекта.</Table_RoyalDresser.description>
+  <VFE_RoyalWardrobe.label>королевский шкаф</VFE_RoyalWardrobe.label>
+  <VFE_RoyalWardrobe.description>Великолепный шкаф с золотой отделкой, созданный для знати. Немного повышает комфорт всех ближайших кроватей. Несколько королевских шкафов возле одной кровати не дают дополнительного эффекта.</VFE_RoyalWardrobe.description>
+  <VFE_RoyalLamp.label>королевский торшер</VFE_RoyalLamp.label>
+  <VFE_RoyalLamp.description>Красиво сделанный торшер с золотой отделкой и элегантным дизайном.</VFE_RoyalLamp.description>
+  <Seat_RoyalChair.label>королевский стул</Seat_RoyalChair.label>
+  <Seat_RoyalChair.description>Роскошный обеденный стул с высокой спинкой, украшенный тонкой обивкой и сложной отделкой. Можно использовать у столов, рабочих мест и в других местах.</Seat_RoyalChair.description>
+  <Seat_RoyalArmchair.label>королевское кресло</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.description>Великолепное, искусно сделанное кресло с глубокими подушками, тонкой обивкой и узорчатой отделкой. Можно использовать у столов, рабочих мест и в других местах.</Seat_RoyalArmchair.description>
+  <Table_Royal1x1c.label>королевский стол (1x1)</Table_Royal1x1c.label>
+  <Table_Royal1x1c.description>Искусно сделанный стол с золотой отделкой, украшенный сложной резьбой и полированными поверхностями. Люди едят за столами, если напротив них поставлены стулья.</Table_Royal1x1c.description>
+  <Table_Royal1x2c.label>королевский стол (1x2)</Table_Royal1x2c.label>
+  <Table_Royal1x2c.description>Искусно сделанный стол с золотой отделкой, украшенный сложной резьбой и полированными поверхностями. Люди едят за столами, если напротив них поставлены стулья.</Table_Royal1x2c.description>
+  <Table_Royal2x2c.label>королевский стол (2x2)</Table_Royal2x2c.label>
+  <Table_Royal2x2c.description>Искусно сделанный стол с золотой отделкой, украшенный сложной резьбой и полированными поверхностями. Люди едят за столами, если напротив них поставлены стулья.</Table_Royal2x2c.description>
+  <Table_Royal2x4c.label>королевский стол (2x4)</Table_Royal2x4c.label>
+  <Table_Royal2x4c.description>Искусно сделанный стол с золотой отделкой, украшенный сложной резьбой и полированными поверхностями. Люди едят за столами, если напротив них поставлены стулья.</Table_Royal2x4c.description>
+  <Table_Royal3x3c.label>королевский стол (3x3)</Table_Royal3x3c.label>
+  <Table_Royal3x3c.description>Искусно сделанный стол с золотой отделкой, украшенный сложной резьбой и полированными поверхностями. Люди едят за столами, если напротив них поставлены стулья.</Table_Royal3x3c.description>
+  <Mote_HoldingChips.label>частица</Mote_HoldingChips.label>
+  <Mote_HoldingGloves.label>частица</Mote_HoldingGloves.label>
+  <Mote_FlyingDart.label>частица</Mote_FlyingDart.label>
+  <Mote_MusicalNoteA.label>частица</Mote_MusicalNoteA.label>
+</LanguageData>

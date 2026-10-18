@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_CleanBin.label>очистить бак</VFE_CleanBin.label>
+  <VFE_CleanBin.gerund>убирает</VFE_CleanBin.gerund>
+  <VFE_CleanBin.verb>убирать</VFE_CleanBin.verb>
+  <DoBillsCookStone_Campfire.label>готовить еду на каменном костре</DoBillsCookStone_Campfire.label>
+  <DoBillsCookStone_Campfire.gerund>готовит на</DoBillsCookStone_Campfire.gerund>
+  <DoBillsCookStone_Campfire.verb>готовить</DoBillsCookStone_Campfire.verb>
+  <DoBillsHaulStone_Campfire.label>выполнять заказы на каменном костре</DoBillsHaulStone_Campfire.label>
+  <DoBillsHaulStone_Campfire.gerund>работает на</DoBillsHaulStone_Campfire.gerund>
+  <DoBillsHaulStone_Campfire.verb>работать на</DoBillsHaulStone_Campfire.verb>
+</LanguageData>

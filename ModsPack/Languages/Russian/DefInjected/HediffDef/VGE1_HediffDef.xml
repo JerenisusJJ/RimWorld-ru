@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_EngineeringCommand.label>инженерная команда</VGE_EngineeringCommand.label>
+  <VGE_EngineeringCommand.description>Скорость обслуживания и строительства гравикорабля повышена благодаря тому, что этот человек использует способность «инженерная команда».</VGE_EngineeringCommand.description>
+  <VGE_EngineeringCommandBuff.label>инженерная команда</VGE_EngineeringCommandBuff.label>
+  <VGE_EngineeringCommandBuff.description>Скорость обслуживания и строительства гравикорабля у этого человека повышена благодаря тому, что рядом находится тот, кто использует способность «инженерная команда».</VGE_EngineeringCommandBuff.description>
+</LanguageData>

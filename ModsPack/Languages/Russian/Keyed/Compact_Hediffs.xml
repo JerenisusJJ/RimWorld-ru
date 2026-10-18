@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CompactHediffs_ModTitle>Компактные состояния здоровья</CompactHediffs_ModTitle>
+  <settings_selectExamplePawnIngame>Выберите существо в игре, чтобы увидеть предпросмотр.</settings_selectExamplePawnIngame>
+  <settings_IsEnabled>Включено</settings_IsEnabled>
+  <settings_IsEnabled_tooltip>Включено</settings_IsEnabled_tooltip>
+  <settings_replacingPartInBodypart>Встроенные улучшения</settings_replacingPartInBodypart>
+  <settings_replacingPartInBodypart_tooltip>Улучшения, заменяющие часть тела, будут показаны как часть её названия</settings_replacingPartInBodypart_tooltip>
+  <settings_italicizeMissing>Выделять курсивом отсутствующие части тела</settings_italicizeMissing>
+  <settings_italicizeMissing_tooltip>Выделять курсивом отсутствующие части тела</settings_italicizeMissing_tooltip>
+  <settings_evenOddHighlights>Подсветка строк</settings_evenOddHighlights>
+  <settings_evenOddHighlights_tooltip>Подсвечивать чётные строки (как в ваниле)</settings_evenOddHighlights_tooltip>
+  <settings_verticalSeparator>Разделитель (вертикальный)</settings_verticalSeparator>
+  <settings_verticalSeparator_tooltip>Рисовать вертикальный разделитель между названиями частей тела и связанными с ними состояниями</settings_verticalSeparator_tooltip>
+  <settings_horizontalSeparator>Разделитель (горизонтальный)</settings_horizontalSeparator>
+  <settings_horizontalSeparator_tooltip>Рисовать горизонтальный разделитель между записями частей тела</settings_horizontalSeparator_tooltip>
+  <settings_internalSeparator>Разделитель (внутренний)</settings_internalSeparator>
+  <settings_internalSeparator_tooltip>Рисовать горизонтальный разделитель между отдельными состояниями</settings_internalSeparator_tooltip>
+  <settings_separatorNightMode>Ночной режим разделителей</settings_separatorNightMode>
+  <settings_separatorNightMode_tooltip>Разделители чёрные вместо серых</settings_separatorNightMode_tooltip>
+  <settings_bodypartHealthbars>Полосы здоровья</settings_bodypartHealthbars>
+  <settings_bodypartHealthbars_tooltip>Рисовать полосы здоровья для частей тела</settings_bodypartHealthbars_tooltip>
+  <settings_healthBarPosition>Положение полосы здоровья</settings_healthBarPosition>
+  <settings_healthBarPosition_tooltip>Положение полос здоровья</settings_healthBarPosition_tooltip>
+  <settings_tendPrioritySort>Сортировка по приоритету лечения</settings_tendPrioritySort>
+  <settings_tendPrioritySort_tooltip>Локально сортировать состояния части тела по приоритету лечения</settings_tendPrioritySort_tooltip>
+  <settings_bleedingIcons>Особые значки кровотечения</settings_bleedingIcons>
+  <settings_bleedingIcons_tooltip>Особые значки кровотечения в зависимости от его тяжести заменяют ванильные</settings_bleedingIcons_tooltip>
+  <settings_tendingIcons>Особые значки качества лечения</settings_tendingIcons>
+  <settings_tendingIcons_tooltip>Особые значки в зависимости от качества лечения заменяют ванильные</settings_tendingIcons_tooltip>
+  <settings_bloodlossSpecialHandling>Особая обработка кровопотери</settings_bloodlossSpecialHandling>
+  <settings_bloodlossSpecialHandling_tooltip>Особая обработка кровопотери (цвет меняется в зависимости от тяжести, скорость мигания — от скорости)</settings_bloodlossSpecialHandling_tooltip>
+  <settings_extraTabWidth>Увеличить ширину вкладки здоровья на</settings_extraTabWidth>
+  <settings_extraTabHeight>Увеличить высоту вкладки здоровья на</settings_extraTabHeight>
+  <settings_severityBars>Полосы тяжести/иммунитета</settings_severityBars>
+  <settings_severityBars_tooltip>Рисовать полосу прогресса тяжести состояния/иммунитета</settings_severityBars_tooltip>
+  <SeverityBarMode_Off>Выкл.</SeverityBarMode_Off>
+  <SeverityBarMode_LeftToRight>Слева направо</SeverityBarMode_LeftToRight>
+  <SeverityBarMode_EdgeToMiddle>От краёв к середине</SeverityBarMode_EdgeToMiddle>
+  <SeverityBarMode_MiddleToEdge>От середины к краям</SeverityBarMode_MiddleToEdge>
+  <SeverityBarMode_Off_tooltip>Отключено</SeverityBarMode_Off_tooltip>
+  <SeverityBarMode_LeftToRight_tooltip>Одна полоса, идущая слева направо</SeverityBarMode_LeftToRight_tooltip>
+  <SeverityBarMode_EdgeToMiddle_tooltip>Отдельные полосы от краёв, достигающие середины при полном прогрессе</SeverityBarMode_EdgeToMiddle_tooltip>
+  <SeverityBarMode_MiddleToEdge_tooltip>Отдельные полосы от середины, достигающие краёв при полном прогрессе</SeverityBarMode_MiddleToEdge_tooltip>
+  <settings_severityBarPosition>Положение полосы тяжести</settings_severityBarPosition>
+  <settings_severityBarPosition_tooltip>Положение полос тяжести</settings_severityBarPosition_tooltip>
+  <settings_severityBarTextured>Текстуры полос</settings_severityBarTextured>
+  <settings_severityBarTextured_tooltip>Выбранные полосы используют текстуру.</settings_severityBarTextured_tooltip>
+  <settings_severityBarHighContrast>Высокая контрастность полос тяжести</settings_severityBarHighContrast>
+  <settings_severityBarHighContrast_tooltip>Полоса тяжести/иммунитета использует высококонтрастную схему (зелёный — хорошо, красный — плохо)</settings_severityBarHighContrast_tooltip>
+  <settings_showCumulativeThreatment>Показывать полосы накопительного лечения</settings_showCumulativeThreatment>
+  <settings_showCumulativeThreatment_tooltip>Показывать полосы прогресса для состояний, для излечения которых нужно набрать определённое качество лечения</settings_showCumulativeThreatment_tooltip>
+  <settings_showHiddenProgressConditions>Показывать скрытые полосы прогресса состояний</settings_showHiddenProgressConditions>
+  <settings_showHiddenProgressConditions_tooltip>Показывать полосы прогресса для состояний, прогресс которых скрыт в ванильном RimWorld</settings_showHiddenProgressConditions_tooltip>
+  <BarPosition_Above>Над</BarPosition_Above>
+  <BarPosition_Behind>За</BarPosition_Behind>
+  <BarPosition_Below>Под</BarPosition_Below>
+  <BarPosition_Above_tooltip>Полоса будет над текстом</BarPosition_Above_tooltip>
+  <BarPosition_Behind_tooltip>Полоса будет за текстом</BarPosition_Behind_tooltip>
+  <BarPosition_Below_tooltip>Полоса будет под текстом</BarPosition_Below_tooltip>
+</LanguageData>

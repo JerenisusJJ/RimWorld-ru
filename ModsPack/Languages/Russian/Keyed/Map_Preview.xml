@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HugsLogPublisher.copy>Копировать</HugsLogPublisher.copy>
+  <HugsLogPublisher.shareBtn>Поделиться журналами</HugsLogPublisher.shareBtn>
+  <HugsLogPublisher.shareConfirmTitle>Подтверждение</HugsLogPublisher.shareConfirmTitle>
+  <HugsLogPublisher.shareConfirmMessage>Загрузить журналы игры сейчас?\n\nЖурналы игры будут опубликованы на общедоступном сервере, и вы получите ссылку, которой можно поделиться. Это полезно, если нужна помощь с устранением проблемы или вы хотите сообщить о ней автору мода.\n\nЛичная информация передаваться не будет.</HugsLogPublisher.shareConfirmMessage>
+  <HugsLogPublisher.publisherTitle>Публикация журналов</HugsLogPublisher.publisherTitle>
+  <HugsLogPublisher.uploading>Загрузка{0}</HugsLogPublisher.uploading>
+  <HugsLogPublisher.shortening>Получение ссылки{0}</HugsLogPublisher.shortening>
+  <HugsLogPublisher.uploaded>Загрузка завершена!</HugsLogPublisher.uploaded>
+  <HugsLogPublisher.uploadError>Ошибка загрузки: {0}</HugsLogPublisher.uploadError>
+  <HugsLogPublisher.copiedToClipboard>Скопировано в буфер обмена.</HugsLogPublisher.copiedToClipboard>
+  <HugsLogPublisher.abortBtn>Отмена</HugsLogPublisher.abortBtn>
+  <HugsLogPublisher.retryBtn>Повторить</HugsLogPublisher.retryBtn>
+  <HugsLogPublisher.browseBtn>Открыть в браузере</HugsLogPublisher.browseBtn>
+  <HugsLogPublisher.useRecommendedSettings>Использовать рекомендуемые настройки</HugsLogPublisher.useRecommendedSettings>
+  <HugsLogPublisher.shortUrls>Использовать сократитель ссылок</HugsLogPublisher.shortUrls>
+  <HugsLogPublisher.shortUrls_tip>При загрузке создаётся более короткая ссылка. Не рекомендуется в Steam: короткие ссылки там автоматически удаляются.</HugsLogPublisher.shortUrls_tip>
+  <HugsLogPublisher.platformInfo>Включать сведения о платформе</HugsLogPublisher.platformInfo>
+  <HugsLogPublisher.platformInfo_tip>Добавляет в журнал сведения о процессоре, памяти и видеокарте.</HugsLogPublisher.platformInfo_tip>
+  <HugsLogPublisher.unlimitedLogSize>Разрешить неограниченный размер журнала</HugsLogPublisher.unlimitedLogSize>
+  <HugsLogPublisher.unlimitedLogSize_tip>Если отключено, размер журнала ограничен 10 тыс. строк, чтобы очень длинные журналы не вызывали проблем.</HugsLogPublisher.unlimitedLogSize_tip>
+  <HugsLogPublisher.toClipboardBtn>В буфер обмена</HugsLogPublisher.toClipboardBtn>
+  <HugsLogPublisher.uploadBtn>Загрузить</HugsLogPublisher.uploadBtn>
+  <HugsLogPublisher.filesBtn>Файлы</HugsLogPublisher.filesBtn>
+  <HugsLogPublisher.openLogFile>Открыть файл журнала</HugsLogPublisher.openLogFile>
+  <HugsLogPublisher.openSaveDir>Открыть папку сохранений</HugsLogPublisher.openSaveDir>
+  <HugsLogPublisher.openModsDir>Открыть папку модов</HugsLogPublisher.openModsDir>
+  <MapPreview.Settings.Tab.Preview>Предпросмотр</MapPreview.Settings.Tab.Preview>
+  <MapPreview.Settings.Tab.Toolbar>Панель инструментов</MapPreview.Settings.Tab.Toolbar>
+  <MapPreview.Settings.EnableMapPreviewHeader>Показывать предпросмотр карты...</MapPreview.Settings.EnableMapPreviewHeader>
+  <MapPreview.Settings.EnableMapPreviewInEntry>... при начале новой игры (выбор клетки для поселения)</MapPreview.Settings.EnableMapPreviewInEntry>
+  <MapPreview.Settings.EnableMapPreviewInPlay>... во время игры (на экране карты мира)</MapPreview.Settings.EnableMapPreviewInPlay>
+  <MapPreview.Settings.EnableToolbarHeader>Показывать панель инструментов карты мира...</MapPreview.Settings.EnableToolbarHeader>
+  <MapPreview.Settings.EnableToolbarInEntry>... при начале новой игры (выбор клетки для поселения)</MapPreview.Settings.EnableToolbarInEntry>
+  <MapPreview.Settings.EnableToolbarInPlay>... во время игры (на экране карты мира)</MapPreview.Settings.EnableToolbarInPlay>
+  <MapPreview.Settings.LockWindowPositions>Закрепить положение окон</MapPreview.Settings.LockWindowPositions>
+  <MapPreview.Settings.EnablePreviewAnimations>Включить анимацию при завершении предпросмотра</MapPreview.Settings.EnablePreviewAnimations>
+  <MapPreview.Settings.AutoOpenPreviewOnWorldMap>Автоматически открывать окно предпросмотра при переходе на карту мира</MapPreview.Settings.AutoOpenPreviewOnWorldMap>
+  <MapPreview.Settings.TriggerPreviewOnWorldObjects>Показывать предпросмотр карты при выборе поселения или места задания</MapPreview.Settings.TriggerPreviewOnWorldObjects>
+  <MapPreview.Settings.EnableSeedRerollFeature>Показывать кнопку переброса зерна карты</MapPreview.Settings.EnableSeedRerollFeature>
+  <MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>Показывать кнопку переброса зерна карты (недоступно, так как установлен мод Map Reroll)</MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>
+  <MapPreview.Settings.EnableSeedRerollWindow>Использовать вспомогательное окно переброса (удерживайте Shift при нажатии кнопки переброса, чтобы инвертировать)</MapPreview.Settings.EnableSeedRerollWindow>
+  <MapPreview.Settings.EnableWorldSeedRerollFeature>Показывать кнопку переброса зерна мира</MapPreview.Settings.EnableWorldSeedRerollFeature>
+  <MapPreview.Settings.IncludeCaves>Включать пещеры в предпросмотр (отключите, чтобы предпросмотр создавался быстрее)</MapPreview.Settings.IncludeCaves>
+  <MapPreview.Settings.SkipRiverFlowCalc>Использовать оптимизацию генератора рек (быстрее, но немного отличается от ванили)</MapPreview.Settings.SkipRiverFlowCalc>
+  <MapPreview.Settings.CompatibilityMode>Режим совместимости (увеличивает расход памяти, но может помочь при проблемах совместимости модов)</MapPreview.Settings.CompatibilityMode>
+  <MapPreview.Settings.RefreshTerrainColors>Обновить цвета местности</MapPreview.Settings.RefreshTerrainColors>
+  <MapPreview.Settings.OpenAdvancedGameConfig>Изменить размер карты или начальный сезон</MapPreview.Settings.OpenAdvancedGameConfig>
+  <MapPreview.World.RerollMapSeed>Перебросить зерно этой карты.</MapPreview.World.RerollMapSeed>
+  <MapPreview.World.ResetMapSeed>Отменить перебросы и вернуть исходное зерно этой карты.</MapPreview.World.ResetMapSeed>
+  <MapPreview.World.RerollWorldSeed>Создать новый мир со случайным зерном.</MapPreview.World.RerollWorldSeed>
+  <MapPreview.World.OpenSettings>Открыть настройки Map Preview.</MapPreview.World.OpenSettings>
+  <MapPreview.World.RerollWindow.Title>Переброс зерна карты</MapPreview.World.RerollWindow.Title>
+  <MapPreview.World.RerollWindow.Close>Закрыть</MapPreview.World.RerollWindow.Close>
+  <MapPreview.World.RerollWindow.RefreshSeeds>Обновить зёрна (удерживайте Shift для прыжка)</MapPreview.World.RerollWindow.RefreshSeeds>
+  <MapPreview.World.RerollWindow.ZoomOut>Отдалить</MapPreview.World.RerollWindow.ZoomOut>
+  <MapPreview.World.RerollWindow.ZoomIn>Приблизить</MapPreview.World.RerollWindow.ZoomIn>
+  <MapPreview.World.RerollWindow.Apply>Применить это зерно</MapPreview.World.RerollWindow.Apply>
+  <MapPreview.World.RerollWindow.Pin>Закрепить это зерно</MapPreview.World.RerollWindow.Pin>
+  <MapPreview.World.RerollWindow.Unpin>Открепить это зерно</MapPreview.World.RerollWindow.Unpin>
+  <MapPreview.World.RerollWindow.GoTo.Label>Введите число перебросов:</MapPreview.World.RerollWindow.GoTo.Label>
+  <MapPreview.World.RerollWindow.GoTo.Invalid>Неверное число: допустимы только цифры и +.</MapPreview.World.RerollWindow.GoTo.Invalid>
+  <MapPreview.PreviewGenerationFailed>Конфликт с одним из ваших модов привёл к сбою генератора предпросмотра карты. Сообщите об этом на странице мода в Мастерской, чтобы можно было создать патч совместимости. После закрытия этого сообщения загрузите файл журнала и приложите ссылку на него к отчёту об ошибке.</MapPreview.PreviewGenerationFailed>
+  <MapPreview.Integration.MapDesigner.OpenSettings>Открыть Map Designer.</MapPreview.Integration.MapDesigner.OpenSettings>
+  <MapPreview.Integration.MapDesigner.UnavailableForTile>Map Designer нельзя использовать на этой клетке.</MapPreview.Integration.MapDesigner.UnavailableForTile>
+  <MapPreview.Integration.MapDesigner.Enabled>Показывать кнопку Map Designer</MapPreview.Integration.MapDesigner.Enabled>
+  <MapPreview.Integration.PrepareLanding.Open>Открыть Prepare Landing.</MapPreview.Integration.PrepareLanding.Open>
+  <MapPreview.Integration.PrepareLanding.Enabled>Показывать кнопку Prepare Landing</MapPreview.Integration.PrepareLanding.Enabled>
+  <MapPreview.Integration.WorldEdit.Open>Открыть World Edit.</MapPreview.Integration.WorldEdit.Open>
+  <MapPreview.Integration.WorldEdit.Enabled>Показывать кнопку World Edit</MapPreview.Integration.WorldEdit.Enabled>
+  <MapPreview.Integration.LandformSettings.Open>Открыть настройки ландшафтов.</MapPreview.Integration.LandformSettings.Open>
+  <MapPreview.Integration.LandformSettings.Enabled>Показывать кнопку настроек ландшафтов</MapPreview.Integration.LandformSettings.Enabled>
+</LanguageData>

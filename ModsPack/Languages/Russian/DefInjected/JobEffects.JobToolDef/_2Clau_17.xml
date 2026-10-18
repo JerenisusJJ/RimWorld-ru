@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: drug flask -->
+	<JE_Tool_DrugSpoon.label>drug flask</JE_Tool_DrugSpoon.label>
+	<!-- EN: feeding bowl -->
+	<JE_Tool_FeedingBowl.label>feeding bowl</JE_Tool_FeedingBowl.label>
+	<!-- EN: fishing rod -->
+	<JE_Tool_FishingRod.label>fishing rod</JE_Tool_FishingRod.label>
+	<!-- EN: Fire extinguisher -->
+	<JE_Tool_FireExtinguisher.label>Fire extinguisher</JE_Tool_FireExtinguisher.label>
+	<!-- EN: head scratch (research) -->
+	<JE_Tool_Notepad.label>head scratch (research)</JE_Tool_Notepad.label>
+	<!-- EN: baby bottle -->
+	<JE_Tool_BabyBottle.label>baby bottle</JE_Tool_BabyBottle.label>
+	<!-- EN: rattle -->
+	<JE_Tool_ToyRattle.label>rattle</JE_Tool_ToyRattle.label>
+	<!-- EN: plush toy -->
+	<JE_Tool_ToyPlush.label>plush toy</JE_Tool_ToyPlush.label>
+</LanguageData>

@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.0>r_name(p=0.01)-&gt;Багровое затмение</VGE_NamerEnemyGravship.rulePack.rulesStrings.0>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.1>r_name(p=0.01)-&gt;Разоритель пустоты</VGE_NamerEnemyGravship.rulePack.rulesStrings.1>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.2>r_name(p=0.01)-&gt;Обсидиановый бич</VGE_NamerEnemyGravship.rulePack.rulesStrings.2>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.3>r_name(p=0.01)-&gt;Путь в Тартар</VGE_NamerEnemyGravship.rulePack.rulesStrings.3>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.4>r_name(p=0.01)-&gt;Корсар Кровавой звезды</VGE_NamerEnemyGravship.rulePack.rulesStrings.4>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.5>r_name(p=0.01)-&gt;Прогулочный корабль Оскара</VGE_NamerEnemyGravship.rulePack.rulesStrings.5>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.6>r_name(p=0.01)-&gt;Левиафан</VGE_NamerEnemyGravship.rulePack.rulesStrings.6>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.7>r_name(p=0.01)-&gt;Зовущий пустоту</VGE_NamerEnemyGravship.rulePack.rulesStrings.7>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.8>r_name(p=0.01)-&gt;Махов волк</VGE_NamerEnemyGravship.rulePack.rulesStrings.8>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.9>r_name(p=0.01)-&gt;Ксенорфика</VGE_NamerEnemyGravship.rulePack.rulesStrings.9>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.10>r_name(p=0.01)-&gt;Хибики</VGE_NamerEnemyGravship.rulePack.rulesStrings.10>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.11>r_name(p=0.01)-&gt;Вечерний звёздный свет</VGE_NamerEnemyGravship.rulePack.rulesStrings.11>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.12>r_name(p=0.01)-&gt;Пасть Буру</VGE_NamerEnemyGravship.rulePack.rulesStrings.12>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.13>r_name(p=0.01)-&gt;Четвёртый мост</VGE_NamerEnemyGravship.rulePack.rulesStrings.13>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.14>r_name(p=0.01)-&gt;Щит правосудия</VGE_NamerEnemyGravship.rulePack.rulesStrings.14>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.15>r_name(p=0.01)-&gt;Волчья буря</VGE_NamerEnemyGravship.rulePack.rulesStrings.15>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.16>r_name(p=2)-&gt;[narrative_name]</VGE_NamerEnemyGravship.rulePack.rulesStrings.16>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.17>r_name(p=1)-&gt;[ship_word] «[narrative_name]»</VGE_NamerEnemyGravship.rulePack.rulesStrings.17>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.18>r_name(p=0.5)-&gt;[Color] [ship_word]</VGE_NamerEnemyGravship.rulePack.rulesStrings.18>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.19>r_name(p=0.5)-&gt;[AdjectiveBadass] [ship_word]</VGE_NamerEnemyGravship.rulePack.rulesStrings.19>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.20>r_name(p=0.5)-&gt;[AdjectiveBadass] [bird]</VGE_NamerEnemyGravship.rulePack.rulesStrings.20>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.21>r_name(p=0.5)-&gt;[flying_adjective] [AnimalBadass_masc]</VGE_NamerEnemyGravship.rulePack.rulesStrings.21>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.22>r_name(p=0.5)-&gt;[storyname]</VGE_NamerEnemyGravship.rulePack.rulesStrings.22>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.23>r_name(p=0.2)-&gt;[greekmyth_noun]</VGE_NamerEnemyGravship.rulePack.rulesStrings.23>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.24>r_name(p=0.2)-&gt;[greekmyth_noun]</VGE_NamerEnemyGravship.rulePack.rulesStrings.24>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.25>r_name(p=1.5)-&gt;[pirate_adjective] [ship_word]</VGE_NamerEnemyGravship.rulePack.rulesStrings.25>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.26>r_name(p=1)-&gt;[subject] — [pirate_concept]</VGE_NamerEnemyGravship.rulePack.rulesStrings.26>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.27>r_name(p=1)-&gt;[ship_word] «[pirate_concept]»</VGE_NamerEnemyGravship.rulePack.rulesStrings.27>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.28>r_name(p=0.5)-&gt;[pirate_adjective] [bird]</VGE_NamerEnemyGravship.rulePack.rulesStrings.28>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.29>ship_prefix(p=2)-&gt;</VGE_NamerEnemyGravship.rulePack.rulesStrings.29>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.30>ship_prefix(p=2)-&gt;</VGE_NamerEnemyGravship.rulePack.rulesStrings.30>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.31>narrative_name-&gt;[AdjectiveBadass] [thing_badass]</VGE_NamerEnemyGravship.rulePack.rulesStrings.31>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.32>narrative_name-&gt;[AdjectiveLarge] [thing_badass]</VGE_NamerEnemyGravship.rulePack.rulesStrings.32>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.33>narrative_name-&gt;[Direction_masc] [thing_badass]</VGE_NamerEnemyGravship.rulePack.rulesStrings.33>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.34>narrative_name-&gt;[thing_badass]</VGE_NamerEnemyGravship.rulePack.rulesStrings.34>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.35>narrative_name(p=2)-&gt;[pirate_adjective] [thing_badass]</VGE_NamerEnemyGravship.rulePack.rulesStrings.35>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.36>thing_badass-&gt;[AnimalBadass_masc]</VGE_NamerEnemyGravship.rulePack.rulesStrings.36>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.37>thing_badass-&gt;[AnimalBadass_masc]-охотник</VGE_NamerEnemyGravship.rulePack.rulesStrings.37>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.38>thing_badass-&gt;триумф</VGE_NamerEnemyGravship.rulePack.rulesStrings.38>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.39>thing_badass-&gt;победитель</VGE_NamerEnemyGravship.rulePack.rulesStrings.39>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.40>thing_badass-&gt;реванш</VGE_NamerEnemyGravship.rulePack.rulesStrings.40>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.41>thing_badass-&gt;стон</VGE_NamerEnemyGravship.rulePack.rulesStrings.41>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.42>thing_badass-&gt;мучитель</VGE_NamerEnemyGravship.rulePack.rulesStrings.42>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.43>thing_badass-&gt;мститель</VGE_NamerEnemyGravship.rulePack.rulesStrings.43>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.44>thing_badass-&gt;вопль</VGE_NamerEnemyGravship.rulePack.rulesStrings.44>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.45>thing_badass-&gt;горемыка</VGE_NamerEnemyGravship.rulePack.rulesStrings.45>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.46>thing_badass-&gt;тиран</VGE_NamerEnemyGravship.rulePack.rulesStrings.46>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.47>thing_badass-&gt;ужас</VGE_NamerEnemyGravship.rulePack.rulesStrings.47>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.48>thing_badass-&gt;хаос</VGE_NamerEnemyGravship.rulePack.rulesStrings.48>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.49>thing_badass-&gt;беспредел</VGE_NamerEnemyGravship.rulePack.rulesStrings.49>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.50>thing_badass-&gt;грабёж</VGE_NamerEnemyGravship.rulePack.rulesStrings.50>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.51>thing_badass-&gt;мятеж</VGE_NamerEnemyGravship.rulePack.rulesStrings.51>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.52>thing_badass-&gt;разгром</VGE_NamerEnemyGravship.rulePack.rulesStrings.52>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.53>thing_badass-&gt;злодей</VGE_NamerEnemyGravship.rulePack.rulesStrings.53>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.54>thing_badass-&gt;подонок</VGE_NamerEnemyGravship.rulePack.rulesStrings.54>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.55>thing_badass-&gt;череп</VGE_NamerEnemyGravship.rulePack.rulesStrings.55>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.56>storyname(p=50)-&gt;[subject] — [story_result]</VGE_NamerEnemyGravship.rulePack.rulesStrings.56>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.57>storyname(p=2)-&gt;[subject] — [Gore]</VGE_NamerEnemyGravship.rulePack.rulesStrings.57>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.58>storyname-&gt;[subject] — [Gore]</VGE_NamerEnemyGravship.rulePack.rulesStrings.58>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.59>subject(p=5)-&gt;[NamePerson]</VGE_NamerEnemyGravship.rulePack.rulesStrings.59>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.60>subject-&gt;[Animal]</VGE_NamerEnemyGravship.rulePack.rulesStrings.60>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.61>subject-&gt;[WordTribal]</VGE_NamerEnemyGravship.rulePack.rulesStrings.61>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.62>subject-&gt;[PlaceOutlander]</VGE_NamerEnemyGravship.rulePack.rulesStrings.62>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.63>story_result-&gt;радость</VGE_NamerEnemyGravship.rulePack.rulesStrings.63>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.64>story_result-&gt;восторг</VGE_NamerEnemyGravship.rulePack.rulesStrings.64>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.65>story_result-&gt;чудо</VGE_NamerEnemyGravship.rulePack.rulesStrings.65>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.66>story_result-&gt;гордость</VGE_NamerEnemyGravship.rulePack.rulesStrings.66>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.67>story_result-&gt;жемчужина</VGE_NamerEnemyGravship.rulePack.rulesStrings.67>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.68>story_result-&gt;приз</VGE_NamerEnemyGravship.rulePack.rulesStrings.68>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.69>story_result-&gt;добыча</VGE_NamerEnemyGravship.rulePack.rulesStrings.69>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.70>story_result-&gt;честь</VGE_NamerEnemyGravship.rulePack.rulesStrings.70>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.71>story_result-&gt;куш</VGE_NamerEnemyGravship.rulePack.rulesStrings.71>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.72>story_result-&gt;трофей</VGE_NamerEnemyGravship.rulePack.rulesStrings.72>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.73>story_result-&gt;разрушение</VGE_NamerEnemyGravship.rulePack.rulesStrings.73>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.74>story_result-&gt;катаклизм</VGE_NamerEnemyGravship.rulePack.rulesStrings.74>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.75>story_result-&gt;погибель</VGE_NamerEnemyGravship.rulePack.rulesStrings.75>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.76>story_result-&gt;обман</VGE_NamerEnemyGravship.rulePack.rulesStrings.76>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.77>story_result-&gt;фасад</VGE_NamerEnemyGravship.rulePack.rulesStrings.77>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.78>story_result-&gt;афера</VGE_NamerEnemyGravship.rulePack.rulesStrings.78>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.79>story_result-&gt;проклятие</VGE_NamerEnemyGravship.rulePack.rulesStrings.79>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.80>story_result-&gt;рок</VGE_NamerEnemyGravship.rulePack.rulesStrings.80>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.81>story_result-&gt;гибель</VGE_NamerEnemyGravship.rulePack.rulesStrings.81>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.82>story_result-&gt;жадность</VGE_NamerEnemyGravship.rulePack.rulesStrings.82>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.83>story_result-&gt;безрассудство</VGE_NamerEnemyGravship.rulePack.rulesStrings.83>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.84>story_result-&gt;клад</VGE_NamerEnemyGravship.rulePack.rulesStrings.84>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.85>greekmyth_noun-&gt;одиссея</VGE_NamerEnemyGravship.rulePack.rulesStrings.85>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.86>greekmyth_noun-&gt;одиссей</VGE_NamerEnemyGravship.rulePack.rulesStrings.86>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.87>greekmyth_noun-&gt;пенелопа</VGE_NamerEnemyGravship.rulePack.rulesStrings.87>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.88>greekmyth_noun-&gt;телемах</VGE_NamerEnemyGravship.rulePack.rulesStrings.88>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.89>greekmyth_noun-&gt;афина</VGE_NamerEnemyGravship.rulePack.rulesStrings.89>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.90>greekmyth_noun-&gt;посейдон</VGE_NamerEnemyGravship.rulePack.rulesStrings.90>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.91>greekmyth_noun-&gt;сцилла</VGE_NamerEnemyGravship.rulePack.rulesStrings.91>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.92>greekmyth_noun-&gt;гермес</VGE_NamerEnemyGravship.rulePack.rulesStrings.92>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.93>greekmyth_noun-&gt;аргонавт</VGE_NamerEnemyGravship.rulePack.rulesStrings.93>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.94>greekmyth_noun-&gt;гелиос</VGE_NamerEnemyGravship.rulePack.rulesStrings.94>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.95>greekmyth_noun-&gt;ахиллес</VGE_NamerEnemyGravship.rulePack.rulesStrings.95>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.96>greekmyth_noun-&gt;сирена</VGE_NamerEnemyGravship.rulePack.rulesStrings.96>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.97>greekmyth_noun-&gt;циклоп</VGE_NamerEnemyGravship.rulePack.rulesStrings.97>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.98>greekmyth_noun-&gt;медуза</VGE_NamerEnemyGravship.rulePack.rulesStrings.98>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.99>greekmyth_noun-&gt;горгона</VGE_NamerEnemyGravship.rulePack.rulesStrings.99>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.100>greekmyth_noun-&gt;аид</VGE_NamerEnemyGravship.rulePack.rulesStrings.100>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.101>greekmyth_noun-&gt;тартар</VGE_NamerEnemyGravship.rulePack.rulesStrings.101>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.102>greekmyth_noun-&gt;цербер</VGE_NamerEnemyGravship.rulePack.rulesStrings.102>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.103>greekmyth_noun-&gt;харон</VGE_NamerEnemyGravship.rulePack.rulesStrings.103>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.104>bird-&gt;сокол</VGE_NamerEnemyGravship.rulePack.rulesStrings.104>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.105>bird-&gt;орёл</VGE_NamerEnemyGravship.rulePack.rulesStrings.105>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.106>bird-&gt;ястреб</VGE_NamerEnemyGravship.rulePack.rulesStrings.106>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.107>bird-&gt;чеглок</VGE_NamerEnemyGravship.rulePack.rulesStrings.107>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.108>bird-&gt;гриф</VGE_NamerEnemyGravship.rulePack.rulesStrings.108>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.109>bird-&gt;ворон</VGE_NamerEnemyGravship.rulePack.rulesStrings.109>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.110>bird-&gt;грач</VGE_NamerEnemyGravship.rulePack.rulesStrings.110>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.111>bird-&gt;канюк</VGE_NamerEnemyGravship.rulePack.rulesStrings.111>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.112>flying_adjective(p=2)-&gt;летающий</VGE_NamerEnemyGravship.rulePack.rulesStrings.112>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.113>flying_adjective-&gt;воздушный</VGE_NamerEnemyGravship.rulePack.rulesStrings.113>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.114>flying_adjective-&gt;парящий</VGE_NamerEnemyGravship.rulePack.rulesStrings.114>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.115>flying_adjective-&gt;крылатый</VGE_NamerEnemyGravship.rulePack.rulesStrings.115>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.116>flying_adjective-&gt;падающий</VGE_NamerEnemyGravship.rulePack.rulesStrings.116>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.117>flying_adjective-&gt;реющий</VGE_NamerEnemyGravship.rulePack.rulesStrings.117>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.118>ship_word(p=5)-&gt;корабль</VGE_NamerEnemyGravship.rulePack.rulesStrings.118>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.119>ship_word(p=5)-&gt;гравикорабль</VGE_NamerEnemyGravship.rulePack.rulesStrings.119>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.120>ship_word(p=2)-&gt;[AdjectiveBadass] корабль</VGE_NamerEnemyGravship.rulePack.rulesStrings.120>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.121>ship_word-&gt;военный корабль</VGE_NamerEnemyGravship.rulePack.rulesStrings.121>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.122>ship_word-&gt;фрегат</VGE_NamerEnemyGravship.rulePack.rulesStrings.122>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.123>ship_word-&gt;борт</VGE_NamerEnemyGravship.rulePack.rulesStrings.123>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.124>ship_word-&gt;челнок</VGE_NamerEnemyGravship.rulePack.rulesStrings.124>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.125>ship_word-&gt;крейсер</VGE_NamerEnemyGravship.rulePack.rulesStrings.125>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.126>ship_word-&gt;транспорт</VGE_NamerEnemyGravship.rulePack.rulesStrings.126>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.127>ship_word-&gt;гребной корабль</VGE_NamerEnemyGravship.rulePack.rulesStrings.127>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.128>ship_word-&gt;галеон</VGE_NamerEnemyGravship.rulePack.rulesStrings.128>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.129>ship_word-&gt;драккар</VGE_NamerEnemyGravship.rulePack.rulesStrings.129>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.130>ship_word-&gt;фрахтовщик</VGE_NamerEnemyGravship.rulePack.rulesStrings.130>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.131>ship_word-&gt;хламовоз</VGE_NamerEnemyGravship.rulePack.rulesStrings.131>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.132>ship_word-&gt;боевой гребной корабль</VGE_NamerEnemyGravship.rulePack.rulesStrings.132>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.133>ship_word-&gt;зефир</VGE_NamerEnemyGravship.rulePack.rulesStrings.133>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.134>ship_word(p=3)-&gt;рейдер</VGE_NamerEnemyGravship.rulePack.rulesStrings.134>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.135>ship_word(p=3)-&gt;грабитель</VGE_NamerEnemyGravship.rulePack.rulesStrings.135>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.136>ship_word(p=2)-&gt;корсар</VGE_NamerEnemyGravship.rulePack.rulesStrings.136>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.137>ship_word(p=2)-&gt;мародёр</VGE_NamerEnemyGravship.rulePack.rulesStrings.137>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.138>ship_word-&gt;дредноут</VGE_NamerEnemyGravship.rulePack.rulesStrings.138>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.139>ship_word-&gt;перехватчик</VGE_NamerEnemyGravship.rulePack.rulesStrings.139>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.140>ship_word-&gt;эсминец</VGE_NamerEnemyGravship.rulePack.rulesStrings.140>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.141>pirate_adjective-&gt;кровавый</VGE_NamerEnemyGravship.rulePack.rulesStrings.141>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.142>pirate_adjective-&gt;чёрный</VGE_NamerEnemyGravship.rulePack.rulesStrings.142>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.143>pirate_adjective-&gt;проклятый</VGE_NamerEnemyGravship.rulePack.rulesStrings.143>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.144>pirate_adjective-&gt;ржавый</VGE_NamerEnemyGravship.rulePack.rulesStrings.144>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.145>pirate_adjective-&gt;багровый</VGE_NamerEnemyGravship.rulePack.rulesStrings.145>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.146>pirate_adjective-&gt;беглый</VGE_NamerEnemyGravship.rulePack.rulesStrings.146>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.147>pirate_adjective-&gt;железный</VGE_NamerEnemyGravship.rulePack.rulesStrings.147>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.148>pirate_adjective-&gt;разбитый</VGE_NamerEnemyGravship.rulePack.rulesStrings.148>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.149>pirate_adjective-&gt;злой</VGE_NamerEnemyGravship.rulePack.rulesStrings.149>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.150>pirate_concept-&gt;мятеж</VGE_NamerEnemyGravship.rulePack.rulesStrings.150>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.151>pirate_concept-&gt;грабёж</VGE_NamerEnemyGravship.rulePack.rulesStrings.151>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.152>pirate_concept-&gt;выкуп</VGE_NamerEnemyGravship.rulePack.rulesStrings.152>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.153>pirate_concept-&gt;заговор</VGE_NamerEnemyGravship.rulePack.rulesStrings.153>
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings.154>pirate_concept-&gt;бич</VGE_NamerEnemyGravship.rulePack.rulesStrings.154>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.0>r_name(p=2)-&gt;[station_adjective] [station_noun]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.0>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.1>r_name(p=2)-&gt;[subject] — [pirate_treasure]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.1>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.2>r_name(p=1)-&gt;[station_noun] «[concept_badass]»</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.2>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.3>r_name(p=1)-&gt;[station_noun] «[concept_badass]»</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.3>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.4>r_name(p=0.5)-&gt;[Color_Pirate] [station_noun]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.4>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.5>r_name(p=0.5)-&gt;[station_noun] [space_noun]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.5>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.6>r_name(p=0.5)-&gt;[concept_badass] [space_noun]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.6>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.7>r_name(p=0.2)-&gt;[station_noun] «[concept_badass]»</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.7>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.8>subject(p=5)-&gt;[NamePerson]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.8>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.9>subject(p=1)-&gt;[AdjectiveBadass] [NamePersonMale]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.9>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.10>subject-&gt;[Color_Pirate] [NamePersonMale]</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.10>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.11>station_noun(p=3)-&gt;комплекс</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.11>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.12>station_noun(p=2)-&gt;лагерь</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.12>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.13>station_noun(p=2)-&gt;аванпост</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.13>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.14>station_noun(p=2)-&gt;схрон</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.14>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.15>station_noun-&gt;притон</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.15>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.16>station_noun-&gt;залив</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.16>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.17>station_noun-&gt;порт</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.17>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.18>station_noun-&gt;приют</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.18>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.19>station_noun-&gt;насест</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.19>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.20>station_noun-&gt;узел</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.20>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.21>station_noun-&gt;док</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.21>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.22>station_noun-&gt;оплот</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.22>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.23>station_noun-&gt;форт</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.23>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.24>station_noun-&gt;утёс</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.24>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.25>station_noun-&gt;рейд</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.25>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.26>station_adjective(p=2)-&gt;кровавый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.26>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.27>station_adjective(p=2)-&gt;разбитый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.27>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.28>station_adjective-&gt;чёрный</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.28>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.29>station_adjective-&gt;потайной</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.29>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.30>station_adjective-&gt;проклятый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.30>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.31>station_adjective-&gt;ржавый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.31>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.32>station_adjective-&gt;железный</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.32>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.33>station_adjective-&gt;металлоломный</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.33>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.34>station_adjective-&gt;беглый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.34>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.35>station_adjective-&gt;мёртвый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.35>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.36>station_adjective-&gt;покинутый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.36>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.37>station_adjective-&gt;багровый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.37>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.38>concept_badass-&gt;грабёж</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.38>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.39>concept_badass-&gt;мятеж</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.39>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.40>concept_badass-&gt;разгром</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.40>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.41>concept_badass-&gt;злоба</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.41>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.42>concept_badass-&gt;жадность</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.42>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.43>concept_badass-&gt;измена</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.43>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.44>concept_badass-&gt;ужас</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.44>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.45>concept_badass-&gt;месть</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.45>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.46>concept_badass-&gt;тень</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.46>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.47>concept_badass-&gt;хаос</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.47>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.48>concept_badass-&gt;кровь</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.48>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.49>concept_badass-&gt;агония</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.49>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.50>concept_badass-&gt;отребье</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.50>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.51>concept_badass-&gt;череп</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.51>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.52>pirate_treasure(p=2)-&gt;клад</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.52>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.53>pirate_treasure(p=2)-&gt;заначка</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.53>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.54>pirate_treasure(p=2)-&gt;состояние</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.54>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.55>pirate_treasure-&gt;безрассудство</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.55>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.56>pirate_treasure-&gt;добыча</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.56>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.57>pirate_treasure-&gt;владение</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.57>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.58>pirate_treasure-&gt;гибель</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.58>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.59>pirate_treasure-&gt;авантюра</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.59>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.60>pirate_treasure-&gt;покой</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.60>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.61>pirate_treasure-&gt;конец</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.61>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.62>pirate_treasure-&gt;трофей</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.62>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.63>pirate_treasure-&gt;пристанище</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.63>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.64>space_noun-&gt;звезды</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.64>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.65>space_noun-&gt;пустоты</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.65>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.66>space_noun-&gt;кометы</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.66>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.67>space_noun-&gt;орбиты</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.67>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.68>space_noun-&gt;туманности</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.68>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.69>space_noun-&gt;астероида</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.69>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.70>space_noun-&gt;метеора</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.70>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.71>space_noun-&gt;луны</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.71>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.72>space_noun-&gt;бездны</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.72>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.73>Color_Pirate-&gt;чёрный</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.73>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.74>Color_Pirate-&gt;багровый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.74>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.75>Color_Pirate-&gt;красный</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.75>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.76>Color_Pirate-&gt;обсидиановый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.76>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.77>Color_Pirate-&gt;ржавый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.77>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.78>Color_Pirate-&gt;кровавый</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.78>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.79>Color_Pirate-&gt;железный</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.79>
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.80>Color_Pirate-&gt;серебряный</VGE_NamerPirateOrbitalStation.rulePack.rulesStrings.80>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.0>r_name-&gt;[prefix_adj] [prefix_noun]</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.0>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.1>prefix_adj-&gt;древний</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.1>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.2>prefix_adj-&gt;заброшенный</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.2>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.3>prefix_adj-&gt;брошенный</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.3>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.4>prefix_adj-&gt;потерянный</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.4>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.5>prefix_adj-&gt;разрушенный</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.5>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.6>prefix_adj-&gt;сломанный</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.6>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.7>prefix_adj-&gt;разбитый</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.7>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.8>prefix_noun-&gt;гравикорабль</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.8>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.9>prefix_noun-&gt;остов</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.9>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.10>prefix_noun-&gt;обломок</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.10>
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.11>prefix_noun-&gt;остаток</VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings.11>
+</LanguageData>

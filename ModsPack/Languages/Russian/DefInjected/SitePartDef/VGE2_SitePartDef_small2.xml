@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_VacstoneMeteor.label>метеорит из вакуумита</VGE_VacstoneMeteor.label>
+  <VGE_VacstoneMeteor.description>Место падения метеорита из вакуумита.</VGE_VacstoneMeteor.description>
+  <VGE_VacstoneMeteor.mainPartAllThreatsLabel>Обнаружена враждебная активность.</VGE_VacstoneMeteor.mainPartAllThreatsLabel>
+  <VGE_GravshipGraveyard.label>кладбище гравикораблей</VGE_GravshipGraveyard.label>
+  <VGE_GravshipGraveyard.description>Огромное поле обломков, содержащее гравиядро.</VGE_GravshipGraveyard.description>
+  <VGE_GravshipGraveyard.mainPartAllThreatsLabel>Содержит: гравиядро</VGE_GravshipGraveyard.mainPartAllThreatsLabel>
+  <VGE_InfestedInstallation.label>заражённая установка</VGE_InfestedInstallation.label>
+  <VGE_InfestedInstallation.description>Заброшенная орбитальная станция, заражённая экзоинсектоидами, с гравиядром внутри.</VGE_InfestedInstallation.description>
+  <VGE_InfestedInstallation.mainPartAllThreatsLabel>Содержит: гравиядро</VGE_InfestedInstallation.mainPartAllThreatsLabel>
+  <VGE_SalvagerStronghold.label>крепость утилизаторов</VGE_SalvagerStronghold.label>
+  <VGE_SalvagerStronghold.description>Хорошо укреплённая база утилизаторов на астероиде, содержащая гравиядро.</VGE_SalvagerStronghold.description>
+  <VGE_SalvagerStronghold.mainPartAllThreatsLabel>Содержит: гравиядро</VGE_SalvagerStronghold.mainPartAllThreatsLabel>
+</LanguageData>

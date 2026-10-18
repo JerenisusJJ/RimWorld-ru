@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ARS_SettingsIncidentsSection>Происшествия</ARS_SettingsIncidentsSection>
+  <ARS_SettingsQSGeneralSection>Быстрые сохранения</ARS_SettingsQSGeneralSection>
+  <ARS_SettingsUniqueQuicksaveName>Уникальное имя быстрого сохранения</ARS_SettingsUniqueQuicksaveName>
+  <ARS_SettingsUniqueSavenameOnSave>Предлагать уникальное имя сохранения при резервной копии</ARS_SettingsUniqueSavenameOnSave>
+  <ARS_SettingsQuicksaveOnNegativeIncident>Быстрое сохранение при плохом происшествии</ARS_SettingsQuicksaveOnNegativeIncident>
+  <ARS_SettingsQuicksaveOnPositiveIncident>Быстрое сохранение при хорошем происшествии</ARS_SettingsQuicksaveOnPositiveIncident>
+  <ARS_SettingsQuicksaveOnIncidentLabelSuffix>Добавлять название происшествия как суффикс</ARS_SettingsQuicksaveOnIncidentLabelSuffix>
+  <ARS_SettingsBindingNo>Быстрое сохранение: отключено</ARS_SettingsBindingNo>
+  <ARS_SettingsDisableQuicksavesNotifs>Отключить уведомления о быстрых сохранениях</ARS_SettingsDisableQuicksavesNotifs>
+  <ARS_SettingsQuicksaveRotation>Включить ротацию быстрых сохранений</ARS_SettingsQuicksaveRotation>
+  <ARS_SettingsSecsMinBetweenIncidents>Минимум секунд между сохранениями, вызванными происшествием ({0})</ARS_SettingsSecsMinBetweenIncidents>
+  <ARS_SettingsLiteMode>Включить облегчённый режим интерфейса</ARS_SettingsLiteMode>
+  <ARS_SettingsMaxSaveCharLength>Максимум символов в названиях сохранений ( {0} )</ARS_SettingsMaxSaveCharLength>
+  <ARS_SettingsNbBadEventAutosaves>Максимум автосохранений во время плохого происшествия ( {0} )</ARS_SettingsNbBadEventAutosaves>
+  <ARS_SettingsNbGoodEventAutosaves>Максимум автосохранений во время хорошего происшествия ( {0} )</ARS_SettingsNbGoodEventAutosaves>
+  <ARS_SettingsAutosavesIllimited>без ограничений</ARS_SettingsAutosavesIllimited>
+  <ARS_ConfirmRemoveSelectedFilesTitle>Удалить выбранные сохранения</ARS_ConfirmRemoveSelectedFilesTitle>
+  <ARS_ConfirmRemoveSelectedFilesDesc>Действительно удалить выбранные сохранения ({0})?</ARS_ConfirmRemoveSelectedFilesDesc>
+  <ARS_SettingsNbQuicksaves>Максимум быстрых сохранений ( {0} )</ARS_SettingsNbQuicksaves>
+  <ARS_MassMoveSelectedSaves>Переместить выбранные сохранения в другую папку</ARS_MassMoveSelectedSaves>
+  <ARS_SelectUnSelectSave>Выбрать/снять выбор с этого сохранения</ARS_SelectUnSelectSave>
+  <ARS_ToolTipDelSelSaves>Удалить выбранные сохранения</ARS_ToolTipDelSelSaves>
+  <ARS_ToolTipEditFolderName>Изменить название папки</ARS_ToolTipEditFolderName>
+  <ARS_ToolTipOrderSaves>Сортировать сохранения по дате/имени по возрастанию/убыванию</ARS_ToolTipOrderSaves>
+  <ARS_SaveOrderByDateASC>Сортировать по дате по возрастанию</ARS_SaveOrderByDateASC>
+  <ARS_SaveOrderByDateDESC>Сортировать по дате по убыванию</ARS_SaveOrderByDateDESC>
+  <ARS_SaveOrderByNameASC>Сортировать по имени по возрастанию</ARS_SaveOrderByNameASC>
+  <ARS_SaveOrderByNameDESC>Сортировать по имени по убыванию</ARS_SaveOrderByNameDESC>
+  <ARS_SaveOrderBySizeASC>Сортировать по размеру по возрастанию</ARS_SaveOrderBySizeASC>
+  <ARS_SaveOrderBySizeDESC>Сортировать по размеру по убыванию</ARS_SaveOrderBySizeDESC>
+  <ARS_ToolTipSelAllSaves>Выбрать все сохранения</ARS_ToolTipSelAllSaves>
+  <ARS_ToolTipUnSelAllSaves>Снять выбор со всех сохранений</ARS_ToolTipUnSelAllSaves>
+  <ARS_StatusTextP1>Сохранений: {0}</ARS_StatusTextP1>
+  <ARS_StatusTextP2>Выбрано: {0} {1}</ARS_StatusTextP2>
+</LanguageData>

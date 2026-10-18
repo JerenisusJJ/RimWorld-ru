@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_HaulToCompactBiosculpterPod.label>заправлять компактный биоскульптор</VGE_HaulToCompactBiosculpterPod.label>
+  <VGE_HaulToCompactBiosculpterPod.gerund>заправить</VGE_HaulToCompactBiosculpterPod.gerund>
+  <VGE_HaulToCompactBiosculpterPod.verb>заправить</VGE_HaulToCompactBiosculpterPod.verb>
+  <VGE_DoBillsCook.label>готовить блюда</VGE_DoBillsCook.label>
+  <VGE_DoBillsCook.gerund>готовить, используя</VGE_DoBillsCook.gerund>
+  <VGE_DoBillsCook.verb>готовить, используя</VGE_DoBillsCook.verb>
+  <VGE_DoBillsProduceDrugs.label>синтезировать препараты</VGE_DoBillsProduceDrugs.label>
+  <VGE_DoBillsProduceDrugs.gerund>синтезировать препараты, используя</VGE_DoBillsProduceDrugs.gerund>
+  <VGE_DoBillsProduceDrugs.verb>синтезировать препараты, используя</VGE_DoBillsProduceDrugs.verb>
+  <VGE_DoBillsMachiningTable.label>работать за станком для механической обработки</VGE_DoBillsMachiningTable.label>
+  <VGE_DoBillsMachiningTable.gerund>работать, используя</VGE_DoBillsMachiningTable.gerund>
+  <VGE_DoBillsMachiningTable.verb>работать, используя</VGE_DoBillsMachiningTable.verb>
+  <VGE_DoBillsMakeWeapons.label>изготавливать оружие</VGE_DoBillsMakeWeapons.label>
+  <VGE_DoBillsMakeWeapons.gerund>изготавливать оружие, используя</VGE_DoBillsMakeWeapons.gerund>
+  <VGE_DoBillsMakeWeapons.verb>изготавливать оружие, используя</VGE_DoBillsMakeWeapons.verb>
+  <VGE_DoBillsMakeApparel.label>шить одежду</VGE_DoBillsMakeApparel.label>
+  <VGE_DoBillsMakeApparel.gerund>шить одежду, используя</VGE_DoBillsMakeApparel.gerund>
+  <VGE_DoBillsMakeApparel.verb>шить одежду, используя</VGE_DoBillsMakeApparel.verb>
+  <VGE_DoBillsRefinery.label>работать за перегонным аппаратом</VGE_DoBillsRefinery.label>
+  <VGE_DoBillsRefinery.gerund>перегонять, используя</VGE_DoBillsRefinery.gerund>
+  <VGE_DoBillsRefinery.verb>перегонять, используя</VGE_DoBillsRefinery.verb>
+  <VGE_DoBillsFabricationBench.label>производить высокоточные изделия</VGE_DoBillsFabricationBench.label>
+  <VGE_DoBillsFabricationBench.gerund>производить высокоточные изделия, используя</VGE_DoBillsFabricationBench.gerund>
+  <VGE_DoBillsFabricationBench.verb>производить высокоточные изделия, используя</VGE_DoBillsFabricationBench.verb>
+  <VGE_FightAstrofire.label>тушить астрогонь</VGE_FightAstrofire.label>
+  <VGE_FightAstrofire.gerund>потушить</VGE_FightAstrofire.gerund>
+  <VGE_FightAstrofire.verb>потушить</VGE_FightAstrofire.verb>
+  <VGE_MaintainGrav.label>обслуживать конструкцию гравикорабля</VGE_MaintainGrav.label>
+  <VGE_MaintainGrav.gerund>обслужить</VGE_MaintainGrav.gerund>
+  <VGE_MaintainGrav.verb>обслужить</VGE_MaintainGrav.verb>
+  <VGE_CollectGravdata.label>собирать гравиданные</VGE_CollectGravdata.label>
+  <VGE_CollectGravdata.gerund>собрать гравиданные у</VGE_CollectGravdata.gerund>
+  <VGE_CollectGravdata.verb>собрать гравиданные у</VGE_CollectGravdata.verb>
+  <VGE_OperateScannerCluster.label>управлять сканерным комплексом гравикорабля</VGE_OperateScannerCluster.label>
+  <VGE_OperateScannerCluster.gerund>сканировать, используя</VGE_OperateScannerCluster.gerund>
+  <VGE_OperateScannerCluster.verb>сканировать, используя</VGE_OperateScannerCluster.verb>
+  <VGE_BuildVacBarrierRoofs.label>строить вакуумные барьерные перекрытия</VGE_BuildVacBarrierRoofs.label>
+  <VGE_BuildVacBarrierRoofs.gerund>строить вакуумное барьерное перекрытие</VGE_BuildVacBarrierRoofs.gerund>
+  <VGE_BuildVacBarrierRoofs.verb>строить вакуумное барьерное перекрытие</VGE_BuildVacBarrierRoofs.verb>
+</LanguageData>

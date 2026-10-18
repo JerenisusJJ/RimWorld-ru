@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Defaults_SetDefaults>Задать настройки по умолчанию</Defaults_SetDefaults>
+  <Defaults_SetAsDefault>Сохранить как настройку по умолчанию</Defaults_SetAsDefault>
+  <Defaults_SetAsDefaultConfirmed>Настройки сохранены как настройки по умолчанию.</Defaults_SetAsDefaultConfirmed>
+  <Defaults_Schedules>Расписания колонистов</Defaults_Schedules>
+  <Defaults_Medicine>Настройки лекарств</Defaults_Medicine>
+  <Defaults_MedicineToCarry>Лекарства для ношения по умолчанию</Defaults_MedicineToCarry>
+  <Defaults_MedicineAmountToCarry>Количество лекарств для ношения по умолчанию</Defaults_MedicineAmountToCarry>
+  <Defaults_GuestsCarryMedicine>Гости тоже берут лекарства с собой</Defaults_GuestsCarryMedicine>
+  <Defaults_Rewards>Предпочтения наград</Defaults_Rewards>
+  <Defaults_HostilityResponse>Реакция на враждебность по умолчанию</Defaults_HostilityResponse>
+  <Defaults_PlantType>Тип растения по умолчанию</Defaults_PlantType>
+  <Defaults_AutoRebuild>Автовосстановление построек по умолчанию</Defaults_AutoRebuild>
+  <Defaults_AutoHomeArea>Автоматическая домашняя зона по умолчанию</Defaults_AutoHomeArea>
+  <Defaults_ResourceCategories>Расширенные категории ресурсов</Defaults_ResourceCategories>
+  <Defaults_Storyteller>Настройки рассказчика</Defaults_Storyteller>
+  <Defaults_StockpileZones>Настройки хранилищ</Defaults_StockpileZones>
+  <Defaults_ShelfSettings>Настройки хранения на стеллажах</Defaults_ShelfSettings>
+  <Defaults_WorkbenchBills>Заказы верстаков</Defaults_WorkbenchBills>
+  <Defaults_MiscSettings>Прочие настройки по умолчанию</Defaults_MiscSettings>
+  <Defaults_ManualPriorities>По умолчанию использовать ручные приоритеты работ</Defaults_ManualPriorities>
+  <Defaults_WorldSettings>Настройки мира</Defaults_WorldSettings>
+  <Defaults_MapSettings>Расширенные настройки мира</Defaults_MapSettings>
+  <Defaults_Policies>Политики</Defaults_Policies>
+  <Defaults_ApparelPolicies>политики одежды</Defaults_ApparelPolicies>
+  <Defaults_FoodPolicies>политики питания</Defaults_FoodPolicies>
+  <Defaults_DrugPolicies>политики препаратов</Defaults_DrugPolicies>
+  <Defaults_ReadingPolicies>политики чтения</Defaults_ReadingPolicies>
+  <Defaults_PregnancyApproach>Подход к беременности по умолчанию</Defaults_PregnancyApproach>
+  <Defaults_TargetTemperatureHeater>Целевая температура для обогревателей</Defaults_TargetTemperatureHeater>
+  <Defaults_TargetTemperatureCooler>Целевая температура для охладителей</Defaults_TargetTemperatureCooler>
+  <Defaults_BabyFeedingSettings>Настройки кормления младенцев</Defaults_BabyFeedingSettings>
+  <Defaults_WorkModeFirst>Рабочий режим первой группы управления механоидами</Defaults_WorkModeFirst>
+  <Defaults_WorkModeSecond>Рабочий режим второй группы управления механоидами</Defaults_WorkModeSecond>
+  <Defaults_WorkModeAdditional>Рабочий режим дополнительных групп управления механоидами</Defaults_WorkModeAdditional>
+  <Defaults_ResetAllSettings>Сбросить все настройки до ванильных</Defaults_ResetAllSettings>
+  <Defaults_ResetTheseSettings>Сбросить до ванильных</Defaults_ResetTheseSettings>
+  <Defaults_ConfirmResetAllSettings>Сбросить все настройки мода до ванильных значений? Все категории настроек будут включены, а общие настройки вернутся к значениям по умолчанию. Это действие нельзя отменить.</Defaults_ConfirmResetAllSettings>
+  <Defaults_ConfirmResetTheseSettings>Сбросить все параметры ({0}) до ванильных значений? Это действие нельзя отменить.</Defaults_ConfirmResetTheseSettings>
+  <Defaults_ConfirmResetWorkbenchBills>Сбросить все настройки заказов верстаков по умолчанию до ванильных значений? Это действие удалит все заказы верстаков по умолчанию и не может быть отменено.</Defaults_ConfirmResetWorkbenchBills>
+  <Defaults_ScheduleName>Расписание {0}</Defaults_ScheduleName>
+  <Defaults_UseSchedule>Использовать</Defaults_UseSchedule>
+  <Defaults_UseScheduleTip>Определяет, будет ли расписание автоматически назначаться колонистам.</Defaults_UseScheduleTip>
+  <Defaults_SaveNewDefaultSchedule>Сохранить как новое расписание по умолчанию</Defaults_SaveNewDefaultSchedule>
+  <Defaults_ScheduleSavedAs>Расписание сохранено как {0}.</Defaults_ScheduleSavedAs>
+  <Defaults_ReplaceWithDefaultSchedule>Заменить расписанием по умолчанию</Defaults_ReplaceWithDefaultSchedule>
+  <Defaults_AddAlternateSchedule>Добавить альтернативное</Defaults_AddAlternateSchedule>
+  <Defaults_AcceptRoyalFavor>Принять {0}</Defaults_AcceptRoyalFavor>
+  <Defaults_AcceptRoyalFavorDesc>Хотите ли вы получить в награду {0} от {1}.\n\nЕсли отключено, {1} предложит другие виды наград.\n\nЭта настройка влияет только на вновь прибывающие задания.</Defaults_AcceptRoyalFavorDesc>
+  <Defaults_AcceptGoodwillDesc>Хотите ли вы получить награду в виде улучшения отношений с фракцией {0}.\n\nЕсли отключено, {0} предложит другие виды наград.\n\nЭта настройка влияет только на вновь созданные задания.</Defaults_AcceptGoodwillDesc>
+  <Defaults_PlantTypeTip>Тип растения по умолчанию для новых зон выращивания.</Defaults_PlantTypeTip>
+  <Defaults_CurrentPlantType>Текущий тип растения</Defaults_CurrentPlantType>
+  <Defaults_MedicineToCarryTip>Лекарства, которые существа по умолчанию будут носить с собой при назначении.</Defaults_MedicineToCarryTip>
+  <Defaults_CurrentMedicineToCarry>Текущие лекарства для ношения</Defaults_CurrentMedicineToCarry>
+  <Defaults_AddNew>Добавить</Defaults_AddNew>
+  <Defaults_CorpseStockpileZoneDesc>Создаёт склад, где колонисты будут хранить трупы.\nЭтим инструментом также можно расширить любой существующий склад.</Defaults_CorpseStockpileZoneDesc>
+  <Defaults_CantDeleteDefaultPolicy>Нельзя удалить политику по умолчанию.</Defaults_CantDeleteDefaultPolicy>
+  <Defaults_SaveNewDefaultPolicy>Сохранить как новую политику по умолчанию</Defaults_SaveNewDefaultPolicy>
+  <Defaults_PolicySavedAs>Политика сохранена как {0}.</Defaults_PolicySavedAs>
+  <Defaults_LoadDefaultPolicy>Добавить из...</Defaults_LoadDefaultPolicy>
+  <Defaults_LockSetting>Заблокировать эту настройку, чтобы она не менялась автоматически при добавлении новых модов или DLC</Defaults_LockSetting>
+  <Defaults_UnavailableCaps>НЕДОСТУПНО</Defaults_UnavailableCaps>
+  <Defaults_SaveNewDefaultBill>Сохранить как новый заказ по умолчанию</Defaults_SaveNewDefaultBill>
+  <Defaults_SaveBillConfirmed>Заказ сохранён как заказ по умолчанию.</Defaults_SaveBillConfirmed>
+  <Defaults_LoadDefaultBill>Загрузить заказ по умолчанию</Defaults_LoadDefaultBill>
+  <Defaults_UseBill>Использовать</Defaults_UseBill>
+  <Defaults_UseBillTip>Определяет, будет ли этот заказ автоматически добавляться на новые верстаки.</Defaults_UseBillTip>
+  <Defaults_GlobalBillSettings>Общие настройки заказов</Defaults_GlobalBillSettings>
+  <Defaults_BirtherParent>Родитель, вынашивающий ребёнка</Defaults_BirtherParent>
+  <Defaults_ParentLactating>Родитель, не вынашивающий (лактирующий)</Defaults_ParentLactating>
+  <Defaults_ParentNonlactating>Родитель, не вынашивающий (не лактирующий)</Defaults_ParentNonlactating>
+  <Defaults_NonparentLactating>Не родитель (лактирующий)</Defaults_NonparentLactating>
+  <Defaults_NonparentNonlactating>Не родитель (не лактирующий)</Defaults_NonparentNonlactating>
+  <Defaults_SearchResults>Результаты поиска</Defaults_SearchResults>
+  <Defaults_DefaultSettingsCategories>Категории настроек</Defaults_DefaultSettingsCategories>
+  <Defaults_DefaultSettings>Отдельные настройки</Defaults_DefaultSettings>
+  <Defaults_NewDLC>Добавлено новое DLC: {0}</Defaults_NewDLC>
+  <Defaults_NewPoliciesDLC>1trickPwnyta's Defaults может включать политики из недавно установленных DLC, если хотите. {0} добавляет в игру следующие политики по умолчанию. Выберите те, которые хотите включить.</Defaults_NewPoliciesDLC>
+  <Defaults_Vanilla>Ваниль</Defaults_Vanilla>
+  <Defaults_Defaults>По умолчанию</Defaults_Defaults>
+  <Defaults_HostilityReponseTip>Меняет реакцию колонистов на ближайших врагов, когда они не призваны.</Defaults_HostilityReponseTip>
+  <Defaults_NoSearchResults>Запрос «{0}» не совпал ни с одной настройкой.</Defaults_NoSearchResults>
+  <Defaults_ChooseRewardsDesc>Сообщите другим фракциям, какие награды вы хотите получать за задания.</Defaults_ChooseRewardsDesc>
+  <Defaults_StorageBuildingSettings>Настройки хранения: {0}</Defaults_StorageBuildingSettings>
+  <Defaults_StockpileStorageSettings>зоны складов</Defaults_StockpileStorageSettings>
+  <Defaults_BuildingStorageSettings>здания-хранилища</Defaults_BuildingStorageSettings>
+  <Defaults_ConfirmResetStockpileZoneSettings>Сбросить все настройки зон складов по умолчанию до ванильных значений? Это действие также удалит все пользовательские зоны складов и не может быть отменено.</Defaults_ConfirmResetStockpileZoneSettings>
+  <Defaults_ConfirmResetAllowedAreaSettings>Сбросить все настройки разрешённых зон по умолчанию до ванильных значений? Это действие удалит все разрешённые зоны и не может быть отменено.</Defaults_ConfirmResetAllowedAreaSettings>
+  <Defaults_FullAreaTip>По умолчанию эта разрешённая зона будет охватывать всю карту.</Defaults_FullAreaTip>
+  <Defaults_EmptyAreaTip>По умолчанию эта разрешённая зона будет пустой.</Defaults_EmptyAreaTip>
+  <Defaults_ClickToChangeAllowedAreaColor>Щёлкните, чтобы сменить цвет разрешённой зоны.</Defaults_ClickToChangeAllowedAreaColor>
+  <Defaults_DragToReorder>Перетащите, чтобы изменить порядок.</Defaults_DragToReorder>
+  <Defaults_DefaultPawnAllowedAreas>Ограничения по зонам для существ по умолчанию</Defaults_DefaultPawnAllowedAreas>
+  <Defaults_AdultColonists>взрослые колонисты</Defaults_AdultColonists>
+  <Defaults_ChildColonists>дети-колонисты</Defaults_ChildColonists>
+  <Defaults_Slaves>рабы</Defaults_Slaves>
+  <Defaults_Guests>гости</Defaults_Guests>
+  <Defaults_Mechs>механоиды</Defaults_Mechs>
+  <Defaults_Animals>животные</Defaults_Animals>
+  <Defaults_Ghouls>гули</Defaults_Ghouls>
+  <Defaults_Enable>Включить</Defaults_Enable>
+  <Defaults_EnableAll>Включить все категории настроек</Defaults_EnableAll>
+  <Defaults_Disable>Отключить</Defaults_Disable>
+  <Defaults_DisableAll>Отключить все категории настроек</Defaults_DisableAll>
+  <Defaults_SettingsCategoryDisabled>{0} сейчас отключены и не влияют на игровой процесс.</Defaults_SettingsCategoryDisabled>
+  <Defaults_RestartRequired>Требуется перезапуск</Defaults_RestartRequired>
+  <Defaults_RestartRequiredDesc>Отключение или включение целых категорий настроек вступит в силу только после перезапуска игры. Перезапустить сейчас?</Defaults_RestartRequiredDesc>
+  <Defaults_Restart>Перезапустить RimWorld</Defaults_Restart>
+  <Defaults_NotNow>Не сейчас</Defaults_NotNow>
+  <Defaults_EnableCategoryToViewSettings>Чтобы увидеть эти настройки, нужно включить {0} и перезапустить игру.</Defaults_EnableCategoryToViewSettings>
+  <Defaults_LimitBillsTo15>Ограничить заказы верстака максимум 15</Defaults_LimitBillsTo15>
+  <Defaults_BillsLimitedto15>К верстакам, построенным в игре, применятся только первые 15 заказов.</Defaults_BillsLimitedto15>
+  <Defaults_NoPauseOptionsTitle>Включены настройки челленджа «Без паузы».</Defaults_NoPauseOptionsTitle>
+  <Defaults_BetterWorkbenchOptionsTitle>Настройки Better Workbench Management</Defaults_BetterWorkbenchOptionsTitle>
+  <Defaults_WorkPrioritiesAdvancedMode>Расширенный режим приоритетов работ</Defaults_WorkPrioritiesAdvancedMode>
+  <Defaults_BasicWorkPrioritiesDesc>Выберите приоритет для каждого вида работ. Новым колонистам эти приоритеты будут назначаться автоматически при присоединении к колонии.</Defaults_BasicWorkPrioritiesDesc>
+  <Defaults_AdvancedWorkPrioritiesDesc>Настройте логику определения приоритета для каждого вида работ. Новым колонистам приоритеты будут назначаться автоматически по вашей логике при присоединении к колонии.</Defaults_AdvancedWorkPrioritiesDesc>
+  <Defaults_WorkPriorityTynansChoice>решает игра</Defaults_WorkPriorityTynansChoice>
+  <Defaults_WorkPriorityDoNotDo>выкл.</Defaults_WorkPriorityDoNotDo>
+  <Defaults_WorkPriorityDo>вкл.</Defaults_WorkPriorityDo>
+  <Defaults_WorkPriorityRulesGlobal>Общие правила</Defaults_WorkPriorityRulesGlobal>
+  <Defaults_WorkPriorityRulesGlobalDesc>Общие правила применяются ко всем видам работ.</Defaults_WorkPriorityRulesGlobalDesc>
+  <Defaults_WorkPriorityRulesSpecificDesc>У каждого вида работ могут быть свои особые правила. Они применяются после общих правил.</Defaults_WorkPriorityRulesSpecificDesc>
+  <Defaults_WorkPriorityRulesDesc>Правила применяются по порядку сверху вниз.</Defaults_WorkPriorityRulesDesc>
+  <Defaults_WorkPriorityAddRule>Добавить правило</Defaults_WorkPriorityAddRule>
+  <Defaults_WorkPriorityCondition>Условие</Defaults_WorkPriorityCondition>
+  <Defaults_WorkPriorityEffect>Эффект</Defaults_WorkPriorityEffect>
+  <Defaults_Years>лет</Defaults_Years>
+  <Defaults_WorkPriorityAllowDecreaseToZero>Разрешить отключать этот вид работ, если приоритет понижен ниже {0}</Defaults_WorkPriorityAllowDecreaseToZero>
+  <Defaults_WorkPriorityAllowIncreaseFromZero>Разрешить включать этот вид работ, если он ещё не включён</Defaults_WorkPriorityAllowIncreaseFromZero>
+  <Defaults_RecalculateWorkPriorities>Сбросить до приоритетов работ по умолчанию</Defaults_RecalculateWorkPriorities>
+  <Defaults_WorkPriorityRulesInvalid>Не хватает условия и/или эффекта. Задайте их или удалите это правило.</Defaults_WorkPriorityRulesInvalid>
+  <Defaults_EditSubrules>Изменить подправила</Defaults_EditSubrules>
+  <Defaults_WorkPriorityRulesSpecific>Правила: {0}</Defaults_WorkPriorityRulesSpecific>
+  <Defaults_AdditionalSettings>Дополнительные настройки</Defaults_AdditionalSettings>
+  <Defaults_Configure>Настроить...</Defaults_Configure>
+  <Defaults_SettingsBackupOptionsTitle>Резервное копирование настроек</Defaults_SettingsBackupOptionsTitle>
+  <Defaults_SettingsBackupPath>Путь для копий</Defaults_SettingsBackupPath>
+  <Defaults_InvalidFolder>Путь {0} не существует и не может быть создан.</Defaults_InvalidFolder>
+  <Defaults_BackupNow>Создать копию настроек по умолчанию сейчас</Defaults_BackupNow>
+  <Defaults_InputIsInvalid>Неверный ввод.</Defaults_InputIsInvalid>
+  <Defaults_BackupName>настройки_{0}</Defaults_BackupName>
+  <Defaults_InvalidFilename>Недопустимое имя файла.</Defaults_InvalidFilename>
+  <Defaults_FileExists>Файл уже существует.</Defaults_FileExists>
+  <Defaults_PathTooLong>Слишком длинное имя файла.</Defaults_PathTooLong>
+  <Defaults_CantOpenFolder>Не удалось открыть папку.</Defaults_CantOpenFolder>
+  <Defaults_SettingsBackupComplete>Резервная копия настроек по умолчанию успешно создана: {0}.</Defaults_SettingsBackupComplete>
+  <Defaults_EnterBackupName>Введите имя файла для резервной копии.</Defaults_EnterBackupName>
+  <Defaults_RestoreFromBackup>Восстановить настройки по умолчанию из резервной копии</Defaults_RestoreFromBackup>
+  <Defaults_SelectBackupFile>Выберите файл резервной копии для восстановления. Это действие нельзя отменить.</Defaults_SelectBackupFile>
+  <Defaults_SettingsRestoreFailed>Не удалось восстановить настройки по умолчанию из резервной копии: {0}</Defaults_SettingsRestoreFailed>
+  <Defaults_SettingsRestoreComplete>Настройки по умолчанию успешно восстановлены из {0}. Рекомендуется перезапустить игру, чтобы избежать возможных ошибок. Перезапустить сейчас?</Defaults_SettingsRestoreComplete>
+  <Defaults_ResetAllSettingsComplete>Все настройки успешно сброшены до ванильных значений.</Defaults_ResetAllSettingsComplete>
+  <Defaults_SettingsBackupSchedule>Расписание резервного копирования</Defaults_SettingsBackupSchedule>
+  <Defaults_SettingsBackupFrequency>Когда создавать копию:</Defaults_SettingsBackupFrequency>
+  <Defaults_SettingsBackupFrequency_Never>Никогда</Defaults_SettingsBackupFrequency_Never>
+  <Defaults_SettingsBackupFrequency_Startup>При запуске игры</Defaults_SettingsBackupFrequency_Startup>
+  <Defaults_SettingsBackupFrequency_OnChange>При сохранении настроек</Defaults_SettingsBackupFrequency_OnChange>
+  <Defaults_SettingsBackupDuration>Как долго хранить копии:</Defaults_SettingsBackupDuration>
+  <Defaults_SettingsBackupDuration_Forever>Всегда</Defaults_SettingsBackupDuration_Forever>
+  <Defaults_SettingsBackupDuration_Count>Хранить X файлов копий...</Defaults_SettingsBackupDuration_Count>
+  <Defaults_SettingsBackupDuration_TimeInterval>Хранить файлы копий X дней...</Defaults_SettingsBackupDuration_TimeInterval>
+  <Defaults_X>X:</Defaults_X>
+  <Defaults_SettingsBackupOptionsDesc>Настройки этого мода можно регулярно копировать, чтобы при сбое не потерять всю работу по созданию идеальных настроек по умолчанию.</Defaults_SettingsBackupOptionsDesc>
+  <Defaults_PinBackup>Закреплённые копии не удаляются при плановой очистке.</Defaults_PinBackup>
+  <Defaults_DeleteBackup>Безвозвратно удалить этот файл резервной копии.</Defaults_DeleteBackup>
+  <Defaults_DeleteBackupFailed>Не удалось удалить файл резервной копии {0}.</Defaults_DeleteBackupFailed>
+  <Defaults_ConfirmOverwriteBackup>{0} уже существует и будет перезаписан.</Defaults_ConfirmOverwriteBackup>
+  <Defaults_GetBackupFilesFailed>Не удалось получить файлы резервных копий настроек из {0}: {1}</Defaults_GetBackupFilesFailed>
+  <Defaults_NoBackupsToRestore>В {0} не найдено файлов резервных копий настроек по умолчанию.</Defaults_NoBackupsToRestore>
+  <Defaults_ResetToDefault>Сбросить к значению по умолчанию</Defaults_ResetToDefault>
+  <Defaults_ResetFishingZoneDesc>Сбросить все настройки зоны рыбалки до значений по умолчанию.</Defaults_ResetFishingZoneDesc>
+  <Defaults_SetDefaultFishingZoneDesc>Сохранить настройки этой зоны рыбалки как настройки по умолчанию для всех новых зон рыбалки.</Defaults_SetDefaultFishingZoneDesc>
+  <Defaults_OpenMainSettings>Открыть настройки мода 1trickPwnyta's Defaults</Defaults_OpenMainSettings>
+  <Defaults_PawnType>Тип существа</Defaults_PawnType>
+  <Defaults_DefaultPolicyAssignments>Назначения политик по умолчанию</Defaults_DefaultPolicyAssignments>
+  <Defaults_DefaultPolicyAssignmentsDesc>Назначьте каждому типу существ политику по умолчанию каждого вида либо оставьте «(по умолчанию)», чтобы использовать политику, заданную по умолчанию. Колонистам политики будут назначаться соответственно.</Defaults_DefaultPolicyAssignmentsDesc>
+  <Defaults_EmptyString></Defaults_EmptyString>
+  <Defaults_RemoveLimit>Снять ограничение</Defaults_RemoveLimit>
+</LanguageData>

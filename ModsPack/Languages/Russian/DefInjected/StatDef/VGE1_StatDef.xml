@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_AccuracyGlobal.label>глобальная меткость</VGE_AccuracyGlobal.label>
+  <VGE_AccuracyGlobal.description>Меткость при стрельбе по целям на карте мира. Умножается на навык наведения гравикорабля у оператора.</VGE_AccuracyGlobal.description>
+  <VGE_SubstructureSupportMultiplier.label>множитель поддержки надстроек</VGE_SubstructureSupportMultiplier.label>
+  <VGE_SubstructureSupportMultiplier.description>Множитель максимального количества надстроек, которое может выдержать гравикорабль.</VGE_SubstructureSupportMultiplier.description>
+  <VGE_MaintenanceSensitivity.label>чувствительность к обслуживанию</VGE_MaintenanceSensitivity.label>
+  <VGE_MaintenanceSensitivity.description>Коэффициент сложности обслуживания этой конструкции, а также скорости, с которой её обслуживание будет ухудшаться.</VGE_MaintenanceSensitivity.description>
+  <VGE_MaintenanceDifficulty.label>сложность обслуживания</VGE_MaintenanceDifficulty.label>
+  <VGE_MaintenanceDifficulty.description>Смещение сложности обслуживания этой конструкции. Не влияет на скорость ухудшения обслуживания.</VGE_MaintenanceDifficulty.description>
+  <VGE_GravPowerAdjacency.label>гравитационная смежность энергии</VGE_GravPowerAdjacency.label>
+  <VGE_GravPowerAdjacency.description>Коэффициент вырабатываемой энергии, зависящий от количества других энергоячеек на гравиядре или катушек поблизости.</VGE_GravPowerAdjacency.description>
+  <VGE_GlobalMaintenanceSensitivity.label>глобальная чувствительность к обслуживанию</VGE_GlobalMaintenanceSensitivity.label>
+  <VGE_GlobalMaintenanceSensitivity.description>Смещение чувствительности к обслуживанию для гравидвигателя и всех связанных с ним сооружений.</VGE_GlobalMaintenanceSensitivity.description>
+  <VGE_GravshipTargeting.label>наведение гравикорабля</VGE_GravshipTargeting.label>
+  <VGE_GravshipTargeting.description>Насколько хорошо этот человек управляет терминалом наведения и насколько точны будут его выстрелы из оружия гравикорабля.</VGE_GravshipTargeting.description>
+  <VGE_GravshipResearch.label>исследование гравикорабля</VGE_GravshipResearch.label>
+  <VGE_GravshipResearch.description>Насколько хорошо этот человек разбирается в необработанных гравиданных.</VGE_GravshipResearch.description>
+  <VGE_GravshipMaintenance.label>обслуживание гравикорабля</VGE_GravshipMaintenance.label>
+  <VGE_GravshipMaintenance.description>Насколько хорошо этот человек может обслуживать компоненты гравикорабля.</VGE_GravshipMaintenance.description>
+</LanguageData>

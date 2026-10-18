@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: set priority -->
+	<Value.label>установить приоритет</Value.label>
+	<!-- EN: increase priority -->
+	<Increase.label>повысить приоритет</Increase.label>
+	<!-- EN: decrease priority -->
+	<Decrease.label>понизить приоритет</Decrease.label>
+	<!-- EN: apply subrules -->
+	<Logic.label>применить подправила</Logic.label>
+</LanguageData>

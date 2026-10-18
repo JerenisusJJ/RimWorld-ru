@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_ArchotechSculpture.label>архотеховая скульптура</VFE_ArchotechSculpture.label>
+  <VFE_ArchotechSculpture.description>Древний загадочный механизм размером с человека. Создаёт подробные образы в сознании окружающих. Действует сквозь стены.</VFE_ArchotechSculpture.description>
+  <VFE_Pottery.label>гончарные изделия</VFE_Pottery.label>
+  <VFE_Pottery.description>Небольшие гончарные изделия с художественной гравировкой. Можно изготовить на месте для рукоделия.</VFE_Pottery.description>
+  <VFE_StatueSmall.label>малая статуя</VFE_StatueSmall.label>
+  <VFE_StatueSmall.description>Небольшой кусок материала на декоративном постаменте, которому придана художественная форма.</VFE_StatueSmall.description>
+  <VFE_Carving.label>резное панно</VFE_Carving.label>
+  <VFE_Carving.description>Небольшое резное изображение, выполненное на участке стены высотой по пояс. Может служить укрытием.</VFE_Carving.description>
+  <VFE_StatueLarge.label>большая статуя</VFE_StatueLarge.label>
+  <VFE_StatueLarge.description>Кусок материала размером с человека на декоративном постаменте, которому придана художественная форма.</VFE_StatueLarge.description>
+  <VFE_StatueGrand.label>величественная статуя</VFE_StatueGrand.label>
+  <VFE_StatueGrand.description>Огромный кусок материала на декоративном постаменте, которому придана художественная форма.</VFE_StatueGrand.description>
+  <VFE_Monument.label>монумент</VFE_Monument.label>
+  <VFE_Monument.description>Непроходимый массивный монумент с узорчатым постаментом и крупным произведением искусства.</VFE_Monument.description>
+  <VFE_Relief.label>рельеф</VFE_Relief.label>
+  <VFE_Relief.description>Непроходимый длинный участок стены с высеченным на нём художественным рельефом.</VFE_Relief.description>
+  <VFE_Pillar.label>колонна</VFE_Pillar.label>
+  <VFE_Pillar.description>Непроходимая украшенная колонна, способная удерживать крышу.</VFE_Pillar.description>
+  <VFE_Obelisk.label>обелиск</VFE_Obelisk.label>
+  <VFE_Obelisk.description>Высокий кусок материала, обтёсанный в обелиск с художественным узором на гранях.</VFE_Obelisk.description>
+  <VFE_Plinth.label>постамент</VFE_Plinth.label>
+  <VFE_Plinth.description>Небольшой постамент с художественным изображением на гранях. Подходит для хранения разных предметов. Хранящиеся на нём предметы не портятся, даже под открытым небом.</VFE_Plinth.description>
+  <VFE_DecorativePlantPot.label>декоративный цветочный горшок</VFE_DecorativePlantPot.label>
+  <VFE_DecorativePlantPot.description>Посадите декоративные цветы в этот красивый горшок, чтобы улучшить настроение людей поблизости.</VFE_DecorativePlantPot.description>
+  <VFE_Wallpaper.label>обои</VFE_Wallpaper.label>
+  <VFE_Wallpaper.description>Непроходимая стена с красивыми обоями. Способна удерживать крышу.</VFE_Wallpaper.description>
+  <UnfinishedHologram.label>незавершённая голограмма</UnfinishedHologram.label>
+  <HologramBase.label>основание голограммы</HologramBase.label>
+  <HologramBase.description>Световой проектор размером с человека, изображающий произведение искусства, созданное на нескольких языках программирования. Для показа произведения нужно подключить его к питанию.</HologramBase.description>
+  <VFE_HologramOn.label>голограмма</VFE_HologramOn.label>
+  <VFE_HologramOn.description>Световой проектор размером с человека, изображающий произведение искусства, созданное на нескольких языках программирования. Для показа произведения нужно подключить его к питанию.</VFE_HologramOn.description>
+  <UnfinishedRug.label>незавершённый ковёр</UnfinishedRug.label>
+  <VFE_RugSmall.label>малый ковёр</VFE_RugSmall.label>
+  <VFE_RugSmall.description>Небольшое напольное текстильное покрытие, украшенное художественной вышивкой.</VFE_RugSmall.description>
+  <VFE_RugLarge.label>большой ковёр</VFE_RugLarge.label>
+  <VFE_RugLarge.description>Большое напольное текстильное покрытие, украшенное художественной вышивкой.</VFE_RugLarge.description>
+  <VFE_RugGrand.label>величественный ковёр</VFE_RugGrand.label>
+  <VFE_RugGrand.description>Огромное напольное текстильное покрытие, которое властвует над комнатой и украшено художественной вышивкой.</VFE_RugGrand.description>
+</LanguageData>

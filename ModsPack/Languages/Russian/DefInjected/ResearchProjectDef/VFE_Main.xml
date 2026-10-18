@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_BasicFurniture.label>базовая мебель</MF_BasicFurniture.label>
+  <MF_BasicFurniture.description>Стройте простую мебель: простые кровати, обычные столы, табуреты, скамьи и многое другое.</MF_BasicFurniture.description>
+  <MF_RoyalFurniture.label>мебель для ценителей</MF_RoyalFurniture.label>
+  <MF_RoyalFurniture.description>Стройте роскошную мебель, в которой красота и изящество важнее практичности; обычно её можно увидеть лишь в домах богатой элиты. Включает кровати с балдахином, королевские стулья, столы и кресла.</MF_RoyalFurniture.description>
+  <MF_ModernFurniture.label>современная мебель</MF_ModernFurniture.label>
+  <MF_ModernFurniture.description>Научитесь строить современную мебель, где практичность важнее красоты: столы для рулетки, шкафы, мишени для дартса, боксёрские груши и эргономичные кровати.</MF_ModernFurniture.description>
+  <MF_WasteDisposal.label>утилизация отходов</MF_WasteDisposal.label>
+  <MF_WasteDisposal.description>Научитесь строить малые и большие мусорные баки - объекты, которые медленно очищают пространство вокруг себя.</MF_WasteDisposal.description>
+</LanguageData>

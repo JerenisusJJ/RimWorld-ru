@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_ChoosePropCategory>Выберите категорию реквизита:</VFE_ChoosePropCategory>
+  <VFE_GoBack>Назад</VFE_GoBack>
+  <VFE_PrefabSearch>Поиск</VFE_PrefabSearch>
+  <VFE_NoSilver>Недостаточно серебра на складах. Для постройки этого реквизита нужно не менее {0} серебра</VFE_NoSilver>
+  <VFE_PropCostMultiplier>Множитель стоимости реквизита</VFE_PropCostMultiplier>
+  <VFE_PropCostMultiplierDesc>Стоимость заготовок, покупаемых за серебро, зависит от их размера, прочности и укрытия. Этим ползунком можно изменить, сколько они будут стоить. 0 отключает все затраты серебра.</VFE_PropCostMultiplierDesc>
+  <VFE_SilverReturnMultiplier>Множитель возврата серебра</VFE_SilverReturnMultiplier>
+  <VFE_SilverReturnMultiplierDesc>При уничтожении реквизит возвращает стоимость покупки серебром. По умолчанию это 100% стоимости, но этот параметр позволяет уменьшить возврат.</VFE_SilverReturnMultiplierDesc>
+  <VFE_Reset>Сброс</VFE_Reset>
+  <VPE_NeedsMats>Строится</VPE_NeedsMats>
+  <VPE_NeedsMatsDesc>Для постройки этого реквизита нужны строительные материалы вместо серебра, и колонисты должны построить его сами</VPE_NeedsMatsDesc>
+  <VFEPD_BuildProps>построить реквизит</VFEPD_BuildProps>
+  <VFEPD_BuildPropsDesc>Открывает меню постройки реквизита за серебро.</VFEPD_BuildPropsDesc>
+  <VFEPD_ResearchNeeded>Нельзя построить, пока колония не изучит: {0}</VFEPD_ResearchNeeded>
+  <VFEPD_MakeCopy>Создать копию</VFEPD_MakeCopy>
+  <VFEPD_MakeCopyDesc>Создаёт копию этого реквизита. Потребуется, чтобы стоимость реквизита в серебре была доступна на складах.</VFEPD_MakeCopyDesc>
+</LanguageData>

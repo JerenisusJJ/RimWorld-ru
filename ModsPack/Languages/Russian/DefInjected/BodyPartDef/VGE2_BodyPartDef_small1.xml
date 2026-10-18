@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_FirstWormSegment.label>первый сегмент тела</VGE_FirstWormSegment.label>
+  <VGE_SecondWormSegment.label>второй сегмент тела</VGE_SecondWormSegment.label>
+  <VGE_ThirdWormSegment.label>третий сегмент тела</VGE_ThirdWormSegment.label>
+  <VGE_FourthWormSegment.label>четвёртый сегмент тела</VGE_FourthWormSegment.label>
+  <VGE_WormTail.label>хвост червя</VGE_WormTail.label>
+  <VGE_EcholocationOrgan.label>орган эхолокации</VGE_EcholocationOrgan.label>
+  <VGE_Worm.label>червь</VGE_Worm.label>
+</LanguageData>

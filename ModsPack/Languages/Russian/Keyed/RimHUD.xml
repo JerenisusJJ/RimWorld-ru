@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimHUD.Interface.Dialog_Config.Modified>(Изменено)</RimHUD.Interface.Dialog_Config.Modified>
+  <RimHUD.Layout.TrainingAttackTarget>Тренировка: атака цели [DLC Odyssey]</RimHUD.Layout.TrainingAttackTarget>
+  <RimHUD.Layout.TrainingComfort>Тренировка: комфорт [DLC Odyssey]</RimHUD.Layout.TrainingComfort>
+  <RimHUD.Layout.TrainingDig>Тренировка: копание [DLC Odyssey]</RimHUD.Layout.TrainingDig>
+  <RimHUD.Layout.TrainingEggSpew>Тренировка: плевок яйцами [DLC Odyssey]</RimHUD.Layout.TrainingEggSpew>
+  <RimHUD.Layout.TrainingForage>Тренировка: поиск пищи [DLC Odyssey]</RimHUD.Layout.TrainingForage>
+  <RimHUD.Layout.TrainingSludgeSpew>Тренировка: плевок слизью [DLC Odyssey]</RimHUD.Layout.TrainingSludgeSpew>
+  <RimHUD.Layout.TrainingTerrorRoar>Тренировка: рёв ужаса [DLC Odyssey]</RimHUD.Layout.TrainingTerrorRoar>
+  <RimHUD.Layout.TrainingThrumboRoar>Тренировка: рёв трумбо [DLC Odyssey]</RimHUD.Layout.TrainingThrumboRoar>
+  <RimHUD.Layout.TrainingWarTrumpet>Тренировка: боевая труба [DLC Odyssey]</RimHUD.Layout.TrainingWarTrumpet>
+  <RimHUD.Layout.Traits>Черты</RimHUD.Layout.Traits>
+  <RimHUD.Model.Former>бывш. {0}</RimHUD.Model.Former>
+  <RimHUD.Theme.MainColor>Основной текст</RimHUD.Theme.MainColor>
+  <RimHUD.Theme.NeutralColor>Нейтральный текст</RimHUD.Theme.NeutralColor>
+</LanguageData>

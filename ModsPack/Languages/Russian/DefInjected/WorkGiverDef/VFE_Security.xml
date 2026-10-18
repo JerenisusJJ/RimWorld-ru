@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFES_ConstructRearmTrap.label>перезаряжать ловушки</VFES_ConstructRearmTrap.label>
+  <VFES_ConstructRearmTrap.gerund>перезаряжает</VFES_ConstructRearmTrap.gerund>
+  <VFES_ConstructRearmTrap.verb>перезаряжать</VFES_ConstructRearmTrap.verb>
+  <VFES_RearmTrap.label>перезаряжать ловушки</VFES_RearmTrap.label>
+  <VFES_RearmTrap.gerund>перезаряжает</VFES_RearmTrap.gerund>
+  <VFES_RearmTrap.verb>перезаряжать</VFES_RearmTrap.verb>
+</LanguageData>

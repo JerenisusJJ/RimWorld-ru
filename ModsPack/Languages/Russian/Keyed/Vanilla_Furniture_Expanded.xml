@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE.FilthStored>Количество накопленной грязи: {0}\nКонтейнер заполнен: {1}</VFE.FilthStored>
+  <VFE.FilthStoredBeauty>Контейнер заполнен ({1}): {0}</VFE.FilthStoredBeauty>
+  <VFE.SetTargetCleanup>Порог очистки контейнера: {0}</VFE.SetTargetCleanup>
+  <VFE.CannotPlaceOnWall>Нельзя разместить внутри стены.</VFE.CannotPlaceOnWall>
+  <VFE.ComputerNeedChairs>Компьютеру нужен стул</VFE.ComputerNeedChairs>
+  <VFE.ComputerNeedChairsDesc>У одного из ваших компьютеров нет стула рядом.\n\nПоставьте рядом стул или табурет, чтобы колонисты могли пользоваться компьютером.</VFE.ComputerNeedChairsDesc>
+  <VFE.RouletteTableOnWall>Рулетке нужно место</VFE.RouletteTableOnWall>
+  <VFE.RouletteTableOnWallDesc>Один из ваших столов для рулетки примыкает к препятствию, из-за которого колонисты не смогут им пользоваться.\n\nСтолу для рулетки нужно свободное место со всех сторон.</VFE.RouletteTableOnWallDesc>
+  <VFE.SunbathingPossibleForPawn>Загорать могут: {PAWNLIST}</VFE.SunbathingPossibleForPawn>
+  <VFE.SunbathingPossibleGeneric>Загорать можно, если температура комфортна, а колонистам нравится отдых на улице</VFE.SunbathingPossibleGeneric>
+  <VFE.SunbathingNotPossible>Загорать нельзя:</VFE.SunbathingNotPossible>
+  <VFE.SunbathingNotPossible.UnderRoof>под крышей</VFE.SunbathingNotPossible.UnderRoof>
+  <VFE.SunbathingNotPossible.BadWeather>плохая погода</VFE.SunbathingNotPossible.BadWeather>
+  <VFE.SunbathingNotPossible.NotSunny>недостаточно солнечно</VFE.SunbathingNotPossible.NotSunny>
+  <VFE.SunbathingNotPossible.PawnOutdoors>{PAWN_labelShort} не любит бывать на улице</VFE.SunbathingNotPossible.PawnOutdoors>
+  <VFE.SunbathingNotPossible.PawnComfortableTemperature>температура некомфортна для {PAWN_labelShort}</VFE.SunbathingNotPossible.PawnComfortableTemperature>
+</LanguageData>

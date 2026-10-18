@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: pistol poses -->
+	<Flourish_Pose_Pistols.label>pistol poses</Flourish_Pose_Pistols.label>
+	<!-- EN: SMG poses -->
+	<Flourish_Pose_SMGs.label>SMG poses</Flourish_Pose_SMGs.label>
+	<!-- EN: rifle poses -->
+	<Flourish_Pose_Rifles.label>rifle poses</Flourish_Pose_Rifles.label>
+	<!-- EN: charge weapon poses -->
+	<Flourish_Pose_ChargeWeapons.label>charge weapon poses</Flourish_Pose_ChargeWeapons.label>
+	<!-- EN: shotgun poses -->
+	<Flourish_Pose_Shotguns.label>shotgun poses</Flourish_Pose_Shotguns.label>
+	<!-- EN: sniper poses -->
+	<Flourish_Pose_Sniper.label>sniper poses</Flourish_Pose_Sniper.label>
+	<!-- EN: minigun poses -->
+	<Flourish_Pose_Minigun.label>minigun poses</Flourish_Pose_Minigun.label>
+	<!-- EN: launcher poses -->
+	<Flourish_Pose_Launchers.label>launcher poses</Flourish_Pose_Launchers.label>
+	<!-- EN: bow poses -->
+	<Flourish_Pose_Bows.label>bow poses</Flourish_Pose_Bows.label>
+	<!-- EN: thrown weapon poses -->
+	<Flourish_Pose_Thrown.label>thrown weapon poses</Flourish_Pose_Thrown.label>
+	<!-- EN: short blade poses -->
+	<Flourish_Pose_ShortBlades.label>short blade poses</Flourish_Pose_ShortBlades.label>
+	<!-- EN: one-hand edged poses -->
+	<Flourish_Pose_EdgedOneHand.label>one-hand edged poses</Flourish_Pose_EdgedOneHand.label>
+	<!-- EN: two-hand edged poses -->
+	<Flourish_Pose_EdgedTwoHand.label>two-hand edged poses</Flourish_Pose_EdgedTwoHand.label>
+	<!-- EN: spear poses -->
+	<Flourish_Pose_Spears.label>spear poses</Flourish_Pose_Spears.label>
+	<!-- EN: axe poses -->
+	<Flourish_Pose_Axes.label>axe poses</Flourish_Pose_Axes.label>
+	<!-- EN: one-hand blunt poses -->
+	<Flourish_Pose_BluntOneHand.label>one-hand blunt poses</Flourish_Pose_BluntOneHand.label>
+	<!-- EN: two-hand blunt poses -->
+	<Flourish_Pose_BluntTwoHand.label>two-hand blunt poses</Flourish_Pose_BluntTwoHand.label>
+	<!-- EN: monosword pose -->
+	<Flourish_Pose_Monosword.label>monosword pose</Flourish_Pose_Monosword.label>
+	<!-- EN: plasmasword pose -->
+	<Flourish_Pose_Plasmasword.label>plasmasword pose</Flourish_Pose_Plasmasword.label>
+	<!-- EN: zeushammer pose -->
+	<Flourish_Pose_Zeushammer.label>zeushammer pose</Flourish_Pose_Zeushammer.label>
+</LanguageData>

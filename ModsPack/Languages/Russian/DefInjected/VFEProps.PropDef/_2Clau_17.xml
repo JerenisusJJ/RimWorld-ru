@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: mech gestator -->
+	<VFE_Prop_Labs_Biotech_1.shortLabel>инкубатор механоидов</VFE_Prop_Labs_Biotech_1.shortLabel>
+	<!-- EN: large gestator -->
+	<VFE_Prop_Labs_Biotech_2.shortLabel>большой инкубатор</VFE_Prop_Labs_Biotech_2.shortLabel>
+	<!-- EN: mech recharger -->
+	<VFE_Prop_Labs_Biotech_3.shortLabel>зарядная станция механоидов</VFE_Prop_Labs_Biotech_3.shortLabel>
+	<!-- EN: standard recharger -->
+	<VFE_Prop_Labs_Biotech_4.shortLabel>стандартная зарядная станция</VFE_Prop_Labs_Biotech_4.shortLabel>
+	<!-- EN: toxifier gen. -->
+	<VFE_Prop_Labs_Biotech_5.shortLabel>генератор токсинов</VFE_Prop_Labs_Biotech_5.shortLabel>
+	<!-- EN: band node -->
+	<VFE_Prop_Labs_Biotech_6.shortLabel>узел связи</VFE_Prop_Labs_Biotech_6.shortLabel>
+	<!-- EN: enemy terminal -->
+	<VFE_Prop_Ancient_2.shortLabel>вражеский терминал</VFE_Prop_Ancient_2.shortLabel>
+	<!-- EN: hermetic crate -->
+	<VFE_Prop_Ancient_3.shortLabel>герметичный ящик</VFE_Prop_Ancient_3.shortLabel>
+	<!-- EN: security crate -->
+	<VFE_Prop_Ancient_4.shortLabel>защитный ящик</VFE_Prop_Ancient_4.shortLabel>
+	<!-- EN: comms console -->
+	<VFE_Prop_Ancient_5.shortLabel>консоль связи</VFE_Prop_Ancient_5.shortLabel>
+	<!-- EN: fuel node -->
+	<VFE_Prop_Ancient_6.shortLabel>узел топлива</VFE_Prop_Ancient_6.shortLabel>
+	<!-- EN: system rack -->
+	<VFE_Prop_Ancient_7.shortLabel>системная стойка</VFE_Prop_Ancient_7.shortLabel>
+	<!-- EN: equipment blocks -->
+	<VFE_Prop_Ancient_8.shortLabel>блоки оборудования</VFE_Prop_Ancient_8.shortLabel>
+	<!-- EN: storage cylinder -->
+	<VFE_Prop_Ancient_10.shortLabel>цилиндр-хранилище</VFE_Prop_Ancient_10.shortLabel>
+	<!-- EN: display bank -->
+	<VFE_Prop_Ancient_12.shortLabel>ряд дисплеев</VFE_Prop_Ancient_12.shortLabel>
+	<!-- EN: locker bank -->
+	<VFE_Prop_Ancient_13.shortLabel>ряд шкафчиков</VFE_Prop_Ancient_13.shortLabel>
+	<!-- EN: military crate -->
+	<VFE_Prop_Ancient_15.shortLabel>военный ящик</VFE_Prop_Ancient_15.shortLabel>
+	<!-- EN: spacer crate -->
+	<VFE_Prop_Ancient_16.shortLabel>хламовый ящик</VFE_Prop_Ancient_16.shortLabel>
+	<!-- EN: operating table -->
+	<VFE_Prop_Ancient_19.shortLabel>операционный стол</VFE_Prop_Ancient_19.shortLabel>
+	<!-- EN: shopping cart -->
+	<VFE_Prop_Ancient_20.shortLabel>тележка для покупок</VFE_Prop_Ancient_20.shortLabel>
+	<!-- EN: vending machine -->
+	<VFE_Prop_Ancient_22.shortLabel>торговый автомат</VFE_Prop_Ancient_22.shortLabel>
+	<!-- EN: ac unit -->
+	<VFE_Prop_Ancient_23.shortLabel>кондиционер</VFE_Prop_Ancient_23.shortLabel>
+	<!-- EN: kitchen sink -->
+	<VFE_Prop_Ancient_24.shortLabel>кухонная раковина</VFE_Prop_Ancient_24.shortLabel>
+	<!-- EN: washing machine -->
+	<VFE_Prop_Ancient_27.shortLabel>стиральная машина</VFE_Prop_Ancient_27.shortLabel>
+	<!-- EN: small crate -->
+	<VFE_Prop_Ancient_32.shortLabel>малый ящик</VFE_Prop_Ancient_32.shortLabel>
+	<!-- EN: long crate -->
+	<VFE_Prop_Ancient_33.shortLabel>длинный ящик</VFE_Prop_Ancient_33.shortLabel>
+	<!-- EN: large crate -->
+	<VFE_Prop_Ancient_34.shortLabel>большой ящик</VFE_Prop_Ancient_34.shortLabel>
+	<!-- EN: giant wheel -->
+	<VFE_Prop_Ancient_36.shortLabel>гигантское колесо</VFE_Prop_Ancient_36.shortLabel>
+	<!-- EN: rusted car -->
+	<VFE_Prop_Ancient_37.shortLabel>ржавый автомобиль</VFE_Prop_Ancient_37.shortLabel>
+	<!-- EN: rusted truck -->
+	<VFE_Prop_Ancient_38.shortLabel>ржавый грузовик</VFE_Prop_Ancient_38.shortLabel>
+	<!-- EN: rusted jeep -->
+	<VFE_Prop_Ancient_39.shortLabel>ржавый джип</VFE_Prop_Ancient_39.shortLabel>
+	<!-- EN: car frame -->
+	<VFE_Prop_Ancient_40.shortLabel>каркас автомобиля</VFE_Prop_Ancient_40.shortLabel>
+	<!-- EN: warwalker torso -->
+	<VFE_Prop_Ancient_41.shortLabel>корпус военного шагохода</VFE_Prop_Ancient_41.shortLabel>
+	<!-- EN: rusted ship -->
+	<VFE_Prop_Ancient_42.shortLabel>ржавый корабль</VFE_Prop_Ancient_42.shortLabel>
+	<!-- EN: warwalker claw -->
+	<VFE_Prop_Ancient_43.shortLabel>коготь военного шагохода</VFE_Prop_Ancient_43.shortLabel>
+	<!-- EN: warwalker leg -->
+	<VFE_Prop_Ancient_44.shortLabel>нога военного шагохода</VFE_Prop_Ancient_44.shortLabel>
+	<!-- EN: warwalker remains -->
+	<VFE_Prop_Ancient_45.shortLabel>останки военного шагохода</VFE_Prop_Ancient_45.shortLabel>
+	<!-- EN: warspider remains -->
+	<VFE_Prop_Ancient_46.shortLabel>останки военного паука</VFE_Prop_Ancient_46.shortLabel>
+	<!-- EN: warwalker foot -->
+	<VFE_Prop_Ancient_48.shortLabel>стопа военного шагохода</VFE_Prop_Ancient_48.shortLabel>
+	<!-- EN: warwalker shell -->
+	<VFE_Prop_Ancient_51.shortLabel>панцирь военного шагохода</VFE_Prop_Ancient_51.shortLabel>
+	<!-- EN: jet engine -->
+	<VFE_Prop_Ancient_52.shortLabel>реактивный двигатель</VFE_Prop_Ancient_52.shortLabel>
+	<!-- EN: ship engine -->
+	<VFE_Prop_Ancient_53.shortLabel>корабельный двигатель</VFE_Prop_Ancient_53.shortLabel>
+	<!-- EN: pod car -->
+	<VFE_Prop_Ancient_54.shortLabel>автомобиль-капсула</VFE_Prop_Ancient_54.shortLabel>
+	<!-- EN: tank trap -->
+	<VFE_Prop_Ancient_55.shortLabel>противотанковый еж</VFE_Prop_Ancient_55.shortLabel>
+	<!-- EN: rusted engine -->
+	<VFE_Prop_Ancient_56.shortLabel>ржавый двигатель</VFE_Prop_Ancient_56.shortLabel>
+	<!-- EN: cannon tripod -->
+	<VFE_Prop_Ancient_60.shortLabel>тренога пушки</VFE_Prop_Ancient_60.shortLabel>
+	<!-- EN: cannon barrel -->
+	<VFE_Prop_Ancient_61.shortLabel>ствол пушки</VFE_Prop_Ancient_61.shortLabel>
+	<!-- EN: ancient turret -->
+	<VFE_Prop_Ancient_65.shortLabel>древняя турель</VFE_Prop_Ancient_65.shortLabel>
+	<!-- EN: rusted engine -->
+	<VFE_Prop_Ancient_66.shortLabel>ржавый двигатель</VFE_Prop_Ancient_66.shortLabel>
+	<!-- EN: ship beacon -->
+	<VFE_Prop_Ancient_67.shortLabel>корабельный маяк</VFE_Prop_Ancient_67.shortLabel>
+	<!-- EN: defoliator part -->
+	<VFE_Prop_Ancient_ShipPartDefoliator.shortLabel>деталь дефиолиатора</VFE_Prop_Ancient_ShipPartDefoliator.shortLabel>
+	<!-- EN: concrete barrier -->
+	<VFE_Prop_Ancient_68.shortLabel>бетонный барьер</VFE_Prop_Ancient_68.shortLabel>
+	<!-- EN: crypto pod -->
+	<VFE_Prop_Ancient_71.shortLabel>криптосонная капсула</VFE_Prop_Ancient_71.shortLabel>
+	<!-- EN: arrow left -->
+	<VFE_Prop_Decals_DecalArrowLeft.shortLabel>стрелка влево</VFE_Prop_Decals_DecalArrowLeft.shortLabel>
+	<!-- EN: arrow right -->
+	<VFE_Prop_Decals_DecalArrowRight.shortLabel>стрелка вправо</VFE_Prop_Decals_DecalArrowRight.shortLabel>
+	<!-- EN: arrow both -->
+	<VFE_Prop_Decals_DecalArrowBoth.shortLabel>стрелка в обе стороны</VFE_Prop_Decals_DecalArrowBoth.shortLabel>
+	<!-- EN: arrow double -->
+	<VFE_Prop_Decals_DecalArrowDouble.shortLabel>двойная стрелка</VFE_Prop_Decals_DecalArrowDouble.shortLabel>
+	<!-- EN: arrow left / straight -->
+	<VFE_Prop_Decals_DecalArrowLeftStraight.shortLabel>стрелка влево / прямо</VFE_Prop_Decals_DecalArrowLeftStraight.shortLabel>
+	<!-- EN: arrow right / straight -->
+	<VFE_Prop_Decals_DecalArrowRightStraight.shortLabel>стрелка вправо / прямо</VFE_Prop_Decals_DecalArrowRightStraight.shortLabel>
+	<!-- EN: arrow three ways -->
+	<VFE_Prop_Decals_DecalArrowThreeWays.shortLabel>стрелка в три стороны</VFE_Prop_Decals_DecalArrowThreeWays.shortLabel>
+	<!-- EN: double inner corner -->
+	<VFE_Prop_Decals_5.shortLabel>двойной внутренний угол</VFE_Prop_Decals_5.shortLabel>
+	<!-- EN: double inner round -->
+	<VFE_Prop_Decals_5Round.shortLabel>двойное внутреннее закругление</VFE_Prop_Decals_5Round.shortLabel>
+	<!-- EN: double outer corner -->
+	<VFE_Prop_Decals_6.shortLabel>двойной внешний угол</VFE_Prop_Decals_6.shortLabel>
+	<!-- EN: double outer round -->
+	<VFE_Prop_Decals_6Round.shortLabel>двойное внешнее закругление</VFE_Prop_Decals_6Round.shortLabel>
+	<!-- EN: thin inner corner -->
+	<VFE_Prop_Decals_8.shortLabel>тонкий внутренний угол</VFE_Prop_Decals_8.shortLabel>
+	<!-- EN: thin inner round -->
+	<VFE_Prop_Decals_8Round.shortLabel>тонкое внутреннее закругление</VFE_Prop_Decals_8Round.shortLabel>
+	<!-- EN: thin inner diagonal -->
+	<VFE_Prop_Decals_8Diagonal.shortLabel>тонкая внутренняя диагональ</VFE_Prop_Decals_8Diagonal.shortLabel>
+	<!-- EN: thin outer corner -->
+	<VFE_Prop_Decals_9.shortLabel>тонкий внешний угол</VFE_Prop_Decals_9.shortLabel>
+	<!-- EN: thin outer round -->
+	<VFE_Prop_Decals_9Round.shortLabel>тонкое внешнее закругление</VFE_Prop_Decals_9Round.shortLabel>
+	<!-- EN: thin outer diagonal -->
+	<VFE_Prop_Decals_9Diagonal.shortLabel>тонкая внешняя диагональ</VFE_Prop_Decals_9Diagonal.shortLabel>
+	<!-- EN: thin centered -->
+	<VFE_Prop_Decals_ThinCentered.shortLabel>тонкая по центру</VFE_Prop_Decals_ThinCentered.shortLabel>
+	<!-- EN: thin centered corner -->
+	<VFE_Prop_Decals_ThinCenteredCorner.shortLabel>тонкий угол по центру</VFE_Prop_Decals_ThinCenteredCorner.shortLabel>
+	<!-- EN: thin centered diagonal -->
+	<VFE_Prop_Decals_ThinCenteredDiagonal.shortLabel>тонкая диагональ по центру</VFE_Prop_Decals_ThinCenteredDiagonal.shortLabel>
+	<!-- EN: thin centered round -->
+	<VFE_Prop_Decals_ThinCenteredRound.shortLabel>тонкое закругление по центру</VFE_Prop_Decals_ThinCenteredRound.shortLabel>
+	<!-- EN: large logs -->
+	<VFE_Prop_Farm_6.shortLabel>большие брёвна</VFE_Prop_Farm_6.shortLabel>
+	<!-- EN: short with plates -->
+	<VFE_Prop_Furniture_9.shortLabel>низкий столик с тарелками</VFE_Prop_Furniture_9.shortLabel>
+	<!-- EN: shelf with boxes -->
+	<VFE_Prop_Furniture_19.shortLabel>стеллаж с коробками</VFE_Prop_Furniture_19.shortLabel>
+	<!-- EN: large box -->
+	<VFE_Prop_Industrial_4.shortLabel>большая коробка</VFE_Prop_Industrial_4.shortLabel>
+	<!-- EN: small box -->
+	<VFE_Prop_Industrial_5.shortLabel>малая коробка</VFE_Prop_Industrial_5.shortLabel>
+	<!-- EN: pallet with boxes -->
+	<VFE_Prop_Industrial_8.shortLabel>паллета с коробками</VFE_Prop_Industrial_8.shortLabel>
+	<!-- EN: empty counter -->
+	<VFE_Prop_Kitchen_10.shortLabel>пустая стойка</VFE_Prop_Kitchen_10.shortLabel>
+	<!-- EN: large arrow short -->
+	<VFE_Prop_LargeDecals_2.shortLabel>большая короткая стрелка</VFE_Prop_LargeDecals_2.shortLabel>
+	<!-- EN: large arrow wide -->
+	<VFE_Prop_LargeDecals_3.shortLabel>большая широкая стрелка</VFE_Prop_LargeDecals_3.shortLabel>
+	<!-- EN: lrg. arrow left -->
+	<VFE_Prop_LargeDecals_DecalArrowLeft.shortLabel>бол. стрелка влево</VFE_Prop_LargeDecals_DecalArrowLeft.shortLabel>
+	<!-- EN: lrg. arrow right -->
+	<VFE_Prop_LargeDecals_DecalArrowRight.shortLabel>бол. стрелка вправо</VFE_Prop_LargeDecals_DecalArrowRight.shortLabel>
+	<!-- EN: lrg. arrow both -->
+	<VFE_Prop_LargeDecals_DecalArrowBoth.shortLabel>бол. стрелка в обе стороны</VFE_Prop_LargeDecals_DecalArrowBoth.shortLabel>
+	<!-- EN: lrg. arrow double -->
+	<VFE_Prop_LargeDecals_DecalArrowDouble.shortLabel>бол. двойная стрелка</VFE_Prop_LargeDecals_DecalArrowDouble.shortLabel>
+	<!-- EN: lrg. arrow left / str. -->
+	<VFE_Prop_LargeDecals_DecalArrowLeftStraight.shortLabel>бол. стрелка влево / прямо</VFE_Prop_LargeDecals_DecalArrowLeftStraight.shortLabel>
+	<!-- EN: lrg. arrow right / str. -->
+	<VFE_Prop_LargeDecals_DecalArrowRightStraight.shortLabel>бол. стрелка вправо / прямо</VFE_Prop_LargeDecals_DecalArrowRightStraight.shortLabel>
+	<!-- EN: lrg. arrow three ways -->
+	<VFE_Prop_LargeDecals_DecalArrowThreeWays.shortLabel>бол. стрелка в три стороны</VFE_Prop_LargeDecals_DecalArrowThreeWays.shortLabel>
+	<!-- EN: lrg. double inner corner -->
+	<VFE_Prop_LargeDecals_5.shortLabel>бол. двойной внутренний угол</VFE_Prop_LargeDecals_5.shortLabel>
+	<!-- EN: lrg. double inner round -->
+	<VFE_Prop_LargeDecals_5Round.shortLabel>бол. двойное внутреннее закругление</VFE_Prop_LargeDecals_5Round.shortLabel>
+	<!-- EN: lrg. double outer corner -->
+	<VFE_Prop_LargeDecals_6.shortLabel>бол. двойной внешний угол</VFE_Prop_LargeDecals_6.shortLabel>
+	<!-- EN: lrg. double outer round -->
+	<VFE_Prop_LargeDecals_6Round.shortLabel>бол. двойное внешнее закругление</VFE_Prop_LargeDecals_6Round.shortLabel>
+	<!-- EN: lrg. diagonal -->
+	<VFE_Prop_LargeDecals_7Diagonal.shortLabel>бол. диагональ</VFE_Prop_LargeDecals_7Diagonal.shortLabel>
+	<!-- EN: lrg. thin inner corner -->
+	<VFE_Prop_LargeDecals_8.shortLabel>бол. тонкий внутренний угол</VFE_Prop_LargeDecals_8.shortLabel>
+	<!-- EN: lrg. thin inner round -->
+	<VFE_Prop_LargeDecals_8Round.shortLabel>бол. тонкое внутреннее закругление</VFE_Prop_LargeDecals_8Round.shortLabel>
+	<!-- EN: lrg. thin inner diagonal -->
+	<VFE_Prop_LargeDecals_8Diagonal.shortLabel>бол. тонкая внутренняя диагональ</VFE_Prop_LargeDecals_8Diagonal.shortLabel>
+	<!-- EN: lrg. thin outer corner -->
+	<VFE_Prop_LargeDecals_9.shortLabel>бол. тонкий внешний угол</VFE_Prop_LargeDecals_9.shortLabel>
+	<!-- EN: lrg. thin outer round -->
+	<VFE_Prop_LargeDecals_9Round.shortLabel>бол. тонкое внешнее закругление</VFE_Prop_LargeDecals_9Round.shortLabel>
+	<!-- EN: lrg. thin outer diagonal -->
+	<VFE_Prop_LargeDecals_9Diagonal.shortLabel>бол. тонкая внешняя диагональ</VFE_Prop_LargeDecals_9Diagonal.shortLabel>
+	<!-- EN: lrg. thin centered -->
+	<VFE_Prop_LargeDecals_ThinCentered.shortLabel>бол. тонкая по центру</VFE_Prop_LargeDecals_ThinCentered.shortLabel>
+	<!-- EN: lrg. thin centered corner -->
+	<VFE_Prop_LargeDecals_ThinCenteredCorner.shortLabel>бол. тонкий угол по центру</VFE_Prop_LargeDecals_ThinCenteredCorner.shortLabel>
+	<!-- EN: lrg. thin centered diagonal -->
+	<VFE_Prop_LargeDecals_ThinCenteredDiagonal.shortLabel>бол. тонкая диагональ по центру</VFE_Prop_LargeDecals_ThinCenteredDiagonal.shortLabel>
+	<!-- EN: lrg. thin centered round -->
+	<VFE_Prop_LargeDecals_ThinCenteredRound.shortLabel>бол. тонкое закругление по центру</VFE_Prop_LargeDecals_ThinCenteredRound.shortLabel>
+	<!-- EN: large armory -->
+	<VFE_Prop_LargeDecals_45.shortLabel>большая оружейная</VFE_Prop_LargeDecals_45.shortLabel>
+	<!-- EN: large barracks -->
+	<VFE_Prop_LargeDecals_46.shortLabel>большие казармы</VFE_Prop_LargeDecals_46.shortLabel>
+	<!-- EN: large cafeteria -->
+	<VFE_Prop_LargeDecals_48.shortLabel>большая столовая</VFE_Prop_LargeDecals_48.shortLabel>
+	<!-- EN: large chamber -->
+	<VFE_Prop_LargeDecals_50.shortLabel>большой зал</VFE_Prop_LargeDecals_50.shortLabel>
+	<!-- EN: large climate -->
+	<VFE_Prop_LargeDecals_51.shortLabel>большой климат-контроль</VFE_Prop_LargeDecals_51.shortLabel>
+	<!-- EN: large command -->
+	<VFE_Prop_LargeDecals_52.shortLabel>большой командный центр</VFE_Prop_LargeDecals_52.shortLabel>
+	<!-- EN: large control -->
+	<VFE_Prop_LargeDecals_53.shortLabel>большой пульт управления</VFE_Prop_LargeDecals_53.shortLabel>
+	<!-- EN: large engineer -->
+	<VFE_Prop_LargeDecals_54.shortLabel>большая инженерная зона</VFE_Prop_LargeDecals_54.shortLabel>
+	<!-- EN: large farming -->
+	<VFE_Prop_LargeDecals_55.shortLabel>большая ферма</VFE_Prop_LargeDecals_55.shortLabel>
+	<!-- EN: large freezer -->
+	<VFE_Prop_LargeDecals_56.shortLabel>большая морозильная камера</VFE_Prop_LargeDecals_56.shortLabel>
+	<!-- EN: large hangar -->
+	<VFE_Prop_LargeDecals_58.shortLabel>большой ангар</VFE_Prop_LargeDecals_58.shortLabel>
+	<!-- EN: large hospital -->
+	<VFE_Prop_LargeDecals_59.shortLabel>большая больница</VFE_Prop_LargeDecals_59.shortLabel>
+	<!-- EN: large kitchen -->
+	<VFE_Prop_LargeDecals_61.shortLabel>большая кухня</VFE_Prop_LargeDecals_61.shortLabel>
+	<!-- EN: large landing -->
+	<VFE_Prop_LargeDecals_62.shortLabel>большая посадочная площадка</VFE_Prop_LargeDecals_62.shortLabel>
+	<!-- EN: large medical -->
+	<VFE_Prop_LargeDecals_63.shortLabel>большой медотсек</VFE_Prop_LargeDecals_63.shortLabel>
+	<!-- EN: large morgue -->
+	<VFE_Prop_LargeDecals_65.shortLabel>большой морг</VFE_Prop_LargeDecals_65.shortLabel>
+	<!-- EN: large mortar -->
+	<VFE_Prop_LargeDecals_66.shortLabel>большой миномётный пункт</VFE_Prop_LargeDecals_66.shortLabel>
+	<!-- EN: large reactor -->
+	<VFE_Prop_LargeDecals_69.shortLabel>большой реактор</VFE_Prop_LargeDecals_69.shortLabel>
+	<!-- EN: large recreation -->
+	<VFE_Prop_LargeDecals_70.shortLabel>большая зона отдыха</VFE_Prop_LargeDecals_70.shortLabel>
+	<!-- EN: large refinery -->
+	<VFE_Prop_LargeDecals_71.shortLabel>большая перегонная установка</VFE_Prop_LargeDecals_71.shortLabel>
+	<!-- EN: large research -->
+	<VFE_Prop_LargeDecals_73.shortLabel>большая исследовательская лаборатория</VFE_Prop_LargeDecals_73.shortLabel>
+	<!-- EN: large security -->
+	<VFE_Prop_LargeDecals_74.shortLabel>большой пост охраны</VFE_Prop_LargeDecals_74.shortLabel>
+	<!-- EN: large shipping -->
+	<VFE_Prop_LargeDecals_75.shortLabel>большая грузовая зона</VFE_Prop_LargeDecals_75.shortLabel>
+	<!-- EN: large sleeping -->
+	<VFE_Prop_LargeDecals_76.shortLabel>большой спальный отсек</VFE_Prop_LargeDecals_76.shortLabel>
+	<!-- EN: large smelting -->
+	<VFE_Prop_LargeDecals_77.shortLabel>большая плавильня</VFE_Prop_LargeDecals_77.shortLabel>
+	<!-- EN: large storage -->
+	<VFE_Prop_LargeDecals_78.shortLabel>большое хранилище</VFE_Prop_LargeDecals_78.shortLabel>
+	<!-- EN: large warning -->
+	<VFE_Prop_LargeDecals_79.shortLabel>большое предупреждение</VFE_Prop_LargeDecals_79.shortLabel>
+	<!-- EN: large workshop -->
+	<VFE_Prop_LargeDecals_80.shortLabel>большая мастерская</VFE_Prop_LargeDecals_80.shortLabel>
+	<!-- EN: large chest -->
+	<VFE_Prop_Medieval_12.shortLabel>большой сундук</VFE_Prop_Medieval_12.shortLabel>
+	<!-- EN: empty rack -->
+	<VFE_Prop_Medieval_13.shortLabel>пустая стойка</VFE_Prop_Medieval_13.shortLabel>
+	<!-- EN: swords rack -->
+	<VFE_Prop_Medieval_14.shortLabel>стойка для мечей</VFE_Prop_Medieval_14.shortLabel>
+	<!-- EN: spears rack -->
+	<VFE_Prop_Medieval_15.shortLabel>стойка для копий</VFE_Prop_Medieval_15.shortLabel>
+	<!-- EN: chemfuel tank -->
+	<VFE_Prop_Power_2.shortLabel>бак химтоплива</VFE_Prop_Power_2.shortLabel>
+	<!-- EN: small generator -->
+	<VFE_Prop_Power_12.shortLabel>малый генератор</VFE_Prop_Power_12.shortLabel>
+	<!-- EN: long console -->
+	<VFE_Prop_Spacer_5.shortLabel>длинная консоль</VFE_Prop_Spacer_5.shortLabel>
+	<!-- EN: triple display -->
+	<VFE_Prop_Spacer_8.shortLabel>тройной экран</VFE_Prop_Spacer_8.shortLabel>
+	<!-- EN: single display -->
+	<VFE_Prop_Spacer_8Single.shortLabel>одинарный экран</VFE_Prop_Spacer_8Single.shortLabel>
+	<!-- EN: spacer cont large -->
+	<VFE_Prop_Spacer_10.shortLabel>большой хламовый контейнер</VFE_Prop_Spacer_10.shortLabel>
+	<!-- EN: spacer cont stack -->
+	<VFE_Prop_Spacer_11.shortLabel>штабель хламовых контейнеров</VFE_Prop_Spacer_11.shortLabel>
+	<!-- EN: storage device -->
+	<VFE_Prop_Spacer_12.shortLabel>устройство хранения</VFE_Prop_Spacer_12.shortLabel>
+	<!-- EN: advanced radiator -->
+	<VFE_Prop_Spaceships_ShipPart_AdvancedRadiator.shortLabel>продвинутый радиатор</VFE_Prop_Spaceships_ShipPart_AdvancedRadiator.shortLabel>
+	<!-- EN: archo radiator -->
+	<VFE_Prop_Spaceships_ShipPart_ArchotechRadiator.shortLabel>архо-радиатор</VFE_Prop_Spaceships_ShipPart_ArchotechRadiator.shortLabel>
+	<!-- EN: mech radiator -->
+	<VFE_Prop_Spaceships_ShipPart_MechanoidRadiator.shortLabel>радиатор механоидов</VFE_Prop_Spaceships_ShipPart_MechanoidRadiator.shortLabel>
+	<!-- EN: ruined J-T drive -->
+	<VFE_Prop_Spaceships_ShipPart_JohnsonTanaka_Drive_Ruined.shortLabel>разрушенный двигатель J-T</VFE_Prop_Spaceships_ShipPart_JohnsonTanaka_Drive_Ruined.shortLabel>
+	<!-- EN: 1x1 corner flipped -->
+	<VFE_Prop_Spaceships_ShipPart_ShipAngle1x1_Flipped.shortLabel>перевёрнутый угол 1x1</VFE_Prop_Spaceships_ShipPart_ShipAngle1x1_Flipped.shortLabel>
+	<!-- EN: 1x2 corner flipped -->
+	<VFE_Prop_Spaceships_ShipPart_ShipAngle1x2_Flipped.shortLabel>перевёрнутый угол 1x2</VFE_Prop_Spaceships_ShipPart_ShipAngle1x2_Flipped.shortLabel>
+	<!-- EN: 1x3 corner flipped -->
+	<VFE_Prop_Spaceships_ShipPart_ShipAngle1x3_Flipped.shortLabel>перевёрнутый угол 1x3</VFE_Prop_Spaceships_ShipPart_ShipAngle1x3_Flipped.shortLabel>
+	<!-- EN: 1x1 archo corner -->
+	<VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x1.shortLabel>архо-угол 1x1</VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x1.shortLabel>
+	<!-- EN: 1x1 archo flipped -->
+	<VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x1_Flipped.shortLabel>перевёрнутый архо-угол 1x1</VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x1_Flipped.shortLabel>
+	<!-- EN: 1x2 archo corner -->
+	<VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x2.shortLabel>архо-угол 1x2</VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x2.shortLabel>
+	<!-- EN: 1x2 archo flipped -->
+	<VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x2_Flipped.shortLabel>перевёрнутый архо-угол 1x2</VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x2_Flipped.shortLabel>
+	<!-- EN: 1x3 archo corner -->
+	<VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x3.shortLabel>архо-угол 1x3</VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x3.shortLabel>
+	<!-- EN: 1x3 archo flipped -->
+	<VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x3_Flipped.shortLabel>перевёрнутый архо-угол 1x3</VFE_Prop_Spaceships_ShipPart_ArchoShipAngle1x3_Flipped.shortLabel>
+	<!-- EN: 1x1 mech corner -->
+	<VFE_Prop_Spaceships_ShipPart_MechShipAngle1x1.shortLabel>угол механоидов 1x1</VFE_Prop_Spaceships_ShipPart_MechShipAngle1x1.shortLabel>
+	<!-- EN: 1x1 mech flipped -->
+	<VFE_Prop_Spaceships_ShipPart_MechShipAngle1x1_Flipped.shortLabel>перевёрнутый угол механоидов 1x1</VFE_Prop_Spaceships_ShipPart_MechShipAngle1x1_Flipped.shortLabel>
+	<!-- EN: 1x2 mech corner -->
+	<VFE_Prop_Spaceships_ShipPart_MechShipAngle1x2.shortLabel>угол механоидов 1x2</VFE_Prop_Spaceships_ShipPart_MechShipAngle1x2.shortLabel>
+	<!-- EN: 1x2 mech flipped -->
+	<VFE_Prop_Spaceships_ShipPart_MechShipAngle1x2_Flipped.shortLabel>перевёрнутый угол механоидов 1x2</VFE_Prop_Spaceships_ShipPart_MechShipAngle1x2_Flipped.shortLabel>
+	<!-- EN: 1x3 mech corner -->
+	<VFE_Prop_Spaceships_ShipPart_MechShipAngle1x3.shortLabel>угол механоидов 1x3</VFE_Prop_Spaceships_ShipPart_MechShipAngle1x3.shortLabel>
+	<!-- EN: 1x3 mech flipped -->
+	<VFE_Prop_Spaceships_ShipPart_MechShipAngle1x3_Flipped.shortLabel>перевёрнутый угол механоидов 1x3</VFE_Prop_Spaceships_ShipPart_MechShipAngle1x3_Flipped.shortLabel>
+	<!-- EN: fake stairs -->
+	<VFE_Prop_Structures_FakeStairs.shortLabel>декоративная лестница</VFE_Prop_Structures_FakeStairs.shortLabel>
+	<!-- EN: fake stairs corner -->
+	<VFE_Prop_Structures_FakeStairsCorner.shortLabel>угол декоративной лестницы</VFE_Prop_Structures_FakeStairsCorner.shortLabel>
+	<!-- EN: fake stairs inv. c. -->
+	<VFE_Prop_Structures_FakeStairsInvertedCorner.shortLabel>обратный угол декоративной лестницы</VFE_Prop_Structures_FakeStairsInvertedCorner.shortLabel>
+	<!-- EN: lrg. fake stairs -->
+	<VFE_Prop_Structures_LargeFakeStairs.shortLabel>большая декоративная лестница</VFE_Prop_Structures_LargeFakeStairs.shortLabel>
+	<!-- EN: lrg. fake stairs corner -->
+	<VFE_Prop_Structures_LargeFakeStairsCorner.shortLabel>угол большой декоративной лестницы</VFE_Prop_Structures_LargeFakeStairsCorner.shortLabel>
+	<!-- EN: lrg. fake stairs inv. c. -->
+	<VFE_Prop_Structures_LargeFakeStairsInvertedCorner.shortLabel>обратный угол большой декоративной лестницы</VFE_Prop_Structures_LargeFakeStairsInvertedCorner.shortLabel>
+	<!-- EN: hi-tech bench -->
+	<VFE_Prop_Workshop_1.shortLabel>высокотехнологичный станок</VFE_Prop_Workshop_1.shortLabel>
+</LanguageData>

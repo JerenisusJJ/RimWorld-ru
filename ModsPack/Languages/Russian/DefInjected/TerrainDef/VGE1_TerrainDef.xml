@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_DamagedSubstructure.label>повреждённая надстройка гравикорабля</VGE_DamagedSubstructure.label>
+  <VGE_DamagedSubstructure.description>Покорёженный и скрученный участок надстройки гравикорабля. Когда-то это была прочная ферма с настилом, но сильная нагрузка или удар изогнули её. Поле левитации гравидвигателя всё ещё удерживает его, но целостность нарушена: любой дальнейший урон приведёт к полному обрушению этого участка надстройки.</VGE_DamagedSubstructure.description>
+  <VGE_AsteroidIce.label>астероидный лёд</VGE_AsteroidIce.label>
+  <VGE_GravshipSubscaffold.label>подкаркас гравикорабля</VGE_GravshipSubscaffold.label>
+  <VGE_GravshipSubscaffold.description>Слой каркаса, построенный для поддержки конструкции гравикораблей. Он входит в состав конструкции гравикорабля, но не выдерживает постройки и значительно замедляет движение. Он не учитывается в пределе надстройки гравикорабля, поэтому идеально подходит для проходов, путей доступа или зон расширения.</VGE_GravshipSubscaffold.description>
+  <VGE_AncientOrbitalPlatform.label>древняя орбитальная платформа</VGE_AncientOrbitalPlatform.label>
+  <VGE_Compressed_Vacstone_Floor.label>спрессованный вакуумит</VGE_Compressed_Vacstone_Floor.label>
+  <VGE_MechanoidSubstructure.label>механоидная надстройка</VGE_MechanoidSubstructure.label>
+  <VGE_MechanoidSubstructure.description>Лёгкая ферменная конструкция механоидов с настилом сверху, образующая палубу роевого корабля. Только то, что находится на этой надстройке, может быть поднято полем левитации гравидвигателя.</VGE_MechanoidSubstructure.description>
+  <VGE_FakeTerrain.label>фальшивая местность</VGE_FakeTerrain.label>
+  <VGE_FakeTerrain.description>фальшивая местность</VGE_FakeTerrain.description>
+</LanguageData>

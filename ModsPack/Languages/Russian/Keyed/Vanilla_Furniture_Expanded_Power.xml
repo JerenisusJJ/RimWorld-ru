@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPE_PipesNotConnected>Трубы не подключены к генератору или резервуарам</VPE_PipesNotConnected>
+  <VPE_PipeConnectedRateStored>Избыток/запас в сети труб: {0} мл / {1} мл-д</VPE_PipeConnectedRateStored>
+  <VPE_LiquidTankStored>Запас газа</VPE_LiquidTankStored>
+  <VPE_LiquidTankEfficiency>Эффективность резервуара</VPE_LiquidTankEfficiency>
+  <VPE_TankLeakage>Минимальная утечка герметика</VPE_TankLeakage>
+  <VPE_NutrientNeeded>Нужно газа</VPE_NutrientNeeded>
+  <VPE_LiquidOutput>Выход газа</VPE_LiquidOutput>
+  <VPE_MustPlaceOnGasGeyser>Это здание нужно ставить поверх гейзера геликсиенового газа</VPE_MustPlaceOnGasGeyser>
+  <VPE_PlugHole>Засыпать отверстие</VPE_PlugHole>
+  <VPE_PlugHoleDesc>Засыпает отверстие землёй. ВНИМАНИЕ: гейзер или пруд будет уничтожен. Делайте это, только если он больше не пригоден или нужно место.</VPE_PlugHoleDesc>
+  <VPE_CancelPlugHole>Отменить засыпку отверстия</VPE_CancelPlugHole>
+  <VPE_CancelPlugHoleDesc>Отменяет работу по засыпке отверстия.</VPE_CancelPlugHoleDesc>
+  <VPE_MustPlaceAdjacentToPipe>Здания на газе нужно ставить рядом с газовыми трубами, а не поверх них</VPE_MustPlaceAdjacentToPipe>
+  <VPE_DeconstructGasPipes>Демонтировать газовую сеть</VPE_DeconstructGasPipes>
+  <VPE_DeconstructGasPipesDesc>Демонтирует только газовые трубы и подземные газовые трубы</VPE_DeconstructGasPipesDesc>
+  <VPE_DisableGasPathCalculations>Отключить расчёт путей геликсиенового газа (для снижения лагов)</VPE_DisableGasPathCalculations>
+  <Fluffy.GasNetwork.GasNetworkInspectString>Избыток (запас) газа в сети: {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
+  <Fluffy.GasNetwork.Stored>Запас газа: {0}/{1}</Fluffy.GasNetwork.Stored>
+  <Fluffy.GasNetwork.Production>Произведено газа: {0}</Fluffy.GasNetwork.Production>
+  <Fluffy.GasNetwork.Consumption>Потреблено газа: {0}</Fluffy.GasNetwork.Consumption>
+  <Fluffy.GasNetwork.GasOff>Газ отключён.</Fluffy.GasNetwork.GasOff>
+  <Fluffy.GasNetwork.NoNetwork>Не подключено к газовой сети.</Fluffy.GasNetwork.NoNetwork>
+  <Fluffy.GasNetwork.ValveOpen>Клапан открыт.</Fluffy.GasNetwork.ValveOpen>
+  <Fluffy.GasNetwork.ValveClosed>Клапан закрыт.</Fluffy.GasNetwork.ValveClosed>
+  <Fluffy.GasNetwork.CommandToggleGas.Label>Переключить подачу газа</Fluffy.GasNetwork.CommandToggleGas.Label>
+  <Fluffy.GasNetwork.CommandToggleGas.Desc>Назначает включение или отключение подачи газа. Скоро придёт колонист и щёлкнет переключателем.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <Fluffy.GasNetwork.DesiredBuffer>Целевой запас газа: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+  <Fluffy.GasNetwork.BufferOff>Хранение газа отключено.</Fluffy.GasNetwork.BufferOff>
+  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Предпочитаемая единица скорости ветра</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  <Fluffy.GasNetwork.Settings.Wind.Category>Симуляция ветра</Fluffy.GasNetwork.Settings.Wind.Category>
+  <VPE_RadiationProduced>Предупреждение: реактор излучает радиацию в радиусе {0} м</VPE_RadiationProduced>
+  <VPE_TempInReactorRoom>Температура в помещении реактора: {0}°C</VPE_TempInReactorRoom>
+  <VPE_TempInReactorRoomCritical>Предупреждение: температура в помещении реактора: {0}°C</VPE_TempInReactorRoomCritical>
+  <VPE_Meltdown>Предупреждение: расплавление из-за высокой температуры. До ремонта реактор будет убивать всё живое в радиусе</VPE_Meltdown>
+  <VPE_MeltdownLetterLabel>Расплавление реактора</VPE_MeltdownLetterLabel>
+  <VPE_MeltdownLetter>Из-за высокой температуры в помещении реактора произошло частичное расплавление! До ремонта этот реактор будет крайне опасен для жизни в большом радиусе.\n\nЕсли проигнорировать это, колония вполне может погибнуть через несколько часов.</VPE_MeltdownLetter>
+  <VPE_NoReactorRoom>Помещение реактора должно быть закрытым пространством с крышей</VPE_NoReactorRoom>
+  <VPE_MustPlaceRoofed>Это здание нужно ставить в помещении под крышей</VPE_MustPlaceRoofed>
+  <VPE_SoulsTime>Души хранятся ещё:</VPE_SoulsTime>
+  <VPE_Producing>Вырабатывается электричество: {0} Вт</VPE_Producing>
+  <VPE_NotProducing>Души не поглощены. Боги Машин голодны до человеческих душ.</VPE_NotProducing>
+  <VPE_ToggleViolenceGenerator>Переключить генератор</VPE_ToggleViolenceGenerator>
+  <VPE_ToggleViolenceGeneratorDesc>Переключает генератор между рабочим и неактивным состоянием</VPE_ToggleViolenceGeneratorDesc>
+  <VPE_GeneratorIsOff>Генератор насилия сейчас выключен и неактивен</VPE_GeneratorIsOff>
+  <VPE_LightningTime>Энергия молний хранится ещё:</VPE_LightningTime>
+  <VPE_NotLightningProducing>Электричество молний истощено. Похоже, придётся ждать следующей грозы.</VPE_NotLightningProducing>
+  <VPE_AGasPipe>газовая труба</VPE_AGasPipe>
+  <VPE_GasExplosion>Неисправность в {0} вызвала взрыв газа.</VPE_GasExplosion>
+  <VPE_GasExplosionStartedFire>Неисправность в {0} вызвала взрыв газа, начался пожар.</VPE_GasExplosionStartedFire>
+  <VPE_GasExplosionLostGas>Весь газ ({0} л-д) в подключённых газовых резервуарах выброшен в сильном взрыве.</VPE_GasExplosionLostGas>
+  <VPE_GasExplosionLWasLarge>Такое количество газа вызвало взрыв значительных размеров.</VPE_GasExplosionLWasLarge>
+  <VPE_GasExplosionLWasHuge>Это действительно огромный взрыв. Ух ты.</VPE_GasExplosionLWasHuge>
+  <VPE_LetterLabelGasExplosion>Бабах!</VPE_LetterLabelGasExplosion>
+  <VPE_PondHasFuel>В этом пруду химтоплива осталось {0} ед. химтоплива</VPE_PondHasFuel>
+  <VPE_PondNoFuel>Этот пруд химтоплива истощён</VPE_PondNoFuel>
+  <VPE_MustPlaceOnChemfuelPond>Насос химтоплива нужно строить поверх пруда химтоплива</VPE_MustPlaceOnChemfuelPond>
+  <VPE_PumpProducing>Насос произведёт {0} ед. химтоплива за {1}</VPE_PumpProducing>
+  <VPE_NeedsWater>Эту электростанцию нужно строить на воде</VPE_NeedsWater>
+  <VPE_NeedsDistance>Приливные электростанции нужно строить на расстоянии не менее 40 клеток друг от друга</VPE_NeedsDistance>
+  <VPE_GasUpdateNoticeLetterLabel>Обновление мода энергии</VPE_GasUpdateNoticeLetterLabel>
+  <VPE_GasUpdateNoticeLetterText>Мод Vanilla Furniture Expanded: Power получил очень важное обновление, касающееся геликсиеновой газовой сети.\n\nИсходный код написал я (Sarg Bjornson), и он был довольно небрежным, из-за чего возникало много ошибок и нестабильного поведения. Благодаря замечательному Fluffy весь код газовой сети переписан, и теперь всё должно работать идеально.\n\nПРИМЕЧАНИЕ: так как большинство классов, управляющих газовой сетью, изменились, все компоненты газовой сети в существующем сохранении нужно построить заново. Здания можно заменить бесплатно через режим разработчика с включённым режимом бога. Просто демонтируйте текущую газовую сеть (со всеми объектами на газе) и бесплатно постройте её заново.</VPE_GasUpdateNoticeLetterText>
+  <VPE_Reset>Сброс</VPE_Reset>
+  <VPE_NuclearPlantHeader>Атомная электростанция</VPE_NuclearPlantHeader>
+  <VPE_NuclearPlantMultiplier>Множитель выработки атомной станции</VPE_NuclearPlantMultiplier>
+  <VPE_NuclearPlantMultiplierTooltip>Количество энергии, вырабатываемой атомной станцией, будет умножено на это значение.</VPE_NuclearPlantMultiplierTooltip>
+  <VPE_NuclearPlantRadiationMultiplier>Множитель радиуса радиации</VPE_NuclearPlantRadiationMultiplier>
+  <VPE_NuclearPlantRadiationMultiplierTooltip>Радиус радиации, создаваемой атомной станцией при топливе более 50% или при расплавлении, будет умножен на это значение.</VPE_NuclearPlantRadiationMultiplierTooltip>
+  <VPE_DisableNuclearMeltdowns>Отключить ядерные расплавления</VPE_DisableNuclearMeltdowns>
+  <VPE_DisableNuclearMeltdownsDesc>Если включено, атомные станции никогда не расплавятся, даже при достижении критической температуры.</VPE_DisableNuclearMeltdownsDesc>
+  <VPE_SolarHeader>Продвинутая солнечная энергия</VPE_SolarHeader>
+  <VPE_AdvSolarOutputMultiplier>Множитель выработки продвинутой солнечной станции</VPE_AdvSolarOutputMultiplier>
+  <VPE_AdvSolarOutputMultiplierTooltip>Количество энергии, вырабатываемой продвинутым солнечным генератором, будет умножено на это значение.</VPE_AdvSolarOutputMultiplierTooltip>
+  <VPE_SoulHeader>Генератор насилия архотеха</VPE_SoulHeader>
+  <VPE_SoulMultiplier>Часов энергии на поглощённый труп</VPE_SoulMultiplier>
+  <VPE_SoulMultiplierTooltip>По умолчанию каждый труп, поглощённый реактором, даёт 2 часа энергии. Это значение будет умножено на этот коэффициент.</VPE_SoulMultiplierTooltip>
+  <VPE_TidalHeader>Приливный генератор</VPE_TidalHeader>
+  <VPE_TidalMultiplier>Множитель выработки приливного генератора</VPE_TidalMultiplier>
+  <VPE_TidalMultiplierTooltip>Количество энергии, вырабатываемой приливным генератором, будет умножено на это значение.</VPE_TidalMultiplierTooltip>
+  <VPE_TidalSeparation>Расстояние между приливными генераторами</VPE_TidalSeparation>
+  <VPE_TidalSeparationTooltip>По умолчанию между приливными генераторами нужно 40 клеток, но этой настройкой это можно изменить.</VPE_TidalSeparationTooltip>
+  <VPE_WindmillHeader>Продвинутая ветряная турбина</VPE_WindmillHeader>
+  <VPE_AdvWindmillOutputMultiplier>Множитель выработки продвинутой ветряной турбины</VPE_AdvWindmillOutputMultiplier>
+  <VPE_AdvWindmillOutputMultiplierTooltip>Количество энергии, вырабатываемой продвинутой ветряной турбиной, будет умножено на это значение.</VPE_AdvWindmillOutputMultiplierTooltip>
+  <VPE_WatermillHeader>Продвинутый водяной генератор</VPE_WatermillHeader>
+  <VPE_AdvWatermillOutputMultiplier>Множитель выработки продвинутого водяного генератора</VPE_AdvWatermillOutputMultiplier>
+  <VPE_AdvWatermillOutputMultiplierTooltip>Количество энергии, вырабатываемой продвинутым водяным генератором, будет умножено на это значение.</VPE_AdvWatermillOutputMultiplierTooltip>
+  <VPE_AdvGeoHeader>Продвинутый геотермальный генератор</VPE_AdvGeoHeader>
+  <VPE_AdvGeoOutputMultiplier>Множитель выработки продвинутого геотермального генератора</VPE_AdvGeoOutputMultiplier>
+  <VPE_AdvGeoOutputMultiplierTooltip>Количество энергии, вырабатываемой продвинутым геотермальным генератором, будет умножено на это значение.</VPE_AdvGeoOutputMultiplierTooltip>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_InspectMechanoidGravEngine.reportString>осматривает TargetA.</VGE_InspectMechanoidGravEngine.reportString>
+  <VGE_BeatAstrofire.reportString>сбивает астрогонь.</VGE_BeatAstrofire.reportString>
+  <VGE_ExtinguishAstrofiresNearby.reportString>тушит астрогонь поблизости.</VGE_ExtinguishAstrofiresNearby.reportString>
+  <VGE_ExtinguishSelfAstrofire.reportString>тушит себя.</VGE_ExtinguishSelfAstrofire.reportString>
+  <VGE_MaintainGrav.reportString>обслуживает TargetA.</VGE_MaintainGrav.reportString>
+  <VGE_CollectGravdata.reportString>собирает гравиданные.</VGE_CollectGravdata.reportString>
+  <VGE_ReplenishOxygenPack.reportString>заправляет TargetA.</VGE_ReplenishOxygenPack.reportString>
+  <VGE_BuildVacBarrierRoofs.reportString>строит вакуумное барьерное перекрытие.</VGE_BuildVacBarrierRoofs.reportString>
+</LanguageData>

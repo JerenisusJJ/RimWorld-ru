@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEArch_FineWall.label>изысканная стена</VFEArch_FineWall.label>
+  <VFEArch_FineWall.description>Красивая непроходимая стена. Способна удерживать крышу.</VFEArch_FineWall.description>
+  <VFEArch_LogWall.label>бревенчатая стена</VFEArch_LogWall.label>
+  <VFEArch_LogWall.description>Стена из горизонтально уложенных брёвен, создающая приятное, домашнее ощущение. Способна удерживать крышу.</VFEArch_LogWall.description>
+  <VFEArch_ChainlinkFence.label>сетчатый забор</VFEArch_ChainlinkFence.label>
+  <VFEArch_ChainlinkFence.description>Металлический забор из столбов, соединённых полотнами сетки-рабицы, для строительства загонов для некоторых видов животных. Некоторые животные способны преодолевать заборы. Хищники не охотятся на существ по ту сторону забора, но всё же могут забрести внутрь.</VFEArch_ChainlinkFence.description>
+  <VFEArch_PicketFence.label>штакетный забор</VFEArch_PicketFence.label>
+  <VFEArch_PicketFence.description>Забор из столбов, соединённых вертикальными деревянными досками - штакетинами, для строительства загонов для некоторых видов животных. Некоторые животные способны преодолевать заборы. Хищники не охотятся на существ по ту сторону забора, но всё же могут забрести внутрь.\n	\nШтакетные заборы заметно красивее остальных и создают приятное, домашнее ощущение.</VFEArch_PicketFence.description>
+  <VFEArch_BrickFence.label>кирпичный забор</VFEArch_BrickFence.label>
+  <VFEArch_BrickFence.description>Кирпичный забор из высоких кирпичных столбов с невысокой оградой между ними для строительства загонов для некоторых видов животных. Некоторые животные способны преодолевать заборы. Хищники не охотятся на существ по ту сторону забора, но всё же могут забрести внутрь.</VFEArch_BrickFence.description>
+  <VFEArch_InvisibleFence.label>невидимый забор</VFEArch_InvisibleFence.label>
+  <VFEArch_InvisibleFence.description>Невидимый забор для тех, кто хочет создавать собственные загоны без видимых заборов или сделать так, чтобы реки и деревья служили ограждением. Не имеет стоимости прохода, поэтому не замедляет тех, кто хочет через него пройти.</VFEArch_InvisibleFence.description>
+  <VFEArch_LowFence.label>низкий забор</VFEArch_LowFence.label>
+  <VFEArch_LowFence.description>Забор из столбов, соединённых перекладинами, для строительства загонов для некоторых видов животных. Некоторые животные способны преодолевать заборы. Хищники не охотятся на существ по ту сторону забора, но всё же могут забрести внутрь.</VFEArch_LowFence.description>
+  <VFEArch_HedgeWall.label>стена из живой изгороди</VFEArch_HedgeWall.label>
+  <VFEArch_HedgeWall.description>Непроходимая стена из искусственной живой изгороди. Очень легко воспламеняется.</VFEArch_HedgeWall.description>
+  <VFEArch_CellWall.label>тюремная решётка</VFEArch_CellWall.label>
+  <VFEArch_CellWall.description>Непроходимая стена из тюремных прутьев. Заключённые не могут её атаковать.</VFEArch_CellWall.description>
+  <VFEArch_CellDoor.label>дверь камеры</VFEArch_CellDoor.label>
+  <VFEArch_CellDoor.description>Медленно открывающаяся дверь, разделяющая два помещения. Заключённые не могут атаковать двери камер.</VFEArch_CellDoor.description>
+  <VFEArch_ArmoredWall.label>бронированная стена</VFEArch_ArmoredWall.label>
+  <VFEArch_ArmoredWall.description>Непроходимая тяжёлая стена с несколькими слоями брони. Практически полностью устойчива к взрывчатке и любым инструментам для взлома.</VFEArch_ArmoredWall.description>
+  <VFEArch_ArmoredDoor.label>бронированная дверь</VFEArch_ArmoredDoor.label>
+  <VFEArch_ArmoredDoor.description>Разделяет помещения. Бронированные двери приходится открывать вручную, что замедляет людей. Бронированные двери почти полностью устойчивы к взрывам и почти не получают урона от способов взлома.</VFEArch_ArmoredDoor.description>
+  <VFEArch_SingleDoor.label>одностворчатая дверь</VFEArch_SingleDoor.label>
+  <VFEArch_SingleDoor.description>Разделяет помещения. Простые двери приходится открывать вручную, что замедляет людей. Величина замедления не зависит от материала двери.</VFEArch_SingleDoor.description>
+  <VFEArch_SingleDoor_Flipped.label>одностворчатая дверь (зеркальная)</VFEArch_SingleDoor_Flipped.label>
+  <VFEArch_SingleDoor_Flipped.description>Разделяет помещения. Простые двери приходится открывать вручную, что замедляет людей. Величина замедления не зависит от материала двери.</VFEArch_SingleDoor_Flipped.description>
+  <VFEArch_AnimalGate.label>калитка для животных</VFEArch_AnimalGate.label>
+  <VFEArch_AnimalGate.description>Дверной проём с калиткой, которую достаточно легко открыть, чтобы животные могли распахнуть её сами. Пропускает животных, но не изолирует помещение. Такие калитки часто используют как входы в сараи в более тёплом климате.</VFEArch_AnimalGate.description>
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ARY_AutomaticStumpChopping_Title>Автоматическая рубка пней</ARY_AutomaticStumpChopping_Title>
+  <ARYASC_enable_cut_stump_Label>Автоматически назначать рубку пней?</ARYASC_enable_cut_stump_Label>
+  <ARYASC_Stump_NoRestart>По умолчанию:  ✔\nПни высоких деревьев будут помечаться на рубку сразу после рубки дерева.\nИзменение НЕ требует перезапуска!</ARYASC_Stump_NoRestart>
+  <ARYASC_enable_cut_blight_Label>Автоматически назначать срезание заражённых растений?</ARYASC_enable_cut_blight_Label>
+  <ARYASC_Blight_NoRestart>По умолчанию:  ✔\nЛюбые заражённые растения будут сразу помечаться на срезание.\nИзменение НЕ требует перезапуска!</ARYASC_Blight_NoRestart>
+  <ARYASC_enable_visual_Label>Эффект падения срубленных высоких деревьев?</ARYASC_enable_visual_Label>
+  <ARYASC_Visual_NoRestart>По умолчанию:  ✔\nБольшинство высоких деревьев после рубки будут падать с визуальным эффектом.\nИзменение НЕ требует перезапуска!</ARYASC_Visual_NoRestart>
+  <ARYASC_enable_AllStumpsChop_Label>Включить кнопку приказа «Срубить пни»?</ARYASC_enable_AllStumpsChop_Label>
+  <ARYASC_AllStumpsChop_Restart>По умолчанию:  ✔\nПоказать или скрыть кнопку\n«Срубить пни».\nИзменение потребует перезапуска!</ARYASC_AllStumpsChop_Restart>
+  <ARYASC_enable_FullyGrownTreesChop_Label>Включить кнопку приказа «Срубить выросшие деревья»?</ARYASC_enable_FullyGrownTreesChop_Label>
+  <ARYASC_FullyGrownTreesChop_Restart>По умолчанию:  ✔\nПоказать или скрыть кнопку\n«Срубить выросшие деревья».\nИзменение потребует перезапуска!</ARYASC_FullyGrownTreesChop_Restart>
+  <ARYASC_enable_FullyGrownCropsChop_Label>Включить кнопку приказа «Собрать созревший урожай»?</ARYASC_enable_FullyGrownCropsChop_Label>
+  <ARYASC_FullyGrownCropsChop_Restart>По умолчанию:  ✔\nПоказать или скрыть кнопку\n«Собрать созревший урожай».\nИзменение потребует перезапуска!</ARYASC_FullyGrownCropsChop_Restart>
+  <ARYASC_enable_messages_Label>Включить отладочные сообщения журнала этого мода?</ARYASC_enable_messages_Label>
+  <ARYASC_Messages_NoRestart>По умолчанию:  ✘\nВозможно, потребуется включить режим разработчика.\nИзменение НЕ требует перезапуска!</ARYASC_Messages_NoRestart>
+  <ARYASC_Reset_Settings>Нажмите, чтобы сбросить настройки этого мода по умолчанию</ARYASC_Reset_Settings>
+  <Designator_AllStumpsChop_Label>Срубить пни</Designator_AllStumpsChop_Label>
+  <Designator_AllStumpsChop_Descr>Помечает пни на срубание ради древесины.</Designator_AllStumpsChop_Descr>
+  <Designator_FullyGrownTreesChop_Label>Срубить выросшие деревья</Designator_FullyGrownTreesChop_Label>
+  <Designator_FullyGrownTreesChop_Descr>Помечает выросшие деревья на срубание ради древесины. Большинство особых деревьев, например древо анимы, этот инструмент не затрагивает.</Designator_FullyGrownTreesChop_Descr>
+  <Designator_FullyGrownCropsChop_Label>Собрать созревший урожай</Designator_FullyGrownCropsChop_Label>
+  <Designator_FullyGrownCropsChop_Descr>Помечает созревшие растения на сбор пищи или других продуктов.</Designator_FullyGrownCropsChop_Descr>
+</LanguageData>

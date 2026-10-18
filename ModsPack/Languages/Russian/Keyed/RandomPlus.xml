@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RandomPlus.RandomEditor.Header>Редактор случайности</RandomPlus.RandomEditor.Header>
+  <RandomPlus.RandomEditor.ResetAllButton>Сбросить всё</RandomPlus.RandomEditor.ResetAllButton>
+  <RandomPlus.RandomEditor.SaveLoadButton>Сохранить/Загрузить</RandomPlus.RandomEditor.SaveLoadButton>
+  <RandomPlus.SaveLoadDialog.SaveButton>Сохранить</RandomPlus.SaveLoadDialog.SaveButton>
+  <RandomPlus.SaveLoadDialog.OverwriteButton>Перезаписать</RandomPlus.SaveLoadDialog.OverwriteButton>
+  <RandomPlus.SaveLoadDialog.LoadButton>Загрузить</RandomPlus.SaveLoadDialog.LoadButton>
+  <RandomPlus.SaveLoadDialog.DeleteButton>Удалить</RandomPlus.SaveLoadDialog.DeleteButton>
+  <RandomPlus.FilterButton>Фильтр</RandomPlus.FilterButton>
+  <RandomPlus.RerollLabel>Перебросов:</RandomPlus.RerollLabel>
+  <RandomPlus.PanelSkills.Header>Минимальный уровень навыка</RandomPlus.PanelSkills.Header>
+  <RandomPlus.PanelSkills.PassionSlider>Диапазон страстей: {0} - {1}</RandomPlus.PanelSkills.PassionSlider>
+  <RandomPlus.PanelSkills.SkillSlider>Диапазон навыков: {0} - {1}</RandomPlus.PanelSkills.SkillSlider>
+  <RandomPlus.PanelSkills.CountOnlyHighestAttack>Считать только лучшую атаку:</RandomPlus.PanelSkills.CountOnlyHighestAttack>
+  <RandomPlus.PanelSkills.CountOnlyPassion>Считать только навыки со страстью:</RandomPlus.PanelSkills.CountOnlyPassion>
+  <RandomPlus.PanelTraits.Header>Фильтр черт</RandomPlus.PanelTraits.Header>
+  <RandomPlus.PanelTraits.NoTraits>Нет черт</RandomPlus.PanelTraits.NoTraits>
+  <RandomPlus.PanelTraits.AddDialog.AddButton>Добавить</RandomPlus.PanelTraits.AddDialog.AddButton>
+  <RandomPlus.PanelTraits.PoolLabel>Обязательные черты в пуле:</RandomPlus.PanelTraits.PoolLabel>
+  <RandomPlus.PanelTraits.FilterType.Required> (обяз.)</RandomPlus.PanelTraits.FilterType.Required>
+  <RandomPlus.PanelTraits.FilterType.Pool> (пул)</RandomPlus.PanelTraits.FilterType.Pool>
+  <RandomPlus.PanelTraits.FilterType.Excluded> (искл.)</RandomPlus.PanelTraits.FilterType.Excluded>
+  <RandomPlus.PanelTraits.Disabled>(Отключено)</RandomPlus.PanelTraits.Disabled>
+  <RandomPlus.PanelOthers.Header>Прочие параметры</RandomPlus.PanelOthers.Header>
+  <RandomPlus.PanelOthers.RerollAlgorithmLabel>Алгоритм переброса:</RandomPlus.PanelOthers.RerollAlgorithmLabel>
+  <RandomPlus.PanelOthers.RerollAlgorithmOptionValues.Normal>Обычный</RandomPlus.PanelOthers.RerollAlgorithmOptionValues.Normal>
+  <RandomPlus.PanelOthers.RerollAlgorithmOptionValues.Fast>Быстрый (бета)</RandomPlus.PanelOthers.RerollAlgorithmOptionValues.Fast>
+  <RandomPlus.PanelOthers.RerollLimitLabel>Лимит перебросов:</RandomPlus.PanelOthers.RerollLimitLabel>
+  <RandomPlus.PanelOthers.GenderLabel>Фильтр по полу:</RandomPlus.PanelOthers.GenderLabel>
+  <RandomPlus.PanelOthers.HealthOptionLabel>Состояния здоровья:</RandomPlus.PanelOthers.HealthOptionLabel>
+  <RandomPlus.PanelOthers.HealthOptions.AllowAll>Разрешить все</RandomPlus.PanelOthers.HealthOptions.AllowAll>
+  <RandomPlus.PanelOthers.HealthOptions.OnlyStartConditions>Только стартовые состояния</RandomPlus.PanelOthers.HealthOptions.OnlyStartConditions>
+  <RandomPlus.PanelOthers.HealthOptions.NoPain>Без боли</RandomPlus.PanelOthers.HealthOptions.NoPain>
+  <RandomPlus.PanelOthers.HealthOptions.NoAddiction>Без зависимости</RandomPlus.PanelOthers.HealthOptions.NoAddiction>
+  <RandomPlus.PanelOthers.HealthOptions.AllowNone>Не разрешать</RandomPlus.PanelOthers.HealthOptions.AllowNone>
+  <RandomPlus.PanelOthers.HealthOptions.OnlyPositiveImplants>Только положительные имплантаты</RandomPlus.PanelOthers.HealthOptions.OnlyPositiveImplants>
+  <RandomPlus.PanelOthers.IncapableOptionLabel>Неспособность:</RandomPlus.PanelOthers.IncapableOptionLabel>
+  <RandomPlus.PanelOthers.IncapableOptions.AllowAll>Разрешить все</RandomPlus.PanelOthers.IncapableOptions.AllowAll>
+  <RandomPlus.PanelOthers.IncapableOptions.NoDumbLabor>Без тупой работы</RandomPlus.PanelOthers.IncapableOptions.NoDumbLabor>
+  <RandomPlus.PanelOthers.IncapableOptions.AllowNone>Не разрешать</RandomPlus.PanelOthers.IncapableOptions.AllowNone>
+  <RandomPlus.PanelOthers.AgeLabel>Возраст: {0} - {1}</RandomPlus.PanelOthers.AgeLabel>
+  <RandomPlus.Debug.QuickStartButton>Тест[RandomPlus]</RandomPlus.Debug.QuickStartButton>
+  <RandomPlus.Dialog.Close>Закрыть</RandomPlus.Dialog.Close>
+</LanguageData>

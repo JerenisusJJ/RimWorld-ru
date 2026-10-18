@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_IndustrialGenerators.label>промышленные генераторы</VFE_IndustrialGenerators.label>
+  <VFE_IndustrialGenerators.description>Стройте генераторы промышленного класса, способные вмещать значительно больше топлива и вырабатывать больше энергии.</VFE_IndustrialGenerators.description>
+  <VFE_AdvancedBatteries.label>продвинутые батареи</VFE_AdvancedBatteries.label>
+  <VFE_AdvancedBatteries.description>Стройте батареи космического уровня, способные эффективно накапливать большое количество энергии.</VFE_AdvancedBatteries.description>
+  <VFE_AdvancedPowerSources.label>продвинутые источники энергии</VFE_AdvancedPowerSources.label>
+  <VFE_AdvancedPowerSources.description>Стройте генераторы зелёной энергии космического уровня, включая продвинутые солнечные панели и ветряки.</VFE_AdvancedPowerSources.description>
+  <VFE_NuclearPower.label>ядерная энергетика</VFE_NuclearPower.label>
+  <VFE_NuclearPower.description>Совершеннейший способ производства энергии: ядерная энергетика настолько же эффективна, насколько и смертельно опасна.</VFE_NuclearPower.description>
+  <VFE_TidalPower.label>приливная энергетика</VFE_TidalPower.label>
+  <VFE_TidalPower.description>Стройте приливные генераторы на воде, чтобы получать большое количество устойчивой зелёной энергии.</VFE_TidalPower.description>
+</LanguageData>

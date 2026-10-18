@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_Res_Obelisk.label>обелиски</VFE_Res_Obelisk.label>
+  <VFE_Res_Obelisk.description>Научитесь высекать высокие узкие обелиски в память о важных событиях.</VFE_Res_Obelisk.description>
+  <VFE_Res_Pottery.label>гончарное дело</VFE_Res_Pottery.label>
+  <VFE_Res_Pottery.description>Научитесь создавать красивые вазы и другие сосуды из простых материалов.</VFE_Res_Pottery.description>
+  <VFE_Res_WallCarvings.label>резьба</VFE_Res_WallCarvings.label>
+  <VFE_Res_WallCarvings.description>Освойте приёмы резьбы по стене, чтобы создавать красивые колонны и рельефы.</VFE_Res_WallCarvings.description>
+  <VFE_Res_ArtfulDisplay.label>художественная витрина</VFE_Res_ArtfulDisplay.label>
+  <VFE_Res_ArtfulDisplay.description>Создавайте красивые способы показать артефакты и важные ценности колонии.</VFE_Res_ArtfulDisplay.description>
+  <VFE_Res_Statues.label>статуи</VFE_Res_Statues.label>
+  <VFE_Res_Statues.description>Создавайте точные скульптуры в виде персонажей, украшенные художественными рисунками.</VFE_Res_Statues.description>
+  <VFE_Res_Monuments.label>монументы</VFE_Res_Monuments.label>
+  <VFE_Res_Monuments.description>Создавайте огромные монументы - центральные украшения колонии, - чтобы почтить память ушедших и вдохновить тех, кто всё ещё борется.</VFE_Res_Monuments.description>
+  <VFE_Res_Rugs.label>ковры</VFE_Res_Rugs.label>
+  <VFE_Res_Rugs.description>Научитесь создавать красивые ковры для украшения колонии.</VFE_Res_Rugs.description>
+  <VFE_Res_Wallpapers.label>обои</VFE_Res_Wallpapers.label>
+  <VFE_Res_Wallpapers.description>Стройте красивые стены, оклеенные обоями нужного вам цвета.</VFE_Res_Wallpapers.description>
+  <VFE_Res_Holograms.label>голограммы</VFE_Res_Holograms.label>
+  <VFE_Res_Holograms.description>Приспособьте продвинутые технологии отображения, чтобы демонстрировать трёхмерные модели по всей колонии.</VFE_Res_Holograms.description>
+</LanguageData>

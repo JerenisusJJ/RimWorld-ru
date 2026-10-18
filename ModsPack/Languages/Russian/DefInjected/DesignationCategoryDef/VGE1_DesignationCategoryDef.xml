@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_Platform.label>платформа</VGE_Platform.label>
+  <VGE_Platform.description>Управление основными функциями гравикорабля.</VGE_Platform.description>
+  <VGE_Vacuum.label>вакуум</VGE_Vacuum.label>
+  <VGE_Vacuum.description>Управление вакуумными системами гравикорабля.</VGE_Vacuum.description>
+  <VGE_Fuel.label>топливо</VGE_Fuel.label>
+  <VGE_Fuel.description>Управление топливом на гравикорабле.</VGE_Fuel.description>
+  <VGE_Combat.label>боевые системы</VGE_Combat.label>
+  <VGE_Combat.description>Управление вооружением на гравикорабле.</VGE_Combat.description>
+</LanguageData>

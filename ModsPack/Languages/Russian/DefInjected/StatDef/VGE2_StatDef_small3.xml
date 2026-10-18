@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_OxygenJumpRange.label>Дальность прыжка</VGE_OxygenJumpRange.label>
+  <VGE_OxygenJumpRange.description>Максимальная дальность прыжка.</VGE_OxygenJumpRange.description>
+  <VGE_OxygenJumpRange.formatString>{0} кл.</VGE_OxygenJumpRange.formatString>
+  <VGE_GravshipVisibilityFactor.label>множитель заметности гравикорабля</VGE_GravshipVisibilityFactor.label>
+  <VGE_GravshipVisibilityFactor.description>Множитель заметности, создаваемой гравикораблём.</VGE_GravshipVisibilityFactor.description>
+  <VGE_GravshipLaunchVisibilityOffset.label>сдвиг заметности при запуске гравикорабля</VGE_GravshipLaunchVisibilityOffset.label>
+  <VGE_GravshipLaunchVisibilityOffset.description>Сдвиг заметности, создаваемой запуском гравикорабля.</VGE_GravshipLaunchVisibilityOffset.description>
+</LanguageData>

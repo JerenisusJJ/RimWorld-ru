@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_IceAsteroid.label>ледяной астероид</VGE_IceAsteroid.label>
+  <VGE_AsteroidCluster.label>астероидное скопление</VGE_AsteroidCluster.label>
+  <VGE_AsteroidField.label>астероидное поле</VGE_AsteroidField.label>
+  <VGE_PorousAsteroid.label>пористый астероид</VGE_PorousAsteroid.label>
+  <VGE_GiantAsteroid.label>гигантский астероид</VGE_GiantAsteroid.label>
+  <VGE_ShatteredAsteroid.label>расколотый астероид</VGE_ShatteredAsteroid.label>
+  <VGE_DenseAsteroid.label>плотный астероид</VGE_DenseAsteroid.label>
+  <VGE_SmallAsteroid.label>малый астероид</VGE_SmallAsteroid.label>
+  <VGE_AsteroidWithRuins.label>астероид с руинами</VGE_AsteroidWithRuins.label>
+  <VGE_DerelictStation.label>брошенная станция</VGE_DerelictStation.label>
+  <VGE_CoreAsteroidMiningSite.label>астероид с ядром</VGE_CoreAsteroidMiningSite.label>
+  <VGE_GravshipGeneration.label>временная карта</VGE_GravshipGeneration.label>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Query_IsMechanitor.label>является механитором</Query_IsMechanitor.label>
+  <Query_IsWorkMech.label>является рабочим механоидом</Query_IsWorkMech.label>
+  <Query_MechEnergy.label>энергия механоида</Query_MechEnergy.label>
+  <Query_Xenogerm.label>нет ксеногенов</Query_Xenogerm.label>
+  <Query_MarketValue.label>рыночная стоимость</Query_MarketValue.label>
+</LanguageData>

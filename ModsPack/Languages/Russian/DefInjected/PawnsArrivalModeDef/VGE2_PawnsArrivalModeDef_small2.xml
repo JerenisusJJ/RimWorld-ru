@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_SalvagerDropshipRaid.textEnemy>Группа {0} из {1} прибыла для тактической атаки! Десантный корабль утилизаторов обстрелял зону высадки из ракетных установок «Рой», высадил ударный отряд и тут же улетел.</VGE_SalvagerDropshipRaid.textEnemy>
+  <VGE_SalvagerDropshipRaid.textFriendly>Группа дружественных {0} из {1} прибыла для тактического штурма! Их десантный корабль утилизаторов расчистил зону высадки ракетными установками «Рой», высадил отряд и улетел.</VGE_SalvagerDropshipRaid.textFriendly>
+  <VGE_SalvagerDropshipRaid.textWillArrive>Группа {0} из {1} скоро прибудет для тактической атаки. Десантный корабль утилизаторов обстреляет зону высадки из ракетных установок «Рой», высадит отряд и улетит.</VGE_SalvagerDropshipRaid.textWillArrive>
+</LanguageData>

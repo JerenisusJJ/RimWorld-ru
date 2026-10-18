@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QualityBuilder.ExcludeMechs>Механоиды никогда не выполняют умелые постройки</QualityBuilder.ExcludeMechs>
+  <QualityBuilder.ExcludeMechsTooltip>Механоиды исключаются из расчёта навыка лучшего строителя и не могут брать строительство с назначенным качеством. Приказы, приоритизированные вручную (принудительные), всё равно работают. Полезно, если нужно тренировать навык строительства колонистов на качественных постройках, а не отдавать их механам.</QualityBuilder.ExcludeMechsTooltip>
+  <QualityBuilder.DefaultSettingsActive>Настройки по умолчанию активны</QualityBuilder.DefaultSettingsActive>
+  <QualityBuilder.DefaultSettingsInactive>Настройки по умолчанию неактивны</QualityBuilder.DefaultSettingsInactive>
+  <QualityBuilder.DefaultSettingsActiveNote>Эта карта использует приведённые ниже настройки по умолчанию. Отметьте «Использовать эти настройки карты» на странице текущей карты, чтобы у неё были свои независимые настройки.</QualityBuilder.DefaultSettingsActiveNote>
+  <QualityBuilder.DefaultSettingsInactiveNote>Эта карта использует собственные настройки, поэтому изменения на странице настроек по умолчанию на неё не влияют. Снимите отметку «Использовать эти настройки карты», чтобы вернуть управление.</QualityBuilder.DefaultSettingsInactiveNote>
+  <QualityBuilder.DefaultSettingsNoMapNote>Колония не загружена, поэтому сейчас существуют только настройки по умолчанию. После загрузки колонии любую карту можно переключить на собственные независимые настройки.</QualityBuilder.DefaultSettingsNoMapNote>
+  <QualityBuilder.GizmoOnBlueprintsOnly>Показывать значок качества только на чертежах/каркасах</QualityBuilder.GizmoOnBlueprintsOnly>
+  <QualityBuilder.GizmoOnBlueprintsOnlyTooltip>Скрывает кнопку QualityBuilder и её меню качества по правому клику на готовых постройках, возвращая прежнее поведение. Чертежи и каркасы в процессе постройки не затрагиваются. Существующие назначения и циклы перестройки продолжают работать.</QualityBuilder.GizmoOnBlueprintsOnlyTooltip>
+</LanguageData>

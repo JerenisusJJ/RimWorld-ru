@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <INI.Name>Улучшенный индикатор потребностей</INI.Name>
+  <INI.ShowDetails>Удерживайте Ctrl для подробностей</INI.ShowDetails>
+  <INI.Max>макс.: {0}</INI.Max>
+  <INI.Neutral>{0} до нейтрального состояния</INI.Neutral>
+  <INI.Beauty.Gorgeous>{0} до великолепной обстановки</INI.Beauty.Gorgeous>
+  <INI.Beauty.Beautiful>{0} до красивой обстановки</INI.Beauty.Beautiful>
+  <INI.Beauty.Pretty>{0} до симпатичной обстановки</INI.Beauty.Pretty>
+  <INI.Beauty.Unsightly>{0} до неприглядной обстановки</INI.Beauty.Unsightly>
+  <INI.Beauty.Ugly>{0} до уродливой обстановки</INI.Beauty.Ugly>
+  <INI.Beauty.Hideous>{0} до отвратительной обстановки</INI.Beauty.Hideous>
+  <INI.Comfort.LuxuriantlyComfortable>{0} до роскошного комфорта</INI.Comfort.LuxuriantlyComfortable>
+  <INI.Comfort.ExtremelyComfortable>{0} до чрезвычайного комфорта</INI.Comfort.ExtremelyComfortable>
+  <INI.Comfort.VeryComfortable>{0} до очень комфортного состояния</INI.Comfort.VeryComfortable>
+  <INI.Comfort.Comfortable>{0} до комфортного состояния</INI.Comfort.Comfortable>
+  <INI.Comfort.Uncomfortable>{0} до некомфортного состояния</INI.Comfort.Uncomfortable>
+  <INI.Food.Fed>{0} до сытости</INI.Food.Fed>
+  <INI.Food.Hungry>{0} до голода</INI.Food.Hungry>
+  <INI.Food.Ravenous>{0} до жестокого голода</INI.Food.Ravenous>
+  <INI.Food.Malnourished>{0} до истощения</INI.Food.Malnourished>
+  <INI.Indoors.JustOutdoors>{0} до нахождения на улице совсем недолго</INI.Indoors.JustOutdoors>
+  <INI.Indoors.Outdoors>{0} до нахождения на улице</INI.Indoors.Outdoors>
+  <INI.Indoors.LongOutdoors>{0} до долгого пребывания на улице</INI.Indoors.LongOutdoors>
+  <INI.Indoors.VeryLongOutdoors>{0} до очень долгого пребывания на улице</INI.Indoors.VeryLongOutdoors>
+  <INI.Indoors.BrutalOutdoors>{0} до жестоко долгого пребывания на улице</INI.Indoors.BrutalOutdoors>
+  <INI.Joy.FullySatisfied>{0} до полного удовлетворения</INI.Joy.FullySatisfied>
+  <INI.Joy.Satisfied>{0} до удовлетворения</INI.Joy.Satisfied>
+  <INI.Joy.Unfulfilled>{0} до неудовлетворённости</INI.Joy.Unfulfilled>
+  <INI.Joy.Deprived>{0} до лишённости</INI.Joy.Deprived>
+  <INI.Joy.Starved>{0} до острой нехватки</INI.Joy.Starved>
+  <INI.Mood.Content>{0} до довольства</INI.Mood.Content>
+  <INI.Mood.Minor>{0} до риска слабого срыва</INI.Mood.Minor>
+  <INI.Mood.Major>{0} до риска сильного срыва</INI.Mood.Major>
+  <INI.Mood.Extreme>{0} до риска экстремального срыва</INI.Mood.Extreme>
+  <INI.Outdoors.StuckIndoors>{0} до заточения в помещении</INI.Outdoors.StuckIndoors>
+  <INI.Outdoors.TrappedIndoors>{0} до заточения в помещении (взаперти)</INI.Outdoors.TrappedIndoors>
+  <INI.Outdoors.CabinFever>{0} до клаустрофобии</INI.Outdoors.CabinFever>
+  <INI.Outdoors.TrappedUnderground>{0} до заточения под землёй</INI.Outdoors.TrappedUnderground>
+  <INI.Outdoors.EntombedUnderground>{0} до погребения под землёй</INI.Outdoors.EntombedUnderground>
+  <INI.Rest.Rested>{0} до отдохнувшего состояния</INI.Rest.Rested>
+  <INI.Rest.Drowsy>{0} до сонливости</INI.Rest.Drowsy>
+  <INI.Rest.Tired>{0} до усталости</INI.Rest.Tired>
+  <INI.Rest.Exhausted>{0} до истощения сил</INI.Rest.Exhausted>
+  <INI.Rest.MaxRestNeeded>максимум нужного отдыха: {0}</INI.Rest.MaxRestNeeded>
+</LanguageData>

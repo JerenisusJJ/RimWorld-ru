@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_ExowormInfestation.label>заражение экзочервём</VGE_ExowormInfestation.label>
+  <VGE_NoPain.label>нечувствительность к боли</VGE_NoPain.label>
+  <VGE_NoPain.description>Это существо менее чувствительно к боли, и ему требуется больше времени, чтобы свалиться от болевого шока.</VGE_NoPain.description>
+  <VGE_ExowormInfestation.description>Паразитические личинки экзочервя, которые вгрызаются в плоть и растут в ней. По мере взросления червь будет пожирать окружающие ткани и вызывать сильнейшую боль. Без агрессивного лечения и сильного иммунного ответа червь в конце концов прорвётся наружу из поражённой части тела.</VGE_ExowormInfestation.description>
+  <VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterLabel>Вынашивание экзочервя: {0}</VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterText>{0} заражён личинкой экзочервя. Необходима немедленная и постоянная медицинская помощь, иначе червь в конце концов выберется наружу.</VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterText>
+  <VGE_ExowormInfestation.stages.minor-0.label>незначительное</VGE_ExowormInfestation.stages.minor-0.label>
+  <VGE_ExowormInfestation.stages.minor-1.label>незначительное</VGE_ExowormInfestation.stages.minor-1.label>
+  <VGE_ExowormInfestation.stages.wriggling.label>шевелящееся</VGE_ExowormInfestation.stages.wriggling.label>
+  <VGE_ExowormInfestation.stages.bulging.label>вздувшееся</VGE_ExowormInfestation.stages.bulging.label>
+  <VGE_ExowormInfestation.stages.erupting.label>прорывающееся</VGE_ExowormInfestation.stages.erupting.label>
+  <VFEI2_ExtremeRegeneration.label>экстремальная регенерация</VFEI2_ExtremeRegeneration.label>
+  <VFEI2_ExtremeRegeneration.description>Это существо способно мгновенно регенерировать любые раны. Воздействие огня временно останавливает способность к регенерации.</VFEI2_ExtremeRegeneration.description>
+  <VFEI2_ExtremeRegeneration_Inactive.label>экстремальная регенерация (неактивна)</VFEI2_ExtremeRegeneration_Inactive.label>
+  <VFEI2_ExtremeRegeneration_Inactive.description>Это существо способно мгновенно регенерировать любые раны. Воздействие огня временно останавливает способность к регенерации.</VFEI2_ExtremeRegeneration_Inactive.description>
+</LanguageData>

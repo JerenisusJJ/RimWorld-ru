@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings.0>questDescription-&gt; [discoveryMethod] местоположение астероида с твёрдым ядром, вращающегося вокруг планеты. Его оболочка состоит из плотного вакуумита, но внутри лежит ядро из ресурса «[resource]», ожидающее добычи.\n\nТакие астероиды обычно остаются в глубоком космосе, но этот сместился на низкую орбиту. Это лишь вопрос времени, когда его присвоит кто-нибудь другой.\n\nДобраться до астероида можно на транспортных капсулах, челноках или гравикорабле. Перед вылетом снабдите колонистов достаточным количеством орбитальной одежды.</VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings.0>
+  <VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings.0>questName-&gt;Астероид с твёрдым ядром: [resource]</VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings.0>
+  <VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Вы обнаружили</VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+</LanguageData>

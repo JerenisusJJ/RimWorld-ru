@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: odyssey -->
+	<Category_Odyssey.label>odyssey</Category_Odyssey.label>
+	<!-- EN: biotech -->
+	<Category_Biotech.label>biotech</Category_Biotech.label>
+	<!-- EN: ideoligion -->
+	<Category_IdeoPawn.label>ideoligion</Category_IdeoPawn.label>
+	<!-- EN: royalty -->
+	<Category_Royal.label>royalty</Category_Royal.label>
+	<!-- EN: personal details -->
+	<Category_PawnProp.label>personal details</Category_PawnProp.label>
+	<!-- EN: statistics -->
+	<Category_PawnStats.label>statistics</Category_PawnStats.label>
+	<!-- EN: status -->
+	<Category_PawnStatus.label>status</Category_PawnStatus.label>
+	<!-- EN: guests -->
+	<Category_PawnGuest.label>guests</Category_PawnGuest.label>
+	<!-- EN: assign -->
+	<Category_PawnAssign.label>assign</Category_PawnAssign.label>
+	<!-- EN: animal details -->
+	<Category_AnimalProp.label>animal details</Category_AnimalProp.label>
+	<!-- EN: item info -->
+	<Category_ItemInfo.label>item info</Category_ItemInfo.label>
+	<!-- EN: building info -->
+	<Category_BuildingInfo.label>building info</Category_BuildingInfo.label>
+	<!-- EN: plants and food -->
+	<Category_Plants.label>plants and food</Category_Plants.label>
+	<!-- EN: location -->
+	<Category_Location.label>location</Category_Location.label>
+	<!-- EN: Expansion/Mod -->
+	<Category_Mod.label>Expansion/Mod</Category_Mod.label>
+	<!-- EN: Dev/Cheat options -->
+	<Category_devmode.label>Dev/Cheat options</Category_devmode.label>
+</LanguageData>

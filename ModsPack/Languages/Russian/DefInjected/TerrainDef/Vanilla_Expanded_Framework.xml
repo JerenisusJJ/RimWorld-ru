@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_NullTerrain.label>пустая местность</VEF_NullTerrain.label>
+  <VEF_PrefabBorderWhite.label>граница сборной конструкции (белая)</VEF_PrefabBorderWhite.label>
+  <VEF_PrefabBorderRed.label>граница сборной конструкции (красная)</VEF_PrefabBorderRed.label>
+  <VEF_PrefabBorderGreen.label>граница сборной конструкции (зелёная)</VEF_PrefabBorderGreen.label>
+  <VEF_PrefabBorderBlue.label>граница сборной конструкции (синяя)</VEF_PrefabBorderBlue.label>
+  <VEF_PrefabBorderYellow.label>граница сборной конструкции (жёлтая)</VEF_PrefabBorderYellow.label>
+</LanguageData>

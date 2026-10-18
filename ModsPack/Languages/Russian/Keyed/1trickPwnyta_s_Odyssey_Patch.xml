@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OdysseyPatch_SpaceTravel>Космические путешествия</OdysseyPatch_SpaceTravel>
+  <OdysseyPatch_Fishing>Рыбалка</OdysseyPatch_Fishing>
+  <OdysseyPatch_OutfitStands>Манекены и статуи</OdysseyPatch_OutfitStands>
+  <OdysseyPatch_Misc>Прочее</OdysseyPatch_Misc>
+  <OdysseyPatch_OutfitStandGroupsInBills>Разрешить искать и таскать в группы манекенов в заказах</OdysseyPatch_OutfitStandGroupsInBills>
+  <OdysseyPatch_OutfitStandBodyType>Тип телосложения манекена настраивается</OdysseyPatch_OutfitStandBodyType>
+  <OdysseyPatch_FishingZoneCopy>Настройки зоны рыбалки можно копировать и вставлять</OdysseyPatch_FishingZoneCopy>
+  <OdysseyPatch_AllowRemovingItemsFromOutfitStand>По умолчанию разрешать снимать предметы с манекенов</OdysseyPatch_AllowRemovingItemsFromOutfitStand>
+  <OdysseyPatch_WorldSearchEmptyTiles>Разрешить полный поиск по миру, охватывающий все клетки мира</OdysseyPatch_WorldSearchEmptyTiles>
+  <OdysseyPatch_SubstructureOverlayOptions>Разрешить всегда показывать наложение подконструкции</OdysseyPatch_SubstructureOverlayOptions>
+  <OdysseyPatch_FloorsBlockedByHulls>Полы можно ошибочно построить под корпусами гравикорабля</OdysseyPatch_FloorsBlockedByHulls>
+  <OdysseyPatch_FishingInterruptions>Не давать существам рыбачить до голодной смерти/истощения</OdysseyPatch_FishingInterruptions>
+  <OdysseyPatch_SilhouettesHiddenByGravshipLanding>Точки-подсветки существ ошибочно видны во время роликов гравикорабля</OdysseyPatch_SilhouettesHiddenByGravshipLanding>
+  <OdysseyPatch_AllowRemovingItemsFromOutfitStandAfterEquipping>Не отключать разрешение снимать предметы с манекенов при приказе существу надеть наряд</OdysseyPatch_AllowRemovingItemsFromOutfitStandAfterEquipping>
+  <OdysseyPatch_ShuttleFood>Существа могут брать еду, лекарства и препараты из припаркованного шаттла, как из вьючных животных</OdysseyPatch_ShuttleFood>
+  <OdysseyPatch_GravshipCutsceneOptions>Разрешить пропускать ролики гравикорабля клавишей Enter</OdysseyPatch_GravshipCutsceneOptions>
+  <OdysseyPatch_FlickSwitchesAfterLanding>После посадки гравикорабля электрические объекты, назначенные ранее на переключение питания, переходят в ошибочное состояние</OdysseyPatch_FlickSwitchesAfterLanding>
+  <OdysseyPatch_DeathrestingPawnsTuckedInAfterLanding>После посадки гравикорабля существа в смертельном сне ошибочно вылетают из кроватей</OdysseyPatch_DeathrestingPawnsTuckedInAfterLanding>
+  <OdysseyPatch_BiomeDangerWarningSuppressed>Отключить предупреждения при основании поселения на орбите или в «опасных» биомах</OdysseyPatch_BiomeDangerWarningSuppressed>
+  <OdysseyPatch_OutfitStandsIgnoreStoredThingsBeauty>Не учитывать уродство предметов на манекенах (положительная красота по-прежнему учитывается)</OdysseyPatch_OutfitStandsIgnoreStoredThingsBeauty>
+  <OdysseyPatch_FishingMishapsLessIntrusive>Уведомления о неудачных исходах рыбалки менее навязчивы</OdysseyPatch_FishingMishapsLessIntrusive>
+  <OdysseyPatch_ShuttleSavingError>Сохранение с ещё не использованным шаттлом вызывает ошибку</OdysseyPatch_ShuttleSavingError>
+  <OdysseyPatch_ShuttleBlockedByLess>Шаттл можно припарковать везде, где можно поставить чертёж нового шаттла</OdysseyPatch_ShuttleBlockedByLess>
+  <OdysseyPatch_StatuesDontHaveHeadgear>Разрешить скрывать головные уборы статуй</OdysseyPatch_StatuesDontHaveHeadgear>
+  <OdysseyPatch_StatueConsistency>Статуи могут ошибочно загружаться с другими доминантными генами</OdysseyPatch_StatueConsistency>
+  <OdysseyPatch_FilthMultiplierFixForSubstructure>Множитель грязи подконструкции ошибочно переопределяет множитель грязи пола сверху</OdysseyPatch_FilthMultiplierFixForSubstructure>
+  <OdysseyPatch_ShowRemainingSubstructureCapacity>Показывать оставшуюся ёмкость подконструкции в панели осмотра гравидвигателя</OdysseyPatch_ShowRemainingSubstructureCapacity>
+  <OdysseyPatch_GravshipShieldGeneratorRadiusDisplay>Показывать радиус генератора щита гравикорабля при размещении даже в недопустимых местах</OdysseyPatch_GravshipShieldGeneratorRadiusDisplay>
+  <OdysseyPatch_VacuumIntensityRoomStat>Показывать интенсивность вакуума в характеристиках помещения</OdysseyPatch_VacuumIntensityRoomStat>
+  <OdysseyPatch_GravshipBuildRadiusSeparate>Подсвечивать радиус строительства выбранного компонента гравикорабля</OdysseyPatch_GravshipBuildRadiusSeparate>
+  <OdysseyPatch_BugFix>Исправление ошибки</OdysseyPatch_BugFix>
+  <OdysseyPatch_RestartRequired>(требуется перезапуск)</OdysseyPatch_RestartRequired>
+  <OdysseyPatch_BodyType>Тип телосложения: {0}</OdysseyPatch_BodyType>
+  <OdysseyPatch_BodyTypeDesc>Щёлкните, чтобы сменить модель этого манекена на другой тип телосложения.</OdysseyPatch_BodyTypeDesc>
+  <OdysseyPatch_FishingZoneCopyDesc>Копирует настройки этой зоны рыбалки в буфер обмена, чтобы вставить их в другую зону рыбалки.</OdysseyPatch_FishingZoneCopyDesc>
+  <OdysseyPatch_FishingZonePasteDesc>Перезаписывает настройки этой зоны рыбалки настройками, ранее скопированными в буфер обмена.</OdysseyPatch_FishingZonePasteDesc>
+  <OdysseyPatch_FullSearch>Полный поиск</OdysseyPatch_FullSearch>
+  <OdysseyPatch_InitializingSearchSet>Подготовка набора для поиска</OdysseyPatch_InitializingSearchSet>
+  <OdysseyPatch_Always>Всегда</OdysseyPatch_Always>
+  <OdysseyPatch_WhenSelected>При выборе</OdysseyPatch_WhenSelected>
+  <OdysseyPatch_Never>Никогда</OdysseyPatch_Never>
+  <OdysseyPatch_AllowGrabbingSupplies>Разрешить брать припасы</OdysseyPatch_AllowGrabbingSupplies>
+  <OdysseyPatch_AllowGrabbingSuppliesDesc>Если включено, существа могут свободно брать еду, лекарства и препараты из этого шаттла по мере необходимости.</OdysseyPatch_AllowGrabbingSuppliesDesc>
+  <OdysseyPatch_ShowHeadgear>Показывать головной убор</OdysseyPatch_ShowHeadgear>
+  <OdysseyPatch_Remaining>осталось</OdysseyPatch_Remaining>
+</LanguageData>

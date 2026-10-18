@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_Res_AdvancedHydroponics.label>искусственные экосистемы</VFE_Res_AdvancedHydroponics.label>
+  <VFE_Res_AdvancedHydroponics.description>Научитесь строить искусственные экосистемы - сверхпродвинутые террариумы, намного превосходящие гидропонику.</VFE_Res_AdvancedHydroponics.description>
+  <VFE_Res_Sprinkler.label>спринклеры</VFE_Res_Sprinkler.label>
+  <VFE_Res_Sprinkler.description>Соберите схемы устройства, которое умеет автоматически поливать поля и ускоряет рост посевов.</VFE_Res_Sprinkler.description>
+  <VFE_Res_FarmingTechniques.label>методы земледелия</VFE_Res_FarmingTechniques.label>
+  <VFE_Res_FarmingTechniques.description>Разработайте теоретическую базу для крупномасштабного земледелия, включая централизованное кормление и специальные пугала, чтобы ваш урожай не съели.</VFE_Res_FarmingTechniques.description>
+</LanguageData>

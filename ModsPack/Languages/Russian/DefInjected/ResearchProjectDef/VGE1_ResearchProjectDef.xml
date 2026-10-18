@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_GravshipWeaponry.label>вооружение гравикорабля</VGE_GravshipWeaponry.label>
+  <VGE_GravshipWeaponry.description>Постройте артиллерию гравикорабля и турели точечной обороны, чтобы сражаться с другими кораблями на орбите или обстреливать цели с неба.</VGE_GravshipWeaponry.description>
+  <VGE_CompactWorkspaces.label>компактные рабочие места</VGE_CompactWorkspaces.label>
+  <VGE_CompactWorkspaces.description>Открывает уменьшенные варианты верстаков, предназначенные для гравикораблей. Они достаточно компактны, чтобы поместиться в тесных помещениях, и при этом сохраняют основные функции.</VGE_CompactWorkspaces.description>
+  <VGE_OxygenNetwork.label>кислородная сеть</VGE_OxygenNetwork.label>
+  <VGE_OxygenNetwork.description>Добывайте и храните кислород для использования на гравикораблях. Открывает строительство скафандров и другого снаряжения для выживания, необходимого для работы в вакууме.</VGE_OxygenNetwork.description>
+  <VGE_AstrofuelRefining.label>переработка астротоплива</VGE_AstrofuelRefining.label>
+  <VGE_AstrofuelRefining.description>Постройте синтезаторы астротоплива, которые автоматически превращают химическое топливо в астротопливо для гравикорабля.</VGE_AstrofuelRefining.description>
+  <VGE_GravshipPower.label>энергия гравикорабля</VGE_GravshipPower.label>
+  <VGE_GravshipPower.description>Постройте солнечные панели для гравикорабля, энергоячейки на гравиядре и генераторы на астротопливе, чтобы снабжать энергией системы гравикорабля.</VGE_GravshipPower.description>
+  <VGE_HeatDissipation.label>рассеивание тепла</VGE_HeatDissipation.label>
+  <VGE_HeatDissipation.description>Улавливайте конструкционное тепло, выделяющееся при запуске гравикорабля, и безопасно рассеивайте его. Избыток тепла можно преобразовать в полезную энергию. Вместимость теплоотвода и выработка энергии увеличиваются.</VGE_HeatDissipation.description>
+  <VGE_GravshipLiving.label>быт на гравикорабле</VGE_GravshipLiving.label>
+  <VGE_GravshipLiving.description>Стройте мебель, предназначенную только для гравикораблей, — двухъярусные кровати, шкафчики и койки для лазарета, — чтобы экипаж мог жить с комфортом и работать в долгих рейсах.</VGE_GravshipLiving.description>
+</LanguageData>

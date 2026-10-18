@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_FormKnot.reportString>формирует клубок.</VGE_FormKnot.reportString>
+  <VGE_OperateEnemyTerminal.reportString>работает с целеуказательным терминалом.</VGE_OperateEnemyTerminal.reportString>
+  <VGE_EscapePod_Enter.reportString>залезает в спасательную капсулу.</VGE_EscapePod_Enter.reportString>
+  <VGE_EscapePod_InsertPawn.reportString>несёт TargetB в спасательную капсулу.</VGE_EscapePod_InsertPawn.reportString>
+  <VGE_EscapePod_InsertPawnDrafted.reportString>несёт TargetB в спасательную капсулу.</VGE_EscapePod_InsertPawnDrafted.reportString>
+  <VGE_SpacePrisonEscape_UseEscapePod.reportString>залезает в спасательную капсулу.</VGE_SpacePrisonEscape_UseEscapePod.reportString>
+  <VGE_CallSalvagerStation.reportString>вызывает станцию спасателей.</VGE_CallSalvagerStation.reportString>
+</LanguageData>

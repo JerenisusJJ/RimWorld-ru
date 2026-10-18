@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFES_TrenchTerrain.label>в траншее</VFES_TrenchTerrain.label>
+  <VFES_TrenchTerrain.description>Этот человек стоит в траншее или другом оборонительном сооружении.</VFES_TrenchTerrain.description>
+  <VFES_PlatformTerrain.label>на платформе</VFES_PlatformTerrain.label>
+  <VFES_PlatformTerrain.description>Этот человек стоит на платформе или другом сооружении.</VFES_PlatformTerrain.description>
+  <VFES_Dazzled.label>ослеплён</VFES_Dazzled.label>
+  <VFES_Dazzled.description>Сильное ухудшение зрения из-за чрезмерного воздействия света.</VFES_Dazzled.description>
+  <VFES_Dazzled.labelNoun>ослеплённый глаз</VFES_Dazzled.labelNoun>
+</LanguageData>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Query_IsUnique.label>уникальный</Query_IsUnique.label>
+  <Query_GravshipFuel.label>топливо гравикорабля, %</Query_GravshipFuel.label>
+  <Query_GravshipCapacity.label>вместимость гравикорабля, %</Query_GravshipCapacity.label>
+  <Query_GravshipIsOnCooldown.label>гравикорабль на перезарядке</Query_GravshipIsOnCooldown.label>
+  <Query_MechanitorBandwidth.label>пропускная способность механитора</Query_MechanitorBandwidth.label>
+  <Query_MechOverseer.label>управляемый мех / надзиратель</Query_MechOverseer.label>
+  <Query_MechWeightClass.label>весовой класс механоида</Query_MechWeightClass.label>
+  <Query_MechBandwidthCost.label>затраты пропускной способности механоида</Query_MechBandwidthCost.label>
+  <Query_MechWorkMode.label>рабочий режим механоида</Query_MechWorkMode.label>
+  <Query_MechUncontrolled.label>неуправляемый механоид</Query_MechUncontrolled.label>
+  <Query_Xenotype.label>ксенотип</Query_Xenotype.label>
+  <Query_Gene.label>ген</Query_Gene.label>
+  <Query_Style.label>стиль</Query_Style.label>
+  <Query_Ideoligion.label>идеолигия</Query_Ideoligion.label>
+  <Query_Meme.label>в идеолигии есть мем</Query_Meme.label>
+  <Query_Precept.label>в идеолигии есть завет</Query_Precept.label>
+  <Query_Role.label>роль в идеолигии</Query_Role.label>
+  <Query_IdeoXenotype.label>предпочитаемый ксенотип</Query_IdeoXenotype.label>
+  <Query_VeneratedAnimal.label>почитаемое животное</Query_VeneratedAnimal.label>
+  <Query_WeaponClass.label>класс оружия</Query_WeaponClass.label>
+  <Query_WeaponClass.tooltip>Класс оружия, предпочитаемого идеолигией</Query_WeaponClass.tooltip>
+  <Query_WeaponDisposition.label>предпочтение оружия</Query_WeaponDisposition.label>
+  <Query_WeaponDisposition.tooltip>Предпочитается ли оружие вашей идеолигией, идеолигией его владельца или же человек держит оружие, предпочитаемое его идеолигией</Query_WeaponDisposition.tooltip>
+  <Query_Gauranlen.label>гауранленовое дерево</Query_Gauranlen.label>
+  <Query_Royalty_Title.label>есть королевский титул</Query_Royalty_Title.label>
+  <Query_Royalty_TitleRange.label>диапазон королевских титулов</Query_Royalty_TitleRange.label>
+  <Query_Royalty_TitleRequirement.label>невыполненное королевское требование</Query_Royalty_TitleRequirement.label>
+  <Query_Royalty_Honor.label>честь</Query_Royalty_Honor.label>
+  <Query_Royalty_Permit.label>разрешение</Query_Royalty_Permit.label>
+  <Query_Royalty_PermitPoints.label>очки разрешений</Query_Royalty_PermitPoints.label>
+  <Query_Royalty_Psyfocus.label>псифокус</Query_Royalty_Psyfocus.label>
+  <Query_Royalty_Entropy.label>нейронный жар</Query_Royalty_Entropy.label>
+  <Query_Name.label>поиск по названию</Query_Name.label>
+  <Query_Def.label>конкретный объект</Query_Def.label>
+  <Query_Category.label>общая категория</Query_Category.label>
+  <Query_Stat.label>параметр</Query_Stat.label>
+  <Query_PawnProperty.label>общее</Query_PawnProperty.label>
+  <Query_PawnDying.label>умирает через</Query_PawnDying.label>
+  <Query_Skill.label>навык</Query_Skill.label>
+  <Query_Trait.label>черта</Query_Trait.label>
+  <Query_Thought.label>мысль</Query_Thought.label>
+  <Query_Need.label>потребность</Query_Need.label>
+  <Query_Health.label>состояние здоровья</Query_Health.label>
+  <Query_Capacity.label>способность</Query_Capacity.label>
+  <Query_MentalState.label>психическое состояние</Query_MentalState.label>
+  <Query_ComfyTemp.label>комфорт при температуре</Query_ComfyTemp.label>
+  <Query_Incapable.label>неспособен</Query_Incapable.label>
+  <Query_AreaRestriction.label>ограничение зоны</Query_AreaRestriction.label>
+  <Query_Equipment.label>снаряжение</Query_Equipment.label>
+  <Query_Ability.label>умение</Query_Ability.label>
+  <Query_Drafted.label>призван</Query_Drafted.label>
+  <Query_Job.label>текущее действие</Query_Job.label>
+  <Query_Schedule.label>расписание</Query_Schedule.label>
+  <Query_Inspiration.label>вдохновение</Query_Inspiration.label>
+  <Query_Guest.label>статус гостя</Query_Guest.label>
+  <Query_Prisoner.label>заключённый</Query_Prisoner.label>
+  <Query_Quest.label>статус задания</Query_Quest.label>
+  <Query_Work.label>работа включена</Query_Work.label>
+  <Query_AssignOutfit.label>политика одежды</Query_AssignOutfit.label>
+  <Query_AssignFood.label>ограничение питания</Query_AssignFood.label>
+  <Query_AssignDrug.label>политика препаратов</Query_AssignDrug.label>
+  <Query_AssignOutfitThing.label>разрешено политикой одежды</Query_AssignOutfitThing.label>
+  <Query_AssignFoodThing.label>разрешено ограничением питания</Query_AssignFoodThing.label>
+  <Query_KeepInInventory.label>держать в инвентаре</Query_KeepInInventory.label>
+  <Query_AssignDrugThing.label>разрешено политикой препаратов</Query_AssignDrugThing.label>
+  <Query_ThingQueryDevelopmentalStage.label>возрастная группа</Query_ThingQueryDevelopmentalStage.label>
+  <Query_ThingQueryAge.label>возраст</Query_ThingQueryAge.label>
+  <Query_ThingQueryRelation.label>отношения</Query_ThingQueryRelation.label>
+  <Query_RecordTime.label>показатель (время)</Query_RecordTime.label>
+  <Query_Gender.label>пол</Query_Gender.label>
+  <Query_MissingBodyPart.label>отсутствующая часть тела</Query_MissingBodyPart.label>
+  <Query_RaceProps.label>раса</Query_RaceProps.label>
+  <Query_Meat.label>мясо</Query_Meat.label>
+  <Query_Leather.label>кожа</Query_Leather.label>
+  <Query_Egg.label>яиц в год</Query_Egg.label>
+  <Query_Milk.label>молока в год</Query_Milk.label>
+  <Query_Wool.label>шерсти в год</Query_Wool.label>
+  <Query_ProductProgress.label>прогресс</Query_ProductProgress.label>
+  <Query_Trained.label>обучено</Query_Trained.label>
+  <Query_Bonded.label>связано узами</Query_Bonded.label>
+  <Query_ItemCategory.label>категория предмета</Query_ItemCategory.label>
+  <Query_Quality.label>качество</Query_Quality.label>
+  <Query_Stuff.label>сделано из</Query_Stuff.label>
+  <Query_SpecialFilter.label>особый фильтр</Query_SpecialFilter.label>
+  <Query_ApparelLayer.label>слой одежды</Query_ApparelLayer.label>
+  <Query_ApparelCoverage.label>покрытие одеждой</Query_ApparelCoverage.label>
+  <Query_Forbidden.label>запрещено</Query_Forbidden.label>
+  <Query_Mineable.label>добываемое</Query_Mineable.label>
+  <Query_MineableDef.label>добываемое</Query_MineableDef.label>
+  <Query_BuildingCategory.label>категория постройки</Query_BuildingCategory.label>
+  <Query_Door.label>состояние двери</Query_Door.label>
+  <Query_Crop.label>является культурой</Query_Crop.label>
+  <Query_Harvest.label>продукт сбора</Query_Harvest.label>
+  <Query_Harvestable.label>можно собрать сейчас</Query_Harvestable.label>
+  <Query_Growth.label>рост растения</Query_Growth.label>
+  <Query_GrowthRate.label>скорость роста растения</Query_GrowthRate.label>
+  <Query_Freshness.label>свежесть</Query_Freshness.label>
+  <Query_TimeToRot.label>портится в течение дней</Query_TimeToRot.label>
+  <Query_DiesLeafless.label>гибнет от холода</Query_DiesLeafless.label>
+  <Query_Blighted.label>заражено</Query_Blighted.label>
+  <Query_Area.label>зона</Query_Area.label>
+  <Query_Zone.label>зона</Query_Zone.label>
+  <Query_Temp.label>температура</Query_Temp.label>
+  <Query_Deterioration.label>портится</Query_Deterioration.label>
+  <Query_Nearby.label>поблизости</Query_Nearby.label>
+  <Query_HP.label>здоровье, %</Query_HP.label>
+  <Query_Inventory.label>инвентарь</Query_Inventory.label>
+  <Query_Designation.label>указано</Query_Designation.label>
+  <Query_CanDesignate.label>можно указать</Query_CanDesignate.label>
+  <Query_Faction.label>фракция</Query_Faction.label>
+  <Query_Reserved.label>резервирование</Query_Reserved.label>
+  <Query_Art.label>является произведением искусства</Query_Art.label>
+  <Query_Accessible.label>доступные части</Query_Accessible.label>
+  <Query_Accessible.tooltip>Материалы или части, которые потенциально можно получить переплавкой / демонтажем / операцией / убийством</Query_Accessible.tooltip>
+  <Query_Mod.label>из мода</Query_Mod.label>
+  <Query_Onscreen.label>сейчас на экране</Query_Onscreen.label>
+  <Query_AndOrGroup.label>группировка фильтров</Query_AndOrGroup.label>
+  <Query_Custom.label>пользовательский (продвинутый)</Query_Custom.label>
+  <Query_Selectable.label>можно выделить</Query_Selectable.label>
+  <Query_ClassType.label>тип класса C#</Query_ClassType.label>
+  <Query_DrawerType.label>тип отрисовщика</Query_DrawerType.label>
+  <Query_Fogged.label>скрыто туманом (также нужно включить режим бога)</Query_Fogged.label>
+</LanguageData>

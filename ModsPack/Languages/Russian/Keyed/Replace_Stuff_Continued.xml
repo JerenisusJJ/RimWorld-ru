@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TD.SettingsPreferredBridge>Предпочтительный порядок мостов при необходимости:</TD.SettingsPreferredBridge>
+  <TD.SettingsBridgeResources>(Первый приоритет — мосты, на которые есть ресурсы; второй — порядок в этом списке; перетаскивайте, чтобы изменить порядок)</TD.SettingsBridgeResources>
+  <TD.ReplacementAlreadyInProgess>Замена уже выполняется.</TD.ReplacementAlreadyInProgess>
+</LanguageData>

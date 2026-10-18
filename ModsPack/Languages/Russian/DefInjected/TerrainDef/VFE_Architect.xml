@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEArch_Asphalt.label>асфальт</VFEArch_Asphalt.label>
+  <VFEArch_Asphalt.description>Асфальт в индустриальном стиле для строительства дорог и улиц. И людям, и транспорту по нему очень легко передвигаться.</VFEArch_Asphalt.description>
+  <VFEArch_WoodenParquet.label>деревянный паркет</VFEArch_WoodenParquet.label>
+  <VFEArch_WoodenParquet.description>Красиво уложенный деревянный пол, создающий ощущение роскоши и изысканности. Он красив, но долго укладывается и очень легко воспламеняется.</VFEArch_WoodenParquet.description>
+  <VFEArch_WoodenParquetWalnut.label>паркет из ореха</VFEArch_WoodenParquetWalnut.label>
+  <VFEArch_WoodenParquetWalnut.description>Красиво уложенный деревянный пол, создающий ощущение роскоши и изысканности. Он красив, но долго укладывается и очень легко воспламеняется.</VFEArch_WoodenParquetWalnut.description>
+  <VFEArch_WoodenParquetBirch.label>паркет из берёзы</VFEArch_WoodenParquetBirch.label>
+  <VFEArch_WoodenParquetBirch.description>Красиво уложенный деревянный пол, создающий ощущение роскоши и изысканности. Он красив, но долго укладывается и очень легко воспламеняется.</VFEArch_WoodenParquetBirch.description>
+  <VFEArch_WoodenParquetMahogany.label>паркет из красного дерева</VFEArch_WoodenParquetMahogany.label>
+  <VFEArch_WoodenParquetMahogany.description>Красиво уложенный деревянный пол, создающий ощущение роскоши и изысканности. Он красив, но долго укладывается и очень легко воспламеняется.</VFEArch_WoodenParquetMahogany.description>
+  <VFEArch_WoodPlankFloorWalnut.label>пол из ореха</VFEArch_WoodPlankFloorWalnut.label>
+  <VFEArch_WoodPlankFloorWalnut.description>Пол из деревянных досок, создающий тёплое, домашнее ощущение. Он быстро укладывается, но очень легко воспламеняется.</VFEArch_WoodPlankFloorWalnut.description>
+  <VFEArch_WoodPlankFloorBirch.label>пол из берёзы</VFEArch_WoodPlankFloorBirch.label>
+  <VFEArch_WoodPlankFloorBirch.description>Пол из деревянных досок, создающий тёплое, домашнее ощущение. Он быстро укладывается, но очень легко воспламеняется.</VFEArch_WoodPlankFloorBirch.description>
+  <VFEArch_WoodPlankFloorMahogany.label>пол из красного дерева</VFEArch_WoodPlankFloorMahogany.label>
+  <VFEArch_WoodPlankFloorMahogany.description>Пол из деревянных досок, создающий тёплое, домашнее ощущение. Он быстро укладывается, но очень легко воспламеняется.</VFEArch_WoodPlankFloorMahogany.description>
+  <VFEArch_CobblestoneFloorSandstone.label>булыжный пол из песчаника</VFEArch_CobblestoneFloorSandstone.label>
+  <VFEArch_CobblestoneFloorSandstone.description>Каменные плитки разного размера, создающие грубоватое, замковое ощущение. Строятся быстрее обычной каменной плитки и не требуют навыков каменотёса, но уступают в красоте полированному дизайну.</VFEArch_CobblestoneFloorSandstone.description>
+  <VFEArch_CobblestoneFloorGranite.label>булыжный пол из гранита</VFEArch_CobblestoneFloorGranite.label>
+  <VFEArch_CobblestoneFloorGranite.description>Каменные плитки разного размера, создающие грубоватое, замковое ощущение. Строятся быстрее обычной каменной плитки и не требуют навыков каменотёса, но уступают в красоте полированному дизайну.</VFEArch_CobblestoneFloorGranite.description>
+  <VFEArch_CobblestoneFloorLimestone.label>булыжный пол из известняка</VFEArch_CobblestoneFloorLimestone.label>
+  <VFEArch_CobblestoneFloorLimestone.description>Каменные плитки разного размера, создающие грубоватое, замковое ощущение. Строятся быстрее обычной каменной плитки и не требуют навыков каменотёса, но уступают в красоте полированному дизайну.</VFEArch_CobblestoneFloorLimestone.description>
+  <VFEArch_CobblestoneFloorSlate.label>булыжный пол из сланца</VFEArch_CobblestoneFloorSlate.label>
+  <VFEArch_CobblestoneFloorSlate.description>Каменные плитки разного размера, создающие грубоватое, замковое ощущение. Строятся быстрее обычной каменной плитки и не требуют навыков каменотёса, но уступают в красоте полированному дизайну.</VFEArch_CobblestoneFloorSlate.description>
+  <VFEArch_CobblestoneFloorMarble.label>булыжный пол из мрамора</VFEArch_CobblestoneFloorMarble.label>
+  <VFEArch_CobblestoneFloorMarble.description>Каменные плитки разного размера, создающие грубоватое, замковое ощущение. Строятся быстрее обычной каменной плитки и не требуют навыков каменотёса, но уступают в красоте полированному дизайну.</VFEArch_CobblestoneFloorMarble.description>
+  <VFEArch_PolishedStoneFloorSandstone.label>полированный каменный пол из песчаника</VFEArch_PolishedStoneFloorSandstone.label>
+  <VFEArch_PolishedStoneFloorSandstone.description>Нарядные полированные каменные плитки для элегантного, особняковского вида. Укладываются заметно быстрее, чем более тонкие каменные полы, но требуют много ресурсов. Выглядят невероятно красиво.</VFEArch_PolishedStoneFloorSandstone.description>
+  <VFEArch_PolishedStoneFloorGranite.label>полированный каменный пол из гранита</VFEArch_PolishedStoneFloorGranite.label>
+  <VFEArch_PolishedStoneFloorGranite.description>Нарядные полированные каменные плитки для элегантного, особняковского вида. Укладываются заметно быстрее, чем более тонкие каменные полы, но требуют много ресурсов. Выглядят невероятно красиво.</VFEArch_PolishedStoneFloorGranite.description>
+  <VFEArch_PolishedStoneFloorLimestone.label>полированный каменный пол из известняка</VFEArch_PolishedStoneFloorLimestone.label>
+  <VFEArch_PolishedStoneFloorLimestone.description>Нарядные полированные каменные плитки для элегантного, особняковского вида. Укладываются заметно быстрее, чем более тонкие каменные полы, но требуют много ресурсов. Выглядят невероятно красиво.</VFEArch_PolishedStoneFloorLimestone.description>
+  <VFEArch_PolishedStoneFloorSlate.label>полированный каменный пол из сланца</VFEArch_PolishedStoneFloorSlate.label>
+  <VFEArch_PolishedStoneFloorSlate.description>Нарядные полированные каменные плитки для элегантного, особняковского вида. Укладываются заметно быстрее, чем более тонкие каменные полы, но требуют много ресурсов. Выглядят невероятно красиво.</VFEArch_PolishedStoneFloorSlate.description>
+  <VFEArch_PolishedStoneFloorMarble.label>полированный каменный пол из мрамора</VFEArch_PolishedStoneFloorMarble.label>
+  <VFEArch_PolishedStoneFloorMarble.description>Нарядные полированные каменные плитки для элегантного, особняковского вида. Укладываются заметно быстрее, чем более тонкие каменные полы, но требуют много ресурсов. Выглядят невероятно красиво.</VFEArch_PolishedStoneFloorMarble.description>
+  <VFEArch_SlabsSandstone.label>плиты из песчаника</VFEArch_SlabsSandstone.label>
+  <VFEArch_SlabsSandstone.description>Крупные каменные плиты, уложенные вразнобой для храмового вида. Выглядят красиво, но их укладка требует много работы и больших запасов ресурсов.</VFEArch_SlabsSandstone.description>
+  <VFEArch_SlabsGranite.label>плиты из гранита</VFEArch_SlabsGranite.label>
+  <VFEArch_SlabsGranite.description>Крупные каменные плиты, уложенные вразнобой для храмового вида. Выглядят красиво, но их укладка требует много работы и больших запасов ресурсов.</VFEArch_SlabsGranite.description>
+  <VFEArch_SlabsLimestone.label>плиты из известняка</VFEArch_SlabsLimestone.label>
+  <VFEArch_SlabsLimestone.description>Крупные каменные плиты, уложенные вразнобой для храмового вида. Выглядят красиво, но их укладка требует много работы и больших запасов ресурсов.</VFEArch_SlabsLimestone.description>
+  <VFEArch_SlabsSlate.label>плиты из сланца</VFEArch_SlabsSlate.label>
+  <VFEArch_SlabsSlate.description>Крупные каменные плиты, уложенные вразнобой для храмового вида. Выглядят красиво, но их укладка требует много работы и больших запасов ресурсов.</VFEArch_SlabsSlate.description>
+  <VFEArch_SlabsMarble.label>плиты из мрамора</VFEArch_SlabsMarble.label>
+  <VFEArch_SlabsMarble.description>Крупные каменные плиты, уложенные вразнобой для храмового вида. Выглядят красиво, но их укладка требует много работы и больших запасов ресурсов.</VFEArch_SlabsMarble.description>
+  <VFEArch_FineWoodenFloor.label>дорогой деревянный пол</VFEArch_FineWoodenFloor.label>
+  <VFEArch_FineWoodenFloor.description>Красивый деревянный паркет, сделанный без компромиссов, чтобы подчеркнуть достаток. Строится медленно.</VFEArch_FineWoodenFloor.description>
+  <VFEArch_FineWoodenFloorWalnut.label>дорогой деревянный пол из ореха</VFEArch_FineWoodenFloorWalnut.label>
+  <VFEArch_FineWoodenFloorWalnut.description>Красивый деревянный паркет, сделанный без компромиссов, чтобы подчеркнуть достаток. Строится медленно.</VFEArch_FineWoodenFloorWalnut.description>
+  <VFEArch_FineWoodenFloorBirch.label>дорогой деревянный пол из берёзы</VFEArch_FineWoodenFloorBirch.label>
+  <VFEArch_FineWoodenFloorBirch.description>Красивый деревянный паркет, сделанный без компромиссов, чтобы подчеркнуть достаток. Строится медленно.</VFEArch_FineWoodenFloorBirch.description>
+  <VFEArch_FineWoodenFloorMahogany.label>дорогой деревянный пол из красного дерева</VFEArch_FineWoodenFloorMahogany.label>
+  <VFEArch_FineWoodenFloorMahogany.description>Красивый деревянный паркет, сделанный без компромиссов, чтобы подчеркнуть достаток. Строится медленно.</VFEArch_FineWoodenFloorMahogany.description>
+  <VFEArch_Grass.label>трава</VFEArch_Grass.label>
+  <VFEArch_Grass.description>Травяное поле с проплешинами почвы то тут, то там. Очень приятно выглядит и не требует ресурсов для строительства.</VFEArch_Grass.description>
+  <VFEArch_Grass.tools.dirt.label>земля</VFEArch_Grass.tools.dirt.label>
+  <VFEArch_LawnPlot.label>газон</VFEArch_LawnPlot.label>
+  <VFEArch_LawnPlot.description>Красиво подстриженная трава с очень высокой красотой. Для создания требует огромного объёма работы.</VFEArch_LawnPlot.description>
+  <VFEArch_LawnPlot.tools.dirt.label>земля</VFEArch_LawnPlot.tools.dirt.label>
+  <VFEArch_PlayerBrokenAsphalt.label>разбитый асфальт</VFEArch_PlayerBrokenAsphalt.label>
+  <VFEArch_PlayerBrokenAsphalt.description>Старый, раскрошившийся асфальт, часто встречающийся в виде древних магистралей вокруг заброшенных мест. И людям, и транспорту по нему очень легко передвигаться.</VFEArch_PlayerBrokenAsphalt.description>
+  <VFEArch_PlayerPackedDirt.label>утрамбованная земля</VFEArch_PlayerPackedDirt.label>
+  <VFEArch_PlayerPackedDirt.description>Утрамбованная земля, слегка повышающая скорость передвижения; часто образует тропы вокруг интересных мест.</VFEArch_PlayerPackedDirt.description>
+  <VFEArch_BridgeSandstone.label>мост из песчаника</VFEArch_BridgeSandstone.label>
+  <VFEArch_BridgeSandstone.description>Каменные мосты - сооружения, которые можно строить на воде. Мосты ускоряют передвижение через воду. После постройки на них можно возводить многие сооружения, включая тяжёлые и любые виды стен. Мосты облегчают строительство в болотистых биомах.\n	\nМожно сделать из любых каменных блоков.</VFEArch_BridgeSandstone.description>
+  <VFEArch_BridgeGranite.label>мост из гранита</VFEArch_BridgeGranite.label>
+  <VFEArch_BridgeGranite.description>Каменные мосты - сооружения, которые можно строить на воде. Мосты ускоряют передвижение через воду. После постройки на них можно возводить многие сооружения, включая тяжёлые и любые виды стен. Мосты облегчают строительство в болотистых биомах.\n	\nМожно сделать из любых каменных блоков.</VFEArch_BridgeGranite.description>
+  <VFEArch_BridgeLimestone.label>мост из известняка</VFEArch_BridgeLimestone.label>
+  <VFEArch_BridgeLimestone.description>Каменные мосты - сооружения, которые можно строить на воде. Мосты ускоряют передвижение через воду. После постройки на них можно возводить многие сооружения, включая тяжёлые и любые виды стен. Мосты облегчают строительство в болотистых биомах.\n	\nМожно сделать из любых каменных блоков.</VFEArch_BridgeLimestone.description>
+  <VFEArch_BridgeSlate.label>мост из сланца</VFEArch_BridgeSlate.label>
+  <VFEArch_BridgeSlate.description>Каменные мосты - сооружения, которые можно строить на воде. Мосты ускоряют передвижение через воду. После постройки на них можно возводить многие сооружения, включая тяжёлые и любые виды стен. Мосты облегчают строительство в болотистых биомах.\n	\nМожно сделать из любых каменных блоков.</VFEArch_BridgeSlate.description>
+  <VFEArch_BridgeMarble.label>мост из мрамора</VFEArch_BridgeMarble.label>
+  <VFEArch_BridgeMarble.description>Каменные мосты - сооружения, которые можно строить на воде. Мосты ускоряют передвижение через воду. После постройки на них можно возводить многие сооружения, включая тяжёлые и любые виды стен. Мосты облегчают строительство в болотистых биомах.\n	\nМожно сделать из любых каменных блоков.</VFEArch_BridgeMarble.description>
+  <VFEArch_ConcreteFoundation.label>бетонный фундамент</VFEArch_ConcreteFoundation.label>
+  <VFEArch_ConcreteFoundation.description>Фундаменты - сооружения, которые можно строить на грязи, зыбучем песке и т. п. Фундамент ускоряет передвижение по этим обычно замедляющим типам почвы. После постройки на нём можно возводить многие сооружения, включая тяжёлые и любые другие виды стен. Фундаменты облегчают строительство в пустынных и болотистых биомах. Полы на фундаментах строить нельзя.</VFEArch_ConcreteFoundation.description>
+</LanguageData>

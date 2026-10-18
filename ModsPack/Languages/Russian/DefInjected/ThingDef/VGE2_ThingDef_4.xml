@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE2_TradingContainer.label>торговый контейнер</VGE2_TradingContainer.label>
+  <VGE2_TradingContainer.description>Большой запечатанный контейнер из запасов какого-то орбитального торговца. Может содержать ценные припасы, но чтобы добраться до них, его нужно разрушить.</VGE2_TradingContainer.description>
+  <VGE_SpacerPallet_Medicine.label>поддон космических лекарств</VGE_SpacerPallet_Medicine.label>
+  <VGE_SpacerPallet_Medicine.description>Поддон с медицинскими припасами. Можно разграбить, получив лекарства.</VGE_SpacerPallet_Medicine.description>
+  <VGE_SpacerPallet_SurvivalMeals.label>поддон космических пайков</VGE_SpacerPallet_SurvivalMeals.label>
+  <VGE_SpacerPallet_SurvivalMeals.description>Поддон с сложенными пайками. Можно разграбить, получив сухпайки.</VGE_SpacerPallet_SurvivalMeals.description>
+  <VGE_SpacerBox_ComponentIndustrial.label>коробка космических компонентов</VGE_SpacerBox_ComponentIndustrial.label>
+  <VGE_SpacerBox_ComponentIndustrial.description>Космический логистический ящик, полный ценных компонентов. Они целы и вполне пригодны.</VGE_SpacerBox_ComponentIndustrial.description>
+  <VGE_SpacerBox_ComponentSpacer.label>коробка космической электроники</VGE_SpacerBox_ComponentSpacer.label>
+  <VGE_SpacerBox_ComponentSpacer.description>Космический логистический ящик, полный электроники и продвинутых компонентов. Всё, кажется, исправно.</VGE_SpacerBox_ComponentSpacer.description>
+  <VGE_SpacerBox_Steel.label>коробка космической стали</VGE_SpacerBox_Steel.label>
+  <VGE_SpacerBox_Steel.description>Космический логистический ящик, полный стального лома. Он тяжёл, но может содержать немного пригодного металла.</VGE_SpacerBox_Steel.description>
+  <VGE_SpacerBox_Gravlite.label>коробка космического гравлита</VGE_SpacerBox_Gravlite.label>
+  <VGE_SpacerBox_Gravlite.description>Космический логистический ящик, полный кусков гравлитовых панелей. Хотя большая часть из них похожа на гравлитовые отходы, некоторые куски выглядят целыми.</VGE_SpacerBox_Gravlite.description>
+  <VGE_StationLight_Blue.label>станционный светильник</VGE_StationLight_Blue.label>
+  <VGE_StationLight_Blue.description>Специальная световая панель, подключённая к главному источнику питания станции.</VGE_StationLight_Blue.description>
+  <VGE_StationLight.label>станционный светильник</VGE_StationLight.label>
+  <VGE_StationLight.description>Специальная световая панель, подключённая к главному источнику питания станции.</VGE_StationLight.description>
+  <VGE2_PosBeacon_Green.label>позиционный маяк</VGE2_PosBeacon_Green.label>
+  <VGE2_PosBeacon_Green.description>Позиционный маяк орбитальной станции. Не даёт станции сойти с орбиты.</VGE2_PosBeacon_Green.description>
+  <VGE2_PosBeacon_Red.label>позиционный маяк</VGE2_PosBeacon_Red.label>
+  <VGE2_PosBeacon_Red.description>Позиционный маяк орбитальной станции. Не даёт станции сойти с орбиты.</VGE2_PosBeacon_Red.description>
+  <VGE_AncientEmergencyLight_Orange.label>древний сигнальный светильник</VGE_AncientEmergencyLight_Orange.label>
+  <VGE_AncientEmergencyLight_Orange.description>Древний светильник с долговечным аккумулятором.</VGE_AncientEmergencyLight_Orange.description>
+  <VGE_InfestedGravlockTether.label>заражённый гравишвартов</VGE_InfestedGravlockTether.label>
+  <VGE_InfestedGravlockTether.description>Искажённый гравишвартов, выеденный изнутри и превращённый в гигантский улей экзоинсектоидов. Встроенная прямо в вентиляционную систему станции, эта пульсирующая структура непрерывно прогоняет личинок через вентиляцию, порождая новых инсектоидов, которые расползаются по станции.\n\nУничтожьте заражённый гравишвартов, чтобы получить гравиядро.</VGE_InfestedGravlockTether.description>
+  <VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>Содержит: гравиядро</VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>
+  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>Заражённый гравишвартов</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>
+  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>Вы чувствуете явные признаки экзоинсектоидного мегаулья неподалёку. Заражённый гравишвартов необходимо уничтожить, чтобы получить ценное гравиядро и остановить продолжающееся заражение.</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>
+  <VGE_InfestedVent.label>заражённая вентиляция</VGE_InfestedVent.label>
+  <VGE_InfestedVent.description>Сломанная вентиляционная шахта, ведущая вглубь установки орбитальной станции. Снизу слышны стрекот и движение.</VGE_InfestedVent.description>
+  <VGE_OrbitalPirateFortifiedWall.label>укреплённая стена</VGE_OrbitalPirateFortifiedWall.label>
+  <VGE_OrbitalPirateFortifiedWall.description>Усиленная стена из ультратехнологичного полимера, залатанная всем, что нашли утилизаторы.</VGE_OrbitalPirateFortifiedWall.description>
+  <VGE_SalvagerDropship.label>десантный корабль утилизаторов</VGE_SalvagerDropship.label>
+  <VGE_SalvagerDropship.description>Тяжелобронированный десантный корабль на химтопливе, оснащённый установками для залпового пуска ракет. Предназначен для ковровых бомбардировок и вторжений на вражескую территорию. Этот десантный корабль, похоже, принадлежит утилизаторам.</VGE_SalvagerDropship.description>
+  <VGE_GlowstickPile_Green.label>куча химических светильников</VGE_GlowstickPile_Green.label>
+  <VGE_GlowstickPile_Green.description>Беспорядочная куча химических светильников, всё ещё проливающая на пол мягкое, неземное сияние.</VGE_GlowstickPile_Green.description>
+  <VGE_GlowstickPile_Orange.label>куча химических светильников</VGE_GlowstickPile_Orange.label>
+  <VGE_GlowstickPile_Orange.description>Беспорядочная куча химических светильников, всё ещё проливающая на пол мягкое, неземное сияние.</VGE_GlowstickPile_Orange.description>
+  <VGE_GlowstickPile_Blue.label>куча химических светильников</VGE_GlowstickPile_Blue.label>
+  <VGE_GlowstickPile_Blue.description>Беспорядочная куча химических светильников, всё ещё проливающая на пол мягкое, неземное сияние.</VGE_GlowstickPile_Blue.description>
+  <VGE_EmergencyGenerator.label>аварийный генератор гравикорабля</VGE_EmergencyGenerator.label>
+  <VGE_EmergencyGenerator.description>Аварийный источник энергии, способный полностью запитать гравикорабль, подстраивая выработку под потребление. Предназначен для экстренных случаев: когда он вырабатывает всю энергию, на которую способен, всегда происходит критическая поломка и детонация ЭМИ. Способен выдать до 50 000 Вт/сут до поломки.</VGE_EmergencyGenerator.description>
+  <VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.jobString>включить аварийный генератор гравикорабля</VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.jobString>
+  <VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.onCooldownString>нестабилен</VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.onCooldownString>
+  <VGE_AstrofireLauncher.label>астроогненная установка</VGE_AstrofireLauncher.label>
+  <VGE_AstrofireLauncher.description>Компактная многотрубная ракетная платформа, выпускающая залп из четырёх быстрых ракет, которые взрываются и несут заряд астротоплива, поджигая поражённую область астроогнём. Предназначена для быстрых мощных ударов по незащищённым гравикораблям и небронированным наземным силам. Для работы требует связанного терминала наведения с оператором. Получает питание напрямую от гравидвигателя.</VGE_AstrofireLauncher.description>
+  <VGE_AstrofireLauncher.comps.CompRefuelable.fuelGizmoLabel>Астротопливо</VGE_AstrofireLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_AstrofireLauncher.comps.CompRefuelable.fuelLabel>Астротопливо</VGE_AstrofireLauncher.comps.CompRefuelable.fuelLabel>
+  <VGE_AstrofireLauncher.comps.CompRefuelable.outOfFuelMessage>Нет ракет</VGE_AstrofireLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <VGE_Gun_AstrofireLauncher.label>астроогненная установка</VGE_Gun_AstrofireLauncher.label>
+  <VGE_Gun_AstrofireLauncher.description>Компактная многотрубная ракетная платформа, способная запускать астроогненные ракеты.</VGE_Gun_AstrofireLauncher.description>
+  <VGE_Gun_AstrofireLauncher.verbs.Verb_ShootWithWorldTargeting.label>астроогненная установка</VGE_Gun_AstrofireLauncher.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_Rocket_AstrofireMissile.label>астроогненная ракета</VGE_Rocket_AstrofireMissile.label>
+  <VGE_GravlaunchCloaker.label>маскировщик гравизапуска</VGE_GravlaunchCloaker.label>
+  <VGE_GravlaunchCloaker.description>Специализированное устройство, скрывающее энергетическую сигнатуру запуска гравикорабля: оно снижает воздействие запуска на остальных обитателей планеты, делая обнаружение гравикорабля менее вероятным.\n\nГравикорабль может нести два маскировщика гравизапуска.</VGE_GravlaunchCloaker.description>
+  <VGE_Warcomputer.label>боевой компьютер</VGE_Warcomputer.label>
+  <VGE_Warcomputer.description>Тактическое суперкомпьютерное ядро гравикорабля. Усиливает вооружение и оборону гравикорабля: делает гауссову артиллерию точнее, заставляет ракеты «Джавелин» стрелять быстрее, противокорабельные лучевые орудия — вести более долгие очереди, а турели точечной обороны — перехватывать снаряды на больших расстояниях. Получает питание напрямую от гравидвигателя.</VGE_Warcomputer.description>
+  <VGE_GravFieldDilutor.label>разбавитель гравиполя</VGE_GravFieldDilutor.label>
+  <VGE_GravFieldDilutor.description>Продвинутое ультратехнологичное устройство, резко увеличивающее размер гравикорабля, но немного ослабляющее гравитационное поле, из-за чего уменьшается количество подструктуры, которую можно построить. Нужно строить рядом с гравидвигателем.\n\nГравикорабль может нести только один разбавитель гравиполя.</VGE_GravFieldDilutor.description>
+  <VGE_TwistedSteel.label>искорёженная сталь</VGE_TwistedSteel.label>
+  <VGE_TwistedSteel.description>Сколлапсировавшие останки древнего орбитального судна, согнутые и сплавленные бесчисленными годами в суровом вакууме. Богаты сталью.</VGE_TwistedSteel.description>
+  <VGE_TwistedMachinery.label>искорёженные механизмы</VGE_TwistedMachinery.label>
+  <VGE_TwistedMachinery.description>Древние механизмы, спрессованные и перекрученные веками ударов и экстремальных температур на орбите. Из них можно добыть полезные компоненты.</VGE_TwistedMachinery.description>
+  <VGE_TwistedElectronics.label>искорёженная электроника</VGE_TwistedElectronics.label>
+  <VGE_TwistedElectronics.description>Сплавленные остатки высокотехнологичной проводки и печатных плат, покорёженные и повреждённые орбитальным мусором и перепадами температур. Из них можно извлечь продвинутые компоненты.</VGE_TwistedElectronics.description>
+  <VGE_TwistedGravlite.label>искорёженный гравлит</VGE_TwistedGravlite.label>
+  <VGE_TwistedGravlite.description>Участок покорёженной и разбитой гравлитовой облицовки, едва узнаваемой после интенсивных орбитальных условий. Из неё можно извлечь гравлитовые панели.</VGE_TwistedGravlite.description>
+  <VGE_GravshipArmor.label>броня гравикорабля</VGE_GravshipArmor.label>
+  <VGE_GravshipArmor.description>Сильно укреплённая герметичная стена, рассчитанная на экстремальные удары и вражеский огонь в вакууме космоса. Стена соединяется непосредственно с подструктурой, поэтому её можно строить только на гравикорабле.</VGE_GravshipArmor.description>
+  <VGE_SmallElectricThruster.label>малый электроускоритель</VGE_SmallElectricThruster.label>
+  <VGE_SmallElectricThruster.description>Электрический ускоритель, увеличивающий дальность гравикорабля. Для использования должен быть полностью заряжен. В отличие от астротопливных ускорителей, электрические не увеличивают максимальный размер подструктуры, но низкое энергопотребление снижает шанс обнаружения гравикорабля в пути. Ускорителям нужна свободная область без крупных построек и подструктуры гравикорабля. Гравикорабль может нести до десяти малых ускорителей.</VGE_SmallElectricThruster.description>
+  <VGE_LargeElectricThruster.label>большой электроускоритель</VGE_LargeElectricThruster.label>
+  <VGE_LargeElectricThruster.description>Усовершенствованный электрический ускоритель с жаростойкой вакуумитовой облицовкой. Для использования должен быть полностью заряжен. В отличие от астротопливных ускорителей, электрические не увеличивают максимальный размер подструктуры, но низкое энергопотребление снижает шанс обнаружения гравикорабля в пути. Ускорителям нужна свободная область без крупных построек и подструктуры гравикорабля.\n\nТребует блоки вакуумита, которые можно добыть на орбитальных астероидах.\n\nГравикорабль может нести до шести больших ускорителей.</VGE_LargeElectricThruster.description>
+  <VGE_GiantElectricThruster.label>гигантский электроускоритель</VGE_GiantElectricThruster.label>
+  <VGE_GiantElectricThruster.description>Массивный усиленный электрический ускоритель из передовых сплавов и сверхплотной вакуумитовой обшивки. Для использования должен быть полностью заряжен. В отличие от астротопливных ускорителей, электрические не увеличивают максимальный размер подструктуры, но низкое энергопотребление снижает шанс обнаружения гравикорабля в пути. Ускорителям нужна свободная область без крупных построек и подструктуры гравикорабля.\n\nТребует блоки вакуумита, которые можно добыть на орбитальных астероидах.\n\nГравикорабль может нести до четырёх гигантских ускорителей.</VGE_GiantElectricThruster.description>
+  <VGE_Warpod_HighExplosive.label>фугасная боекапсула</VGE_Warpod_HighExplosive.label>
+  <VGE_Warpod_HighExplosive.description>Запускаемая суборбитальная ракетная капсула, доставляющая фугасный заряд на предельной скорости. Из-за скорости её не перехватят системы точечной обороны, и она пробивается внутрь вражеских гравикораблей и орбитальных станций, где детонирует. Взрывается при повреждении.</VGE_Warpod_HighExplosive.description>
+  <VGE_Warpod_EMP.label>ЭМИ-боекапсула</VGE_Warpod_EMP.label>
+  <VGE_Warpod_EMP.description>Запускаемая суборбитальная ракетная капсула, доставляющая мощное устройство электромагнитного импульса на предельной скорости. Из-за скорости её не перехватят системы точечной обороны, и она пробивается внутрь вражеских гравикораблей и орбитальных станций, где детонирует, временно выводя электронику из строя. Взрывается при повреждении.</VGE_Warpod_EMP.description>
+  <VGE_Warpod_Incendiary.label>зажигательная боекапсула</VGE_Warpod_Incendiary.label>
+  <VGE_Warpod_Incendiary.description>Запускаемая суборбитальная ракетная капсула, доставляющая огромный заряд астротоплива на предельной скорости. Из-за скорости её не перехватят системы точечной обороны, и она пробивается внутрь вражеских гравикораблей и орбитальных станций, где детонирует, вызывая мощный взрыв астротоплива. Взрывается при повреждении.</VGE_Warpod_Incendiary.description>
+  <VGE_Warpod_Antigrain.label>антизерновая боекапсула</VGE_Warpod_Antigrain.label>
+  <VGE_Warpod_Antigrain.description>Запускаемая суборбитальная ракетная капсула, доставляющая сокрушительный заряд антивещества на предельной скорости. Из-за скорости её не перехватят системы точечной обороны, и она пробивается внутрь вражеских гравикораблей и орбитальных станций, где детонирует, полностью стирая цель с лица земли. Взрывается при повреждении.</VGE_Warpod_Antigrain.description>
+  <VGE_Warpod_Hellpod.label>адская капсула</VGE_Warpod_Hellpod.label>
+  <VGE_Warpod_Hellpod.description>Запускаемая суборбитальная боевая капсула, предназначенная для перевозки людей, предметов или животных. Летя на предельной скорости, она избегает перехвата системами точечной обороны, но детонирует при ударе, сразу выбрасывая груз. Идеальна для внезапных атак, подкрепления в боях или доставки критически важных припасов и персонала в нужное место.</VGE_Warpod_Hellpod.description>
+  <VGE_WarpodLeaving.label>боекапсула (улетает)</VGE_WarpodLeaving.label>
+  <VGE_WarpodIncoming.label>боекапсула (прилетает)</VGE_WarpodIncoming.label>
+  <VGE_GravshipBombardmentTargeter.label>целеуказатель бомбардировки гравикорабля</VGE_GravshipBombardmentTargeter.label>
+  <VGE_GravshipBombardmentTargeter.description>Компактное прицельное устройство, настроенное на взаимодействие с артиллерийскими системами гравикорабля. При активации обозначает позицию на земле и передаёт координаты огня связанной турели гравикорабля в зоне досягаемости. Турель автоматически откроет огонь по отмеченному месту. После короткой перезарядки целеуказателем можно пользоваться снова.</VGE_GravshipBombardmentTargeter.description>
+  <VGE_GravshipBombardmentTargeter.verbs.Verb_BombardmentTargeter.label>целеуказатель бомбардировки гравикорабля</VGE_GravshipBombardmentTargeter.verbs.Verb_BombardmentTargeter.label>
+  <VGE_Apparel_CombatVacsuit.label>боевой скафандр</VGE_Apparel_CombatVacsuit.label>
+  <VGE_Apparel_CombatVacsuit.description>Усиленный силовой костюм для боя в вакууме космоса. Многослойная усиленная броня обеспечивает лучшую защиту от баллистических атак, чем обычный скафандр. Нейромемные помощники частично компенсируют громоздкость, но костюм всё равно снижает скорость передвижения и манипуляции, хотя и меньше, чем стандартная модель.</VGE_Apparel_CombatVacsuit.description>
+  <VGE_Apparel_CombatVacsuitHelmet.label>шлем боевого скафандра</VGE_Apparel_CombatVacsuitHelmet.label>
+  <VGE_Apparel_CombatVacsuitHelmet.description>Усиленный шлем для боевого скафандра. Имеет многослойную броню из пластали, встроенный компьютер состояния и превосходную защиту. Эффективно перерабатывая кислород, он позволяет долго работать в вакууме, но периодически требуется повторная герметизация.</VGE_Apparel_CombatVacsuitHelmet.description>
+  <VGE_Apparel_Astrorig.label>астроранец</VGE_Apparel_Astrorig.label>
+  <VGE_Apparel_Astrorig.description>Специализированный личный двигательный ранец для быстрого передвижения в невесомости. Использует запас кислорода для управляемой тяги и позволяет совершать дальние высокоскоростные прыжки в космосе. Конструкция ранца устраняет штрафы к движению по космической местности, но число дальних прыжков ограничено запасом кислорода.</VGE_Apparel_Astrorig.description>
+  <VGE_Apparel_Astrorig.comps.CompApparelOxygenProvider.chargeNoun>кислород, ед.³</VGE_Apparel_Astrorig.comps.CompApparelOxygenProvider.chargeNoun>
+  <VGE_Apparel_Astrorig.comps.CompApparelVerbOwner_Oxygen.chargeNoun>прыжок</VGE_Apparel_Astrorig.comps.CompApparelVerbOwner_Oxygen.chargeNoun>
+  <VGE_Apparel_Astrorig.verbs.jump.label>прыжок</VGE_Apparel_Astrorig.verbs.jump.label>
+  <VGE_Apparel_DisposableOxygenPack.label>одноразовый кислородный ранец</VGE_Apparel_DisposableOxygenPack.label>
+  <VGE_Apparel_DisposableOxygenPack.description>Одноразовый ранец со сжатым кислородом. При ношении вместе с герметичной одеждой даёт полный иммунитет к вакууму, подавая пригодный для дыхания воздух, пока он не иссякнет. После израсходования или снятия герметичность нарушается, и ранец уничтожается.</VGE_Apparel_DisposableOxygenPack.description>
+  <VGE_Apparel_DisposableOxygenPack.comps.CompApparelOxygenProvider.chargeNoun>кислород, ед.³</VGE_Apparel_DisposableOxygenPack.comps.CompApparelOxygenProvider.chargeNoun>
+  <VGE_EscapePodLeaving.label>транспортная капсула (улетает)</VGE_EscapePodLeaving.label>
+  <VGE_SalvagerDropshipIncoming.label>десантный корабль утилизаторов (прилетает)</VGE_SalvagerDropshipIncoming.label>
+  <VGE_SalvagerDropshipLeaving.label>десантный корабль утилизаторов (улетает)</VGE_SalvagerDropshipLeaving.label>
+  <VGE_LandingStructure_StructureSet.label>посадочная структура</VGE_LandingStructure_StructureSet.label>
+  <VGE_LandingStructure_EnemyGravjumper.label>посадочная структура</VGE_LandingStructure_EnemyGravjumper.label>
+  <VGE_LandingStructure_EnemyGravjumperCaptured.label>посадочная структура</VGE_LandingStructure_EnemyGravjumperCaptured.label>
+  <VGE_LandingStructure_EnemyGravship.label>посадочная структура</VGE_LandingStructure_EnemyGravship.label>
+  <VGE_LandingStructure_EnemyGravshipRaid.label>посадочная структура</VGE_LandingStructure_EnemyGravshipRaid.label>
+  <VGE_Projectile_InfestedChunkMedium.label>средний заражённый обломок</VGE_Projectile_InfestedChunkMedium.label>
+  <VGE_Projectile_InfestedChunkLarge.label>большой заражённый обломок</VGE_Projectile_InfestedChunkLarge.label>
+  <VGE_Projectile_GravJunk.label>гравихлам</VGE_Projectile_GravJunk.label>
+  <VGE_Exohive.label>движущийся экзоулей</VGE_Exohive.label>
+  <VGE_Exohive.description>Массивный подвижный улей гигантских насекомых экзо-линии, движимый согласованными усилиями множества выходящих экзочервей. При достаточной угрозе вся структура оживает, чтобы активно защищаться, атакуя ближайших врагов.</VGE_Exohive.description>
+  <VGE_Exohive.tools.mouths.label>пасти</VGE_Exohive.tools.mouths.label>
+  <VGE_Exohive.tools.shell.label>панцирь</VGE_Exohive.tools.shell.label>
+  <VGE_Exoleech.label>экзопиявка</VGE_Exoleech.label>
+  <VGE_Exoleech.description>Вопреки названию, экзопиявка — не пиявка, а биоинженерный инсектоид размером примерно с медведя, приспособленный выживать в морозном вакууме космоса. У неё невероятно острая пасть, способная наносить значительный урон в бою. Хотя она надёжно защищена толстой хитиновой бронёй и смертельна в ближнем бою, на открытой местности она довольно медлительна.</VGE_Exoleech.description>
+  <VGE_Exoleech.tools.bitejaw.label>жвала</VGE_Exoleech.tools.bitejaw.label>
+  <VGE_Exoleech.tools.head.label>голова</VGE_Exoleech.tools.head.label>
+  <VGE_Exopede.label>экзомногоножка</VGE_Exopede.label>
+  <VGE_Exopede.description>Крупный биоинженерный инсектоид размером примерно с оленя. Экзомногоножка тяжело бронирована и приспособлена выживать в морозном вакууме космоса; она служит рабочей особью средней касты улья, выполняя большую часть задач и защищая улей мощными конечностями. Хотя она хорошо защищена и опасна в бою, на открытой земле движется относительно медленно.</VGE_Exopede.description>
+  <VGE_Exopede.tools.head_claw.label>клешня головы</VGE_Exopede.tools.head_claw.label>
+  <VGE_Exopede.tools.head.label>голова</VGE_Exopede.tools.head.label>
+  <VGE_Exoworm.label>экзочервь</VGE_Exoworm.label>
+  <VGE_Exoworm.description>Крупный генно-модифицированный червеобразный инсектоид, приспособленный выживать в вакууме космоса. Некогда рабочая каста искусственной экосистемы, созданной для борьбы с вторжением механоидов, теперь он часто встречается без своих более смертоносных родичей-инсектоидов. Тем не менее его размеры и быстро регенерирующее тело делают его выносливым и опасным противником в бою. Будучи эусоциальным существом, он не может размножаться самостоятельно.</VGE_Exoworm.description>
+  <VGE_Exoworm.tools.mandibles.label>жвала</VGE_Exoworm.tools.mandibles.label>
+  <VGE_Exoworm.tools.head.label>голова</VGE_Exoworm.tools.head.label>
+  <VGE_ExowormKnot.label>узел экзочервей</VGE_ExowormKnot.label>
+  <VGE_ExowormKnot.description>Массивный извивающийся узел биоинженерных экзочервей, сплетённых в единое ужасающее существо. Его внушительные размеры и сложные переплетённые тела обеспечивают исключительную живучесть, но при повреждении отдельные экзочерви яростно вырываются из массы и продолжают бой. Его укус несёт риск внедрения паразитических личинок экзочервя, которые медленно развиваются внутри носителя.</VGE_ExowormKnot.description>
+  <VGE_ExowormKnot.tools.mouths.label>пасти</VGE_ExowormKnot.tools.mouths.label>
+  <VGE_ExowormKnot.tools.head.label>голова</VGE_ExowormKnot.tools.head.label>
+  <VFEI2_Nullipede.label>нуллипед</VFEI2_Nullipede.label>
+  <VFEI2_Nullipede.description>Невероятно редкий и чудовищно огромный инсектоид экзо-линии; нуллипед — насекомое-левиафан, идеально приспособленный к морозному вакууму космоса. Он обладает экстремальной клеточной регенерацией, позволяющей ему сращивать тяжёлые раны и почти мгновенно залечивать повреждения. Прямое воздействие огня полностью отключает его системы биологического восстановления. Его невероятная стойкость делает его пугающим, практически неуничтожимым ужасом среди звёзд и главной причиной, по которой многие искатели приключений предпочитают оставаться на планете.</VFEI2_Nullipede.description>
+  <VFEI2_Nullipede.tools.mandible.label>жвало</VFEI2_Nullipede.tools.mandible.label>
+  <VFEI2_Nullipede.tools.tail.label>хвост</VFEI2_Nullipede.tools.tail.label>
+  <VFEI2_Nullipede.tools.pincers.label>клешни</VFEI2_Nullipede.tools.pincers.label>
+</LanguageData>

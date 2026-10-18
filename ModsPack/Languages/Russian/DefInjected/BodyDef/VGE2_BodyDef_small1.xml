@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_WormWithArmor.label>червь с бронёй</VGE_WormWithArmor.label>
+  <VGE_WormWithArmor.corePart.parts.VGE_SecondWormSegment.parts.left_lung.customLabel>левое лёгкое</VGE_WormWithArmor.corePart.parts.VGE_SecondWormSegment.parts.left_lung.customLabel>
+  <VGE_WormWithArmor.corePart.parts.VGE_SecondWormSegment.parts.right_lung.customLabel>правое лёгкое</VGE_WormWithArmor.corePart.parts.VGE_SecondWormSegment.parts.right_lung.customLabel>
+  <VGE_WormWithArmor.corePart.parts.VGE_FourthWormSegment.parts.left_kidney.customLabel>левая почка</VGE_WormWithArmor.corePart.parts.VGE_FourthWormSegment.parts.left_kidney.customLabel>
+  <VGE_WormWithArmor.corePart.parts.VGE_FourthWormSegment.parts.right_kidney.customLabel>правая почка</VGE_WormWithArmor.corePart.parts.VGE_FourthWormSegment.parts.right_kidney.customLabel>
+  <VGE_WormWithArmor.corePart.parts.SnakeHead.parts.echolocation_organ.customLabel>орган эхолокации</VGE_WormWithArmor.corePart.parts.SnakeHead.parts.echolocation_organ.customLabel>
+  <VGE_WormWithArmorAndHeadClaw.label>червь с бронёй и головным когтем</VGE_WormWithArmorAndHeadClaw.label>
+  <VGE_WormWithArmorAndHeadClaw.corePart.parts.VGE_SecondWormSegment.parts.left_lung.customLabel>левое лёгкое</VGE_WormWithArmorAndHeadClaw.corePart.parts.VGE_SecondWormSegment.parts.left_lung.customLabel>
+  <VGE_WormWithArmorAndHeadClaw.corePart.parts.VGE_SecondWormSegment.parts.right_lung.customLabel>правое лёгкое</VGE_WormWithArmorAndHeadClaw.corePart.parts.VGE_SecondWormSegment.parts.right_lung.customLabel>
+  <VGE_WormWithArmorAndHeadClaw.corePart.parts.VGE_FourthWormSegment.parts.left_kidney.customLabel>левая почка</VGE_WormWithArmorAndHeadClaw.corePart.parts.VGE_FourthWormSegment.parts.left_kidney.customLabel>
+  <VGE_WormWithArmorAndHeadClaw.corePart.parts.VGE_FourthWormSegment.parts.right_kidney.customLabel>правая почка</VGE_WormWithArmorAndHeadClaw.corePart.parts.VGE_FourthWormSegment.parts.right_kidney.customLabel>
+  <VGE_WormWithArmorAndHeadClaw.corePart.parts.SnakeHead.parts.echolocation_organ.customLabel>орган эхолокации</VGE_WormWithArmorAndHeadClaw.corePart.parts.SnakeHead.parts.echolocation_organ.customLabel>
+  <VGE_WormKnot.label>клубок червей</VGE_WormKnot.label>
+  <VGE_WormKnot.corePart.parts.worm-0.customLabel>червь</VGE_WormKnot.corePart.parts.worm-0.customLabel>
+  <VGE_WormKnot.corePart.parts.worm-1.customLabel>червь</VGE_WormKnot.corePart.parts.worm-1.customLabel>
+  <VGE_WormKnot.corePart.parts.worm-2.customLabel>червь</VGE_WormKnot.corePart.parts.worm-2.customLabel>
+  <VGE_WormKnot.corePart.parts.worm-3.customLabel>червь</VGE_WormKnot.corePart.parts.worm-3.customLabel>
+  <VGE_WormKnot.corePart.parts.worm-4.customLabel>червь</VGE_WormKnot.corePart.parts.worm-4.customLabel>
+  <VGE_WormKnot.corePart.parts.worm-5.customLabel>червь</VGE_WormKnot.corePart.parts.worm-5.customLabel>
+  <VGE_WormKnot.corePart.parts.worm-6.customLabel>червь</VGE_WormKnot.corePart.parts.worm-6.customLabel>
+  <VGE_WormKnot.corePart.parts.worm-7.customLabel>червь</VGE_WormKnot.corePart.parts.worm-7.customLabel>
+  <VGE_WormKnot.corePart.parts.worm-8.customLabel>червь</VGE_WormKnot.corePart.parts.worm-8.customLabel>
+  <VGE_WormKnot.corePart.parts.worm-9.customLabel>червь</VGE_WormKnot.corePart.parts.worm-9.customLabel>
+  <VGE_WormHive.label>червиный улей</VGE_WormHive.label>
+  <VGE_WormHive.corePart.parts.worm-0.customLabel>червь</VGE_WormHive.corePart.parts.worm-0.customLabel>
+  <VGE_WormHive.corePart.parts.worm-1.customLabel>червь</VGE_WormHive.corePart.parts.worm-1.customLabel>
+  <VGE_WormHive.corePart.parts.worm-2.customLabel>червь</VGE_WormHive.corePart.parts.worm-2.customLabel>
+  <VGE_WormHive.corePart.parts.worm-3.customLabel>червь</VGE_WormHive.corePart.parts.worm-3.customLabel>
+  <VGE_WormHive.corePart.parts.worm-4.customLabel>червь</VGE_WormHive.corePart.parts.worm-4.customLabel>
+  <VGE_WormHive.corePart.parts.worm-5.customLabel>червь</VGE_WormHive.corePart.parts.worm-5.customLabel>
+  <VGE_WormHive.corePart.parts.worm-6.customLabel>червь</VGE_WormHive.corePart.parts.worm-6.customLabel>
+  <VGE_WormHive.corePart.parts.worm-7.customLabel>червь</VGE_WormHive.corePart.parts.worm-7.customLabel>
+  <VGE_WormHive.corePart.parts.worm-8.customLabel>червь</VGE_WormHive.corePart.parts.worm-8.customLabel>
+  <VGE_WormHive.corePart.parts.worm-9.customLabel>червь</VGE_WormHive.corePart.parts.worm-9.customLabel>
+  <VGE_WormWithArmorHeadClawAndTail.label>червь с бронёй, головным когтем и хвостом</VGE_WormWithArmorHeadClawAndTail.label>
+  <VGE_WormWithArmorHeadClawAndTail.corePart.parts.VGE_SecondWormSegment.parts.left_lung.customLabel>левое лёгкое</VGE_WormWithArmorHeadClawAndTail.corePart.parts.VGE_SecondWormSegment.parts.left_lung.customLabel>
+  <VGE_WormWithArmorHeadClawAndTail.corePart.parts.VGE_SecondWormSegment.parts.right_lung.customLabel>правое лёгкое</VGE_WormWithArmorHeadClawAndTail.corePart.parts.VGE_SecondWormSegment.parts.right_lung.customLabel>
+  <VGE_WormWithArmorHeadClawAndTail.corePart.parts.VGE_FourthWormSegment.parts.left_kidney.customLabel>левая почка</VGE_WormWithArmorHeadClawAndTail.corePart.parts.VGE_FourthWormSegment.parts.left_kidney.customLabel>
+  <VGE_WormWithArmorHeadClawAndTail.corePart.parts.VGE_FourthWormSegment.parts.right_kidney.customLabel>правая почка</VGE_WormWithArmorHeadClawAndTail.corePart.parts.VGE_FourthWormSegment.parts.right_kidney.customLabel>
+  <VGE_WormWithArmorHeadClawAndTail.corePart.parts.SnakeHead.parts.echolocation_organ.customLabel>орган эхолокации</VGE_WormWithArmorHeadClawAndTail.corePart.parts.SnakeHead.parts.echolocation_organ.customLabel>
+</LanguageData>

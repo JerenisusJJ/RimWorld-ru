@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FloatToolsItems2Map>Убрать грязь (эта карта)</FloatToolsItems2Map>
+  <FloatToolsItemsDeadApparelHome>Убрать осквернённую одежду (домашняя зона)</FloatToolsItemsDeadApparelHome>
+  <FloatToolsItems6>Убрать иссохшие/сгнившие трупы на текущей карте</FloatToolsItems6>
+  <StorytellerFixQueueInfo>Информация об очереди исправления рассказчика</StorytellerFixQueueInfo>
+  <StorytellerFixQueueClearDev>Разр.: очистка очереди исправления рассказчика</StorytellerFixQueueClearDev>
+  <STFteller>Рассказчик: {0}</STFteller>
+  <STFdifficulty>Сложность рассказчика: {0}</STFdifficulty>
+  <SFTlength>Длина очереди рассказчика: {0}</SFTlength>
+  <STFcurrent>Текущая очередь заданий: {0}</STFcurrent>
+  <STFjobdone>Последнее выполненное задание: {0}</STFjobdone>
+  <STFjobNOTdone>Последнее невыполненное задание: {0}</STFjobNOTdone>
+  <MsgTextDAH>RuntimeGC: убрано осквернённой одежды из домашней зоны: {0}.</MsgTextDAH>
+  <MsgTextRCMSkipped>RuntimeGC: пропущено неестественных трупов: {0} (сущность DLC Anomaly; её уничтожение наказывает преследуемого колониста).</MsgTextRCMSkipped>
+</LanguageData>

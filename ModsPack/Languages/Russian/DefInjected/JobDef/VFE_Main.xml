@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Play_Roulette.reportString>играет в рулетку.</Play_Roulette.reportString>
+  <Play_Arcade.reportString>играет в аркадный автомат.</Play_Arcade.reportString>
+  <Play_DartsBoard.reportString>играет в дартс.</Play_DartsBoard.reportString>
+  <Play_PunchingBag.reportString>колотит боксёрскую грушу.</Play_PunchingBag.reportString>
+  <VFE_Play_Computer.reportString>работает за компьютером.</VFE_Play_Computer.reportString>
+  <VFE_Play_Sunbathing.reportString>загорает.</VFE_Play_Sunbathing.reportString>
+  <VFE_ListenToMusic.reportString>слушает музыку.</VFE_ListenToMusic.reportString>
+  <VFE_ComputerLearning.reportString>работает за компьютером.</VFE_ComputerLearning.reportString>
+  <VFE_CleanBin.reportString>убирает TargetA.</VFE_CleanBin.reportString>
+</LanguageData>

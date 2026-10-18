@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_GravmineRadius.label>частица</VGE_GravmineRadius.label>
+  <VGE_SignalJammerRadius.label>частица</VGE_SignalJammerRadius.label>
+  <VGE_AuxiliaryAstrofuelTank.label>вспомогательный бак астротоплива</VGE_AuxiliaryAstrofuelTank.label>
+  <VGE_AuxiliaryAstrofuelTank.description>Компактный бак малого объёма для хранения астротоплива, питающий ускорители гравикорабля.</VGE_AuxiliaryAstrofuelTank.description>
+  <VGE_AuxiliaryOxygenTank.label>вспомогательный кислородный бак</VGE_AuxiliaryOxygenTank.label>
+  <VGE_AuxiliaryOxygenTank.description>Компактный кислородный бак малого объёма, снабжающий кислородом насосы по всему гравикораблю.</VGE_AuxiliaryOxygenTank.description>
+  <VGE_AirlockDoor.label>шлюзовая дверь (1x1)</VGE_AirlockDoor.label>
+  <VGE_AirlockDoor.description>Специальная сильно укреплённая дверь, служащая физическим барьером и автоматической атмосферной заслонкой. При наличии питания обеспечивает быстрый и безопасный переход между герметичными помещениями и вакуумом, сохраняя герметичность и регулируя давление при работе. Колонисты не войдут в неё без необходимой защиты от вакуума.</VGE_AirlockDoor.description>
+  <VGE_Airlock2x1Door.label>шлюзовая дверь (2x1)</VGE_Airlock2x1Door.label>
+  <VGE_Airlock2x1Door.description>Специальная сильно укреплённая дверь, служащая физическим барьером и автоматической атмосферной заслонкой. При наличии питания обеспечивает быстрый и безопасный переход между герметичными помещениями и вакуумом, сохраняя герметичность и регулируя давление при работе. Колонисты не войдут в неё без необходимой защиты от вакуума.</VGE_Airlock2x1Door.description>
+  <VGE_Airlock3x1Door.label>шлюзовая дверь (3x1)</VGE_Airlock3x1Door.label>
+  <VGE_Airlock3x1Door.description>Специальная сильно укреплённая дверь, служащая физическим барьером и автоматической атмосферной заслонкой. При наличии питания обеспечивает быстрый и безопасный переход между герметичными помещениями и вакуумом, сохраняя герметичность и регулируя давление при работе. Колонисты не войдут в неё без необходимой защиты от вакуума.</VGE_Airlock3x1Door.description>
+  <VGE_Airlock5x1Door.label>шлюзовая дверь (5x1)</VGE_Airlock5x1Door.label>
+  <VGE_Airlock5x1Door.description>Специальная сильно укреплённая дверь, служащая физическим барьером и автоматической атмосферной заслонкой. При наличии питания обеспечивает быстрый и безопасный переход между герметичными помещениями и вакуумом, сохраняя герметичность и регулируя давление при работе. Колонисты не войдут в неё без необходимой защиты от вакуума.</VGE_Airlock5x1Door.description>
+  <VGE_TargetingConsole.label>консоль наведения</VGE_TargetingConsole.label>
+  <VGE_TargetingConsole.description>Большая консоль наведения, способная управлять тремя артиллерийскими орудиями гравикорабля. Требует члена экипажа, который вручную наводит и стреляет. Питается напрямую от гравидвигателя.</VGE_TargetingConsole.description>
+  <VGE_GravshipMinigunTurret.label>миниган-турель гравикорабля</VGE_GravshipMinigunTurret.label>
+  <VGE_GravshipMinigunTurret.description>Компактная тяжёлая автоматическая турель, устанавливаемая на гравикорабль. Многоствольный механизм ведёт непрерывный огонь на высокой скорости, кромсая слабо бронированные цели на средней дистанции. При повреждении может взорваться.</VGE_GravshipMinigunTurret.description>
+  <VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelGizmoLabel>Сталь</VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelLabel>Сталь</VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelLabel>
+  <VGE_Gun_GravshipMinigun.label>миниган гравикорабля</VGE_Gun_GravshipMinigun.label>
+  <VGE_Gun_GravshipMinigun.verbs.Verb_Shoot.label>миниган гравикорабля</VGE_Gun_GravshipMinigun.verbs.Verb_Shoot.label>
+  <VGE_GravshipAutocannonTurret.label>автопушка-турель гравикорабля</VGE_GravshipAutocannonTurret.label>
+  <VGE_GravshipAutocannonTurret.description>Компактная автоматическая турель, устанавливаемая на гравикорабль. Её крупнокалиберные снаряды наносят тяжёлый урон на больших дистанциях, но, несмотря на эффективность, после интенсивного использования ствол необходимо восстанавливать. Не может стрелять по близким целям и может взорваться при повреждении. Нужно строить на подструктуре.</VGE_GravshipAutocannonTurret.description>
+  <VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelGizmoLabel>Сталь</VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelLabel>Сталь</VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelLabel>
+  <VGE_Gun_GravshipAutocannon.label>автопушка гравикорабля</VGE_Gun_GravshipAutocannon.label>
+  <VGE_Gun_GravshipAutocannon.verbs.Verb_Shoot.label>автопушка гравикорабля</VGE_Gun_GravshipAutocannon.verbs.Verb_Shoot.label>
+  <VGE_Bullet_GravshipAutocannon.label>снаряд автопушки</VGE_Bullet_GravshipAutocannon.label>
+  <VGE_GravshipUraniumSlugTurret.label>урановая турель гравикорабля</VGE_GravshipUraniumSlugTurret.label>
+  <VGE_GravshipUraniumSlugTurret.description>Компактная бронебойная турель, устанавливаемая на гравикорабль. Её сверхплотные урановые снаряды пробивают тяжёлую броню, но после использования требуют загрузки новых урановых болванок. Эффективнее наземной версии: расходует меньше болванок на выстрел. Точнее стреляет на больших дистанциях и совсем не может вести огонь по близким целям. При повреждении может взорваться. Нужно строить на подструктуре.</VGE_GravshipUraniumSlugTurret.description>
+  <VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelGizmoLabel>Уран</VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelLabel>Уран</VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelLabel>
+  <VGE_Gun_GravshipUraniumSlug.label>урановое орудие гравикорабля</VGE_Gun_GravshipUraniumSlug.label>
+  <VGE_Gun_GravshipUraniumSlug.verbs.Verb_Shoot.label>урановое орудие гравикорабля</VGE_Gun_GravshipUraniumSlug.verbs.Verb_Shoot.label>
+  <VGE_Bullet_GravshipUraniumSlug.label>урановый снаряд</VGE_Bullet_GravshipUraniumSlug.label>
+  <VGE_GaussHowitzer.label>гауссова гаубица</VGE_GaussHowitzer.label>
+  <VGE_GaussHowitzer.description>Трёхствольное электромагнитное артиллерийское орудие, выпускающее плотные урановые болванки с высокой скоростью. Предназначено как для локальных обстрелов, так и для дальних боёв; может также целиться по другим гравикораблям на орбите. Для работы требует связанного терминала наведения с оператором. Питается напрямую от гравидвигателя.</VGE_GaussHowitzer.description>
+  <VGE_GaussHowitzer.comps.CompRefuelable.fuelGizmoLabel>Урановые болванки</VGE_GaussHowitzer.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_GaussHowitzer.comps.CompRefuelable.fuelLabel>Урановые болванки</VGE_GaussHowitzer.comps.CompRefuelable.fuelLabel>
+  <VGE_Gun_GaussHowitzer.label>гауссова гаубица</VGE_Gun_GaussHowitzer.label>
+  <VGE_Gun_GaussHowitzer.description>Трёхствольное электромагнитное артиллерийское орудие.</VGE_Gun_GaussHowitzer.description>
+  <VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>гауссова гаубица</VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Bullet_GaussHowitzer.label>выстрел гауссовой гаубицы</VGE_Bullet_GaussHowitzer.label>
+  <VGE_JavelinLauncher.label>установка «Джавелин»</VGE_JavelinLauncher.label>
+  <VGE_JavelinLauncher.description>Тяжёлая многотрубная ракетная платформа, выпускающая залп из 12 дальнобойных управляемых дротиков с астротопливным двигателем. Предназначена для массированных ударов по наземным целям и вражеским гравикораблям на орбите. Для работы требует связанного терминала наведения с оператором. Питается напрямую от гравидвигателя.</VGE_JavelinLauncher.description>
+  <VGE_JavelinLauncher.comps.CompRefuelable.fuelGizmoLabel>Астротопливо</VGE_JavelinLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_JavelinLauncher.comps.CompRefuelable.fuelLabel>Астротопливо</VGE_JavelinLauncher.comps.CompRefuelable.fuelLabel>
+  <VGE_JavelinLauncher.comps.CompRefuelable.outOfFuelMessage>Нет ракет</VGE_JavelinLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <VGE_Gun_JavelinLauncher.label>установка «Джавелин»</VGE_Gun_JavelinLauncher.label>
+  <VGE_Gun_JavelinLauncher.description>Многотрубная установка «Джавелин» для гравикорабля. Для работы требует связанного терминала наведения с оператором.</VGE_Gun_JavelinLauncher.description>
+  <VGE_Gun_JavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>установка «Джавелин»</VGE_Gun_JavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_Rocket_JavelinLauncherRocket.label>ракета «Джавелин»</VGE_Rocket_JavelinLauncherRocket.label>
+  <VGE_AnticraftEmitter.label>противокорабельный излучатель</VGE_AnticraftEmitter.label>
+  <VGE_AnticraftEmitter.description>Крупное энергетическое оружие, устанавливаемое на гравикорабль и проецирующее сфокусированный режущий луч, способный рассекать броню и обшивку корпуса. Предназначено для борьбы с вражескими гравикораблями на орбите и ведёт разрушительный непрерывный огонь. Для работы требует связанного терминала наведения с оператором. Потребляет много энергии при стрельбе.</VGE_AnticraftEmitter.description>
+  <VGE_Gun_AnticraftEmitter.label>противокорабельный излучатель</VGE_Gun_AnticraftEmitter.label>
+  <VGE_Gun_AnticraftEmitter.description>Крупное энергетическое оружие, проецирующее режущий луч.</VGE_Gun_AnticraftEmitter.description>
+  <VGE_Gun_AnticraftEmitter.verbs.Verb_ShootWithWorldTargeting.label>противокорабельный излучатель</VGE_Gun_AnticraftEmitter.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_Bullet_AnticraftEmitter.label>луч противокорабельного излучателя</VGE_Bullet_AnticraftEmitter.label>
+  <VGE_Gravmine.label>гравимина</VGE_Gravmine.label>
+  <VGE_Gravmine.description>Мощное взрывное устройство для боёв в космосе. Имеет большой радиус обнаружения и при приближении любой цели, включая вражеские гравикорабли, вызывает сильный взрыв. Строится только в космосе.</VGE_Gravmine.description>
+  <VGE_LargeGravshipShieldGenerator.label>большой генератор щита гравикорабля</VGE_LargeGravshipShieldGenerator.label>
+  <VGE_LargeGravshipShieldGenerator.description>Крупное защитное устройство, способное прикрыть гравикорабль. Модулирует гравитационное поле, создавая недолговечную отражающую импульс поверхность, которая блокирует снаряды. Действует против обычных выстрелов и мини-снарядов. Находящиеся внутри могут стрелять наружу. Перед использованием его нужно зарядить. Активные щиты выделяют структурное тепло, которое, если его не поглотят теплоотводы, сбрасывается внутрь гравикорабля. Один гравикорабль может нести два больших генератора щита.</VGE_LargeGravshipShieldGenerator.description>
+  <VGE_LargeGravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>включить</VGE_LargeGravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  <VGE_DestroyedLargeOxygenTank.label>разрушенный большой кислородный бак</VGE_DestroyedLargeOxygenTank.label>
+  <VGE_DestroyedLargeOxygenTank.description>Этот огромный бак когда-то хранил запас системы жизнеобеспечения гравикорабля, но теперь разорван и бесполезен. Из его массивной конструкции всё ещё можно извлечь немало металлолома.</VGE_DestroyedLargeOxygenTank.description>
+  <VGE_DestroyedLifeSupportSystem.label>разрушенный оксигенатор на водорослях</VGE_DestroyedLifeSupportSystem.label>
+  <VGE_DestroyedLifeSupportSystem.description>Разрушенное устройство, некогда перерабатывавшее собранные оксиводоросли в пригодный для дыхания кислород. Конверсионные узлы разорваны, и оно больше не подаёт газ в кислородную сеть.</VGE_DestroyedLifeSupportSystem.description>
+  <VGE_DestroyedLargeChemfuelTank.label>разрушенный большой бак астротоплива</VGE_DestroyedLargeChemfuelTank.label>
+  <VGE_DestroyedLargeChemfuelTank.description>Разбитые останки огромного хранилища астротоплива, служившего для питания ускорителей гравикорабля. В остове ещё остались материалы, которые можно извлечь.</VGE_DestroyedLargeChemfuelTank.description>
+  <VGE_DestroyedGiantAstrofuelTank.label>разрушенный гигантский бак астротоплива</VGE_DestroyedGiantAstrofuelTank.label>
+  <VGE_DestroyedGiantAstrofuelTank.description>Разбитые останки монументального хранилища астротоплива, служившего для питания ускорителей гравикорабля. В остове ещё остались материалы, которые можно извлечь.</VGE_DestroyedGiantAstrofuelTank.description>
+  <VGE_DestroyedAstrofuelSynthesizer.label>разрушенный синтезатор астротоплива</VGE_DestroyedAstrofuelSynthesizer.label>
+  <VGE_DestroyedAstrofuelSynthesizer.description>Руины специализированного сооружения, некогда перерабатывавшего химтопливо в высококачественное астротопливо. Оно больше не подключено к сети труб астротоплива и баками астротоплива и работать не может.</VGE_DestroyedAstrofuelSynthesizer.description>
+  <VGE_DestroyedAstrofuelGenerator.label>разрушенный астротопливный генератор</VGE_DestroyedAstrofuelGenerator.label>
+  <VGE_DestroyedAstrofuelGenerator.description>Разрушенный астротопливный генератор, некогда способный превращать астротопливо в энергию.</VGE_DestroyedAstrofuelGenerator.description>
+  <VGE_DestroyedIndustrialAstrofuelGenerator.label>разрушенный промышленный астротопливный генератор</VGE_DestroyedIndustrialAstrofuelGenerator.label>
+  <VGE_DestroyedIndustrialAstrofuelGenerator.description>Разрушенный астротопливный генератор промышленного размера, некогда способный превращать астротопливо в энергию.</VGE_DestroyedIndustrialAstrofuelGenerator.description>
+  <VGE_DestroyedAstropurifier.label>разрушенный астроочиститель</VGE_DestroyedAstropurifier.label>
+  <VGE_DestroyedAstropurifier.description>Гравитехнический блок, повышавший точность и стабильность переработки астротоплива. Теперь сломан без возможности ремонта.</VGE_DestroyedAstropurifier.description>
+  <VGE_DestroyedFuelOptimizer.label>разрушенный оптимизатор астротоплива</VGE_DestroyedFuelOptimizer.label>
+  <VGE_DestroyedFuelOptimizer.description>Разрушенный гравитехнический блок, который позволял подъёму гравидвигателя эффективнее согласовываться с обычными ускорителями. Теперь это просто металлолом.</VGE_DestroyedFuelOptimizer.description>
+  <VGE_DestroyedOxygenReclaimer.label>разрушенный кислородный регенератор</VGE_DestroyedOxygenReclaimer.label>
+  <VGE_DestroyedOxygenReclaimer.description>Сломанный блок, извлекавший следы кислорода из окружающих газов. Разбит без возможности ремонта, можно разобрать на металлолом.</VGE_DestroyedOxygenReclaimer.description>
+  <VGE_DestroyedLargeHeatsink.label>разрушенный большой теплоотвод</VGE_DestroyedLargeHeatsink.label>
+  <VGE_DestroyedLargeHeatsink.description>Этот большой теплоотвод когда-то охлаждал системы гравикорабля, но выгорел. Из обломков всё ещё можно извлечь немного стали.</VGE_DestroyedLargeHeatsink.description>
+  <VGE_DestroyedGravheatAbsorber.label>разрушенный гравипоглотитель тепла</VGE_DestroyedGravheatAbsorber.label>
+  <VGE_DestroyedGravheatAbsorber.description>Искорёженный, обугленный и неработоспособный специальный теплоотвод, изначально предназначенный для мгновенного охлаждения гравидвигателя. Из-за расплавленных внутренних систем и треснувшей защиты он теперь бесполезен по назначению. Однако его плотный корпус из экзотического металла и детали всё ещё пригодны для разбора.</VGE_DestroyedGravheatAbsorber.description>
+  <VGE_DestroyedGiantThruster.label>разрушенный гигантский ускоритель</VGE_DestroyedGiantThruster.label>
+  <VGE_DestroyedGiantThruster.description>Этот колоссальный ускоритель когда-то двигал огромные гравикорабли по орбите, но теперь превратился в груду искорёженного металла. Благодаря огромным размерам из него всё ещё можно извлечь немало материалов.</VGE_DestroyedGiantThruster.description>
+  <VGE_DestroyedPilotCockpit.label>разрушенная кабина пилота</VGE_DestroyedPilotCockpit.label>
+  <VGE_DestroyedPilotCockpit.description>Остатки интерфейса управления гравипрыгуна, разбитые и бесполезные для пилотирования, но всё ещё содержащие пригодный металлолом.</VGE_DestroyedPilotCockpit.description>
+  <VGE_DestroyedPilotConsole.label>разрушенная консоль пилота</VGE_DestroyedPilotConsole.label>
+  <VGE_DestroyedPilotConsole.description>Остатки интерфейса управления гравикорабля, разбитые и бесполезные для пилотирования, но всё ещё содержащие пригодный металлолом.</VGE_DestroyedPilotConsole.description>
+  <VGE_DestroyedPilotBridge.label>разрушенный мостик пилота</VGE_DestroyedPilotBridge.label>
+  <VGE_DestroyedPilotBridge.description>Остатки интерфейса управления гравиглыбы, разбитые и бесполезные для пилотирования, но всё ещё содержащие пригодный металлолом.</VGE_DestroyedPilotBridge.description>
+  <VGE_DestroyedCopilotConsole.label>разрушенная консоль второго пилота</VGE_DestroyedCopilotConsole.label>
+  <VGE_DestroyedCopilotConsole.description>Сломанная панель управления, некогда помогавшая консоли пилота, теперь превратившаяся в металлолом.</VGE_DestroyedCopilotConsole.description>
+  <VGE_DestroyedTargetingTerminal.label>разрушенный терминал наведения</VGE_DestroyedTargetingTerminal.label>
+  <VGE_DestroyedTargetingTerminal.description>Разбитые останки терминала наведения. Экраны треснули и погасли, а чувствительные механизмы наведения искривлены и неработоспособны. Теперь это лишь материал для разбора.</VGE_DestroyedTargetingTerminal.description>
+  <VGE_DestroyedGunnerSubpersonaCore.label>разрушенное ядро субперсоны стрелка</VGE_DestroyedGunnerSubpersonaCore.label>
+  <VGE_DestroyedGunnerSubpersonaCore.description>Разбитое и неактивное орудийное ядро гравикорабля. Современный процессор, в котором размещалась специализированная боевая субперсона, треснул, а порты подключения ядра искорёжены и бесполезны. Из него можно извлечь немного сложных компонентов.</VGE_DestroyedGunnerSubpersonaCore.description>
+  <VGE_DestroyedGravtechConsole.label>разрушенная гравитехническая консоль</VGE_DestroyedGravtechConsole.label>
+  <VGE_DestroyedGravtechConsole.description>Интерфейс для анализа гравиданных, теперь разбитый и бесполезный. Экраны погасли и треснули, а хрупкие компоненты анализа гравиданных искривлены и неработоспособны. Теперь это лишь материал для разбора.</VGE_DestroyedGravtechConsole.description>
+  <VGE_DestroyedFlightComputer.label>разрушенный бортовой компьютер</VGE_DestroyedFlightComputer.label>
+  <VGE_DestroyedFlightComputer.description>Полностью разрушенный вычислительный блок, оптимизировавший сбор гравиданных. Можно разобрать, получив всё, что от него осталось.</VGE_DestroyedFlightComputer.description>
+  <VGE_DestroyedGravFieldAmplifier.label>разрушенный усилитель гравиполя</VGE_DestroyedGravFieldAmplifier.label>
+  <VGE_DestroyedGravFieldAmplifier.description>Разбитые останки современного ультратехнологичного устройства, некогда резко увеличивавшего размер и площадь застройки гравикорабля. Основные системы полностью уничтожены, но из обломков ещё можно извлечь специализированное гравиядро.</VGE_DestroyedGravFieldAmplifier.description>
+  <VGE_DestroyedMaintenanceHub.label>разрушенный центр обслуживания</VGE_DestroyedMaintenanceHub.label>
+  <VGE_DestroyedMaintenanceHub.description>Полностью разрушенная система, оптимизировавшая и автоматизировавшая рутинные процессы на гравикорабле. Можно разобрать на некоторые ресурсы.</VGE_DestroyedMaintenanceHub.description>
+  <VGE_DestroyedCapacitorHarmonizer.label>разрушенный гармонизатор конденсаторов</VGE_DestroyedCapacitorHarmonizer.label>
+  <VGE_DestroyedCapacitorHarmonizer.description>Взорванное устройство, балансировавшее и синхронизировавшее поток энергии между конденсаторами. Можно разобрать, вернув часть ресурсов.</VGE_DestroyedCapacitorHarmonizer.description>
+  <VGE_DestroyedGravlift.label>разрушенный гравилифт</VGE_DestroyedGravlift.label>
+  <VGE_DestroyedGravlift.description>Изуродованные обломки сложного стабилизирующего устройства. Основные ускорители сплавились, а гравитационные демпферы разбиты, так что оно бесполезно для полёта и стабилизации, однако масса экзотических металлов и деталей может быть разобрана с ценной отдачей ресурсов.</VGE_DestroyedGravlift.description>
+  <VGE_DestroyedEngineeringConsole.label>разрушенная инженерная консоль</VGE_DestroyedEngineeringConsole.label>
+  <VGE_DestroyedEngineeringConsole.description>Разбитый интерфейс, служивший для контроля состояния обслуживания всех компонентов гравикорабля. Можно разобрать на металлолом.</VGE_DestroyedEngineeringConsole.description>
+  <VGE_DestroyedGravcorePowerCell.label>разрушенная энергоячейка гравиядра</VGE_DestroyedGravcorePowerCell.label>
+  <VGE_DestroyedGravcorePowerCell.description>Разрушенный генератор энергии, некогда способный пассивно собирать энергию гравитационных волн и усиливать соседние энергоячейки. Из него ещё можно извлечь некоторые ресурсы.</VGE_DestroyedGravcorePowerCell.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_PlanterBox.label>ящик для растений</VFE_PlanterBox.label>
+  <VFE_PlanterBox.description>Выращивает растения в ящике с почвой. Для работы не требует электричества.</VFE_PlanterBox.description>
+  <VFE_Ecosystem.label>искусственная экосистема</VFE_Ecosystem.label>
+  <VFE_Ecosystem.description>Быстро выращивает растения в искусственной герметичной экосистеме. Требует много электричества; если питание отключить, растения погибнут.\n\nВ комплект входит встроенная солнечная лампа для освещения растений.</VFE_Ecosystem.description>
+  <VFE_PlanterBox_Tilable.label>модульный ящик для растений</VFE_PlanterBox_Tilable.label>
+  <VFE_PlanterBox_Tilable.description>Выращивает растения в ящике с почвой. Для работы не требует электричества.\n\nМожно построить любой нужной формы.</VFE_PlanterBox_Tilable.description>
+  <VFE_Hydroponics_Tilable.label>модульный гидропонный бассейн</VFE_Hydroponics_Tilable.label>
+  <VFE_Hydroponics_Tilable.description>Искусственная питательная ванна для выращивания растений. Насосы питательного раствора должны работать непрерывно; если питание отключить, растения погибнут.\n\nЭта версия модульная и собирается в любую нужную форму.</VFE_Hydroponics_Tilable.description>
+  <VFE_Ecosystem_Tilable.label>модульная искусственная экосистема</VFE_Ecosystem_Tilable.label>
+  <VFE_Ecosystem_Tilable.description>Быстро выращивает растения в искусственной герметичной экосистеме, которую можно настроить так, чтобы эффективно росли даже капризные растения. Требует много электричества; если питание отключить, растения погибнут. Содержит встроенную солнечную лампу для освещения растений.\n\nЭта версия модульная и собирается в любую нужную форму.</VFE_Ecosystem_Tilable.description>
+  <VFE_Scarecrow.label>пугало</VFE_Scarecrow.label>
+  <VFE_Scarecrow.description>Человекоподобная фигура из сена в старой одежде, отпугивающая животных в большом радиусе. Мелкие животные побоятся подойти.</VFE_Scarecrow.description>
+  <VFE_Sprinkler.label>спринклер</VFE_Sprinkler.label>
+  <VFE_Sprinkler.description>Водяной спринклер, поливающий область вокруг себя. Ускоряет рост окружающих растений.</VFE_Sprinkler.description>
+  <VFEF_Mote_SprinklerWater.label>частица</VFEF_Mote_SprinklerWater.label>
+</LanguageData>

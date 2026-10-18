@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChildrenInheritAreaFromParent.label>дети при рождении наследуют зону ограничения от родителя</ChildrenInheritAreaFromParent.label>
+  <AnimalsInheritAreaFromParent.label>животные при рождении наследуют зону ограничения от родителя</AnimalsInheritAreaFromParent.label>
+  <ShowDisabledInSearch.label>показывать отключённые настройки в поиске</ShowDisabledInSearch.label>
+  <HideSetAsDefault.label>скрыть кнопки «сохранить как настройку по умолчанию»</HideSetAsDefault.label>
+  <HideLoadDefault.label>скрыть кнопки «загрузить настройку по умолчанию»</HideLoadDefault.label>
+  <SettingsBackupOptions.label>резервное копирование настроек по умолчанию</SettingsBackupOptions.label>
+  <DefaultCareForColonist.label>лекарства по умолчанию для колонистов</DefaultCareForColonist.label>
+  <DefaultCareForPrisoner.label>лекарства по умолчанию для заключённых</DefaultCareForPrisoner.label>
+  <DefaultCareForSlave.label>лекарства по умолчанию для рабов</DefaultCareForSlave.label>
+  <DefaultCareForGhouls.label>лекарства по умолчанию для гулей</DefaultCareForGhouls.label>
+  <DefaultCareForTamedAnimal.label>лекарства по умолчанию для прирученных животных</DefaultCareForTamedAnimal.label>
+  <DefaultCareForFriendlyFaction.label>лекарства по умолчанию для дружественной фракции</DefaultCareForFriendlyFaction.label>
+  <DefaultCareForNeutralFaction.label>лекарства по умолчанию для нейтральной фракции</DefaultCareForNeutralFaction.label>
+  <DefaultCareForHostileFaction.label>лекарства по умолчанию для враждебной фракции</DefaultCareForHostileFaction.label>
+  <DefaultCareForNoFaction.label>лекарства по умолчанию для существ без фракции</DefaultCareForNoFaction.label>
+  <DefaultCareForWildlife.label>лекарства по умолчанию для дикой природы</DefaultCareForWildlife.label>
+  <DefaultCareForEntities.label>лекарства по умолчанию для сущностей</DefaultCareForEntities.label>
+  <MedCarry.label>лекарства для ношения по умолчанию</MedCarry.label>
+  <MedCarryAmount.label>количество лекарств для ношения по умолчанию</MedCarryAmount.label>
+  <MedCarryGuest.label>гости тоже берут лекарства с собой</MedCarryGuest.label>
+  <StartingXenotype.label>начальный ксенотип по умолчанию</StartingXenotype.label>
+  <HostilityResponse.label>реакция на враждебность по умолчанию</HostilityResponse.label>
+  <PregnancyApproach.label>подход к беременности по умолчанию</PregnancyApproach.label>
+  <PlantType.label>тип растения по умолчанию</PlantType.label>
+  <CaravanAutoSelect.label>по умолчанию автоматически выбирать припасы каравана</CaravanAutoSelect.label>
+  <TargetTempHeater.label>целевая температура для обогревателей</TargetTempHeater.label>
+  <TargetTempCooler.label>целевая температура для охладителей</TargetTempCooler.label>
+  <WorkModeFirst.label>рабочий режим первой группы управления механоидами</WorkModeFirst.label>
+  <WorkModeSecond.label>рабочий режим второй группы управления механоидами</WorkModeSecond.label>
+  <WorkModeAdditional.label>рабочий режим дополнительных групп управления механоидами</WorkModeAdditional.label>
+  <AutoRebuild.label>автовосстановление построек по умолчанию</AutoRebuild.label>
+  <AutoHomeArea.label>автоматическая домашняя зона по умолчанию</AutoHomeArea.label>
+  <ZoneVisibility.label>по умолчанию показывать нескрытые зоны</ZoneVisibility.label>
+  <ShowPlanetDayNight.label>по умолчанию показывать день и ночь на планете</ShowPlanetDayNight.label>
+  <ShowWorldFeatures.label>по умолчанию показывать названия особенностей планеты</ShowWorldFeatures.label>
+  <LockNorthUp.label>по умолчанию фиксировать вид планеты севером вверх</LockNorthUp.label>
+  <ShowImportantExpandingIcons.label>по умолчанию показывать расширяющиеся значки важных клеток планеты</ShowImportantExpandingIcons.label>
+  <ShowBasesExpandingIcons.label>по умолчанию показывать расширяющиеся значки баз фракций на планете</ShowBasesExpandingIcons.label>
+  <ShowExpandingLandmarks.label>по умолчанию показывать расширяющиеся значки достопримечательностей</ShowExpandingLandmarks.label>
+  <DefaultPolicyAssignments.label>назначения политик по умолчанию</DefaultPolicyAssignments.label>
+  <AllowRemovingFromOutfitStand.label>по умолчанию разрешать снимать вещи с манекенов</AllowRemovingFromOutfitStand.label>
+  <Storyteller.label>рассказчик по умолчанию</Storyteller.label>
+  <Difficulty.label>сложность по умолчанию</Difficulty.label>
+  <Permadeath.label>режим обязательств по умолчанию</Permadeath.label>
+  <BillIngredientSearchRadius.label>радиус поиска ингредиентов по умолчанию для заказов верстаков</BillIngredientSearchRadius.label>
+  <BillAllowedSkillRange.label>диапазон навыка по умолчанию для заказов верстаков</BillAllowedSkillRange.label>
+  <BillStoreMode.label>режим хранения по умолчанию для заказов верстаков</BillStoreMode.label>
+  <LimitBillsTo15.label>ограничить верстаки 15 заказами</LimitBillsTo15.label>
+  <ManualPriorities.label>по умолчанию использовать ручные приоритеты работ</ManualPriorities.label>
+  <PlanetCoverage.label>охват планеты по умолчанию</PlanetCoverage.label>
+  <OverallRainfall.label>осадки на планете по умолчанию</OverallRainfall.label>
+  <OverallTemperature.label>температура на планете по умолчанию</OverallTemperature.label>
+  <OverallPopulation.label>население планеты по умолчанию</OverallPopulation.label>
+  <LandmarkDensity.label>плотность достопримечательностей по умолчанию</LandmarkDensity.label>
+  <PlanetPollution.label>загрязнение планеты по умолчанию</PlanetPollution.label>
+  <MapSize.label>размер карты по умолчанию</MapSize.label>
+  <StartingSeason.label>начальный сезон по умолчанию</StartingSeason.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: fine steel tile -->
+	<VFEArch_FineSteelTile.label>fine steel tile</VFEArch_FineSteelTile.label>
+	<!-- EN: Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+	<VFEArch_FineSteelTile.description>Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct.</VFEArch_FineSteelTile.description>
+	<!-- EN: fine silver tile -->
+	<VFEArch_FineSilverTile.label>fine silver tile</VFEArch_FineSilverTile.label>
+	<!-- EN: Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+	<VFEArch_FineSilverTile.description>Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct.</VFEArch_FineSilverTile.description>
+	<!-- EN: fine gold tile -->
+	<VFEArch_FineGoldTile.label>fine gold tile</VFEArch_FineGoldTile.label>
+	<!-- EN: Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+	<VFEArch_FineGoldTile.description>Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct.</VFEArch_FineGoldTile.description>
+</LanguageData>

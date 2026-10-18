@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>2ClauZ — Русский перевод модов</name>
+  <author>2ClauZ</author>
+  <packageId>2clauz.rumods</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Единый русский перевод модпака «from 2ClauZ» — дополняет язык «Русский (from 2ClauZ)» переводами всех установленных модов, которых нет в штатных русификаторах.
+
+Покрытие: Vanilla Gravship Expanded 1 и 2 (включая письма-находки, экран выбора кораблей, вкладку топлива), VFE Architect/Furniture/Security/Medical/Spacer/Props, VEF, Ranged DPS, Simple Sidearms, Numbers, Allow Tool, TD Find Lib/Ctrl F, Replace Stuff, Character Editor, Improved Need Indicator, RandomPlus, Quick Area, Complex Jobs, 1trickPwnyta-патчи, Smart Work Mode, RimHUD, RimSaves и др.
+
+Особенности:
+• Собран независимым аудитом: ценз непереведённого по дефам и Keyed, унификация терминов по глоссарию (гравикорабль, космотопливо, ускоритель, дротикомёт...), чистка мёртвых ключей.
+• Использует те же плейсхолдеры и терминологию, что и основной язык 2ClauZ.
+• Требует мод «2ClauZ — Русский язык RimWorld» и выбранный язык «Русский (from 2ClauZ)».
+
+Обновляется вручную при обновлениях модпака.</description>
+  <loadAfter>
+    <li>ludeon.rimworld</li>
+  </loadAfter>
+</ModMetaData>

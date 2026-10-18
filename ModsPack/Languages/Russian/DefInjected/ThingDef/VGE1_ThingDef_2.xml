@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_Gun_AnticraftCaster.description>Средний энергетический излучатель для установки на гравикорабль.</VGE_Gun_AnticraftCaster.description>
+  <VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>противокорабельный излучатель</VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_Bullet_AnticraftCaster.label>луч противокорабельного излучателя</VGE_Bullet_AnticraftCaster.label>
+  <VGE_Mote_BeamRepeaterLaser.label>частица</VGE_Mote_BeamRepeaterLaser.label>
+  <VGE_CompactStove.label>компактная электроплита</VGE_CompactStove.label>
+  <VGE_CompactStove.description>Компактная плита, работающая от гравикорабля и рассчитанная на использование на борту. Несмотря на небольшие размеры, в ней есть высокоэффективная варочная панель и встроенная поверхность для подготовки продуктов, а также разделочная плита. Питание подаётся напрямую от гравидвигателя.</VGE_CompactStove.description>
+  <VGE_CompactDrugLab.label>компактная химическая лаборатория</VGE_CompactDrugLab.label>
+  <VGE_CompactDrugLab.description>Компактная химическая лаборатория, работающая от гравикорабля и рассчитанная на использование на борту. Несмотря на небольшие размеры, она оснащена ёмкостями, нагревателями и измерительными приборами для производства различных препаратов. Питание подаётся напрямую от гравидвигателя.</VGE_CompactDrugLab.description>
+  <VGE_CompactMachiningTable.label>компактный верстак</VGE_CompactMachiningTable.label>
+  <VGE_CompactMachiningTable.description>Компактный верстак, работающий от гравикорабля и рассчитанный на использование на борту. Несмотря на небольшие размеры, он отлично подходит для сборки механизмов, таких как оружие и боеприпасы, и для разборки мёртвых механоидов. Питание подаётся напрямую от гравидвигателя.</VGE_CompactMachiningTable.description>
+  <VGE_CompactSmithy.label>компактная электрокузня</VGE_CompactSmithy.label>
+  <VGE_CompactSmithy.description>Компактная кузня, работающая от гравикорабля и рассчитанная на использование на борту. Несмотря на небольшие размеры, на ней можно ковать немеханическое оружие и инструменты, а также извлекать пригодный металл из шлаковых глыб. Питание подаётся напрямую от гравидвигателя.</VGE_CompactSmithy.description>
+  <VGE_CompactTailor.label>компактный портновский верстак</VGE_CompactTailor.label>
+  <VGE_CompactTailor.description>Компактный портновский верстак, работающий от гравикорабля и рассчитанный на использование на борту. Несмотря на небольшие размеры, он оснащён швейной машинкой для быстрого пошива одежды. Питание подаётся напрямую от гравидвигателя.</VGE_CompactTailor.description>
+  <VGE_CompactRefinery.label>компактный перегонный аппарат</VGE_CompactRefinery.label>
+  <VGE_CompactRefinery.description>Компактный перегонный аппарат, работающий от гравикорабля и рассчитанный на использование на борту. Несмотря на небольшие размеры, он перерабатывает биологическое сырьё, такое как древесина или растительная масса, в химтопливо. Питание подаётся напрямую от гравидвигателя.</VGE_CompactRefinery.description>
+  <VGE_CompactFabBench.label>компактный высокоточный станок</VGE_CompactFabBench.label>
+  <VGE_CompactFabBench.description>Компактный высокоточный станок, работающий от гравикорабля и рассчитанный на использование на борту. Несмотря на небольшие размеры, он оснащён передовыми инструментами для создания технологических чудес из более простых материалов. Питание подаётся напрямую от гравидвигателя.</VGE_CompactFabBench.description>
+  <VQEA_DestroyedSmallOxygenTank.label>разрушенный малый кислородный бак</VQEA_DestroyedSmallOxygenTank.label>
+  <VQEA_DestroyedSmallOxygenTank.description>Этот бак когда-то снабжал гравикорабль кислородом, но теперь он сломан и бесполезен. Из него ещё можно извлечь немного стали.</VQEA_DestroyedSmallOxygenTank.description>
+  <VQEA_DestroyedSmallAstrofuelTank.label>разрушенный малый бак астротоплива</VQEA_DestroyedSmallAstrofuelTank.label>
+  <VQEA_DestroyedSmallAstrofuelTank.description>Этот бак когда-то хранил астротопливо для ускорителей, но был разрушен. В его каркасе ещё остались пригодные материалы.</VQEA_DestroyedSmallAstrofuelTank.description>
+  <VQEA_DestroyedGravExtender.label>разрушенный расширитель гравиполя</VQEA_DestroyedGravExtender.label>
+  <VQEA_DestroyedGravExtender.description>Это устройство когда-то расширяло площадь застройки гравикорабля, но теперь разбито вдребезги. Некоторые ценные детали ещё можно извлечь.</VQEA_DestroyedGravExtender.description>
+  <VQEA_DestroyedSmallThruster.label>разрушенный малый ускоритель</VQEA_DestroyedSmallThruster.label>
+  <VQEA_DestroyedSmallThruster.description>Этот ускоритель когда-то приводил в движение гравикорабль, но теперь разбит и непригоден к работе. Обломки металла и компоненты ещё можно забрать.</VQEA_DestroyedSmallThruster.description>
+  <VQEA_DestroyedLargeThruster.label>разрушенный крупный ускоритель</VQEA_DestroyedLargeThruster.label>
+  <VQEA_DestroyedLargeThruster.description>Этот мощный ускоритель когда-то двигал гравикорабли через космос, но теперь лежит сломанным. Даже в руинах из него можно извлечь кое-что полезное.</VQEA_DestroyedLargeThruster.description>
+  <VQEA_DestroyedSmallHeatsink.label>разрушенный малый теплоотвод</VQEA_DestroyedSmallHeatsink.label>
+  <VQEA_DestroyedSmallHeatsink.description>Этот теплоотвод когда-то охлаждал системы гравикорабля, но выгорел. Из обломков ещё можно извлечь немного стали.</VQEA_DestroyedSmallHeatsink.description>
+  <VGE_DamagedEscapePod.label>повреждённая спасательная капсула</VGE_DamagedEscapePod.label>
+  <VGE_DamagedEscapePod.description>Потерпевшая крушение повреждённая спасательная капсула. Её можно взломать, чтобы узнать, что внутри.</VGE_DamagedEscapePod.description>
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedInspectString>Открывается...</VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedInspectString>
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedMessage>{HACKER_labelShort} завершает взлом: {SUBJECT_labelNoParenthesisDef}.</VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedMessage>
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.notHackedInspectString>Взломайте, чтобы открыть.</VGE_DamagedEscapePod.comps.CompHackableEscapePod.notHackedInspectString>
+  <VGE_EscapePodSkyfaller.label>спасательная капсула (падает)</VGE_EscapePodSkyfaller.label>
+  <VGE_MinifiedGravjumperEngine.label>предмет</VGE_MinifiedGravjumperEngine.label>
+  <VGE_MinifiedGravhulkEngine.label>предмет</VGE_MinifiedGravhulkEngine.label>
+  <VGE_GravjumperEngine.label>двигатель гравипрыгуна</VGE_GravjumperEngine.label>
+  <VGE_GravjumperEngine.description>Компактный гравитехнический двигатель для коротких прыжков в атмосфере планеты. Двигатель гравипрыгуна создаёт кратковременное локальное искажение гравитационного потока, обеспечивая быстрый вертикальный подъём, но не создаёт поступательной тяги. Он не может работать вдали от крупного гравитационного колодца, например планеты, поэтому для межпланетных перелётов бесполезен.\n\nПри запуске всё, что находится на подструктуре, подключённой к гравидвигателю, будет перенесено на новую карту.\n\nДвигатели гравипрыгунов, которые часто используют исследователи, разведчики и контрабандисты, ценятся за манёвренность и низкие энергетические потребности. Их проще производить, чем полноценные двигатели гравикораблей, но для них всё равно нужны высококачественные материалы и передовое производство.</VGE_GravjumperEngine.description>
+  <VGE_GravhulkEngine.label>двигатель гравиглыба</VGE_GravhulkEngine.label>
+  <VGE_GravhulkEngine.description>Гравиглыб — колоссальный класс гравикораблей, созданных для перевозки целых мегаколоний, орбитальных платформ или передвижных городских ядер по небу планеты. Гравидвигатель создаёт подъёмную силу, инвертируя и усиливая гравитацию в поле вокруг себя. Этот двигатель поднимает вверх, но не создаёт поступательной тяги. Он не может работать вдали от крупного гравитационного колодца, например планеты, поэтому для межпланетных перелётов бесполезен.\n\nПри запуске всё, что находится на подструктуре, подключённой к гравидвигателю, будет перенесено на новую карту.\n\nГравиглыбы — гордость инфраструктурных флотов миров-прибежищ; их часто используют для развёртывания сборных поселений, парящих аркологий или центров глубинной добычи. Их колоссальные размеры требуют огромных производственных мощностей и узкой специализации экипажа, что делает их одними из самых редких и мощных гравикораблей из когда-либо построенных.</VGE_GravhulkEngine.description>
+  <VGE_GravFieldAmplifier.label>усилитель гравиполя</VGE_GravFieldAmplifier.label>
+  <VGE_GravFieldAmplifier.description>Передовое ультратехнологичное устройство, резко увеличивающее размер гравикорабля. Расширяет область, где можно строить подструктуру, и увеличивает количество подструктуры, которое способен нести гравикорабль. Должно быть построено рядом с гравидвигателем. Гравикорабль может нести до четырёх усилителей гравиполя.</VGE_GravFieldAmplifier.description>
+  <VGE_CrewBunkBed.label>койка для экипажа</VGE_CrewBunkBed.label>
+  <VGE_CrewBunkBed.description>Компактная двухъярусная кровать для использования на гравикорабле. Экономит ограниченное место: два члена экипажа могут отдыхать на площади одной кровати.</VGE_CrewBunkBed.description>
+  <VGE_MedbayBed.label>кровать для медотсека</VGE_MedbayBed.label>
+  <VGE_MedbayBed.description>Специальная кровать для гравикорабля со встроенным монитором жизненных показателей. Предназначена для медотсеков и улучшает исход лечения по сравнению с обычными кроватями. Питание подаётся напрямую от гравидвигателя.</VGE_MedbayBed.description>
+  <VGE_CrewLockers.label>шкафчики экипажа</VGE_CrewLockers.label>
+  <VGE_CrewLockers.description>Набор компактных шкафчиков для кают экипажа гравикорабля. Немного повышает комфорт для всех ближайших коек. Несколько шкафчиков рядом с одной кроватью эффекта не добавляют.</VGE_CrewLockers.description>
+  <VGE_GravshipShelf.label>стеллаж для гравикорабля</VGE_GravshipShelf.label>
+  <VGE_GravshipShelf.description>Усиленный стеллаж для хранения, рассчитанный на использование на борту гравикорабля. Хранящиеся на нём предметы не влияют на красоту помещения и не ветшают, даже если лежат под открытым небом.</VGE_GravshipShelf.description>
+  <VGE_WallFirefoamPopper.label>настенная хлопушка с пожарной пеной</VGE_WallFirefoamPopper.label>
+  <VGE_WallFirefoamPopper.description>Настенный вариант хлопушки с пожарной пеной. При обнаружении огня взрывается и разбрасывает огнегасящую пену по кругу вокруг себя. Также может быть активирована вручную.</VGE_WallFirefoamPopper.description>
+  <VGE_CommsTerminal.label>терминал связи</VGE_CommsTerminal.label>
+  <VGE_CommsTerminal.description>Компактная версия консоли связи, позволяющая поддерживать радиосвязь с другими фракциями и орбитальными торговцами. Питание подаётся напрямую от гравидвигателя.</VGE_CommsTerminal.description>
+  <VGE_WallOrbitalTradeBeacon.label>настенный орбитальный торговый маяк</VGE_WallOrbitalTradeBeacon.label>
+  <VGE_WallOrbitalTradeBeacon.description>Настенная версия орбитального торгового маяка, необходимого для орбитальной торговли. Продавать товары орбитальным торговцам можно только рядом с орбитальным торговым маяком. Можно устанавливать в помещении.</VGE_WallOrbitalTradeBeacon.description>
+  <VGE_FauxPlant.label>искусственное растение</VGE_FauxPlant.label>
+  <VGE_FauxPlant.description>Искусственное растение в прочном металлическом горшке. Не требует света, воды и воздуха, поэтому идеально подходит, чтобы добавить красоты даже в самые негостеприимные условия на гравикорабле.</VGE_FauxPlant.description>
+  <VGE_SealantPopper.label>герметизирующая хлопушка</VGE_SealantPopper.label>
+  <VGE_SealantPopper.description>При обнаружении уровня вакуума выше 25% это защитное устройство взрывается и выпускает быстро расширяющуюся герметизирующую массу. Вещество быстро застывает, закрывая щели и пробоины и восстанавливая давление в помещении. Также может быть активирована вручную.</VGE_SealantPopper.description>
+  <VGE_SealantGoop.label>герметизирующая масса</VGE_SealantGoop.label>
+  <VGE_SealantGoop.description>Затвердевшая масса быстро расширяющейся полимерной пены. Создаётся герметизирующей хлопушкой и образует воздухонепроницаемую пробку, закрывающую пробоины в помещениях гравикорабля, подвергшихся воздействию вакуума. Хорошо восстанавливает давление, но хрупка и легко разрушается.</VGE_SealantGoop.description>
+  <VGE_PilotCockpit.label>кабина пилота</VGE_PilotCockpit.label>
+  <VGE_PilotCockpit.description>Интерфейс для запуска гравипрыгуна и управления им. Питание подаётся напрямую от гравидвигателя.</VGE_PilotCockpit.description>
+  <VGE_PilotBridge.label>мостик пилота</VGE_PilotBridge.label>
+  <VGE_PilotBridge.description>Интерфейс для запуска гравиглыба и управления им. Питание подаётся напрямую от двигателя гравиглыба.</VGE_PilotBridge.description>
+  <VGE_CopilotConsole.label>консоль второго пилота</VGE_CopilotConsole.label>
+  <VGE_CopilotConsole.description>Вспомогательный интерфейс, позволяющий второму пилоту помогать в запуске гравикорабля и управлении им. Питание подаётся напрямую от гравидвигателя.</VGE_CopilotConsole.description>
+  <VGE_SmallHeatsink.label>малый теплоотвод</VGE_SmallHeatsink.label>
+  <VGE_SmallHeatsink.description>Компактный терморегулятор, поглощающий тепло от перелётов гравикорабля и постепенно преобразующий часть его в полезную энергию; предотвращает перегрев систем и сокращает время перезарядки гравидвигателя. Гравикорабль может нести до десяти малых теплоотводов.</VGE_SmallHeatsink.description>
+  <VGE_LargeHeatsink.label>большой теплоотвод</VGE_LargeHeatsink.label>
+  <VGE_LargeHeatsink.description>Большой терморегулятор, поглощающий тепло от перелётов гравикорабля и постепенно преобразующий часть его в полезную энергию; предотвращает перегрев систем и сокращает время перезарядки гравидвигателя. Гравикорабль может нести до шести больших теплоотводов.</VGE_LargeHeatsink.description>
+  <VGE_GravheatAbsorber.label>гравитепловой поглотитель</VGE_GravheatAbsorber.label>
+  <VGE_GravheatAbsorber.description>Специальный теплоотвод, забирающий у гравидвигателя всё остаточное тепло и мгновенно сбрасывающий его перезарядку. После поглощения тепла гравитепловой поглотитель надолго выходит из строя, пока безопасно рассеивает накопленную энергию. Кроме того, его особая конструкция защищает от жара солнечных вспышек в космосе и не даёт избыточному теплу проникать внутрь гравикорабля.</VGE_GravheatAbsorber.description>
+  <VGE_EngineeringConsole.label>инженерная консоль</VGE_EngineeringConsole.label>
+  <VGE_EngineeringConsole.description>Интерфейс для отслеживания состояния обслуживания всех компонентов гравикорабля. Питание подаётся напрямую от гравидвигателя.\n\n&lt;color=#E5E54C&gt;Влияние на игру:&lt;/color&gt; снижает чувствительность к износу всех конструкций этого гравикорабля на 0,5.</VGE_EngineeringConsole.description>
+  <VGE_MassDriver.label>масс-драйвер</VGE_MassDriver.label>
+  <VGE_MassDriver.description>Трёхствольная электромагнитная артиллерийская система, встроенная в оборонительные платформы механоидов. Выстреливает плотные болванки с невероятной скоростью и с одинаковой лёгкостью пробивает как бронированные гравикорабли на орбите, так и наземные цели. Орудие полностью автономно: им управляет машинный мозг, не требующий экипажа. Обычно встречается на орбитальных бомбардировочных платформах.</VGE_MassDriver.description>
+  <VGE_Gun_MassDriver.label>масс-драйвер</VGE_Gun_MassDriver.label>
+  <VGE_Gun_MassDriver.description>Трёхствольная электромагнитная артиллерийская система.</VGE_Gun_MassDriver.description>
+  <VGE_Gun_MassDriver.verbs.Verb_ShootWithSmoke.label>масс-драйвер</VGE_Gun_MassDriver.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Bullet_MassDriver.label>выстрел из масс-драйвера</VGE_Bullet_MassDriver.label>
+  <VGE_HeavyChargeAnnihilator.label>тяжёлый энергоаннигилятор</VGE_HeavyChargeAnnihilator.label>
+  <VGE_HeavyChargeAnnihilator.description>Тяжёлое импульсное оружие с энергетическим зарядом, предназначенное для длительного подавляющего огня при обороне орбитальных платформ механоидов. Улучшенные конденсаторы и системы охлаждения позволяют ему выпускать более долгие и разрушительные очереди, чем стандартные энергобластеры, поливая целые области на удивление точными выстрелами.</VGE_HeavyChargeAnnihilator.description>
+  <VGE_Gun_HeavyChargeAnnihilator.label>тяжёлый энергоаннигилятор</VGE_Gun_HeavyChargeAnnihilator.label>
+  <VGE_Gun_HeavyChargeAnnihilator.description>Тяжёлое импульсное оружие с энергетическим зарядом для обороны механоидов.</VGE_Gun_HeavyChargeAnnihilator.description>
+  <VGE_Gun_HeavyChargeAnnihilator.verbs.Verb_Shoot.label>тяжёлый энергоаннигилятор</VGE_Gun_HeavyChargeAnnihilator.verbs.Verb_Shoot.label>
+  <VGE_MechanoidGravEngine.label>гравидвигатель механоидов</VGE_MechanoidGravEngine.label>
+  <VGE_MechanoidGravEngine.description>Холодное искусственное сердце орбитальной платформы механоидов. В отличие от гравидвигателей, созданных людьми, эти двигатели строит само ядро механоидов, и они оптимизированы для безжалостной эффективности и непрерывной работы. Они создают огромные подъёмные и стабилизирующие поля, благодаря которым целые платформы остаются на орбите, и составляют основу господства механоидов в космосе. Хотя они практически несовместимы с системами людей и непригодны для постройки гравикорабля, их можно уничтожить и получить гравиядро — редкий и ценный трофей для любого, кто посмеет бросить им вызов.</VGE_MechanoidGravEngine.description>
+  <VGE_LargeMechanoidThruster.label>крупный ускоритель механоидов</VGE_LargeMechanoidThruster.label>
+  <VGE_LargeMechanoidThruster.description>Массивный астротопливный ускоритель, построенный ядром механоидов для движения их орбитальных платформ. Его конструкция повторяет человеческую, но усилена механической точностью и эффективностью и облицована толстой вакуумитовой обшивкой, которая выдерживает экстремальный жар и нагрузки. Эти ускорители позволяют платформам механоидов маневрировать и удерживать позицию на орбите. Для гравикораблей людей он непригоден, но при уничтожении даёт небольшой запас драгоценных вакуумитовых блоков.</VGE_LargeMechanoidThruster.description>
+  <VGE_MechanoidResourceProcessor.label>ресурсный процессор</VGE_MechanoidResourceProcessor.label>
+  <VGE_MechanoidResourceProcessor.description>Машинное сооружение, поддерживающее платформы механоидов: расщепляет космический мусор и обломки на полезные ресурсы. Работает через равные промежутки времени, постоянно производя металлы и топливо, необходимые для снабжения их орбитальных твердынь.</VGE_MechanoidResourceProcessor.description>
+  <VGE_MechanoidPodLauncher.label>пусковая установка капсул механоидов</VGE_MechanoidPodLauncher.label>
+  <VGE_MechanoidPodLauncher.description>Механизированный пусковой отсек, периодически запускающий транспортные капсулы, набитые механоидами. Эти капсулы поражают удалённые цели или близлежащие корабли, позволяя платформе проецировать свои силы далеко за пределы корпуса.</VGE_MechanoidPodLauncher.description>
+</LanguageData>

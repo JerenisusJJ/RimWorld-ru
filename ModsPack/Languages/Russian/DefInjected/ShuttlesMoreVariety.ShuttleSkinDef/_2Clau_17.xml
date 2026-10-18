@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: imperial shuttle -->
+	<SMV_Vanilla_Imperial.label>imperial shuttle</SMV_Vanilla_Imperial.label>
+	<!-- EN: passenger shuttle -->
+	<SMV_Vanilla_Passenger.label>passenger shuttle</SMV_Vanilla_Passenger.label>
+	<!-- EN: RimWorld (Odyssey) -->
+	<SMV_Vanilla_Passenger.sourceModName>RimWorld (Odyssey)</SMV_Vanilla_Passenger.sourceModName>
+</LanguageData>

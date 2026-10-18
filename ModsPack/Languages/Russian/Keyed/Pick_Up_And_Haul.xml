@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PUAH.allowCorpses>Разрешить класть трупы в инвентарь</PUAH.allowCorpses>
+  <PUAH.allowCorpsesTooltip>По умолчанию выкл. Тогда трупы переносят только в руках.</PUAH.allowCorpsesTooltip>
+  <PUAH.allowAnimals>Разрешить прирученным вьючным животным использовать инвентарь для переноски</PUAH.allowAnimals>
+  <PUAH.allowAnimalsTooltip>По умолчанию вкл. Лучше всего работает с модами, дающими рюкзаки большему числу животных, например VFME Caravan Packs</PUAH.allowAnimalsTooltip>
+  <PUAH.allowMechanoids>Разрешить взломанным механоидам использовать инвентарь для переноски</PUAH.allowMechanoids>
+  <PUAH.allowMechanoidsTooltip>Требуется What The Hack или подобные моды. По умолчанию вкл.</PUAH.allowMechanoidsTooltip>
+  <PUAH.minimumFreeInventorySpace>Минимум свободного места в инвентаре для переноски в инвентарь</PUAH.minimumFreeInventorySpace>
+  <PUAH.minimumFreeInventorySpaceTooltip>Существа с меньшим свободным местом в инвентаре, чем указано здесь, используют обычную переноску. 0% — они всегда пытаются носить в инвентаре, даже если места хватает меньше чем на одну картофелину. 100% — PUAH будет требовать совершенно пустой инвентарь. По умолчанию 20%</PUAH.minimumFreeInventorySpaceTooltip>
+</LanguageData>

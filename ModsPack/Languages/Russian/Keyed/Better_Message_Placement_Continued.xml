@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BeMe.CurrentModVersion>Установленная версия мода: {0}</BeMe.CurrentModVersion>
+  <BeMe.XOffset>Дополнительное смещение по горизонтали: {0}</BeMe.XOffset>
+  <BeMe.XOffsetTT>Процент ширины экрана, добавляемый к стандартному положению</BeMe.XOffsetTT>
+  <BeMe.YOffset>Дополнительное смещение по вертикали: {0}</BeMe.YOffset>
+  <BeMe.YOffsetTT>Процент высоты экрана, добавляемый к стандартному положению</BeMe.YOffsetTT>
+  <BeMe.TestMessage>Тестовое сообщение для показа положения</BeMe.TestMessage>
+  <BeMe.ResetToDefault>Сбросить по умолчанию</BeMe.ResetToDefault>
+</LanguageData>

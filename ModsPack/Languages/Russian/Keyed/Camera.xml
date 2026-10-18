@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SuppressFloatingText>Скрывать всплывающий текст при отдалении</SuppressFloatingText>
+  <SettingsNote_ShortcutDisabled>Отключено: выберите хотя бы одну клавишу-модификатор.</SettingsNote_ShortcutDisabled>
+  <SettingsNote_LoadSaveShortcutConflict>Загрузка и сохранение используют одни и те же клавиши-модификаторы.</SettingsNote_LoadSaveShortcutConflict>
+  <SettingsHelp_SuppressFloatingText>Скрывает общий всплывающий текст на карте на всех уровнях масштаба, кроме самого близкого. Это касается и временных сообщений, таких как урон и текст событий, а не только постоянных подписей.\n\nПараметр «Мышь показывает подписи» также показывает ближайший всплывающий текст при включённом скрытии. Выключите его, чтобы все всплывающие сообщения оставались видимыми.</SettingsHelp_SuppressFloatingText>
+</LanguageData>

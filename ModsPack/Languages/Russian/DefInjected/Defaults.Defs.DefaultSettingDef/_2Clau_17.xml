@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: children inherit area restriction from parent when born -->
+	<ChildrenInheritAreaFromParent.label>дети наследуют ограничение области от родителя при рождении</ChildrenInheritAreaFromParent.label>
+	<!-- EN: animals inherit area restriction from parent when born -->
+	<AnimalsInheritAreaFromParent.label>животные наследуют ограничение области от родителя при рождении</AnimalsInheritAreaFromParent.label>
+	<!-- EN: show disabled settings in searches -->
+	<ShowDisabledInSearch.label>показывать отключённые настройки при поиске</ShowDisabledInSearch.label>
+	<!-- EN: hide "save as default" buttons -->
+	<HideSetAsDefault.label>скрыть кнопки «сохранить по умолчанию»</HideSetAsDefault.label>
+	<!-- EN: hide "load default" buttons -->
+	<HideLoadDefault.label>скрыть кнопки «загрузить по умолчанию»</HideLoadDefault.label>
+	<!-- EN: default settings backup -->
+	<SettingsBackupOptions.label>резервное копирование настроек по умолчанию</SettingsBackupOptions.label>
+	<!-- EN: default medicine for colonists -->
+	<DefaultCareForColonist.label>лекарство по умолчанию для поселенцев</DefaultCareForColonist.label>
+	<!-- EN: default medicine for prisoners -->
+	<DefaultCareForPrisoner.label>лекарство по умолчанию для пленников</DefaultCareForPrisoner.label>
+	<!-- EN: default medicine for slaves -->
+	<DefaultCareForSlave.label>лекарство по умолчанию для рабов</DefaultCareForSlave.label>
+	<!-- EN: default medicine for ghouls -->
+	<DefaultCareForGhouls.label>лекарство по умолчанию для упырей</DefaultCareForGhouls.label>
+	<!-- EN: default medicine for tamed animals -->
+	<DefaultCareForTamedAnimal.label>лекарство по умолчанию для прирученных животных</DefaultCareForTamedAnimal.label>
+	<!-- EN: default medicine for friendly faction -->
+	<DefaultCareForFriendlyFaction.label>лекарство по умолчанию для дружественной фракции</DefaultCareForFriendlyFaction.label>
+	<!-- EN: default medicine for neutral faction -->
+	<DefaultCareForNeutralFaction.label>лекарство по умолчанию для нейтральной фракции</DefaultCareForNeutralFaction.label>
+	<!-- EN: default medicine for hostile faction -->
+	<DefaultCareForHostileFaction.label>лекарство по умолчанию для враждебной фракции</DefaultCareForHostileFaction.label>
+	<!-- EN: default medicine for no faction -->
+	<DefaultCareForNoFaction.label>лекарство по умолчанию при отсутствии фракции</DefaultCareForNoFaction.label>
+	<!-- EN: default medicine for wildlife -->
+	<DefaultCareForWildlife.label>лекарство по умолчанию для диких животных</DefaultCareForWildlife.label>
+	<!-- EN: default medicine for entities -->
+	<DefaultCareForEntities.label>лекарство по умолчанию для сущностей</DefaultCareForEntities.label>
+	<!-- EN: default medicine to carry -->
+	<MedCarry.label>переносимое лекарство по умолчанию</MedCarry.label>
+	<!-- EN: default medicine amount to carry -->
+	<MedCarryAmount.label>количество переносимого лекарства по умолчанию</MedCarryAmount.label>
+	<!-- EN: guests pick up medicine to carry, too -->
+	<MedCarryGuest.label>гости тоже берут с собой лекарства</MedCarryGuest.label>
+	<!-- EN: default starting xenotype -->
+	<StartingXenotype.label>стартовый ксенотип по умолчанию</StartingXenotype.label>
+	<!-- EN: default pregnancy approach -->
+	<PregnancyApproach.label>подход к беременности по умолчанию</PregnancyApproach.label>
+	<!-- EN: default plant type -->
+	<PlantType.label>тип растения по умолчанию</PlantType.label>
+	<!-- EN: auto-select caravan supplies by default -->
+	<CaravanAutoSelect.label>автовыбор припасов каравана по умолчанию</CaravanAutoSelect.label>
+	<!-- EN: target temperature for heaters -->
+	<TargetTempHeater.label>целевая температура для обогревателей</TargetTempHeater.label>
+	<!-- EN: target temperature for coolers -->
+	<TargetTempCooler.label>целевая температура для холодильных машин</TargetTempCooler.label>
+	<!-- EN: first mech control group work mode -->
+	<WorkModeFirst.label>режим работы первой группы управления механоидами</WorkModeFirst.label>
+	<!-- EN: second mech control group work mode -->
+	<WorkModeSecond.label>режим работы второй группы управления механоидами</WorkModeSecond.label>
+	<!-- EN: additional mech control groups work mode -->
+	<WorkModeAdditional.label>режим работы дополнительных групп управления механоидами</WorkModeAdditional.label>
+	<!-- EN: default auto rebuild setting -->
+	<AutoRebuild.label>автоматическое восстановление по умолчанию</AutoRebuild.label>
+	<!-- EN: default auto home area setting -->
+	<AutoHomeArea.label>автоматическая домашняя область по умолчанию</AutoHomeArea.label>
+	<!-- EN: show non-hidden zones by default -->
+	<ZoneVisibility.label>показывать все не скрытые зоны по умолчанию</ZoneVisibility.label>
+	<!-- EN: show planet day/night by default -->
+	<ShowPlanetDayNight.label>показывать смену дня и ночи на планете по умолчанию</ShowPlanetDayNight.label>
+	<!-- EN: show names of planet features by default -->
+	<ShowWorldFeatures.label>показывать названия объектов планеты по умолчанию</ShowWorldFeatures.label>
+	<!-- EN: lock planet view with north up by default -->
+	<LockNorthUp.label>закреплять вид планеты с севером сверху по умолчанию</LockNorthUp.label>
+	<!-- EN: show expanding icons for important planet tiles by default -->
+	<ShowImportantExpandingIcons.label>показывать раскрывающиеся значки важных клеток планеты по умолчанию</ShowImportantExpandingIcons.label>
+	<!-- EN: show expanding icons for faction bases on planet by default -->
+	<ShowBasesExpandingIcons.label>показывать раскрывающиеся значки баз фракций на планете по умолчанию</ShowBasesExpandingIcons.label>
+	<!-- EN: show expanding icons for landmarks by default -->
+	<ShowExpandingLandmarks.label>показывать раскрывающиеся значки ориентиров по умолчанию</ShowExpandingLandmarks.label>
+	<!-- EN: default policy assignments -->
+	<DefaultPolicyAssignments.label>назначение политик по умолчанию</DefaultPolicyAssignments.label>
+	<!-- EN: allow removing items from outfit stands by default -->
+	<AllowRemovingFromOutfitStand.label>разрешать снимать вещи со стоек одежды по умолчанию</AllowRemovingFromOutfitStand.label>
+	<!-- EN: default storyteller settings -->
+	<Storyteller.label>настройки рассказчика по умолчанию</Storyteller.label>
+	<!-- EN: default difficulty -->
+	<Difficulty.label>сложность по умолчанию</Difficulty.label>
+	<!-- EN: commitment mode by default -->
+	<Permadeath.label>режим преданности по умолчанию</Permadeath.label>
+	<!-- EN: default ingredient search radius for workbench bills -->
+	<BillIngredientSearchRadius.label>радиус поиска ингредиентов для заказов на верстаке по умолчанию</BillIngredientSearchRadius.label>
+	<!-- EN: default skill range for workbench bills -->
+	<BillAllowedSkillRange.label>допустимый диапазон навыков для заказов на верстаке по умолчанию</BillAllowedSkillRange.label>
+	<!-- EN: default store mode for workbench bills -->
+	<BillStoreMode.label>режим хранения для заказов на верстаке по умолчанию</BillStoreMode.label>
+	<!-- EN: limit workbenches to 15 bills -->
+	<LimitBillsTo15.label>ограничить заказы на верстаках до 15</LimitBillsTo15.label>
+	<!-- EN: use manual work priorities by default -->
+	<ManualPriorities.label>по умолчанию использовать ручную расстановку приоритетов работ</ManualPriorities.label>
+	<!-- EN: default globe coverage -->
+	<PlanetCoverage.label>покрытие глобуса по умолчанию</PlanetCoverage.label>
+	<!-- EN: default planet rainfall -->
+	<OverallRainfall.label>осадки на планете по умолчанию</OverallRainfall.label>
+	<!-- EN: default planet temperature -->
+	<OverallTemperature.label>температура на планете по умолчанию</OverallTemperature.label>
+	<!-- EN: default planet population -->
+	<OverallPopulation.label>население планеты по умолчанию</OverallPopulation.label>
+	<!-- EN: default landmark density -->
+	<LandmarkDensity.label>плотность ориентиров по умолчанию</LandmarkDensity.label>
+	<!-- EN: default planet pollution -->
+	<PlanetPollution.label>загрязнение планеты по умолчанию</PlanetPollution.label>
+	<!-- EN: default map size -->
+	<MapSize.label>размер карты по умолчанию</MapSize.label>
+	<!-- EN: default starting season -->
+	<StartingSeason.label>начальный сезон по умолчанию</StartingSeason.label>
+	<!-- EN: Set the default storyteller/difficulty settings to use for a new colony, including custom difficulty settings. -->
+	<Storyteller.description>Задайте настройки рассказчика и сложности по умолчанию для новой колонии, включая пользовательские настройки сложности.</Storyteller.description>
+</LanguageData>

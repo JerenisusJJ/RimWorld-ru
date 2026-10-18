@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_EngineeringCommand_Mote.label>частица</VGE_EngineeringCommand_Mote.label>
+  <VGE_EngineeringCommand_LinkLine.label>частица</VGE_EngineeringCommand_LinkLine.label>
+  <VGE_CompactBiosculpterPod.label>компактный биоскульптор</VGE_CompactBiosculpterPod.label>
+  <VGE_CompactBiosculpterPod.description>Уменьшенная версия биоскульптора, рассчитанная на тесные помещения гравикорабля. С её помощью можно пройти ряд биологических процедур, включая омоложение и вызов чувства эйфории. По завершении цикла капсула проводит биокалибровку для пользователя. Откалиброванным биоскульптором не может пользоваться никто другой, но циклы в нём проходят на 25% быстрее. Биокалибровка сбрасывается, если капсулой не пользоваться 80 дней. Питание подаётся напрямую от гравидвигателя.</VGE_CompactBiosculpterPod.description>
+  <VGE_Apparel_Vacsuit_Prestige.label>престижный скафандр</VGE_Apparel_Vacsuit_Prestige.label>
+  <VGE_Apparel_Vacsuit_Prestige.description>Защитный костюм для выхода в открытый космос. Ограничивает движения, значительно снижая скорость передвижения.\n\nДорогие и красивые престижные скафандры, подобные этому, обычно изготавливают для людей высокого положения в королевском флоте. Вплетённые нити элтекса также повышают психическую чувствительность владельца.</VGE_Apparel_Vacsuit_Prestige.description>
+  <VGE_Apparel_VacsuitHelmet_Prestige.label>шлем от престижного скафандра</VGE_Apparel_VacsuitHelmet_Prestige.label>
+  <VGE_Apparel_VacsuitHelmet_Prestige.description>Шлем, который эффективно перерабатывает кислород пользователя, позволяя ему дышать в вакууме космоса по несколько часов подряд. Процесс переработки неидеален, поэтому время от времени пользователю необходимо возвращаться в герметичную среду.\n\nДорогие и красивые шлемы от престижных скафандров, подобные этому, обычно изготавливают для людей высокого положения в королевском флоте. Вплетённые нити элтекса также повышают психическую чувствительность владельца.</VGE_Apparel_VacsuitHelmet_Prestige.description>
+  <VGE_OperatorSubpersonaCore.label>ядро субперсоны оператора</VGE_OperatorSubpersonaCore.label>
+  <VGE_OperatorSubpersonaCore.description>Высококачественное субъядро, специализирующееся на бое гравикораблей. Оно может подключаться к одному гравикорабельному орудию и управлять им так же, как член экипажа за целеуказательным терминалом. Боевые навыки у него посредственные, но оно позволяет создавать автономные артиллерийские батареи без людей-операторов.</VGE_OperatorSubpersonaCore.description>
+  <VGE_GravshipBasicRecharger.label>компактная зарядная станция механоидов</VGE_GravshipBasicRecharger.label>
+  <VGE_GravshipBasicRecharger.description>Уменьшенная версия зарядной станции механоидов, рассчитанная на тесные помещения гравикорабля. Здесь могут заряжаться лёгкие механоиды. Во время зарядки станция производит токсичные отходы и накапливает их внутри. Грузчики должны время от времени извлекать отходы. Большую часть энергии станция получает напрямую от гравидвигателя.</VGE_GravshipBasicRecharger.description>
+  <VGE_GravshipStandardRecharger.label>компактная большая зарядная станция механоидов</VGE_GravshipStandardRecharger.label>
+  <VGE_GravshipStandardRecharger.description>Уменьшенная версия большой зарядной станции механоидов, рассчитанная на тесные помещения гравикорабля. Здесь могут заряжаться средние, тяжёлые и сверхтяжёлые механоиды. Во время зарядки станция производит токсичные отходы и накапливает их внутри. Грузчики должны время от времени извлекать отходы. Большую часть энергии станция получает напрямую от гравидвигателя.</VGE_GravshipStandardRecharger.description>
+  <VGE_CompactGeneBank.label>компактный генный банк</VGE_CompactGeneBank.label>
+  <VGE_CompactGeneBank.description>Уменьшенная версия генного банка, рассчитанная на тесные помещения гравикорабля. Хранит генные пакеты и делает их пригодными для создания новых ксеносемян при размещении рядом с генным сборщиком. Питание подаётся напрямую от гравидвигателя; банк предотвращает ветшание генных пакетов и медленно восстанавливает их.</VGE_CompactGeneBank.description>
+  <VGE_Astronaut.label>космонавт</VGE_Astronaut.label>
+  <VGE_Astronaut.description>Механоид среднего размера, предназначенный для строительства и тушения пожаров на орбите. При необходимости может наносить тупые удары в ближнем бою. Медленная скорость передвижения в космосе на него не влияет.</VGE_Astronaut.description>
+  <VGE_OxygenMote.label>частица</VGE_OxygenMote.label>
+  <VGE_AstrofuelPipe.label>труба для астротоплива</VGE_AstrofuelPipe.label>
+  <VGE_AstrofuelPipe.description>Большая труба для транспортировки высококачественного астротоплива. В отличие от других труб, она большая, громоздкая и служит укрытием.</VGE_AstrofuelPipe.description>
+  <VGE_HiddenAstrofuelPipe.label>скрытая труба для астротоплива</VGE_HiddenAstrofuelPipe.label>
+  <VGE_HiddenAstrofuelPipe.description>Скрытая усиленная труба для транспортировки высококачественного астротоплива. Её не видно, но строить её гораздо дороже.</VGE_HiddenAstrofuelPipe.description>
+  <VGE_AstrofuelValve.label>вентиль астротоплива</VGE_AstrofuelValve.label>
+  <VGE_AstrofuelValve.description>Включает и выключает поток астротоплива.</VGE_AstrofuelValve.description>
+  <VGE_GiantAstrofuelTank.label>гигантский бак астротоплива</VGE_GiantAstrofuelTank.label>
+  <VGE_GiantAstrofuelTank.description>Огромная ёмкость для хранения астротоплива, снабжающая топливом ускорители гравикорабля.</VGE_GiantAstrofuelTank.description>
+  <VGE_AstrofuelTap.label>кран астротоплива</VGE_AstrofuelTap.label>
+  <VGE_AstrofuelTap.description>Бункерное хранилище для выданного астротоплива, которое пригодится позже.</VGE_AstrofuelTap.description>
+  <VGE_AstrofuelDrain.label>заправщик астротоплива</VGE_AstrofuelDrain.label>
+  <VGE_AstrofuelDrain.description>Бункерное хранилище, предназначенное для подачи астротоплива в сеть и заполнения подключённых баков.</VGE_AstrofuelDrain.description>
+  <VGE_AstrofuelGenerator.label>астротопливный генератор</VGE_AstrofuelGenerator.label>
+  <VGE_AstrofuelGenerator.description>Вырабатывает энергию, сжигая астротопливо. Немного эффективнее генераторов на химтопливе.</VGE_AstrofuelGenerator.description>
+  <VGE_IndustrialAstrofuelGenerator.label>промышленный астротопливный генератор</VGE_IndustrialAstrofuelGenerator.label>
+  <VGE_IndustrialAstrofuelGenerator.description>Вырабатывает большое количество энергии, сжигая астротопливо. Гораздо эффективнее генераторов на химтопливе.</VGE_IndustrialAstrofuelGenerator.description>
+  <VGE_AstrofuelSynthesizer.label>синтезатор астротоплива</VGE_AstrofuelSynthesizer.label>
+  <VGE_AstrofuelSynthesizer.description>Специальное сооружение, перерабатывающее химтопливо в высококачественное астротопливо. Для работы его необходимо подключить к сети труб астротоплива и связать хотя бы с одним баком астротоплива. После подключения оно автоматически превращает загруженное химтопливо в астротопливо для двигателей и систем.</VGE_AstrofuelSynthesizer.description>
+  <VGE_Astropurifier.label>астроочиститель</VGE_Astropurifier.label>
+  <VGE_Astropurifier.description>Гравитехнический блок, повышающий точность и стабильность переработки астротоплива. Если поставить его рядом с синтезатором астротоплива, химтопливо превращается в астротопливо в идеальном соотношении 1:1, однако процесс занимает вдвое больше времени.</VGE_Astropurifier.description>
+  <VGE_GiantThruster.label>гигантский ускоритель</VGE_GiantThruster.label>
+  <VGE_GiantThruster.description>Массивный усиленный астротопливный ускоритель из передовых сплавов и сверхплотной вакуумитовой обшивки. Существенно увеличивает дальность полёта и максимальный размер гравикорабля. Ускорителям необходима свободная площадка, на которой нет крупных построек и подструктуры гравикорабля.\n\nТребует вакуумитовых блоков, которые можно добыть на орбитальных астероидах.\n\nГравикорабль может нести до четырёх гигантских ускорителей.</VGE_GiantThruster.description>
+  <VGE_OxygenPipe.label>кислородная труба</VGE_OxygenPipe.label>
+  <VGE_OxygenPipe.description>Усиленная труба для перекачки кислорода. Её можно прокладывать под стенами и другими постройками.</VGE_OxygenPipe.description>
+  <VGE_HiddenOxygenPipe.label>скрытая кислородная труба</VGE_HiddenOxygenPipe.label>
+  <VGE_HiddenOxygenPipe.description>Скрытая усиленная труба для перекачки кислорода. Её не видно, но строить её гораздо дороже.</VGE_HiddenOxygenPipe.description>
+  <VGE_OxygenValve.label>кислородный вентиль</VGE_OxygenValve.label>
+  <VGE_OxygenValve.description>Включает и выключает поток кислорода.</VGE_OxygenValve.description>
+  <VGE_SmallOxygenTank.label>малый кислородный бак</VGE_SmallOxygenTank.label>
+  <VGE_SmallOxygenTank.description>Кислородный бак, снабжающий кислородом насосы по всему гравикораблю.</VGE_SmallOxygenTank.description>
+  <VGE_LargeOxygenTank.label>большой кислородный бак</VGE_LargeOxygenTank.label>
+  <VGE_LargeOxygenTank.description>Большой кислородный бак, снабжающий кислородом насосы по всему гравикораблю.</VGE_LargeOxygenTank.description>
+  <VGE_OxygenCanisterFiller.label>заправщик кислородных баллонов</VGE_OxygenCanisterFiller.label>
+  <VGE_OxygenCanisterFiller.description>Бункерное хранилище для выданного кислорода в баллонах, который пригодится позже.</VGE_OxygenCanisterFiller.description>
+  <VGE_OxygenCanisterEmptier.label>опорожнитель кислородных баллонов</VGE_OxygenCanisterEmptier.label>
+  <VGE_OxygenCanisterEmptier.description>Бункерное хранилище, предназначенное для подачи кислорода из баллонов в сеть и заполнения подключённых баков.</VGE_OxygenCanisterEmptier.description>
+  <VGE_OxygenHarvester.label>кислородный сборщик</VGE_OxygenHarvester.label>
+  <VGE_OxygenHarvester.description>Устройство, которое вбирает пригодный для дыхания кислород из окружающей атмосферы и накапливает его в кислородной сети. Работает только на поверхности планет с атмосферой и не функционирует в вакууме или в среде с низким содержанием кислорода.</VGE_OxygenHarvester.description>
+  <VGE_LifeSupportSystem.label>водорослевый оксигенатор</VGE_LifeSupportSystem.label>
+  <VGE_LifeSupportSystem.description>Важнейшее устройство, перерабатывающее собранные оксиводоросли в пригодный для дыхания кислород. Превращает биомассу в газ и подаёт его в кислородную сеть для снабжения герметичных помещений и оборудования.</VGE_LifeSupportSystem.description>
+  <VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelGizmoLabel>Оксиводоросли</VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelGizmoLabel>
+  <VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelLabel>оксиводоросли</VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelLabel>
+  <VGE_IndustrialOxygenPump.label>промышленный кислородный насос</VGE_IndustrialOxygenPump.label>
+  <VGE_IndustrialOxygenPump.description>Мощный блок, выпускающий большое количество кислорода в окружающее помещение, что позволяет восстанавливать давление в замкнутых пространствах на орбите. Необходим для длительного пребывания в космосе.</VGE_IndustrialOxygenPump.description>
+  <VGE_OxygenReclaimer.label>кислородный регенератор</VGE_OxygenReclaimer.label>
+  <VGE_OxygenReclaimer.description>Автономный атмосферный блок, извлекающий следовые количества кислорода из окружающих газов. Производит кислород медленно и стабильно, но не требует исходных материалов. Для работы его необходимо соединить с кислородным баком кислородными трубами.</VGE_OxygenReclaimer.description>
+  <VGE_Agrocell.label>агроячейка</VGE_Agrocell.label>
+  <VGE_Agrocell.description>Закрытый компактный блок для выращивания растений, предназначенный для гравикораблей. Встроен в пол, поэтому не мешает передвижению; оснащён лампами-солнцами и системой питательных веществ, которые должны оставаться под напряжением — без питания растения погибнут.</VGE_Agrocell.description>
+  <VGE_TargetingTerminal.label>целеуказательный терминал</VGE_TargetingTerminal.label>
+  <VGE_TargetingTerminal.description>Пост управления, предназначенный для работы с одним гравикорабельным орудием. Требует, чтобы член экипажа вручную наводил и стрелял из орудия. Питание подаётся напрямую от гравидвигателя.</VGE_TargetingTerminal.description>
+  <VGE_PointDefenseTurret.label>турель точечной обороны</VGE_PointDefenseTurret.label>
+  <VGE_PointDefenseTurret.description>Специальная оборонительная турель, созданная исключительно для гравикораблей. Перехватывает взрывные снаряды и приближающиеся десантные капсулы в пределах защитного радиуса, но не может стрелять по наземным целям. Шанс перехвата растёт вместе со скоростью цели.</VGE_PointDefenseTurret.description>
+  <VGE_PointDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>Боеприпасы</VGE_PointDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_PointDefenseTurret.comps.CompRefuelable.fuelLabel>боеприпасы</VGE_PointDefenseTurret.comps.CompRefuelable.fuelLabel>
+  <VGE_Gun_PointDefense.label>орудие точечной обороны</VGE_Gun_PointDefense.label>
+  <VGE_Gun_PointDefense.description>Скорострельное орудие для точечной обороны.</VGE_Gun_PointDefense.description>
+  <VGE_Gun_PointDefense.verbs.Verb_Shoot.label>орудие точечной обороны</VGE_Gun_PointDefense.verbs.Verb_Shoot.label>
+  <VGE_AmmoBox_GaussShell.label>ящик гауссовых снарядов</VGE_AmmoBox_GaussShell.label>
+  <VGE_AmmoBox_GaussShell.description>Небольшой ящик с крупными урановыми снарядами. Используется для перезарядки различных гауссовых артиллерийских орудий. Ящик подаётся прямо в соседнее гравикорабельное орудие, когда его нужно перезарядить.</VGE_AmmoBox_GaussShell.description>
+  <VGE_GaussGun.label>гауссова пушка</VGE_GaussGun.label>
+  <VGE_GaussGun.description>Небольшая однозарядная электромагнитная пушка, выстреливающая плотными урановыми болванками с огромной скоростью. Предназначена как для местных бомбардировок, так и для боя на средней дистанции; также может целиться в другие гравикорабли на орбите. Для работы требуется связанный целеуказательный терминал с оператором. Питание подаётся напрямую от гравидвигателя.</VGE_GaussGun.description>
+  <VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>Урановые болванки</VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_GaussGun.comps.CompRefuelable.fuelLabel>урановые болванки</VGE_GaussGun.comps.CompRefuelable.fuelLabel>
+  <VGE_Gun_GaussGun.label>гауссова пушка</VGE_Gun_GaussGun.label>
+  <VGE_Gun_GaussGun.description>Небольшая однозарядная электромагнитная пушка.</VGE_Gun_GaussGun.description>
+  <VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>гауссова пушка</VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Bullet_GaussGun.label>выстрел из гауссовой пушки</VGE_Bullet_GaussGun.label>
+  <VGE_JavelinPod.label>ракетный блок «Джавелин»</VGE_JavelinPod.label>
+  <VGE_JavelinPod.description>Компактная многотрубная ракетная платформа, запускающая залп из шести управляемых астротопливных ракет «Джавелин». Предназначена для быстрых и мощных ударов по уязвимым гравикораблям и небронированным наземным силам. Для работы требуется связанный целеуказательный терминал с оператором. Питание подаётся напрямую от гравидвигателя.</VGE_JavelinPod.description>
+  <VGE_JavelinPod.comps.CompRefuelable.fuelGizmoLabel>Астротопливо</VGE_JavelinPod.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_JavelinPod.comps.CompRefuelable.fuelLabel>астротопливо</VGE_JavelinPod.comps.CompRefuelable.fuelLabel>
+  <VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>Нет ракет</VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>
+  <VGE_Gun_JavelinPod.label>ракетный блок «Джавелин»</VGE_Gun_JavelinPod.label>
+  <VGE_Gun_JavelinPod.description>Компактная многотрубная ракетная платформа.</VGE_Gun_JavelinPod.description>
+  <VGE_Gun_JavelinPod.verbs.Verb_ShootWithWorldTargeting.label>ракетный блок «Джавелин»</VGE_Gun_JavelinPod.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_Rocket_JavelinRocket.label>ракета «Джавелин»</VGE_Rocket_JavelinRocket.label>
+  <VGE_AnticraftCaster.label>противокорабельный излучатель</VGE_AnticraftCaster.label>
+  <VGE_AnticraftCaster.description>Средний энергетический излучатель для установки на гравикорабль, выпускающий короткие острые очереди режущего луча с хирургической точностью. Создан для пробивания критически важных систем: вместо длительного подавления он делает ставку на быстрые точные удары. Для работы требуется связанный целеуказательный терминал с оператором. На выстрел расходуется много энергии.</VGE_AnticraftCaster.description>
+  <VGE_Gun_AnticraftCaster.label>противокорабельный излучатель</VGE_Gun_AnticraftCaster.label>
+</LanguageData>

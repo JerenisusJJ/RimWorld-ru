@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_DrugCabinet.label>шкаф для препаратов</VFE_DrugCabinet.label>
+  <VFE_DrugCabinet.description>Повышает скорость работы, если стоит рядом с лабораторией препаратов. К одному верстаку подключается до двух шкафов для препаратов.</VFE_DrugCabinet.description>
+  <VFE_MachiningCabinet.label>шкаф для станочной обработки</VFE_MachiningCabinet.label>
+  <VFE_MachiningCabinet.description>Повышает скорость работы, если стоит рядом с механическим станком. К одному верстаку подключается до двух шкафов для станочной обработки.</VFE_MachiningCabinet.description>
+  <VFE_SmithyCabinet.label>кузнечный шкаф</VFE_SmithyCabinet.label>
+  <VFE_SmithyCabinet.description>Повышает скорость работы, если стоит рядом с кузницей. К одному верстаку подключается до двух кузнечных шкафов.</VFE_SmithyCabinet.description>
+  <VFE_KitchenSinkCabinet.label>кухонная тумба с раковиной</VFE_KitchenSinkCabinet.label>
+  <VFE_KitchenSinkCabinet.description>Повышает скорость работы, если стоит рядом с плитой.</VFE_KitchenSinkCabinet.description>
+  <VFE_TailorCabinet.label>портновский шкаф</VFE_TailorCabinet.label>
+  <VFE_TailorCabinet.description>Повышает скорость работы, если стоит рядом с портновским столом. К одному верстаку подключается до двух портновских шкафов.</VFE_TailorCabinet.description>
+  <VFE_FabricationCabinet.label>шкаф для фабрикации</VFE_FabricationCabinet.label>
+  <VFE_FabricationCabinet.description>Повышает скорость работы, если стоит рядом с фабрикационным верстаком. К одному верстаку подключается до двух шкафов для фабрикации.</VFE_FabricationCabinet.description>
+  <VFE_TableMachiningLarge.label>большой механический станок</VFE_TableMachiningLarge.label>
+  <VFE_TableMachiningLarge.description>Верстак с продвинутыми инструментами и достаточным пространством, чтобы быстрее создавать технологические чудеса из более простых материалов. Потребляет электричество.</VFE_TableMachiningLarge.description>
+  <VFE_TableSmithyLarge.label>большая электрическая кузница</VFE_TableSmithyLarge.label>
+  <VFE_TableSmithyLarge.description>Электрический рабочий центр для ковки немеханического оружия и инструментов. Потребляет много электричества.</VFE_TableSmithyLarge.description>
+  <VFE_TableStoveLarge.label>большая плита</VFE_TableStoveLarge.label>
+  <VFE_TableStoveLarge.description>Большая производственная плита с несколькими духовками, позволяющая готовить блюда заметно быстрее.</VFE_TableStoveLarge.description>
+  <VFE_TableTailorLarge.label>большой портновский стол</VFE_TableTailorLarge.label>
+  <VFE_TableTailorLarge.description>Большой производственный верстак с набором инструментов для модельеров и швейной машиной для быстрого пошива одежды. Может работать без электричества на 33% обычной скорости.</VFE_TableTailorLarge.description>
+  <VFE_ComponentFabricationBench.label>сборочный верстак</VFE_ComponentFabricationBench.label>
+  <VFE_ComponentFabricationBench.description>Верстак с продвинутыми инструментами для производства компонентов.</VFE_ComponentFabricationBench.description>
+  <VFE_TableButcherElectric.label>электрическая мясницкая</VFE_TableButcherElectric.label>
+  <VFE_TableButcherElectric.description>Моторизованный стол с вращающимся пильным диском для быстрой разделки туш на аккуратные куски сырого мяса. Потребляет много электричества.</VFE_TableButcherElectric.description>
+  <VFE_TableDrugLabElectric.label>электрическая лаборатория препаратов</VFE_TableDrugLabElectric.label>
+  <VFE_TableDrugLabElectric.description>Продвинутый верстак с ёмкостями, нагревателями и измерительными приборами для более эффективного производства различных препаратов. Потребляет много электричества.</VFE_TableDrugLabElectric.description>
+  <VFE_FueledSmelter.label>топливная плавильня</VFE_FueledSmelter.label>
+  <VFE_FueledSmelter.description>Плавильная установка, работающая на дровах. Извлекает пригодный к использованию металл из кусков шлака и других смешанных металлических предметов.</VFE_FueledSmelter.description>
+  <VFE_TableStonecutterElectric.label>электрический стол каменотёса</VFE_TableStonecutterElectric.label>
+  <VFE_TableStonecutterElectric.description>Продвинутый рабочий стол с электрическими пилами и держателями для быстрой распиловки каменных глыб на пригодные блоки в поточном режиме. Потребляет много электричества.</VFE_TableStonecutterElectric.description>
+</LanguageData>

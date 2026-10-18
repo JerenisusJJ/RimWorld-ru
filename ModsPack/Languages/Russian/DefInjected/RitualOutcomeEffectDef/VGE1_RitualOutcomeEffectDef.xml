@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_GravjumperLaunch.description>Факторы качества определяют время перезарядки двигателя и вероятность неудачи при посадке.</VGE_GravjumperLaunch.description>
+  <VGE_GravjumperLaunch.comps.0.label>Способность пилота {PAWN_labelShort} управлять кораблем</VGE_GravjumperLaunch.comps.0.label>
+  <VGE_GravjumperLaunch.comps.0.labelAbstract>способность пилота управлять кораблем</VGE_GravjumperLaunch.comps.0.labelAbstract>
+  <VGE_GravjumperLaunch.comps.1.label>Способность пилота {PAWN_labelShort} управлять кораблем</VGE_GravjumperLaunch.comps.1.label>
+  <VGE_GravjumperLaunch.comps.1.labelAbstract>способность второго пилота управлять кораблем</VGE_GravjumperLaunch.comps.1.labelAbstract>
+  <VGE_GravjumperLaunch.comps.2.label>Среднее состояние обслуживания гравикорабля</VGE_GravjumperLaunch.comps.2.label>
+  <VGE_GravjumperLaunch.comps.3.label>размер экипажа</VGE_GravjumperLaunch.comps.3.label>
+  <VGE_GravjumperLaunch.comps.4.label>малые ускорители</VGE_GravjumperLaunch.comps.4.label>
+  <VGE_GravjumperLaunch.comps.5.label>крупные ускорители</VGE_GravjumperLaunch.comps.5.label>
+  <VGE_GravjumperLaunch.comps.6.label>гигантские ускорители</VGE_GravjumperLaunch.comps.6.label>
+  <VGE_GravjumperLaunch.comps.7.label>ядро субперсоны пилота</VGE_GravjumperLaunch.comps.7.label>
+  <VGE_GravjumperLaunch.comps.8.label>посадка рядом с гравиякорем</VGE_GravjumperLaunch.comps.8.label>
+  <VGE_GravjumperLaunch.extraOutcomeDescriptions.0.description>При текущем качестве гравипрыгун не сможет снова взлететь в течение {0_time} после посадки.</VGE_GravjumperLaunch.extraOutcomeDescriptions.0.description>
+  <VGE_GravjumperLaunch.extraOutcomeDescriptions.1.description>Кроме того, существует вероятность в {0_percentage} возникновения незначительного инцидента при посадке гравипрыгуна.</VGE_GravjumperLaunch.extraOutcomeDescriptions.1.description>
+  <VGE_GravhulkLaunch.description>Факторы качества определяют время перезарядки двигателя и вероятность неудачи при посадке.</VGE_GravhulkLaunch.description>
+  <VGE_GravhulkLaunch.comps.0.label>Способность пилота {PAWN_labelShort} управлять кораблем</VGE_GravhulkLaunch.comps.0.label>
+  <VGE_GravhulkLaunch.comps.0.labelAbstract>способность пилота управлять кораблем</VGE_GravhulkLaunch.comps.0.labelAbstract>
+  <VGE_GravhulkLaunch.comps.1.label>Способность пилота {PAWN_labelShort} управлять кораблем</VGE_GravhulkLaunch.comps.1.label>
+  <VGE_GravhulkLaunch.comps.1.labelAbstract>способность второго пилота управлять кораблем</VGE_GravhulkLaunch.comps.1.labelAbstract>
+  <VGE_GravhulkLaunch.comps.2.label>Исследовательские способности {PAWN_labelShort}</VGE_GravhulkLaunch.comps.2.label>
+  <VGE_GravhulkLaunch.comps.2.labelAbstract>исследовательские способности гравитехнолога-исследователя</VGE_GravhulkLaunch.comps.2.labelAbstract>
+  <VGE_GravhulkLaunch.comps.3.label>Способности {PAWN_labelShort} к обслуживанию</VGE_GravhulkLaunch.comps.3.label>
+  <VGE_GravhulkLaunch.comps.3.labelAbstract>способности гравитехнолога-инженера к обслуживанию</VGE_GravhulkLaunch.comps.3.labelAbstract>
+  <VGE_GravhulkLaunch.comps.4.label>Среднее состояние обслуживания гравикорабля</VGE_GravhulkLaunch.comps.4.label>
+  <VGE_GravhulkLaunch.comps.5.label>размер экипажа</VGE_GravhulkLaunch.comps.5.label>
+  <VGE_GravhulkLaunch.comps.6.label>малые ускорители</VGE_GravhulkLaunch.comps.6.label>
+  <VGE_GravhulkLaunch.comps.7.label>крупные ускорители</VGE_GravhulkLaunch.comps.7.label>
+  <VGE_GravhulkLaunch.comps.8.label>гигантские ускорители</VGE_GravhulkLaunch.comps.8.label>
+  <VGE_GravhulkLaunch.comps.9.label>занятый пульт второго пилота</VGE_GravhulkLaunch.comps.9.label>
+  <VGE_GravhulkLaunch.comps.10.label>ядро субперсоны пилота</VGE_GravhulkLaunch.comps.10.label>
+  <VGE_GravhulkLaunch.comps.11.label>посадка рядом с гравиякорем</VGE_GravhulkLaunch.comps.11.label>
+  <VGE_GravhulkLaunch.extraOutcomeDescriptions.0.description>При текущем качестве гравиглыба не сможет снова взлететь в течение {0_time} после посадки.</VGE_GravhulkLaunch.extraOutcomeDescriptions.0.description>
+  <VGE_GravhulkLaunch.extraOutcomeDescriptions.1.description>Кроме того, существует вероятность в {0_percentage} возникновения незначительного инцидента при посадке гравиглыба.</VGE_GravhulkLaunch.extraOutcomeDescriptions.1.description>
+</LanguageData>

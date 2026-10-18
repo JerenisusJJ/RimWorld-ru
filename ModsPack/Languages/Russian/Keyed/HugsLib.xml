@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HugsLib_logs_github_token>Токен доступа GitHub</HugsLib_logs_github_token>
+  <HugsLib_logs_github_token_tip>Если указан, журналы публикуются в вашем собственном аккаунте GitHub. Вставьте токен из GitHub &gt; Settings &gt; Developer Settings &gt; Personal access tokens. Оставьте пустым, чтобы публиковать в общедоступный аккаунт HugsLib.\n\nЖурналы, опубликованные в вашем аккаунте, могут просматривать другие люди только по ссылке.</HugsLib_logs_github_token_tip>
+</LanguageData>

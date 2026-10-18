@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: is unique -->
+	<Query_IsUnique.label>уникален</Query_IsUnique.label>
+	<!-- EN: gravship fuel % -->
+	<Query_GravshipFuel.label>топливо гравикорабля, %</Query_GravshipFuel.label>
+	<!-- EN: gravship capacity % -->
+	<Query_GravshipCapacity.label>вместимость гравикорабля, %</Query_GravshipCapacity.label>
+	<!-- EN: gravship cooling down -->
+	<Query_GravshipIsOnCooldown.label>гравикорабль остывает</Query_GravshipIsOnCooldown.label>
+	<!-- EN: Mechanitor Bandwidth -->
+	<Query_MechanitorBandwidth.label>пропускная способность механитора</Query_MechanitorBandwidth.label>
+	<!-- EN: Controlled mech/Overseer -->
+	<Query_MechOverseer.label>контролируемый механоид/надсмотрщик</Query_MechOverseer.label>
+	<!-- EN: mechanoid weight class -->
+	<Query_MechWeightClass.label>класс тяжести механоида</Query_MechWeightClass.label>
+	<!-- EN: mechanoid bandwidth cost -->
+	<Query_MechBandwidthCost.label>стоимость пропускной способности механоида</Query_MechBandwidthCost.label>
+	<!-- EN: mechanoid work mode -->
+	<Query_MechWorkMode.label>режим работы механоида</Query_MechWorkMode.label>
+	<!-- EN: mechanoid uncontrolled -->
+	<Query_MechUncontrolled.label>механоид не контролируется</Query_MechUncontrolled.label>
+	<!-- EN: xenotype -->
+	<Query_Xenotype.label>ксенотип</Query_Xenotype.label>
+	<!-- EN: gene -->
+	<Query_Gene.label>ген</Query_Gene.label>
+	<!-- EN: style -->
+	<Query_Style.label>стиль</Query_Style.label>
+	<!-- EN: ideoligion -->
+	<Query_Ideoligion.label>идеология</Query_Ideoligion.label>
+	<!-- EN: ideoligion has meme -->
+	<Query_Meme.label>идеология содержит мем</Query_Meme.label>
+	<!-- EN: ideoligion has precept -->
+	<Query_Precept.label>идеология содержит постулат</Query_Precept.label>
+	<!-- EN: ideoligion role -->
+	<Query_Role.label>роль в идеологии</Query_Role.label>
+	<!-- EN: preferred xenotype -->
+	<Query_IdeoXenotype.label>предпочтительный ксенотип</Query_IdeoXenotype.label>
+	<!-- EN: venerated animal -->
+	<Query_VeneratedAnimal.label>почитаемое животное</Query_VeneratedAnimal.label>
+	<!-- EN: weapon class -->
+	<Query_WeaponClass.label>класс оружия</Query_WeaponClass.label>
+	<!-- EN: The weapon class for an ideoligion's preferred weapons -->
+	<Query_WeaponClass.tooltip>Класс оружия, предпочтительного для идеологии</Query_WeaponClass.tooltip>
+	<!-- EN: weapon preference -->
+	<Query_WeaponDisposition.label>предпочтения в оружии</Query_WeaponDisposition.label>
+	<!-- EN: If a weapon is preferred by your ideoligion; or the ideoligion of its wielder; or if a person is wielding a preferred weapon according to their ideoligion -->
+	<Query_WeaponDisposition.tooltip>Проверяет, является ли оружие предпочтительным для вашей идеологии или идеологии его владельца, а также держит ли человек предпочтительное для его идеологии оружие.</Query_WeaponDisposition.tooltip>
+	<!-- EN: gauranlen tree -->
+	<Query_Gauranlen.label>дерево гауранлен</Query_Gauranlen.label>
+	<!-- EN: has royal title -->
+	<Query_Royalty_Title.label>имеет королевский титул</Query_Royalty_Title.label>
+	<!-- EN: royal title range -->
+	<Query_Royalty_TitleRange.label>диапазон королевских титулов</Query_Royalty_TitleRange.label>
+	<!-- EN: unmet royal requirement -->
+	<Query_Royalty_TitleRequirement.label>несоблюдённое королевское требование</Query_Royalty_TitleRequirement.label>
+	<!-- EN: honor -->
+	<Query_Royalty_Honor.label>честь</Query_Royalty_Honor.label>
+	<!-- EN: permit -->
+	<Query_Royalty_Permit.label>разрешение</Query_Royalty_Permit.label>
+	<!-- EN: permit points -->
+	<Query_Royalty_PermitPoints.label>очки разрешений</Query_Royalty_PermitPoints.label>
+	<!-- EN: psyfocus -->
+	<Query_Royalty_Psyfocus.label>психофокус</Query_Royalty_Psyfocus.label>
+	<!-- EN: neural heat -->
+	<Query_Royalty_Entropy.label>нейротепло</Query_Royalty_Entropy.label>
+	<!-- EN: search by name -->
+	<Query_Name.label>поиск по имени</Query_Name.label>
+	<!-- EN: specific thing -->
+	<Query_Def.label>конкретный предмет</Query_Def.label>
+	<!-- EN: general category -->
+	<Query_Category.label>общая категория</Query_Category.label>
+	<!-- EN: stat -->
+	<Query_Stat.label>характеристика</Query_Stat.label>
+	<!-- EN: general -->
+	<Query_PawnProperty.label>общее</Query_PawnProperty.label>
+	<!-- EN: dies in -->
+	<Query_PawnDying.label>умрёт через</Query_PawnDying.label>
+	<!-- EN: skill -->
+	<Query_Skill.label>навык</Query_Skill.label>
+	<!-- EN: trait -->
+	<Query_Trait.label>черта</Query_Trait.label>
+	<!-- EN: thought -->
+	<Query_Thought.label>мысль</Query_Thought.label>
+	<!-- EN: need -->
+	<Query_Need.label>потребность</Query_Need.label>
+	<!-- EN: health condition -->
+	<Query_Health.label>состояние здоровья</Query_Health.label>
+	<!-- EN: capacity -->
+	<Query_Capacity.label>способность</Query_Capacity.label>
+	<!-- EN: mental state -->
+	<Query_MentalState.label>душевное состояние</Query_MentalState.label>
+	<!-- EN: comfort at temperature -->
+	<Query_ComfyTemp.label>комфорт при температуре</Query_ComfyTemp.label>
+	<!-- EN: incapable -->
+	<Query_Incapable.label>неспособен</Query_Incapable.label>
+	<!-- EN: area restriction -->
+	<Query_AreaRestriction.label>ограничение области</Query_AreaRestriction.label>
+	<!-- EN: gear -->
+	<Query_Equipment.label>снаряжение</Query_Equipment.label>
+	<!-- EN: ability -->
+	<Query_Ability.label>способность</Query_Ability.label>
+	<!-- EN: drafted -->
+	<Query_Drafted.label>в режиме призыва</Query_Drafted.label>
+	<!-- EN: current action -->
+	<Query_Job.label>текущее действие</Query_Job.label>
+	<!-- EN: schedule -->
+	<Query_Schedule.label>расписание</Query_Schedule.label>
+	<!-- EN: inspiration -->
+	<Query_Inspiration.label>вдохновение</Query_Inspiration.label>
+	<!-- EN: guest status -->
+	<Query_Guest.label>статус гостя</Query_Guest.label>
+	<!-- EN: prisoner -->
+	<Query_Prisoner.label>пленник</Query_Prisoner.label>
+	<!-- EN: quest status -->
+	<Query_Quest.label>статус задания</Query_Quest.label>
+	<!-- EN: work enabled -->
+	<Query_Work.label>включённая работа</Query_Work.label>
+	<!-- EN: apparel policy -->
+	<Query_AssignOutfit.label>политика одежды</Query_AssignOutfit.label>
+	<!-- EN: food restriction -->
+	<Query_AssignFood.label>ограничение пищи</Query_AssignFood.label>
+	<!-- EN: drug policy -->
+	<Query_AssignDrug.label>политика приёма препаратов</Query_AssignDrug.label>
+	<!-- EN: allowed by apparel policy -->
+	<Query_AssignOutfitThing.label>разрешено политикой одежды</Query_AssignOutfitThing.label>
+	<!-- EN: allowed by food restriction -->
+	<Query_AssignFoodThing.label>разрешено ограничением пищи</Query_AssignFoodThing.label>
+	<!-- EN: keep in inventory -->
+	<Query_KeepInInventory.label>держать в инвентаре</Query_KeepInInventory.label>
+	<!-- EN: allowed by drug policy -->
+	<Query_AssignDrugThing.label>разрешено политикой приёма препаратов</Query_AssignDrugThing.label>
+	<!-- EN: age group -->
+	<Query_ThingQueryDevelopmentalStage.label>возрастная группа</Query_ThingQueryDevelopmentalStage.label>
+	<!-- EN: age -->
+	<Query_ThingQueryAge.label>возраст</Query_ThingQueryAge.label>
+	<!-- EN: relation -->
+	<Query_ThingQueryRelation.label>родство</Query_ThingQueryRelation.label>
+	<!-- EN: record (time) -->
+	<Query_RecordTime.label>рекорд (время)</Query_RecordTime.label>
+	<!-- EN: gender -->
+	<Query_Gender.label>пол</Query_Gender.label>
+	<!-- EN: missing Body Part -->
+	<Query_MissingBodyPart.label>отсутствующая часть тела</Query_MissingBodyPart.label>
+	<!-- EN: race -->
+	<Query_RaceProps.label>раса</Query_RaceProps.label>
+	<!-- EN: meat -->
+	<Query_Meat.label>мясо</Query_Meat.label>
+	<!-- EN: leather -->
+	<Query_Leather.label>кожа</Query_Leather.label>
+	<!-- EN: eggs per year -->
+	<Query_Egg.label>яиц в год</Query_Egg.label>
+	<!-- EN: milk per year -->
+	<Query_Milk.label>молока в год</Query_Milk.label>
+	<!-- EN: wool per year -->
+	<Query_Wool.label>шерсти в год</Query_Wool.label>
+	<!-- EN: progress -->
+	<Query_ProductProgress.label>прогресс</Query_ProductProgress.label>
+	<!-- EN: trained -->
+	<Query_Trained.label>обучен</Query_Trained.label>
+	<!-- EN: bonded -->
+	<Query_Bonded.label>привязан</Query_Bonded.label>
+	<!-- EN: item category -->
+	<Query_ItemCategory.label>категория предметов</Query_ItemCategory.label>
+	<!-- EN: quality -->
+	<Query_Quality.label>качество</Query_Quality.label>
+	<!-- EN: made From -->
+	<Query_Stuff.label>из материала</Query_Stuff.label>
+	<!-- EN: special filter -->
+	<Query_SpecialFilter.label>особый фильтр</Query_SpecialFilter.label>
+	<!-- EN: apparel layer -->
+	<Query_ApparelLayer.label>слой одежды</Query_ApparelLayer.label>
+	<!-- EN: apparel coverage -->
+	<Query_ApparelCoverage.label>покрытие одеждой</Query_ApparelCoverage.label>
+	<!-- EN: forbidden -->
+	<Query_Forbidden.label>запрещено</Query_Forbidden.label>
+	<!-- EN: mineable -->
+	<Query_Mineable.label>добываемое</Query_Mineable.label>
+	<!-- EN: mineable -->
+	<Query_MineableDef.label>добываемое</Query_MineableDef.label>
+	<!-- EN: Building category -->
+	<Query_BuildingCategory.label>Building category</Query_BuildingCategory.label>
+	<!-- EN: Door Status -->
+	<Query_Door.label>Door Status</Query_Door.label>
+	<!-- EN: is a crop -->
+	<Query_Crop.label>is a crop</Query_Crop.label>
+	<!-- EN: harvest product -->
+	<Query_Harvest.label>harvest product</Query_Harvest.label>
+	<!-- EN: harvestable now -->
+	<Query_Harvestable.label>harvestable now</Query_Harvestable.label>
+	<!-- EN: plant growth -->
+	<Query_Growth.label>plant growth</Query_Growth.label>
+	<!-- EN: plant growth rate -->
+	<Query_GrowthRate.label>plant growth rate</Query_GrowthRate.label>
+	<!-- EN: freshness -->
+	<Query_Freshness.label>freshness</Query_Freshness.label>
+	<!-- EN: rots within days -->
+	<Query_TimeToRot.label>rots within days</Query_TimeToRot.label>
+	<!-- EN: dies to cold -->
+	<Query_DiesLeafless.label>dies to cold</Query_DiesLeafless.label>
+	<!-- EN: blighted -->
+	<Query_Blighted.label>blighted</Query_Blighted.label>
+	<!-- EN: area -->
+	<Query_Area.label>area</Query_Area.label>
+	<!-- EN: zone -->
+	<Query_Zone.label>zone</Query_Zone.label>
+	<!-- EN: temperature -->
+	<Query_Temp.label>temperature</Query_Temp.label>
+	<!-- EN: deteriorating -->
+	<Query_Deterioration.label>deteriorating</Query_Deterioration.label>
+	<!-- EN: nearby -->
+	<Query_Nearby.label>nearby</Query_Nearby.label>
+	<!-- EN: health % -->
+	<Query_HP.label>health %</Query_HP.label>
+	<!-- EN: inventory -->
+	<Query_Inventory.label>inventory</Query_Inventory.label>
+	<!-- EN: designated -->
+	<Query_Designation.label>designated</Query_Designation.label>
+	<!-- EN: can designate -->
+	<Query_CanDesignate.label>can designate</Query_CanDesignate.label>
+	<!-- EN: faction -->
+	<Query_Faction.label>faction</Query_Faction.label>
+	<!-- EN: reservation -->
+	<Query_Reserved.label>reservation</Query_Reserved.label>
+	<!-- EN: is art -->
+	<Query_Art.label>is art</Query_Art.label>
+	<!-- EN: Accessible parts -->
+	<Query_Accessible.label>Accessible parts</Query_Accessible.label>
+	<!-- EN: Materials or parts that you can potentially get, by smelting / deconstructing / operation / killing -->
+	<Query_Accessible.tooltip>Materials or parts that you can potentially get, by smelting / deconstructing / operation / killing</Query_Accessible.tooltip>
+	<!-- EN: From a mod -->
+	<Query_Mod.label>From a mod</Query_Mod.label>
+	<!-- EN: currently on screen -->
+	<Query_Onscreen.label>currently on screen</Query_Onscreen.label>
+	<!-- EN: filter grouping -->
+	<Query_AndOrGroup.label>filter grouping</Query_AndOrGroup.label>
+	<!-- EN: custom (advanced) -->
+	<Query_Custom.label>custom (advanced)</Query_Custom.label>
+	<!-- EN: selectable -->
+	<Query_Selectable.label>selectable</Query_Selectable.label>
+	<!-- EN: C# Class Type -->
+	<Query_ClassType.label>C# Class Type</Query_ClassType.label>
+	<!-- EN: drawer Type -->
+	<Query_DrawerType.label>drawer Type</Query_DrawerType.label>
+	<!-- EN: fogged (also you need to turn on godmode) -->
+	<Query_Fogged.label>fogged (also you need to turn on godmode)</Query_Fogged.label>
+</LanguageData>

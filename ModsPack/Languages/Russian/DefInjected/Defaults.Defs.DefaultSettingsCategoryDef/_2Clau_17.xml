@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: default policies -->
+	<Policies.label>политики по умолчанию</Policies.label>
+	<!-- EN: Set custom default apparel, food, drug, and reading policies that will be copied to each new colony. Assign different default policies to different types of pawns. -->
+	<Policies.description>Задайте политики одежды, питания, препаратов и чтения по умолчанию — они будут скопированы в каждую новую колонию. Разным персонажам можно назначить разные политики.</Policies.description>
+	<!-- EN: go juice -->
+	<Policies.keywords.44>го-сок</Policies.keywords.44>
+	<!-- EN: wake up -->
+	<Policies.keywords.47>пробуждение</Policies.keywords.47>
+	<!-- EN: default baby feeding settings -->
+	<BabyFeeding.label>настройки кормления младенцев по умолчанию</BabyFeeding.label>
+	<!-- EN: Set the default autofeed setting for colonists based on relationship to baby and whether they are lactating. Set which foods babies can be fed by default. -->
+	<BabyFeeding.description>Задайте настройки автоматического кормления по умолчанию для поселенцев: оно зависит от родства с младенцем и наличия грудного молока. Также укажите, какой пищей можно кормить младенцев по умолчанию.</BabyFeeding.description>
+	<!-- EN: birth givers -->
+	<BabyFeeding.keywords.3>родители</BabyFeeding.keywords.3>
+	<!-- EN: default reward preferences -->
+	<Rewards.label>предпочтения наград по умолчанию</Rewards.label>
+	<!-- EN: Set the default reward preferences to use for a new colony. -->
+	<Rewards.description>Задайте предпочтительные награды по умолчанию для новой колонии.</Rewards.description>
+	<!-- EN: default expanded resource categories -->
+	<ResourceCategories.label>развёрнутые категории ресурсов по умолчанию</ResourceCategories.label>
+	<!-- EN: Set which resource tree categories are expanded by default in categorized mode. -->
+	<ResourceCategories.description>Задайте, какие категории дерева ресурсов по умолчанию развёрнуты в режиме категорий.</ResourceCategories.description>
+	<!-- EN: default workbench bills -->
+	<WorkbenchBills.label>заказы на верстаках по умолчанию</WorkbenchBills.label>
+	<!-- EN: Set default bills for workbenches that will populate automatically upon building a workbench. -->
+	<WorkbenchBills.description>Задайте заказы по умолчанию для верстаков — они будут автоматически появляться при постройке верстака.</WorkbenchBills.description>
+	<!-- EN: hit points -->
+	<WorkbenchBills.keywords.51>прочность</WorkbenchBills.keywords.51>
+	<!-- EN: default work priorities -->
+	<WorkPriorities.label>приоритеты работ по умолчанию</WorkPriorities.label>
+	<!-- EN: Create default work priorities for new colonists based on their passions and skills. -->
+	<WorkPriorities.description>Задайте приоритеты работ по умолчанию для новых поселенцев на основе их увлечений и навыков.</WorkPriorities.description>
+	<!-- EN: bed rest -->
+	<WorkPriorities.keywords.11>отдых в кровати</WorkPriorities.keywords.11>
+	<!-- EN: plant cut -->
+	<WorkPriorities.keywords.21>срезка растений</WorkPriorities.keywords.21>
+	<!-- EN: dark study -->
+	<WorkPriorities.keywords.28>тёмные исследования</WorkPriorities.keywords.28>
+	<!-- EN: default play settings -->
+	<PlaySettings.label>настройки игры по умолчанию</PlaySettings.label>
+	<!-- EN: Configure default play settings. These are generally the toggle buttons in the bottom-right corner of the screen. -->
+	<PlaySettings.description>Настройте параметры игры по умолчанию. Это, как правило, кнопки-переключатели в правом нижнем углу экрана.</PlaySettings.description>
+</LanguageData>

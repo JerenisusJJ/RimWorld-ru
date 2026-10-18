@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Wealth breakdown -->
+	<VisibleWealth_WealthBreakdown>Разбивка стоимости</VisibleWealth_WealthBreakdown>
+	<!-- EN: Calculating -->
+	<VisibleWealth_Calculating>Вычисление...</VisibleWealth_Calculating>
+	<!-- EN: Total wealth: ${0} -->
+	<VisibleWealth_TotalWealth>Общая стоимость: ${0}</VisibleWealth_TotalWealth>
+	<!-- EN: List style -->
+	<VisibleWealth_ListStyle>Стиль списка</VisibleWealth_ListStyle>
+	<!-- EN: Pie chart style -->
+	<VisibleWealth_PieStyle>Стиль круговой диаграммы</VisibleWealth_PieStyle>
+	<!-- EN: Flat -->
+	<VisibleWealth_Flat>Плоский</VisibleWealth_Flat>
+	<!-- EN: Nested -->
+	<VisibleWealth_Nested>Вложенный</VisibleWealth_Nested>
+	<!-- EN: Items wealth -->
+	<VisibleWealth_WealthItems>Стоимость предметов</VisibleWealth_WealthItems>
+	<!-- EN: Buildings wealth -->
+	<VisibleWealth_WealthBuildings>Стоимость построек</VisibleWealth_WealthBuildings>
+	<!-- EN: Pawns wealth -->
+	<VisibleWealth_WealthPawns>Стоимость персонажей</VisibleWealth_WealthPawns>
+	<!-- EN: Pocket maps -->
+	<VisibleWealth_WealthPocketMaps>Карманные карты</VisibleWealth_WealthPocketMaps>
+	<!-- EN: Human -->
+	<VisibleWealth_Humans>Человек</VisibleWealth_Humans>
+	<!-- EN: Animal -->
+	<VisibleWealth_Animals>Животное</VisibleWealth_Animals>
+	<!-- EN: Mech -->
+	<VisibleWealth_Mechs>Механоид</VisibleWealth_Mechs>
+	<!-- EN: Mutant -->
+	<VisibleWealth_Mutants>Мутант</VisibleWealth_Mutants>
+	<!-- EN: Ghoul -->
+	<VisibleWealth_Ghouls>Упырь</VisibleWealth_Ghouls>
+	<!-- EN: On -->
+	<VisibleWealth_Enabled>Вкл.</VisibleWealth_Enabled>
+	<!-- EN: Off -->
+	<VisibleWealth_Disabled>Выкл.</VisibleWealth_Disabled>
+	<!-- EN: Sort by -->
+	<VisibleWealth_SortBy>Сортировать по</VisibleWealth_SortBy>
+	<!-- EN: name -->
+	<VisibleWealth_SortByName>по названию</VisibleWealth_SortByName>
+	<!-- EN: value -->
+	<VisibleWealth_SortByValue>по значению</VisibleWealth_SortByValue>
+	<!-- EN: Sort ascending -->
+	<VisibleWealth_SortDirectionAscending>По возрастанию</VisibleWealth_SortDirectionAscending>
+	<!-- EN: Raid point mode -->
+	<VisibleWealth_RaidPointMode>Режим очков налёта</VisibleWealth_RaidPointMode>
+	<!-- EN: Show percent of total wealth -->
+	<VisibleWealth_PercentOfTotal>Показывать процент от общей стоимости</VisibleWealth_PercentOfTotal>
+	<!-- EN: Show percent of parent category -->
+	<VisibleWealth_PercentOfCategory>Показывать процент от родительской категории</VisibleWealth_PercentOfCategory>
+	<!-- EN: Do not show percentages -->
+	<VisibleWealth_PercentOfNone>Не показывать проценты</VisibleWealth_PercentOfNone>
+	<!-- EN: Randomize colors -->
+	<VisibleWealth_RerollColors>Перемешать цвета</VisibleWealth_RerollColors>
+	<!-- EN: Click for more information. -->
+	<VisibleWealth_ClickForInfo>Нажмите для дополнительной информации.</VisibleWealth_ClickForInfo>
+	<!-- EN: Click to expand. -->
+	<VisibleWealth_ClickToExpand>Нажмите, чтобы развернуть.</VisibleWealth_ClickToExpand>
+	<!-- EN: Collapse {0} -->
+	<VisibleWealth_ClickToCollapse>Свернуть {0}</VisibleWealth_ClickToCollapse>
+	<!-- EN: Collapse all -->
+	<VisibleWealth_CollapseAll>Свернуть всё</VisibleWealth_CollapseAll>
+	<!-- EN: Show button in play settings (bottom right corner) -->
+	<VisibleWealth_PlaySettingsButton>Показывать кнопку в настройках игры (правый нижний угол)</VisibleWealth_PlaySettingsButton>
+	<!-- EN: Show main button (bottom bar) -->
+	<VisibleWealth_MainButton>Показывать основную кнопку (нижняя панель)</VisibleWealth_MainButton>
+	<!-- EN: Configure Wealth Breakdown shortcut key -->
+	<VisibleWealth_OpenKeyBindings>Настроить сочетание клавиш «Разбивка стоимости»</VisibleWealth_OpenKeyBindings>
+	<!-- EN: Facial Animation Performance -->
+	<FAPerf_SettingsCategory>Facial Animation Performance</FAPerf_SettingsCategory>
+	<!-- EN: Status: active — Facial Animation is running with optimized code paths. -->
+	<FAPerf_Status_Active>Status: active — Facial Animation is running with optimized code paths.</FAPerf_Status_Active>
+	<!-- EN: Status: NOT active — Facial Animation is missing or an incompatible version was detected. It is running with its original code. See the log for details. -->
+	<FAPerf_Status_Inactive>Status: NOT active — Facial Animation is missing or an incompatible version was detected. It is running with its original code. See the log for details.</FAPerf_Status_Inactive>
+	<!-- EN: Skip fully hidden face layers when drawing -->
+	<FAPerf_SkipHiddenLayers>Skip fully hidden face layers when drawing</FAPerf_SkipHiddenLayers>
+	<!-- EN: Facial Animation submits invisible (fully transparent) draw calls for hidden face layers — up to ~18 per pawn when facing away from the camera. Skipping them is pixel-identical and saves CPU and GPU every frame.\n\nDisable only if a face addon renders incorrectly. -->
+	<FAPerf_SkipHiddenLayers_Tip>Facial Animation submits invisible (fully transparent) draw calls for hidden face layers — up to ~18 per pawn when facing away from the camera. Skipping them is pixel-identical and saves CPU and GPU every frame.\n\nDisable only if a face addon renders incorrectly.</FAPerf_SkipHiddenLayers_Tip>
+	<!-- EN: Allow cached rendering while facing away -->
+	<FAPerf_NorthCache>Allow cached rendering while facing away</FAPerf_NorthCache>
+	<!-- EN: When a standing pawn faces away from the camera (north), no face parts are visible, so RimWorld's cached pawn frame is pixel-identical to live rendering. Animation timers pause while the face is hidden — the same thing that already happens for off-screen pawns.\n\nDisable to force live rendering at all rotations. -->
+	<FAPerf_NorthCache_Tip>When a standing pawn faces away from the camera (north), no face parts are visible, so RimWorld's cached pawn frame is pixel-identical to live rendering. Animation timers pause while the face is hidden — the same thing that already happens for off-screen pawns.\n\nDisable to force live rendering at all rotations.</FAPerf_NorthCache_Tip>
+	<!-- EN: Use cached pawn rendering when zoomed out -->
+	<FAPerf_FarZoomCache>Use cached pawn rendering when zoomed out</FAPerf_FarZoomCache>
+	<!-- EN: Extra FPS beyond the 1:1 optimizations: when the camera is zoomed out past the threshold below, pawns are drawn from RimWorld's render cache — faces pause at that distance (they are only a few pixels tall there). Zooming back in resumes animation instantly, and colonist-bar portraits keep animating regardless.\n\nOff = strictly identical behavior to Facial Animation. -->
+	<FAPerf_FarZoomCache_Tip>Extra FPS beyond the 1:1 optimizations: when the camera is zoomed out past the threshold below, pawns are drawn from RimWorld's render cache — faces pause at that distance (they are only a few pixels tall there). Zooming back in resumes animation instantly, and colonist-bar portraits keep animating regardless.\n\nOff = strictly identical behavior to Facial Animation.</FAPerf_FarZoomCache_Tip>
+	<!-- EN: Zoom threshold -->
+	<FAPerf_FarZoomThreshold>Zoom threshold</FAPerf_FarZoomThreshold>
+	<!-- EN: Camera zoom level (root size) beyond which the render cache is allowed. 18 = as soon as RimWorld itself is willing to cache pawns (mid zoom-out). 60 = only at extreme zoom-out. Lower values give more FPS but pause faces at closer zoom. -->
+	<FAPerf_FarZoomThreshold_Tip>Camera zoom level (root size) beyond which the render cache is allowed. 18 = as soon as RimWorld itself is willing to cache pawns (mid zoom-out). 60 = only at extreme zoom-out. Lower values give more FPS but pause faces at closer zoom.</FAPerf_FarZoomThreshold_Tip>
+	<!-- EN: Only player pawn animations -->
+	<YayoAnim_OnlyPlayerPawns>Only player pawn animations</YayoAnim_OnlyPlayerPawns>
+	<!-- EN: Prevents any pawn (be it human, animal, or mechanoid) from having any animations unless they're from player's faction. -->
+	<YayoAnim_OnlyPlayerPawnsTooltip>Prevents any pawn (be it human, animal, or mechanoid) from having any animations unless they're from player's faction.</YayoAnim_OnlyPlayerPawnsTooltip>
+	<!-- EN: Update frequency (in ticks) -->
+	<YayoAnim_UpdateFrequency>Update frequency (in ticks)</YayoAnim_UpdateFrequency>
+	<!-- EN: Maximum zoom level: {0} -->
+	<YayoAnim_MaximumZoomLevel>Maximum zoom level: {0}</YayoAnim_MaximumZoomLevel>
+	<!-- EN: Determines maximum zoom level at which the animations will play. If you zoom beyond it, the animations will stop playing. -->
+	<YayoAnim_MaximumZoomLevelTooltip>Determines maximum zoom level at which the animations will play. If you zoom beyond it, the animations will stop playing.</YayoAnim_MaximumZoomLevelTooltip>
+	<!-- EN: Closest -->
+	<YayoAnim_MaximumZoomLevel_Closest>Closest</YayoAnim_MaximumZoomLevel_Closest>
+	<!-- EN: Close -->
+	<YayoAnim_MaximumZoomLevel_Close>Close</YayoAnim_MaximumZoomLevel_Close>
+	<!-- EN: Middle -->
+	<YayoAnim_MaximumZoomLevel_Middle>Middle</YayoAnim_MaximumZoomLevel_Middle>
+	<!-- EN: Far -->
+	<YayoAnim_MaximumZoomLevel_Far>Far</YayoAnim_MaximumZoomLevel_Far>
+	<!-- EN: Any zoom level -->
+	<YayoAnim_MaximumZoomLevel_Furthest>Any zoom level</YayoAnim_MaximumZoomLevel_Furthest>
+	<!-- EN: Walking animations -->
+	<YayoAnim_Walk>Walking animations</YayoAnim_Walk>
+	<!-- EN: Walking motion speed -->
+	<YayoAnim_WalkAnimSpeed>Walking motion speed</YayoAnim_WalkAnimSpeed>
+	<!-- EN: Walking motion angle -->
+	<YayoAnim_WalkAnimAngle>Walking motion angle</YayoAnim_WalkAnimAngle>
+	<!-- EN: Combat animations -->
+	<YayoAnim_Combat>Combat animations</YayoAnim_Combat>
+	<!-- EN: Weapon twirling -->
+	<YayoAnim_TwirlWeapon>Weapon twirling</YayoAnim_TwirlWeapon>
+	<!-- EN: Disable weapon twirling for weapons over specific mass -->
+	<YayoAnim_TwirlWeaponMaxMassEnabled>Disable weapon twirling for weapons over specific mass</YayoAnim_TwirlWeaponMaxMassEnabled>
+	<!-- EN: Max weapon mass for twirling -->
+	<YayoAnim_TwirlWeaponMaxMass>Max weapon mass for twirling</YayoAnim_TwirlWeaponMaxMass>
+	<!-- EN: All work animations -->
+	<YayoAnim_AllJobs>All work animations</YayoAnim_AllJobs>
+	<!-- EN: Sleeping animations -->
+	<YayoAnim_Sleep>Sleeping animations</YayoAnim_Sleep>
+	<!-- EN: Lovin' animations -->
+	<YayoAnim_LovinBed>Lovin' animations</YayoAnim_LovinBed>
+	<!-- EN: Mechanoid walking animations -->
+	<YayoAnim_MechanoidWalk>Mechanoid walking animations</YayoAnim_MechanoidWalk>
+	<!-- EN: Mechanoid work animations -->
+	<YayoAnim_MechanoidJob>Mechanoid work animations</YayoAnim_MechanoidJob>
+	<!-- EN: Mechanoid combat animations -->
+	<YayoAnim_MechanoidCombat>Mechanoid combat animations</YayoAnim_MechanoidCombat>
+	<!-- EN: Animal walking animations -->
+	<YayoAnim_AnimalWalk>Animal walking animations</YayoAnim_AnimalWalk>
+	<!-- EN: Animal work animations -->
+	<YayoAnim_AnimalJob>Animal work animations</YayoAnim_AnimalJob>
+	<!-- EN: Animal combat animations -->
+	<YayoAnim_AnimalCombat>Animal combat animations</YayoAnim_AnimalCombat>
+	<!-- EN: Requires walking animations to be enabled as well -->
+	<YayoAnim_RequiresWalkTooltip>Requires walking animations to be enabled as well</YayoAnim_RequiresWalkTooltip>
+	<!-- EN: Requires all work animations to be enabled as well -->
+	<YayoAnim_RequiresJobTooltip>Requires all work animations to be enabled as well</YayoAnim_RequiresJobTooltip>
+	<!-- EN: Requires combat animations to be enabled as well -->
+	<YayoAnim_RequiresCombatTooltip>Requires combat animations to be enabled as well</YayoAnim_RequiresCombatTooltip>
+	<!-- EN: Debug mode -->
+	<YayoAnim_DebugMode>Debug mode</YayoAnim_DebugMode>
+	<!-- EN: Debug: legacy C# animations only -->
+	<YayoAnim_LegacyMode>Debug: legacy C# animations only</YayoAnim_LegacyMode>
+	<!-- EN: Ignores every animation def and plays only the old hard-coded animations, which now cover just the jobs no def has been written for (mining, harvesting, meditating, drafted waiting and a few from other mods); every other job stands still. A development aid; leave off otherwise. -->
+	<YayoAnim_LegacyModeTooltip>Ignores every animation def and plays only the old hard-coded animations, which now cover just the jobs no def has been written for (mining, harvesting, meditating, drafted waiting and a few from other mods); every other job stands still. A development aid; leave off otherwise.</YayoAnim_LegacyModeTooltip>
+	<!-- EN: Reset to default -->
+	<YayoAnim_ResetToDefault>Reset to default</YayoAnim_ResetToDefault>
+	<!-- EN: Animations ({0} defs, {1} off) -->
+	<YayoAnim_Animations>Animations ({0} defs, {1} off)</YayoAnim_Animations>
+	<!-- EN: All -->
+	<YayoAnim_AnimationsAll>All</YayoAnim_AnimationsAll>
+	<!-- EN: None -->
+	<YayoAnim_AnimationsNone>None</YayoAnim_AnimationsNone>
+	<!-- EN: Off: pawns stand still on those jobs -->
+	<YayoAnim_AnimationsHint>Off: pawns stand still on those jobs</YayoAnim_AnimationsHint>
+	<!-- EN: {0} jobs -->
+	<YayoAnim_AnimationJobs>{0} jobs</YayoAnim_AnimationJobs>
+	<!-- EN: Work, social and joy -->
+	<YayoAnim_Category_Job>Work, social and joy</YayoAnim_Category_Job>
+	<!-- EN: Sleep and rest -->
+	<YayoAnim_Category_Sleep>Sleep and rest</YayoAnim_Category_Sleep>
+	<!-- EN: Lovin' -->
+	<YayoAnim_Category_Lovin>Lovin'</YayoAnim_Category_Lovin>
+	<!-- EN: Imperial shuttle -->
+	<SMV_TabImperial>Imperial shuttle</SMV_TabImperial>
+	<!-- EN: Passenger shuttle -->
+	<SMV_TabPassenger>Passenger shuttle</SMV_TabPassenger>
+	<!-- EN: Look -->
+	<SMV_Look>Look</SMV_Look>
+	<!-- EN: Random, from the enabled looks -->
+	<SMV_LookRandom>Random, from the enabled looks</SMV_LookRandom>
+	<!-- EN: Each imperial shuttle picks one enabled look when it first appears and keeps it. Only the art changes: capacity, quests, permits and pickups stay vanilla. -->
+	<SMV_HintImperial>Each imperial shuttle picks one enabled look when it first appears and keeps it. Only the art changes: capacity, quests, permits and pickups stay vanilla.</SMV_HintImperial>
+	<!-- EN: Each passenger shuttle picks one enabled look when it is built or first loaded and keeps it. Only the art changes: fuel, range, capacity and cost stay vanilla. -->
+	<SMV_HintPassenger>Each passenger shuttle picks one enabled look when it is built or first loaded and keeps it. Only the art changes: fuel, range, capacity and cost stay vanilla.</SMV_HintPassenger>
+	<!-- EN: Every shuttle of this kind uses {0}. The list below is the pool for Random. -->
+	<SMV_HintFixed>Every shuttle of this kind uses {0}. The list below is the pool for Random.</SMV_HintFixed>
+	<!-- EN: active -->
+	<SMV_Active>active</SMV_Active>
+	<!-- EN: mod not active -->
+	<SMV_NotActive>mod not active</SMV_NotActive>
+	<!-- EN: art not supported -->
+	<SMV_Unsupported>art Не поддерживается</SMV_Unsupported>
+	<!-- EN: vanilla look -->
+	<SMV_Vanilla>vanilla look</SMV_Vanilla>
+	<!-- EN: {0}×{1}, drawn at {2}% -->
+	<SMV_SizeScaled>{0}×{1}, drawn at {2}%</SMV_SizeScaled>
+	<!-- EN: Changes reach existing shuttles on their next redraw. -->
+	<SMV_Footer>Changes reach existing shuttles on their next redraw.</SMV_Footer>
+	<!-- EN: Reset -->
+	<SMV_Reset>Reset</SMV_Reset>
+	<!-- EN: Shuttle families -->
+	<TSMV_FamiliesHeader>Shuttle families</TSMV_FamiliesHeader>
+	<!-- EN: Each new trader ship picks one enabled family at random, then one hull from it. Families whose mod is not active are skipped. -->
+	<TSMV_FamiliesHint>Each new trader ship picks one enabled family at random, then one hull from it. Families whose mod is not active are skipped.</TSMV_FamiliesHint>
+	<!-- EN: active -->
+	<TSMV_Active>active</TSMV_Active>
+	<!-- EN: mod not active -->
+	<TSMV_NotActive>mod not active</TSMV_NotActive>
+	<!-- EN: {0} hulls -->
+	<TSMV_HullCount>{0} hulls</TSMV_HullCount>
+	<!-- EN: 1 hull -->
+	<TSMV_HullCountOne>1 hull</TSMV_HullCountOne>
+	<!-- EN: random -->
+	<TSMV_Random>random</TSMV_Random>
+	<!-- EN: Changes apply to ships that arrive after this. If nothing enabled is available, the original designs are used. -->
+	<TSMV_Footer>Changes apply to ships that arrive after this. If nothing enabled is available, the original designs are used.</TSMV_Footer>
+	<!-- EN: Reset -->
+	<TSMV_Reset>Reset</TSMV_Reset>
+</LanguageData>

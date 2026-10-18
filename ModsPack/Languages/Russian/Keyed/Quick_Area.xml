@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuickArea>Быстрая зона</QuickArea>
+  <QA_FenceFirstDesc>Считать заборы стенами при замкнутости</QA_FenceFirstDesc>
+  <QA_KeyBindingQAModifierDesc>Клавиша-модификатор быстрого действия</QA_KeyBindingQAModifierDesc>
+  <QA_KeyBindingRAModifierDesc>Клавиша-модификатор обратного действия</QA_KeyBindingRAModifierDesc>
+  <QA_FillMapDesc>включить функцию, если помещение достигает края карты</QA_FillMapDesc>
+  <QA_OnlyFurniture>Применять к постройкам</QA_OnlyFurniture>
+  <QA_DesignateWall>Применять к стенам</QA_DesignateWall>
+  <QA_SameOrigin>Применять к той же исходной клетке</QA_SameOrigin>
+  <QA_Undo>Отменить</QA_Undo>
+  <QA_SelectOrigin>Выберите исходную клетку (одинарный щелчок)</QA_SelectOrigin>
+  <QA_OriginSelected>Исходная клетка выбрана</QA_OriginSelected>
+  <QA_Cancelled>Отменено</QA_Cancelled>
+  <QA_PatchSameTerrian>Проверять местность вместо помещения в режиме той же исходной клетки</QA_PatchSameTerrian>
+</LanguageData>

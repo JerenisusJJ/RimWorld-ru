@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_OxygenGenerator.label>генератор кислорода</VGE_OxygenGenerator.label>
+  <VGE_Heatsink.label>теплоотвод</VGE_Heatsink.label>
+  <VGE_CopilotControls.label>управление второго пилота</VGE_CopilotControls.label>
+</LanguageData>

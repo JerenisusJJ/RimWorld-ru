@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NAW.Diagonal>диаг. {0}</NAW.Diagonal>
+  <NAW.NanameSettings>Настройки NANAME</NAW.NanameSettings>
+  <NAW.UpdateGraphic>Обновить графику</NAW.UpdateGraphic>
+  <NAW.NotGenerated>Деф стены NANAME не создан.</NAW.NotGenerated>
+  <NAW.ConvertToOriginal>Преобразовать в исходные</NAW.ConvertToOriginal>
+  <NAW.ConvertToOriginalDesc>Преобразует диагональные стены в исходные.</NAW.ConvertToOriginalDesc>
+  <NAW.MustDesignateOriginalWall>Нужно выбрать стену с включённым диагональным вариантом.</NAW.MustDesignateOriginalWall>
+  <NAW.ConvertToNaname>Преобразовать в диагональные</NAW.ConvertToNaname>
+  <NAW.ConvertToNanameDesc>Преобразует исходные стены в диагональные.</NAW.ConvertToNanameDesc>
+  <NAW.MustDesignateNanameWall>Нужно выбрать диагональную стену.</NAW.MustDesignateNanameWall>
+  <NAW.ForceDentRoofed>Вдавить под крышей</NAW.ForceDentRoofed>
+  <NAW.ForceDentRoofedDesc>Вдавить участок под крышей.</NAW.ForceDentRoofedDesc>
+  <NAW.Settings.Walls>Стены</NAW.Settings.Walls>
+  <NAW.Settings.EnableNaname>Включить стену NANAME</NAW.Settings.EnableNaname>
+  <NAW.Settings.NoChangeLinkState>Сохранять ванильное состояние связи по сторонам света.</NAW.Settings.NoChangeLinkState>
+  <NAW.Settings.SkipOriginalPrint>Условно пропускать отрисовку оригинала (NoLinked|HalfLinked).</NAW.Settings.SkipOriginalPrint>
+  <NAW.Settings.AllowVShaped>Разрешить V-образные связи.</NAW.Settings.AllowVShaped>
+  <NAW.Settings.ForceDent>Принудительное вдавливание по ориентации стены.</NAW.Settings.ForceDent>
+  <NAW.Settings.ForceDentOpposite>Принудительное вдавливание по ориентации стены (обратное).</NAW.Settings.ForceDentOpposite>
+  <NAW.Settings.DefaultAll>Сбросить всё по умолчанию</NAW.Settings.DefaultAll>
+  <NAW.Settings.Values>Значения</NAW.Settings.Values>
+  <NAW.Settings.Items>Элементы</NAW.Settings.Items>
+  <NAW.Settings.Label>Название</NAW.Settings.Label>
+  <NAW.Settings.Type>Тип</NAW.Settings.Type>
+  <NAW.Settings.Related>Связанный элемент</NAW.Settings.Related>
+  <NAW.Settings.Direction>Направление</NAW.Settings.Direction>
+  <NAW.Settings.Options>Параметры</NAW.Settings.Options>
+  <NAW.Settings.GroupNanameWalls>Группировать стены NANAME в выпадающие меню. (Требуется перезагрузка)</NAW.Settings.GroupNanameWalls>
+  <NAW.Settings.LinkWithDifferentWall>Связывать с другими типами стен. (Как в ванили)</NAW.Settings.LinkWithDifferentWall>
+  <NAW.Settings.RenderSubstructure>Отображать подконструкции гравикорабля под стенами NANAME. (Требуется перезагрузка)</NAW.Settings.RenderSubstructure>
+  <NAW.Settings.ReloadDefaultSettings>Перезагрузить настройки по умолчанию</NAW.Settings.ReloadDefaultSettings>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_AdvancedGravshipWeaponry.label>продвинутое вооружение гравикораблей</VGE_AdvancedGravshipWeaponry.label>
+  <VGE_AdvancedGravshipWeaponry.description>Позволяет строить продвинутое вооружение гравикораблей, ракетные установки и целеуказательные терминалы, а также наводчики для бомбардировки с гравикорабля.</VGE_AdvancedGravshipWeaponry.description>
+  <VGE_GravshipDefenses.label>защита гравикораблей</VGE_GravshipDefenses.label>
+  <VGE_GravshipDefenses.description>Усильте гравикорабль, построив броню и подброню для него, новые компактные турели и гравимины, а также генераторы щитов, — это сделает корабль гораздо устойчивее к вражескому огню.</VGE_GravshipDefenses.description>
+  <VGE_AdvancedOrbitalTech.label>продвинутые орбитальные технологии</VGE_AdvancedOrbitalTech.label>
+  <VGE_AdvancedOrbitalTech.description>Позволяет строить различные сооружения и одежду, которые повышают комфорт и безопасность жизни в суровом вакууме космоса.</VGE_AdvancedOrbitalTech.description>
+</LanguageData>

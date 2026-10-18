@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_OxygenLeak.letterLabel>утечка кислорода</VGE_OxygenLeak.letterLabel>
+  <VGE_OxygenLeak.letterText>При посадке {GRAVSHIP} в одном из кислородных баллонов образовалась небольшая пробоина, и весь запас баллона улетучился. Пока утечка не будет устранена, кислородный баллон работать не будет.</VGE_OxygenLeak.letterText>
+  <VGE_VacBarrierFlicker.letterLabel>мерцание вакуумного барьера</VGE_VacBarrierFlicker.letterLabel>
+  <VGE_VacBarrierFlicker.letterText>При посадке {GRAVSHIP} скачок напряжения вывел из строя один из вакуумных барьеров, и небольшая часть корабля разгерметизировалась. Чтобы барьер снова заработал, его нужно починить.</VGE_VacBarrierFlicker.letterText>
+  <VGE_GravdataCorruption.letterLabel>повреждение гравиданных</VGE_GravdataCorruption.letterLabel>
+  <VGE_GravdataCorruption.letterText>Неожиданный электромагнитный всплеск при посадке повредил все гравиданные, собранные за это путешествие.</VGE_GravdataCorruption.letterText>
+  <VGE_AstrofuelPipeRupture.letterLabel>разрыв трубопровода астротоплива</VGE_AstrofuelPipeRupture.letterLabel>
+  <VGE_AstrofuelPipeRupture.letterText>Во время посадки {GRAVSHIP} повреждённая топливная магистраль разбрызгала астротопливо по помещению. Случайная искра подожгла его, вызвав внезапную вспышку астрогня.</VGE_AstrofuelPipeRupture.letterText>
+  <VGE_UnwantedAttention.letterLabel>нежелательное внимание</VGE_UnwantedAttention.letterLabel>
+  <VGE_UnwantedAttention.letterText>Когда {GRAVSHIP} снижался, его тепловой след заметили рейдеры неподалёку. Они собрались и выдвигаются в атаку, пока пыль не осела.</VGE_UnwantedAttention.letterText>
+  <VGE_VerminInfestation.letterLabel>нашествие вредителей</VGE_VerminInfestation.letterLabel>
+  <VGE_VerminInfestation.letterText>Вскоре после посадки {GRAVSHIP} из вентиляционных шахт по всему кораблю хлынули стаи крыс, охваченных жаждой охоты. Никто не знает, как они туда попали.</VGE_VerminInfestation.letterText>
+  <VGE_CriticalHeatSpike.letterLabel>критический скачок температуры</VGE_CriticalHeatSpike.letterLabel>
+  <VGE_CriticalHeatSpike.letterText>При посадке {GRAVSHIP} система контроля температуры гравидвигателя дала сбой, и конструкционное тепло резко поднялось далеко за безопасные пределы.</VGE_CriticalHeatSpike.letterText>
+  <VGE_GravTurbulence.letterLabel>гравитационная турбулентность</VGE_GravTurbulence.letterLabel>
+  <VGE_GravTurbulence.letterText>Неожиданная гравитационная вибрация при снижении {GRAVSHIP} потрясла все компоненты на борту, ослабив болты и износив соединения.</VGE_GravTurbulence.letterText>
+</LanguageData>

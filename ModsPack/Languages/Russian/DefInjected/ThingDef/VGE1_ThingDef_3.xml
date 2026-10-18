@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_MechanoidTempShield.label>временный щит механоидов</VGE_MechanoidTempShield.label>
+  <VGE_MechanoidTempShield.description>Компактный оборонительный блок, создающий вокруг себя локальный щит. Барьер действует лишь короткое время, а затем рушится, после чего устройству необходимо остыть, прежде чем его можно будет развернуть снова.</VGE_MechanoidTempShield.description>
+  <VGE_MechanoidAstrofuelNode.label>узел астротоплива</VGE_MechanoidAstrofuelNode.label>
+  <VGE_MechanoidAstrofuelNode.description>Компактный топливный резервуар, встроенный в платформы механоидов. Хранит очищенное астротопливо для их систем, но при повреждении крайне нестабилен и склонен к мощным взрывам.</VGE_MechanoidAstrofuelNode.description>
+  <VGE_Compressed_Vacstone.label>спрессованный вакуумит</VGE_Compressed_Vacstone.label>
+  <VGE_Compressed_Vacstone.description>Сверхплотная масса астероидной породы и пыли, за тысячелетия спрессованная в почти неразрушимый блок. Встречается только в глубоком космосе.</VGE_Compressed_Vacstone.description>
+  <VGE_Compressed_Steel.label>спрессованная сталь</VGE_Compressed_Steel.label>
+  <VGE_Compressed_Steel.description>Древняя конструкционная масса, сплавленная в единое сверхплотное месторождение вакуумита и стали. Встречается только в глубоком космосе.</VGE_Compressed_Steel.description>
+  <VGE_Compressed_Silver.label>спрессованная серебряная руда</VGE_Compressed_Silver.label>
+  <VGE_Compressed_Silver.description>Серебросодержащая порода, спрессованная под огромным давлением в плотный однородный пласт. Встречается только в глубоком космосе.</VGE_Compressed_Silver.description>
+  <VGE_Compressed_Gold.label>спрессованная золотая руда</VGE_Compressed_Gold.label>
+  <VGE_Compressed_Gold.description>Богатые золотом слои, раздавленные и перекристаллизованные в плотную прочную жилу. Встречается только в глубоком космосе.</VGE_Compressed_Gold.description>
+  <VGE_Compressed_Uranium.label>спрессованная урановая руда</VGE_Compressed_Uranium.label>
+  <VGE_Compressed_Uranium.description>Насыщенная ураном порода, спёкшаяся в почти монолитное месторождение, которое трудно расколоть. Встречается только в глубоком космосе.</VGE_Compressed_Uranium.description>
+  <VGE_Compressed_Plasteel.label>спрессованная пласталь</VGE_Compressed_Plasteel.label>
+  <VGE_Compressed_Plasteel.description>Сверхплотный конгломерат пластали, образовавшийся в вакууме за поколения; добывать его чрезвычайно тяжело. Встречается только в глубоком космосе.</VGE_Compressed_Plasteel.description>
+  <VGE_Compressed_Jade.label>спрессованный нефрит</VGE_Compressed_Jade.label>
+  <VGE_Compressed_Jade.description>Нефритосодержащий вакуумит, спрессованный в жёсткую мелкозернистую массу. Встречается только в глубоком космосе.</VGE_Compressed_Jade.description>
+  <VGE_GravcorePowerCoil.label>энергокатушка гравиядра</VGE_GravcorePowerCoil.label>
+  <VGE_GravcorePowerCoil.description>Массивный гравитехнический реактор, преобразующий и усиливающий энергию гравитационных волн в огромную электрическую мощность. Его усиленные катушки выдерживают экстремальные потоки, что делает его одним из самых мощных источников энергии для гравикораблей. Соседние энергоячейки гравиядра повышают выходную мощность на 15% за каждую энергоячейку гравиядра.</VGE_GravcorePowerCoil.description>
+  <VGE_GravshipCapacitor.label>конденсатор гравикорабля</VGE_GravshipCapacitor.label>
+  <VGE_GravshipCapacitor.description>Накапливает большое количество электроэнергии для последующего использования. Конденсаторы гравикорабля строятся на подструктуре гравикорабля и не мешают передвижению.</VGE_GravshipCapacitor.description>
+  <VGE_SolarPanelling.label>солнечное покрытие</VGE_SolarPanelling.label>
+  <VGE_SolarPanelling.description>Вырабатывает электроэнергию из солнечного света. Не работает в темноте и при искусственном освещении. Не мешает передвижению и не служит укрытием, но строится только на подструктуре гравикорабля.</VGE_SolarPanelling.description>
+  <VGE_GravtechConsole.label>гравитехническая консоль</VGE_GravtechConsole.label>
+  <VGE_GravtechConsole.description>Интерфейс для анализа гравиданных, собранных во время запусков и перелётов гравикорабля. На орбите гравитехник-исследователь может работать за консолью, создавая непрерывный поток гравиданных. Питание подаётся напрямую от гравидвигателя.</VGE_GravtechConsole.description>
+  <VGE_GravshipBlackBox.label>чёрный ящик гравикорабля</VGE_GravshipBlackBox.label>
+  <VGE_GravshipBlackBox.description>Неразрушимый передовой регистратор, встроенный в системы гравикорабля. Значительно увеличивает выход гравиданных, перехватывает избыток, который обычно пропал бы зря, и позволяет напрямую превращать накопленные гравиданные в очки исследования. Гравикорабль может нести только один чёрный ящик.</VGE_GravshipBlackBox.description>
+  <VGE_FlightComputer.label>бортовой компьютер</VGE_FlightComputer.label>
+  <VGE_FlightComputer.description>Передовой вычислительный блок, оптимизирующий сбор данных во время перелётов гравикорабля. Увеличивает количество гравиданных, получаемых за каждый запуск.</VGE_FlightComputer.description>
+  <VGE_CompactResearchBench.label>компактный исследовательский стол</VGE_CompactResearchBench.label>
+  <VGE_CompactResearchBench.description>Уменьшенная версия высокотехнологичного исследовательского стола, рассчитанная на тесные помещения гравикорабля. Несмотря на небольшие размеры, в нём установлены те же компьютеры и электронное оборудование, поэтому он даёт те же исследовательские возможности и открывает такие же передовые проекты, как и его большой собрат. Питание подаётся напрямую от гравидвигателя.</VGE_CompactResearchBench.description>
+  <VGE_GravshipScannerCluster.label>сканерный кластер гравикорабля</VGE_GravshipScannerCluster.label>
+  <VGE_GravshipScannerCluster.description>Передовой многочастотный кластер датчиков, которым исследователи пользуются для обнаружения ресурсов под землёй, на планете или на орбите. Сканер можно настроить на поиск определённых полезных ископаемых под землёй или на большой дистанции либо на сканирование орбитальных объектов. Шанс обнаружения зависит от навыка исследования оператора. Для добычи подземных ресурсов потребуются глубинные буры, а удалённые месторождения и орбитальные объекты нужно посетить, чтобы собрать их. Несколько установок не увеличивают частоту обнаружения на орбите. Питание подаётся напрямую от гравидвигателя.</VGE_GravshipScannerCluster.description>
+  <VGE_GravshipScannerCluster.comps.CompScannerCluster_OrbitalScannerModule.noActiveScanningMessage>Орбитальный сканер поддерживает только пассивное сканирование</VGE_GravshipScannerCluster.comps.CompScannerCluster_OrbitalScannerModule.noActiveScanningMessage>
+  <VGE_GravshipStructuralBeam.label>несущая балка гравикорабля</VGE_GravshipStructuralBeam.label>
+  <VGE_GravshipStructuralBeam.description>Несущая балка, вокруг которой можно построить гравикорабль. Расширяет область, где можно строить подструктуру, на квадрат 5x5. При разрушении вызывает обрушение соседних балок.</VGE_GravshipStructuralBeam.description>
+  <VGE_GunnerSubpersonaCore.label>ядро субперсоны стрелка</VGE_GunnerSubpersonaCore.label>
+  <VGE_GunnerSubpersonaCore.description>Низкокачественная субперсона, специализирующаяся на бое гравикораблей. Может подключаться к одному гравикорабельному орудию и управлять им так же, как член экипажа за целеуказательным терминалом. Её боевые навыки превосходят даже лучшего стрелка-человека. Гравикорабль может нести до двух ядер субперсоны стрелка.</VGE_GunnerSubpersonaCore.description>
+  <VGE_MaintenanceHub.label>центр обслуживания</VGE_MaintenanceHub.label>
+  <VGE_MaintenanceHub.description>Централизованная система, оптимизирующая и автоматизирующая плановое обслуживание всего гравикорабля. Пассивно снижает скорость износа всех подключённых механизмов. Для работы требуется питание.</VGE_MaintenanceHub.description>
+  <VGE_CapacitorHarmonizer.label>гармонизатор конденсаторов</VGE_CapacitorHarmonizer.label>
+  <VGE_CapacitorHarmonizer.description>Специальное устройство, которое балансирует и синхронизирует поток энергии между ближайшими конденсаторами. Пассивно повышает эффективность их зарядки и разрядки до максимума. Для работы требуется питание.</VGE_CapacitorHarmonizer.description>
+  <VGE_Gravlift.label>гравилифт</VGE_Gravlift.label>
+  <VGE_Gravlift.description>Сложная платформа для вертикального старта и стабилизации, встроенная в основную структуру гравикорабля. Гравилифт обеспечивает огромную тягу, необходимую для вертикального взлёта с поверхности планеты, и стабилизирует выход на орбиту, позволяя гравикораблю оставаться в космосе. Он также значительно смягчает аварийную посадку, снижая получаемые повреждения и не давая подструктуре получить критические повреждения.</VGE_Gravlift.description>
+  <VGE_VacBarrierDouble.label>вакуумный барьер (2x1)</VGE_VacBarrierDouble.label>
+  <VGE_VacBarrierDouble.description>Ультразвуковой барьер, предотвращающий разгерметизацию в космосе. Поле сжимает молекулы воздуха у порога, не давая газам вырваться наружу, но позволяя людям свободно проходить сквозь него. Вакуумный барьер никак не помешает проникновению врагов.\n\nДля предотвращения разгерметизации барьер должен быть подключён к питанию.</VGE_VacBarrierDouble.description>
+  <VGE_VacBarrierTriple.label>вакуумный барьер (3x1)</VGE_VacBarrierTriple.label>
+  <VGE_VacBarrierTriple.description>Ультразвуковой барьер, предотвращающий разгерметизацию в космосе. Поле сжимает молекулы воздуха у порога, не давая газам вырваться наружу, но позволяя людям свободно проходить сквозь него. Вакуумный барьер никак не помешает проникновению врагов.\n\nДля предотвращения разгерметизации барьер должен быть подключён к питанию.</VGE_VacBarrierTriple.description>
+  <VGE_VacBarrierQuintuple.label>вакуумный барьер (5x1)</VGE_VacBarrierQuintuple.label>
+  <VGE_VacBarrierQuintuple.description>Ультразвуковой барьер, предотвращающий разгерметизацию в космосе. Поле сжимает молекулы воздуха у порога, не давая газам вырваться наружу, но позволяя людям свободно проходить сквозь него. Вакуумный барьер никак не помешает проникновению врагов.\n\nДля предотвращения разгерметизации барьер должен быть подключён к питанию.</VGE_VacBarrierQuintuple.description>
+  <VGE_VacCheckpoint.label>вакуумный контрольный пункт</VGE_VacCheckpoint.label>
+  <VGE_VacCheckpoint.description>Контрольный пункт безопасности, обозначающий вход в вакуумную среду. Колонисты не пересекут его без необходимой защиты от вакуума.</VGE_VacCheckpoint.description>
+  <VGE_OxygenCanister.label>кислородный баллон</VGE_OxygenCanister.label>
+  <VGE_OxygenCanister.description>Газ, поддерживающий жизнь. Используется для наддува помещений, подачи пригодного для дыхания воздуха или питания специального оборудования и снаряжения для выживания. При повреждении взрывоопасен.</VGE_OxygenCanister.description>
+  <VGE_Astrofuel.label>астротопливо</VGE_Astrofuel.label>
+  <VGE_Astrofuel.description>Высокоэнергетическое синтетическое топливо. Используется для питания ускорителей и бустеров гравикорабля или для выработки электроэнергии в специальных системах. Крайне горюче: бурно горит даже в среде с низким содержанием кислорода.</VGE_Astrofuel.description>
+  <VGE_Oxyalgae.label>оксиводоросли</VGE_Oxyalgae.label>
+  <VGE_Oxyalgae.description>Плотная масса собранных водорослей, выращиваемых для систем жизнеобеспечения. Оксиводоросли обеспечивают стабильную выработку кислорода, но быстро портятся, если их не переработать.</VGE_Oxyalgae.description>
+  <VGE_Apparel_OxygenPack.label>кислородный ранец</VGE_Apparel_OxygenPack.label>
+  <VGE_Apparel_OxygenPack.description>Рюкзак с большим запасом сжатого кислорода. При ношении вместе с герметичной одеждой обеспечивает полную защиту от вакуума, снабжая владельца пригодным для дыхания воздухом. Ранец расходует кислород только в вакууме и требует периодической перезарядки. Также значительно снижает воздействие загрязнения через лёгкие.</VGE_Apparel_OxygenPack.description>
+  <VGE_Apparel_OxygenPack.comps.CompApparelOxygenProvider.chargeNoun>кислород, ед.³</VGE_Apparel_OxygenPack.comps.CompApparelOxygenProvider.chargeNoun>
+  <VGE_Filth_Astrofuel.label>лужа астротоплива</VGE_Filth_Astrofuel.label>
+  <VGE_Filth_Astrofuel.description>Лужа горючего астротоплива.</VGE_Filth_Astrofuel.description>
+  <VGE_Filth_DamagedSubstructure.label>обломки повреждённой подструктуры</VGE_Filth_DamagedSubstructure.label>
+  <VGE_Filth_DamagedSubstructure.description>Обломки повреждённой подструктуры гравикорабля.</VGE_Filth_DamagedSubstructure.description>
+  <VGE_GaussSmoke.label>частица</VGE_GaussSmoke.label>
+  <VGE_SmallDebris.label>малые обломки</VGE_SmallDebris.label>
+  <VGE_MediumDebris.label>средние обломки</VGE_MediumDebris.label>
+  <VGE_LargeDebris.label>крупные обломки</VGE_LargeDebris.label>
+  <VGE_SmallAsteroid_Projectile.label>малый астероид</VGE_SmallAsteroid_Projectile.label>
+  <VGE_MediumAsteroid.label>средний астероид</VGE_MediumAsteroid.label>
+  <VGE_LargeAsteroid.label>крупный астероид</VGE_LargeAsteroid.label>
+  <VGE_Astrofire.label>астрогонь</VGE_Astrofire.label>
+  <VGE_AstrofireSpark.label>искра астрогня</VGE_AstrofireSpark.label>
+  <VGE_LandingStructure.label>посадочная конструкция</VGE_LandingStructure.label>
+  <VGE_OxyalgaePlant.label>оксиводоросли</VGE_OxyalgaePlant.label>
+  <VGE_OxyalgaePlant.description>Быстрорастущее водное растение, выращиваемое гидропонным способом; используется для выработки кислорода после переработки в водорослевом оксигенаторе. После сбора быстро гниёт, поэтому важна немедленная переработка.</VGE_OxyalgaePlant.description>
+  <VGE_Astropede.label>астроход</VGE_Astropede.label>
+  <VGE_Astropede.description>Тяжелобронированные механоиды, приспособленные к войне в невесомости. Астроходы бесшумно дрейфуют в космосе с помощью гравитационных стабилизаторов и обрушивают взрывные кинетические залпы из своих уменьшенных масс-копий. Парящий силуэт делает их идеальными для штурмов кораблей и проникновения на станции, однако низкая скорость передвижения делает их уязвимыми для сосредоточенного огня.</VGE_Astropede.description>
+  <VGE_Astropede.tools.head.label>голова</VGE_Astropede.tools.head.label>
+  <VGE_Hunter.label>охотник</VGE_Hunter.label>
+  <VGE_Hunter.description>Быстрый боевой механоид человеческого роста, предназначенный для войны в невесомости. Без усилий дрейфует в космосе, сближается с целью и обрушивает сокрушительные залпы из сдвоенной пусковой установки «Джавелин». Ракеты поражают с убийственной точностью, но их малая дальность вынуждает охотников подходить к врагу опасно близко.</VGE_Hunter.description>
+  <VGE_MassLance.label>масс-копьё</VGE_MassLance.label>
+  <VGE_MassLance.description>Переносная артиллерийская установка масс-драйвера, монтируемая на механоиде. Выстреливает плотные болванки с невероятной скоростью и способна уничтожить даже тяжелобронированные гравикорабли.</VGE_MassLance.description>
+  <VGE_MassLance.verbs.Verb_Shoot.label>масс-копьё</VGE_MassLance.verbs.Verb_Shoot.label>
+  <VGE_RocketswarmPod.label>блок ракетного роя</VGE_RocketswarmPod.label>
+  <VGE_RocketswarmPod.description>Уменьшенная сдвоенная установка ракетного роя, монтируемая на механоиде. Очень эффективна против больших групп слабых бойцов, но менее эффективна против небольшого числа бронированных целей.</VGE_RocketswarmPod.description>
+  <VGE_RocketswarmPod.verbs.Verb_Shoot.label>блок ракетного роя</VGE_RocketswarmPod.verbs.Verb_Shoot.label>
+  <VGE_WallToolCabinet.label>настенный шкаф с инструментами</VGE_WallToolCabinet.label>
+  <VGE_WallToolCabinet.description>Настенная версия шкафа с инструментами. Повышает скорость работы, если стоит рядом с верстаком. Один верстак может использовать до двух шкафов с инструментами.</VGE_WallToolCabinet.description>
+  <VGE_CompactMultiAnalyzer.label>компактный мультианализатор</VGE_CompactMultiAnalyzer.label>
+  <VGE_CompactMultiAnalyzer.description>Уменьшенная версия мультианализатора, рассчитанная на работу на борту гравикорабля. Занимает меньше места, но выполняет ту же основную функцию: повышает скорость исследований, если стоит рядом с высокотехнологичным исследовательским столом, и открывает передовые проекты. Каждый стол может получать выгоду только от одного мультианализатора. Питание подаётся напрямую от гравидвигателя.</VGE_CompactMultiAnalyzer.description>
+</LanguageData>

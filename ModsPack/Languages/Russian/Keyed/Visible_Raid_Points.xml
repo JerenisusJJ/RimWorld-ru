@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VisibleRaidPoints_RaidPointsUsed>Использовано очков угрозы</VisibleRaidPoints_RaidPointsUsed>
+  <VisibleRaidPoints_ShowPointsInLetterLabel>Показывать очки в заголовке письма</VisibleRaidPoints_ShowPointsInLetterLabel>
+  <VisibleRaidPoints_ShowPointsInLetterText>Показывать очки в тексте письма</VisibleRaidPoints_ShowPointsInLetterText>
+  <VisibleRaidPoints_ShowBreakdownInLetterText>Показывать расчёт очков в тексте письма</VisibleRaidPoints_ShowBreakdownInLetterText>
+  <VisibleRaidPoints_ShowBreakdownLinkInLetter>Добавлять в конец письма ссылку на расчёт очков</VisibleRaidPoints_ShowBreakdownLinkInLetter>
+  <VisibleRaidPoints_IncidentWorkerTypes>Включённые типы событий</VisibleRaidPoints_IncidentWorkerTypes>
+  <VisibleRaidPoints_Modify>Изменить</VisibleRaidPoints_Modify>
+  <VisibleRaidPoints_EnableAll>Включить все</VisibleRaidPoints_EnableAll>
+  <VisibleRaidPoints_DisableAll>Отключить все</VisibleRaidPoints_DisableAll>
+  <VisibleRaidPoints_AggressiveAnimals>Стая бешеных животных</VisibleRaidPoints_AggressiveAnimals>
+  <VisibleRaidPoints_AmbushEnemyFaction>Засада на караван (люди)</VisibleRaidPoints_AmbushEnemyFaction>
+  <VisibleRaidPoints_AmbushManhunterPack>Засада на караван (животные)</VisibleRaidPoints_AmbushManhunterPack>
+  <VisibleRaidPoints_AnimalInsanityMass>Массовое безумие животных</VisibleRaidPoints_AnimalInsanityMass>
+  <VisibleRaidPoints_AnomalyEndgame>Пробуждение Бездны</VisibleRaidPoints_AnomalyEndgame>
+  <VisibleRaidPoints_CaravanDemand>Требование каравана</VisibleRaidPoints_CaravanDemand>
+  <VisibleRaidPoints_ChimeraAssault>Нападение химеры</VisibleRaidPoints_ChimeraAssault>
+  <VisibleRaidPoints_CrashedShipPart>Корабль психический/дефолиатор</VisibleRaidPoints_CrashedShipPart>
+  <VisibleRaidPoints_CropBlight>Гибель посевов</VisibleRaidPoints_CropBlight>
+  <VisibleRaidPoints_DeepDrillInfestation>Слишком глубоко: заражение</VisibleRaidPoints_DeepDrillInfestation>
+  <VisibleRaidPoints_DevourerAssault>Нападение пожирателя</VisibleRaidPoints_DevourerAssault>
+  <VisibleRaidPoints_DevourerWaterAssault>Нападение водного пожирателя</VisibleRaidPoints_DevourerWaterAssault>
+  <VisibleRaidPoints_EntitySwarm>Рой сущностей</VisibleRaidPoints_EntitySwarm>
+  <VisibleRaidPoints_FleshbeastAttack>Нападение плотоядных</VisibleRaidPoints_FleshbeastAttack>
+  <VisibleRaidPoints_FleshmassHeart>Сердце плоти</VisibleRaidPoints_FleshmassHeart>
+  <VisibleRaidPoints_GhoulAttack>Нападение гулей</VisibleRaidPoints_GhoulAttack>
+  <VisibleRaidPoints_GiveQuest>Задание</VisibleRaidPoints_GiveQuest>
+  <VisibleRaidPoints_GorehulkAssault>Нападение горохулка</VisibleRaidPoints_GorehulkAssault>
+  <VisibleRaidPoints_HateChanters>Певцы ненависти</VisibleRaidPoints_HateChanters>
+  <VisibleRaidPoints_Infestation>Заражение насекомыми</VisibleRaidPoints_Infestation>
+  <VisibleRaidPoints_InsectJelly>Насекомое желе</VisibleRaidPoints_InsectJelly>
+  <VisibleRaidPoints_MechCluster>Кластер механоидов</VisibleRaidPoints_MechCluster>
+  <VisibleRaidPoints_NoctolAttack>Нападение ноктолов</VisibleRaidPoints_NoctolAttack>
+  <VisibleRaidPoints_PitGateEmergence>Появление из ямных врат</VisibleRaidPoints_PitGateEmergence>
+  <VisibleRaidPoints_PsychicDrone>Психический зов</VisibleRaidPoints_PsychicDrone>
+  <VisibleRaidPoints_PsychicRitualSiege>Психический ритуал культистов</VisibleRaidPoints_PsychicRitualSiege>
+  <VisibleRaidPoints_RaidEnemy>Налёт</VisibleRaidPoints_RaidEnemy>
+  <VisibleRaidPoints_RaidFriendly>Дружественные гости</VisibleRaidPoints_RaidFriendly>
+  <VisibleRaidPoints_SanguophageIncidents>События, связанные с сангвофагами</VisibleRaidPoints_SanguophageIncidents>
+  <VisibleRaidPoints_ShamblerAssault>Нападение шамблеров</VisibleRaidPoints_ShamblerAssault>
+  <VisibleRaidPoints_ShamblerSwarm>Рой шамблеров</VisibleRaidPoints_ShamblerSwarm>
+  <VisibleRaidPoints_SightstealerArrival>Прибытие зрениекрадов</VisibleRaidPoints_SightstealerArrival>
+  <VisibleRaidPoints_SightstealerSwarm>Далёкий вопль</VisibleRaidPoints_SightstealerSwarm>
+  <VisibleRaidPoints_TraderCaravanArrival>Торговый караван</VisibleRaidPoints_TraderCaravanArrival>
+  <VisibleRaidPoints_TravelerGroup>Путешественники</VisibleRaidPoints_TravelerGroup>
+  <VisibleRaidPoints_VisitorGroup>Посетители</VisibleRaidPoints_VisitorGroup>
+  <VisibleRaidPoints_WastepackInfestation>Заражение отходами</VisibleRaidPoints_WastepackInfestation>
+  <VisibleRaidPoints_PointsBreakdown>Расчёт очков угрозы</VisibleRaidPoints_PointsBreakdown>
+  <VisibleRaidPoints_BreakdownInitialValueDesc>Начальное значение</VisibleRaidPoints_BreakdownInitialValueDesc>
+  <VisibleRaidPoints_BreakdownPlayerWealthForStorytellerDesc>Богатство игрока для рассказчика</VisibleRaidPoints_BreakdownPlayerWealthForStorytellerDesc>
+  <VisibleRaidPoints_BreakdownPlayerWealthForStorytellerExpl>Общее богатство − (богатство построек / 2)</VisibleRaidPoints_BreakdownPlayerWealthForStorytellerExpl>
+  <VisibleRaidPoints_BreakdownPointsFromWealthDesc>Очки за богатство</VisibleRaidPoints_BreakdownPointsFromWealthDesc>
+  <VisibleRaidPoints_BreakdownPointsPerPawnDesc>Очки за одно существо</VisibleRaidPoints_BreakdownPointsPerPawnDesc>
+  <VisibleRaidPoints_BreakdownPointsPerPawnExpl>зависит от богатства</VisibleRaidPoints_BreakdownPointsPerPawnExpl>
+  <VisibleRaidPoints_BreakdownPointsFromPawnsDesc>Всего очков за существ</VisibleRaidPoints_BreakdownPointsFromPawnsDesc>
+  <VisibleRaidPoints_BreakdownTargetRandomFactorDesc>Случайный множитель каравана</VisibleRaidPoints_BreakdownTargetRandomFactorDesc>
+  <VisibleRaidPoints_BreakdownAdaptationFactorDesc>Коэффициент адаптации</VisibleRaidPoints_BreakdownAdaptationFactorDesc>
+  <VisibleRaidPoints_BreakdownThreatScaleDesc>Масштаб угрозы</VisibleRaidPoints_BreakdownThreatScaleDesc>
+  <VisibleRaidPoints_BreakdownGraceFactorDesc>Коэффициент льготного периода</VisibleRaidPoints_BreakdownGraceFactorDesc>
+  <VisibleRaidPoints_BreakdownGraceFactorExpl>зависит от возраста колонии</VisibleRaidPoints_BreakdownGraceFactorExpl>
+  <VisibleRaidPoints_BreakdownClampLowDesc>Принудительный минимум 35 очков</VisibleRaidPoints_BreakdownClampLowDesc>
+  <VisibleRaidPoints_BreakdownClampHighDesc>Принудительный максимум {0} очков</VisibleRaidPoints_BreakdownClampHighDesc>
+  <VisibleRaidPoints_BreakdownPreCalculatedPointsDesc>Предварительно рассчитанные очки</VisibleRaidPoints_BreakdownPreCalculatedPointsDesc>
+  <VisibleRaidPoints_BreakdownTotal>Итог</VisibleRaidPoints_BreakdownTotal>
+  <VisibleRaidPoints_StorytellerRandomFactorDesc>Случайный множитель Рэнди Рэндома</VisibleRaidPoints_StorytellerRandomFactorDesc>
+  <VisibleRaidPoints_RaidArrivalModeFactorDesc>Коэффициент способа прибытия налёта</VisibleRaidPoints_RaidArrivalModeFactorDesc>
+  <VisibleRaidPoints_RaidStrategyFactorDesc>Коэффициент стратегии налёта</VisibleRaidPoints_RaidStrategyFactorDesc>
+  <VisibleRaidPoints_RaidAgeRestrictionFactorDesc>Коэффициент возрастного ограничения налёта</VisibleRaidPoints_RaidAgeRestrictionFactorDesc>
+  <VisibleRaidPoints_PollutionRaidFactorDesc>Коэффициент налёта из-за загрязнения</VisibleRaidPoints_PollutionRaidFactorDesc>
+  <VisibleRaidPoints_AmbushManhunterFactorDesc>Коэффициент засады на караван (животные)</VisibleRaidPoints_AmbushManhunterFactorDesc>
+  <VisibleRaidPoints_CaravanDemandFactorDesc>Случайный множитель требования каравана</VisibleRaidPoints_CaravanDemandFactorDesc>
+  <VisibleRaidPoints_CrashedShipPartFactorDesc>Коэффициент обломков корабля</VisibleRaidPoints_CrashedShipPartFactorDesc>
+  <VisibleRaidPoints_DeepDrillInfestationFactorDesc>Случайный множитель заражения от глубинного бура</VisibleRaidPoints_DeepDrillInfestationFactorDesc>
+  <VisibleRaidPoints_InfestationFactorDesc>Коэффициент заражения</VisibleRaidPoints_InfestationFactorDesc>
+  <VisibleRaidPoints_IntermediateTotalDesc>Промежуточный итог</VisibleRaidPoints_IntermediateTotalDesc>
+  <VisibleRaidPoints_AnimalInsanityMassCalcDesc>Поправка на массовое безумие животных</VisibleRaidPoints_AnimalInsanityMassCalcDesc>
+  <VisibleRaidPoints_CrashedShipPartMinDesc>Минимум 300 очков для обломков корабля</VisibleRaidPoints_CrashedShipPartMinDesc>
+  <VisibleRaidPoints_DeepDrillInfestationMinDesc>Минимум 200 очков для заражения от глубинного бура</VisibleRaidPoints_DeepDrillInfestationMinDesc>
+  <VisibleRaidPoints_DeepDrillInfestationMaxDesc>Максимум 1000 очков для заражения от глубинного бура</VisibleRaidPoints_DeepDrillInfestationMaxDesc>
+  <VisibleRaidPoints_MechClusterMaxDesc>Максимум 10000 очков для кластера механоидов</VisibleRaidPoints_MechClusterMaxDesc>
+  <VisibleRaidPoints_SightstealerSwarmFactorDesc>Коэффициент роя зрениекрадов</VisibleRaidPoints_SightstealerSwarmFactorDesc>
+  <VisibleRaidPoints_GorehulkAssaultMinDesc>Минимум {0} очков для нападения горохулка</VisibleRaidPoints_GorehulkAssaultMinDesc>
+  <VisibleRaidPoints_GorehulkAssaultMinFactorDesc>Коэффициент минимума нападения горохулка</VisibleRaidPoints_GorehulkAssaultMinFactorDesc>
+  <VisibleRaidPoints_EntitySwarmRandomFactorDesc>Случайный множитель роя сущностей</VisibleRaidPoints_EntitySwarmRandomFactorDesc>
+  <VisibleRaidPoints_EntitySwarmMinDesc>Минимум {0} очков для роя сущностей</VisibleRaidPoints_EntitySwarmMinDesc>
+  <VisibleRaidPoints_FleshbeastAttackFactorDesc>Коэффициент нападения плотоядных</VisibleRaidPoints_FleshbeastAttackFactorDesc>
+  <VisibleRaidPoints_NoctolithsDamagedFactorDesc>Коэффициент повреждённых ноктолитов</VisibleRaidPoints_NoctolithsDamagedFactorDesc>
+  <VisibleRaidPoints_DevourerAssaultMinDesc>Минимум {0} очков для нападения пожирателя</VisibleRaidPoints_DevourerAssaultMinDesc>
+  <VisibleRaidPoints_DevourerAssaultMinFactorDesc>Коэффициент минимума нападения пожирателя</VisibleRaidPoints_DevourerAssaultMinFactorDesc>
+  <VisibleRaidPoints_DevourerWaterAssaultFactorDesc>Коэффициент нападения водного пожирателя</VisibleRaidPoints_DevourerWaterAssaultFactorDesc>
+  <VisibleRaidPoints_ChimeraAssaultMinDesc>Минимум {0} очков для нападения химеры</VisibleRaidPoints_ChimeraAssaultMinDesc>
+  <VisibleRaidPoints_ChimeraAssaultMinFactorDesc>Коэффициент минимума нападения химеры</VisibleRaidPoints_ChimeraAssaultMinFactorDesc>
+  <VisibleRaidPoints_HateChantersMinDesc>Минимум {0} очков для певцов ненависти</VisibleRaidPoints_HateChantersMinDesc>
+  <VisibleRaidPoints_HateChantersMinFactorDesc>Коэффициент минимума певцов ненависти</VisibleRaidPoints_HateChantersMinFactorDesc>
+  <VisibleRaidPoints_RaidStrategyMinDesc>Минимум {0} очков для стратегии налёта</VisibleRaidPoints_RaidStrategyMinDesc>
+  <VisibleRaidPoints_FactionMinDesc>Минимум {0} очков для фракции</VisibleRaidPoints_FactionMinDesc>
+  <VisibleRaidPoints_PsychicRitualQualityDesc>Качество психического ритуала</VisibleRaidPoints_PsychicRitualQualityDesc>
+  <VisibleRaidPoints_PsychicRitualQualityFactorDesc>Коэффициент качества психического ритуала</VisibleRaidPoints_PsychicRitualQualityFactorDesc>
+  <VisibleRaidPoints_PsychicRitualSiegeThreatDesc>Угроза осады психическим ритуалом</VisibleRaidPoints_PsychicRitualSiegeThreatDesc>
+  <VisibleRaidPoints_VoidAwakeningFactorDesc>Коэффициент пробуждения Бездны</VisibleRaidPoints_VoidAwakeningFactorDesc>
+  <VisibleRaidPoints_SanguophageHunterPointsDesc>Очки охотника-сангвофага</VisibleRaidPoints_SanguophageHunterPointsDesc>
+  <VisibleRaidPoints_SanguophageHunterPointsExpl>200 за каждого сангвофага</VisibleRaidPoints_SanguophageHunterPointsExpl>
+  <VisibleRaidPoints_ThreatsGeneratorFactorDesc>Коэффициент генератора угроз</VisibleRaidPoints_ThreatsGeneratorFactorDesc>
+  <VisibleRaidPoints_ThreatsGeneratorMinDesc>Минимум {0} очков для генератора угроз</VisibleRaidPoints_ThreatsGeneratorMinDesc>
+  <VisibleRaidPoints_ThreatsGeneratorExpl>например, при завершении Королевской линии</VisibleRaidPoints_ThreatsGeneratorExpl>
+</LanguageData>

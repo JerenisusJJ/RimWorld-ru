@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_LandmarkSpotted.label>замечена достопримечательность</VGE_LandmarkSpotted.label>
+  <VGE_LandmarkSpotted.letterLabel>замечена достопримечательность</VGE_LandmarkSpotted.letterLabel>
+  <VGE_LandmarkSpotted.letterText>При посадке {GRAVSHIP} ваш экипаж заметил необычное место неподалёку. Их любопытство может привести к ценным открытиям. Поблизости замечено: {LANDMARK}.</VGE_LandmarkSpotted.letterText>
+  <VGE_RichDepositDetected.label>обнаружено богатое месторождение</VGE_RichDepositDetected.label>
+  <VGE_RichDepositDetected.letterLabel>обнаружено богатое месторождение</VGE_RichDepositDetected.letterLabel>
+  <VGE_RichDepositDetected.letterText>При посадке {GRAVSHIP} автоматические датчики зафиксировали мощные показания редких и ценных ресурсов глубоко под поверхностью.</VGE_RichDepositDetected.letterText>
+  <VGE_CaravanEncounter.label>встреча с караваном</VGE_CaravanEncounter.label>
+  <VGE_CaravanEncounter.letterLabel>встреча с караваном</VGE_CaravanEncounter.letterLabel>
+  <VGE_CaravanEncounter.letterText>При посадке {GRAVSHIP} неподалёку проходящий караван заметил корабль и из любопытства приблизился. Они хотят торговать.</VGE_CaravanEncounter.letterText>
+  <VGE_PerfectTrajectory.label>идеальная траектория</VGE_PerfectTrajectory.label>
+  <VGE_PerfectTrajectory.letterLabel>идеальная траектория</VGE_PerfectTrajectory.letterLabel>
+  <VGE_PerfectTrajectory.letterText>При запуске {GRAVSHIP} пилот {PILOT} безупречно рассчитал траекторию полёта, и корабль не потратил впустую ни одного движения. Точные манёвры значительно сократили расход топлива.</VGE_PerfectTrajectory.letterText>
+  <VGE_AsteroidDiscovery.label>обнаружение астероида</VGE_AsteroidDiscovery.label>
+  <VGE_AsteroidDiscovery.letterLabel>обнаружение астероида</VGE_AsteroidDiscovery.letterLabel>
+  <VGE_AsteroidDiscovery.letterText>Во время полёта датчики {GRAVSHIP} обнаружили дрейфующий астероид, богатый ценными материалами.</VGE_AsteroidDiscovery.letterText>
+  <VGE_CrewEuphoria.label>эйфория экипажа</VGE_CrewEuphoria.label>
+  <VGE_CrewEuphoria.letterLabel>эйфория экипажа</VGE_CrewEuphoria.letterLabel>
+  <VGE_CrewEuphoria.letterText>Запуск {GRAVSHIP} прошёл так гладко, что экипаж пребывает в приподнятом настроении. По коридорам корабля разносятся смех и ликование.</VGE_CrewEuphoria.letterText>
+  <VGE_GravframeHarmony.label>гармония гравикаркаса</VGE_GravframeHarmony.label>
+  <VGE_GravframeHarmony.letterLabel>гармония гравикаркаса</VGE_GravframeHarmony.letterLabel>
+  <VGE_GravframeHarmony.letterText>Несущий каркас {GRAVSHIP} испытал минимальную нагрузку при запуске. Выравнивание гравитационного поля было идеальным и не создало лишнего напряжения для компонентов корабля.</VGE_GravframeHarmony.letterText>
+  <VGE_QuestOffered.label>предложено задание</VGE_QuestOffered.label>
+  <VGE_QuestOffered.letterLabel>предложено задание</VGE_QuestOffered.letterLabel>
+  <VGE_QuestOffered.letterText>Когда {GRAVSHIP} выполнял посадку, его заметил {LEADER}, лидер дружественной фракции {FACTION}. Впечатлённый демонстрацией технологий, он связался с вами и предложил задание.</VGE_QuestOffered.letterText>
+</LanguageData>

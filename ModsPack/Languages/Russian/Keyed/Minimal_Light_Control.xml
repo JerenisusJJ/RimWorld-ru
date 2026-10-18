@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MLC_Default_Title>Состояние по умолчанию</MLC_Default_Title>
+  <MLC_Default_Desc>Включать эту функцию в новом сохранении?</MLC_Default_Desc>
+  <MLC_Mode_Title>Режим</MLC_Mode_Title>
+  <MLC_Mode_Desc>Только темнее — менять яркость, только когда погода темнее модификатора.\nЛюбая погода — сдвигать яркость с помощью модификатора.</MLC_Mode_Desc>
+  <MLC_Mode_Darker>Только темнее</MLC_Mode_Darker>
+  <MLC_Mode_Relative>Любая погода</MLC_Mode_Relative>
+  <MLC_Modifier_Title>Модификатор уровня освещённости</MLC_Modifier_Title>
+  <MLC_Modifier_Desc>Только темнее — насколько тёмным может быть.\nЛюбая погода — сдвигает все уровни освещённости на это значение.\nЗначения: 10 — светло, 0 — темно</MLC_Modifier_Desc>
+  <MLC_Toggle_Tooltip>Переключить Minimal Light Control</MLC_Toggle_Tooltip>
+</LanguageData>

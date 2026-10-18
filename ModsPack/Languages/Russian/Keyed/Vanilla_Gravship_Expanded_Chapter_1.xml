@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>Терминал наведения можно связать только с гравикорабельной артиллерией.</VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>
+  <VGE_NeedsLinkedTargetingTerminal>Нельзя стрелять: нужен связанный терминал наведения.</VGE_NeedsLinkedTargetingTerminal>
+  <VGE_LinkWithTerminal>Связать с терминалом</VGE_LinkWithTerminal>
+  <VGE_LinkWithTerminalDesc>Выберите терминал наведения для связи. Для работы гравикорабельной артиллерии нужен терминал наведения.</VGE_LinkWithTerminalDesc>
+  <VGE_UnlinkWithTerminal>Разорвать связь с терминалом</VGE_UnlinkWithTerminal>
+  <VGE_UnlinkWithTerminalDesc>Разрывает текущую связь с терминалом наведения, позволяя связаться с другим.</VGE_UnlinkWithTerminalDesc>
+  <VGE_SelectLinkedTerminal>Выбрать связанный терминал</VGE_SelectLinkedTerminal>
+  <VGE_SelectLinkedTerminalDesc>Показать связанный терминал наведения.</VGE_SelectLinkedTerminalDesc>
+  <VGE_SetWorldTarget>Задать цель на мире</VGE_SetWorldTarget>
+  <VGE_SetWorldTargetDesc>Задаёт цель на карте мира, по которой будет стрелять гравикорабельная артиллерия. Выстрелы по карте мира менее точны. Стрелять можно только по открытым местам.</VGE_SetWorldTargetDesc>
+  <VGE_NeedsMannedTargetingTerminal>Нужен терминал наведения с оператором.</VGE_NeedsMannedTargetingTerminal>
+  <VGE_LinkWithTurret>Связать с турелью</VGE_LinkWithTurret>
+  <VGE_LinkWithTurretDesc>Выберите турель для связи. Этот терминал наведения будет использоваться для управления этой турелью.</VGE_LinkWithTurretDesc>
+  <VGE_UnlinkWithTurret>Разорвать связь: {0}</VGE_UnlinkWithTurret>
+  <VGE_UnlinkWithTurretDesc>Разрывает текущую связь с турелью, позволяя связаться с другой турелью.</VGE_UnlinkWithTurretDesc>
+  <VGE_SelectLinkedTurret>Выбрать связанное: {0}</VGE_SelectLinkedTurret>
+  <VGE_SelectLinkedTurretDesc>Показать связанную турель.</VGE_SelectLinkedTurretDesc>
+  <VGE_GravshipArtilleryNeedsVisibleMap>Гравикорабельной артиллерии нужна видимая, исследованная карта цели.</VGE_GravshipArtilleryNeedsVisibleMap>
+  <VGE_TargetOutOfRange>Цель вне зоны досягаемости.</VGE_TargetOutOfRange>
+  <VGE_MustBeAimedViaEquippedTargeter>Наводить нужно с помощью экипированного наводящего устройства.</VGE_MustBeAimedViaEquippedTargeter>
+  <VGE_GravshipArtilleryInvalidFiringMode>Артиллерия не может стрелять в этом направлении.</VGE_GravshipArtilleryInvalidFiringMode>
+  <VGE_GravshipArtilleryInvalidGroundToSpace>Артиллерия не может стрелять с планеты в космос.</VGE_GravshipArtilleryInvalidGroundToSpace>
+  <VGE_GravshipArtilleryInvalidSpaceToSpace>Артиллерия не может стрелять из космоса в космос.</VGE_GravshipArtilleryInvalidSpaceToSpace>
+  <VGE_GravshipArtilleryInvalidSpaceToGround>Артиллерия не может стрелять из космоса по земле.</VGE_GravshipArtilleryInvalidSpaceToGround>
+  <VGE_GravshipArtilleryInvalidGroundToGround>Артиллерия не может стрелять с земли по земле</VGE_GravshipArtilleryInvalidGroundToGround>
+  <VGE_ConfirmCrashLanding>Посадка в этом месте будет считаться крушением. Все выделенные сооружения под гравикораблём повредят постройки на гравикорабле в соответствующих местах.\n\nПодконструкция тоже может повредиться, и её придётся заменить перед следующим стартом.\n\nНекоторые неразрушимые объекты внизу могут полностью уничтожить подконструкцию и всё, что на ней.\n\nПодумайте о другой зоне посадки.</VGE_ConfirmCrashLanding>
+  <VGE_CrashLandingWarning>Посадка в этом месте будет считаться крушением и повредит гравикорабль.</VGE_CrashLandingWarning>
+  <VGE_CannotLandIndestructibleObstacles>Здесь нельзя садиться из-за неразрушимых препятствий. Выберите другое место посадки.</VGE_CannotLandIndestructibleObstacles>
+  <VGE_VacCheckpoint_SetVacuumResistance>Задать нужное вакуумное сопротивление</VGE_VacCheckpoint_SetVacuumResistance>
+  <VGE_VacCheckpoint_SetVacuumResistanceDesc>Задаёт процент вакуумного сопротивления, нужный для прохода через этот КПП. Колонисты с недостаточным вакуумным сопротивлением не будут сами идти через этот КПП. Не действует на призванных колонистов.</VGE_VacCheckpoint_SetVacuumResistanceDesc>
+  <VGE_VacCheckpoint_VacuumResistancePercent>Вакуумное сопротивление: {0_percentage}</VGE_VacCheckpoint_VacuumResistancePercent>
+  <VGE_VacCheckpoint_MinimumVacuumResistance>Минимальное вакуумное сопротивление: {0_percentage}</VGE_VacCheckpoint_MinimumVacuumResistance>
+  <VGE_VacCheckpoint_AllowDrafted>Призванным колонистам проход разрешён всегда</VGE_VacCheckpoint_AllowDrafted>
+  <VGE_VacCheckpoint_DisallowDrafted>Призванные колонисты проверяются на вакуумное сопротивление</VGE_VacCheckpoint_DisallowDrafted>
+  <VGE_VacCheckpoint_AllowDraftedCheckbox>Всегда пускать призванных</VGE_VacCheckpoint_AllowDraftedCheckbox>
+  <VGE_OxygenPackInactive>неактивен</VGE_OxygenPackInactive>
+  <VGE_OxygenUnits>ед.³ кислорода</VGE_OxygenUnits>
+  <VGE_OxygenDrainIfActive>Расход кислорода в сутки (если активен): {0} ед.³</VGE_OxygenDrainIfActive>
+  <VGE_OxygenReplenishAt>Пополнять кислород при: {0} ед.³</VGE_OxygenReplenishAt>
+  <VGE_OxygenReplenishDisabled>Автоматическое пополнение кислорода отключено.</VGE_OxygenReplenishDisabled>
+  <VGE_OxygenReplenishOnOffDesc>Определяет, будет ли {PAWN_nameDef} автоматически пополнять кислородные баллоны, когда кислорода в {PAWN_possessive} снаряжении меньше {MIN} ед.³.\n\nАвтоматическое пополнение кислорода сейчас {ONOFF}.</VGE_OxygenReplenishOnOffDesc>
+  <VGE_OxygenReplenishOnOffNoWearerDesc>Определяет, будет ли владелец автоматически пополнять кислородные баллоны, когда кислорода в его снаряжении меньше {MIN} ед.³.\n\nАвтоматическое пополнение кислорода сейчас {ONOFF}.</VGE_OxygenReplenishOnOffNoWearerDesc>
+  <VGE_IneffectiveOxygenPack>Бесполезный кислородный ранец</VGE_IneffectiveOxygenPack>
+  <VGE_IneffectiveOxygenPackDesc>Кто-то носит кислородный ранец без вакуумозащитной одежды. Ранец не будет работать. Подумайте о другой вакуумостойкой одежде.\n\nКолонисты без вакуумозащитной одежды:</VGE_IneffectiveOxygenPackDesc>
+  <VGE_EquippingIneffectiveOxygenPack>{PAWN} надевает кислородный ранец без вакуумостойкого снаряжения. {APPAREL_labelNoParenthesis} не будет работать.</VGE_EquippingIneffectiveOxygenPack>
+  <VGE_EquippingOnOtherIneffectiveOxygenPack>{PAWN} надевает кислородный ранец на {TARGET} без вакуумостойкого снаряжения. {APPAREL_labelNoParenthesis} не будет работать.</VGE_EquippingOnOtherIneffectiveOxygenPack>
+  <VGE_Refill>Перезарядить {GEAR_labelShort}: {AMMO_label}</VGE_Refill>
+  <VGE_RefillCannotCarryEnough>Не унести достаточно ресурса «{AMMO_label}» для пополнения 1 заряда.</VGE_RefillCannotCarryEnough>
+  <VGE_Alert_LowOxygen>Мало кислорода</VGE_Alert_LowOxygen>
+  <VGE_Alert_LowOxygenExplanation>Кислорода катастрофически мало.\n\n    Кислорода на складе: {0} ед.³\n    Колонистов и заключённых, дышащих кислородом: {1}\n\nКогда кислород закончится, гравикорабль начнёт заполняться вакуумом.</VGE_Alert_LowOxygenExplanation>
+  <VGE_ResistantToVacuumExposure>устойчив к вакууму</VGE_ResistantToVacuumExposure>
+  <VGE_TimeUntilVacuumExposureDeath>смерть от вакуума через {0}</VGE_TimeUntilVacuumExposureDeath>
+  <VGE_HeatsinkHeatStored>{0} / {1} ед. тепла</VGE_HeatsinkHeatStored>
+  <VGE_AbsorbGravheat>Поглотить гравитепло</VGE_AbsorbGravheat>
+  <VGE_AbsorbGravheatDesc>Сбрасывает остаточное тепло конструкции с гравидвигателя на этот поглотитель гравитепла, позволяя немедленно стартовать гравикораблю. Поглотитель гравитепла перейдёт в долгую перезарядку, в течение которой не сможет поглощать тепло.</VGE_AbsorbGravheatDesc>
+  <VGE_NoGravEngine>Гравидвигатель не найден</VGE_NoGravEngine>
+  <VGE_NoCooldownToAbsorb>Нет перезарядки для поглощения</VGE_NoCooldownToAbsorb>
+  <VGE_GravheatAbsorberCoolingDown>Поглотитель гравитепла остывает. Будет доступен через: {0}</VGE_GravheatAbsorberCoolingDown>
+  <VGE_LaunchGravAnchorCooldownInfo>Однако посадка в месте с гравиякорем полностью снимет перезарядку старта.</VGE_LaunchGravAnchorCooldownInfo>
+  <VGE_LaunchHeatsinkCooldownInfo>Радиаторы сократят время перезарядки старта на {0}.</VGE_LaunchHeatsinkCooldownInfo>
+  <VGE_LaunchHeatUnitsInfo>Этот старт выработает около {0} ед. тепла, нагрев весь гравикорабль.</VGE_LaunchHeatUnitsInfo>
+  <VGE_LaunchFuelInfo>Этот старт израсходует следующее топливо:</VGE_LaunchFuelInfo>
+  <VGE_DesignatorRemoveSubstructure>Убрать подконструкцию</VGE_DesignatorRemoveSubstructure>
+  <VGE_DesignatorRemoveSubstructureDesc>Убрать подконструкцию с гравикорабля.</VGE_DesignatorRemoveSubstructureDesc>
+  <VGE_MapDecisionText>Ваш гравикорабль стартовал. Теперь можно решить, оставить прежнюю карту или отбросить её.\n\nЕсли оставить, она останется картой колонии, пока вы её не покинете.\n\nЕсли отбросить, она может быть заменена покинутым поселением, возвращена прежнему владельцу, снова стать особым/квестовым местом или быть уничтожена.\nУчтите, что несколько открытых карт могут снизить производительность.</VGE_MapDecisionText>
+  <VGE_MapDecisionSettleText>Ваш гравикорабль стартовал. Теперь можно решить, основывать ли поселение на прежней карте.\n\nЕсли основать, она останется картой колонии, пока вы её не покинете.\n\nЕсли не основывать, карта будет храниться, пока её не отбросят автоматически. Сейчас она хранится, потому что там остались колонисты, туда летит шаттл или десантные капсулы, либо на карте есть особое здание.\nУчтите, что несколько открытых карт могут снизить производительность.</VGE_MapDecisionSettleText>
+  <VGE_KeepMap>Оставить карту</VGE_KeepMap>
+  <VGE_DiscardMap>Отбросить карту</VGE_DiscardMap>
+  <VGE_SettleMap>Основать поселение</VGE_SettleMap>
+  <VGE_DontSettle>Не основывать</VGE_DontSettle>
+  <VGE_RapidlyDeterioratingInSpace>Быстро портится из-за вакуума космоса.</VGE_RapidlyDeterioratingInSpace>
+  <VGE_BuildSingleGravEngineOnly>Нельзя построить {0}, если уже есть другой гравидвигатель.</VGE_BuildSingleGravEngineOnly>
+  <VGE_BuildSingleGravEngineBuildBlueprintOnly>Нельзя построить {0}, если другой гравидвигатель уже строится.</VGE_BuildSingleGravEngineBuildBlueprintOnly>
+  <VGE_InstallSingleGravEngineOnMap>Нельзя установить {0}, если рядом есть другой гравидвигатель.</VGE_InstallSingleGravEngineOnMap>
+  <VGE_InstallSingleGravEngineBuildBlueprintOnly>Нельзя установить {0}, если рядом уже строится другой гравидвигатель.</VGE_InstallSingleGravEngineBuildBlueprintOnly>
+  <VGE_InstallSingleGravEngineInstallBlueprintOnly>Нельзя установить {0}, если рядом есть чертёж другого гравидвигателя.</VGE_InstallSingleGravEngineInstallBlueprintOnly>
+  <VGE_GravEngineDisabled>Гравидвигатель отключён:</VGE_GravEngineDisabled>
+  <VGE_MultipleGravEnginesPresent>присутствует несколько гравидвигателей</VGE_MultipleGravEnginesPresent>
+  <VGE_GravshipCurrentlyActive>сейчас активен другой гравикорабль</VGE_GravshipCurrentlyActive>
+  <VGE_GravshipLaunchCurrentlyActive>другой гравикорабль сейчас готовится к старту</VGE_GravshipLaunchCurrentlyActive>
+  <VGE_OrbitObjectsMultiplier>Множитель орбитальных объектов</VGE_OrbitObjectsMultiplier>
+  <VGE_OrbitObjectsMultiplierDesc>По умолчанию игра старается удерживать на орбите 3, 8, 12 или 20 мест (в зависимости от покрытия шара планеты). Этим ползунком можно применить множитель к этому числу, сделав орбиты планеты очень разреженными или очень захламлёнными!</VGE_OrbitObjectsMultiplierDesc>
+  <VGE_MaintenanceMultiplier>Множитель потери обслуживания (чем больше, тем быстрее теряется обслуживание)</VGE_MaintenanceMultiplier>
+  <VGE_MaintenanceMultiplierDesc>Количество обслуживания, теряемое со временем и в полёте на гравикорабле, будет умножено на это число. То есть 2 означает, что обслуживание будет теряться вдвое быстрее. Добавлено из-за того, что Сэм Стример — невыносимый нытик.</VGE_MaintenanceMultiplierDesc>
+  <VGE_Reset>Сброс</VGE_Reset>
+  <VGE_More>Подробнее</VGE_More>
+  <VGE_SoildIceAsteroid>Сплошной лёд со следами ресурса «{RESOURCE_label}»</VGE_SoildIceAsteroid>
+  <VGE_CannotLaunchGravAnomaly>Нельзя стартовать на гравикорабле из-за гравитационной аномалии</VGE_CannotLaunchGravAnomaly>
+  <VGE_Maintenance>Обслуживание детали: {0}</VGE_Maintenance>
+  <VGE_Maintain>Обслужить деталь</VGE_Maintain>
+  <VGE_Alert_LowMaintenance>Низкое обслуживание гравикорабля</VGE_Alert_LowMaintenance>
+  <VGE_Alert_LowMaintenance_Desc>У некоторых компонентов гравикорабля низкое обслуживание. Это может привести к плохим исходам старта и со временем к поломкам. Подумайте о назначении колониста для их обслуживания. Компоненты гравикорабля с низким обслуживанием:\n\n {0}</VGE_Alert_LowMaintenance_Desc>
+  <VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>Общая чувствительность к обслуживанию</VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>
+  <VGE_SetDesiredMaintenance>Задать нужное обслуживание</VGE_SetDesiredMaintenance>
+  <VGE_SetDesiredMaintenanceDesc>Задаёт нужный уровень обслуживания всех компонентов этого гравикорабля. Колонисты со строительной работой будут обслуживать постройки, если те упадут ниже заданного уровня.</VGE_SetDesiredMaintenanceDesc>
+  <VGE_ToggleMaintainBuilding>Автоматическое обслуживание</VGE_ToggleMaintainBuilding>
+  <VGE_ToggleMaintainBuildingDesc>Определяет, будут ли колонисты автоматически обслуживать это здание.</VGE_ToggleMaintainBuildingDesc>
+  <VGE_GravdataYieldInfo>Ожидаемый выход гравиданных: {0}</VGE_GravdataYieldInfo>
+  <VGE_NoGravtechProjectSelected>Гравитехнологический проект исследования не выбран. Старт не принесёт гравиданных.</VGE_NoGravtechProjectSelected>
+  <VGE_LaunchBoonChanceInfo>По текущим прогнозам, вероятность положительного исхода — {0}%.</VGE_LaunchBoonChanceInfo>
+  <VGE_LaunchBoonOutcomeChanceLetterExtra>По итогам старта гравикорабля вероятность положительного исхода составляла {0_percentage}.</VGE_LaunchBoonOutcomeChanceLetterExtra>
+  <VGE_GravdataStored>Накоплено гравиданных: {0}</VGE_GravdataStored>
+  <VGE_GravdataStoredInfo>Накопленные гравиданные автоматически пойдут на выбранный гравитехнологический проект исследования при следующей посадке.</VGE_GravdataStoredInfo>
+  <VGE_ConvertGravdata>Преобразовать гравиданные</VGE_ConvertGravdata>
+  <VGE_ConvertGravdataDesc>Преобразует накопленные гравиданные в очки выбранного негравитехнологического проекта исследования. Курс преобразования один к одному.</VGE_ConvertGravdataDesc>
+  <VGE_NoNonGravtechProjectSelected>Негравитехнологический проект исследования не выбран.</VGE_NoNonGravtechProjectSelected>
+  <VGE_ConvertedGravdataToResearch>Преобразовано гравиданных в очки исследования: {0} для «{1}».</VGE_ConvertedGravdataToResearch>
+  <VGE_EscapePodCrash>Крушение спасательной капсулы</VGE_EscapePodCrash>
+  <VGE_EscapePodCrashDesc>На карту упала повреждённая спасательная капсула. Её можно взломать, чтобы увидеть, что внутри.</VGE_EscapePodCrashDesc>
+  <VGE_LaunchToOrbit>Старт на орбиту</VGE_LaunchToOrbit>
+  <VGE_LaunchToOrbitDesc>Запускает гравикорабль прямо вверх и стабилизирует его на орбите. Это всё равно считается полётом гравикорабля, и гравидвигатель уйдёт на перезарядку, из-за чего вы можете застрять на орбите.</VGE_LaunchToOrbitDesc>
+  <VGE_CantLaunchAlreadyInOrbit>Нельзя использовать: уже на орбите.</VGE_CantLaunchAlreadyInOrbit>
+  <VGE_MechanoidPodGestation>Вынашивание капсулы {0} завершится через: {1}.</VGE_MechanoidPodGestation>
+  <VGE_MechanoidPodsLeft>Осталось завершить механоидных капсул: {0}.</VGE_MechanoidPodsLeft>
+  <VGE_RemainingShieldTime>Оставшееся время щита: {0}</VGE_RemainingShieldTime>
+  <VGE_CooldownRemaining>Осталось перезарядки: {0}</VGE_CooldownRemaining>
+  <VGE_ResourceProcessorInfo>{0} {1}: производство завершится через: {2}\nОсталось завершить производственных процессов: {3}</VGE_ResourceProcessorInfo>
+  <VGE_AstrofireInHomeArea>Астропожар!</VGE_AstrofireInHomeArea>
+  <VGE_AstrofireInHomeAreaDesc>В домашней зоне астропожар.</VGE_AstrofireInHomeAreaDesc>
+  <VGE_RequiresSubstructureOrScaffolding>Строить можно только на подконструкции или лесах.</VGE_RequiresSubstructureOrScaffolding>
+  <VGE_NoAvailableDesignators>Нет доступных обозначений</VGE_NoAvailableDesignators>
+  <VGE_ColorPickerValue>яркость</VGE_ColorPickerValue>
+  <VGE_ColorPickerValueTooltip>Выберите цвет, задав яркость цвета.\n\nЯркость — это «значение» из цветовой модели HSV: оттенок, насыщенность и значение/яркость.</VGE_ColorPickerValueTooltip>
+  <VGE_MustBePlacedInRangeOfGravSource>Нужно ставить в зоне действия гравидвигателя или усилителя гравиполя.</VGE_MustBePlacedInRangeOfGravSource>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpand>Построить вакуумозащитную крышу в области</VGE_DesignatorAreaBuildVacBarrierRoofExpand>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>Колонисты будут строить вакуумозащитные крыши в этой области.</VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpand>Убрать вакуумозащитную крышу в области</VGE_DesignatorAreaNoVacBarrierRoofExpand>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>Колонисты будут убирать вакуумозащитные крыши в этой области.</VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>
+  <VGE_DesignatorRecolorVacBarrierRoof>Перекрасить вакуумозащитные крыши...</VGE_DesignatorRecolorVacBarrierRoof>
+  <VGE_DesignatorRecolorVacBarrierRoofDesc>Немедленно перекрашивает любые вакуумозащитные крыши.</VGE_DesignatorRecolorVacBarrierRoofDesc>
+  <VGE_ColorPickerMenu>Выбрать любой цвет в меню выбора цвета.</VGE_ColorPickerMenu>
+  <VGE_DesignatorEyeDropperDesc_Universal>Взять цвет с существующей вакуумозащитной крыши, здания или пола.</VGE_DesignatorEyeDropperDesc_Universal>
+  <VGE_GrabVacBarrierRoofColor>Взять цвет вакуумозащитной крыши</VGE_GrabVacBarrierRoofColor>
+  <VGE_GrabBuildingColor>Взять цвет: {BUILDING_labelNoParenthesis}: {COLOR}</VGE_GrabBuildingColor>
+  <VGE_GrabFloorColor>Взять цвет пола: {COLOR}</VGE_GrabFloorColor>
+  <VGE_SelectColorFromTile>Выбрать конкретный цвет с клетки</VGE_SelectColorFromTile>
+  <VGE_AgrocellSunLampEnable>Включить солнечную лампу</VGE_AgrocellSunLampEnable>
+  <VGE_AgrocellSunLampDisable>Выключить солнечную лампу</VGE_AgrocellSunLampDisable>
+  <VGE_AgrocellSunLampDesc>Если держать солнечную лампу включённой, агроячейка будет давать свет в течение дня, увеличивая расход энергии и позволяя расти большинству растений. А если выключить, смогут расти растения, которым нужна темнота, и немного сэкономится энергия.</VGE_AgrocellSunLampDesc>
+  <VGE_MustTargetPilotConsole>Эта способность должна целиться в пилотский пульт.</VGE_MustTargetPilotConsole>
+  <VGE_RenameAsteroid>Новое открытие!</VGE_RenameAsteroid>
+  <VGE_RenameAsteroidDesc>Так как {0} первым обнаружил объект «{1}» поблизости, ему и давать название.</VGE_RenameAsteroidDesc>
+  <VGE_IsIncapableOfIntellectualLower>{1_labelShort} неспособен к интеллектуальной работе</VGE_IsIncapableOfIntellectualLower>
+  <VGE_PilotGravjumper>Запустить гравипрыгуна</VGE_PilotGravjumper>
+  <VGE_PilotGravhulk>Запустить гравигиганта</VGE_PilotGravhulk>
+  <VGE_GravtechNeedsGravdata>Для завершения «{0}» нужны гравиданные. Получите гравиданные, путешествуя на гравикорабле.</VGE_GravtechNeedsGravdata>
+  <VGE_LetterTextMechanoidThreat>Процесс сканирования мехулья близок к определению вашего местоположения. Когда оно найдёт ваш {GRAVSHIP}, оно пошлёт огромные силы механоидов, чтобы убить вас.\n\nСоберите припасы, затем покиньте карту: выберите {CONSOLE} и нажмите «Старт».</VGE_LetterTextMechanoidThreat>
+  <VGE_Gravjumper>гравипрыгун</VGE_Gravjumper>
+  <VGE_Gravship>гравикорабль</VGE_Gravship>
+  <VGE_Gravhulk>гравигигант</VGE_Gravhulk>
+  <VGE_ScannerCluster_TunedToNothing>Ничего</VGE_ScannerCluster_TunedToNothing>
+  <VGE_ScannerCluster_RandomResource>Случайный глубинный ресурс</VGE_ScannerCluster_RandomResource>
+  <VGE_ScannerCluster_TunedToOrbitalScanning>Пассивное орбитальное сканирование</VGE_ScannerCluster_TunedToOrbitalScanning>
+  <VGE_ScannerCluster_UndergroundResource>Глубинный ресурс: {RESOURCE}</VGE_ScannerCluster_UndergroundResource>
+  <VGE_ScannerCluster_LongRangeResource>Дальний ресурс: {RESOURCE}</VGE_ScannerCluster_LongRangeResource>
+  <VGE_ScannerCluster_MissingResearchPrerequisite>Не хватает исследования «{RESEARCH_label}»</VGE_ScannerCluster_MissingResearchPrerequisite>
+  <VGE_GravshipFuelTab>Топливо</VGE_GravshipFuelTab>
+  <VGE_FuelTab_ThrustersTitle>Двигатели: {RESOURCE}</VGE_FuelTab_ThrustersTitle>
+  <VGE_FuelTab_Thrusters>подключённые двигатели</VGE_FuelTab_Thrusters>
+  <VGE_FuelTab_OtherFuelTitle>другое топливо</VGE_FuelTab_OtherFuelTitle>
+  <VGE_FuelTab_OtherFuel>топливо</VGE_FuelTab_OtherFuel>
+  <VGE_FuelTab_Range>дальность</VGE_FuelTab_Range>
+  <VGE_FuelTab_UsagePerTile>расход топлива: {COST} {RESOURCE} на клетку</VGE_FuelTab_UsagePerTile>
+  <VGE_OtherFuel>другое топливо</VGE_OtherFuel>
+  <VGE_ProtectingFromSpaceSolarFlare>Защита от космической солнечной вспышки</VGE_ProtectingFromSpaceSolarFlare>
+  <VGE_GravcoreTax>гравиядерный налог</VGE_GravcoreTax>
+  <VGE_PermanentlyDisabled>Отключено навсегда (боевой компьютер уничтожен)</VGE_PermanentlyDisabled>
+  <VGE_ChooseAStartingGravship>Выберите стартовый гравикорабль</VGE_ChooseAStartingGravship>
+  <VGE_ChooseAStartingGravshipDesc>Выберите гравикорабль, с которым хотите начать сценарий. Стартовые ресурсы будут размещены на нём. Разные гравикорабли могут начинаться с разными постройками.</VGE_ChooseAStartingGravshipDesc>
+  <VGE_SourceMod>Источник: {0}</VGE_SourceMod>
+  <VGE_GravshipRangeCurrentLayer>дальность гравикорабля ({0})</VGE_GravshipRangeCurrentLayer>
+  <VGE_PlayerOwnedOrbitalColonyDesc>Орбитальная колония, принадлежащая фракции игрока.</VGE_PlayerOwnedOrbitalColonyDesc>
+  <VGE_ExtractOxygen>Извлечь кислородных баллонов: {THINGEXTRACTCOUNT}</VGE_ExtractOxygen>
+  <VGE_ExtractOxygenDesc>Извлекает из резервуара кислородных баллонов: {THINGEXTRACTCOUNT}. Придёт колонист и извлечёт их.</VGE_ExtractOxygenDesc>
+  <VGE_ExtractOxygenDisabled>нужно не менее {RESOURCEMIN} ед.³ кислорода в резервуаре</VGE_ExtractOxygenDisabled>
+  <VSGE_OxygenValve>Включает и выключает подачу кислорода.</VSGE_OxygenValve>
+  <VSGE_OxygenValveDesc>Включает и выключает подачу кислорода. Придёт колонист и откроет/закроет клапан.</VSGE_OxygenValveDesc>
+  <VGE_DisabledNoAtmosphere>Нельзя добывать кислород: нет атмосферы.</VGE_DisabledNoAtmosphere>
+  <VGE_DisabledNoFuel>Для работы нужно подключение к сети астротоплива и астротопливо в резервуаре.</VGE_DisabledNoFuel>
+  <VGE_ExtractAstrofuel>Извлечь астротопливо</VGE_ExtractAstrofuel>
+  <VGE_ExtractAstrofuelDesc>Извлекает всё астротопливо из резервуара. Придёт колонист и извлечёт его.</VGE_ExtractAstrofuelDesc>
+  <VGE_ExtractAstrofuelDisabled>нужно не менее {RESOURCEMIN} л астротоплива в резервуаре</VGE_ExtractAstrofuelDisabled>
+  <VGE_AstrofuelValve>Включает и выключает подачу астротоплива.</VGE_AstrofuelValve>
+  <VGE_AstrofuelValveDesc>Включает и выключает подачу астротоплива. Придёт колонист и откроет/закроет клапан.</VGE_AstrofuelValveDesc>
+  <VGE_ValidThing>подходящий объект «{THING_label}»</VGE_ValidThing>
+  <TerrainTagSpace>космос</TerrainTagSpace>
+</LanguageData>

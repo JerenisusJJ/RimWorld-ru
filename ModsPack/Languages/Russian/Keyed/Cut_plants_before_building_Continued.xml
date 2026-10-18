@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CutPlantsBeforeBuilding.AutoDesignatePlantsCutModeToggleButton>Переключить режим автоматической вырубки ({0})\nСейчас: режим {1}</CutPlantsBeforeBuilding.AutoDesignatePlantsCutModeToggleButton>
+  <CutPlantsBeforeBuilding.CurrentModVersion>Установленная версия мода: {0}</CutPlantsBeforeBuilding.CurrentModVersion>
+  <CutPlantsBeforeBuilding.NoInfo>Не сообщать о пропущенных растениях</CutPlantsBeforeBuilding.NoInfo>
+  <CutPlantsBeforeBuilding.NoInfoTT>Если особые деревья, например древо анимы, не помечаются на срезание, игра не будет сообщать об этом</CutPlantsBeforeBuilding.NoInfoTT>
+  <CutPlantsBeforeBuilding.DigUp>Выкапывать растения, если возможно</CutPlantsBeforeBuilding.DigUp>
+  <CutPlantsBeforeBuilding.DigUpTT>Вместо срезания растения будут помечаться на выкапывание, если это возможно</CutPlantsBeforeBuilding.DigUpTT>
+  <CutPlantsBeforeBuilding.DefaultMode>«Срезать растения» включено по умолчанию</CutPlantsBeforeBuilding.DefaultMode>
+  <CutPlantsBeforeBuilding.DefaultModeTT>Параметр «Срезать растения» будет включаться при каждом запуске игры.</CutPlantsBeforeBuilding.DefaultModeTT>
+  <CutPlantsBeforeBuilding.ModeON>вкл.</CutPlantsBeforeBuilding.ModeON>
+  <CutPlantsBeforeBuilding.ModeOFF>выкл.</CutPlantsBeforeBuilding.ModeOFF>
+  <CutPlantsBeforeBuilding.SpecialTree>{0} не будет помечено на срезание, так как это особое дерево.</CutPlantsBeforeBuilding.SpecialTree>
+  <CutPlantsBeforeBuilding.OnlyCutters>Мешающие растения срезаются только при разрешении</CutPlantsBeforeBuilding.OnlyCutters>
+  <CutPlantsBeforeBuilding.OnlyCuttersTT>Если включено, мешающие растения будут срезать только существа с навыком срезания растений</CutPlantsBeforeBuilding.OnlyCuttersTT>
+</LanguageData>

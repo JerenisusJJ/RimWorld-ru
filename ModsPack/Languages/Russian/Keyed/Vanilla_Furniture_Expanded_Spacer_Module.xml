@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TargetLightRadius>Текущий радиус света</TargetLightRadius>
+  <CurrentLightOpacity>Текущая интенсивность</CurrentLightOpacity>
+  <CommandRaiseLightRDesc>Увеличить текущий радиус.</CommandRaiseLightRDesc>
+  <CommandLowerLightRDesc>Уменьшить текущий радиус.</CommandLowerLightRDesc>
+  <CommandRaiseLightIntDesc>Увеличить текущую интенсивность.</CommandRaiseLightIntDesc>
+  <CommandLowerLightIntDesc>Уменьшить текущую интенсивность.</CommandLowerLightIntDesc>
+  <LightIntensityPercent>% интенсивности.</LightIntensityPercent>
+  <LightRadiusCells> клеток радиус.</LightRadiusCells>
+  <SwitchedColourDesc>Сменить цвет света на</SwitchedColourDesc>
+  <LightColourRed>Красный</LightColourRed>
+  <LightColourGreen>Зелёный</LightColourGreen>
+  <LightColourBlue>Синий</LightColourBlue>
+  <LightColourWhite>Белый</LightColourWhite>
+  <EnableAutoForbid>Включить автозапрет</EnableAutoForbid>
+  <EnableAutoForbidExplanation>Оружие и одежда, хранящиеся здесь, будут автоматически запрещены, пока не достигнут полной прочности</EnableAutoForbidExplanation>
+</LanguageData>

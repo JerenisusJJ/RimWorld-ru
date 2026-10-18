@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: skip aura -->
+	<Flourish_Aura_Skip.label>skip aura</Flourish_Aura_Skip.label>
+	<!-- EN: bolt aura -->
+	<Flourish_Aura_Bolt.label>bolt aura</Flourish_Aura_Bolt.label>
+	<!-- EN: nova aura -->
+	<Flourish_Aura_Nova.label>nova aura</Flourish_Aura_Nova.label>
+	<!-- EN: conjure aura -->
+	<Flourish_Aura_Conjure.label>conjure aura</Flourish_Aura_Conjure.label>
+	<!-- EN: ward aura -->
+	<Flourish_Aura_Ward.label>ward aura</Flourish_Aura_Ward.label>
+	<!-- EN: beam aura -->
+	<Flourish_Aura_Beam.label>beam aura</Flourish_Aura_Beam.label>
+	<!-- EN: touch aura -->
+	<Flourish_Aura_Touch.label>touch aura</Flourish_Aura_Touch.label>
+	<!-- EN: channel aura -->
+	<Flourish_Aura_Channel.label>channel aura</Flourish_Aura_Channel.label>
+</LanguageData>

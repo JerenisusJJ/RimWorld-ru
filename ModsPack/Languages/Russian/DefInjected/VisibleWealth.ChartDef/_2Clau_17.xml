@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: list -->
+	<List.label>список</List.label>
+	<!-- EN: pie chart -->
+	<PieChart.label>круговая диаграмма</PieChart.label>
+</LanguageData>

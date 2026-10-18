@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NAW_ReconstructToOriginal.label>перестроить в исходное</NAW_ReconstructToOriginal.label>
+  <NAW_ReconstructToOriginal.gerund>перестраивает</NAW_ReconstructToOriginal.gerund>
+  <NAW_ReconstructToOriginal.verb>перестроить</NAW_ReconstructToOriginal.verb>
+  <NAW_ReconstructToNaname.label>перестроить в диагональное</NAW_ReconstructToNaname.label>
+  <NAW_ReconstructToNaname.gerund>перестраивает</NAW_ReconstructToNaname.gerund>
+  <NAW_ReconstructToNaname.verb>перестроить</NAW_ReconstructToNaname.verb>
+</LanguageData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WeaponStats.Craftable>Изготавливаемое</WeaponStats.Craftable>
+  <WeaponStats.Storage>Хранилище</WeaponStats.Storage>
+  <WeaponStats.Tools>Инструменты</WeaponStats.Tools>
+  <WeaponStats.Turrets>Турели</WeaponStats.Turrets>
+  <WeaponStats.ColName>Название</WeaponStats.ColName>
+  <WeaponStats.ColQuality>Качество</WeaponStats.ColQuality>
+  <WeaponStats.ColHP>Прочн.</WeaponStats.ColHP>
+  <WeaponStats.ColValue>Рыночная стоимость</WeaponStats.ColValue>
+  <WeaponStats.ColRange>Дальность</WeaponStats.ColRange>
+  <WeaponStats.ColCooldwn>Перезарядка</WeaponStats.ColCooldwn>
+  <WeaponStats.ColWarmup>Подготовка</WeaponStats.ColWarmup>
+  <WeaponStats.ColSights>Прицел</WeaponStats.ColSights>
+  <WeaponStats.ColSpread>Разброс</WeaponStats.ColSpread>
+  <WeaponStats.ColSway>Колебание</WeaponStats.ColSway>
+  <WeaponStats.ColBulk>Объём</WeaponStats.ColBulk>
+  <WeaponStats.ColMagazineCapacity>Ёмкость магазина</WeaponStats.ColMagazineCapacity>
+  <WeaponStats.ColDPS>УВС</WeaponStats.ColDPS>
+  <WeaponStats.ColDPSA>УВС с точностью</WeaponStats.ColDPSA>
+  <WeaponStats.ColDamage>Урон</WeaponStats.ColDamage>
+  <WeaponStats.ColAccuracy>Точность</WeaponStats.ColAccuracy>
+  <WeaponStats.ColType></WeaponStats.ColType>
+  <WeaponStats.ColRadius>Радиус взрыва</WeaponStats.ColRadius>
+  <WeaponStats.ColDelay>Задержка взрыва</WeaponStats.ColDelay>
+  <WeaponStats.ColBlunt>Защита от тупого</WeaponStats.ColBlunt>
+  <WeaponStats.ColSharp>Защита от острого</WeaponStats.ColSharp>
+  <WeaponStats.ColHeat>Защита от жара</WeaponStats.ColHeat>
+  <WeaponStats.ColICold>Теплоизоляция от холода</WeaponStats.ColICold>
+  <WeaponStats.ColIHeat>Теплоизоляция от жара</WeaponStats.ColIHeat>
+  <WeaponStats.ColArmorPenetration>Бронепробиваемость</WeaponStats.ColArmorPenetration>
+  <WeaponStats.ColCounterParry>Контрпарирование</WeaponStats.ColCounterParry>
+  <WeaponStats.AccRbName.All>Все</WeaponStats.AccRbName.All>
+  <WeaponStats.AccRbName.Touch>Касание</WeaponStats.AccRbName.Touch>
+  <WeaponStats.AccRbName.Short>Близко</WeaponStats.AccRbName.Short>
+  <WeaponStats.AccRbName.Medium>Средне</WeaponStats.AccRbName.Medium>
+  <WeaponStats.AccRbName.Long>Далеко</WeaponStats.AccRbName.Long>
+</LanguageData>

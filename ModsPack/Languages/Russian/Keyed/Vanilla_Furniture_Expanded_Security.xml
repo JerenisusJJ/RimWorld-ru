@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFES_Deploy>Развернуть</VFES_Deploy>
+  <VFES_DeployDesc>Развернуть сооружение из погружённого состояния.</VFES_DeployDesc>
+  <VFES_Submerge>Погрузить</VFES_Submerge>
+  <VFES_SubmergeDesc>Погружает сооружение в землю, из-за чего его намного труднее повредить.</VFES_SubmergeDesc>
+  <VFES_OnCooldown>Перезарядка: {0}</VFES_OnCooldown>
+  <VFES_DesignatorRearmTraps>Взвести ловушки</VFES_DesignatorRearmTraps>
+  <VFES_DesignatorRearmTraps_Description>Назначает ловушки, которые колонисты должны взвести заново.</VFES_DesignatorRearmTraps_Description>
+  <VFES_MessageMustDesignateRearmables>Нужно выбрать ловушки, которые можно взвести заново.</VFES_MessageMustDesignateRearmables>
+  <VFES_Armed>Взведена</VFES_Armed>
+  <VFES_NeedsRearming>Требует взведения</VFES_NeedsRearming>
+  <VFES_SecondaryFuel>Дополнительное топливо</VFES_SecondaryFuel>
+  <VFES_CommandToggleAllowAutoRefuelSecondary>Переключить автозаправку боеприпасами</VFES_CommandToggleAllowAutoRefuelSecondary>
+  <VFES_ManSecondary> (дополнительное)</VFES_ManSecondary>
+  <VFES_SetWorldTarget>Задать цель на мире</VFES_SetWorldTarget>
+  <VFES_SetWorldTargetDesc>Задаёт цель на карте мира, по которой будет стрелять артиллерия. Выстрелы по карте мира менее точны. Стрелять можно только по открытым местам.</VFES_SetWorldTargetDesc>
+  <VFES_NeedsManned>Нужен оператор.</VFES_NeedsManned>
+  <VFES_ArtilleryNeedsVisibleMap>Артиллерии нужна видимая, исследованная карта цели.</VFES_ArtilleryNeedsVisibleMap>
+  <VFES_ArtilleryOutOfRange>Цель вне зоны досягаемости.</VFES_ArtilleryOutOfRange>
+  <VFES_ArtilleryInvalidFiringMode>Артиллерия не может стрелять в этом направлении.</VFES_ArtilleryInvalidFiringMode>
+  <VFES_ArtilleryInvalidGroundToSpace>Артиллерия не может стрелять с планеты в космос.</VFES_ArtilleryInvalidGroundToSpace>
+  <VFES_ArtilleryInvalidSpaceToSpace>Артиллерия не может стрелять из космоса в космос.</VFES_ArtilleryInvalidSpaceToSpace>
+  <VFES_ArtilleryInvalidSpaceToGround>Артиллерия не может стрелять из космоса по земле.</VFES_ArtilleryInvalidSpaceToGround>
+  <VFES_ArtilleryInvalidGroundToGround>Артиллерия не может стрелять с земли по земле</VFES_ArtilleryInvalidGroundToGround>
+</LanguageData>

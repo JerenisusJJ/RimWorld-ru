@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VNPE_NutrientDripperThreshold>Порог кормления питательной капельницей</VNPE_NutrientDripperThreshold>
+  <VNPE_NutrientDripperThresholdDesc>По умолчанию питательные капельницы кормят лежащих в кроватях, когда их голод опускается ниже 26%. Этим ползунком можно изменить это значение.</VNPE_NutrientDripperThresholdDesc>
+  <VNPE_Reset>Сброс</VNPE_Reset>
+</LanguageData>

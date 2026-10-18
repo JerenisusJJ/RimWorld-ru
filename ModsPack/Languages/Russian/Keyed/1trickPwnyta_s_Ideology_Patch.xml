@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeologyPatch_MemesPrecepts>Мемы и заветы идеолигии</IdeologyPatch_MemesPrecepts>
+  <IdeologyPatch_Slaves>Рабы</IdeologyPatch_Slaves>
+  <IdeologyPatch_Practices>Идеолигиозные практики</IdeologyPatch_Practices>
+  <IdeologyPatch_Misc>Прочее</IdeologyPatch_Misc>
+  <IdeologyPatch_RestartRequired>(требуется перезапуск)</IdeologyPatch_RestartRequired>
+  <IdeologyPatch_DisableHumanFoodPlantThought>Отключить мысль скотовода о посадке пищи для людей</IdeologyPatch_DisableHumanFoodPlantThought>
+  <IdeologyPatch_DryadWanderRadius>Ограничить радиус блуждания дриад радиусом строительства древа гауранлена</IdeologyPatch_DryadWanderRadius>
+  <IdeologyPatch_PrisonerConversionLetterJumpToPrisoner>Переходить к заключённому из письма об обращении</IdeologyPatch_PrisonerConversionLetterJumpToPrisoner>
+  <IdeologyPatch_PruningTime>Не игнорировать потребности при обрезке древа гауранлена</IdeologyPatch_PruningTime>
+  <IdeologyPatch_ResearchMissingMemes>Отключить предупреждение, когда исследование включает вещи, требующие определённых мемов</IdeologyPatch_ResearchMissingMemes>
+  <IdeologyPatch_RoleChangeUseUntaken>Автоматически выбирать свободную роль в окне смены ролей</IdeologyPatch_RoleChangeUseUntaken>
+  <IdeologyPatch_BloodfeedingCorpsesDontCare>Мем кровопития добавляет завет «Трупы: безразлично»</IdeologyPatch_BloodfeedingCorpsesDontCare>
+  <IdeologyPatch_PremaritalSex>По умолчанию ставить завет о физической любви в положение «Свободно»</IdeologyPatch_PremaritalSex>
+  <IdeologyPatch_FemaleNudity>По умолчанию ставить завет о женской одежде в положение «Штаны»</IdeologyPatch_FemaleNudity>
+  <IdeologyPatch_PantsOnly>Переименовать «Не более штанов» в «Только штаны»</IdeologyPatch_PantsOnly>
+  <IdeologyPatch_FungusPreferredDisablesDarkThought>Отключить штраф к настроению за темноту при завете «Грибы: предпочтительны»</IdeologyPatch_FungusPreferredDisablesDarkThought>
+  <IdeologyPatch_DarklightDefault>Новые светильники по умолчанию становятся тёмным светом, если есть этот завет</IdeologyPatch_DarklightDefault>
+  <IdeologyPatch_RitualCooldownMessage>Показывать сообщение, когда ритуал снова можно провести без штрафа за повтор</IdeologyPatch_RitualCooldownMessage>
+  <IdeologyPatch_LookChangeDesiredFix>Разрешить «Желание сменить внешность» даже при включённой Биотехнологии</IdeologyPatch_LookChangeDesiredFix>
+  <IdeologyPatch_NegativeApparelDesire>Существа будут носить даже «отрицательную» одежду автоматически, если её предпочитает их идеолигия</IdeologyPatch_NegativeApparelDesire>
+  <IdeologyPatch_RelicsCollectedNotAgain>Доставка всех реликвий в новую колонию на архонексусе не даёт прироста настроения</IdeologyPatch_RelicsCollectedNotAgain>
+  <IdeologyPatch_ForbidArchonexusCorpses>Автоматически запрещать трупы, появляющиеся рядом со структурами архонексуса</IdeologyPatch_ForbidArchonexusCorpses>
+  <IdeologyPatch_FactionRelationAdjustment>Корректировать начальные отношения с вражескими фракциями до естественного диапазона расположения</IdeologyPatch_FactionRelationAdjustment>
+  <IdeologyPatch_SlavesArentQuestLodgers>Никогда не считать рабов гостями из заданий</IdeologyPatch_SlavesArentQuestLodgers>
+  <IdeologyPatch_PaintableIdeoFloors>Разрешить красить все нетекстильные полы идеолигии и плиты</IdeologyPatch_PaintableIdeoFloors>
+  <IdeologyPatch_SlavesWearHumanLeather>Рабы будут носить рабскую одежду из человеческой кожи, даже если она им не нравится</IdeologyPatch_SlavesWearHumanLeather>
+  <IdeologyPatch_SlavesCantRunWild>Рабы не могут одичать</IdeologyPatch_SlavesCantRunWild>
+  <IdeologyPatch_RitualCanBePerformedAgain>{0} снова можно провести без штрафа за повтор.</IdeologyPatch_RitualCanBePerformedAgain>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <kathanon.DamageOverlay.toggleToolTip>Показать наложение урона</kathanon.DamageOverlay.toggleToolTip>
+  <kathanon.DamageOverlay.opacity.title>Непрозрачность: сильный урон</kathanon.DamageOverlay.opacity.title>
+  <kathanon.DamageOverlay.opacity.desc>Непрозрачность наложения на карте для самых повреждённых построек.</kathanon.DamageOverlay.opacity.desc>
+  <kathanon.DamageOverlay.opacity.low.title>Непрозрачность: слабый урон</kathanon.DamageOverlay.opacity.low.title>
+  <kathanon.DamageOverlay.opacity.low.desc>Непрозрачность наложения на карте для наименее повреждённых построек. Выражается в процентах от непрозрачности для сильного урона.</kathanon.DamageOverlay.opacity.low.desc>
+  <kathanon.DamageOverlay.filter.title>Фильтр построек</kathanon.DamageOverlay.filter.title>
+  <kathanon.DamageOverlay.filter.desc>Определяет, к каким постройкам применяется наложение. Обратите внимание, что к «постройкам» относятся и природные скалы и подобное.</kathanon.DamageOverlay.filter.desc>
+  <kathanon.DamageOverlay.filter.All>Все</kathanon.DamageOverlay.filter.All>
+  <kathanon.DamageOverlay.filter.NonMineable>Все, кроме добываемых</kathanon.DamageOverlay.filter.NonMineable>
+  <kathanon.DamageOverlay.filter.Repairable>Подлежащие ремонту</kathanon.DamageOverlay.filter.Repairable>
+  <kathanon.DamageOverlay.filter.Owned>Принадлежащие игроку</kathanon.DamageOverlay.filter.Owned>
+  <kathanon.DamageOverlay.filter.Walls>Только стены и двери</kathanon.DamageOverlay.filter.Walls>
+  <kathanon.DamageOverlay.interval.title>Интервал обновления</kathanon.DamageOverlay.interval.title>
+  <kathanon.DamageOverlay.interval.desc>Количество игровых тиков между обновлениями наложения. Меньшее значение даёт более плавное обновление, но снижает производительность.</kathanon.DamageOverlay.interval.desc>
+  <kathanon.DamageOverlay.numSteps.title>Шаги градиента</kathanon.DamageOverlay.numSteps.title>
+  <kathanon.DamageOverlay.numSteps.desc>Количество шагов в цветовом градиенте от наименее до наиболее повреждённых.</kathanon.DamageOverlay.numSteps.desc>
+  <kathanon.DamageOverlay.minColor.title>Цвет: сильный урон</kathanon.DamageOverlay.minColor.title>
+  <kathanon.DamageOverlay.minColor.desc>Цвет для построек, которые почти разрушены.</kathanon.DamageOverlay.minColor.desc>
+  <kathanon.DamageOverlay.maxColor.title>Цвет: слабый урон</kathanon.DamageOverlay.maxColor.title>
+  <kathanon.DamageOverlay.maxColor.desc>Цвет для построек, которые почти не повреждены.</kathanon.DamageOverlay.maxColor.desc>
+  <kathanon.DamageOverlay.color.red>Красный</kathanon.DamageOverlay.color.red>
+  <kathanon.DamageOverlay.color.green>Зелёный</kathanon.DamageOverlay.color.green>
+  <kathanon.DamageOverlay.color.blue>Синий</kathanon.DamageOverlay.color.blue>
+  <kathanon.DamageOverlay.color.yellow>Жёлтый</kathanon.DamageOverlay.color.yellow>
+  <kathanon.DamageOverlay.color.cyan>Голубой</kathanon.DamageOverlay.color.cyan>
+  <kathanon.DamageOverlay.color.magenta>Пурпурный</kathanon.DamageOverlay.color.magenta>
+</LanguageData>

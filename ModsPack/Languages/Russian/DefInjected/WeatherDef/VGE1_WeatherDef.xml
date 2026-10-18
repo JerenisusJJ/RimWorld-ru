@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_DustCloud.label>пылевое облако</VGE_DustCloud.label>
+  <VGE_DustCloud.description>Плотное облако космической пыли дрейфует через ваш сектор и окутывает гравикорабль взвесью частиц. Видимость почти нулевая, а системы наведения с трудом захватывают цели. Пыль со временем рассеется, когда облако уплывёт.</VGE_DustCloud.description>
+  <VGE_ToxicDustCloud.label>токсичное пылевое облако</VGE_ToxicDustCloud.label>
+  <VGE_ToxicDustCloud.description>Дрейфующее облако высокотоксичной космической пыли окутало ваш гравикорабль. Мельчайшие частицы просачиваются в каждое открытое помещение, разъедают поверхности и отравляют экипаж.</VGE_ToxicDustCloud.description>
+</LanguageData>

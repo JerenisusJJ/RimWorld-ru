@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>Вы обнаружили гауссову пушку-гиганта, разрушительное орбитальное артиллерийское орудие. Уничтожьте её, чтобы устранить угрозу и получить гравиядро.</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>
+  <VGE_Gun_EnemyGaussCannon.label>вражеская гауссова пушка-гигант</VGE_Gun_EnemyGaussCannon.label>
+  <VGE_Gun_EnemyGaussCannon.description>Невероятно мощная противокорабельная гауссова артиллерия, установленная на орбитальной станции.</VGE_Gun_EnemyGaussCannon.description>
+  <VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>вражеская гауссова пушка-гигант</VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Bullet_GaussCannon.label>выстрел гауссовой пушки</VGE_Bullet_GaussCannon.label>
+  <VGE_Turret_DefenderTurret.label>оборонительная турель</VGE_Turret_DefenderTurret.label>
+  <VGE_Turret_DefenderTurret.description>Бронированная охранная турель со встроенным источником питания.</VGE_Turret_DefenderTurret.description>
+  <VGE_Bullet_DefenderTurret.label>снаряд оборонительной турели</VGE_Bullet_DefenderTurret.label>
+  <VGE_Gun_DefenderTurret.label>орудие оборонительной турели</VGE_Gun_DefenderTurret.label>
+  <VGE_Gun_DefenderTurret.description>Простое автоматическое орудие, сделанное для установки на турель.</VGE_Gun_DefenderTurret.description>
+  <VGE_Gun_DefenderTurret.verbs.Verb_Shoot.label>орудие оборонительной турели</VGE_Gun_DefenderTurret.verbs.Verb_Shoot.label>
+  <VGE_EnemyGravshipMinigunTurret.label>вражеская миниган-турель гравикорабля</VGE_EnemyGravshipMinigunTurret.label>
+  <VGE_EnemyGravshipMinigunTurret.description>Компактная тяжёлая автоматическая турель, устанавливаемая на гравикорабль. Многоствольный механизм ведёт непрерывный огонь на высокой скорости, кромсая слабо бронированные цели на средней дистанции. При повреждении может взорваться.\n\nЭто конкретное устройство принадлежит врагу, и его нельзя расшифровать или разблокировать. Его всё ещё можно разобрать, получив ценные ресурсы.</VGE_EnemyGravshipMinigunTurret.description>
+  <VGE_Gun_EnemyGravshipMinigun.label>миниган гравикорабля</VGE_Gun_EnemyGravshipMinigun.label>
+  <VGE_Gun_EnemyGravshipMinigun.verbs.Verb_Shoot.label>миниган гравикорабля</VGE_Gun_EnemyGravshipMinigun.verbs.Verb_Shoot.label>
+  <VGE_EnemyGravshipAutocannonTurret.label>вражеская автопушка-турель гравикорабля</VGE_EnemyGravshipAutocannonTurret.label>
+  <VGE_EnemyGravshipAutocannonTurret.description>Компактная автоматическая турель, устанавливаемая на гравикорабль. Её крупнокалиберные снаряды наносят тяжёлый урон на больших дистанциях, но, несмотря на эффективность, после интенсивного использования ствол необходимо восстанавливать. Не может стрелять по близким целям и может взорваться при повреждении.\n\nЭто конкретное устройство принадлежит врагу, и его нельзя расшифровать или разблокировать. Его всё ещё можно разобрать, получив ценные ресурсы.</VGE_EnemyGravshipAutocannonTurret.description>
+  <VGE_Gun_EnemyGravshipAutocannon.label>автопушка гравикорабля</VGE_Gun_EnemyGravshipAutocannon.label>
+  <VGE_Gun_EnemyGravshipAutocannon.verbs.Verb_Shoot.label>автопушка гравикорабля</VGE_Gun_EnemyGravshipAutocannon.verbs.Verb_Shoot.label>
+  <VGE_EnemyGravshipUraniumSlugTurret.label>вражеская урановая турель гравикорабля</VGE_EnemyGravshipUraniumSlugTurret.label>
+  <VGE_EnemyGravshipUraniumSlugTurret.description>Компактная бронебойная турель, устанавливаемая на гравикорабль. Её сверхплотные урановые снаряды пробивают тяжёлую броню, но после использования требуют загрузки новых урановых болванок. Эффективнее наземной версии: расходует меньше болванок на выстрел. Точнее стреляет на больших дистанциях и совсем не может вести огонь по близким целям. При повреждении может взорваться.\n\nЭто конкретное устройство принадлежит врагу, и его нельзя расшифровать или разблокировать. Его всё ещё можно разобрать, получив ценные ресурсы.</VGE_EnemyGravshipUraniumSlugTurret.description>
+  <VGE_Gun_EnemyGravshipUraniumSlug.label>урановое орудие гравикорабля</VGE_Gun_EnemyGravshipUraniumSlug.label>
+  <VGE_Gun_EnemyGravshipUraniumSlug.verbs.Verb_Shoot.label>урановое орудие гравикорабля</VGE_Gun_EnemyGravshipUraniumSlug.verbs.Verb_Shoot.label>
+  <VGE_EnemyOxygenPump.label>вражеский кислородный насос</VGE_EnemyOxygenPump.label>
+  <VGE_EnemyOxygenPump.description>Блок, подключённый к системе жизнеобеспечения гравикорабля. Поддерживает в помещениях тепло и давление.</VGE_EnemyOxygenPump.description>
+  <VGE_EnemyGravshipLight_red.label>вражеский светильник гравикорабля</VGE_EnemyGravshipLight_red.label>
+  <VGE_EnemyGravshipLight_red.description>Древний светильник с долговечным аккумулятором.</VGE_EnemyGravshipLight_red.description>
+  <VGE_EnemyGaussHowitzer.label>вражеская гауссова гаубица</VGE_EnemyGaussHowitzer.label>
+  <VGE_EnemyGaussHowitzer.description>Трёхствольное электромагнитное артиллерийское орудие, выпускающее плотные урановые болванки с высокой скоростью. Предназначено как для локальных обстрелов, так и для дальних боёв; может также целиться по другим гравикораблям на орбите. Получает питание напрямую от гравидвигателя и не требует связанного терминала для работы.\n\nЭто конкретное устройство принадлежит врагу, и его нельзя расшифровать или разблокировать. Его всё ещё можно разобрать, получив ценные ресурсы.</VGE_EnemyGaussHowitzer.description>
+  <VGE_Gun_EnemyGaussHowitzer.label>вражеская гауссова гаубица</VGE_Gun_EnemyGaussHowitzer.label>
+  <VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>вражеская гауссова гаубица</VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>
+  <VGE_EnemyJavelinLauncher.label>вражеская установка «Джавелин»</VGE_EnemyJavelinLauncher.label>
+  <VGE_EnemyJavelinLauncher.description>Тяжёлая многотрубная ракетная платформа, выпускающая залп из 12 дальнобойных управляемых дротиков с астротопливным двигателем. Предназначена для массированных ударов по наземным целям и вражеским гравикораблям на орбите. Получает питание напрямую от гравидвигателя и не требует связанного терминала для работы.\n\nЭто конкретное устройство принадлежит врагу, и его нельзя расшифровать или разблокировать. Его всё ещё можно разобрать, получив ценные ресурсы.</VGE_EnemyJavelinLauncher.description>
+  <VGE_Gun_EnemyJavelinLauncher.label>вражеская установка «Джавелин»</VGE_Gun_EnemyJavelinLauncher.label>
+  <VGE_Gun_EnemyJavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>вражеская установка «Джавелин»</VGE_Gun_EnemyJavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_GiantWormspitter_Releaser.label>экзочервь</VGE_GiantWormspitter_Releaser.label>
+  <VGE_GiantWormspitter_Releaser.description>Приближающийся экзочервь.</VGE_GiantWormspitter_Releaser.description>
+  <VGE_SpaceInfestationSpawner.label>источник космического заражения</VGE_SpaceInfestationSpawner.label>
+  <VGE_SpaceInfestationSpawner.description>Невидимый источник космического заражения.</VGE_SpaceInfestationSpawner.description>
+  <VGE_MechanoidChargeBattery.label>зарядная батарея</VGE_MechanoidChargeBattery.label>
+  <VGE_MechanoidChargeBattery.description>Массивная импульсно заряжаемая артиллерийская батарея для неизбирательного насыщения обширной площади огнём. Способна вести долгие неточные очереди быстролетящими взрывными снарядами. Орудие полностью автономно и управляется машинным мозгом, не требующим экипажа. Часто встречается на орбитальных бомбардировочных платформах.</VGE_MechanoidChargeBattery.description>
+  <VGE_Gun_MechanoidChargeBattery.label>зарядная батарея</VGE_Gun_MechanoidChargeBattery.label>
+  <VGE_Gun_MechanoidChargeBattery.description>Массивная импульсно заряжаемая артиллерийская батарея.</VGE_Gun_MechanoidChargeBattery.description>
+  <VGE_Gun_MechanoidChargeBattery.verbs.Verb_ShootWithSmoke.label>зарядная батарея</VGE_Gun_MechanoidChargeBattery.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Bullet_ChargeBattery.label>выстрел зарядной батареи</VGE_Bullet_ChargeBattery.label>
+  <VGE_MechanoidInfernoArtillery.label>адская артиллерия</VGE_MechanoidInfernoArtillery.label>
+  <VGE_MechanoidInfernoArtillery.description>Массивное дальнобойное бомбардировочное орудие, построенное механоидами. Выпускает раскалённые астротопливные стержни, которые детонируют при ударе, порождая пожар астроогня, способного гореть даже в вакууме космоса. Орудие полностью автономно и управляется машинным мозгом, не требующим экипажа. Часто встречается на орбитальных бомбардировочных платформах.</VGE_MechanoidInfernoArtillery.description>
+  <VGE_Gun_MechanoidInfernoArtillery.label>адская артиллерия</VGE_Gun_MechanoidInfernoArtillery.label>
+  <VGE_Gun_MechanoidInfernoArtillery.description>Массивное дальнобойное бомбардировочное орудие, построенное механоидами.</VGE_Gun_MechanoidInfernoArtillery.description>
+  <VGE_Gun_MechanoidInfernoArtillery.verbs.Verb_ShootWithSmoke.label>адская артиллерия</VGE_Gun_MechanoidInfernoArtillery.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Bullet_InfernoArtillery.label>выстрел адской артиллерии</VGE_Bullet_InfernoArtillery.label>
+  <VGE_MechanoidGravTether.label>гравишвартов механоидов</VGE_MechanoidGravTether.label>
+  <VGE_MechanoidGravTether.description>Обширное искусственное ядро колоссальных орбитальных платформ механоидов. В отличие от гравидвигателей, построенных людьми, эти создаются самим ядром механоидов и оптимизированы для беспощадной эффективности и непрерывной работы. Они генерируют колоссальные подъёмные и стабилизирующие поля, позволяющие огромным раскинувшимся космическим станциям оставаться на орбите, и составляют основу господства механоидов в космосе. Хотя они в основном несовместимы с человеческими системами, их можно уничтожить и получить гравиядро — редкий и ценный приз для любого, кто осмелится бросить им вызов.</VGE_MechanoidGravTether.description>
+  <VGE_MechanoidHullPlatform.label>корпусная платформа механоидов</VGE_MechanoidHullPlatform.label>
+  <VGE_MechanoidHullPlatform.description>Плотный структурный элемент, из которого строятся орбитальные платформы механоидов. Благодаря особым гравлитовым сплавам, из которых они сделаны, они неуязвимы для повреждений. Это постоянная деталь орбитальных платформ механоидов.</VGE_MechanoidHullPlatform.description>
+  <VGE_MechanoidStabilizer.label>стабилизатор механоидов</VGE_MechanoidStabilizer.label>
+  <VGE_MechanoidStabilizer.description>Компактный астротопливный ускоритель, построенный ядром механоидов для движения их орбитальных платформ. Конструкция повторяет человеческую, но усилена механической точностью и облицована толстой вакуумитовой обшивкой, выдерживающей экстремальный нагрев и нагрузки. Эти малые ускорители помогают платформам в тонком маневрировании и удержании позиции на орбите. Непригодный для человеческих гравикораблей, он при уничтожении даёт небольшой запас драгоценных вакуумитовых блоков.</VGE_MechanoidStabilizer.description>
+  <VGE_MechanoidHeatsink.label>теплоотвод механоидов</VGE_MechanoidHeatsink.label>
+  <VGE_MechanoidHeatsink.description>Длинная каркасная распорка терморегулятора, встроенная в конструкцию платформ механоидов для полной тепловой стабильности. Поглощает отработанное тепло активных систем механоидов и преобразует его часть в рабочую энергию, предотвращая перегрев ядра и поддерживая максимальную эффективность.</VGE_MechanoidHeatsink.description>
+  <VGE_MechanoidSolarPanel.label>солнечная панель механоидов</VGE_MechanoidSolarPanel.label>
+  <VGE_MechanoidSolarPanel.description>Плотный массив шестиугольных гравлитовых солнечных панелей, плотно выстроенных сеткой на платформах механоидов. Эффективно преобразуют солнечное излучение в энергию, поддерживая бесконечный рабочий цикл систем механоидов.</VGE_MechanoidSolarPanel.description>
+  <VGE_MechanoidTargetingRelay.label>ретранслятор наведения механоидов</VGE_MechanoidTargetingRelay.label>
+  <VGE_MechanoidTargetingRelay.description>Специализированный ретранслятор, передающий точные параметры наведения всем находящимся рядом артиллерийским орудиям механоидов. Постоянный поток данных резко повышает их точность, обеспечивая разрушительно точную бомбардировку.</VGE_MechanoidTargetingRelay.description>
+  <VGE_MechanoidArtilleryLoader.label>артиллерийский заряжатель механоидов</VGE_MechanoidArtilleryLoader.label>
+  <VGE_MechanoidArtilleryLoader.description>Специализированная, сильно укреплённая конвейерная система, предназначенная для быстрой подачи болванок в механоидные электромагнитные ускорители. Значительно сокращает время перезарядки связанной артиллерии гравикорабля.</VGE_MechanoidArtilleryLoader.description>
+  <VGE_MechanoidGravcapacitor.label>гравиконденсатор механоидов</VGE_MechanoidGravcapacitor.label>
+  <VGE_MechanoidGravcapacitor.description>Плотный сложный энергетический накопитель, хранящий энергию для важнейших систем механоидов. Его нестабильный заряд удерживается мощными магнитными полями. При тяжёлом повреждении высвободившаяся энергия детонирует мощным ЭМИ-взрывом.</VGE_MechanoidGravcapacitor.description>
+  <VGE_MechanoidOvershieldGenerator.label>сверхщит механоидов</VGE_MechanoidOvershieldGenerator.label>
+  <VGE_MechanoidOvershieldGenerator.description>Колоссальное оборонительное сооружение, проецирующее мощный статический энергетический щит огромного радиуса. Этот барьер перехватывает все летящие снаряды, но позволяет вести огонь изнутри. Когда его значительная энергия истощается, щит разрушается, и генератору предстоит долгий 15-дневный цикл подзарядки, прежде чем сверхщит можно будет развернуть снова.</VGE_MechanoidOvershieldGenerator.description>
+  <VGE_MechanoidSignalJammer.label>глушитель сигнала механоидов</VGE_MechanoidSignalJammer.label>
+  <VGE_MechanoidSignalJammer.description>Сложная система датчиков и излучателей, транслирующая локальные помехи в непосредственной близости. Насыщая область противоречивыми гравиметрическими сигналами, она не даёт приблизиться любому гравикораблю или десантной капсуле, создавая непроницаемую зону отчуждения вокруг сооружения.</VGE_MechanoidSignalJammer.description>
+  <VGE_MechanoidAuxiliaryProcessor.label>процессор механоидов</VGE_MechanoidAuxiliaryProcessor.label>
+  <VGE_MechanoidAuxiliaryProcessor.description>Вспомогательный компьютер механоидов.</VGE_MechanoidAuxiliaryProcessor.description>
+  <VGE_MechanoidGravfieldAmplifier.label>усилитель гравиполя механоидов</VGE_MechanoidGravfieldAmplifier.label>
+  <VGE_MechanoidGravfieldAmplifier.description>Сложная решётка гравиметрических резонаторов, предназначенная для стабилизации и усиления мощности гравидвигателей механоидов. Этот усилитель позволяет орбитальным платформам вырастать до колоссальных размеров, сохраняя структурную целостность в космосе.</VGE_MechanoidGravfieldAmplifier.description>
+  <VGE_MechanoidGravfieldExtender.label>расширитель гравиполя механоидов</VGE_MechanoidGravfieldExtender.label>
+  <VGE_MechanoidGravfieldExtender.description>Вспомогательная конструкция, стабилизирующая локальное гравитационное поле платформы механоидов. Подключаясь к основным гравидвигателям, она расширяет зону действия поля, позволяя создавать более сложные конфигурации платформы и повышая структурную целостность.</VGE_MechanoidGravfieldExtender.description>
+  <VGE_MechanoidInformationSpire.label>информационный шпиль механоидов</VGE_MechanoidInformationSpire.label>
+  <VGE_MechanoidInformationSpire.description>Вспомогательная конструкция, стабилизирующая локальное гравитационное поле платформы механоидов. Подключаясь к основным гравидвигателям, она расширяет зону действия поля, позволяя создавать более сложные конфигурации платформы и повышая структурную целостность.</VGE_MechanoidInformationSpire.description>
+  <VGE_MechanoidResourceCrate.label>ресурсный ящик механоидов</VGE_MechanoidResourceCrate.label>
+  <VGE_MechanoidResourceCrate.description>Ресурсный контейнер механоидов. Похоже, его невозможно открыть, и никто не знает, что может храниться внутри.</VGE_MechanoidResourceCrate.description>
+  <VGE_MechanoidSensorNode.label>сенсорный узел механоидов</VGE_MechanoidSensorNode.label>
+  <VGE_MechanoidSensorNode.description>Сложная сенсорная решётка с передовой оптикой и гравиметрическими сканерами, следящая за орбитальной активностью и передающая данные в реальном времени и сведения о передвижениях фракций рою механоидов.</VGE_MechanoidSensorNode.description>
+  <VGE2_MechNavBeacon.label>навигационный маяк механоидов</VGE2_MechNavBeacon.label>
+  <VGE2_MechNavBeacon.description>Специализированный маяк, используемый орбитальными платформами механоидов для передачи точных векторов стыковки и координат построения.</VGE2_MechNavBeacon.description>
+  <VGE2_MechVertex.label>вершина механоидов</VGE2_MechVertex.label>
+  <VGE2_MechVertex.description>Загадочный автономный узел механоидов неизвестного назначения. Хотя эти узлы богаты извлекаемыми ресурсами, они исключительно хрупки, и любое серьёзное повреждение вызовет катастрофический отказ их микроэнергоячеек.</VGE2_MechVertex.description>
+  <VGE_ExoHive_Building.label>экзоулей</VGE_ExoHive_Building.label>
+  <VGE_ExoHive_Building.description>Улей гигантских насекомых экзо-линии. После активации со временем порождает дополнительных насекомых и ульи, а также ценное желе насекомых. Время от времени может перемещаться и сражаться при угрозе.</VGE_ExoHive_Building.description>
+  <VGE_GiantWormspitter.label>гигантский червеплёв</VGE_GiantWormspitter.label>
+  <VGE_GiantWormspitter.description>Массивный мегачервь, частично зарытый в астероид, снаружи остался лишь его плюющийся аппарат. Это существо мастерски запускает на большие расстояния специальные капсулы, которые лопаются при ударе и выпускают агрессивных экзочервей. Служит дальней обороной заражённых астероидов и экзоульев.</VGE_GiantWormspitter.description>
+  <VGE_GiantWormspitter_Gun.label>гигантский червеплёв</VGE_GiantWormspitter_Gun.label>
+  <VGE_GiantWormspitter_Gun.description>Массивный мегачервь, частично зарытый в астероид, снаружи остался лишь его плюющийся аппарат. Это существо мастерски запускает на большие расстояния специальные капсулы, которые лопаются при ударе и выпускают агрессивных экзочервей. Служит дальней обороной заражённых астероидов и экзоульев.</VGE_GiantWormspitter_Gun.description>
+  <VGE_GiantWormspitter_Gun.verbs.Verb_Shoot.label>гигантский червеплёв</VGE_GiantWormspitter_Gun.verbs.Verb_Shoot.label>
+  <VGE_GiantWormspitter_Projectile.label>снаряд гигантского червеплёва</VGE_GiantWormspitter_Projectile.label>
+  <VGE_EggSac.label>яйцевой мешок экзочервя</VGE_EggSac.label>
+  <VGE_EggSac.description>Склизкий мешок с экзочервём внутри. Процесс личиночного развития создаёт слабое биолюминесцентное свечение.</VGE_EggSac.description>
+  <VGE_ExowormCocoon.label>кокон экзочервя</VGE_ExowormCocoon.label>
+  <VGE_ExowormCocoon.description>Кокон стазиса с экзочервём внутри.\n\nПри неблагоприятных условиях насекомые иногда образуют коконы стазиса и зарываются под землю. Эти коконы годами защищают насекомых от огня, экстремальных температур и других угроз.\n\nЗагрязнение может стимулировать коконы и заставить их выйти на поверхность, а сильное загрязнение способно привлечь коконы с больших расстояний.\n\nЕсли коконы не трогать, они ничего не делают. Если кокон потревожить или разрушить, насекомое внутри пробудится и нападёт, запустив при этом другие находящиеся рядом коконы.</VGE_ExowormCocoon.description>
+  <VGE_AstrofuelPodLauncher.label>астротопливная пусковая установка капсул</VGE_AstrofuelPodLauncher.label>
+  <VGE_AstrofuelPodLauncher.description>Компактный заправочный порт для запуска одной транспортной капсулы. Благодаря высокоэффективному астротопливу эта установка значительно меньше традиционных конструкций. Пусковые установки капсул могут запускать их группой, но установки должны стоять вплотную друг к другу.</VGE_AstrofuelPodLauncher.description>
+  <VGE_EscapePod.label>спасательная капсула</VGE_EscapePod.label>
+  <VGE_EscapePod.description>Напольная, предварительно заправленная спасательная капсула одноразового использования, предназначенная для быстрой эвакуации одного колониста с тем снаряжением, которое у него было при себе. Капсула стартует сразу, как только член экипажа в неё входит, и направляется прямо вниз, на поверхность. Нужно строить на подструктуре гравикорабля. Работает только на орбите.</VGE_EscapePod.description>
+  <VGE_VacuumWarningLight.label>лампа предупреждения о вакууме</VGE_VacuumWarningLight.label>
+  <VGE_VacuumWarningLight.description>Электрическая сигнальная лампа, испускающая мигающий оранжевый свет, если вакуум в помещении достигает опасного уровня. Недрафтнутые члены экипажа будут покидать помещение, когда загорится сигнальная лампа. Получает питание напрямую от гравидвигателя.</VGE_VacuumWarningLight.description>
+  <VGE2_AstrofuelBarrel.label>бочка астротоплива</VGE2_AstrofuelBarrel.label>
+  <VGE2_AstrofuelBarrel.description>Бочка нестабильного астротоплива. Взорвётся при повреждении.</VGE2_AstrofuelBarrel.description>
+  <VGE2_AstrofuelPipeSegment.label>секция трубы астротоплива</VGE2_AstrofuelPipeSegment.label>
+  <VGE2_AstrofuelPipeSegment.description>Длинная секция наземной трубы астротоплива. Взорвётся при повреждении, а при повреждении будет подтекать астротопливом.</VGE2_AstrofuelPipeSegment.description>
+  <VGE2_ExplosivesCrate.label>ящик со взрывчаткой</VGE2_ExplosivesCrate.label>
+  <VGE2_ExplosivesCrate.description>Контейнер с шахтными зарядами. Взорвётся при повреждении.</VGE2_ExplosivesCrate.description>
+  <VGE2_FloorOxygenVent.label>напольный кислородный клапан</VGE2_FloorOxygenVent.label>
+  <VGE2_FloorOxygenVent.description>Кислородный клапан, ведущий к более глубокой кислородной установке и постоянно подающий кислород в помещение.</VGE2_FloorOxygenVent.description>
+  <VGE2_LockedShuttle.label>запертый шаттл</VGE2_LockedShuttle.label>
+  <VGE2_LockedShuttle.description>Шаттл на химтопливе, предназначенный для дальних перелётов; обычно используется торговой гильдией. Тяжёлые магнитные зажимы не дают управлять им без разрешения, но его всё ещё можно разобрать, чтобы получить двигатель шаттла.</VGE2_LockedShuttle.description>
+  <VGE2_NavBeacon.label>навигационный маяк</VGE2_NavBeacon.label>
+  <VGE2_NavBeacon.description>Навигационный маяк кораблей. Помогает шаттлам и более крупным судам при стыковке.</VGE2_NavBeacon.description>
+  <VGE2_OrbitalLight.label>орбитальный светильник</VGE2_OrbitalLight.label>
+  <VGE2_OrbitalLight.description>Торшер с внутренним питанием, освещающий область. Людям нужен свет, чтобы двигаться и работать на полной скорости. При потере давления свет становится красным.</VGE2_OrbitalLight.description>
+  <VGE2_Oxyfarm.label>оксиферма</VGE2_Oxyfarm.label>
+  <VGE2_Oxyfarm.description>Маленький автономный бак с искусственными оксиводорослями, способный вырабатывать кислород небольшими устойчивыми порциями.</VGE2_Oxyfarm.description>
+  <VGE2_PowerSocket.label>силовая розетка</VGE2_PowerSocket.label>
+  <VGE2_PowerSocket.description>Розетка средней мощности, выходящая из более глубокого конденсаторного блока под полом. Постоянно вырабатывает стабильный запас энергии.</VGE2_PowerSocket.description>
+  <VGE2_SpacerCrate.label>космический ящик</VGE2_SpacerCrate.label>
+  <VGE2_SpacerCrate.description>Футуристический космический ящик, в котором нет ничего ценного.</VGE2_SpacerCrate.description>
+  <VGE2_StationAntenna.label>станционная антенна</VGE2_StationAntenna.label>
+  <VGE2_StationAntenna.description>Точная, но хрупкая антенна для передачи связи между орбитальными станциями.</VGE2_StationAntenna.description>
+  <VGE2_StationEquipmentBlock.label>блок станционного оборудования</VGE2_StationEquipmentBlock.label>
+  <VGE2_StationEquipmentBlock.description>Модульная решётка блоков станционного оборудования, содержащаяся в идеальном рабочем состоянии. Эти блоки обеспечивают важнейшую логистику станции и обслуживание систем.</VGE2_StationEquipmentBlock.description>
+  <VGE2_StationConsole.label>станционная консоль</VGE2_StationConsole.label>
+  <VGE2_StationConsole.description>Специальная консоль для наблюдения за различными подсистемами орбитальной станции и управления ими.</VGE2_StationConsole.description>
+  <VGE2_SmallStationConsole.label>малая станционная консоль</VGE2_SmallStationConsole.label>
+  <VGE2_SmallStationConsole.description>Специальная консоль для наблюдения за различными подсистемами орбитальной станции и управления ими.</VGE2_SmallStationConsole.description>
+  <VGE2_StationFilingCabinet.label>станционный картотечный шкаф</VGE2_StationFilingCabinet.label>
+  <VGE2_StationFilingCabinet.description>Картотечный шкаф с документами, важными и не очень, относящимися к орбитальной станции.</VGE2_StationFilingCabinet.description>
+  <VGE2_StationLockerBank.label>станционный блок шкафчиков</VGE2_StationLockerBank.label>
+  <VGE2_StationLockerBank.description>Блок шкафчиков. Используется на орбитальных станциях для хранения личных вещей членов экипажа.</VGE2_StationLockerBank.description>
+  <VGE2_StationSystemRack.label>станционная системная стойка</VGE2_StationSystemRack.label>
+  <VGE2_StationSystemRack.description>Стойка, набитая неопознаваемыми устройствами. Ничего на ней не кажется особенно ценным.</VGE2_StationSystemRack.description>
+</LanguageData>

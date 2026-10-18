@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_EmergencyLaunch.label>экстренный запуск</VGE_EmergencyLaunch.label>
+  <VGE_EmergencyLaunch.description>Используйте пульт пилота, чтобы немедленно выполнить экстренный запуск с посадкой в случайном месте поблизости и гарантированной неудачей. Все, кто находится вне гравикорабля, будут брошены.</VGE_EmergencyLaunch.description>
+  <VGE_AnalyzeTheStars.label>анализ звёзд</VGE_AnalyzeTheStars.label>
+  <VGE_AnalyzeTheStars.description>Используйте телескоп, чтобы проанализировать звёзды и обнаружить новое орбитальное место поблизости.</VGE_AnalyzeTheStars.description>
+  <VGE_EngineeringCommand.label>инженерная команда</VGE_EngineeringCommand.label>
+  <VGE_EngineeringCommand.description>Руководите усилиями по обслуживанию и строительству гравикорабля, повышая навыки строительства и обслуживания у всех поблизости. Эффект остаётся на заклинателе в течение 24 часов.</VGE_EngineeringCommand.description>
+</LanguageData>

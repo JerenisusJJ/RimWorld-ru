@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.0>r_roleName(p=4)-&gt;[firstPart][secondPart]</VGE_NamerRoleEngineering.rulePack.rulesStrings.0>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.1>r_roleName(p=1)-&gt;главный инженер</VGE_NamerRoleEngineering.rulePack.rulesStrings.1>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.2>r_roleName(p=1)-&gt;системный механик</VGE_NamerRoleEngineering.rulePack.rulesStrings.2>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.3>r_roleName(p=1)-&gt;техник гравикорабля</VGE_NamerRoleEngineering.rulePack.rulesStrings.3>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.4>firstPart-&gt;техно</VGE_NamerRoleEngineering.rulePack.rulesStrings.4>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.5>firstPart-&gt;шестерне</VGE_NamerRoleEngineering.rulePack.rulesStrings.5>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.6>firstPart-&gt;грави</VGE_NamerRoleEngineering.rulePack.rulesStrings.6>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.7>firstPart-&gt;строе</VGE_NamerRoleEngineering.rulePack.rulesStrings.7>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.8>firstPart-&gt;механо</VGE_NamerRoleEngineering.rulePack.rulesStrings.8>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.9>firstPart-&gt;серво</VGE_NamerRoleEngineering.rulePack.rulesStrings.9>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.10>firstPart-&gt;искро</VGE_NamerRoleEngineering.rulePack.rulesStrings.10>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.11>firstPart-&gt;схемо</VGE_NamerRoleEngineering.rulePack.rulesStrings.11>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.12>firstPart-&gt;кузне</VGE_NamerRoleEngineering.rulePack.rulesStrings.12>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.13>firstPart-&gt;двигателе</VGE_NamerRoleEngineering.rulePack.rulesStrings.13>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.14>secondPart(p=4)-&gt;мастер</VGE_NamerRoleEngineering.rulePack.rulesStrings.14>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.15>secondPart(p=3)-&gt;кузнец</VGE_NamerRoleEngineering.rulePack.rulesStrings.15>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.16>secondPart(p=3)-&gt;работник</VGE_NamerRoleEngineering.rulePack.rulesStrings.16>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.17>secondPart(p=2)-&gt;наладчик</VGE_NamerRoleEngineering.rulePack.rulesStrings.17>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.18>secondPart(p=2)-&gt;умелец</VGE_NamerRoleEngineering.rulePack.rulesStrings.18>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.19>secondPart(p=2)-&gt;зодчий</VGE_NamerRoleEngineering.rulePack.rulesStrings.19>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.20>secondPart(p=1)-&gt;строитель</VGE_NamerRoleEngineering.rulePack.rulesStrings.20>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings.21>secondPart(p=1)-&gt;хранитель</VGE_NamerRoleEngineering.rulePack.rulesStrings.21>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.0>r_roleName(p=4)-&gt;[firstPart][secondPart]</VGE_NamerRoleNavigator.rulePack.rulesStrings.0>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.1>r_roleName(p=1)-&gt;штурман</VGE_NamerRoleNavigator.rulePack.rulesStrings.1>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.2>r_roleName(p=1)-&gt;звёздный проводник</VGE_NamerRoleNavigator.rulePack.rulesStrings.2>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.3>r_roleName(p=1)-&gt;звездочёт</VGE_NamerRoleNavigator.rulePack.rulesStrings.3>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.4>firstPart-&gt;астро</VGE_NamerRoleNavigator.rulePack.rulesStrings.4>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.5>firstPart-&gt;звездо</VGE_NamerRoleNavigator.rulePack.rulesStrings.5>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.6>firstPart-&gt;пусто</VGE_NamerRoleNavigator.rulePack.rulesStrings.6>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.7>firstPart-&gt;грави</VGE_NamerRoleNavigator.rulePack.rulesStrings.7>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.8>firstPart-&gt;космо</VGE_NamerRoleNavigator.rulePack.rulesStrings.8>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.9>firstPart-&gt;небесно</VGE_NamerRoleNavigator.rulePack.rulesStrings.9>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.10>firstPart-&gt;орбито</VGE_NamerRoleNavigator.rulePack.rulesStrings.10>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.11>firstPart-&gt;небо</VGE_NamerRoleNavigator.rulePack.rulesStrings.11>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.12>firstPart-&gt;штурвало</VGE_NamerRoleNavigator.rulePack.rulesStrings.12>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.13>secondPart(p=3)-&gt;чтец</VGE_NamerRoleNavigator.rulePack.rulesStrings.13>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.14>secondPart(p=3)-&gt;провидец</VGE_NamerRoleNavigator.rulePack.rulesStrings.14>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.15>secondPart(p=3)-&gt;искатель</VGE_NamerRoleNavigator.rulePack.rulesStrings.15>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.16>secondPart(p=2)-&gt;ходок</VGE_NamerRoleNavigator.rulePack.rulesStrings.16>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.17>secondPart(p=2)-&gt;пилот</VGE_NamerRoleNavigator.rulePack.rulesStrings.17>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.18>secondPart(p=2)-&gt;картограф</VGE_NamerRoleNavigator.rulePack.rulesStrings.18>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.19>secondPart(p=1)-&gt;мореход</VGE_NamerRoleNavigator.rulePack.rulesStrings.19>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings.20>secondPart(p=1)-&gt;созерцатель</VGE_NamerRoleNavigator.rulePack.rulesStrings.20>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.0>r_roleName(p=4)-&gt;[firstPart][secondPart]</VGE_NamerRolePiloting.rulePack.rulesStrings.0>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.1>r_roleName(p=1)-&gt;пилот</VGE_NamerRolePiloting.rulePack.rulesStrings.1>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.2>r_roleName(p=1)-&gt;лётный офицер</VGE_NamerRolePiloting.rulePack.rulesStrings.2>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.3>r_roleName(p=1)-&gt;рулевой</VGE_NamerRolePiloting.rulePack.rulesStrings.3>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.4>firstPart-&gt;полёто</VGE_NamerRolePiloting.rulePack.rulesStrings.4>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.5>firstPart-&gt;небо</VGE_NamerRolePiloting.rulePack.rulesStrings.5>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.6>firstPart-&gt;грави</VGE_NamerRolePiloting.rulePack.rulesStrings.6>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.7>firstPart-&gt;орбито</VGE_NamerRolePiloting.rulePack.rulesStrings.7>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.8>firstPart-&gt;астро</VGE_NamerRolePiloting.rulePack.rulesStrings.8>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.9>firstPart-&gt;навиго</VGE_NamerRolePiloting.rulePack.rulesStrings.9>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.10>firstPart-&gt;ускорито</VGE_NamerRolePiloting.rulePack.rulesStrings.10>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.11>firstPart-&gt;курсо</VGE_NamerRolePiloting.rulePack.rulesStrings.11>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.12>firstPart-&gt;штурвало</VGE_NamerRolePiloting.rulePack.rulesStrings.12>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.13>firstPart-&gt;крыло</VGE_NamerRolePiloting.rulePack.rulesStrings.13>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.14>secondPart(p=4)-&gt;мастер</VGE_NamerRolePiloting.rulePack.rulesStrings.14>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.15>secondPart(p=3)-&gt;наездник</VGE_NamerRolePiloting.rulePack.rulesStrings.15>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.16>secondPart(p=3)-&gt;пилот</VGE_NamerRolePiloting.rulePack.rulesStrings.16>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.17>secondPart(p=2)-&gt;водитель</VGE_NamerRolePiloting.rulePack.rulesStrings.17>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.18>secondPart(p=2)-&gt;бегун</VGE_NamerRolePiloting.rulePack.rulesStrings.18>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.19>secondPart(p=2)-&gt;капитан</VGE_NamerRolePiloting.rulePack.rulesStrings.19>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings.20>secondPart(p=1)-&gt;хранитель</VGE_NamerRolePiloting.rulePack.rulesStrings.20>
+  <VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.0>terrain_word(p=4)-&gt;ледяной астероид</VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.0>
+  <VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.1>terrain_word-&gt;ледяная скала</VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.1>
+  <VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.2>terrain_word-&gt;замёрзший спутник</VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.2>
+  <VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.3>terrain_word-&gt;холодный планетоид</VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.3>
+  <VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.4>terrain_word-&gt;стылая луна</VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings.4>
+  <VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.0>terrain_word(p=4)-&gt;астероидное скопление</VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.0>
+  <VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.1>terrain_word-&gt;скопление скал</VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.1>
+  <VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.2>terrain_word-&gt;рассеянные спутники</VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.2>
+  <VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.3>terrain_word-&gt;разрозненные планетоиды</VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.3>
+  <VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.4>terrain_word-&gt;малые луны</VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings.4>
+  <VGE_NamerWorldObject_AsteroidField.rulePack.rulesStrings.0>terrain_word(p=4)-&gt;астероидное поле</VGE_NamerWorldObject_AsteroidField.rulePack.rulesStrings.0>
+  <VGE_NamerWorldObject_PorousAsteroid.rulePack.rulesStrings.0>terrain_word(p=4)-&gt;пористый астероид</VGE_NamerWorldObject_PorousAsteroid.rulePack.rulesStrings.0>
+  <VGE_NamerWorldObject_PorousAsteroid.rulePack.rulesStrings.1>terrain_word-&gt;сотовая скала</VGE_NamerWorldObject_PorousAsteroid.rulePack.rulesStrings.1>
+  <VGE_NamerWorldObject_PorousAsteroid.rulePack.rulesStrings.2>terrain_word-&gt;дырявый спутник</VGE_NamerWorldObject_PorousAsteroid.rulePack.rulesStrings.2>
+  <VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.0>terrain_word(p=4)-&gt;гигантский астероид</VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.0>
+  <VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.1>terrain_word-&gt;гигантская скала</VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.1>
+  <VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.2>terrain_word-&gt;гигантский спутник</VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.2>
+  <VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.3>terrain_word-&gt;гигантский планетоид</VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.3>
+  <VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.4>terrain_word-&gt;гигантская луна</VGE_NamerWorldObject_GiantAsteroid.rulePack.rulesStrings.4>
+  <VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.0>terrain_word(p=4)-&gt;расколотый астероид</VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.0>
+  <VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.1>terrain_word-&gt;расколотая скала</VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.1>
+  <VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.2>terrain_word-&gt;треснувший спутник</VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.2>
+  <VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.3>terrain_word-&gt;раздробленный планетоид</VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.3>
+  <VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.4>terrain_word-&gt;разорванная луна</VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings.4>
+  <VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.0>terrain_word(p=4)-&gt;плотный астероид</VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.0>
+  <VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.1>terrain_word-&gt;плотная скала</VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.1>
+  <VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.2>terrain_word-&gt;плотный спутник</VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.2>
+  <VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.3>terrain_word-&gt;плотный планетоид</VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.3>
+  <VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.4>terrain_word-&gt;плотная луна</VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings.4>
+  <VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.0>terrain_word(p=4)-&gt;малый астероид</VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.0>
+  <VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.1>terrain_word-&gt;малая скала</VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.1>
+  <VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.2>terrain_word-&gt;малый спутник</VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.2>
+  <VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.3>terrain_word-&gt;малый планетоид</VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.3>
+  <VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.4>terrain_word-&gt;малая луна</VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings.4>
+</LanguageData>

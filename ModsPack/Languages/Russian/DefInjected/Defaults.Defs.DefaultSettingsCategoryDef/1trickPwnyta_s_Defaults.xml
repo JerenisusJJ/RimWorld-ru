@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Storyteller.label>настройки рассказчика по умолчанию</Storyteller.label>
+  <Storyteller.description>Задайте настройки рассказчика и сложности по умолчанию для новой колонии, включая пользовательские настройки сложности.</Storyteller.description>
+  <World.label>настройки мира по умолчанию</World.label>
+  <World.description>Задайте мир, карту и настройки фракций по умолчанию для новой колонии.</World.description>
+  <Schedule.label>расписания колонистов по умолчанию</Schedule.label>
+  <Schedule.description>Задайте пользовательские расписания колонистов по умолчанию. Можно создать чередующиеся расписания, и мод будет назначать их новым колонистам по очереди.</Schedule.description>
+  <Schedule.worker.defaultSchedules.0.name>Расписание 1</Schedule.worker.defaultSchedules.0.name>
+  <Policies.label>политики по умолчанию</Policies.label>
+  <Policies.description>Задайте пользовательские политики одежды, питания, препаратов и чтения по умолчанию, которые будут копироваться в каждую новую колонию. Назначайте разные политики по умолчанию разным типам существ.</Policies.description>
+  <Policies.keywords.44>го-сок</Policies.keywords.44>
+  <Policies.keywords.47>бодрин</Policies.keywords.47>
+  <BabyFeeding.label>настройки кормления младенцев по умолчанию</BabyFeeding.label>
+  <BabyFeeding.description>Задайте настройку автокормления по умолчанию для колонистов в зависимости от родства с младенцем и от того, лактируют ли они. Задайте, какой едой по умолчанию можно кормить младенцев.</BabyFeeding.description>
+  <BabyFeeding.keywords.3>вынашивающие родители</BabyFeeding.keywords.3>
+  <Medicine.label>настройки лекарств по умолчанию</Medicine.label>
+  <Medicine.description>Задайте настройки лекарств по умолчанию для новой колонии, а также тип и количество лекарств, которые новые колонисты будут носить с собой.</Medicine.description>
+  <Rewards.label>предпочтения наград по умолчанию</Rewards.label>
+  <Rewards.description>Задайте предпочтения наград по умолчанию для новой колонии.</Rewards.description>
+  <ResourceCategories.label>расширенные категории ресурсов по умолчанию</ResourceCategories.label>
+  <ResourceCategories.description>Задайте, какие категории дерева ресурсов по умолчанию раскрыты в категорийном режиме.</ResourceCategories.description>
+  <Storage.label>настройки хранилищ по умолчанию</Storage.label>
+  <Storage.description>Настройте параметры по умолчанию для зон складов, зон свалки и зданий-хранилищ, например стеллажей. Можно также создать собственные типы зон складов со своими настройками.</Storage.description>
+  <WorkbenchBills.label>заказы верстаков по умолчанию</WorkbenchBills.label>
+  <WorkbenchBills.description>Задайте заказы верстаков по умолчанию, которые будут автоматически добавляться при постройке верстака.</WorkbenchBills.description>
+  <WorkbenchBills.keywords.51>очки здоровья</WorkbenchBills.keywords.51>
+  <AllowedAreas.label>разрешённые зоны по умолчанию</AllowedAreas.label>
+  <AllowedAreas.description>Создайте разрешённые зоны по умолчанию для новых колоний и определите, каким типам существ какие зоны назначаются автоматически.</AllowedAreas.description>
+  <Fishing.label>настройки зоны рыбалки по умолчанию</Fishing.label>
+  <Fishing.description>Настройте параметры зон рыбалки по умолчанию.</Fishing.description>
+  <WorkPriorities.label>приоритеты работ по умолчанию</WorkPriorities.label>
+  <WorkPriorities.description>Создайте приоритеты работ по умолчанию для новых колонистов в зависимости от их страстей и навыков.</WorkPriorities.description>
+  <WorkPriorities.keywords.11>постельный режим</WorkPriorities.keywords.11>
+  <WorkPriorities.keywords.21>лесозаготовка</WorkPriorities.keywords.21>
+  <WorkPriorities.keywords.28>изучение аномалий</WorkPriorities.keywords.28>
+  <PlaySettings.label>настройки игры по умолчанию</PlaySettings.label>
+  <PlaySettings.description>Настройте параметры игры по умолчанию. Обычно это кнопки-переключатели в правом нижнем углу экрана.</PlaySettings.description>
+  <Misc.label>прочие значения по умолчанию</Misc.label>
+  <Misc.description>Другие настройки по умолчанию, которые не вписываются в остальные категории.</Misc.description>
+  <General.label>общие настройки</General.label>
+  <General.description>Общие настройки этого мода.</General.description>
+</LanguageData>

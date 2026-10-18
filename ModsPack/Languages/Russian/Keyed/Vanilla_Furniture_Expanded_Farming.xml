@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEF_CommandMakeCompAreaDesc>Автоматически назначает указанную область вокруг этого объекта ({0}).</VFEF_CommandMakeCompAreaDesc>
+  <VFEF_CommandMakeCompAreaLabel>Назначить зону кормления</VFEF_CommandMakeCompAreaLabel>
+  <VFEF_ScarecrowGizmo>Отпугивать животных колонии</VFEF_ScarecrowGizmo>
+  <VFEF_ScarecrowGizmoText>Переключает, должно ли это пугало заставлять убегать и собственных животных колонии.</VFEF_ScarecrowGizmoText>
+</LanguageData>

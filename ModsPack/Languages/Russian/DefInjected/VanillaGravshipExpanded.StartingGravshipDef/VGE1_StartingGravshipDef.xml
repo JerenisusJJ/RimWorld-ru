@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_StartingGravjumper_Default.label>Стандартный</VGE_StartingGravjumper_Default.label>
+  <VGE_StartingGravjumper_Default.description>Стандартный стартовый гравипрыгун из Vanilla Gravships Expanded - Chapter 1.</VGE_StartingGravjumper_Default.description>
+  <VGE_StartingGravjumper_OdysseyDLC.label>Одиссей</VGE_StartingGravjumper_OdysseyDLC.label>
+  <VGE_StartingGravjumper_OdysseyDLC.description>Стартовый гравипрыгун, вдохновлённый DLC Odyssey.</VGE_StartingGravjumper_OdysseyDLC.description>
+  <VGE_StartingGravjumper_Runaway.label>Беглец</VGE_StartingGravjumper_Runaway.label>
+  <VGE_StartingGravjumper_Runaway.description>Большой, но сильно повреждённый гравипрыгун-беглец.</VGE_StartingGravjumper_Runaway.description>
+  <VGE_StartingGravjumper_Fighter.label>Истребитель</VGE_StartingGravjumper_Fighter.label>
+  <VGE_StartingGravjumper_Fighter.description>Небольшой боевой гравипрыгун с оборонительными турелями.</VGE_StartingGravjumper_Fighter.description>
+  <VGE_StartingGravjumper_Trader.label>Торговое судно</VGE_StartingGravjumper_Trader.label>
+  <VGE_StartingGravjumper_Trader.description>Гравипрыгун, способный торговать, с большим грузовым пространством.</VGE_StartingGravjumper_Trader.description>
+  <VGE_StartingGravjumper_TransportBarge.label>Транспортная баржа</VGE_StartingGravjumper_TransportBarge.label>
+  <VGE_StartingGravjumper_TransportBarge.description>Транспортная баржа с небольшой кабиной пилота.</VGE_StartingGravjumper_TransportBarge.description>
+  <VGE_StartingGravjumper_PersonnelTransport.label>Транспорт для персонала</VGE_StartingGravjumper_PersonnelTransport.label>
+  <VGE_StartingGravjumper_PersonnelTransport.description>Длинный транспорт для перевозки персонала со спальной кабиной.</VGE_StartingGravjumper_PersonnelTransport.description>
+</LanguageData>

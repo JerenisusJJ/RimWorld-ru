@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FirstTimeSettingsWarning>Впервые запускаете Simple Sidearms?\n\nЭтот значок означает, что настройки мода ещё не настроены. Он исчезнет после первого открытия меню настроек.\n\nНажмите, чтобы перейти к настройкам.</FirstTimeSettingsWarning>
+  <SidearmsPlaySounds_desc>Проигрывать звуки при смене оружия.</SidearmsPlaySounds_desc>
+  <SidearmsPlaySounds_title>Проигрывать звуки</SidearmsPlaySounds_title>
+  <ShowBrainscope_desc>Показывать кнопку отладки, раскрывающую внутреннее состояние выбранных существ.</ShowBrainscope_desc>
+  <ShowBrainscope_title>Показывать Brainscope</ShowBrainscope_title>
+  <MaximumMassAmountRelative_hint>В списке принята стандартная грузоподъёмность 35 кг</MaximumMassAmountRelative_hint>
+  <LimitModeAmount_option_None>Без ограничений</LimitModeAmount_option_None>
+  <Fumbled>Неудача!</Fumbled>
+  <Fumbled_dev>Неудача! ({0})</Fumbled_dev>
+  <SidearmPickupFail_NotYetBladelinkBonded>Ещё не привязано</SidearmPickupFail_NotYetBladelinkBonded>
+  <DrawSidearm_blocked>Оружие непригодно</DrawSidearm_blocked>
+  <SS_EquipWarning_CannotUseWithShield>Использование {0} не позволит использовать {1}.</SS_EquipWarning_CannotUseWithShield>
+  <SS_EquipWarning_WillUnequipOffhand>Экипировка {0} снимет оружие второй руки: {1}.</SS_EquipWarning_WillUnequipOffhand>
+  <SS_EquipOffandFail_NoPrimary>Нельзя экипировать {0} как оружие второй руки — сначала нужно основное оружие для пары.</SS_EquipOffandFail_NoPrimary>
+  <SS_EquipOffandFail_PrimaryTwoHanded>Нельзя экипировать {0} как оружие второй руки — {1} является двуручным оружием.</SS_EquipOffandFail_PrimaryTwoHanded>
+  <SS_EquipOffandFail_AlreadyHoldingShield>Нельзя экипировать {0} как оружие второй руки — уже в руке {1}.</SS_EquipOffandFail_AlreadyHoldingShield>
+  <SS_EquipAsOffand>Щёлкните левой кнопкой по значку второй руки, чтобы экипировать {0} как оружие второй руки.</SS_EquipAsOffand>
+  <SS_CanEquipAsOffand>Щёлкните левой кнопкой по значку второй руки, чтобы экипировать {0} как оружие второй руки.</SS_CanEquipAsOffand>
+</LanguageData>

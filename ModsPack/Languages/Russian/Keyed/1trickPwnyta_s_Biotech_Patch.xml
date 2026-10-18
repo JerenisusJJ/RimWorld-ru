@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BiotechPatch_Children>Дети</BiotechPatch_Children>
+  <BiotechPatch_Genetics>Генетика</BiotechPatch_Genetics>
+  <BiotechPatch_Mechanoids>Механоиды</BiotechPatch_Mechanoids>
+  <BiotechPatch_Misc>Прочее</BiotechPatch_Misc>
+  <BiotechPatch_WokeFromDeathrest>{PAWN_nameDef} закончил(а) смертельный сон.</BiotechPatch_WokeFromDeathrest>
+  <BiotechPatch_RestartRequired>(требуется перезапуск)</BiotechPatch_RestartRequired>
+  <BiotechPatch_DeathrestAutoWake>Автоматически включать автопробуждение для существ в смертельном сне</BiotechPatch_DeathrestAutoWake>
+  <BiotechPatch_MechsInColonistBar>Показывать механоидов в панели колонистов</BiotechPatch_MechsInColonistBar>
+  <BiotechPatch_MechsOutsideRadius>Разрешить перемещать механоидов и отдавать приказы о дальней атаке за пределами радиуса управления механитора</BiotechPatch_MechsOutsideRadius>
+  <BiotechPatch_HemogenExtractionSpam>Отключить сообщение об извлечении гемогена у враждебной фракции</BiotechPatch_HemogenExtractionSpam>
+  <BiotechPatch_DeathrestWakeupMessage>Показывать сообщение при автопробуждении из смертельного сна</BiotechPatch_DeathrestWakeupMessage>
+  <BiotechPatch_MechAutoRepair>Автоматически включать авторемонт для механоидов</BiotechPatch_MechAutoRepair>
+  <BiotechPatch_ChildLaborEncouraged>Детский труд: «поощряется» требует запланированной работы</BiotechPatch_ChildLaborEncouraged>
+  <BiotechPatch_AllowForbiddenXenogermImplantation>Разрешить имплантацию ксеногерма через вкладку здоровья для запрещённых ксеногермов</BiotechPatch_AllowForbiddenXenogermImplantation>
+  <BiotechPatch_DrugDeficiencyAlert>Показывать оповещение о нехватке препаратов из-за генов</BiotechPatch_DrugDeficiencyAlert>
+  <BiotechPatch_LoadGrowthVats>Заменить в тексте чанов роста «растёт» на «загружается»</BiotechPatch_LoadGrowthVats>
+  <BiotechPatch_AutoChildNicknamesDisabled>Отключить автоматические прозвища детям в моменты роста</BiotechPatch_AutoChildNicknamesDisabled>
+  <BiotechPatch_ChildrenGoByFirstName>По умолчанию называть детей по имени</BiotechPatch_ChildrenGoByFirstName>
+  <BiotechPatch_XenogermCreationForced>Приоритетное создание ксеногерма не прерывается по прихоти работника</BiotechPatch_XenogermCreationForced>
+  <BiotechPatch_GeneTraitsDontCancelIdentical>Одинаковые ксеногены и эндогены могут взаимно отменять друг друга</BiotechPatch_GeneTraitsDontCancelIdentical>
+  <BiotechPatch_GrowthMomentChoiceColors>Показывать цветные варианты черт и страстей в моменты роста в зависимости от пользы</BiotechPatch_GrowthMomentChoiceColors>
+  <BiotechPatch_GrowthMomentTraitSuppression>Черты, выбранные в момент роста, не подавляются генами, которые должны их подавлять</BiotechPatch_GrowthMomentTraitSuppression>
+  <BiotechPatch_CustomHybridXenotypes>Дети пользовательского ксенотипа и другого пользовательского ксенотипа или базового человека считаются базовыми людьми</BiotechPatch_CustomHybridXenotypes>
+  <BiotechPatch_BreastfeedingCanBeInterrupted>Грудное вскармливание можно прервать, если у кормящей есть более важные дела</BiotechPatch_BreastfeedingCanBeInterrupted>
+  <BiotechPatch_MoveBabyToSaferTempLater>Переносить младенца в более безопасную температуру, только когда у него температурная травма</BiotechPatch_MoveBabyToSaferTempLater>
+  <BiotechPatch_MechsControlledByCaravan>Механиторы в караванах могут управлять своими механоидами дома (радиус команд по-прежнему действует)</BiotechPatch_MechsControlledByCaravan>
+  <BiotechPatch_MechsCanSleepOnConduits>Разрешить механоидам самозаряжаться на проводах и других объектах, на которых можно стоять, кроме кресел</BiotechPatch_MechsCanSleepOnConduits>
+  <BiotechPatch_WastepackDeteriorationMuted>Не показывать сообщение о порче отходов в хранилищах вне домашней зоны</BiotechPatch_WastepackDeteriorationMuted>
+  <BiotechPatch_ResurrectedMechsRememberGroup>Умершие механоиды помнят свою группу управления после воскрешения</BiotechPatch_ResurrectedMechsRememberGroup>
+  <BiotechPatch_MechEnergyDepletedAlert>Сделать механоидов без энергии заметнее (оповещение и другой значок)</BiotechPatch_MechEnergyDepletedAlert>
+  <BiotechPatch_MechTaskPrioritization>Разрешить приоритизацию задач механоидам правым кликом</BiotechPatch_MechTaskPrioritization>
+  <BiotechPatch_WebbedPhalangesCanBeWet>Существам с перепончатыми фалангами всё равно, что они промокли насквозь</BiotechPatch_WebbedPhalangesCanBeWet>
+  <BiotechPatch_HemogenFarmAnyone>Добавить на вкладку здоровья людей переключатель, разрешающий добычу гемогена, даже у не заключённых</BiotechPatch_HemogenFarmAnyone>
+  <BiotechPatch_KillThirstSatisfiedInAnyMelee>Жажда убийства удовлетворяется в ближнем бою независимо от оружия</BiotechPatch_KillThirstSatisfiedInAnyMelee>
+  <BiotechPatch_BugFix>Исправление ошибки</BiotechPatch_BugFix>
+  <BiotechPatch_DrugDeficiencyAlertLabel>Нехватка препаратов</BiotechPatch_DrugDeficiencyAlertLabel>
+  <BiotechPatch_DrugDeficiencyAlertDesc>Нет жизненно необходимых препаратов:\n{0}</BiotechPatch_DrugDeficiencyAlertDesc>
+  <BiotechPatch_DrugDeficiencyComaAlertLabel>Кома из-за нехватки препаратов</BiotechPatch_DrugDeficiencyComaAlertLabel>
+  <BiotechPatch_DrugDeficiencyComaAlertDesc>Кто-то в коме из-за нехватки препаратов:\n{0}\n\nЕсли они не получат необходимые препараты, то в итоге умрут.</BiotechPatch_DrugDeficiencyComaAlertDesc>
+  <BiotechPatch_InputIsInvalid>Введите корректное значение.</BiotechPatch_InputIsInvalid>
+  <BiotechPatch_SuppressedBy>Подавлено</BiotechPatch_SuppressedBy>
+  <BiotechPatch_AlertMechEnergyDepleted>Энергия механоида исчерпана</BiotechPatch_AlertMechEnergyDepleted>
+  <BiotechPatch_AlertMechEnergyDepletedDesc>У одного или нескольких механоидов колонии полностью закончилась энергия, их нужно отнести к зарядному устройству.</BiotechPatch_AlertMechEnergyDepletedDesc>
+  <BiotechPatch_HemogenFarm>Ферма гемогена:</BiotechPatch_HemogenFarm>
+  <BiotechPatch_HemogenFarmTip>Операция по извлечению пакетов гемогена будет автоматически назначаться этому колонисту, когда её можно провести, не убивая его. Операцию проведёт врач.</BiotechPatch_HemogenFarmTip>
+</LanguageData>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: petting an animal -->
+	<Flourish_Pet_KneelScratch.label>petting an animal</Flourish_Pet_KneelScratch.label>
+	<!-- EN: Drops to one knee beside the animal with a hand out, scratches it in quick strokes with a pause between, a heart now and then, and gets up again. Plays while taming and training. -->
+	<Flourish_Pet_KneelScratch.description>Drops to one knee beside the animal with a hand out, scratches it in quick strokes with a pause between, a heart now and then, and gets up again. Plays while taming and training.</Flourish_Pet_KneelScratch.description>
+	<!-- EN: tending a patient -->
+	<Flourish_Tend_Kneel.label>tending a patient</Flourish_Tend_Kneel.label>
+	<!-- EN: Kneels over the patient with the brows down (Facial Animation), both hands working in alternating presses, a pause to look, more work, a healing cross, and straightens up. -->
+	<Flourish_Tend_Kneel.description>Kneels over the patient with the brows down (Facial Animation), both hands working in alternating presses, a pause to look, more work, a healing cross, and straightens up.</Flourish_Tend_Kneel.description>
+	<!-- EN: cradling a baby -->
+	<Flourish_Cradle_Rock.label>cradling a baby</Flourish_Cradle_Rock.label>
+	<!-- EN: Both hands cradled at the chest, rocking slowly from side to side with the whole body, a look down at the baby and a blush (Facial Animation). Feeding a baby, and playing with one. -->
+	<Flourish_Cradle_Rock.description>Both hands cradled at the chest, rocking slowly from side to side with the whole body, a look down at the baby and a blush (Facial Animation). Feeding a baby, and playing with one.</Flourish_Cradle_Rock.description>
+	<!-- EN: hugging it close -->
+	<Flourish_Hug_Close.label>hugging it close</Flourish_Hug_Close.label>
+	<!-- EN: Both arms wrapped around it against the chest, a squeeze that squashes the whole body with the eyes shut (Facial Animation), a sway from side to side, and a blush. The golden cube. -->
+	<Flourish_Hug_Close.description>Both arms wrapped around it against the chest, a squeeze that squashes the whole body with the eyes shut (Facial Animation), a sway from side to side, and a blush. The golden cube.</Flourish_Hug_Close.description>
+	<!-- EN: feeding a patient -->
+	<Flourish_Feed_Spoon.label>feeding a patient</Flourish_Feed_Spoon.label>
+	<!-- EN: Leans over the bed with a hand steadying on it, carries a spoon from the bowl out to the patient, holds it there for the mouthful, and brings it back. Two spoonfuls a loop. -->
+	<Flourish_Feed_Spoon.description>Leans over the bed with a hand steadying on it, carries a spoon from the bowl out to the patient, holds it there for the mouthful, and brings it back. Two spoonfuls a loop.</Flourish_Feed_Spoon.description>
+	<!-- EN: milking -->
+	<Flourish_Milk_Pull.label>milking</Flourish_Milk_Pull.label>
+	<!-- EN: Crouched at the animal's flank with both hands pulling down in turn in a steady rhythm, then a lean back to check the pail before going on. -->
+	<Flourish_Milk_Pull.description>Crouched at the animal's flank with both hands pulling down in turn in a steady rhythm, then a lean back to check the pail before going on.</Flourish_Milk_Pull.description>
+	<!-- EN: training an animal -->
+	<Flourish_Train_Command.label>training an animal</Flourish_Train_Command.label>
+	<!-- EN: A pointed command with a stamp of the foot and a shout (Facial Animation), a wait with the hands on the hips, then a crouch with a treat held out low and a heart. Picked instead of the kneel-scratch for some trainers. -->
+	<Flourish_Train_Command.description>A pointed command with a stamp of the foot and a shout (Facial Animation), a wait with the hands on the hips, then a crouch with a treat held out low and a heart. Picked instead of the kneel-scratch for some trainers.</Flourish_Train_Command.description>
+	<!-- EN: holding a patient's hand -->
+	<Flourish_VisitSick_HoldHand.label>holding a patient's hand</Flourish_VisitSick_HoldHand.label>
+	<!-- EN: Leans over the bed and reaches out to take the patient's hand, holds it with a squeeze now and then and a calm face (Facial Animation), and talks quietly. -->
+	<Flourish_VisitSick_HoldHand.description>Leans over the bed and reaches out to take the patient's hand, holds it with a squeeze now and then and a calm face (Facial Animation), and talks quietly.</Flourish_VisitSick_HoldHand.description>
+	<!-- EN: operating -->
+	<Flourish_Surgery_Focus.label>operating</Flourish_Surgery_Focus.label>
+	<!-- EN: Bent over the patient with the brows down (Facial Animation) and both hands working close together in small quick moves, a pause to wipe a sweat drop off the brow with the back of a hand, and back in. -->
+	<Flourish_Surgery_Focus.description>Bent over the patient with the brows down (Facial Animation) and both hands working close together in small quick moves, a pause to wipe a sweat drop off the brow with the back of a hand, and back in.</Flourish_Surgery_Focus.description>
+	<!-- EN: preening -->
+	<Flourish_Style_Preen.label>preening</Flourish_Style_Preen.label>
+	<!-- EN: Both hands fussing at the hair, a turn of the head to each side to check it, a sparkle, and a satisfied nod. Styling, dyeing and the mirror. -->
+	<Flourish_Style_Preen.description>Both hands fussing at the hair, a turn of the head to each side to check it, a sparkle, and a satisfied nod. Styling, dyeing and the mirror.</Flourish_Style_Preen.description>
+	<!-- EN: getting dressed -->
+	<Flourish_Dress_PullOn.label>getting dressed</Flourish_Dress_PullOn.label>
+	<!-- EN: Both arms raised up through the garment with the body stretched tall, a tug down that squashes the body, and a shrug of the shoulders to settle it. -->
+	<Flourish_Dress_PullOn.description>Both arms raised up through the garment with the body stretched tall, a tug down that squashes the body, and a shrug of the shoulders to settle it.</Flourish_Dress_PullOn.description>
+	<!-- EN: undressing -->
+	<Flourish_Undress_PullOff.label>undressing</Flourish_Undress_PullOff.label>
+	<!-- EN: The garment gripped low with a crouch, hauled up over the head with the body stretched tall, a shake of it out, and the arms dropping. -->
+	<Flourish_Undress_PullOff.description>The garment gripped low with a crouch, hauled up over the head with the body stretched tall, a shake of it out, and the arms dropping.</Flourish_Undress_PullOff.description>
+	<!-- EN: researching -->
+	<Flourish_Research_Eureka.label>researching</Flourish_Research_Eureka.label>
+	<!-- EN: Chin in hand through a long think with the brows down (Facial Animation), three dots, then the idea: a jolt upright with both hands up and a lightbulb, a quick scribble with one hand, and back to the chin. -->
+	<Flourish_Research_Eureka.description>Chin in hand through a long think with the brows down (Facial Animation), three dots, then the idea: a jolt upright with both hands up and a lightbulb, a quick scribble with one hand, and back to the chin.</Flourish_Research_Eureka.description>
+	<!-- EN: studying -->
+	<Flourish_Study_Peer.label>studying</Flourish_Study_Peer.label>
+	<!-- EN: A lean in close with a hand shading the eyes and the brows down (Facial Animation), a question mark, a step back with the arms folded, and a note scribbled into the palm. -->
+	<Flourish_Study_Peer.description>A lean in close with a hand shading the eyes and the brows down (Facial Animation), a question mark, a step back with the arms folded, and a note scribbled into the palm.</Flourish_Study_Peer.description>
+	<!-- EN: hacking -->
+	<Flourish_Hack_Type.label>hacking</Flourish_Hack_Type.label>
+	<!-- EN: Both hands typing fast with a lean in and the brows down (Facial Animation), a freeze with a sweat drop, a slam of one hand on the console with a burst, and a lean back with the arms crossed. -->
+	<Flourish_Hack_Type.description>Both hands typing fast with a lean in and the brows down (Facial Animation), a freeze with a sweat drop, a slam of one hand on the console with a burst, and a lean back with the arms crossed.</Flourish_Hack_Type.description>
+	<!-- EN: sowing -->
+	<Flourish_Sow_Kneel.label>sowing</Flourish_Sow_Kneel.label>
+	<!-- EN: Kneeling with the free hand planted, the other going from the seed pouch at the hip down into the soil and pressing a seed in with a small puff, four times a loop, then a shuffle forward. -->
+	<Flourish_Sow_Kneel.description>Kneeling with the free hand planted, the other going from the seed pouch at the hip down into the soil and pressing a seed in with a small puff, four times a loop, then a shuffle forward.</Flourish_Sow_Kneel.description>
+	<!-- EN: beating out a fire -->
+	<Flourish_Fire_Beat.label>beating out a fire</Flourish_Fire_Beat.label>
+	<!-- EN: Both arms swung down from over the shoulder onto the flames, each beat a hard snap with a squash and a burst of smoke, a stamp of the foot between, the face screwed up against the heat (Facial Animation). -->
+	<Flourish_Fire_Beat.description>Both arms swung down from over the shoulder onto the flames, each beat a hard snap with a squash and a burst of smoke, a stamp of the foot between, the face screwed up against the heat (Facial Animation).</Flourish_Fire_Beat.description>
+	<!-- EN: cowering -->
+	<Flourish_Cower_Hide.label>cowering</Flourish_Cower_Hide.label>
+	<!-- EN: Crouched as small as the body goes with both hands clamped over the head, a shiver, one peek out with the eyes screwed up (Facial Animation) and a sweat drop, and back down. -->
+	<Flourish_Cower_Hide.description>Crouched as small as the body goes with both hands clamped over the head, a shiver, one peek out with the eyes screwed up (Facial Animation) and a sweat drop, and back down.</Flourish_Cower_Hide.description>
+	<!-- EN: using an artifact -->
+	<Flourish_Item_Activate.label>using an artifact</Flourish_Item_Activate.label>
+	<!-- EN: Holds the thing in both hands, raises it slowly to the face, then a flash of sparkles and a stagger back with the body stretched tall and the eyes wide (Facial Animation). -->
+	<Flourish_Item_Activate.description>Holds the thing in both hands, raises it slowly to the face, then a flash of sparkles and a stagger back with the body stretched tall and the eyes wide (Facial Animation).</Flourish_Item_Activate.description>
+	<!-- EN: controlling a mech -->
+	<Flourish_Mechanitor_Temple.label>controlling a mech</Flourish_Mechanitor_Temple.label>
+	<!-- EN: Two fingers pressed to the temple with the eyes shut (Facial Animation), the other hand held out toward the mech and pointing it on, a sparkle at the temple. -->
+	<Flourish_Mechanitor_Temple.description>Two fingers pressed to the temple with the eyes shut (Facial Animation), the other hand held out toward the mech and pointing it on, a sparkle at the temple.</Flourish_Mechanitor_Temple.description>
+	<!-- EN: praying -->
+	<Flourish_Pray_Kneel.label>praying</Flourish_Pray_Kneel.label>
+	<!-- EN: Down on both knees with the hands clasped at the chest and the head bowed, eyes shut (Facial Animation), one slow breath, then the clasped hands raised and lowered again. -->
+	<Flourish_Pray_Kneel.description>Down on both knees with the hands clasped at the chest and the head bowed, eyes shut (Facial Animation), one slow breath, then the clasped hands raised and lowered again.</Flourish_Pray_Kneel.description>
+	<!-- EN: reigning -->
+	<Flourish_Reign_Throne.label>reigning</Flourish_Reign_Throne.label>
+	<!-- EN: Sat back and tall on the throne with the chin up, fingers drumming the armrest, a bored sigh, and a lazy wave of the hand at whoever is asking. -->
+	<Flourish_Reign_Throne.description>Sat back and tall on the throne with the chin up, fingers drumming the armrest, a bored sigh, and a lazy wave of the hand at whoever is asking.</Flourish_Reign_Throne.description>
+	<!-- EN: grazing -->
+	<Flourish_Eat_Graze.label>grazing</Flourish_Eat_Graze.label>
+	<!-- EN: A lean down to the food, a small tug back with a squash, and a settle before the next mouthful. Plays for animals and mechs eating; humans have their own eating animation. -->
+	<Flourish_Eat_Graze.description>A lean down to the food, a small tug back with a squash, and a settle before the next mouthful. Plays for animals and mechs eating; humans have their own eating animation.</Flourish_Eat_Graze.description>
+	<!-- EN: eating -->
+	<Flourish_Eat_Chew.label>eating</Flourish_Eat_Chew.label>
+	<!-- EN: The hand brings the food up to the mouth, a bite tears off with a jerk back, the hand drops to the plate while the mouth chews (Facial Animation), and the body settles for the next bite. -->
+	<Flourish_Eat_Chew.description>The hand brings the food up to the mouth, a bite tears off with a jerk back, the hand drops to the plate while the mouth chews (Facial Animation), and the body settles for the next bite.</Flourish_Eat_Chew.description>
+	<!-- EN: drinking -->
+	<Flourish_Drink_Gulp.label>drinking</Flourish_Drink_Gulp.label>
+	<!-- EN: Raises the drink to the mouth as the head tips back, holds there with the lips parted (Facial Animation), gulps with a squash of the whole body, and lowers the cup. -->
+	<Flourish_Drink_Gulp.description>Raises the drink to the mouth as the head tips back, holds there with the lips parted (Facial Animation), gulps with a squash of the whole body, and lowers the cup.</Flourish_Drink_Gulp.description>
+	<!-- EN: vomiting -->
+	<Flourish_Vomit_Heave.label>vomiting</Flourish_Vomit_Heave.label>
+	<!-- EN: Doubles over in a heave with both hands to the mouth, holds, heaves again smaller, and straightens up slowly with the hands dropping. The game spawns the vomit itself. -->
+	<Flourish_Vomit_Heave.description>Doubles over in a heave with both hands to the mouth, holds, heaves again smaller, and straightens up slowly with the hands dropping. The game spawns the vomit itself.</Flourish_Vomit_Heave.description>
+	<!-- EN: stretching and yawning -->
+	<Flourish_Idle_Stretch.label>stretching and yawning</Flourish_Idle_Stretch.label>
+	<!-- EN: A tired colonist reaches both arms overhead and draws the body tall with a yawn (Facial Animation), holds it, then lets everything drop into a slump before standing normally again. -->
+	<Flourish_Idle_Stretch.description>A tired colonist reaches both arms overhead and draws the body tall with a yawn (Facial Animation), holds it, then lets everything drop into a slump before standing normally again.</Flourish_Idle_Stretch.description>
+	<!-- EN: shivering -->
+	<Flourish_Cold_Shiver.label>shivering</Flourish_Cold_Shiver.label>
+	<!-- EN: Hunched small against the cold, rubbing both hands together at the chest in quick strokes, with a shiver running through the body and a wince (Facial Animation). Below 8 C, while standing about. -->
+	<Flourish_Cold_Shiver.description>Hunched small against the cold, rubbing both hands together at the chest in quick strokes, with a shiver running through the body and a wince (Facial Animation). Below 8 C, while standing about.</Flourish_Cold_Shiver.description>
+	<!-- EN: fanning in the heat -->
+	<Flourish_Heat_Fan.label>fanning in the heat</Flourish_Heat_Fan.label>
+	<!-- EN: Leaning back and panting (Facial Animation), one hand fanning the face in quick flicks, the other wiping across the brow once a loop. Above 34 C, while standing about. -->
+	<Flourish_Heat_Fan.description>Leaning back and panting (Facial Animation), one hand fanning the face in quick flicks, the other wiping across the brow once a loop. Above 34 C, while standing about.</Flourish_Heat_Fan.description>
+	<!-- EN: lying awake -->
+	<Flourish_Bed_Restless.label>lying awake</Flourish_Bed_Restless.label>
+	<!-- EN: Lying in bed awake: a sigh, an arm flung over the eyes and held there, a shift on the mattress, and the arm sliding off. Never while asleep. -->
+	<Flourish_Bed_Restless.description>Lying in bed awake: a sigh, an arm flung over the eyes and held there, a shift on the mattress, and the arm sliding off. Never while asleep.</Flourish_Bed_Restless.description>
+	<!-- EN: coughing in bed -->
+	<Flourish_Bed_Cough.label>coughing in bed</Flourish_Bed_Cough.label>
+	<!-- EN: Sick in bed: three coughs that jerk the body with a hand to the mouth, a wince (Facial Animation), and a slump back into the pillow. While a disease, food poisoning or a hangover is on the pawn. -->
+	<Flourish_Bed_Cough.description>Sick in bed: three coughs that jerk the body with a hand to the mouth, a wince (Facial Animation), and a slump back into the pillow. While a disease, food poisoning or a hangover is on the pawn.</Flourish_Bed_Cough.description>
+	<!-- EN: clutching a wound -->
+	<Flourish_Pain_Clutch.label>clutching a wound</Flourish_Pain_Clutch.label>
+	<!-- EN: A hand pressed to the side with a hunch and a wince (Facial Animation), a moment held, then straightening carefully. While standing about with pain of 30% or more. -->
+	<Flourish_Pain_Clutch.description>A hand pressed to the side with a hunch and a wince (Facial Animation), a moment held, then straightening carefully. While standing about with pain of 30% or more.</Flourish_Pain_Clutch.description>
+	<!-- EN: bored -->
+	<Flourish_Bored_Scuff.label>bored</Flourish_Bored_Scuff.label>
+	<!-- EN: Hands hanging, a scuff of the foot at the ground with a puff of dust, a slump, and a sigh. While standing about with recreation below 30%. -->
+	<Flourish_Bored_Scuff.description>Hands hanging, a scuff of the foot at the ground with a puff of dust, a slump, and a sigh. While standing about with recreation below 30%.</Flourish_Bored_Scuff.description>
+	<!-- EN: miserable -->
+	<Flourish_Sad_Slump.label>miserable</Flourish_Sad_Slump.label>
+	<!-- EN: Head down and shoulders in, a hand coming up to wipe at the eye, a tear, and a sigh. While standing about with mood below 30%. -->
+	<Flourish_Sad_Slump.description>Head down and shoulders in, a hand coming up to wipe at the eye, a tear, and a sigh. While standing about with mood below 30%.</Flourish_Sad_Slump.description>
+	<!-- EN: delighted -->
+	<Flourish_Happy_Hop.label>delighted</Flourish_Happy_Hop.label>
+	<!-- EN: A crouch and a hop with both arms thrown up and the body stretched tall, a sparkle, and a laugh (Facial Animation) on landing. While standing about with mood above 90%. -->
+	<Flourish_Happy_Hop.description>A crouch and a hop with both arms thrown up and the body stretched tall, a sparkle, and a laugh (Facial Animation) on landing. While standing about with mood above 90%.</Flourish_Happy_Hop.description>
+	<!-- EN: hungry -->
+	<Flourish_Hungry_Clutch.label>hungry</Flourish_Hungry_Clutch.label>
+	<!-- EN: A hand to the stomach and a hunch as it grumbles, then straightening with a glance around for food. While standing about with food below 20%. -->
+	<Flourish_Hungry_Clutch.description>A hand to the stomach and a hunch as it grumbles, then straightening with a glance around for food. While standing about with food below 20%.</Flourish_Hungry_Clutch.description>
+	<!-- EN: drunk -->
+	<Flourish_Drunk_Hiccup.label>drunk</Flourish_Drunk_Hiccup.label>
+	<!-- EN: A sway that never settles, a hiccup that jumps the whole body with a squash, the game's own drunk bubble, and a dizzy spiral. While drunk, standing about. -->
+	<Flourish_Drunk_Hiccup.description>A sway that never settles, a hiccup that jumps the whole body with a squash, the game's own drunk bubble, and a dizzy spiral. While drunk, standing about.</Flourish_Drunk_Hiccup.description>
+	<!-- EN: smoking -->
+	<Flourish_Smoke_Draw.label>smoking</Flourish_Smoke_Draw.label>
+	<!-- EN: Brings the joint up to the mouth, takes a long draw with the eyes shut (Facial Animation), lowers the hand, and lets the smoke out in a slow puff. -->
+	<Flourish_Smoke_Draw.description>Brings the joint up to the mouth, takes a long draw with the eyes shut (Facial Animation), lowers the hand, and lets the smoke out in a slow puff.</Flourish_Smoke_Draw.description>
+	<!-- EN: playing billiards -->
+	<Flourish_Pool_Shot.label>playing billiards</Flourish_Pool_Shot.label>
+	<!-- EN: Bends low over the table with the bridge hand forward and the cue hand drawn back, takes two slow practice strokes, shoots in five ticks with a stretch through the body, and stands up to watch the balls. -->
+	<Flourish_Pool_Shot.description>Bends low over the table with the bridge hand forward and the cue hand drawn back, takes two slow practice strokes, shoots in five ticks with a stretch through the body, and stands up to watch the balls.</Flourish_Pool_Shot.description>
+	<!-- EN: playing poker -->
+	<Flourish_Poker_Bluff.label>playing poker</Flourish_Poker_Bluff.label>
+	<!-- EN: Holds the cards close in both hands, peeks at them with a sly look (Facial Animation), slaps a card down on the table with a squash, and leans back with the arms spread to see what it does. -->
+	<Flourish_Poker_Bluff.description>Holds the cards close in both hands, peeks at them with a sly look (Facial Animation), slaps a card down on the table with a squash, and leans back with the arms spread to see what it does.</Flourish_Poker_Bluff.description>
+	<!-- EN: playing chess -->
+	<Flourish_Chess_Move.label>playing chess</Flourish_Chess_Move.label>
+	<!-- EN: Chin resting in one hand through a long think with the brows down (Facial Animation), then the hand drifts out over the board, lifts a piece, sets it down with a tap, and returns to the chin. -->
+	<Flourish_Chess_Move.description>Chin resting in one hand through a long think with the brows down (Facial Animation), then the hand drifts out over the board, lifts a piece, sets it down with a tap, and returns to the chin.</Flourish_Chess_Move.description>
+	<!-- EN: playing game of ur -->
+	<Flourish_Ur_DiceThrow.label>playing game of ur</Flourish_Ur_DiceThrow.label>
+	<!-- EN: Shakes the dice in a fist beside the head, flings them onto the board with a stretch through the body, and leans in over the table to see how they fell. -->
+	<Flourish_Ur_DiceThrow.description>Shakes the dice in a fist beside the head, flings them onto the board with a stretch through the body, and leans in over the table to see how they fell.</Flourish_Ur_DiceThrow.description>
+	<!-- EN: throwing horseshoes and hoopstones -->
+	<Flourish_Throw_Underhand.label>throwing horseshoes and hoopstones</Flourish_Throw_Underhand.label>
+	<!-- EN: The throwing arm swings back low with a lean away, then a step and an underhand throw that stretches the body forward, and a settle to watch it land. The game draws the horseshoe in flight. -->
+	<Flourish_Throw_Underhand.description>The throwing arm swings back low with a lean away, then a step and an underhand throw that stretches the body forward, and a settle to watch it land. The game draws the horseshoe in flight.</Flourish_Throw_Underhand.description>
+	<!-- EN: playing an instrument -->
+	<Flourish_Instrument_Strum.label>playing an instrument</Flourish_Instrument_Strum.label>
+	<!-- EN: One hand at the neck, the other strumming down across the body on every beat, the body swaying and leaning into the phrase with the eyes closed (Facial Animation), notes drifting up. -->
+	<Flourish_Instrument_Strum.description>One hand at the neck, the other strumming down across the body on every beat, the body swaying and leaning into the phrase with the eyes closed (Facial Animation), notes drifting up.</Flourish_Instrument_Strum.description>
+	<!-- EN: watching television -->
+	<Flourish_TV_Slouch.label>watching television</Flourish_TV_Slouch.label>
+	<!-- EN: Slouched back with the hands in the lap, still; every so often a laugh (Facial Animation) rocks the body forward with a slap on the knee, then the slouch settles back. -->
+	<Flourish_TV_Slouch.description>Slouched back with the hands in the lap, still; every so often a laugh (Facial Animation) rocks the body forward with a slap on the knee, then the slouch settles back.</Flourish_TV_Slouch.description>
+	<!-- EN: reading -->
+	<Flourish_Read_PageTurn.label>reading</Flourish_Read_PageTurn.label>
+	<!-- EN: Holds the book up in both hands with a slight lean in, turns a page with a flick of one hand across to the other side, and settles back into it. -->
+	<Flourish_Read_PageTurn.description>Holds the book up in both hands with a slight lean in, turns a page with a flick of one hand across to the other side, and settles back into it.</Flourish_Read_PageTurn.description>
+	<!-- EN: using a telescope -->
+	<Flourish_Telescope_Peer.label>using a telescope</Flourish_Telescope_Peer.label>
+	<!-- EN: Brings a hand up to the eyepiece and leans in, holds a long still look with the eyes narrowed (Facial Animation), nudges the tube with the other hand, and steps back to look at the sky. -->
+	<Flourish_Telescope_Peer.description>Brings a hand up to the eyepiece and leans in, holds a long still look with the eyes narrowed (Facial Animation), nudges the tube with the other hand, and steps back to look at the sky.</Flourish_Telescope_Peer.description>
+	<!-- EN: building a snowman -->
+	<Flourish_Snowman_Pack.label>building a snowman</Flourish_Snowman_Pack.label>
+	<!-- EN: Kneels in the snow and packs it with both hands in alternating pushes, each landing with a squash and a puff of snow, then leans back to look at it before going in again. -->
+	<Flourish_Snowman_Pack.description>Kneels in the snow and packs it with both hands in alternating pushes, each landing with a squash and a puff of snow, then leans back to look at it before going in again.</Flourish_Snowman_Pack.description>
+	<!-- EN: visiting a grave -->
+	<Flourish_Grave_Mourn.label>visiting a grave</Flourish_Grave_Mourn.label>
+	<!-- EN: Hands clasped low in front, the head bowed with the eyes closed (Facial Animation), a long stillness, then one hand reaches down and rests on the stone before the pawn straightens. -->
+	<Flourish_Grave_Mourn.description>Hands clasped low in front, the head bowed with the eyes closed (Facial Animation), a long stillness, then one hand reaches down and rests on the stone before the pawn straightens.</Flourish_Grave_Mourn.description>
+	<!-- EN: folding at poker -->
+	<Flourish_Poker_Fold.label>folding at poker</Flourish_Poker_Fold.label>
+	<!-- EN: A long stare at the cards with a sweat drop, then the cards thrown down on the table in disgust with a squash, and the arms crossed with an anger mark. Picked instead of the bluff for some pawns. -->
+	<Flourish_Poker_Fold.description>A long stare at the cards with a sweat drop, then the cards thrown down on the table in disgust with a squash, and the arms crossed with an anger mark. Picked instead of the bluff for some pawns.</Flourish_Poker_Fold.description>
+	<!-- EN: drumming -->
+	<Flourish_Instrument_Drum.label>drumming</Flourish_Instrument_Drum.label>
+	<!-- EN: Both hands beating the drum alternately, each strike a snap down with a squash and an impact burst, the body rocking to the beat, a shout every so often (Facial Animation). -->
+	<Flourish_Instrument_Drum.description>Both hands beating the drum alternately, each strike a snap down with a squash and an impact burst, the body rocking to the beat, a shout every so often (Facial Animation).</Flourish_Instrument_Drum.description>
+	<!-- EN: playing the piano -->
+	<Flourish_Instrument_Keys.label>playing the piano</Flourish_Instrument_Keys.label>
+	<!-- EN: Both hands running along the keys in opposite directions, a lean into the loud bar with the eyes shut (Facial Animation), and a flourish with one hand lifted high and brought down. Piano and harpsichord. -->
+	<Flourish_Instrument_Keys.description>Both hands running along the keys in opposite directions, a lean into the loud bar with the eyes shut (Facial Animation), and a flourish with one hand lifted high and brought down. Piano and harpsichord.</Flourish_Instrument_Keys.description>
+	<!-- EN: playing the harp -->
+	<Flourish_Instrument_Harp.label>playing the harp</Flourish_Instrument_Harp.label>
+	<!-- EN: One hand plucking down the strings in a long slow glissando and back up in quick picks, the other resting on the frame, the head tilted to it with the eyes shut (Facial Animation). -->
+	<Flourish_Instrument_Harp.description>One hand plucking down the strings in a long slow glissando and back up in quick picks, the other resting on the frame, the head tilted to it with the eyes shut (Facial Animation).</Flourish_Instrument_Harp.description>
+	<!-- EN: drawing on the floor -->
+	<Flourish_Kid_FloorDraw.label>drawing on the floor</Flourish_Kid_FloorDraw.label>
+	<!-- EN: Kneeling with one hand scribbling in loops on the floor and the other planted beside it, a sit back to look at the drawing with a sparkle, and back to it. -->
+	<Flourish_Kid_FloorDraw.description>Kneeling with one hand scribbling in loops on the floor and the other planted beside it, a sit back to look at the drawing with a sparkle, and back to it.</Flourish_Kid_FloorDraw.description>
+	<!-- EN: daydreaming -->
+	<Flourish_Kid_Skydream.label>daydreaming</Flourish_Kid_Skydream.label>
+	<!-- EN: On the back with both hands folded behind the head, a slow roll of the body from side to side, and a sparkle drifting up now and then. -->
+	<Flourish_Kid_Skydream.description>On the back with both hands folded behind the head, a slow roll of the body from side to side, and a sparkle drifting up now and then.</Flourish_Kid_Skydream.description>
+	<!-- EN: raising a hand -->
+	<Flourish_Kid_RaiseHand.label>raising a hand</Flourish_Kid_RaiseHand.label>
+	<!-- EN: Sitting up straight for the lesson, then a hand shooting up with a bounce and an exclamation mark, held waving a little, and dropping back down. Picked instead of reading for some pupils. -->
+	<Flourish_Kid_RaiseHand.description>Sitting up straight for the lesson, then a hand shooting up with a bounce and an exclamation mark, held waving a little, and dropping back down. Picked instead of reading for some pupils.</Flourish_Kid_RaiseHand.description>
+	<!-- EN: watching someone work -->
+	<Flourish_Kid_Workwatch.label>watching someone work</Flourish_Kid_Workwatch.label>
+	<!-- EN: Hands clasped behind the back, a lean in to see what is being done with a rock up onto the toes, a question mark, and a rock back down. -->
+	<Flourish_Kid_Workwatch.description>Hands clasped behind the back, a lean in to see what is being done with a rock up onto the toes, a question mark, and a rock back down.</Flourish_Kid_Workwatch.description>
+	<!-- EN: contemplating art -->
+	<Flourish_Art_Contemplate.label>contemplating art</Flourish_Art_Contemplate.label>
+	<!-- EN: A hand stroking the chin with the head tilted, a step back to take it in, three dots of thought, then an idea and a slow nod. -->
+	<Flourish_Art_Contemplate.description>A hand stroking the chin with the head tilted, a step back to take it in, three dots of thought, then an idea and a slow nod.</Flourish_Art_Contemplate.description>
+	<!-- EN: fishing -->
+	<Flourish_Fish_Cast.label>fishing</Flourish_Fish_Cast.label>
+	<!-- EN: The cast: both hands drawn back over the shoulder, a whip forward with a stretch and a splash out on the water, then a long still wait, and a tug that jerks the body back with a "!". -->
+	<Flourish_Fish_Cast.description>The cast: both hands drawn back over the shoulder, a whip forward with a stretch and a splash out on the water, then a long still wait, and a tug that jerks the body back with a "!".</Flourish_Fish_Cast.description>
+	<!-- EN: catching raindrops -->
+	<Flourish_Sky_CatchRain.label>catching raindrops</Flourish_Sky_CatchRain.label>
+	<!-- EN: Face turned up into the rain with the eyes shut (Facial Animation), one palm held out flat to catch the drops, a splash landing in it now and then, and a shake of the wet hand once a loop. While standing about outdoors in the rain. -->
+	<Flourish_Sky_CatchRain.description>Face turned up into the rain with the eyes shut (Facial Animation), one palm held out flat to catch the drops, a splash landing in it now and then, and a shake of the wet hand once a loop. While standing about outdoors in the rain.</Flourish_Sky_CatchRain.description>
+	<!-- EN: catching snowflakes -->
+	<Flourish_Sky_CatchSnow.label>catching snowflakes</Flourish_Sky_CatchSnow.label>
+	<!-- EN: Both palms held out and the face turned up with the mouth open (Facial Animation), rising onto the toes now and then to reach a flake, with a puff of white when one lands in a hand. While standing about outdoors in the snow. -->
+	<Flourish_Sky_CatchSnow.description>Both palms held out and the face turned up with the mouth open (Facial Animation), rising onto the toes now and then to reach a flake, with a puff of white when one lands in a hand. While standing about outdoors in the snow.</Flourish_Sky_CatchSnow.description>
+	<!-- EN: skygazing -->
+	<Flourish_Sky_Stargaze.label>skygazing</Flourish_Sky_Stargaze.label>
+	<!-- EN: Lying on the back with both hands folded behind the head, then one arm swings out to point at something up there and holds before folding back. Clouds by day, stars by night. -->
+	<Flourish_Sky_Stargaze.description>Lying on the back with both hands folded behind the head, then one arm swings out to point at something up there and holds before folding back. Clouds by day, stars by night.</Flourish_Sky_Stargaze.description>
+	<!-- EN: basking in the sun -->
+	<Flourish_Sky_SunBask.label>basking in the sun</Flourish_Sky_SunBask.label>
+	<!-- EN: Face turned up to the sun with the eyes shut (Facial Animation), arms out a little from the sides, one slow breath that lifts the whole body, and a sparkle. Clear warm days, standing about outdoors. -->
+	<Flourish_Sky_SunBask.description>Face turned up to the sun with the eyes shut (Facial Animation), arms out a little from the sides, one slow breath that lifts the whole body, and a sparkle. Clear warm days, standing about outdoors.</Flourish_Sky_SunBask.description>
+	<!-- EN: sleeping -->
+	<Flourish_Sleep_TurnOver.label>sleeping</Flourish_Sleep_TurnOver.label>
+	<!-- EN: A sleeper turns over now and then: a new facing, a shift on the mattress and a tilt, held for about an hour before the next. -->
+	<Flourish_Sleep_TurnOver.description>A sleeper turns over now and then: a new facing, a shift on the mattress and a tilt, held for about an hour before the next.</Flourish_Sleep_TurnOver.description>
+	<!-- EN: talking with the hands -->
+	<Flourish_Social_Talk.label>talking with the hands</Flourish_Social_Talk.label>
+	<!-- EN: Gestures with one hand, shrugs with both, then laughs (Facial Animation) with a bounce that squashes the body and throws the head back. The game draws its own chat bubbles. -->
+	<Flourish_Social_Talk.description>Gestures with one hand, shrugs with both, then laughs (Facial Animation) with a bounce that squashes the body and throws the head back. The game draws its own chat bubbles.</Flourish_Social_Talk.description>
+	<!-- EN: holding hands at a wedding -->
+	<Flourish_Marry_HoldHands.label>holding hands at a wedding</Flourish_Marry_HoldHands.label>
+	<!-- EN: The two stand facing each other and each reaches out with a hand, so the hands meet in the middle and stay held through the vows, with a blush (Facial Animation) and a small lean in. -->
+	<Flourish_Marry_HoldHands.description>The two stand facing each other and each reaches out with a hand, so the hands meet in the middle and stay held through the vows, with a blush (Facial Animation) and a small lean in.</Flourish_Marry_HoldHands.description>
+	<!-- EN: romancing -->
+	<Flourish_Romance_Offer.label>romancing</Flourish_Romance_Offer.label>
+	<!-- EN: A hand pressed to the heart, a lean in that squashes the body, the other hand offered out palm up, and a blush (Facial Animation). Whether it works is up to the other pawn. -->
+	<Flourish_Romance_Offer.description>A hand pressed to the heart, a lean in that squashes the body, the other hand offered out palm up, and a blush (Facial Animation). Whether it works is up to the other pawn.</Flourish_Romance_Offer.description>
+	<!-- EN: insulting -->
+	<Flourish_Insult_Point.label>insulting</Flourish_Insult_Point.label>
+	<!-- EN: Rears back, jabs a pointing hand forward with a shout (Facial Animation) and a lean into it, holds the point, then flicks the hand away in dismissal. -->
+	<Flourish_Insult_Point.description>Rears back, jabs a pointing hand forward with a shout (Facial Animation) and a lean into it, holds the point, then flicks the hand away in dismissal.</Flourish_Insult_Point.description>
+	<!-- EN: giving a speech -->
+	<Flourish_Speech_Orate.label>giving a speech</Flourish_Speech_Orate.label>
+	<!-- EN: Sweeps an arm out across the crowd, raises a fist on the point with a lean into it, and drops back to gather the next line, the mouth working through it (Facial Animation). -->
+	<Flourish_Speech_Orate.description>Sweeps an arm out across the crowd, raises a fist on the point with a lean into it, and drops back to gather the next line, the mouth working through it (Facial Animation).</Flourish_Speech_Orate.description>
+	<!-- EN: applauding -->
+	<Flourish_Spectate_Clap.label>applauding</Flourish_Spectate_Clap.label>
+	<!-- EN: Stands watching, then applauds: both hands clap together in front of the chest five times with a little bounce on each, and a cheer (Facial Animation) on the last. Not at a funeral or a bestowing ceremony. -->
+	<Flourish_Spectate_Clap.description>Stands watching, then applauds: both hands clap together in front of the chest five times with a little bounce on each, and a cheer (Facial Animation) on the last. Not at a funeral or a bestowing ceremony.</Flourish_Spectate_Clap.description>
+	<!-- EN: dancing -->
+	<Flourish_Dance_ClapOverhead.label>dancing</Flourish_Dance_ClapOverhead.label>
+	<!-- EN: Both arms up, hands clapping together overhead on the beat while the game bounces and turns the dancer, with a whoop (Facial Animation) every few bars. -->
+	<Flourish_Dance_ClapOverhead.description>Both arms up, hands clapping together overhead on the beat while the game bounces and turns the dancer, with a whoop (Facial Animation) every few bars.</Flourish_Dance_ClapOverhead.description>
+	<!-- EN: listening -->
+	<Flourish_Social_Listen.label>listening</Flourish_Social_Listen.label>
+	<!-- EN: Arms folded, then a hand up to the chin and slow nods along with what is being said, a tilt of the head, and a question mark when it gets confusing. Picked instead of talking for some pawns. -->
+	<Flourish_Social_Listen.description>Arms folded, then a hand up to the chin and slow nods along with what is being said, a tilt of the head, and a question mark when it gets confusing. Picked instead of talking for some pawns.</Flourish_Social_Listen.description>
+	<!-- EN: telling a joke -->
+	<Flourish_Social_Joke.label>telling a joke</Flourish_Social_Joke.label>
+	<!-- EN: Arms spread wide on the setup, a beat, then doubling over on the punchline with a slap of the knee, an impact burst, and a laugh (Facial Animation). Picked instead of talking for some pawns. -->
+	<Flourish_Social_Joke.description>Arms spread wide on the setup, a beat, then doubling over on the punchline with a slap of the knee, an impact burst, and a laugh (Facial Animation). Picked instead of talking for some pawns.</Flourish_Social_Joke.description>
+	<!-- EN: insulting with a shove -->
+	<Flourish_Insult_Shove.label>insulting with a shove</Flourish_Insult_Shove.label>
+	<!-- EN: Rears back, then a two-handed shove gesture with a lunge forward and an anger mark, held, and a turn away with the arms crossed. Picked instead of the pointing insult for some pawns. -->
+	<Flourish_Insult_Shove.description>Rears back, then a two-handed shove gesture with a lunge forward and an anger mark, held, and a turn away with the arms crossed. Picked instead of the pointing insult for some pawns.</Flourish_Insult_Shove.description>
+	<!-- EN: recruiting -->
+	<Flourish_Recruit_Plead.label>recruiting</Flourish_Recruit_Plead.label>
+	<!-- EN: Hands pressed together in a plea with a lean in, held, then the arms opening with the palms up as the case is made, the mouth working through it (Facial Animation). -->
+	<Flourish_Recruit_Plead.description>Hands pressed together in a plea with a lean in, held, then the arms opening with the palms up as the case is made, the mouth working through it (Facial Animation).</Flourish_Recruit_Plead.description>
+	<!-- EN: bearing down on a prisoner -->
+	<Flourish_Warden_Threaten.label>bearing down on a prisoner</Flourish_Warden_Threaten.label>
+	<!-- EN: A step in with a jab of the finger, then a shaken fist with the body leaning over the prisoner, an anger mark and a shout (Facial Animation), and a stand-back with the arms folded. -->
+	<Flourish_Warden_Threaten.description>A step in with a jab of the finger, then a shaken fist with the body leaning over the prisoner, an anger mark and a shout (Facial Animation), and a stand-back with the arms folded.</Flourish_Warden_Threaten.description>
+	<!-- EN: preaching -->
+	<Flourish_Convert_Preach.label>preaching</Flourish_Convert_Preach.label>
+	<!-- EN: Arms spread wide with the palms up, raised slowly to the sky with the body drawn tall and a sparkle, then both hands brought to the heart, the mouth working through it (Facial Animation). -->
+	<Flourish_Convert_Preach.description>Arms spread wide with the palms up, raised slowly to the sky with the body drawn tall and a sparkle, then both hands brought to the heart, the mouth working through it (Facial Animation).</Flourish_Convert_Preach.description>
+	<!-- EN: haggling -->
+	<Flourish_Trade_Haggle.label>haggling</Flourish_Trade_Haggle.label>
+	<!-- EN: Points at the goods, folds the arms for the counter-offer with a "!" of disbelief, then a slap of the hands together on the deal with a burst. -->
+	<Flourish_Trade_Haggle.description>Points at the goods, folds the arms for the counter-offer with a "!" of disbelief, then a slap of the hands together on the deal with a burst.</Flourish_Trade_Haggle.description>
+	<!-- EN: on the comms console -->
+	<Flourish_Comms_Talk.label>on the comms console</Flourish_Comms_Talk.label>
+	<!-- EN: One hand held to the ear, the other gesturing at someone who is not there, the weight shifting from foot to foot, the mouth working through the call (Facial Animation). Ends with a "?" when the other end goes quiet. -->
+	<Flourish_Comms_Talk.description>One hand held to the ear, the other gesturing at someone who is not there, the weight shifting from foot to foot, the mouth working through the call (Facial Animation). Ends with a "?" when the other end goes quiet.</Flourish_Comms_Talk.description>
+	<!-- EN: cheering -->
+	<Flourish_Spectate_Cheer.label>cheering</Flourish_Spectate_Cheer.label>
+	<!-- EN: Stands watching, then a fist pumped overhead with a hop and a stretch, a cheer (Facial Animation) and a burst. Picked instead of applause for some pawns. Not at a funeral or a bestowing ceremony. -->
+	<Flourish_Spectate_Cheer.description>Stands watching, then a fist pumped overhead with a hop and a stretch, a cheer (Facial Animation) and a burst. Picked instead of applause for some pawns. Not at a funeral or a bestowing ceremony.</Flourish_Spectate_Cheer.description>
+	<!-- EN: feasting -->
+	<Flourish_Eat_Ravenous.label>feasting</Flourish_Eat_Ravenous.label>
+	<!-- EN: Tears into the platter with both hands, three bites that jerk the head back with a stretch, scraps flying, and a wipe of the mouth with the back of a hand. The cannibal feast. -->
+	<Flourish_Eat_Ravenous.description>Tears into the platter with both hands, three bites that jerk the head back with a stretch, scraps flying, and a wipe of the mouth with the back of a hand. The cannibal feast.</Flourish_Eat_Ravenous.description>
+	<!-- EN: twirling -->
+	<Flourish_Dance_Twirl.label>twirling</Flourish_Dance_Twirl.label>
+	<!-- EN: Arms out and a spin, a quarter turn every beat with the hands trailing behind, a whoop (Facial Animation) and music notes. Picked instead of the overhead clap for some pawns. -->
+	<Flourish_Dance_Twirl.description>Arms out and a spin, a quarter turn every beat with the hands trailing behind, a whoop (Facial Animation) and music notes. Picked instead of the overhead clap for some pawns.</Flourish_Dance_Twirl.description>
+	<!-- EN: releasing a skylantern -->
+	<Flourish_Skylantern_Release.label>releasing a skylantern</Flourish_Skylantern_Release.label>
+	<!-- EN: Holds the lantern up in both hands, a slow lift, and a release with the body stretched tall and a sparkle, the hands staying open above the head as it rises and the face following it (Facial Animation). -->
+	<Flourish_Skylantern_Release.description>Holds the lantern up in both hands, a slow lift, and a release with the body stretched tall and a sparkle, the hands staying open above the head as it rises and the face following it (Facial Animation).</Flourish_Skylantern_Release.description>
+	<!-- EN: kneeling for a title -->
+	<Flourish_Bestow_Kneel.label>kneeling for a title</Flourish_Bestow_Kneel.label>
+	<!-- EN: Drops to one knee with the head bowed and a hand pressed to the heart, held through the honour with the eyes closed (Facial Animation), a sparkle, and rises. -->
+	<Flourish_Bestow_Kneel.description>Drops to one knee with the head bowed and a hand pressed to the heart, held through the honour with the eyes closed (Facial Animation), a sparkle, and rises.</Flourish_Bestow_Kneel.description>
+	<!-- EN: hate chanting -->
+	<Flourish_HateChant_Sway.label>hate chanting</Flourish_HateChant_Sway.label>
+	<!-- EN: Both arms raised and swaying with the chant, then a fist thrown down on the beat with a squash and a shout (Facial Animation), and up again. -->
+	<Flourish_HateChant_Sway.description>Both arms raised and swaying with the chant, then a fist thrown down on the beat with a squash and a shout (Facial Animation), and up again.</Flourish_HateChant_Sway.description>
+	<!-- EN: working -->
+	<Flourish_Work_Loop.label>working</Flourish_Work_Loop.label>
+	<!-- EN: Looks to one side, then the other, then nods at the work. Plays for almost every job done standing at a bench, a wall, a patient or a plant. -->
+	<Flourish_Work_Loop.description>Looks to one side, then the other, then nods at the work. Plays for almost every job done standing at a bench, a wall, a patient or a plant.</Flourish_Work_Loop.description>
+</LanguageData>

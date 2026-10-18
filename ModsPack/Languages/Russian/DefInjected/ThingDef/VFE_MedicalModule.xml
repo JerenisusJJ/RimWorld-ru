@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bed_OperatingTable.label>операционный стол</Bed_OperatingTable.label>
+  <Bed_OperatingTable.description>Грубый стол, заваленный инструментами, которые якобы облегчают проведение операций, хотя его чистота вызывает сомнения. Немного улучшает исход лечения по сравнению с обычными кроватями.</Bed_OperatingTable.description>
+  <Bed_CryptoBed.label>подвеска криптосна</Bed_CryptoBed.label>
+  <Bed_CryptoBed.description>Медицинское устройство, использующее частичный криптосон, чтобы замедлить ухудшение состояния ран и помочь организму исцелиться. Побочные эффекты те же, что у криптосна, но менее выраженные.</Bed_CryptoBed.description>
+  <Facility_VitalsCentre.label>центр жизненных показателей</Facility_VitalsCentre.label>
+  <Facility_VitalsCentre.description>Большой центр для одновременного наблюдения за жизненными показателями нескольких пациентов. Повышает качество лечения, шанс успеха операции и скорость набора иммунитета, если стоит рядом с больничной койкой или операционным столом. Работает только для больничных коек и операционных столов - обычные кровати выгоды не получат.</Facility_VitalsCentre.description>
+  <Facility_IVDrip.label>стойка капельницы</Facility_IVDrip.label>
+  <Facility_IVDrip.description>Стойка с капельницей для быстрого восполнения потерянной пациентом жидкости. Помогает иммунной системе и восстановлению после кровопотери, если стоит вплотную к больничной койке или операционному столу. Работает только для больничных коек и операционных столов - обычные кровати выгоды не получат. Несколько стоек у одной кровати эффекта не дают.</Facility_IVDrip.description>
+  <Facility_ResearchCounter.label>исследовательская стойка</Facility_ResearchCounter.label>
+  <Facility_ResearchCounter.description>Стерилизованная поверхность высотой по пояс для проведения деликатных исследований. Немного ускоряет ближайшие исследовательские столы и помогает поддерживать чистоту вокруг. Эффект суммируется до 20 раз.</Facility_ResearchCounter.description>
+  <VFEM_Wall_Sterile.label>стерильная стена</VFEM_Wall_Sterile.label>
+  <VFEM_Wall_Sterile.description>Непроходимая стена, способная удерживать крышу. Обладает особыми свойствами, повышающими чистоту, и создаёт стерильную среду.</VFEM_Wall_Sterile.description>
+</LanguageData>

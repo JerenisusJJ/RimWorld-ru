@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QualityColors>Цвета качества</QualityColors>
+  <QualityColors.Colors.Label>Изменить цвета</QualityColors.Colors.Label>
+  <QualityColors.Change>Изменить цвет для {0}</QualityColors.Change>
+  <QualityColors.Presets>Переключиться на набор</QualityColors.Presets>
+  <QualityColors.Presets.Default>По умолчанию</QualityColors.Presets.Default>
+  <QualityColors.Presets.Legacy>Старый вариант, каким мод был изначально</QualityColors.Presets.Legacy>
+  <QualityColors.Presets.RPGStyleInventoryMod>Мод RPG Style Inventory</QualityColors.Presets.RPGStyleInventoryMod>
+  <QualityColors.Presets.WoW>Как в World of Warcraft (примерно)</QualityColors.Presets.WoW>
+  <QualityColors.Presets.Colorblind>Режим для дальтоников (приношу извинения, если что-то не так)</QualityColors.Presets.Colorblind>
+  <QualityColors.Presets.FFXIV>Final Fantasy 14 (автор — Erin)</QualityColors.Presets.FFXIV>
+  <QualityColors.Apply>Применить</QualityColors.Apply>
+  <QualityColors.Red>Красный:</QualityColors.Red>
+  <QualityColors.Blue>Синий:</QualityColors.Blue>
+  <QualityColors.Green>Зелёный:</QualityColors.Green>
+  <QualityColors.Preview>Предпросмотр:</QualityColors.Preview>
+  <QualityColors.Changing>Изменение: {0}</QualityColors.Changing>
+  <QualityColors.FullLabelInInspectPane.Label>Красить полное название в панели осмотра (нижняя левая панель при выборе объектов)</QualityColors.FullLabelInInspectPane.Label>
+  <QualityColors.FullLabelInInspectPane.Tooltip>Красить весь заголовок в панели осмотра при выборе предмета.</QualityColors.FullLabelInInspectPane.Tooltip>
+</LanguageData>

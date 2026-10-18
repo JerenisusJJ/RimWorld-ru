@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: always -->
+	<Always.label>всегда</Always.label>
+	<!-- EN: has passion of at least -->
+	<Passion.label>увлечение не ниже</Passion.label>
+	<!-- EN: has skill level -->
+	<Skill.label>уровень навыка</Skill.label>
+	<!-- EN: is ideologically opposed -->
+	<AgainstIdeo.label>идеологически противостоит</AgainstIdeo.label>
+</LanguageData>

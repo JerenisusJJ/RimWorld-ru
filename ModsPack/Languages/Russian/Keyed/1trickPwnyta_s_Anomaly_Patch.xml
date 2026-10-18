@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnomalyPatch_Incidents>События Аномалии</AnomalyPatch_Incidents>
+  <AnomalyPatch_Rituals>Психические ритуалы</AnomalyPatch_Rituals>
+  <AnomalyPatch_Study>Изучение, подавление и содержание</AnomalyPatch_Study>
+  <AnomalyPatch_Entities>Тёмные сущности</AnomalyPatch_Entities>
+  <AnomalyPatch_Misc>Прочее</AnomalyPatch_Misc>
+  <AnomalyPatch_RestartRequired>(требуется перезапуск)</AnomalyPatch_RestartRequired>
+  <AnomalyPatch_BugFix>Исправление ошибки</AnomalyPatch_BugFix>
+  <AnomalyPatch_NoResearchSelected>Нет активного исследования Аномалии</AnomalyPatch_NoResearchSelected>
+  <AnomalyPatch_AtmosphericHeaterFactor>Отключить оповещение «Нужна тёплая одежда» при работе атмосферного обогревателя</AnomalyPatch_AtmosphericHeaterFactor>
+  <AnomalyPatch_BioferriteHarvesterMultipleSelection>Показывать общее количество биоферрита при выборе нескольких сборщиков биоферрита</AnomalyPatch_BioferriteHarvesterMultipleSelection>
+  <AnomalyPatch_CharacterHighlighting>Показывать силуэты даже в неестественной тьме</AnomalyPatch_CharacterHighlighting>
+  <AnomalyPatch_DangerousActivityLevels>Показывать высший уровень активности обелисков в групповом оповещении</AnomalyPatch_DangerousActivityLevels>
+  <AnomalyPatch_DeathPallResurrectionSound>Сообщения о воскрешении покровом смерти беззвучны</AnomalyPatch_DeathPallResurrectionSound>
+  <AnomalyPatch_DevourerWaterAssaultFix>Провокация Бездны может молча провалиться при нападении водного пожирателя</AnomalyPatch_DevourerWaterAssaultFix>
+  <AnomalyPatch_DontBlockDoors>Не выполнять работу в дверном проёме камеры содержания</AnomalyPatch_DontBlockDoors>
+  <AnomalyPatch_FoodPriority>Давать приоритет искажённому мясу для гулей и животных в караване</AnomalyPatch_FoodPriority>
+  <AnomalyPatch_GhoulHunting>Разрешить гулям самостоятельно охотиться на добычу</AnomalyPatch_GhoulHunting>
+  <AnomalyPatch_HorrorMusic>Ямные врата не включают музыку ужаса/боя, пока вы не находитесь в них</AnomalyPatch_HorrorMusic>
+  <AnomalyPatch_LabyrinthClosing>Запрещать предметы из лабиринта за пределами домашней зоны</AnomalyPatch_LabyrinthClosing>
+  <AnomalyPatch_NoProjectNoStudy>Не проводить тёмное изучение без активного исследования Аномалии</AnomalyPatch_NoProjectNoStudy>
+  <AnomalyPatch_PsychicRitualZoning>Соблюдать ограничения зон при подготовке к психическим ритуалам</AnomalyPatch_PsychicRitualZoning>
+  <AnomalyPatch_RitualDialogSorting>Сортировать существ по психической чувствительности в окне психического ритуала</AnomalyPatch_RitualDialogSorting>
+  <AnomalyPatch_StudyAndSuppressByDefault>По умолчанию включать изучение и подавление сущностей</AnomalyPatch_StudyAndSuppressByDefault>
+  <AnomalyPatch_DontHideStats>Не скрывать характеристики сущностей</AnomalyPatch_DontHideStats>
+  <AnomalyPatch_ForbidMonolithCorpses>Автоматически запрещать трупы, появившиеся вокруг монолита</AnomalyPatch_ForbidMonolithCorpses>
+  <AnomalyPatch_StopSuppression>Разрешить существам прекращать подавление активности обелисков до достижения целевого уровня</AnomalyPatch_StopSuppression>
+  <AnomalyPatch_HoldingPlatformAlert>Отключить оповещение о нехватке удерживающих платформ</AnomalyPatch_HoldingPlatformAlert>
+  <AnomalyPatch_CreepJoinerLove>Разрешить крипто-пришельцам романтические отношения с обычными людьми и наоборот</AnomalyPatch_CreepJoinerLove>
+  <AnomalyPatch_UnnaturalDarknessMapFix>Некоторые события Аномалии могут создаваться по очкам угрозы одной карты, а появляться на другой</AnomalyPatch_UnnaturalDarknessMapFix>
+  <AnomalyPatch_DeadGhoulsInColonistBar>Показывать гулей в панели колонистов, даже мёртвых или находящихся в караване</AnomalyPatch_DeadGhoulsInColonistBar>
+  <AnomalyPatch_DisableDisturbingVision>Отключить письмо о тревожном видении</AnomalyPatch_DisableDisturbingVision>
+  <AnomalyPatch_InhumanPregnancyAttitude>Расчеловеченных существ не волнует прерывание их беременности</AnomalyPatch_InhumanPregnancyAttitude>
+  <AnomalyPatch_RitualTargetsDontNeedRescue>Не показывать оповещение «Колонист нуждается в спасении» для целей психических ритуалов</AnomalyPatch_RitualTargetsDontNeedRescue>
+  <AnomalyPatch_AvoidDreadLeather>Существа избегают одежды из кожи ужаса, если она им не нравится</AnomalyPatch_AvoidDreadLeather>
+  <AnomalyPatch_CreepjoinerBodyTypeFix>Женщины-крипто-пришельцы ошибочно получают мужской тип телосложения</AnomalyPatch_CreepjoinerBodyTypeFix>
+  <AnomalyPatch_DontBlockPrisonDoors>Также не выполнять работу в дверном проёме тюрьмы</AnomalyPatch_DontBlockPrisonDoors>
+  <AnomalyPatch_ExtractBioferriteByDefault>По умолчанию включать ручное извлечение биоферрита у сущностей, если нет экстрактора биоферрита</AnomalyPatch_ExtractBioferriteByDefault>
+  <AnomalyPatch_SortBy>Сортировать по:</AnomalyPatch_SortBy>
+  <AnomalyPatch_Reverse>Обратный порядок</AnomalyPatch_Reverse>
+  <AnomalyPatch_Age>Возраст</AnomalyPatch_Age>
+</LanguageData>

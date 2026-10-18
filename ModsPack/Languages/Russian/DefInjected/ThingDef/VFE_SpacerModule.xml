@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bed_AdvBed.label>продвинутая кровать</Bed_AdvBed.label>
+  <Bed_AdvBed.description>Передовая полностью моторизованная кровать с поверхностями, подстраивающимися под давление, биометрическим мониторингом и технологичным отслеживанием сна. Обеспечивает непревзойдённые комфорт, эффективность отдыха и поддержку при операциях.</Bed_AdvBed.description>
+  <Bed_AdvDoubleBed.label>продвинутая двуспальная кровать</Bed_AdvDoubleBed.label>
+  <Bed_AdvDoubleBed.description>Передовая полностью моторизованная кровать на двоих с поверхностями, подстраивающимися под давление, биометрическим мониторингом и технологичным отслеживанием сна. Обеспечивает непревзойдённые комфорт, эффективность отдыха и поддержку при операциях.</Bed_AdvDoubleBed.description>
+  <Table_IlluminatedEndTable.label>прикроватная тумбочка с подсветкой</Table_IlluminatedEndTable.label>
+  <Table_IlluminatedEndTable.description>Изящная прикроватная тумбочка со встроенной лампой мягкого света. Должна стоять вплотную к изголовью кровати. Несколько тумбочек у одной кровати эффекта не дают.</Table_IlluminatedEndTable.description>
+  <Table_IlluminatedDresser.label>комод с подсветкой</Table_IlluminatedDresser.label>
+  <Table_IlluminatedDresser.description>Изящный современный комод со встроенной лампой мягкого света. Немного повышает комфорт всех ближайших кроватей. Несколько комодов у одной кровати эффекта не дают.</Table_IlluminatedDresser.description>
+  <VFES_Table_IlluminatedWardrobe.label>шкаф с подсветкой</VFES_Table_IlluminatedWardrobe.label>
+  <VFES_Table_IlluminatedWardrobe.description>Изящный современный шкаф со встроенной лампой мягкого света. Немного повышает комфорт и эффективность отдыха на всех ближайших кроватях. Несколько шкафов у одной кровати эффекта не дают.</VFES_Table_IlluminatedWardrobe.description>
+  <UltrascreenTV.label>гиперэкранный телевизор</UltrascreenTV.label>
+  <UltrascreenTV.description>Колоссальная развлекательная стена сверхвысокой чёткости из нескольких панелей. Создана для роскошных колоний и дарит потрясающие визуальные впечатления с насыщенным звуком и яркой чёткостью изображения. Транслирует архивные передачи ультранета с давно мёртвых спутников и местных массивов данных.</UltrascreenTV.description>
+  <VFES_WallMountedTelevision.label>настенный телевизор</VFES_WallMountedTelevision.label>
+  <VFES_WallMountedTelevision.description>Изящный высокотехнологичный плоский телевизор. Тонкий корпус экономит место на полу, а цвет и чёткость изображения не хуже, чем у обычных плоских телевизоров. Зона просмотра у него небольшая, зато его можно повесить на стену.</VFES_WallMountedTelevision.description>
+  <VFES_TelevisionSpeaker.label>телевизионная колонка</VFES_TelevisionSpeaker.label>
+  <VFES_TelevisionSpeaker.description>Аудиосистема высокой точности для улучшения просмотра на ближайших телевизорах. Если поставить её рядом с телевизором, она подключится к экрану и обеспечит объёмный звук, повышая получаемый отдых у каждого колониста, который смотрит передачу.</VFES_TelevisionSpeaker.description>
+  <Shelf_RepairRack.label>стеллаж с ремонтными механитами</Shelf_RepairRack.label>
+  <Shelf_RepairRack.description>Высокотехнологичный стеллаж для хранения одежды и оружия. Хранящиеся на нём предметы получают помощь от роя механитов-наноботов: он медленно устраняет любые повреждения и износ. Процесс требует много электричества и занимает много времени.</Shelf_RepairRack.description>
+  <Spacer_OutdoorLamp.label>уличная солнечная лампа</Spacer_OutdoorLamp.label>
+  <Spacer_OutdoorLamp.description>Электрический торшер, освещающий территорию и хорошо подходящий для больших открытых пространств, с небольшой солнечной панелью наверху. Накапливает заряд днём, пока выключен, и автоматически включается ночью.</Spacer_OutdoorLamp.description>
+  <Spacer_OutdoorLamp.comps.CompScheduleExtended.disabledDueToRoofMessage>Выключено, так как находится под крышей.</Spacer_OutdoorLamp.comps.CompScheduleExtended.disabledDueToRoofMessage>
+  <Spacer_OutdoorLamp.comps.CompScheduleExtended.offMessage>Выключено из-за достаточного солнечного света.</Spacer_OutdoorLamp.comps.CompScheduleExtended.offMessage>
+  <VFES_AirPurifier.label>очиститель воздуха</VFES_AirPurifier.label>
+  <VFES_AirPurifier.description>Компактный высокоэффективный очиститель воздуха, который отфильтровывает пыль, аллергены, дым и другие нежелательные частицы, одновременно подавая чистый ароматизированный воздух. Повышает чистоту помещения, немного улучшает настроение и обстановку в целом.</VFES_AirPurifier.description>
+  <Seat_AdvChair.label>продвинутое кресло</Seat_AdvChair.label>
+  <Seat_AdvChair.description>Сиденье высшего класса космической эпохи с адаптивной мягкой подушкой, калибровкой осанки и дышащими умными тканями. Создано для максимального комфорта при длительном использовании и изящных современных интерьеров.</Seat_AdvChair.description>
+  <VFES_ModernArmchair.label>современное кресло</VFES_ModernArmchair.label>
+  <VFES_ModernArmchair.description>Изящное кресло космической эпохи. Пена с памятью формы, обивка из умной ткани и эргономичный дизайн обеспечивают превосходные комфорт и внешний вид.</VFES_ModernArmchair.description>
+  <VFES_ModernCouch.label>современный диван</VFES_ModernCouch.label>
+  <VFES_ModernCouch.description>Изящный двухместный диван космической эпохи. Пена с памятью формы, эргономичный дизайн и обивка из умной ткани обеспечивают максимальный комфорт.</VFES_ModernCouch.description>
+  <Table_interactive_1x1c.label>интерактивный стол (1x1)</Table_interactive_1x1c.label>
+  <Table_interactive_1x1c.description>Изящный стол космического уровня со встроенным умным дисплеем. Сидя за ним, колонисты получают пассивный отдых вроде просмотра телевизора во время еды или работы. Люди едят за столами, если напротив поставлены стулья.</Table_interactive_1x1c.description>
+  <Table_interactive_2x2c.label>интерактивный стол (2x2)</Table_interactive_2x2c.label>
+  <Table_interactive_2x2c.description>Изящный стол космического уровня со встроенным умным дисплеем. Сидя за ним, колонисты получают пассивный отдых вроде просмотра телевизора во время еды или работы. Люди едят за столами, если напротив поставлены стулья.</Table_interactive_2x2c.description>
+</LanguageData>

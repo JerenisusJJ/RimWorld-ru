@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_SealantPopper.label>разрыв герметика</VGE_SealantPopper.label>
+  <VGE_SealantPopper.deathMessage>{0} {0_gender ? убит : убита : убито}.</VGE_SealantPopper.deathMessage>
+  <VGE_ExtinguishAstrofire.label>тушение</VGE_ExtinguishAstrofire.label>
+  <VGE_ExtinguishAstrofire.deathMessage>{0} {0_gender ? убит : убита : убито}.</VGE_ExtinguishAstrofire.deathMessage>
+  <VGE_AstrofireDamage.label>астрогонь</VGE_AstrofireDamage.label>
+  <VGE_AstrofireDamage.deathMessage>{0} {0_gender ? сгорел : сгорела : сгорело} заживо.</VGE_AstrofireDamage.deathMessage>
+  <VGE_AnticraftBeamBypassShields.label>луч</VGE_AnticraftBeamBypassShields.label>
+  <VGE_AnticraftBeamBypassShields.deathMessage>{0} {0_gender ? убит : убита : убито} лучом.</VGE_AnticraftBeamBypassShields.deathMessage>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PERSONALSHIELD_BROKEN>РАЗБИТ</PERSONALSHIELD_BROKEN>
+  <DM_MISS>Промах</DM_MISS>
+  <EnableIndicatorNeutralFactions>Включить индикаторы урона для нейтральных фракций</EnableIndicatorNeutralFactions>
+  <EnableIndicatorNeutralFactions_Desc>Индикаторы урона не показываются, если у источника или цели нет фракции.</EnableIndicatorNeutralFactions_Desc>
+  <DisplayPawnsOnly>Показывать индикаторы урона только для существ</DisplayPawnsOnly>
+  <DisplayPawnsOnly_Desc>Индикаторы урона не показываются, если цель не является существом.</DisplayPawnsOnly_Desc>
+  <DisplayPawnsInstigatorOnly>Показывать индикаторы только для урона, нанесённого существами</DisplayPawnsInstigatorOnly>
+  <DisplayPawnsInstigatorOnly_Desc>Индикаторы урона не показываются, если источник не является существом. (Естественное разрушение, огонь...)</DisplayPawnsInstigatorOnly_Desc>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFES_SiegeEquipment.label>осадные орудия</VFES_SiegeEquipment.label>
+  <VFES_SiegeEquipment.description>Стройте средневековые осадные орудия.</VFES_SiegeEquipment.description>
+  <VFES_ConcealedDefenses.label>скрытая оборона</VFES_ConcealedDefenses.label>
+  <VFES_ConcealedDefenses.description>Стройте убирающиеся под землю барьеры и турели, идеально подходящие для обороны внутри помещений.</VFES_ConcealedDefenses.description>
+  <VFES_Railgun.label>рельсотрон</VFES_Railgun.label>
+  <VFES_Railgun.description>Приспособьте оружие космических кораблей для своих систем обороны.</VFES_Railgun.description>
+  <VFES_EMPCannon.label>электромагнитный импульс</VFES_EMPCannon.label>
+  <VFES_EMPCannon.description>Разрабатывайте ЭМИ-ловушки и тесла-бластеры, способные оглушать механоидов.</VFES_EMPCannon.description>
+  <VFES_RepulsorTechnology.label>технология репульсоров</VFES_RepulsorTechnology.label>
+  <VFES_RepulsorTechnology.description>Стройте ультратехнологичные генераторы щитов, проецирующие энергетические поля, которые отражают снаряды.</VFES_RepulsorTechnology.description>
+</LanguageData>

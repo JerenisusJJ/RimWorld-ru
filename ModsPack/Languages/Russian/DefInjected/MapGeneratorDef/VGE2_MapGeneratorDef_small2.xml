@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_InfestedAsteroid.label>заражённый астероид</VGE_InfestedAsteroid.label>
+  <VGE_EmptySpace.label>пустое пространство</VGE_EmptySpace.label>
+  <VGE_EmptySpace_NeverKeep.label>пустое пространство</VGE_EmptySpace_NeverKeep.label>
+  <VGE_ActiveWarplatform.label>активная боевая платформа</VGE_ActiveWarplatform.label>
+  <VGE_GravshipHusk.label>остов гравикорабля</VGE_GravshipHusk.label>
+  <VGE_DormantWarplatform.label>спящая боевая платформа</VGE_DormantWarplatform.label>
+  <VGE_DerelictGravship.label>брошенный гравикорабль</VGE_DerelictGravship.label>
+  <VGE_ActiveSalvagerStation.label>активная станция утилизаторов</VGE_ActiveSalvagerStation.label>
+  <VGE_ActiveEnemyGravjumper.label>активный вражеский гравипрыгун</VGE_ActiveEnemyGravjumper.label>
+  <VGE_ActiveOrbitalCluster.label>активное орбитальное скопление</VGE_ActiveOrbitalCluster.label>
+  <VGE_ActiveEnemyGravship.label>активный вражеский гравикорабль</VGE_ActiveEnemyGravship.label>
+</LanguageData>

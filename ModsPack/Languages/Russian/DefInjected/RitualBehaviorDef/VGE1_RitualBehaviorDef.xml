@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VGE_GravjumperLaunch.roles.0.label>пилот</VGE_GravjumperLaunch.roles.0.label>
+  <VGE_GravjumperLaunch.roles.1.label>второй пилот</VGE_GravjumperLaunch.roles.1.label>
+  <VGE_GravjumperLaunch.spectatorGerund>экипаж</VGE_GravjumperLaunch.spectatorGerund>
+  <VGE_GravjumperLaunch.spectatorsLabel>Экипаж</VGE_GravjumperLaunch.spectatorsLabel>
+  <VGE_GravhulkLaunch.roles.0.label>пилот</VGE_GravhulkLaunch.roles.0.label>
+  <VGE_GravhulkLaunch.roles.1.label>второй пилот</VGE_GravhulkLaunch.roles.1.label>
+  <VGE_GravhulkLaunch.roles.2.label>гравитехнолог-исследователь</VGE_GravhulkLaunch.roles.2.label>
+  <VGE_GravhulkLaunch.roles.3.label>гравитехнолог-инженер</VGE_GravhulkLaunch.roles.3.label>
+  <VGE_GravhulkLaunch.spectatorGerund>экипаж</VGE_GravhulkLaunch.spectatorGerund>
+  <VGE_GravhulkLaunch.spectatorsLabel>Экипаж</VGE_GravhulkLaunch.spectatorsLabel>
+</LanguageData>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TD.BandwidthFilterType.Total>Всего</TD.BandwidthFilterType.Total>
+  <TD.BandwidthFilterType.Used>Использовано</TD.BandwidthFilterType.Used>
+  <TD.BandwidthFilterType.Available>Доступно</TD.BandwidthFilterType.Available>
+  <TD.GeneType.Either>любой ген</TD.GeneType.Either>
+  <TD.GeneType.Endogene>эндоген</TD.GeneType.Endogene>
+  <TD.GeneType.Xenogene>ксеноген</TD.GeneType.Xenogene>
+  <TD.GeneHavingType.Active>активный</TD.GeneHavingType.Active>
+  <TD.GeneHavingType.Inactive>неактивный</TD.GeneHavingType.Inactive>
+  <TD.GeneHavingType.Has>имеющийся</TD.GeneHavingType.Has>
+  <TD.IdeoXenotypeFilterType.Preferred>Предпочитаемый</TD.IdeoXenotypeFilterType.Preferred>
+  <TD.IdeoXenotypeFilterType.Disliked>Нелюбимый</TD.IdeoXenotypeFilterType.Disliked>
+  <TD.IdeoXenotypeFilterType.NoOpinion>Нет мнения</TD.IdeoXenotypeFilterType.NoOpinion>
+  <TD.GauranlenFilterType.Connection>Подключено</TD.GauranlenFilterType.Connection>
+  <TD.GauranlenFilterType.Mode>Каста дриад —</TD.GauranlenFilterType.Mode>
+  <TD.GauranlenFilterType.Strength>Сила связи</TD.GauranlenFilterType.Strength>
+  <TD.GauranlenFilterType.StrengthDesired>Желаемая сила</TD.GauranlenFilterType.StrengthDesired>
+  <TD.GauranlenFilterType.MaxDryads>Макс. дриад</TD.GauranlenFilterType.MaxDryads>
+  <TD.GauranlenFilterType.CurDryads>Число дриад</TD.GauranlenFilterType.CurDryads>
+  <TD.GauranlenFilterType.TimeToDryad>Дней до новой дриады</TD.GauranlenFilterType.TimeToDryad>
+  <TD.UnmetRequirementType.ApparelRequirementNotMet>Хочет особую одежду для знати</TD.UnmetRequirementType.ApparelRequirementNotMet>
+  <TD.UnmetRequirementType.ApparelMinQualityNotMet>Хочет одежду качества для знати</TD.UnmetRequirementType.ApparelMinQualityNotMet>
+  <TD.TDFindLib>TD Find Lib</TD.TDFindLib>
+  <TD.Delete0>Удалить {0}?</TD.Delete0>
+  <TD.StopRefresh0>Прекратить обновление {0}?</TD.StopRefresh0>
+  <TD.AllMaps>Все карты</TD.AllMaps>
+  <TD.CurrentMap>Текущая карта</TD.CurrentMap>
+  <TD.ChosenMaps>Выбранные карты</TD.ChosenMaps>
+  <TD.IncludeShort>Вкл.</TD.IncludeShort>
+  <TD.ExcludeShort>Искл.</TD.ExcludeShort>
+  <TD.DeleteThisQuery>Удалить этот фильтр</TD.DeleteThisQuery>
+  <TD.EnableThisQuery>Включить этот фильтр</TD.EnableThisQuery>
+  <TD.IncludeOrExcludeThingsMatchingThisQuery>Включить или исключить объекты, подходящие под этот фильтр</TD.IncludeOrExcludeThingsMatchingThisQuery>
+  <TD.SearchTriedToLoad>Проблема TDFindLib! Поиск «{0}» пытался загрузить фильтр «{1}» с названием «{2}», но он не найден</TD.SearchTriedToLoad>
+  <TD.SearchTriedToLoadOnMap>Поиск «{0}» пытался загрузить фильтр «{1}» с названием «{2}» на {3}, но он не найден</TD.SearchTriedToLoadOnMap>
+  <TD.Spoils>Портится</TD.Spoils>
+  <TD.Refrigerated>Охлаждено</TD.Refrigerated>
+  <TD.Frozen>Заморожено</TD.Frozen>
+  <TD.Player>Игрок</TD.Player>
+  <TD.Mechanoid>Механоид</TD.Mechanoid>
+  <TD.Insectoid>Инсектоид</TD.Insectoid>
+  <TD.NoFaction>Без фракции</TD.NoFaction>
+  <TD.NotMadeFromStuff>Не из материала</TD.NotMadeFromStuff>
+  <TD.AnyStockpile>Любой склад</TD.AnyStockpile>
+  <TD.AnyGrowingZone>Любая зона выращивания</TD.AnyGrowingZone>
+  <TD.Opened>Открыто</TD.Opened>
+  <TD.BlockedOpen>Заблокировано открытым</TD.BlockedOpen>
+  <TD.IncludeThingsThatMatch>Включить объекты, которые подходят под</TD.IncludeThingsThatMatch>
+  <TD.ExcludeThingsThatMatch>Исключить объекты, которые подходят под</TD.ExcludeThingsThatMatch>
+  <TD.OfTheseQueries>эти фильтры:</TD.OfTheseQueries>
+  <TD.TheThingHoldingThis>Объект, удерживающий это</TD.TheThingHoldingThis>
+  <TD.AnythingThisIsHolding>Всё, что это удерживает</TD.AnythingThisIsHolding>
+  <TD.Matches>подходит под</TD.Matches>
+  <TD.Of>из:</TD.Of>
+  <TD.AnythingXStepsNearbyMatchesPre>Всё в пределах</TD.AnythingXStepsNearbyMatchesPre>
+  <TD.AnythingXStepsNearbyMatchesPost>шагов поблизости подходит под</TD.AnythingXStepsNearbyMatchesPost>
+  <TD.From>От</TD.From>
+  <TD.Invisible>(невидимый)</TD.Invisible>
+  <TD.Cold>Холодно</TD.Cold>
+  <TD.ALittleCold>Немного холодно</TD.ALittleCold>
+  <TD.Comfortable>Комфортно</TD.Comfortable>
+  <TD.ALittleHot>Немного жарко</TD.ALittleHot>
+  <TD.Hot>Жарко</TD.Hot>
+  <TD.IsPrisoner>Заключённый</TD.IsPrisoner>
+  <TD.InCell>В камере</TD.InCell>
+  <TD.ThereAreNoOptionsAvailablePerhapsYouShouldUncheckOnlyAvailableThings>Нет доступных вариантов (возможно, стоит удерживать Shift при щелчке, чтобы показать все варианты)</TD.ThereAreNoOptionsAvailablePerhapsYouShouldUncheckOnlyAvailableThings>
+  <TD.LockEditing>Заблокировать редактирование</TD.LockEditing>
+  <TD.Listing>Поиск среди:</TD.Listing>
+  <TD.Name>Название:</TD.Name>
+  <TD.OnlyShowQueryOptionsForAvailableThings>Показывать как варианты только существующие объекты (Shift — наоборот)</TD.OnlyShowQueryOptionsForAvailableThings>
+  <TD.ForExampleDontShowTheOptionMadeFromPlasteelIfNothingIsMadeFromPlasteel>Например, при выборе вариантов фильтра не показывать вариант «Из пластали», если ничего не сделано из пластали.\n\nЩёлкните по варианту с Shift, чтобы инвертировать эту настройку для этого щелчка.</TD.ForExampleDontShowTheOptionMadeFromPlasteelIfNothingIsMadeFromPlasteel>
+  <TD.AddNewQuery...>Добавить новый фильтр...</TD.AddNewQuery...>
+  <TD.AnyOption>Любой</TD.AnyOption>
+  <TD.AllOptions>Все</TD.AllOptions>
+  <TD.AnyValue>Любое</TD.AnyValue>
+  <TD.LabelCountThings>Объектов: {0}</TD.LabelCountThings>
+  <TD.SelectAllGameAllowsUpTo>Выбрать всё (игра позволяет до {0})</TD.SelectAllGameAllowsUpTo>
+  <TD.Refresh>Обновить</TD.Refresh>
+  <TD.ContinuousRefreshAboutEverySecond>Непрерывное обновление (примерно раз в секунду)</TD.ContinuousRefreshAboutEverySecond>
+  <TD.SavedSearches>Сохранённые поиски</TD.SavedSearches>
+  <TD.CopyNameSuffix> (копия)</TD.CopyNameSuffix>
+  <TD.Settings>Настройки:</TD.Settings>
+  <TD.ViewQuerySearchLibrary>Открыть библиотеку сохранённых поисков</TD.ViewQuerySearchLibrary>
+  <TD.View>Показать</TD.View>
+  <TD.SaveSearches>Сохранить в библиотеку</TD.SaveSearches>
+  <TD.LoadSearches>Загрузить из библиотеки</TD.LoadSearches>
+  <TD.SaveTo0>Сохранить в {0}</TD.SaveTo0>
+  <TD.TDFindLibrary>Библиотека TD Find</TD.TDFindLibrary>
+  <TD.SaveChangesTo0>Сохранить изменения в {0}?</TD.SaveChangesTo0>
+  <TD.OverwriteSearch>Перезаписать поиск</TD.OverwriteSearch>
+  <TD.SaveAsCopy>Сохранить как копию</TD.SaveAsCopy>
+  <TD.OpenTheLibraryOfSearches>Открыть библиотеку поисков</TD.OpenTheLibraryOfSearches>
+  <TD.ImportSearchFrom>Импортировать поиск из...</TD.ImportSearchFrom>
+  <TD.ExportSearchTo>Экспортировать поиск в...</TD.ExportSearchTo>
+  <TD.ImportGroupFrom>Импортировать группу из...</TD.ImportGroupFrom>
+  <TD.ExportGroupTo>Экспортировать группу в...</TD.ExportGroupTo>
+  <TD.ImportLibraryFrom>Импортировать библиотеку из...</TD.ImportLibraryFrom>
+  <TD.ExportLibraryTo>Экспортировать библиотеку в...</TD.ExportLibraryTo>
+  <TD.CopyToClipboard>Копировать в буфер обмена</TD.CopyToClipboard>
+  <TD.PasteFromClipboard>Вставить из буфера обмена</TD.PasteFromClipboard>
+  <TD.AND>И</TD.AND>
+  <TD.OR>ИЛИ</TD.OR>
+  <TD.NOT>НЕ</TD.NOT>
+  <TD.HeyManWeHaveToSearchSomewhere>Эй, нам же нужно где-то искать</TD.HeyManWeHaveToSearchSomewhere>
+  <TD.Searching>Поиск:</TD.Searching>
+  <TD.Named>Название:</TD.Named>
+  <TD.HostIs>Хозяин —</TD.HostIs>
+  <TD.FactionIs>—</TD.FactionIs>
+  <TD.InstallingCategory>(Устанавливается)</TD.InstallingCategory>
+  <TD.BlueprintCategory>(Чертёж)</TD.BlueprintCategory>
+  <TD.FrameCategory>(Каркас)</TD.FrameCategory>
+  <TD.BlueprintCategoryTerrain>(Чертёж местности)</TD.BlueprintCategoryTerrain>
+  <TD.FrameCategoryTerrain>(Каркас местности)</TD.FrameCategoryTerrain>
+  <TD.MiscCategory>Разное</TD.MiscCategory>
+  <TD.LivingCategory>Живое</TD.LivingCategory>
+  <TD.MineableCategory>Добываемое</TD.MineableCategory>
+  <TD.OtherCategory>(Прочее)</TD.OtherCategory>
+  <TD.TDFindLibSearchLibrary>TD Find Lib: библиотека поисков</TD.TDFindLibSearchLibrary>
+  <TD.NewGroup>Новая группа</TD.NewGroup>
+  <TD.NameForNewGroup>Название новой группы</TD.NameForNewGroup>
+  <TD.AddNewGroup>Добавить новую группу...</TD.AddNewGroup>
+  <TD.NewSearch>Новый поиск</TD.NewSearch>
+  <TD.NameForNewSearch>Название нового поиска</TD.NameForNewSearch>
+  <TD.EditThisSearch>Изменить этот поиск</TD.EditThisSearch>
+  <TD.ActiveSearches>Активные поиски</TD.ActiveSearches>
+  <TD.ViewThisSearch>Просмотреть этот поиск</TD.ViewThisSearch>
+  <TD.OpenTheModControllingThisSearch>Открыть мод, управляющий этим поиском</TD.OpenTheModControllingThisSearch>
+  <TD.StopThisSearchFromRunningITrustYouKnowWhatYoureDoing>Остановить этот поиск (надеюсь, вы знаете, что делаете)</TD.StopThisSearchFromRunningITrustYouKnowWhatYoureDoing>
+  <TD.Every0Ticks>Каждые {0} тиков</TD.Every0Ticks>
+  <TD.SetRefreshPeriodInTicks>Задать период обновления в тиках</TD.SetRefreshPeriodInTicks>
+  <TD.GodModeIsAllowingYouToSeeThingsInFoggedAreasThingsYouCantNormallyKnowAndVariousOtherWeirdThings>Режим бога позволяет видеть объекты в туманных зонах, то, чего обычно знать нельзя, и разные другие странности</TD.GodModeIsAllowingYouToSeeThingsInFoggedAreasThingsYouCantNormallyKnowAndVariousOtherWeirdThings>
+  <TD.Editing>Редактирование</TD.Editing>
+  <TD.ListThingsMatchingThisSearch>Список объектов, подходящих под этот поиск</TD.ListThingsMatchingThisSearch>
+  <TD.Viewing>Просмотр</TD.Viewing>
+  <TD.MatchingAllFilters>Подходит под все фильтры</TD.MatchingAllFilters>
+  <TD.MatchingAnyFilter>Подходит под любой фильтр</TD.MatchingAnyFilter>
+  <TD.SearchCurrentMapOnly>Искать только на текущей карте</TD.SearchCurrentMapOnly>
+  <TD.SearchAllMaps>Искать на всех картах</TD.SearchAllMaps>
+  <TD.SearchChosenMapsOnceLoaded>Искать на выбранных картах (после загрузки)</TD.SearchChosenMapsOnceLoaded>
+  <TD.AFilterIsForcingThisSearchToRunOnTheCurrentMapOnly>Один из фильтров заставляет этот поиск работать только на текущей карте</TD.AFilterIsForcingThisSearchToRunOnTheCurrentMapOnly>
+  <TD.Rename0>Переименовать {0}</TD.Rename0>
+  <TD.Missing01>Не найдено {0}: {1}?</TD.Missing01>
+  <TD.Filter01NeedsAMap>Фильтру {0}: {1} нужна карта — получена пустая карта?</TD.Filter01NeedsAMap>
+  <TD.Missing01On2>Не найдено {0}: {1} в {2}?</TD.Missing01On2>
+  <TD.Search0TriedToLoad1FilterButNoMapToFind2>Поиск {0} пытался загрузить фильтр {1}, но карта для поиска {2} не указана</TD.Search0TriedToLoad1FilterButNoMapToFind2>
+  <TD.AnyAggresive>Любой агрессивный</TD.AnyAggresive>
+  <TD.IsHelper>Помощник</TD.IsHelper>
+  <TD.IsLodger>Постоялец</TD.IsLodger>
+  <TD.SecurePrisoner>Надёжно удерживаемый заключённый</TD.SecurePrisoner>
+  <TD.SecureSlave>Надёжно удерживаемый раб</TD.SecureSlave>
+  <TD.AnyBleeding>Любое кровотечение</TD.AnyBleeding>
+  <TD.KeepChanges>Сохранить изменения?</TD.KeepChanges>
+  <TD.AnyPassion>Любая страсть</TD.AnyPassion>
+  <TD.IgnorePassion>Игнорировать страсть</TD.IgnorePassion>
+  <TD.Resource>Ресурс</TD.Resource>
+  <TD.Rock>Порода</TD.Rock>
+  <TD.Mineable>Добываемое</TD.Mineable>
+  <TD.PermitIsReady>Разрешение готово</TD.PermitIsReady>
+  <TD.HoldsPermit>Имеет разрешение</TD.HoldsPermit>
+  <TD.ContainerBuildings>Контейнеры</TD.ContainerBuildings>
+  <TD.Structures>Сооружения</TD.Structures>
+  <TD.AbilityLevel01>Уровень {0}: {1}</TD.AbilityLevel01>
+  <TD.Seconds>Секунды</TD.Seconds>
+  <TD.Hours>Часы</TD.Hours>
+  <TD.Days>Дни</TD.Days>
+  <TD.Years>Годы</TD.Years>
+  <TD.DefLabel.RemovePaintBuilding>Удалить краску со здания</TD.DefLabel.RemovePaintBuilding>
+  <TD.DefLabel.RemovePaintFloor>Удалить краску с пола</TD.DefLabel.RemovePaintFloor>
+  <TD.PlayersIdeoligion>Идеолигия игрока</TD.PlayersIdeoligion>
+  <TD.OtherIdeoligion>Другая идеолигия</TD.OtherIdeoligion>
+  <TD.PersonsIdeoligion>Их идеолигия</TD.PersonsIdeoligion>
+  <TD.CanBe>Может быть</TD.CanBe>
+  <TD.HasRole>Имеет роль</TD.HasRole>
+  <TD.WantsApparelForRole>Хочет одежду для роли</TD.WantsApparelForRole>
+  <TD.AnyNonLeaderRole>Любая роль, кроме лидера</TD.AnyNonLeaderRole>
+  <TD.AnyLeaderRole>Любая роль лидера</TD.AnyLeaderRole>
+  <TD.OwnersIdeoligion>Идеолигия владельца</TD.OwnersIdeoligion>
+  <TD.Mood>настроение</TD.Mood>
+  <TD.Opinion>мнение</TD.Opinion>
+  <TD.Level01>Уровень {0}: {1}</TD.Level01>
+  <TD.Chronological>Хронологический</TD.Chronological>
+  <TD.Biological>Биологический</TD.Biological>
+  <TD.MechsOverseer>Надзиратель мех-а</TD.MechsOverseer>
+  <TD.MechanitorsMechs>Механоиды механитора</TD.MechanitorsMechs>
+  <TD.AnyCommon>Любой обычный</TD.AnyCommon>
+  <TD.NoGene>Нет гена</TD.NoGene>
+  <TD.AnyGene>Любой ген</TD.AnyGene>
+  <TD.Is>—</TD.Is>
+  <TD.As>как</TD.As>
+  <TD.WorkMechanoid>Рабочий механоид</TD.WorkMechanoid>
+  <TD.ReserverMatches>Резервирующий подходит</TD.ReserverMatches>
+  <TD.IsReserved>Зарезервировано</TD.IsReserved>
+  <TD.Addiction>Зависимость</TD.Addiction>
+  <TD.Implant>Имплантат</TD.Implant>
+  <TD.Injury>Травма</TD.Injury>
+  <TD.High>Опьянение</TD.High>
+  <TD.Sickness>Болезнь</TD.Sickness>
+  <TD.UnknownModHediff>Неизвестный мод</TD.UnknownModHediff>
+  <TD.WarnCustom>Этот пользовательский фильтр — продвинутый, он требует знания кода игры. Он позволяет поиску обращаться к любому полю или свойству C# и сравнивать его значение. Доступно почти всё, даже содержимое модов.\n\nРуководства по навигации по коду игры я не даю: он слишком велик, чтобы его объяснять. Короче, вы должны знать, что ищете, а не просто бродить среди бесконечных возможностей. Многие варианты просто бесполезны, некоторые медленные, а некоторые должны быть скрыты в игре. Это полный список без фильтрации ради удобства.</TD.WarnCustom>
+  <TD.WarnExtension>Пользовательский фильтр и так продвинутый, а это ещё и метод расширения.\n\nИспользуйте его, только если знаете, что делает код. Обычно пользовательский фильтр даёт доступ лишь к полям и свойствам — коду, который ничего не меняет. Методы расширения могут что-то изменять. Поиск ничего менять не должен. Так что вы должны знать, какой метод используете и что он лишь обращается к данным.</TD.WarnExtension>
+  <TD.AnyXWhereX>.Any x =&gt; x</TD.AnyXWhereX>
+  <TD.CouldNotFindDef0For123>Не найден деф {0} для ({1}) {2}.{3}</TD.CouldNotFindDef0For123>
+  <TD.CouldntFindType0>Не найден тип {0}</TD.CouldntFindType0>
+  <TD.CouldntFindHowToHandle0>Не найден способ обработки {0}</TD.CouldntFindHowToHandle0>
+  <TD.0Options>Вариантов: {0}</TD.0Options>
+  <TD.NoOptions>Нет вариантов!</TD.NoOptions>
+  <TD.DropwdownAllOptions>ВСЕ ВАРИАНТЫ</TD.DropwdownAllOptions>
+  <TD.SetupCustomQueryOnStartup>Настраивать пользовательский фильтр при запуске</TD.SetupCustomQueryOnStartup>
+  <TD.SetupCustomQueryOnStartupTooltip>Пользовательские фильтры требуют много рефлексии, на создание которой при запуске уходит много времени.</TD.SetupCustomQueryOnStartupTooltip>
+  <TD.SetupCustomQueryOnStartupLongEvent>Создание полей пользовательского фильтра</TD.SetupCustomQueryOnStartupLongEvent>
+  <TD.SearchListType.Selectable>Всё</TD.SearchListType.Selectable>
+  <TD.SearchListType.All>Буквально всё</TD.SearchListType.All>
+  <TD.SearchListType.Items>Предметы</TD.SearchListType.Items>
+  <TD.SearchListType.Junk>Хлам</TD.SearchListType.Junk>
+  <TD.SearchListType.Everyone>Все существа</TD.SearchListType.Everyone>
+  <TD.SearchListType.Buildings>Постройки</TD.SearchListType.Buildings>
+  <TD.SearchListType.Natural>Природное</TD.SearchListType.Natural>
+  <TD.SearchListType.Plants>Растения</TD.SearchListType.Plants>
+  <TD.SearchListType.Inventory>Инвентарь</TD.SearchListType.Inventory>
+  <TD.SearchListType.Haulables>Переносимое</TD.SearchListType.Haulables>
+  <TD.SearchListType.Mergables>Объединяемое</TD.SearchListType.Mergables>
+  <TD.SearchListType.FilthInHomeArea>Грязь в домашней зоне</TD.SearchListType.FilthInHomeArea>
+  <TD.ForbiddenType.Forbidden>Запрещено</TD.ForbiddenType.Forbidden>
+  <TD.ForbiddenType.Allowed>Разрешено</TD.ForbiddenType.Allowed>
+  <TD.ForbiddenType.Forbiddable>Можно запретить</TD.ForbiddenType.Forbiddable>
+  <TD.ListCategory.Person>Человек</TD.ListCategory.Person>
+  <TD.ListCategory.Animal>Животное</TD.ListCategory.Animal>
+  <TD.ListCategory.Item>Предмет</TD.ListCategory.Item>
+  <TD.ListCategory.Building>Постройка</TD.ListCategory.Building>
+  <TD.ListCategory.Natural>Природное</TD.ListCategory.Natural>
+  <TD.ListCategory.Plant>Растение</TD.ListCategory.Plant>
+  <TD.ListCategory.Other>Прочее</TD.ListCategory.Other>
+  <TD.MineableType.Resource>Ресурс</TD.MineableType.Resource>
+  <TD.MineableType.Rock>Порода</TD.MineableType.Rock>
+  <TD.MineableType.All>Все</TD.MineableType.All>
+  <TD.DraftQuery.Drafted>Призван</TD.DraftQuery.Drafted>
+  <TD.DraftQuery.Undrafted>Не призван</TD.DraftQuery.Undrafted>
+  <TD.DraftQuery.Controllable>Управляем</TD.DraftQuery.Controllable>
+  <TD.RacePropsQuery.Predator>Хищник</TD.RacePropsQuery.Predator>
+  <TD.RacePropsQuery.Prey>Добыча</TD.RacePropsQuery.Prey>
+  <TD.RacePropsQuery.Herd>Стадо</TD.RacePropsQuery.Herd>
+  <TD.RacePropsQuery.Pack>Стая</TD.RacePropsQuery.Pack>
+  <TD.RacePropsQuery.Wildness>Дикость</TD.RacePropsQuery.Wildness>
+  <TD.RacePropsQuery.Petness>Ручность</TD.RacePropsQuery.Petness>
+  <TD.RacePropsQuery.Trainability>Обучаемость</TD.RacePropsQuery.Trainability>
+  <TD.RacePropsQuery.Intelligence>Интеллект</TD.RacePropsQuery.Intelligence>
+  <TD.RacePropsQuery.RevengeTame>Месть при провале приручения</TD.RacePropsQuery.RevengeTame>
+  <TD.RacePropsQuery.RevengeHarm>Месть при нанесении вреда</TD.RacePropsQuery.RevengeHarm>
+  <TD.ProgressType.Milkable>Молоко готово</TD.ProgressType.Milkable>
+  <TD.ProgressType.Shearable>Шерсть готова</TD.ProgressType.Shearable>
+  <TD.ProgressType.EggHatch>Прогресс вылупления</TD.ProgressType.EggHatch>
+  <TD.QueryPawnProperty.IsColonist>Колонист</TD.QueryPawnProperty.IsColonist>
+  <TD.QueryPawnProperty.IsFreeColonist>Свободный колонист</TD.QueryPawnProperty.IsFreeColonist>
+  <TD.QueryPawnProperty.IsPrisonerOfColony>Ваш заключённый</TD.QueryPawnProperty.IsPrisonerOfColony>
+  <TD.QueryPawnProperty.IsSlaveOfColony>Ваш раб</TD.QueryPawnProperty.IsSlaveOfColony>
+  <TD.QueryPawnProperty.IsPrisoner>Заключённый</TD.QueryPawnProperty.IsPrisoner>
+  <TD.QueryPawnProperty.IsSlave>Раб</TD.QueryPawnProperty.IsSlave>
+  <TD.QueryPawnProperty.IsColonyMech>Ваш механоид</TD.QueryPawnProperty.IsColonyMech>
+  <TD.QueryPawnProperty.Downed>Повален</TD.QueryPawnProperty.Downed>
+  <TD.QueryPawnProperty.Dead>Мёртв</TD.QueryPawnProperty.Dead>
+  <TD.QueryPawnProperty.HasPsylink>Имеет псилинк</TD.QueryPawnProperty.HasPsylink>
+  <TD.AbilityFilterType.Has>Известна</TD.AbilityFilterType.Has>
+  <TD.AbilityFilterType.Cooldown>На перезарядке</TD.AbilityFilterType.Cooldown>
+  <TD.AbilityFilterType.CanCast>Доступна</TD.AbilityFilterType.CanCast>
+  <TD.AbilityFilterType.Active>Активна</TD.AbilityFilterType.Active>
+  <TD.AbilityFilterType.Charges>Есть заряды</TD.AbilityFilterType.Charges>
+  <TD.SubmatchType.Has>Имеет любой</TD.SubmatchType.Has>
+  <TD.SubmatchType.Any>Любой</TD.SubmatchType.Any>
+  <TD.SubmatchType.All>Все</TD.SubmatchType.All>
+  <TD.AnyAllOrNone.Any>Хотя бы один</TD.AnyAllOrNone.Any>
+  <TD.AnyAllOrNone.All>Все</TD.AnyAllOrNone.All>
+  <TD.AnyAllOrNone.None>Ни один</TD.AnyAllOrNone.None>
+  <TD.ScheduleFilterType.Current>Текущее —</TD.ScheduleFilterType.Current>
+  <TD.ScheduleFilterType.AllScheduleIs>Расписание подходит</TD.ScheduleFilterType.AllScheduleIs>
+  <TD.ScheduleFilterType.AnyScheduleNot>Расписание не подходит</TD.ScheduleFilterType.AnyScheduleNot>
+  <TD.EquipmentFilterType.Any>экипировано или надето</TD.EquipmentFilterType.Any>
+  <TD.EquipmentFilterType.Primary>экипированное оружие</TD.EquipmentFilterType.Primary>
+  <TD.EquipmentFilterType.Equipment>прочее снаряжение</TD.EquipmentFilterType.Equipment>
+  <TD.EquipmentFilterType.Apparel>одежда</TD.EquipmentFilterType.Apparel>
+  <TD.EquipmentFilterType.Inventory>инвентарь</TD.EquipmentFilterType.Inventory>
+  <TD.EquipmentFilterType.Carried>в руках</TD.EquipmentFilterType.Carried>
+  <TD.EquipmentFilterType.Unused>в руках или в инвентаре</TD.EquipmentFilterType.Unused>
+  <TD.Intelligence.Animal>Животное</TD.Intelligence.Animal>
+  <TD.Intelligence.ToolUser>Пользователь инструментов</TD.Intelligence.ToolUser>
+  <TD.Intelligence.Humanlike>Человекоподобный</TD.Intelligence.Humanlike>
+  <TD.Gender.Male>Мужской</TD.Gender.Male>
+  <TD.Gender.Female>Женский</TD.Gender.Female>
+  <TD.Gender.None>Бесполый</TD.Gender.None>
+</LanguageData>
