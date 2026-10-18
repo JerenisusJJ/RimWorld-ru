@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MechCluster.label>кластер механоидов</MechCluster.label>
+  <MechCluster.description>Боевой кластер механоидов</MechCluster.description>
+  <MechCluster.arrivedLetter>В этой области находится кластер враждебных механоидов.\n\nВ состав кластера могут входить артиллерия, турели, боевые механоиды и различные защитные сооружения.</MechCluster.arrivedLetter>
+  <MechClusterForceNoConditionCauser.label>кластер механоидов</MechClusterForceNoConditionCauser.label>
+  <MechClusterForceNoConditionCauser.description>Боевой кластер механоидов</MechClusterForceNoConditionCauser.description>
+  <MechClusterForceNoConditionCauser.arrivedLetter>В этой области находится кластер враждебных механоидов.\n\nВ состав кластера могут входить артиллерия, турели, боевые механоиды и различные защитные сооружения.</MechClusterForceNoConditionCauser.arrivedLetter>
+</LanguageData>

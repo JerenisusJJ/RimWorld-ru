@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WakeUpAddiction.label>бодриновая зависимость</WakeUpAddiction.label>
+  <WakeUpAddiction.description>Зависимость от бодрина. Его продолжительное употребление вызывает неврологические изменения на клеточном уровне, из-за чего мозг уже не способен нормально функционировать без вещества.\n\nПерерыв в регулярном употреблении бодрина вызовет абстинентный синдром — ломку. Длительное воздержание поможет мозгу вернуться к нормальному состоянию и избавиться от зависимости.</WakeUpAddiction.description>
+  <WakeUpAddiction.stages.withdrawal.label>ломка</WakeUpAddiction.stages.withdrawal.label>
+  <WakeUpHigh.label>под действием бодрина</WakeUpHigh.label>
+  <WakeUpHigh.description>Бодрин, попав в кровь, стимулирует мозг, уменьшая потребность в отдыхе и улучшая внимание, что позволяет быстрее выполнять любую работу. Бодрин также повышает пси-концентрацию, получаемую при медитации.</WakeUpHigh.description>
+  <WakeUpHigh.labelNoun>действие бодрина</WakeUpHigh.labelNoun>
+  <WakeUpTolerance.label>толерантность к бодрину</WakeUpTolerance.label>
+  <WakeUpTolerance.description>Толерантность к бодрину. Чем она серьёзнее, тем больше потребуется бодрина для получения первоначального эффекта.</WakeUpTolerance.description>
+  <WakeUpTolerance.stages.small.label>небольшая</WakeUpTolerance.stages.small.label>
+  <WakeUpTolerance.stages.large.label>средняя</WakeUpTolerance.stages.large.label>
+  <WakeUpTolerance.stages.massive.label>сильная</WakeUpTolerance.stages.massive.label>
+</LanguageData>

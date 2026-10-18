@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimalPersonhood_AnimalPersonhood.label>солидарность в очеловечивании животных</AnimalPersonhood_AnimalPersonhood.label>
+  <Cannibal_Cannibal.label>солидарность в каннибализме</Cannibal_Cannibal.label>
+  <Cannibal_FleshPurity.label>каннибализм vs биоконсерватизм</Cannibal_FleshPurity.label>
+  <Cannibal_PainIsVirtue.label>каннибализм vs флагелланство</Cannibal_PainIsVirtue.label>
+  <Collectivist_Collectivist.label>солидарность в коллективизме</Collectivist_Collectivist.label>
+  <Collectivist_Individualist.label>коллективизм vs индивидуализм</Collectivist_Individualist.label>
+  <FemaleSupremacy_FemaleSupremacy.label>солидарность в матриархате</FemaleSupremacy_FemaleSupremacy.label>
+  <FemaleSupremacy_Individualist.label>матриархат vs индивидуализм</FemaleSupremacy_Individualist.label>
+  <FemaleSupremacy_MaleSupremacy.label>матриархат vs патриархат</FemaleSupremacy_MaleSupremacy.label>
+  <FleshPurity_FleshPurity.label>солидарность в биоконсерватизме</FleshPurity_FleshPurity.label>
+  <FleshPurity_Transhumanist.label>биоконсерватизм vs трансгуманизм</FleshPurity_Transhumanist.label>
+  <Guilty_All.label>культ вины</Guilty_All.label>
+  <HighLife_FleshPurity.label>жизнь под кайфом vs биоконсерватизм</HighLife_FleshPurity.label>
+  <HighLife_HighLife.label>солидарность в жизни под кайфом</HighLife_HighLife.label>
+  <HumanPrimacy_AnimalPersonhood.label>верховенство человека vs очеловечивание животных</HumanPrimacy_AnimalPersonhood.label>
+  <HumanPrimacy_FleshPurity.label>верховенство человека vs биоконсерватизм</HumanPrimacy_FleshPurity.label>
+  <HumanPrimacy_HumanPrimacy.label>солидарность в верховенстве человека</HumanPrimacy_HumanPrimacy.label>
+  <HumanPrimacy_Transhumanist.label>верховенство человека vs трансгуманизм</HumanPrimacy_Transhumanist.label>
+  <Individualist_Cannibal.label>индивидуализм vs каннибализм</Individualist_Cannibal.label>
+  <Individualist_Individualist.label>солидарность в индивидуализме</Individualist_Individualist.label>
+  <Individualist_Proselytizer.label>индивидуализм vs прозелитизм</Individualist_Proselytizer.label>
+  <Loyalist_All.label>лоялизм</Loyalist_All.label>
+  <MaleSupremacy_Individualist.label>патриархат vs индивидуализм</MaleSupremacy_Individualist.label>
+  <MaleSupremacy_MaleSupremacy.label>солидарность в патриархате</MaleSupremacy_MaleSupremacy.label>
+  <NaturePrimacy_AnimalPersonhood.label>верховенство природы vs очеловечивание животных</NaturePrimacy_AnimalPersonhood.label>
+  <NaturePrimacy_HumanPrimacy.label>верховенство природы vs верховенство человека</NaturePrimacy_HumanPrimacy.label>
+  <NaturePrimacy_NaturePrimacy.label>солидарность в верховенстве природы</NaturePrimacy_NaturePrimacy.label>
+  <NaturePrimacy_Transhumanist.label>верховенство природы vs трансгуманизм</NaturePrimacy_Transhumanist.label>
+  <Nudism_Nudism.label>солидарность в нудизме</Nudism_Nudism.label>
+  <PainIsVirtue_PainIsVirtue.label>солидарность во флагелланстве</PainIsVirtue_PainIsVirtue.label>
+  <Raider_All.label>пиратство</Raider_All.label>
+  <Rancher_AnimalPersonhood.label>скотоводство vs очеловечивание животных</Rancher_AnimalPersonhood.label>
+  <Rancher_NaturePrimacy.label>скотоводство vs верховенство природы</Rancher_NaturePrimacy.label>
+  <SameIdeo.label>обе фракции придерживаются {0_name}</SameIdeo.label>
+  <Supremacist_All.label>супремасизм</Supremacist_All.label>
+  <Transhumanist_Transhumanist.label>солидарность в трансгуманизме</Transhumanist_Transhumanist.label>
+</LanguageData>

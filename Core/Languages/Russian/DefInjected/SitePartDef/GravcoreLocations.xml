@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AbandonedSettlement.label>заброшенное поселение</AbandonedSettlement.label>
+  <AbandonedSettlement.description>Энергетический след гравиядра тянется из этого поселения. Исследуйте заброшенные здания, чтобы найти гравиядро.</AbandonedSettlement.description>
+  <AbandonedSettlement.mainPartAllThreatsLabel>Содержит: гравиядро</AbandonedSettlement.mainPartAllThreatsLabel>
+  <AncientReactor.label>древний реактор</AncientReactor.label>
+  <AncientReactor.description>В близлежащих руинах скрыт древний реактор. Реактор поврежден и распространяет токсичную пыль по всему региону. Найдите и отключите его, чтобы получить гравиядро и остановить выбросы.</AncientReactor.description>
+  <AncientReactor.mainPartAllThreatsLabel>Содержит: гравиядро</AncientReactor.mainPartAllThreatsLabel>
+  <AncientStockpile.label>древнее хранилище</AncientStockpile.label>
+  <AncientStockpile.description>Вы засекли энергетический след гравиядра, исходящий из древнего подземного хранилища. Местоположение отмечено на мировой карте.\n\nСобирайте гравиядра и панели из гравлита, чтобы увеличить размер вашего гравикорабля.</AncientStockpile.description>
+  <AncientStockpile.mainPartAllThreatsLabel>Содержит: гравиядро</AncientStockpile.mainPartAllThreatsLabel>
+  <CrashedMechanoidPlatform.label>упавшая платформа механоидов</CrashedMechanoidPlatform.label>
+  <CrashedMechanoidPlatform.description>Рядом разбросаны обломки орбитальной платформы. Будьте осторожны: среди обломков находятся враждебные механоиды.\n\nСигнал гравиядра исходит из зоны крушения.</CrashedMechanoidPlatform.description>
+  <CrashedMechanoidPlatform.mainPartAllThreatsLabel>Содержит: гравиядро</CrashedMechanoidPlatform.mainPartAllThreatsLabel>
+  <FrozenTerraformer.label>замерзший терраформер</FrozenTerraformer.label>
+  <FrozenTerraformer.description>Вы обнаружили энергетический след гравиядра. Оно питает неработающий древний терраформер. Его местоположение отмечено на мировой карте.\n\nТерраформер охлаждает местность до опасно низких температур. Будьте готовы к холоду.\n\nСобирайте гравиядра и панели из гравлита, чтобы увеличить размер вашего гравикорабля.</FrozenTerraformer.description>
+  <FrozenTerraformer.mainPartAllThreatsLabel>Содержит: гравиядро</FrozenTerraformer.mainPartAllThreatsLabel>
+  <InsectLair.label>система пещер</InsectLair.label>
+  <InsectLair.description>Вы засекли энергетический след гравиядра, исходящий из глубокой системы пещер. Вход в систему пещер отмечен на мировой карте.\n\nСобирайте гравиядра и панели из гравлита, чтобы улучшить свой гравикорабль.</InsectLair.description>
+  <InsectLair.mainPartAllThreatsLabel>Содержит: гравиядро</InsectLair.mainPartAllThreatsLabel>
+  <MechanoidRelay.label>ретранслятор механоидов</MechanoidRelay.label>
+  <MechanoidRelay.description>Энергетический след гравиядра исходит от ретранслятора механоидов. Разберите его, чтобы получить гравиядро.</MechanoidRelay.description>
+  <MechanoidRelay.mainPartAllThreatsLabel>Содержит: гравиядро</MechanoidRelay.mainPartAllThreatsLabel>
+  <OrbitalAncientPlatform.label>заброшенная орбитальная платформа</OrbitalAncientPlatform.label>
+  <OrbitalAncientPlatform.description>Вы обнаружили энергетический след гравиядра.\n\nБудьте осторожны — орбитальные места крайне опасны. Убедитесь, что ваш гравикорабль полностью герметичен, а поселенцы экипированы скафандрами. Спланируйте обратный путь — длительное пребывание на орбите очень затруднительно.</OrbitalAncientPlatform.description>
+  <OrbitalAncientPlatform.mainPartAllThreatsLabel>Содержит: гравиядро</OrbitalAncientPlatform.mainPartAllThreatsLabel>
+  <OrbitalMechanoidPlatform.label>платформа механоидов</OrbitalMechanoidPlatform.label>
+  <OrbitalMechanoidPlatform.description>Вы обнаружили энергетический след гравиядра на этой платформе. Здесь высокая активность механоидов.\n\nБудьте осторожны — орбитальные места крайне опасны. Убедитесь, что ваш гравикорабль полностью герметичен, а поселенцы экипированы скафандрами. Спланируйте обратный путь — длительное пребывание на орбите очень затруднительно.</OrbitalMechanoidPlatform.description>
+  <OrbitalMechanoidPlatform.mainPartAllThreatsLabel>Содержит: гравиядро</OrbitalMechanoidPlatform.mainPartAllThreatsLabel>
+  <OrbitalMechhive.label>мехрой</OrbitalMechhive.label>
+  <OrbitalMechhive.description>Вы обнаружили мехрой на орбите планеты. Его местоположение отмечено на мировой карте.\n\nМехрой — центр искусственного интеллекта механоидов. Если его отключить, механоиды по всей планете перестанут работать. Кроме того, вы можете использовать мехрой для своих собственных целей.\n\nОсторожно: мехрои чрезвычайно опасны. Сначала исследуйте другие места и убедитесь, что подготовлены к долгому пребыванию на орбите.</OrbitalMechhive.description>
+</LanguageData>

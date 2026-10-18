@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DroneChassis.label>шасси</DroneChassis.label>
+  <DroneCore.label>ядро</DroneCore.label>
+  <DroneEye.label>глаз</DroneEye.label>
+  <DroneShell.label>корпус</DroneShell.label>
+  <DroneShellSection.label>секция корпуса</DroneShellSection.label>
+  <DroneShellSectionWithSpike.label>секция корпуса с шипами</DroneShellSectionWithSpike.label>
+  <DroneTreads.label>гусеницы</DroneTreads.label>
+</LanguageData>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BioferriteGenerator.stages.Bioferrite_generator.label>Биоферритовый генератор</BioferriteGenerator.stages.Bioferrite_generator.label>
+  <BioferriteGenerator.stages.Bioferrite_generator.description>Гул от этой проклятой машины меня с ума сведёт. Как когтем по меловой доске.</BioferriteGenerator.stages.Bioferrite_generator.description>
+  <BloodRage.stages.blood_rage-0.label>кровавая ярость</BloodRage.stages.blood_rage-0.label>
+  <BloodRage.stages.blood_rage-1.label>кровавая ярость</BloodRage.stages.blood_rage-1.label>
+  <BloodRage.stages.blood_rage-1.description>Меня разбирает злость. Хочется кому-нибудь вдарить.</BloodRage.stages.blood_rage-1.description>
+  <BloodRage.stages.blood_rage-2.label>кровавая ярость</BloodRage.stages.blood_rage-2.label>
+  <BloodRage.stages.blood_rage-2.description>Хочу причинить кому-нибудь боль. Очень-очень.</BloodRage.stages.blood_rage-2.description>
+  <BloodRage.stages.blood_rage-3.label>кровавая ярость</BloodRage.stages.blood_rage-3.label>
+  <BloodRage.stages.blood_rage-3.description>Всё в труху! Всё на куски! Поделом!</BloodRage.stages.blood_rage-3.description>
+  <BloodRage.stages.blood_rage-4.label>кровавая ярость</BloodRage.stages.blood_rage-4.label>
+  <BloodRage.stages.blood_rage-4.description>Убью! Уничтожу!</BloodRage.stages.blood_rage-4.description>
+  <CubeSculptures.stages.cube_sculpture.label>скульптура куба</CubeSculptures.stages.cube_sculpture.label>
+  <CubeSculptures.stages.cube_sculpture.description>Моя скульптура… моя прекрасная скульптура!</CubeSculptures.stages.cube_sculpture.description>
+  <CubeWithdrawl.stages.cube_withdrawal-0.label>кубическая ломка</CubeWithdrawl.stages.cube_withdrawal-0.label>
+  <CubeWithdrawl.stages.cube_withdrawal-0.description>Мне надо увидеть золотистый куб. Хоть разок ещё. Ну пожалуйста!</CubeWithdrawl.stages.cube_withdrawal-0.description>
+  <CubeWithdrawl.stages.cube_withdrawal-1.label>кубическая ломка</CubeWithdrawl.stages.cube_withdrawal-1.label>
+  <CubeWithdrawl.stages.cube_withdrawal-1.description>Где куб? Мне так его не хватает. Он мне нужен!</CubeWithdrawl.stages.cube_withdrawal-1.description>
+  <CubeWithdrawl.stages.cube_withdrawal-2.label>кубическая ломка</CubeWithdrawl.stages.cube_withdrawal-2.label>
+  <CubeWithdrawl.stages.cube_withdrawal-2.description>Где мой куб? Где он?</CubeWithdrawl.stages.cube_withdrawal-2.description>
+  <DeadlifeDust.stages.deadlife_dust-0.label>порошок мёртвой жизни</DeadlifeDust.stages.deadlife_dust-0.label>
+  <DeadlifeDust.stages.deadlife_dust-0.description>Все жутко чешется от этой пыли.</DeadlifeDust.stages.deadlife_dust-0.description>
+  <DeadlifeDust.stages.deadlife_dust-1.label>порошок мёртвой жизни</DeadlifeDust.stages.deadlife_dust-1.label>
+  <DeadlifeDust.stages.deadlife_dust-1.description>У меня от этой пыли сыпь. Все жжётся.</DeadlifeDust.stages.deadlife_dust-1.description>
+  <DeadlifeDust.stages.deadlife_dust-2.label>порошок мёртвой жизни</DeadlifeDust.stages.deadlife_dust-2.label>
+  <DeadlifeDust.stages.deadlife_dust-2.description>Какая неприятная пыль! Режет глаза и лёгкие.</DeadlifeDust.stages.deadlife_dust-2.description>
+  <DeathPall.stages.death_pall.label>пелена смерти</DeathPall.stages.death_pall.label>
+  <DeathPall.stages.death_pall.description>Пахнет смертью.</DeathPall.stages.death_pall.description>
+  <DeathPall.stages.death_pall_exposure.label>воздействие пелены смерти</DeathPall.stages.death_pall_exposure.label>
+  <DeathPall.stages.death_pall_exposure.description>Пахнет смертью. Глаза режет. Воздух на зубах скрипит.</DeathPall.stages.death_pall_exposure.description>
+  <DeathRefusalSickness.stages.death_refusal.label>лекарство от смерти</DeathRefusalSickness.stages.death_refusal.label>
+  <DeathRefusalSickness.stages.death_refusal.description>Смерть… я же уже… Там было так холодно… так страшно.</DeathRefusalSickness.stages.death_refusal.description>
+  <DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.label>моя скульптура куба уничтожена</DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.label>
+  <DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.description>Моя скульптура… моя прекрасная скульптура…</DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.description>
+  <EntityInRoom.stages.monster_by_my_bed.label>монстр у моей кровати</EntityInRoom.stages.monster_by_my_bed.label>
+  <EntityInRoom.stages.monster_by_my_bed.description>Я не могу спать, пока у моей кровати эта страшная тварь!</EntityInRoom.stages.monster_by_my_bed.description>
+  <FleshTentacle.stages.flesh_tentacle.label>щупальце из биомассы</FleshTentacle.stages.flesh_tentacle.label>
+  <FleshTentacle.stages.flesh_tentacle.description>Снимите его с меня, снимите!</FleshTentacle.stages.flesh_tentacle.description>
+  <FleshWhip.stages.flesh_whip.label>хлыст из биомассы</FleshWhip.stages.flesh_whip.label>
+  <FleshWhip.stages.flesh_whip.description>Он всё время извивается. Ненавижу.</FleshWhip.stages.flesh_whip.description>
+  <GrayPall.stages.gray_pall.label>серая пелена</GrayPall.stages.gray_pall.label>
+  <GrayPall.stages.gray_pall.description>Как будто весь мир смертельно болен.</GrayPall.stages.gray_pall.description>
+  <GrayPall.stages.gray_pall_exposure.label>воздействие серой пелены</GrayPall.stages.gray_pall_exposure.label>
+  <GrayPall.stages.gray_pall_exposure.description>Как будто весь мир смертельно болен. Меня тошнит от этого зловонного запаха.</GrayPall.stages.gray_pall_exposure.description>
+  <HarbingerScream.stages.harbinger_tree_scream.label>крик древа-предвестника</HarbingerScream.stages.harbinger_tree_scream.label>
+  <HarbingerScream.stages.harbinger_tree_scream.description>С тех пор как погибло то дерево, у меня голова раскалывается. Я как будто до сих пор его слышу…</HarbingerScream.stages.harbinger_tree_scream.description>
+  <HateChantDrone.stages.hate_chant_whispers.label>шёпот поющих гимн злобы</HateChantDrone.stages.hate_chant_whispers.label>
+  <HateChantDrone.stages.hate_chant_whispers.description>Я слышу этот шёпот повсюду. Он преследует меня и говорит мне немыслимое.</HateChantDrone.stages.hate_chant_whispers.description>
+  <HateChantDrone.stages.quiet_hate_chanting.label>тихий гимн злобы</HateChantDrone.stages.quiet_hate_chanting.label>
+  <HateChantDrone.stages.quiet_hate_chanting.description>Они все бормочут и бормочут, и разум мой наполняется ненавистью.</HateChantDrone.stages.quiet_hate_chanting.description>
+  <HateChantDrone.stages.hate_chanting.label>гимн злобы</HateChantDrone.stages.hate_chanting.label>
+  <HateChantDrone.stages.hate_chanting.description>Я слышу слова. Утробный рык, мычание и яростные стоны — всё в моей голове. Я схожу с ума!</HateChantDrone.stages.hate_chanting.description>
+  <HateChantDrone.stages.loud_hate_chanting.label>громкий гимн злобы</HateChantDrone.stages.loud_hate_chanting.label>
+  <HateChantDrone.stages.loud_hate_chanting.description>Я постоянно слышу вой! Гимн у меня в голове не утихает!</HateChantDrone.stages.loud_hate_chanting.description>
+  <HateChantDrone.stages.extreme_hate_chanting.label>смертельный гимн злобы</HateChantDrone.stages.extreme_hate_chanting.label>
+  <HateChantDrone.stages.extreme_hate_chanting.description>Ярость в голове — убивать — свежевать заживо — поделом им всем — чёрный океан — ужас — глубоко…</HateChantDrone.stages.extreme_hate_chanting.description>
+  <ImprisonedWithEntity.stages.imprisoned_with_entity.label>в заточении с тварью</ImprisonedWithEntity.stages.imprisoned_with_entity.label>
+  <ImprisonedWithEntity.stages.imprisoned_with_entity.description>Выхода нет, а тут со мной эта страшная тварь!</ImprisonedWithEntity.stages.imprisoned_with_entity.description>
+  <JoyousPresence.stages.Joyous_presence.label>рядом лучик счастья</JoyousPresence.stages.Joyous_presence.label>
+  <JoyousPresence.stages.Joyous_presence.description>Наш лучик счастья всегда рядом. Так хорошо от этого становится! Просто чудесно.</JoyousPresence.stages.Joyous_presence.description>
+  <JuggernautSerum.stages.juggernaut_serum.label>сыворотка сокрушительной силы</JuggernautSerum.stages.juggernaut_serum.label>
+  <JuggernautSerum.stages.juggernaut_serum.description>Что-то у меня от неё постоянно мысли нехорошие в голову лезут.</JuggernautSerum.stages.juggernaut_serum.description>
+  <NeurosisPulse.stages.neurosis_pulse.label>волна невроза</NeurosisPulse.stages.neurosis_pulse.label>
+  <NeurosisPulse.stages.neurosis_pulse.description>Отстаньте все! У меня работы невпроворот!</NeurosisPulse.stages.neurosis_pulse.description>
+  <PleasurePulse.stages.pleasure_pulse.label>волна удовольствия</PleasurePulse.stages.pleasure_pulse.label>
+  <PleasurePulse.stages.pleasure_pulse.description>По телу раскатываются волны удовольствия. Всё вокруг кажется мягким и пушистым.</PleasurePulse.stages.pleasure_pulse.description>
+  <ReadingTome.stages.Fascinating_tome.label>Завораживающий том</ReadingTome.stages.Fascinating_tome.label>
+  <ReadingTome.stages.Fascinating_tome.description>Он будто бы говорит со мной.</ReadingTome.stages.Fascinating_tome.description>
+  <SleepSuppressor.stages.Sleep_suppressor.label>Подавитель сонливости</SleepSuppressor.stages.Sleep_suppressor.label>
+  <SleepSuppressor.stages.Sleep_suppressor.description>Шум работы этого дьявольского аппарата раздражает. Он как будто вгрызается в мозг. Эта машина — чистое зло.</SleepSuppressor.stages.Sleep_suppressor.description>
+  <SpokeToDisturbingMood.stages.unsettling_conversation.label>жуткая беседа</SpokeToDisturbingMood.stages.unsettling_conversation.label>
+  <SpokeToDisturbingMood.stages.unsettling_conversation.description>Меня преследует недавний разговор. Мне страшно, что кто-то вообще может о таком подумать, не то что сказать вслух.</SpokeToDisturbingMood.stages.unsettling_conversation.description>
+  <SwallowedByDarkness.stages.swallowed_by_darkness.label>удушающая темнота</SwallowedByDarkness.stages.swallowed_by_darkness.label>
+  <SwallowedByDarkness.stages.swallowed_by_darkness.description>Я задыхаюсь в этой темноте. Ничего не вижу, даже думать не могу!</SwallowedByDarkness.stages.swallowed_by_darkness.description>
+  <UnnaturalCorpse.stages.unnatural_corpse.label>странный мертвец</UnnaturalCorpse.stages.unnatural_corpse.label>
+  <UnnaturalCorpse.stages.unnatural_corpse.description>Везде ощущаю на себе этот взгляд. Это чувство не оставляет меня ни на минуту.</UnnaturalCorpse.stages.unnatural_corpse.description>
+  <UnnaturalDarkness.stages.unnatural_darkness.label>неестественная темнота</UnnaturalDarkness.stages.unnatural_darkness.label>
+  <UnnaturalDarkness.stages.unnatural_darkness.description>Я задыхаюсь под покровом тьмы.</UnnaturalDarkness.stages.unnatural_darkness.description>
+  <UnnaturalDarkness.stages.unnatural_sky.label>неестественное небо</UnnaturalDarkness.stages.unnatural_sky.label>
+  <UnnaturalDarkness.stages.unnatural_sky.description>Истина наконец пришла. Она проглотит ложный мир.</UnnaturalDarkness.stages.unnatural_sky.description>
+  <VoidFascination.stages.captured_entity.label>захваченная тварь</VoidFascination.stages.captured_entity.label>
+  <VoidFascination.stages.captured_entity.description>Какое восхитительное создание. Сколько в нём непознанной силы…</VoidFascination.stages.captured_entity.description>
+  <VoidPleasure.stages.void_pleasure.label>удовольствие от пустоты</VoidPleasure.stages.void_pleasure.label>
+  <VoidPleasure.stages.void_pleasure.description>Вибрации реального мира проходят сквозь меня и даруют облегчение.</VoidPleasure.stages.void_pleasure.description>
+  <Voidsight.stages.voidsight.label>взгляд в пустоту</Voidsight.stages.voidsight.label>
+  <Voidsight.stages.voidsight.description>Сыворотка открыла мне глаза. Я вижу связи повсюду, я вижу потоки эмоций. Я вижу лица в тенях. Так много лиц…</Voidsight.stages.voidsight.description>
+  <WearingDreadLeather.stages.dread_leather.label>{0} из жуткой кожи</WearingDreadLeather.stages.dread_leather.label>
+  <WearingDreadLeather.stages.dread_leather.description>Терпеть не могу этот материал. Он воняет.</WearingDreadLeather.stages.dread_leather.description>
+  <WearingDreadLeather.stages.dread_leather_1.label>{0} из жуткой кожи (+1)</WearingDreadLeather.stages.dread_leather_1.label>
+  <WearingDreadLeather.stages.dread_leather_1.description>Два предмета из жуткой кожи. Как-то мне не по себе.</WearingDreadLeather.stages.dread_leather_1.description>
+  <WearingDreadLeather.stages.dread_leather_2.label>{0} из жуткой кожи (+2)</WearingDreadLeather.stages.dread_leather_2.label>
+  <WearingDreadLeather.stages.dread_leather_2.description>Три предмета из жуткой кожи. Меня аж передёргивает. Запах просто невыносимый.</WearingDreadLeather.stages.dread_leather_2.description>
+  <WearingDreadLeather.stages.dread_leather_etc.label>{0} из жуткой кожи и др.</WearingDreadLeather.stages.dread_leather_etc.label>
+  <WearingDreadLeather.stages.dread_leather_etc.description>Я {PAWN_gender ? весь : вся} в ней…</WearingDreadLeather.stages.dread_leather_etc.description>
+</LanguageData>

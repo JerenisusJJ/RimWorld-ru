@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <TerrainTagWater>вода и болото</TerrainTagWater>
+  <TerrainTagRiver>река</TerrainTagRiver>
+  <TerrainTagOcean>океан</TerrainTagOcean>
+  <TerrainTagIce>лёд</TerrainTagIce>
+  <TerrainTagFineFloor>изысканное покрытие</TerrainTagFineFloor>
+  <TerrainTagSoil>почва</TerrainTagSoil>
+  <TerrainTagRoad>дорога</TerrainTagRoad>
+  <TerrainTagFloor>пол</TerrainTagFloor>
+  <TerrainTagSubstructure>основание</TerrainTagSubstructure>
+  <TerrainTagInsect>насекомые</TerrainTagInsect>
+</LanguageData>

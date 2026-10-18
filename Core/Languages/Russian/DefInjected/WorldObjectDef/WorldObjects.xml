@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AsteroidBasic.label>основной астероид</AsteroidBasic.label>
+  <AsteroidBasic.description>Вакуумитовый астероид, который был отбуксирован на орбиту вокруг планеты в рамках давней добывающей операции. Большая часть ценных ресурсов на этом астероиде уже исчерпана.\n\nДо этого места можно добраться с помощью транспортных капсул, челноков или гравикорабля.</AsteroidBasic.description>
+  <AsteroidMiningSite.label>астероидный рудник</AsteroidMiningSite.label>
+  <AsteroidMiningSite.description>Вакуумитовый астероид, который был отбуксирован на орбиту вокруг планеты в рамках давней добывающей операции. Этот астероид был лишь частично разработан.\n\nДо этого места можно добраться с помощью транспортных капсул, челноков или гравикорабля.</AsteroidMiningSite.description>
+  <ClaimableSite.label>доступный для захвата объект</ClaimableSite.label>
+  <ClaimableSpaceSite.label>доступный для захвата космический объект</ClaimableSpaceSite.label>
+  <DestroyedSpaceSettlement.label>разрушенное поселение</DestroyedSpaceSettlement.label>
+  <DestroyedSpaceSettlement.description>Разгромленное поселение.</DestroyedSpaceSettlement.description>
+  <Gravship.label>гравикорабль</Gravship.label>
+  <Gravship.description>Гравикорабль в полете.</Gravship.description>
+  <GravshipLaunch.label>запуск гравикорабля</GravshipLaunch.label>
+  <GravshipLaunch.description>Место запуска гравикорабля.</GravshipLaunch.description>
+  <Mechhive.label>мехрой</Mechhive.label>
+  <OrbitalItemStash.label>орбитальный схрон</OrbitalItemStash.label>
+  <OrbitalItemStash.description>Вакуумитовый астероид, который был отбуксирован на орбиту вокруг планеты в рамках давней добывающей операции. Большая часть ценных ресурсов на этом астероиде уже исчерпана.\n\nДо этого места можно добраться с помощью транспортных капсул, челноков или гравикорабля.</OrbitalItemStash.description>
+  <PassengerShuttle.label>пассажирский челнок</PassengerShuttle.label>
+  <PassengerShuttle.description>Пассажирский челнок в полёте.</PassengerShuttle.description>
+  <Space.label>космос</Space.label>
+  <SpaceSettlement.label>орбитальное поселение</SpaceSettlement.label>
+  <SpaceSettlement.description>Орбитальная платформа, контролируемая другой человеческой фракцией. Здесь не будут рады посетителям.\n\nНа этих платформах установлены дальнобойные автоматические системы вооружения, способные уничтожать приближающиеся корабли. Безопасно подойти можно только на гравикорабле с глушителем сигналов.</SpaceSettlement.description>
+  <SpaceSite.label>космический объект</SpaceSite.label>
+  <AbandonedLandmark.label>заброшенная достопримечательность</AbandonedLandmark.label>
+  <AbandonedLandmark.description>Заброшенный лагерь у древнего ориентира.</AbandonedLandmark.description>
+</LanguageData>

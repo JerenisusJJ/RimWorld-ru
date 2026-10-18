@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ClimateAdjuster.label>регулятор климата</ClimateAdjuster.label>
+  <ClimateAdjuster.description>Регулятор климата.</ClimateAdjuster.description>
+  <EMIDynamo.label>ЭМИ-генератор</EMIDynamo.label>
+  <EMIDynamo.description>Генератор ЭМИ.</EMIDynamo.description>
+  <PsychicDroner.label>источник гула</PsychicDroner.label>
+  <PsychicDroner.description>Источник гула.</PsychicDroner.description>
+  <PsychicSuppressor.label>психический подавитель</PsychicSuppressor.label>
+  <PsychicSuppressor.description>Психический подавитель.</PsychicSuppressor.description>
+  <SmokeSpewer.label>дымогенератор</SmokeSpewer.label>
+  <SmokeSpewer.description>Генератор дыма.</SmokeSpewer.description>
+  <SunBlocker.label>блокировщик солнца</SunBlocker.label>
+  <SunBlocker.description>Машина, делающее небо непроницаемым для солнечных лучей.</SunBlocker.description>
+  <ToxicSpewer.label>распылитель токсинов</ToxicSpewer.label>
+  <ToxicSpewer.description>Распылитель токсинов.</ToxicSpewer.description>
+  <WeatherController.label>контроллер погоды</WeatherController.label>
+  <WeatherController.description>Контроллер погоды.</WeatherController.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bullet_ToxbombLauncher.label>снаряд токсичного гранатомёта</Bullet_ToxbombLauncher.label>
+  <Flamebow.label>зажигательный лук</Flamebow.label>
+  <Flamebow.description>Простой короткий лук с запасом зажигательных стрел. При попадании вокруг стрелы разбрызгивается и воспламеняется топливо.</Flamebow.description>
+  <Flamebow.tools.limb.label>плечо</Flamebow.tools.limb.label>
+  <Flamebow.verbs.Verb_Shoot.label>зажигательный лук</Flamebow.verbs.Verb_Shoot.label>
+  <Gun_ToxbombLauncher.label>токсичный гранатомёт</Gun_ToxbombLauncher.label>
+  <Gun_ToxbombLauncher.description>Пусковая установка, стреляющая снарядами с токсичным газом. Снаряды при попадании испускают из себя газ некоторое время.\n\nТоксичный газ обжигает лёгкие и глаза, вызывая временную одышку и ухудшение зрения, а его длительное воздействие приводит к отравлению токсинами, что чревато летальным исходом.</Gun_ToxbombLauncher.description>
+  <Gun_ToxbombLauncher.tools.stock.label>приклад</Gun_ToxbombLauncher.tools.stock.label>
+  <Gun_ToxbombLauncher.tools.barrel.label>ствол</Gun_ToxbombLauncher.tools.barrel.label>
+  <Gun_ToxbombLauncher.verbs.Verb_Shoot.label>токсичный гранатомёт</Gun_ToxbombLauncher.verbs.Verb_Shoot.label>
+  <Proj_FireArrow.label>зажигательная стрела</Proj_FireArrow.label>
+  <Proj_GrenadeTox.label>токсичная граната</Proj_GrenadeTox.label>
+  <Weapon_GrenadeTox.label>токсичные гранаты</Weapon_GrenadeTox.label>
+  <Weapon_GrenadeTox.description>Гранаты, в которые заправлен сжиженный токсичный газ. После приземления испускают его из себя некоторое время.\n\nТоксичный газ обжигает лёгкие и глаза, вызывая временную одышку и ухудшение зрения, а его длительное воздействие приводит к отравлению токсинами, что чревато летальным исходом.</Weapon_GrenadeTox.description>
+  <Weapon_GrenadeTox.verbs.throw_tox_grenade.label>метнуть токсичную гранату</Weapon_GrenadeTox.verbs.throw_tox_grenade.label>
+</LanguageData>

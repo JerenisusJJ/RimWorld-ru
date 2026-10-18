@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AcceptedDeserter.label>принят дезертир</AcceptedDeserter.label>
+  <FailedToKeepLodgersHappy.label>гости остались недовольны</FailedToKeepLodgersHappy.label>
+  <MemberMissedShuttle.label>член фракции не попал на челнок</MemberMissedShuttle.label>
+  <MonumentConstructionExpired.label>истёк срок постройки монумента</MonumentConstructionExpired.label>
+  <MonumentConstructionMapRemoved.label>отменено строительство монумента</MonumentConstructionMapRemoved.label>
+  <MonumentDestroyed.label>монумент уничтожен</MonumentDestroyed.label>
+  <QuestGoodwillReward.label>задание выполнено</QuestGoodwillReward.label>
+  <QuestPawnArrested.label>член фракции захвачен в плен</QuestPawnArrested.label>
+  <QuestPawnLost.label>член фракции пропал без вести</QuestPawnLost.label>
+  <QuestPrisonerEnslaved.label>пленник обращён в рабство</QuestPrisonerEnslaved.label>
+  <QuestPrisonerRecruited.label>пленник завербован</QuestPrisonerRecruited.label>
+  <ShuttleCommanderMissedShuttle.label>командир челнока не попал на челнок</ShuttleCommanderMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>охрана челнока не попала на челнок</ShuttleGuardsMissedShuttle.label>
+</LanguageData>

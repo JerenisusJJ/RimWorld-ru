@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Chemical.label>употребление «химии»</Chemical.label>
+  <Gaming_Cerebral.label>интеллектуальные игры</Gaming_Cerebral.label>
+  <Gaming_Dexterity.label>игры на ловкость</Gaming_Dexterity.label>
+  <Gluttonous.label>вкусная еда</Gluttonous.label>
+  <HighCulture.label>музыка</HighCulture.label>
+  <Meditative.label>задумчивость</Meditative.label>
+  <Reading.label>чтение</Reading.label>
+  <Social.label>Общение</Social.label>
+  <Telescope.label>телескоп</Telescope.label>
+  <Television.label>просмотр ТВ</Television.label>
+</LanguageData>

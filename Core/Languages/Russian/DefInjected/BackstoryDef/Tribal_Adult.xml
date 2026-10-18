@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Archer25.description>{PAWN_nameDef} {PAWN_gender ? сражался : сражалась : сражался} за своё племя. {PAWN_pronoun} специалист в стрельбе из лука, метании пилума и другом дальнобойном оружии.</Archer25.description>
+  <Archer25.title>лучник</Archer25.title>
+  <Archer25.titleShort>лучник</Archer25.titleShort>
+  <Banished68.description>Племя {PAWN_nameDef} изгнало {PAWN_possessive} после кровавого конфликта. {PAWN_pronoun} {PAWN_gender ? был вынужден : была вынуждена : был вынуждно} долгие годы выживать в глуши, полагаясь только на себя.</Banished68.description>
+  <Banished68.title>изгнанник</Banished68.title>
+  <Banished68.titleShort>изгнанник</Banished68.titleShort>
+  <Brave88.description>{PAWN_nameDef} мастерски {PAWN_gender ? управлялся : управлялась : управлялся} топорами, дубинами, иклва и другим холодным оружием в битвах за своё племя.</Brave88.description>
+  <Brave88.title>храбрый воитель</Brave88.title>
+  <Brave88.titleShort>воитель</Brave88.titleShort>
+  <Butcher40.description>В своём охотничьем отряде {PAWN_nameDef} в основном {PAWN_gender ? занимался : занималась : занимался} разделкой животных. {PAWN_pronoun} {PAWN_gender ? стал : стала : стало} мастером в обращении с ножом и {PAWN_gender ? способен : способна : способно} за короткое время извлечь из туши каждый ценный кусочек.</Butcher40.description>
+  <Butcher40.title>мясник</Butcher40.title>
+  <Butcher40.titleShort>мясник</Butcher40.titleShort>
+  <Carver1.description>{PAWN_nameDef} {PAWN_gender ? вырезал : вырезала : вырезало} для своего племени скульптуры из дерева, камня, а порой и из более экзотических материалов. Что-то из {PAWN_possessive} работ продавалось, что-то — хранилось поселенцами в ритуальных целях и просто для красоты.</Carver1.description>
+  <Carver1.title>резчик</Carver1.title>
+  <Carver1.titleShort>резчик</Carver1.titleShort>
+  <CaveBuilder81.description>{PAWN_nameDef} {PAWN_gender ? специализировался : специализировалась : специализировался} на раскопках и создании пещерных комплексов.</CaveBuilder81.description>
+  <CaveBuilder81.title>строитель пещер</CaveBuilder81.title>
+  <CaveBuilder81.titleShort>шахтёр</CaveBuilder81.titleShort>
+  <Digger31.description>{PAWN_nameDef} {PAWN_gender ? трудился : трудилась : трудился} в шахтах и пещерах, выкапывая места для хранения имущества и укрытия от опасностей. {PAWN_possessive} работа помогла спасти немало жизней.</Digger31.description>
+  <Digger31.title>копатель</Digger31.title>
+  <Digger31.titleShort>копатель</Digger31.titleShort>
+  <Digger66.description>{PAWN_nameDef} {PAWN_gender ? высекал : высекала : высекало} жилые помещения и {PAWN_gender ? добывал : добывала : добывало} минералы прямо в холмах и скалах. {PAWN_pronoun} {PAWN_gender ? научился : научилась : научился} без труда пробиваться сквозь породу и укреплять пещерные своды.</Digger66.description>
+  <Digger66.title>копатель</Digger66.title>
+  <Digger66.titleShort>копатель</Digger66.titleShort>
+  <Excavator55.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} на раскопках, извлекая ценные предметы и материалы из древних уплотнённых руин. {PAWN_pronoun} {PAWN_gender ? научился : научилась : научился} обнаруживать в земле ценности и пользоваться различными землеройными инструментами</Excavator55.description>
+  <Excavator55.title>землекоп</Excavator55.title>
+  <Excavator55.titleShort>землекоп</Excavator55.titleShort>
+  <Framer37.description>{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала : отвечало} за возведение жилых сооружений для своего племени, в том числе временных жилищ для путешествий и постоянных — для поселений. Одной из важных задач в этой работе был сбор и использование местных растений в качестве строительных материалов.</Framer37.description>
+  <Framer37.title>строитель</Framer37.title>
+  <Framer37.titleShort>строитель</Framer37.titleShort>
+  <Gatherer70.description>Благодаря своим знаниям о растениях, съедобных корнях и ягодах, {PAWN_nameDef} {PAWN_gender ? мог : могла : мог} найти еду в самых бесплодных местах. Но от животных {PAWN_pronoun} {PAWN_gender ? предпочитал : предпочитала : предпочитало} держаться подальше.</Gatherer70.description>
+  <Gatherer70.title>собиратель</Gatherer70.title>
+  <Gatherer70.titleShort>собиратель</Gatherer70.titleShort>
+  <Healer46.description>После того как во время очередного налёта бандиты убили племенного лекаря, {PAWN_nameDef} {PAWN_gender ? занял : заняла : заняло} его место. {PAWN_pronoun} {PAWN_gender ? проводил : проводила : проводило} дни, собирая травы и минералы, из которых получались на удивление эффективные снадобья.</Healer46.description>
+  <Healer46.title>знахарь</Healer46.title>
+  <Healer46.titleShort>знахарь</Healer46.titleShort>
+  <HearthTender66.description>Пока остальные охотились и занимались собирательством, {PAWN_nameDef} {PAWN_gender ? оставался : оставалась : оставался} дома, готовя еду и ухаживая за больными и детьми.</HearthTender66.description>
+  <HearthTender66.title>пещерная сиделка</HearthTender66.title>
+  <HearthTender66.titleShort>сиделка</HearthTender66.titleShort>
+  <Herder33.description>{PAWN_nameDef} {PAWN_gender ? пас : пасла : пас} стада животных, помогая кормить и одевать своё племя во время кочевания. {PAWN_nameDef} {PAWN_gender ? научился : научилась : научился} успокаивать и приручать зверей, а также охотой добывать еду в пути.</Herder33.description>
+  <Herder33.title>пастух</Herder33.title>
+  <Herder33.titleShort>пастух</Herder33.titleShort>
+  <Hunter74.description>{PAWN_nameDef} {PAWN_gender ? выслеживал : выслеживала : выслеживало}, {PAWN_gender ? ловил : ловила : ловило} и {PAWN_gender ? убивал : убивала : убивало} животных ради их кожи и мяса.\n\n{PAWN_nameDef} {PAWN_gender ? пользовался : пользовалась : пользовался} оружием как ближнего, так и дальнего боя. Иногда {PAWN_pronoun} {PAWN_gender ? охотился : охотилась : охотился} с ловчими животными.</Hunter74.description>
+  <Hunter74.title>охотник</Hunter74.title>
+  <Hunter74.titleShort>охотник</Hunter74.titleShort>
+  <Logger16.description>{PAWN_nameDef} {PAWN_gender ? валил : валила : валило} лес и {PAWN_gender ? обеспечивал : обеспечивала : обеспечивало} древесиной своё племя. {PAWN_pronoun} {PAWN_gender ? управлялся : управлялась : управлялся} топором с изяществом художника и мощью разъярённого муффало.</Logger16.description>
+  <Logger16.title>лесоруб</Logger16.title>
+  <Logger16.titleShort>лесоруб</Logger16.titleShort>
+  <Loner61.description>Посещению совета племени и ежегодных празднеств {PAWN_nameDef} {PAWN_gender ? предпочитал : предпочитала : предпочитало} открытую равнину и одинокий свист ветра в скалах.\n\n{PAWN_pronoun} время от времени {PAWN_gender ? наведывался : наведывалась : наведывался} в своё племя, но в основном самостоятельно {PAWN_gender ? заботился : заботилась : заботился} о себе, пользуясь своими навыками выживания.</Loner61.description>
+  <Loner61.title>одиночка</Loner61.title>
+  <Loner61.titleShort>бирюк</Loner61.titleShort>
+  <LoreKeeper51.description>{PAWN_nameDef} {PAWN_gender ? продолжал : продолжала : продолжало} древний род хранителей сказаний в своём племени. Каждую ночь, когда всё собирались у огня, {PAWN_pronoun} {PAWN_gender ? рассказывал : рассказывала : рассказывало} истории, передавая тем самым древние знания и мудрость.</LoreKeeper51.description>
+  <LoreKeeper51.title>хранитель легенд</LoreKeeper51.title>
+  <LoreKeeper51.titleShort>сказитель</LoreKeeper51.titleShort>
+  <Malingerer28.description>{PAWN_nameDef} часто {PAWN_gender ? придумывал : придумывала : придумывало} себе всякие болезни, чтобы избегать работы. Отдыхая в хижине для больных, {PAWN_pronoun} {PAWN_gender ? рассказывал : рассказывала : рассказывало} разные истории детишкам.</Malingerer28.description>
+  <Malingerer28.title>симулянт</Malingerer28.title>
+  <Malingerer28.titleShort>симулянт</Malingerer28.titleShort>
+  <MuffaloShaman95.description>За молчаливую мудрость и огромную силу {PAWN_nameDef} {PAWN_gender ? был избран : была избрана : был избран} духовным лидером кочевого племени, следующего за стадами муффало.</MuffaloShaman95.description>
+  <MuffaloShaman95.title>шаман муффало</MuffaloShaman95.title>
+  <MuffaloShaman95.titleShort>шаман</MuffaloShaman95.titleShort>
+  <PlankCutter72.description>{PAWN_nameDef} {PAWN_gender ? помогал : помогала : помогало} своему племени строить огромные деревянные сооружения, распиливая деревья на прочные доски. {PAWN_nameDef} хорошо {PAWN_gender ? изучил : изучила : изучило} особенности роста и обработки древесины.</PlankCutter72.description>
+  <PlankCutter72.title>распиловщик</PlankCutter72.title>
+  <PlankCutter72.titleShort>распиловщик</PlankCutter72.titleShort>
+  <Scout59.description>С тех пор, как {PAWN_possessive} племя наладило отношения с чужеземцами неподалёку, {PAWN_nameDef} {PAWN_gender ? предлагал : предлагала : предлагало} свои услуги в качестве проводника по местности. Частые контакты с артефактами древности многому научили {PAWN_objective} о давно забытых технологиях.</Scout59.description>
+  <Scout59.title>разведчик</Scout59.title>
+  <Scout59.titleShort>разведчик</Scout59.titleShort>
+  <StewKeeper95.description>{PAWN_nameDef} {PAWN_gender ? готовил : готовила : готовило} еду из растений и животных, принесённых собирателями, земледельцами и охотниками {PAWN_possessive} племени. {PAWN_pronoun} {PAWN_gender ? следил : следила : следило}, чтобы пища была сытной, здоровой и хорошо хранилась. {PAWN_nameDef} регулярно {PAWN_gender ? обрабатывал : обрабатывала : обрабатывало}, а порой и {PAWN_gender ? сам : сама : сам} {PAWN_gender ? собирал : собирала : собирало} растения.</StewKeeper95.description>
+  <StewKeeper95.title>кухарь</StewKeeper95.title>
+  <StewKeeper95.titleShort>кухарь</StewKeeper95.titleShort>
+  <Tamer79.description>В своём племени {PAWN_nameDef} {PAWN_gender ? отвечал : отвечала : отвечало} за единение с миром природы — особенно с животными. {PAWN_pronoun} не только {PAWN_gender ? исполнял : исполняла : исполняло} свою духовную роль, но также {PAWN_gender ? приручал : приручала : приручало} диких зверей для работы в племени и {PAWN_gender ? заботился : заботилась : заботился} о них.</Tamer79.description>
+  <Tamer79.title>укротитель</Tamer79.title>
+  <Tamer79.titleShort>укротитель</Tamer79.titleShort>
+  <TreehouseBuilder86.description>{PAWN_nameDef} {PAWN_gender ? строил : строила : строило} жилища среди, а иногда и внутри деревьев, чтобы {PAWN_possessive} племя могло ими пользоваться во время путешествий или поиска пищи. {PAWN_nameDef} {PAWN_gender ? научился : научилась : научился} находить и использовать дикие растения, а также отбиваться от хищников.</TreehouseBuilder86.description>
+  <TreehouseBuilder86.title>строитель хижин</TreehouseBuilder86.title>
+  <TreehouseBuilder86.titleShort>строитель хижин</TreehouseBuilder86.titleShort>
+  <VengefulHunter32.description>После того как дикий зверь убил {PAWN_possessive} друга, {PAWN_nameDef} {PAWN_gender ? начал : начала : начало} на него охоту. {PAWN_pronoun} {PAWN_gender ? выследил : выследила : выследило} животное до соседней деревни, но {PAWN_gender ? нашёл : нашла : нашёло} лишь его шкуру, которую уже носил на себе один из местных жителей.</VengefulHunter32.description>
+  <VengefulHunter32.title>мстительный охотник</VengefulHunter32.title>
+  <VengefulHunter32.titleShort>охотник</VengefulHunter32.titleShort>
+  <Warrior94.description>{PAWN_nameDef} {PAWN_gender ? был бесстрашным воином : была бесстрашной воительницей : был бесстрашным воином}. {PAWN_pronoun} умело {PAWN_gender ? обращался : обращалась : обращался} с самыми разными видами оружия и {PAWN_gender ? участвовал : участвовала : участвовало} во многих сражениях.</Warrior94.description>
+  <Warrior94.title>воитель</Warrior94.title>
+  <Warrior94.titleShort>воин</Warrior94.titleShort>
+  <Weaver63.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} экспертом по превращению шерсти муффало, растительных волокон и натуральных красителей в прекрасную одежду для своей родни. {PAWN_possessive} творениями часто торговали с соседними племенами.</Weaver63.description>
+  <Weaver63.title>ткач</Weaver63.title>
+  <Weaver63.titleShort>ткач</Weaver63.titleShort>
+</LanguageData>

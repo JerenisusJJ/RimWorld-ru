@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AlcoholAddiction.label>алкоголизм</AlcoholAddiction.label>
+  <AlcoholAddiction.description>Зависимость от алкоголя. Продолжительное употребление алкоголя вызывает неврологические изменения на клеточном уровне, из-за чего мозг уже не способен нормально функционировать без него.\n\nПерерыв в регулярном употреблении спиртного вызовет абстинентный синдром — ломку. Длительное воздержание поможет мозгу вернуться к нормальному состоянию и избавиться от зависимости.</AlcoholAddiction.description>
+  <AlcoholAddiction.stages.withdrawal.label>алкогольная ломка</AlcoholAddiction.stages.withdrawal.label>
+  <AlcoholHigh.label>алкоголь</AlcoholHigh.label>
+  <AlcoholHigh.description>Алкоголь в крови даёт приятное чувство опьянения, но снижает работоспособность.</AlcoholHigh.description>
+  <AlcoholHigh.labelNoun>опьянение</AlcoholHigh.labelNoun>
+  <AlcoholHigh.stages.warm.label>навеселе</AlcoholHigh.stages.warm.label>
+  <AlcoholHigh.stages.tipsy.label>подшофе</AlcoholHigh.stages.tipsy.label>
+  <AlcoholHigh.stages.drunk.label>под градусом</AlcoholHigh.stages.drunk.label>
+  <AlcoholHigh.stages.hammered.label>в стельку</AlcoholHigh.stages.hammered.label>
+  <AlcoholHigh.stages.blackout.label>в отключке</AlcoholHigh.stages.blackout.label>
+  <AlcoholTolerance.label>толерантность к алкоголю</AlcoholTolerance.label>
+  <AlcoholTolerance.description>Выработалась толерантность к алкоголю. Чем она серьёзнее, тем больше потребуется алкоголя для достижения нужного эффекта.</AlcoholTolerance.description>
+  <AlcoholTolerance.stages.small.label>небольшая</AlcoholTolerance.stages.small.label>
+  <AlcoholTolerance.stages.large.label>средняя</AlcoholTolerance.stages.large.label>
+  <AlcoholTolerance.stages.massive.label>сильная</AlcoholTolerance.stages.massive.label>
+  <Hangover.label>похмелье</Hangover.label>
+  <Hangover.description>Наступающее не сразу, но очень неприятное последствие алкогольной интоксикации.</Hangover.description>
+  <Hangover.labelNoun>похмелье</Hangover.labelNoun>
+  <Hangover.stages.slight.label>лёгкое</Hangover.stages.slight.label>
+  <Hangover.stages.strong.label>сильное</Hangover.stages.strong.label>
+  <Hangover.stages.pounding.label>убийственное</Hangover.stages.pounding.label>
+</LanguageData>

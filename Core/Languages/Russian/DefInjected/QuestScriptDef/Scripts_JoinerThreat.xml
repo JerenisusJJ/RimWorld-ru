@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;С вами связывается [introduction] по имени [joiner_nameDef]. [joiner_pronoun] прячется от [hidingFrom] и просит вас укрыть [joiner_possessive]. [joiner_nameDef] умоляет о помощи и взамен обещает присоединиться к поселению.[joiner_relationInfo]\n\n[condDesc]\n\n[joiner_nameDef] говорит, что не может вам больше о себе рассказать, потому что боится выдать своё укрытие.</li>
+    <li>hidingFrom(gameCondition==ToxicFallout)-&gt;стаи голодных волков</li>
+    <li>condDesc(gameCondition==ToxicFallout)-&gt;К сожалению, [joiner_nameDef] может избавиться от волков, только если подожжёт гигантскую свалку токсичных отходов неподалёку. Если вы согласитесь [joiner_possessive] принять, начнутся токсичные осадки длительностью в [gameConditionDuration_duration].</li>
+    <li>hidingFrom(gameCondition==VolcanicWinter)-&gt;шайки каннибалов</li>
+    <li>condDesc(gameCondition==VolcanicWinter)-&gt;К сожалению, [joiner_nameDef] может избавиться от каннибалов, только если подожжёт гигантскую свалку неподалёку. Если вы согласитесь [joiner_possessive] принять, огромный столб дыма будет [gameConditionDuration_duration] закрывать солнце.</li>
+    <li>hidingFrom(gameCondition==EMIField)-&gt;отряда механоидов</li>
+    <li>condDesc(gameCondition==EMIField)-&gt;К сожалению, [joiner_nameDef] может избавиться от механоидов, только если активирует древний ЭМИ-генератор. Если вы согласитесь [joiner_possessive] принять, возникнет ЭМИ-поле, которое на [gameConditionDuration_duration] отключит все электрические устройства поблизости.</li>
+    <li>hidingFrom(gameCondition==HeatWave)-&gt;неисправного спутника контроля погоды</li>
+    <li>condDesc(gameCondition==HeatWave)-&gt;Если вы согласитесь [joiner_possessive] принять, начнётся жара, которая продлится [gameConditionDuration_duration], пока спутник не перезагрузится.</li>
+    <li>hidingFrom(gameCondition==ColdSnap)-&gt;неисправного спутника контроля погоды</li>
+    <li>condDesc(gameCondition==ColdSnap)-&gt;Если вы согласитесь [joiner_possessive] принять, начнутся заморозки, которые продлятся [gameConditionDuration_duration], пока спутник не перезагрузится.</li>
+    <li>hidingFrom(gameCondition==WeatherController)-&gt;неисправного спутника контроля погоды</li>
+    <li>condDesc(gameCondition==WeatherController)-&gt;Если вы согласитесь [joiner_possessive] принять, [gameConditionDuration_duration] будет [forcedWeather_label], пока спутник не перезагрузится.</li>
+    <li>hidingFrom(gameCondition==PsychicDrone)-&gt;мстительной ИИ-личности, которую недавно [joiner_offended],</li>
+    <li>condDesc(gameCondition==PsychicDrone)-&gt;Если вы согласитесь [joiner_possessive] принять, над [map_definite] будет раздаваться [psychicDroneLevel] психоактивный гул, вызванный разгневанной машиной. Он будет продолжаться [gameConditionDuration_duration], сводя с ума людей [psychicDroneGender].</li>
+    <li>hidingFrom(gameCondition==PsychicSuppression)-&gt;недовольной ИИ-личности, которую [joiner_pronoun] недавно [joiner_wokeup],</li>
+    <li>condDesc(gameCondition==PsychicSuppression)-&gt;Если вы согласитесь [joiner_possessive] принять, [map_definite] накроет поле психического подавления, вызванное разгневанной машиной. Оно будет сохраняться [gameConditionDuration_duration], ослабляя сознание всех поселенцев [psychicSuppressorGender].</li>
+    <li>introduction(childCount==1,priority=1)-&gt;ребёнок [joiner_age] лет</li>
+    <li>introduction-&gt;[joiner_title] [joiner_age] лет</li>
+    <li>joiner_offended(joiner_gender==Male)-&gt;оскорбил</li>
+    <li>joiner_offended(joiner_gender==Female)-&gt;оскорбила</li>
+    <li>joiner_wokeup(joiner_gender==Male)-&gt;разбудил</li>
+    <li>joiner_wokeup(joiner_gender==Female)-&gt;разбудила</li>
+  </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
+    <li>questName-&gt;[gameCondition_label] по вине [joiner_nameDef]</li>
+    <li>questName-&gt;[joiner_nameDef] и [gameCondition_label]</li>
+    <li>questName-&gt;[gameCondition_label] и [joiner_nameDef]</li>
+  </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;С вами связывается [introduction] по имени [joiner_nameDef]. [joiner_pronoun] говорит, что [joiner_poisoned] подземную колонию гигантских насекомых, но [joiner_soaked_with] с ног до головы их феромонами, и теперь они [joiner_possessive] преследуют!\n\n[joiner_nameDef] умоляет о помощи и взамен обещает присоединиться к поселению.[joiner_relationInfo]\n\nЕсли вы согласитесь [joiner_possessive] принять, через [infestationDelayTicks_duration] к вам проберутся (*Threat)[hivesCount] групп насекомых(/Threat).\n\n[joiner_nameDef] слишком [joiner_frantic], чтобы говорить что-либо ещё.</li>
+    <li>introduction(childCount==1,priority=1)-&gt;ребёнок [joiner_age] лет</li>
+    <li>introduction-&gt;[joiner_title] [joiner_age] лет</li>
+    <li>joiner_poisoned(joiner_gender==Male)-&gt;отравил</li>
+    <li>joiner_poisoned(joiner_gender==Female)-&gt;отравила</li>
+    <li>joiner_frantic(joiner_gender==Male)-&gt;напуган</li>
+    <li>joiner_frantic(joiner_gender==Female)-&gt;напугана</li>
+    <li>joiner_soaked_with(joiner_gender==Male)-&gt;перепачкался</li>
+    <li>joiner_soaked_with(joiner_gender==Female)-&gt;перепачкалась</li>
+  </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
+    <li>questName-&gt;[joiner_nameDef] и [insects]</li>
+    <li>questName-&gt;[insects] и [joiner_nameDef]</li>
+    <li>questName-&gt;охота на [joiner_nameDef]</li>
+    <li>insects-&gt;жуки</li>
+    <li>insects-&gt;ульи</li>
+    <li>insects-&gt;насекомые</li>
+  </ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>{BASETEXT}\n\n[joiner_nameDef] с ног до головы в феромонах насекомых. Преследующие [joiner_possessive] насекомые скоро будут здесь.</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
+  <ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL} в погоне за [joiner_nameDef]</ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>
+  <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n\nНасекомые пришли за [joiner_nameDef].</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
+  <ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription(animalCount==1)-&gt;С вами связывается [introduction] по имени [joiner_nameDef]. [joiner_pronoun] говорит, что [joiner_possessive] преследует (*Threat)агрессивное животное, [animalKind_label](/Threat)!\n\n[joiner_nameDef] умоляет о помощи и взамен обещает присоединиться к поселению.[joiner_relationInfo]\n\nЕсли вы согласитесь [joiner_possessive] принять, через [manhuntersDelayTicks_duration] [animalKind_label] нападёт на [map_definite].\n\n[joiner_nameDef] слишком [joiner_frantic], чтобы говорить что-либо ещё.</li>
+    <li>manhunterArrivalLetterEnd(animalCount==1)-&gt;[animalKind_label] гонится за [joiner_nameDef].</li>
+    <li>questDescription(animalCount&gt;=2)-&gt;[introduction] по имени [joiner_nameDef] бежит и зовёт на помощь! [joiner_pronoun] говорит, что [joiner_possessive] преследуют (*Threat)агрессивные [animalKind_labelPlural](/Threat)!\n\n[joiner_nameDef] умоляет о помощи и взамен обещает присоединиться к поселению.[joiner_relationInfo]\n\nЕсли вы согласитесь [joiner_possessive] принять, через [manhuntersDelayTicks_duration] агрессивные [animalKind_labelPlural] нападут на [map_definite].\n\n[joiner_nameDef] слишком [joiner_frantic], чтобы говорить что-либо ещё.</li>
+    <li>manhunterArrivalLetterEnd(animalCount&gt;=2)-&gt;[animalKind_labelPlural] гонятся за [joiner_nameDef].</li>
+    <li>introduction(childCount==1,priority=1)-&gt;ребёнок [joiner_age] лет</li>
+    <li>introduction-&gt;[joiner_title] [joiner_age] лет</li>
+    <li>joiner_frantic(joiner_gender==Male)-&gt;напуган</li>
+    <li>joiner_frantic(joiner_gender==Female)-&gt;напугана</li>
+  </ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
+    <li>questName-&gt;охота на [joiner_nameDef]</li>
+    <li>questName(animalCount==1)-&gt;[joiner_nameDef] и [animalKind_label]</li>
+    <li>questName(animalCount==1)-&gt;[animalKind_label] и [joiner_nameDef]</li>
+    <li>questName(animalCount&gt;=2)-&gt;[joiner_nameDef] и [animalKind_labelPlural]</li>
+    <li>questName(animalCount&gt;=2)-&gt;[animalKind_labelPlural] and [joiner_nameDef]</li>
+  </ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>{BASELABEL} в погоне за [joiner_nameDef]</ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>
+  <ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>{BASETEXT}\n\n[manhunterArrivalLetterEnd]</ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;С вами связывается [introduction] по имени [joiner_nameDef]. [joiner_pronoun] умоляет, чтобы вы приняли [joiner_possessive] в [map_definite].[joiner_relationInfo]\n\n[joiner_nameDef] спасается от какой-то угрозы, но отказывается говорить, от чего конкретно. [joiner_pronoun] также отказывается рассказывать что-либо о себе.</li>
+    <li>introduction(childCount==1,priority=1)-&gt;ребёнок [joiner_age] лет</li>
+    <li>introduction-&gt;[joiner_title] [joiner_age] лет</li>
+    <li>joiner_was_fleeing(joiner_gender==Male)-&gt;бежал</li>
+    <li>joiner_was_fleeing(joiner_gender==Female)-&gt;бежала</li>
+    <li>joiner_became_drunk(joiner_gender==Male)-&gt;напился</li>
+    <li>joiner_became_drunk(joiner_gender==Female)-&gt;напилась</li>
+    <li>joiner_supposed_to(joiner_gender==Male)-&gt;должен был</li>
+    <li>joiner_supposed_to(joiner_gender==Female)-&gt;должна была</li>
+    <li>joiner_spouse(joiner_gender==Male)-&gt;дочерью</li>
+    <li>joiner_spouse(joiner_gender==Female)-&gt;сыном</li>
+    <li>joiner_driven(joiner_gender==Male)-&gt;влекомый</li>
+    <li>joiner_driven(joiner_gender==Female)-&gt;влекомая</li>
+    <li>joiner_intended(joiner_gender==Male)-&gt;собирался</li>
+    <li>joiner_intended(joiner_gender==Female)-&gt;собиралась</li>
+    <li>joiner_offended(joiner_gender==Male)-&gt;оскорбил</li>
+    <li>joiner_offended(joiner_gender==Female)-&gt;оскорбила</li>
+    <li>joiner_offernder_inst(joiner_gender==Male)-&gt;обидчиком</li>
+    <li>joiner_offernder_inst(joiner_gender==Female)-&gt;обидчицей</li>
+    <li>joiner_was_travelling(joiner_gender==Male)-&gt;путешествовал</li>
+    <li>joiner_was_travelling(joiner_gender==Female)-&gt;путешествовала</li>
+    <li>joiner_happened_upon(joiner_gender==Male)-&gt;наткнулся</li>
+    <li>joiner_happened_upon(joiner_gender==Female)-&gt;наткнулась</li>
+    <li>joiner_soaked_with(joiner_gender==Male)-&gt;перепачкался</li>
+    <li>joiner_soaked_with(joiner_gender==Female)-&gt;перепачкалась</li>
+    <li>joiner_self(joiner_gender==Male)-&gt;сам</li>
+    <li>joiner_self(joiner_gender==Female)-&gt;сама</li>
+    <li>joiner_decided(joiner_gender==Male)-&gt;решил</li>
+    <li>joiner_decided(joiner_gender==Female)-&gt;решила</li>
+    <li>enemyFaction_leader_swore(enemyFaction_leader_gender==Male)-&gt;поклялся</li>
+    <li>enemyFaction_leader_swore(enemyFaction_leader_gender==Female)-&gt;поклялась</li>
+    <li>enemyFaction_leader_sent(enemyFaction_leader_gender==Male)-&gt;выслал</li>
+    <li>enemyFaction_leader_sent(enemyFaction_leader_gender==Female)-&gt;выслала</li>
+  </ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
+    <li>questName-&gt;[joiner_nameDef] и [joiner_possessive] [problem]</li>
+    <li>questName-&gt;[problem] [joiner_nameDef]</li>
+    <li>problem-&gt;проблема</li>
+    <li>problem-&gt;неприятность</li>
+    <li>problem-&gt;позор</li>
+    <li>problem-&gt;беда</li>
+    <li>problem-&gt;секрет</li>
+    <li>problem-&gt;тайна</li>
+  </ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>{BASELABEL} в погоне за [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>[joiner_nameDef] признаётся, от чего [joiner_was_fleeing].\n\n[joiner_pronoun] [joiner_supposed_to] вступить в брак с [joiner_spouse] [enemyFaction_leader_nameFull], лидера фракции [enemyFaction_name]. Но перед церемонией [joiner_pronoun] [joiner_became_drunk], и [joiner_possessive] стошнило прямо на алтарь, что оскорбило всю семью [enemyFaction_leader_nameDef].\n\n[enemyFaction_leader_nameDef] [enemyFaction_leader_swore] отомстить [joiner_nameDef] и всем, кто будет [joiner_possessive] защищать, и [enemyFaction_leader_sent] отряд [enemyFaction_pawnsPlural], чтобы поквитаться с [joiner_offernder_inst].\n\n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>{BASELABEL} в погоне за [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>[joiner_nameDef] признаётся, от чего [joiner_was_fleeing].\n\n[joiner_pronoun], [joiner_driven] жаждой добыть желе насекомых, [joiner_intended] уничтожить огромную подземную колонию насекомых с помощью ядовитых веществ. Но план провалился, а [joiner_self] [joiner_nameDef] [joiner_soaked_with] с ног до головы в феромонах насекомых. С того момента они неустанно преследуют [joiner_possessive], и теперь готовы к последнему рывку.\n\n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>[joiner_nameDef] и новое опасное место: [site_label]</ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>[joiner_nameDef] признаётся, от чего [joiner_was_fleeing].\n\n[joiner_pronoun] [joiner_was_travelling], [joiner_happened_upon] на лидера фракции [enemyFaction_name], [enemyFaction_leader_nameFull] и [joiner_offended] [enemyFaction_leader_possessive] [PersonalCharacteristic].\n\nЖелая поквитаться с [joiner_offernder_inst] и теми, кто будет [joiner_possessive] защищать, [enemyFaction_pawnsPlural] фракции [enemyFaction_name] разбили неподалёку лагерь и будут нападать на вас.\n\nТакже там [allSitePartsDescriptions]</ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>{BASELABEL} в погоне за [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>[joiner_nameDef] признаётся, от чего [joiner_was_fleeing].\n\n[joiner_pronoun] [joiner_was_travelling] и [joiner_happened_upon] на [animalKind_labelPlural]. Будучи в плохом настроении, [joiner_nameDef] [joiner_decided] прогнать их. Но они вдруг набросились на н[joiner_possessive] и уже достаточно долго преследуют.\n\n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;С вами связывается [introduction] по имени [joiner_nameDef]. [joiner_pronoun] признаётся, что [joiner_profaned] ритуал примирения между фракциями [raid1/enemyFaction_name] и [raid2/enemyFaction_name], и теперь их бойцы преследуют [joiner_possessive]!\n\n[joiner_nameDef] умоляет о помощи и взамен обещает присоединиться к поселению.[joiner_relationInfo]\n\nЕсли вы согласитесь [joiner_possessive] принять, через [raidDelayTicks_duration] и [raid1/enemyFaction_name], и [raid2/enemyFaction_name] организуют налёт на ваше поселение.\n\n[joiner_nameDef] слишком [joiner_frantic], чтобы говорить что-либо ещё.</li>
+    <li>introduction(childCount==1,priority=1)-&gt;ребёнок [joiner_age] лет</li>
+    <li>introduction-&gt;[joiner_title] [joiner_age] лет</li>
+    <li>joiner_profaned(joiner_gender==Male)-&gt;осквернил</li>
+    <li>joiner_profaned(joiner_gender==Female)-&gt;осквернила</li>
+    <li>joiner_frantic(joiner_gender==Male)-&gt;напуган</li>
+    <li>joiner_frantic(joiner_gender==Female)-&gt;напугана</li>
+  </ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
+    <li>questName-&gt;[joiner_nameDef] и [joiner_possessive] «друзья»</li>
+    <li>questName-&gt;[joiner_nameDef] и [joiner_possessive] враги</li>
+  </ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>{BASELABEL} в погоне за [../joiner_nameDef]</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>{BASETEXT}\n\n[enemyFaction_pawnsPlural] идут за головой [../joiner_nameFull].</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>{BASELABEL} в погоне за [../joiner_nameDef]</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>{BASETEXT}\n\n[enemyFaction_pawnsPlural] идут за [../joiner_nameFull].</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>
+  <ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;С вами связывается [introduction] по имени [joiner_nameDef]. [joiner_pronoun] прячется от [threat]. [joiner_nameDef] хочет покинуть своё убежище и присоединиться к вам в [map_definite].[joiner_relationInfo]\n\nЕсли вы согласитесь [joiner_possessive] принять, [joinersEnemies] организуют неподалёку лагерь и будут нападать на вас. Также там [site/allSitePartsDescriptions]\n\nНападения будут продолжаться, пока вы не уничтожите источник угрозы.</li>
+    <li>introduction(childCount==1,priority=1)-&gt;ребёнок [joiner_age] лет</li>
+    <li>introduction-&gt;[joiner_title] [joiner_age] лет</li>
+    <li>threat(priority=1,site/Outpost_exists==True)-&gt;бойцов фракции [site/enemyFaction_name]</li>
+    <li>threat(priority=1,site/MechCluster_exists==True)-&gt;механоидов</li>
+    <li>threat(priority=1,site/SleepingMechanoids_exists==True)-&gt;механоидов</li>
+    <li>threat-&gt;своих врагов</li>
+    <li>joinersEnemies(priority=1,site/Outpost_exists==True)-&gt;[enemyFaction_pawnsPlural] из фракции [site/enemyFaction_name]</li>
+    <li>joinersEnemies(priority=1,site/MechCluster_exists==True)-&gt;механоиды</li>
+    <li>joinersEnemies(priority=1,site/SleepingMechanoids_exists==True)-&gt;механоиды</li>
+    <li>joinersEnemies-&gt;[joiner_possessive] враги</li>
+  </ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
+    <li>questName-&gt;[joinersEnemies] и [joiner_nameDef]</li>
+    <li>questName-&gt;[joiner_nameDef] и [joinersEnemies]</li>
+    <li>questName-&gt;[joiner_nameDef] и [joiner_possessive] враги</li>
+    <li>questName-&gt;[joiner_nameDef] и [site/site_label]</li>
+  </ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>Так как вы приняли к себе [../joiner_nameDef], [../joinersEnemies] теперь организуют неподалёку лагерь, чтобы досаждать вам.\n\nТакже там [allSitePartsDescriptions]</ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>
+</LanguageData>

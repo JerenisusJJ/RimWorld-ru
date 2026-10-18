@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerQuestDefault.rulePack.rulesFiles>
+    <li>quest_masc-&gt;Words/Nouns/Quests_Masc</li>
+    <li>quest_fem-&gt;Words/Nouns/Quests_Fem</li>
+    <li>quest_neutral-&gt;Words/Nouns/Quests_Neutral</li>
+    <li>adjectiveCurious_masc-&gt;Words/Adjectives/Curious_Masc</li>
+    <li>adjectiveCurious_fem-&gt;Words/Adjectives/Curious_Fem</li>
+    <li>adjectiveCurious_neutral-&gt;Words/Adjectives/Curious_Neutral</li>
+  </NamerQuestDefault.rulePack.rulesFiles>
+  <NamerQuestDefault.rulePack.rulesStrings>
+    <li>defaultQuestName-&gt;[adjectiveCurious_masc] [quest_masc]</li>
+    <li>defaultQuestName-&gt;[adjectiveCurious_fem] [quest_fem]</li>
+    <li>defaultQuestName-&gt;[adjectiveCurious_neutral] [quest_neutral]</li>
+  </NamerQuestDefault.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MaxFlightTime.label>макс. время полёта</MaxFlightTime.label>
+  <MaxFlightTime.description>Максимальное время, которое это существо может провести в полёте перед приземлением.</MaxFlightTime.description>
+  <MaxFlightTime.formatString>{0} с</MaxFlightTime.formatString>
+  <FlightCooldown.label>перезарядка полёта</FlightCooldown.label>
+  <FlightCooldown.description>Время отдыха, необходимое этому существу перед следующим полётом.</FlightCooldown.description>
+  <FlightCooldown.formatString>{0} с</FlightCooldown.formatString>
+  <Wildness.label>дикость</Wildness.label>
+  <Wildness.description>Чем выше дикость существа, тем сложнее его приручить, обучить и ухаживать за ним.</Wildness.description>
+  <HackingStealth.label>скрытность взлома</HackingStealth.label>
+  <HackingStealth.description>Средний объём взлома данных, который этот человек может выполнить, прежде чем система безопасности заблокирует доступ. Лишь некоторые системы способны обнаруживать взлом.</HackingStealth.description>
+  <RangedWeapon_ArmorPenetrationMultiplier.label>множитель бронепробития</RangedWeapon_ArmorPenetrationMultiplier.label>
+  <RangedWeapon_ArmorPenetrationMultiplier.description>Множитель, применяемый к показателю бронепробития этого оружия.</RangedWeapon_ArmorPenetrationMultiplier.description>
+  <RangedWeapon_RangeMultiplier.label>множитель дальности</RangedWeapon_RangeMultiplier.label>
+  <RangedWeapon_RangeMultiplier.description>Множитель, применяемый к эффективной дальности этого оружия.</RangedWeapon_RangeMultiplier.description>
+  <RangedWeapon_WarmupMultiplier.label>множитель времени прицеливания</RangedWeapon_WarmupMultiplier.label>
+  <RangedWeapon_WarmupMultiplier.description>Множитель, применяемый ко времени прицеливания этого оружия.</RangedWeapon_WarmupMultiplier.description>
+</LanguageData>

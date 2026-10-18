@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Warg.label>варг</Warg.label>
+  <Warg.labelPlural>варги</Warg.labelPlural>
+  <Warg.lifeStages.warg_puppy.label>щенок варга</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.labelPlural>щенки варга</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.1.label>молодой варг</Warg.lifeStages.1.label>
+</LanguageData>

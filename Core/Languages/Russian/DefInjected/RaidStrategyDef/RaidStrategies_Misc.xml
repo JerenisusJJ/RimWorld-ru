@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PsychicRitualSiege.arrivalTextEnemy>Их цель — провести ритуал «{RITUAL_definite}». Остановите их, пока они не завершили начатое. В противном случае они могут воспользоваться ритуалом несколько раз.</PsychicRitualSiege.arrivalTextEnemy>
+  <PsychicRitualSiege.letterLabelEnemy>Налёт: последователи Хоракса</PsychicRitualSiege.letterLabelEnemy>
+  <ShamblerAssault.arrivalTextEnemy>Эти трупы оживила потусторонняя сила, и теперь они идут в атаку на ваше поселение. Они выдохнутся и попадают через несколько часов.</ShamblerAssault.arrivalTextEnemy>
+  <ShamblerAssault.letterLabelEnemy>Нападение шамблеров</ShamblerAssault.letterLabelEnemy>
+</LanguageData>

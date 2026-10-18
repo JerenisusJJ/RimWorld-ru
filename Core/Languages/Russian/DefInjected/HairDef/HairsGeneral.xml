@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Afro.label>афро</Afro.label>
+  <Bald.label>лысина</Bald.label>
+  <Bob.label>пучок</Bob.label>
+  <Bowlcut.label>под горшок</Bowlcut.label>
+  <BraidedKnot.label>коса в узле</BraidedKnot.label>
+  <Bravo.label>браво</Bravo.label>
+  <BriefPonytail.label>короткий хвостик</BriefPonytail.label>
+  <Burgundy.label>бургундия</Burgundy.label>
+  <Cleopatra.label>Клеопатра</Cleopatra.label>
+  <Curly.label>кудрявые</Curly.label>
+  <Cute.label>милые</Cute.label>
+  <Decent.label>приличные</Decent.label>
+  <Elder.label>старушачьи</Elder.label>
+  <FancyBun.label>сложный пучок</FancyBun.label>
+  <Firestarter.label>поджигатель</Firestarter.label>
+  <Flowy.label>плавные</Flowy.label>
+  <Fringe.label>встрёпанные</Fringe.label>
+  <Frozen.label>лакированные</Frozen.label>
+  <GreasySwoop.label>жирный начёс</GreasySwoop.label>
+  <Junkie.label>наркоман</Junkie.label>
+  <Keeper.label>хранитель</Keeper.label>
+  <Lackland.label>безземельный</Lackland.label>
+  <Locks.label>локоны</Locks.label>
+  <Long.label>длинные</Long.label>
+  <Messy.label>беспорядочные</Messy.label>
+  <Mohawk.label>ирокез</Mohawk.label>
+  <Mop.label>моп-топ</Mop.label>
+  <Pigtails.label>две косички</Pigtails.label>
+  <Ponytails.label>хвостики</Ponytails.label>
+  <Primal.label>первобытные</Primal.label>
+  <Princess.label>принцесса</Princess.label>
+  <Randy.label>Ренди Случай</Randy.label>
+  <Recruit.label>рекрут</Recruit.label>
+  <Revolt.label>бунтарь</Revolt.label>
+  <Rockstar.label>рок-звезда</Rockstar.label>
+  <Rookie.label>новобранец</Rookie.label>
+  <Savage.label>дикарь</Savage.label>
+  <Scatman.label>зализанные</Scatman.label>
+  <ScorpionTail.label>жало скорпиона</ScorpionTail.label>
+  <Scrapper.label>задира</Scrapper.label>
+  <Senorita.label>сеньорита</Senorita.label>
+  <Shaved.label>«под ноль»</Shaved.label>
+  <ShaveTopBraid.label>выбритая коса</ShaveTopBraid.label>
+  <Snazzy.label>броские</Snazzy.label>
+  <Spikes.label>шипы</Spikes.label>
+  <Sticky.label>липкие</Sticky.label>
+  <Topdog.label>победитель</Topdog.label>
+  <Troubadour.label>трубадур</Troubadour.label>
+  <Tuft.label>хохолок</Tuft.label>
+  <Warden.label>Надзор</Warden.label>
+  <Wavy.label>волнистые</Wavy.label>
+</LanguageData>

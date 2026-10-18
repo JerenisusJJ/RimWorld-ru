@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mech_CentipedeBlaster.label>бластерная сентипеда</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBlaster.description>Тяжёлые боевые механоиды, передвигающиеся на множестве крошечных ног. Тяжёлая броня и огневая мощь делают их очень эффективными против групп неподвижных защитников. Однако они уязвимы для мобильных отрядов с тактикой «ударил-убежал».</Mech_CentipedeBlaster.description>
+  <Mech_CentipedeBlaster.tools.head.label>голова</Mech_CentipedeBlaster.tools.head.label>
+  <Mech_CentipedeBurner.label>огнемётная сентипеда</Mech_CentipedeBurner.label>
+  <Mech_CentipedeBurner.description>Тяжёлые боевые механоиды, передвигающиеся на множестве крошечных ног. Тяжёлая броня и огневая мощь делают их очень эффективными против групп неподвижных защитников. Однако они уязвимы для мобильных отрядов с тактикой «ударил-убежал».</Mech_CentipedeBurner.description>
+  <Mech_CentipedeBurner.tools.head.label>голова</Mech_CentipedeBurner.tools.head.label>
+  <Mech_CentipedeGunner.label>пулемётная сентипеда</Mech_CentipedeGunner.label>
+  <Mech_CentipedeGunner.description>Тяжёлые боевые механоиды, передвигающиеся на множестве крошечных ног. Тяжёлая броня и огневая мощь делают их очень эффективными против групп неподвижных защитников. Однако они уязвимы для мобильных отрядов с тактикой «ударил-убежал».</Mech_CentipedeGunner.description>
+  <Mech_CentipedeGunner.tools.head.label>голова</Mech_CentipedeGunner.tools.head.label>
+  <Mech_Lancer.label>улан</Mech_Lancer.label>
+  <Mech_Lancer.description>Боевые механоиды ростом с человека, оснащённые массивными оптическими сенсорами, идеальными для дальнего боя. В ближнем бою не так эффективны. Ветераны войн с механоидами знают, что зачастую самая безопасная тактика борьбы с уланами — лобовая атака.</Mech_Lancer.description>
+  <Mech_Lancer.tools.left_fist.label>левый кулак</Mech_Lancer.tools.left_fist.label>
+  <Mech_Lancer.tools.left_fist.labelNoLocation>кулак</Mech_Lancer.tools.left_fist.labelNoLocation>
+  <Mech_Lancer.tools.right_fist.label>правый кулак</Mech_Lancer.tools.right_fist.label>
+  <Mech_Lancer.tools.right_fist.labelNoLocation>кулак</Mech_Lancer.tools.right_fist.labelNoLocation>
+  <Mech_Lancer.tools.head.label>голова</Mech_Lancer.tools.head.label>
+  <Mech_Pikeman.label>драгун</Mech_Pikeman.label>
+  <Mech_Pikeman.description>Громоздкий многоногий боевой механоид, используемый в качестве платформы для дальнобойного оружия. Драгуны очень эффективны на большой дальности, но слабы на малых расстояниях и в рукопашном бою.\n\nВетераны войн с механоидами отмечают, что самая безопасная дистанция боя с ними — расстояние вытянутой руки.</Mech_Pikeman.description>
+  <Mech_Pikeman.tools.front_left_leg.label>передняя левая нога</Mech_Pikeman.tools.front_left_leg.label>
+  <Mech_Pikeman.tools.front_left_leg.labelNoLocation>нога</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
+  <Mech_Pikeman.tools.front_right_leg.label>передняя правая нога</Mech_Pikeman.tools.front_right_leg.label>
+  <Mech_Pikeman.tools.front_right_leg.labelNoLocation>нога</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
+  <Mech_Pikeman.tools.head.label>голова</Mech_Pikeman.tools.head.label>
+  <Mech_Scyther.label>жнец</Mech_Scyther.label>
+  <Mech_Scyther.description>Быстрые веретенообразные боевые механоиды ростом с человека. Их тактика — быстрое сближение и ближний бой с противником. Их тела усеяны шипами, а манипуляторы оснащены смертоносными лезвиями, идеальными для отрубания конечностей и вспарывания животов.</Mech_Scyther.description>
+  <Mech_Scyther.tools.left_blade.label>левый клинок</Mech_Scyther.tools.left_blade.label>
+  <Mech_Scyther.tools.left_blade.labelNoLocation>клинок</Mech_Scyther.tools.left_blade.labelNoLocation>
+  <Mech_Scyther.tools.right_blade.label>правый клинок</Mech_Scyther.tools.right_blade.label>
+  <Mech_Scyther.tools.right_blade.labelNoLocation>клинок</Mech_Scyther.tools.right_blade.labelNoLocation>
+  <Mech_Scyther.tools.head.label>голова</Mech_Scyther.tools.head.label>
+  <Mech_Termite.label>термит</Mech_Termite.label>
+  <Mech_Termite.description>Механоид среднего размера, специализирующийся в создании траншей, подкопов и прорыве сквозь оборону противника. Обороняющимся стоит заранее принять решение: попытаться устранить механоида до того, как он начнёт делать подкоп или после того, как он уже прокопает себе путь в поселение.</Mech_Termite.description>
+  <Mech_Termite.tools.head.label>голова</Mech_Termite.tools.head.label>
+</LanguageData>

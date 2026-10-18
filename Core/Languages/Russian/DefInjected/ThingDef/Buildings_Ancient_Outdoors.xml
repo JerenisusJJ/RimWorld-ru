@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientExostriderCannon.label>орудие древнего экзострайдера</AncientExostriderCannon.label>
+  <AncientExostriderCannon.description>Останки энергетического орудия, некогда установленного на спине древнего огромного механоида-экзострайдера.</AncientExostriderCannon.description>
+  <AncientExostriderHead.label>голова древнего экзострайдера</AncientExostriderHead.label>
+  <AncientExostriderHead.description>Останки головы древнего огромного древнего механоида-экзострайдера. Когда-то давно её отстрелили каким-то мощным энергетическим оружием.</AncientExostriderHead.description>
+  <AncientExostriderLeg.label>нога древнего экзострайдера</AncientExostriderLeg.label>
+  <AncientExostriderLeg.description>Останки ноги огромного древнего механоида-экзострайдера.</AncientExostriderLeg.description>
+  <AncientExostriderRemains.label>корпус древнего экзострайдера</AncientExostriderRemains.label>
+  <AncientExostriderRemains.description>Останки корпуса огромного древнего механоида-экзострайдера. Когда-то давно попадание из мощного энергетического оружия разрушило корпус механоида и сплавило некоторые его части в однородную затвердевшую массу.\n\nВ его внутренностях, кажется, присутствует до сих пор работающий передатчик. Его можно извлечь и расшифровать, чтобы получить ценную информацию.\n\nТопливные элементы зажигательного орудия экзострайдера целы, но нестабильны и, скорее всего, взорвутся при повреждении.</AncientExostriderRemains.description>
+  <AncientExostriderRemains.comps.CompProximityLetter.letterLabel>древний механоид</AncientExostriderRemains.comps.CompProximityLetter.letterLabel>
+  <AncientExostriderRemains.comps.CompProximityLetter.letterText>Проходя мимо останков древнего механоида-экзострайдера, {PAWN_nameDef} {PAWN_gender ? заметил : заметила} (*Reward)работающий передатчик(/Reward) внутри него.\n\nПередатчик можно извлечь и расшифровать, чтобы получить ценную информацию. Огромный механоид почти весь оплавлен выстрелом из мощного энергетического оружия. Чтобы достать передатчик, корпус механоида необходимо разрушить.\n\nОсторожно! Топливные элементы зажигательного орудия (*Threat)нестабильны(/Threat) и, скорее всего, взорвутся при повреждении.</AncientExostriderRemains.comps.CompProximityLetter.letterText>
+  <AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>Доступен {LEAVINGS1_label}</AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>
+  <AncientExostriderRemains.comps.CompLeavingsLetter.letterText>После взрыва остался {LEAVINGS1_label}. Его можно расшифровать на исследовательском столе.\n\nВыберите поселенца и нажмите правой кнопкой мыши на передатчике, чтобы расшифровать его.</AncientExostriderRemains.comps.CompLeavingsLetter.letterText>
+  <AncientExostriderRemains.comps.CompInspectString.inspectString>Содержит древний передатчик механоидов.</AncientExostriderRemains.comps.CompInspectString.inspectString>
+</LanguageData>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BasicMechtech.label>базовые технологии механоидов</BasicMechtech.label>
+  <BasicMechtech.description>Технологии, необходимые механитору для создания самых простых механоидов и управления ими.</BasicMechtech.description>
+  <BasicMechtech.generalRules.rulesStrings>
+    <li>subject-&gt;механоиды</li>
+    <li>subject_gen-&gt;механоидов</li>
+    <li>subject_dat-&gt;механоидам</li>
+    <li>subject_pre_about-&gt;о механоидах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? написал : написала} детскую книгу, в которой {ANYPAWN_gender ? поведал : поведала} о базовых типах механоидов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? установил : установила} себе прототип мехлинка</li>
+    <li>subject_story-&gt;самостоятельно {ANYPAWN_gender ? сформулировал : сформулировала} основные принципы биомеханики</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? наткнулся : наткнулась} на обломки древнего экзострайдера и {ANYPAWN_gender ? нашёл : нашла} среди них сохранившийся мехлинк</li>
+    <li>subject_gerund-&gt;создания простых механоидов</li>
+  </BasicMechtech.generalRules.rulesStrings>
+  <HighMechtech.label>продвинутые технологии механоидов</HighMechtech.label>
+  <HighMechtech.description>Технологии, необходимые механитору для создания продвинутых механоидов и управления ими.\n\nЭнергофокусирующий чип можно получить, одолев в бою призванного вашим механитором лидера механоидов — предводительницу.</HighMechtech.description>
+  <HighMechtech.generalRules.rulesStrings>
+    <li>subject-&gt;продвинутые механоиды</li>
+    <li>subject_gen-&gt;продвинутых механоидов</li>
+    <li>subject_dat-&gt;продвинутым механоидам</li>
+    <li>subject_pre_about-&gt;о продвинутых механоидах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? помог : помогла} отразить нападение механоидов, возглавляемых предводительницей, на имперские владения</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? снискал : снискала} милость фортуны, выкупив энергофокусирующий чип у торговца, не догадывавшегося о его истинной ценности</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? был нанят : была нанята} для допроса механиторов, захваченных в плен во время планетарных налётов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} прототип механоидных микроорганов для путешествовавшего между мирами клиента</li>
+    <li>subject_gerund-&gt;создания продвинутых механоидов</li>
+  </HighMechtech.generalRules.rulesStrings>
+  <StandardMechtech.label>стандартные технологии механоидов</StandardMechtech.label>
+  <StandardMechtech.description>Технологии, необходимые механитору для создания стандартных механоидов и управления ими.\n\nСигнальный чип можно получить, одолев в бою призванного вашим механитором лидера механоидов — дьявола.</StandardMechtech.description>
+  <StandardMechtech.generalRules.rulesStrings>
+    <li>subject-&gt;стандартные механоиды</li>
+    <li>subject_gen-&gt;стандартных механоидов</li>
+    <li>subject_dat-&gt;стандартным механоидам</li>
+    <li>subject_pre_about-&gt;о стандартных механоидах</li>
+    <li>subject_story-&gt;при весьма сомнительных обстоятельствах {ANYPAWN_gender ? приобрёл : приобрела} сигнальный чип</li>
+    <li>subject_story-&gt;в обломках давно поверженного дьявола {ANYPAWN_gender ? нашёл : нашла} неповреждённый сигнальный чип</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? помог : помогла} отразить нападение роя механоидов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} огромное количество отчётов о нападениях механоидов, чтобы понять общие закономерности</li>
+    <li>subject_gerund-&gt;создания стандартных механоидов</li>
+  </StandardMechtech.generalRules.rulesStrings>
+  <UltraMechtech.label>ультратехнологии механоидов</UltraMechtech.label>
+  <UltraMechtech.description>Технологии, необходимые механитору для создания механоидов ультра-класса и управления ими, а также для изготовления снаряжения соответствующего уровня — мечты каждого механитора.\n\nНаноструктурирующий чип можно получить, одолев в бою призванного вашим механитором лидера механоидов — апокритона.</UltraMechtech.description>
+  <UltraMechtech.generalRules.rulesStrings>
+    <li>subject-&gt;механоиды ультра-класса</li>
+    <li>subject_gen-&gt;механоидов ультра-класса</li>
+    <li>subject_dat-&gt;механоидам ультра-класса</li>
+    <li>subject_pre_about-&gt;о механоидах ультра-класса</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? нашёл : нашла} отключённого апокритона среди древних развалин</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал свидетелем : стала свидетельницей} воскрешения механоидов апокритоном, благо {ANYPAWN_gender ? находился : находилась} при этом на безопасном расстоянии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? проникся : прониклась} глубочайшей ненавистью, какую апокритоны испытывают по отношению к человечеству</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? отправился : отправился} в экспедицию к бездействующему архонексусу и {ANYPAWN_gender ? нашёл : нашла} там дневник некогда вознёсшегося странника</li>
+    <li>subject_gerund-&gt;создания механоидов ультра-класса</li>
+  </UltraMechtech.generalRules.rulesStrings>
+  <WastepackAtomizer.label>расщепитель отходов</WastepackAtomizer.label>
+  <WastepackAtomizer.description>Высокотехнологичное устройство, которое расщепляет токсичные отходы на инертные газы с помощью сложных молекулярных процессов, требующих значительных энергетических затрат.</WastepackAtomizer.description>
+  <WastepackAtomizer.generalRules.rulesStrings>
+    <li>subject-&gt;расщепление токсичных отходов</li>
+    <li>subject_gen-&gt;расщепления токсичных отходов</li>
+    <li>subject_dat-&gt;расщеплению токсичных отходов</li>
+    <li>subject_pre_about-&gt;о расщеплении токсичных отходов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? предложил : предложила} безопасный способ утилизации ядерных отходов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? организовал : организовала} пункт формирования отрядов из смертников для утилизации отходов в рамках солнечных миссий</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала} теорию атомной дестабилизации на основе первых принципов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? оборудовал : оборудовала} орбитальный аппарат устройством для наблюдения за поверхностью соседнего токсичного мира</li>
+    <li>subject_gerund-&gt;сооружения расщепителей отходов</li>
+  </WastepackAtomizer.generalRules.rulesStrings>
+</LanguageData>

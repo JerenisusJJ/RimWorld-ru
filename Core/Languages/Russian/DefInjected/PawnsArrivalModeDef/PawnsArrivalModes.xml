@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CenterDrop.textEnemy>Враждебные {0} из фракции {1} десантируются прямо на ваше поселение!</CenterDrop.textEnemy>
+  <CenterDrop.textFriendly>Дружественные {0} из фракции {1} десантируются прямо на ваше поселение!</CenterDrop.textFriendly>
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef} десантируются в капсулах прямо на ваше поселение.</CenterDrop.textWillArrive>
+  <EdgeDrop.textEnemy>Враждебные {0} из фракции {1} десантируются в капсулах неподалёку.</EdgeDrop.textEnemy>
+  <EdgeDrop.textFriendly>Дружественные {0} из фракции {1} десантируются в капсулах неподалёку.</EdgeDrop.textFriendly>
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} десантируются в капсулах.</EdgeDrop.textWillArrive>
+  <EdgeDropGroups.textEnemy>Враждебные {0} из фракции {1} в составе нескольких групп десантируются в капсулах неподалёку.</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textFriendly>Дружественные {0} из фракции {1} в составе нескольких групп десантируются в капсулах неподалёку.</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textWillArrive>{0_pawnsPluralDef} в составе нескольких групп десантируются в капсулах.</EdgeDropGroups.textWillArrive>
+  <EdgeWalkIn.textEnemy>Враждебные {0} из фракции {1} расположились поблизости.</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textFriendly>Дружественные {0} из фракции {1} расположились поблизости.</EdgeWalkIn.textFriendly>
+  <EdgeWalkIn.textWillArrive>прибудут {0_pawnsPluralDef}</EdgeWalkIn.textWillArrive>
+  <EdgeWalkInDistributed.textEnemy>Враждебные {0} из фракции {1} подходят со всех сторон.</EdgeWalkInDistributed.textEnemy>
+  <EdgeWalkInDistributed.textFriendly>Дружественные {0} из фракции {1} подходят со всех сторон.</EdgeWalkInDistributed.textFriendly>
+  <EdgeWalkInDistributed.textWillArrive>{0_pawnsPluralDef} подойдут одновременно со всех сторон.</EdgeWalkInDistributed.textWillArrive>
+  <EdgeWalkInGroups.textEnemy>Враждебные {0} из фракции {1} подходят с разных сторон.</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textFriendly>Дружественные {0} из фракции {1} подходят с разных сторон.</EdgeWalkInGroups.textFriendly>
+  <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef} подойдут одновременно с разных сторон.</EdgeWalkInGroups.textWillArrive>
+  <EmergeFromWater.textEnemy>{0} появляются из воды.</EmergeFromWater.textEnemy>
+  <EmergeFromWater.textWillArrive>{0_pawnsPluralDef} появятся из воды.</EmergeFromWater.textWillArrive>
+  <MechClusterDrop.textEnemy>Капсулы кластера механоидов приземлятся неподалёку.</MechClusterDrop.textEnemy>
+  <MechClusterDrop.textWillArrive>приземлятся капсулы кластера механоидов.</MechClusterDrop.textWillArrive>
+  <RandomDrop.textEnemy>Десантируются враждебные {0} из фракции {1}. Похоже, в их транспортных капсулах произошёл какой-то сбой, и они приземляются по округе где попало!</RandomDrop.textEnemy>
+  <RandomDrop.textFriendly>Десантируются дружественные {0} из фракции {1}. Похоже, в их транспортных капсулах произошёл какой-то сбой, и они приземляются по округе где попало!</RandomDrop.textFriendly>
+  <RandomDrop.textWillArrive>{0_pawnsPluralDef} десантируются в капсулах.</RandomDrop.textWillArrive>
+  <SpecificDropDebug.textEnemy>Враждебные {0} из фракции {1} десантируются в капсулах неподалёку.</SpecificDropDebug.textEnemy>
+  <SpecificDropDebug.textFriendly>Дружественные {0} из фракции {1} десантируются в капсулах неподалёку.</SpecificDropDebug.textFriendly>
+  <SpecificDropDebug.textWillArrive>{0_pawnsPluralDef} десантируются в капсулах.</SpecificDropDebug.textWillArrive>
+</LanguageData>

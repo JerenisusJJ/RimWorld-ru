@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChildInLaw.label>зять</ChildInLaw.label>
+  <ChildInLaw.labelFemale>невестка</ChildInLaw.labelFemale>
+  <ExLover.label>бывший</ExLover.label>
+  <ExLover.labelFemale>бывшая</ExLover.labelFemale>
+  <ExSpouse.label>бывший муж</ExSpouse.label>
+  <ExSpouse.labelFemale>бывшая жена</ExSpouse.labelFemale>
+  <Fiance.label>жених</Fiance.label>
+  <Fiance.labelFemale>невеста</Fiance.labelFemale>
+  <Lover.label>любовник</Lover.label>
+  <Lover.labelFemale>любовница</Lover.labelFemale>
+  <ParentInLaw.label>тесть</ParentInLaw.label>
+  <ParentInLaw.labelFemale>свекровь</ParentInLaw.labelFemale>
+  <Spouse.label>муж</Spouse.label>
+  <Spouse.labelFemale>жена</Spouse.labelFemale>
+  <Stepchild.label>пасынок</Stepchild.label>
+  <Stepchild.labelFemale>падчерица</Stepchild.labelFemale>
+  <Stepparent.label>отчим</Stepparent.label>
+  <Stepparent.labelFemale>мачеха</Stepparent.labelFemale>
+</LanguageData>

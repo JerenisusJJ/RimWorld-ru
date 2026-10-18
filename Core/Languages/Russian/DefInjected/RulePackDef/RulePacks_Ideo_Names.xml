@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CultureSpacer.rulePack.rulesStrings>
+    <li>globalAdjective-&gt;Космический</li>
+    <li>globalAdjective-&gt;Звёздный</li>
+    <li>globalAdjective-&gt;Межзвёздный</li>
+    <li>globalHyphenPrefix-&gt;астро</li>
+    <li>globalHyphenPrefix-&gt;стелло</li>
+  </CultureSpacer.rulePack.rulesStrings>
+  <NamerIdeoCorunan.rulePack.rulesStrings>
+    <li>globalAdjective(p=15)-&gt;Племенной</li>
+  </NamerIdeoCorunan.rulePack.rulesStrings>
+  <NamerIdeoGlobal.rulePack.rulesStrings>
+    <li>r_ideoName-&gt;[keyDeity]изм</li>
+    <li>r_ideoName-&gt;[hyphenPrefix]-[keyDeity]изм</li>
+    <li>r_ideoName-&gt;[creed] [keyDeity]</li>
+    <li>r_ideoAdjective-&gt;[keyDeity]</li>
+    <li>r_memberName-&gt;[keyDeity]ист</li>
+    <li>r_memberName-&gt;[keyDeity]ит</li>
+    <li>r_ideoName(p=6)-&gt;[packIdeoName]</li>
+    <li>r_ideoName(p=2,forcePrefix==False)-&gt;[hyphenPrefix][packIdeoName]</li>
+    <li>r_ideoName(p=2,forcePrefix==False)-&gt;[hyphenPrefix][packIdeoNameStructure]</li>
+    <li>r_ideoName(p=0.5)-&gt;[memeAdjective_masc] [creed_masc]</li>
+    <li>r_ideoName(p=0.5)-&gt;[memeAdjective_fem] [creed_fem]</li>
+    <li>r_ideoName(p=0.5)-&gt;[memeAdjective_neutral] [creed_neutral]</li>
+    <li>r_ideoName(p=0.5)-&gt;[memeAdjective_plural] [creed_plural]</li>
+    <li>r_ideoName(p=1)-&gt;[creed] [packTheme]</li>
+    <li>r_ideoName(p=0.25)-&gt;[place_adjective_masc] [creed_masc]</li>
+    <li>r_ideoName(p=0.25)-&gt;[place_adjective_fem] [creed_fem]</li>
+    <li>r_ideoName(p=0.25)-&gt;[place_adjective_neutral] [creed_neutral]</li>
+    <li>r_ideoName(p=0.25)-&gt;[place_adjective_plural] [creed_plural]</li>
+    <li>r_ideoName(p=0.25)-&gt;[memeCreed]</li>
+    <li>r_ideoAdjective(priority=1)-&gt;[packAdjective]</li>
+    <li>r_memberName-&gt;[packMember]</li>
+    <li>creed-&gt;[creed_masc]</li>
+    <li>creed-&gt;[creed_fem]</li>
+    <li>creed-&gt;[creed_neutral]</li>
+    <li>creed-&gt;[creed_plural]</li>
+    <li>creed_masc(priority=1)-&gt;[memeCreed_masc]</li>
+    <li>creed_masc-&gt;[genericCreed_masc]</li>
+    <li>creed_fem(priority=1)-&gt;[memeCreed_fem]</li>
+    <li>creed_fem-&gt;[genericCreed_fem]</li>
+    <li>creed_neutral(priority=1)-&gt;[memeCreed_neutral]</li>
+    <li>creed_neutral-&gt;[genericCreed_neutral]</li>
+    <li>creed_plural(priority=1)-&gt;[memeCreed_plural]</li>
+    <li>creed_plural-&gt;[genericCreed_plural]</li>
+    <li>genericCreed_fem-&gt;вера</li>
+    <li>genericCreed_fem-&gt;доктрина</li>
+    <li>genericCreed_masc-&gt;путь</li>
+    <li>genericCreed_neutral-&gt;учение</li>
+    <li>genericCreed_plural-&gt;пути</li>
+    <li>hyphenPrefix-&gt;[globalHyphenPrefix]</li>
+    <li>hyphenPrefix-&gt;[memeHyphenPrefix]</li>
+    <li>globalHyphenPrefix(p=4)-&gt;нео</li>
+    <li>globalHyphenPrefix(p=2)-&gt;пост</li>
+    <li>globalHyphenPrefix-&gt;нова</li>
+    <li>globalHyphenPrefix-&gt;архео</li>
+    <li>globalHyphenPrefix-&gt;гипер</li>
+  </NamerIdeoGlobal.rulePack.rulesStrings>
+</LanguageData>

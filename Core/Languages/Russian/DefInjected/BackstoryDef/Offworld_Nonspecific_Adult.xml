@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Actor72.description>{PAWN_nameDef} {PAWN_gender ? путешествовал : путешествовала : путешествовало} по своему миру в составе актёрской труппы. Они собирали полные залы и всегда были любимы публикой. Из-за своего перфекционизма {PAWN_pronoun} всегда самостоятельно {PAWN_gender ? готовил : готовила : готовило} для себя реквизит и костюмы вместо того, чтобы пользоваться имеющимися.</Actor72.description>
+  <Actor72.title>актёр</Actor72.title>
+  <Actor72.titleShort>актёр</Actor72.titleShort>
+  <AnimalFarmer21.description>{PAWN_nameDef} {PAWN_gender ? выращивал : выращивала : выращивало} различных животных для производства мяса, молока, яиц и кожи.</AnimalFarmer21.description>
+  <AnimalFarmer21.title>фермер-животновод</AnimalFarmer21.title>
+  <AnimalFarmer21.titleShort>животновод</AnimalFarmer21.titleShort>
+  <AsceticPriest84.description>После принятия обета молчания {PAWN_nameDef} {PAWN_gender ? ушёл : ушла : ушёло} в монастырь, чтобы провести жизнь в тихом созерцании.\n\nДля н{PAWN_possessive} было счастьем растить овощи в саду и делать сыр в монастырских подвалах.</AsceticPriest84.description>
+  <AsceticPriest84.title>аскетичный монах</AsceticPriest84.title>
+  <AsceticPriest84.titleShort>аскет</AsceticPriest84.titleShort>
+  <Bartender62.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в баре, пользующимся дурной славой. Такая работа — коктейль из одной части приготовления напитков, одной части дипломатии и одной части мордобоя.</Bartender62.description>
+  <Bartender62.title>бармен</Bartender62.title>
+  <Bartender62.titleShort>бармен</Bartender62.titleShort>
+  <Bodyguard58.description>{PAWN_nameDef} {PAWN_gender ? защищал : защищала : защищало} от всяческих неприятностей всех, кто за это платил. {PAWN_pronoun} {PAWN_gender ? приобрёл : приобрела : приобрёло} опыт в различных видах боя, а также репутацию человека, безжалостно расправляющегося с теми, кто пытается {PAWN_possessive} обмануть.</Bodyguard58.description>
+  <Bodyguard58.title>телохранитель</Bodyguard58.title>
+  <Bodyguard58.titleShort>охранник</Bodyguard58.titleShort>
+  <CaveExplorer45.description>{PAWN_nameDef} {PAWN_gender ? зарабатывал : зарабатывала : зарабатывало} на жизнь созданием карт тёмных туннелей и малодоступных расщелин для поиска ценных минералов. {PAWN_possessive} работа была опасной, но хорошо оплачивалась.</CaveExplorer45.description>
+  <CaveExplorer45.title>спелеолог</CaveExplorer45.title>
+  <CaveExplorer45.titleShort>спелеолог</CaveExplorer45.titleShort>
+  <Chef52.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} «звёздным» шеф-поваром в первоклассном ресторане в одном из столичных миров. Среди постоянных посетителей {PAWN_pronoun} {PAWN_gender ? обрёл : обрела : обрёло} известность благодаря своему творческому подходу к кулинарии, но среди персонала кухни у н{PAWN_possessive} была дурная репутация из-за пренебрежения тяжёлой работой.</Chef52.description>
+  <Chef52.title>повар среднего мира</Chef52.title>
+  <Chef52.titleShort>повар</Chef52.titleShort>
+  <CivilServant2.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} администратором низшего звена в погрязшем в бюрократии и уже отживающем свой век правительстве. {PAWN_pronoun} {PAWN_gender ? обожал : обожала : обожало} заполнять сложную документацию и участвовать в закулисных офисных интригах.</CivilServant2.description>
+  <CivilServant2.title>госслужащий</CivilServant2.title>
+  <CivilServant2.titleShort>клерк</CivilServant2.titleShort>
+  <ConArtist80.description>Вместо того чтобы делать хоть что-нибудь своими руками, {PAWN_nameDef} легко {PAWN_gender ? убеждал : убеждала : убеждало} других отдавать {PAWN_objective} плоды их труда.</ConArtist80.description>
+  <ConArtist80.title>мошенник</ConArtist80.title>
+  <ConArtist80.titleShort>жулик</ConArtist80.titleShort>
+  <ConceptualArtist39.description>{PAWN_nameDef} {PAWN_gender ? получил : получила : получило} известность в художественных кругах своего мира за уникальный творческий стиль своих концептуальных работ.\n\nХотя никто толком не понимал, что именно {PAWN_pronoun} {PAWN_gender ? пытался : пыталась : пытался} донести до зрителя, {PAWN_possessive} работы высоко ценились коллекционерами.</ConceptualArtist39.description>
+  <ConceptualArtist39.title>концепт. художник</ConceptualArtist39.title>
+  <ConceptualArtist39.titleShort>художник</ConceptualArtist39.titleShort>
+  <ConstructionEngineer32.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} строителем. Бригада рабочих под {PAWN_possessive} руководством участвовала в строительстве самых разных объектов: от офисных зданий до соборов.\n\nИз-за нехватки времени и постоянного обилия забегаловок с фастфудом поблизости {PAWN_nameDef} никогда не {PAWN_gender ? занимался : занималась : занимался} готовкой.</ConstructionEngineer32.description>
+  <ConstructionEngineer32.title>бригадир</ConstructionEngineer32.title>
+  <ConstructionEngineer32.titleShort>бригадир</ConstructionEngineer32.titleShort>
+  <ContractMiner86.description>{PAWN_nameDef} {PAWN_gender ? сменил : сменила : сменило} множество работ, связанных с добычей минералов и древних ценностей в туннелях и карьерах. Работа была тяжёлой и грязной, но {PAWN_objective} она нравилась.</ContractMiner86.description>
+  <ContractMiner86.title>шахтёр-контрактник</ContractMiner86.title>
+  <ContractMiner86.titleShort>шахтёр</ContractMiner86.titleShort>
+  <CorporateManager76.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в огромном офисе открытого типа и {PAWN_gender ? следил : следила : следило} за тем, чтобы {PAWN_possessive} подчинённые не выходили из установленного графика.\n\nТакая работа требовала чрезвычайно тонкой политической игры. Ради продвижения по службе {PAWN_nameDef} {PAWN_gender ? научился : научилась : научился} приписывать себе чьи угодно заслуги.</CorporateManager76.description>
+  <CorporateManager76.title>менеджер корпорации</CorporateManager76.title>
+  <CorporateManager76.titleShort>менеджер</CorporateManager76.titleShort>
+  <Counselor26.description>В молодом возрасте {PAWN_nameDef} {PAWN_gender ? получил : получила : получило} ужасную психологическую травму, которая привела к расстройству пищевого поведения. Консультации у психолога помогли {PAWN_objective} восстановить нормальный режим питания, и {PAWN_pronoun} {PAWN_gender ? решил : решила : решило} использовать полученные знания для того, чтобы помогать другим людям в преодолении их эмоциональных проблем.</Counselor26.description>
+  <Counselor26.title>психолог</Counselor26.title>
+  <Counselor26.titleShort>психолог</Counselor26.titleShort>
+  <CropFarmer17.description>{PAWN_nameDef} {PAWN_gender ? управлял : управляла : управляло} растениеводческой фермой. {PAWN_pronoun} {PAWN_gender ? занимался : занималась : занимался} анализом почвы и оборудования, отслеживанием изменений погоды и тенденций ценообразования для оптимизации процессов посадки и сбора урожая на огромных полях.</CropFarmer17.description>
+  <CropFarmer17.title>земледелец</CropFarmer17.title>
+  <CropFarmer17.titleShort>фермер</CropFarmer17.titleShort>
+  <Defector78.description>В молодом возрасте {PAWN_nameDef} {PAWN_gender ? решил : решила : решило} сбежать от гнетущего диктаторского режима государства, в котором на тот момент {PAWN_gender ? жил : жила : жило}. Это бегство власти посчитали государственной изменой и отправили по {PAWN_possessive} следу агентов.\n\nВсе годы, что {PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} в бегах, {PAWN_pronoun} {PAWN_gender ? лечил : лечила : лечило} свои раны самостоятельно, чтобы ни один врач не мог {PAWN_possessive} выдать. Множество тягот такой жизни озлобили {PAWN_possessive} и отучили доверять людям.</Defector78.description>
+  <Defector78.title>перебежчик</Defector78.title>
+  <Defector78.titleShort>беглец</Defector78.titleShort>
+  <Drifter67.description>Не имея особых планов на жизнь, {PAWN_nameDef} часто {PAWN_gender ? путешествовал : путешествовала : путешествовало}, перебиваясь случайными заработками, если их удавалось найти.\n\nКроме того, {PAWN_pronoun} время от времени {PAWN_gender ? работал : работала : работало} над романом, который точно должен был стать бестселлером — {PAWN_nameDef} всего-то {PAWN_gender ? должен был : должна была : должен было} найти заинтересованного издателя.</Drifter67.description>
+  <Drifter67.title>скиталец</Drifter67.title>
+  <Drifter67.titleShort>скиталец</Drifter67.titleShort>
+  <EscapedConvict90.description>{PAWN_nameDef} {PAWN_gender ? отрицал : отрицала : отрицало} своё участие в тех преступлениях, что привели к {PAWN_possessive} заключению в жестокой исправительной колонии. {PAWN_pronoun} {PAWN_gender ? сбежал : сбежала : сбежало} оттуда, прорыв туннель под стенами при помощи переделанного столового прибора.</EscapedConvict90.description>
+  <EscapedConvict90.title>беглый каторжник</EscapedConvict90.title>
+  <EscapedConvict90.titleShort>беглец</EscapedConvict90.titleShort>
+  <Evangelist39.description>В юности {PAWN_nameDef} {PAWN_gender ? испытал : испытала : испытало} религиозное пробуждение. {PAWN_pronoun} {PAWN_gender ? решил : решила : решило} посвятить остаток жизни распространению откровений своего божества, красоты его культуры, а также необычных методов лечения.</Evangelist39.description>
+  <Evangelist39.title>евангелист</Evangelist39.title>
+  <Evangelist39.titleShort>евангелист</Evangelist39.titleShort>
+  <ExplosivesExpert26.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} взрывотехником в шахтах. {PAWN_pronoun} очень серьёзно {PAWN_gender ? относился : относилась : относился} к своей работе и хорошо {PAWN_gender ? разбирался : разбиралась : разбирался} в технической стороне дела. Настолько, что {PAWN_gender ? отказывался : отказывалась : отказывался} «унижаться», помогая разбирать завалы породы после каждого точно рассчитанного взрыва.</ExplosivesExpert26.description>
+  <ExplosivesExpert26.title>инженер-взрывотехник</ExplosivesExpert26.title>
+  <ExplosivesExpert26.titleShort>подрывник</ExplosivesExpert26.titleShort>
+  <Forester96.description>{PAWN_nameDef} {PAWN_gender ? растил : растила : растило} и {PAWN_gender ? вырубал : вырубала : вырубало} леса. {PAWN_pronoun} хорошо {PAWN_gender ? разбирался : разбиралась : разбирался} как в практических проблемах, касающихся типов почвы, ветра и дождя, так и в долгосрочном планировании выращивания леса.</Forester96.description>
+  <Forester96.title>лесник</Forester96.title>
+  <Forester96.titleShort>лесник</Forester96.titleShort>
+  <FurnitureBuilder83.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла : вырос} возле леса. {PAWN_pronoun} {PAWN_gender ? проводил : проводила : проводило} своё время, создавая красивую мебель для богатых клиентов из мира-утопии.</FurnitureBuilder83.description>
+  <FurnitureBuilder83.title>сборщик мебели</FurnitureBuilder83.title>
+  <FurnitureBuilder83.titleShort>мебельщик</FurnitureBuilder83.titleShort>
+  <Gardener99.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в особняке одной могущественной семьи, ухаживая за их роскошными садами вместе с остальной прислугой.</Gardener99.description>
+  <Gardener99.title>садовник</Gardener99.title>
+  <Gardener99.titleShort>садовник</Gardener99.titleShort>
+  <Geologist66.description>На протяжении нескольких лет {PAWN_nameDef} {PAWN_gender ? работал : работала : работало} совместно с шахтёрами и спелеологами, определяя типы горных пород и минералов.\n\nЗа это время {PAWN_pronoun} {PAWN_gender ? научился : научилась : научился} ремонтировать буровое оборудование и прочую технику.</Geologist66.description>
+  <Geologist66.title>геолог</Geologist66.title>
+  <Geologist66.titleShort>геолог</Geologist66.titleShort>
+  <Housemate8.description>Во взрослом возрасте {PAWN_nameDef} {PAWN_gender ? вёл : вела : вёло} домашнее хозяйство и {PAWN_gender ? заботился : заботилась : заботился} о детях, пока {PAWN_possessive} вторая половинка была на работе.</Housemate8.description>
+  <Housemate8.title>домохозяин</Housemate8.title>
+  <Housemate8.titleShort>хозяин</Housemate8.titleShort>
+  <Housemate8.titleFemale>домохозяйка</Housemate8.titleFemale>
+  <Housemate8.titleShortFemale>домохозяйка</Housemate8.titleShortFemale>
+  <HouseServant63.description>После того как в молодости {PAWN_possessive} похитили и продали богатым аристократам, {PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в качестве домашней прислуги.\n\nТам, в особняке своего господина, {PAWN_nameDef} {PAWN_gender ? изучил : изучила : изучило} всё кухни и подвалы, но при этом не {PAWN_gender ? имел : имела : имело} возможности выходить наружу.</HouseServant63.description>
+  <HouseServant63.title>домашняя прислуга</HouseServant63.title>
+  <HouseServant63.titleShort>слуга</HouseServant63.titleShort>
+  <Hunter89.description>{PAWN_nameDef} {PAWN_gender ? охотился : охотилась : охотился} на диких животных, чтобы помочь прокормить свою общину. Когда наступали трудные времена, другие смотрели на н{PAWN_possessive} как на того, кто сможет помочь людям пережить тяжёлый сезон.</Hunter89.description>
+  <Hunter89.title>охотник</Hunter89.title>
+  <Hunter89.titleShort>охотник</Hunter89.titleShort>
+  <Inventor6.description>В своём мире {PAWN_nameDef} {PAWN_gender ? был : была : было} изобретателем. {PAWN_objective} удалось достичь некоторых успехов, разработав несколько технологий, пусть и не самой высокой степени важности.</Inventor6.description>
+  <Inventor6.title>изобретатель</Inventor6.title>
+  <Inventor6.titleShort>изобретатель</Inventor6.titleShort>
+  <Jailbird40.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} большую часть своей жизни в разных тюрьмах, где {PAWN_possessive} часто назначали работать на кухне. {PAWN_pronoun} нередко {PAWN_gender ? ввязывался : ввязывалась : ввязывался} в драки и {PAWN_gender ? выработал : выработала : выработало} агрессивный стиль общения.</Jailbird40.description>
+  <Jailbird40.title>арестант</Jailbird40.title>
+  <Jailbird40.titleShort>арестант</Jailbird40.titleShort>
+  <LivestockFarmer8.description>{PAWN_nameDef} {PAWN_gender ? владел : владела : владело} ранчо. {PAWN_pronoun} {PAWN_gender ? изучал : изучала : изучало} генетику животных, типы кормов, методики разведения и убоя, а также рыночные цены, чтобы оптимизировать содержание огромных стад животных.</LivestockFarmer8.description>
+  <LivestockFarmer8.title>хозяин ранчо</LivestockFarmer8.title>
+  <LivestockFarmer8.titleShort>хозяин ранчо</LivestockFarmer8.titleShort>
+  <Logger95.description>{PAWN_nameDef} {PAWN_gender ? валил : валила : валило} деревья и {PAWN_gender ? собирал : собирала : собирало} древесину на холмистых перевалах и в оврагах. {PAWN_pronoun} {PAWN_gender ? научился : научилась : научился} безопасно валить деревья и управлять лесом, чтобы поддерживать его в хорошем состоянии.</Logger95.description>
+  <Logger95.title>древотёс</Logger95.title>
+  <Logger95.titleShort>древотёс</Logger95.titleShort>
+  <LowWageWorker7.description>Стремясь прокормить семью, {PAWN_nameDef} {PAWN_gender ? перебивался : перебивалась : перебивался} случайными заработками, работая на самых разных работах. {PAWN_pronoun} {PAWN_gender ? получил : получила : получило} базовые навыки ручного труда.</LowWageWorker7.description>
+  <LowWageWorker7.title>низкоопл. рабочий</LowWageWorker7.title>
+  <LowWageWorker7.titleShort>подёнщик</LowWageWorker7.titleShort>
+  <MachineCollector55.description>{PAWN_nameDef} без ума от старых машин и загадочных технологий. {PAWN_pronoun} {PAWN_gender ? любил : любила : любило} доставать такие механизмы любыми способами и разбирать их, чтобы узнать, как они работают.\n\nУ н{PAWN_possessive} появилась привычка продолжать говорить о своей коллекции, даже когда окружающие уже {PAWN_possessive} не слушают.</MachineCollector55.description>
+  <MachineCollector55.title>коллекционер машин</MachineCollector55.title>
+  <MachineCollector55.titleShort>коллекционер</MachineCollector55.titleShort>
+  <Mathematician6.description>Работая в университете, {PAWN_nameDef} {PAWN_gender ? проводил : проводила : проводило} исследование в области математики.\n\nБольшую часть своего свободного времени {PAWN_pronoun} {PAWN_gender ? тратил : тратила : тратило} на сетевые шутеры. {PAWN_objective} часто доставались насмешки от других игроков из-за {PAWN_possessive} неумения попадать в цель.</Mathematician6.description>
+  <Mathematician6.title>профессор математики</Mathematician6.title>
+  <Mathematician6.titleShort>математик</Mathematician6.titleShort>
+  <Model99.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} моделью в рекламе одежды и украшений. Кроме того, {PAWN_possessive} использовали как образец для моделирования персонажей виртуальной реальности.</Model99.description>
+  <Model99.title>модель</Model99.title>
+  <Model99.titleShort>модель</Model99.titleShort>
+  <Nurse61.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в больнице и {PAWN_gender ? занимался : занималась : занимался} такой рутинной работой, как перевязывание ран и измерение температуры.\n\nНесмотря на напряжённую работу, у н{PAWN_possessive} всегда находилось время на беседу с пациентом.</Nurse61.description>
+  <Nurse61.title>медбрат</Nurse61.title>
+  <Nurse61.titleShort>медбрат</Nurse61.titleShort>
+  <Paramedic45.description>{PAWN_nameDef} {PAWN_gender ? занимался : занималась : занимался} оказанием экстренной медицинской помощи. {PAWN_objective} часто приходилось иметь дело с серьёзными ранениями, имея при себе только ограниченный запас медикаментов.\n\nЗа всё эти годы {PAWN_nameDef} {PAWN_gender ? обработал : обработала : обработало} столько пулевых ранений, что теперь не может даже смотреть в сторону огнестрельного оружия.</Paramedic45.description>
+  <Paramedic45.title>парамедик</Paramedic45.title>
+  <Paramedic45.titleShort>парамедик</Paramedic45.titleShort>
+  <Policeman45.description>{PAWN_nameDef} {PAWN_gender ? поддерживал : поддерживала : поддерживало} порядок на улицах города как обычный сотрудник правоохранительных органов.\n\n{PAWN_pronoun} {PAWN_gender ? был обучен : была обучена : был обучно} разрешению конфликтных ситуаций, силовому контролю, стрельбе и другим важным для полицейских навыкам.</Policeman45.description>
+  <Policeman45.title>офицер полиции</Policeman45.title>
+  <Policeman45.titleShort>офицер полиции</Policeman45.titleShort>
+  <Policeman45.titleFemale>офицер полиции</Policeman45.titleFemale>
+  <Policeman45.titleShortFemale>офицер полиции</Policeman45.titleShortFemale>
+  <QuarryWorker29.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в каменоломне, помогая добывать ценный камень на склоне холма. {PAWN_pronoun} {PAWN_gender ? научился : научилась : научился} чувствовать в горной породе перспективы и опасности при помощи одних лишь взгляда, прикосновения и интуиции.</QuarryWorker29.description>
+  <QuarryWorker29.title>работник карьера</QuarryWorker29.title>
+  <QuarryWorker29.titleShort>горнорабочий</QuarryWorker29.titleShort>
+  <Rancher43.description>Владение ранчо, где животных выращивают ради шерсти и мяса, приносило {PAWN_objective} неплохие доходы.\n\n{PAWN_nameDef} не {PAWN_gender ? занимался : занималась : занимался} грязной работой, предпочитая платить, чтобы всё сделали за н{PAWN_possessive}.</Rancher43.description>
+  <Rancher43.title>хозяин ранчо</Rancher43.title>
+  <Rancher43.titleShort>скотовод</Rancher43.titleShort>
+  <Ranger96.description>{PAWN_nameDef} {PAWN_gender ? выслеживал : выслеживала : выслеживало} животных и людей для самых разнообразных клиентов. {PAWN_pronoun} {PAWN_gender ? приобрёл : приобрела : приобрёло} навыки чтения следов, поиска пищи в дикой природе и преследования добычи.</Ranger96.description>
+  <Ranger96.title>егерь</Ranger96.title>
+  <Ranger96.titleShort>егерь</Ranger96.titleShort>
+  <Recruiter14.description>{PAWN_nameDef} — бывший член уважаемого ордена мастеров боевых искусств, печально известных как своими боевыми навыками, так и отказом от лечения собственных раненых.\n\nВ {PAWN_possessive} обязанности входило путешествовать по родному миру, отбирая молодых людей для обучения и тренировок в ордене.</Recruiter14.description>
+  <Recruiter14.title>вербовщик</Recruiter14.title>
+  <Recruiter14.titleShort>вербовщик</Recruiter14.titleShort>
+  <Slaughterer58.description>{PAWN_nameDef} {PAWN_gender ? зарабатывал : зарабатывала : зарабатывало} на жизнь забоем животных. Другие смотрели на эту работу свысока, считая её грязной, но навыки, необходимые для эффективного и чистого забоя большого количества животных, никогда не были простыми.</Slaughterer58.description>
+  <Slaughterer58.title>забойщик</Slaughterer58.title>
+  <Slaughterer58.titleShort>забойщик</Slaughterer58.titleShort>
+  <Teacher20.description>{PAWN_nameDef} {PAWN_gender ? получил : получила : получило} гуманитарное образование и {PAWN_gender ? работал : работала : работало} учителем в общеобразовательной школе. {PAWN_pronoun} {PAWN_gender ? обладал : обладала : обладало} обширным запасом знаний, а ученики {PAWN_possessive} любили и уважали.</Teacher20.description>
+  <Teacher20.title>учитель</Teacher20.title>
+  <Teacher20.titleShort>учитель</Teacher20.titleShort>
+  <Torturer37.description>Работая при средневековом монархе-тиране, {PAWN_nameDef} {PAWN_gender ? приобрёл : приобрела : приобрёло} репутацию эксперта в области «убеждения». У заключённых, попадающих к н{PAWN_objective} в темницу, не оставалось никаких секретов, зато {PAWN_possessive} улыбка до конца жизни преследовала их в кошмарах.</Torturer37.description>
+  <Torturer37.title>палач</Torturer37.title>
+  <Torturer37.titleShort>палач</Torturer37.titleShort>
+  <Veterinarian99.description>Повзрослев, {PAWN_nameDef} {PAWN_gender ? зарабатывал : зарабатывала : зарабатывало} на жизнь, исцеляя больных и раненых животных. Вид их страданий повлиял на {PAWN_possessive} отношение к мясным блюдам: на многие годы {PAWN_pronoun} {PAWN_gender ? стал вегетарианцем : стала вегетарианкой : стал вегетарианцем}, отвергнув «мясоедство».</Veterinarian99.description>
+  <Veterinarian99.title>ветеринар</Veterinarian99.title>
+  <Veterinarian99.titleShort>ветеринар</Veterinarian99.titleShort>
+</LanguageData>

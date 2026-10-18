@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GaveGift.label>получен подарок</GaveGift.label>
+  <PeaceTalksBackfire.label>безуспешные мирные переговоры</PeaceTalksBackfire.label>
+  <PeaceTalksDisaster.label>провальные мирные переговоры</PeaceTalksDisaster.label>
+  <PeaceTalksSuccess.label>успешные мирные переговоры</PeaceTalksSuccess.label>
+  <PeaceTalksTriumph.label>очень успешные мирные переговоры</PeaceTalksTriumph.label>
+  <RequestedMilitaryAid.label>запрошена военная помощь</RequestedMilitaryAid.label>
+  <RequestedOrbitalTrader.label>запрошен орбитальный торговец</RequestedOrbitalTrader.label>
+  <RequestedTrader.label>запрошен торговец</RequestedTrader.label>
+  <Traded.label>заключена крупная сделка</Traded.label>
+</LanguageData>

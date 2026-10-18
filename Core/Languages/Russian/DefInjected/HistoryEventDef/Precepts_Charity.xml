@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CharityFulfilled_Beggars.label>попрошайки получили помощь</CharityFulfilled_Beggars.label>
+  <CharityFulfilled_HospitalityRefugees.label>беженцы получили помощь</CharityFulfilled_HospitalityRefugees.label>
+  <CharityFulfilled_IntroWimp.label>спасён знатный человек</CharityFulfilled_IntroWimp.label>
+  <CharityFulfilled_RefugeePodCrash.label>спасён беженец из капсулы</CharityFulfilled_RefugeePodCrash.label>
+  <CharityFulfilled_ShuttleCrashRescue.label>потерпевшие крушение получили помощь</CharityFulfilled_ShuttleCrashRescue.label>
+  <CharityFulfilled_ThreatReward_Joiner.label>отчаянный странник принят</CharityFulfilled_ThreatReward_Joiner.label>
+  <CharityFulfilled_WandererJoins.label>страннику оказана помощь</CharityFulfilled_WandererJoins.label>
+  <CharityRefused_Beggars.label>попрошайки не получили помощь</CharityRefused_Beggars.label>
+  <CharityRefused_Beggars_Betrayed.label>попрошайки были преданы</CharityRefused_Beggars_Betrayed.label>
+  <CharityRefused_HospitalityRefugees.label>беженцы не получили помощь</CharityRefused_HospitalityRefugees.label>
+  <CharityRefused_IntroWimp.label>хлюпик не получил помощь</CharityRefused_IntroWimp.label>
+  <CharityRefused_Pilgrims.label>паломников не впустили</CharityRefused_Pilgrims.label>
+  <CharityRefused_Pilgrims_Betrayed.label>паломники были преданы</CharityRefused_Pilgrims_Betrayed.label>
+  <CharityRefused_RefugeePodCrash.label>беженец из капсулы не получил помощь</CharityRefused_RefugeePodCrash.label>
+  <CharityRefused_ShuttleCrashRescue.label>потерпевшие крушение не получили помощь</CharityRefused_ShuttleCrashRescue.label>
+  <CharityRefused_WandererJoins.label>странника не впустили</CharityRefused_WandererJoins.label>
+</LanguageData>

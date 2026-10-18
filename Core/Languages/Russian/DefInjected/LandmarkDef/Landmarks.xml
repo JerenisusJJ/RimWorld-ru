@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AbandonedColonyOutlander.label>заброшенное поселение</AbandonedColonyOutlander.label>
+  <AbandonedColonyTribal.label>заброшенное поселение</AbandonedColonyTribal.label>
+  <AncientChemfuelRefinery.label>древний химтопливный завод</AncientChemfuelRefinery.label>
+  <AncientGarrison.label>древний гарнизон</AncientGarrison.label>
+  <AncientHeatVent.label>древняя вентиляция</AncientHeatVent.label>
+  <AncientInfestedSettlement.label>зараженное поселение</AncientInfestedSettlement.label>
+  <AncientLaunchSite.label>древняя стартовая площадка</AncientLaunchSite.label>
+  <AncientQuarry.label>древний карьер</AncientQuarry.label>
+  <AncientSmokeVent.label>древняя вентиляция</AncientSmokeVent.label>
+  <AncientToxVent.label>древняя вентиляция</AncientToxVent.label>
+  <AncientWarehouse.label>древний склад</AncientWarehouse.label>
+  <Archipelago.label>архипелаг</Archipelago.label>
+  <Basin.label>котловина</Basin.label>
+  <Bay.label>бухта</Bay.label>
+  <Cavern.label>пещера</Cavern.label>
+  <Chasm.label>пропасть</Chasm.label>
+  <Cliffs.label>утесы</Cliffs.label>
+  <CoastalAtoll.label>береговой атолл</CoastalAtoll.label>
+  <CoastalIsland.label>прибрежный остров</CoastalIsland.label>
+  <Cove.label>бухта</Cove.label>
+  <Crevasse.label>трещина</Crevasse.label>
+  <DryLake.label>высохшее озеро</DryLake.label>
+  <Dunes.label>дюны</Dunes.label>
+  <Fjord.label>фьорд</Fjord.label>
+  <FrozenRuins.label>замерзшие развалины</FrozenRuins.label>
+  <Harbor.label>гавань</Harbor.label>
+  <Hollow.label>впадина</Hollow.label>
+  <HotSprings.label>горячие источники</HotSprings.label>
+  <Iceberg.label>айсберг</Iceberg.label>
+  <IceDunes.label>ледяные дюны</IceDunes.label>
+  <Lake.label>озеро</Lake.label>
+  <LakeWithIsland.label>озеро</LakeWithIsland.label>
+  <LakeWithIslands.label>озеро</LakeWithIslands.label>
+  <LavaCrater.label>лавовое озеро</LavaCrater.label>
+  <LavaFlow.label>поток лавы</LavaFlow.label>
+  <LavaLake.label>лавовое озеро</LavaLake.label>
+  <Oasis.label>оазис</Oasis.label>
+  <Peninsula.label>полуостров</Peninsula.label>
+  <Plateau.label>плато</Plateau.label>
+  <Pond.label>озеро</Pond.label>
+  <Ruins.label>развалины</Ruins.label>
+  <TerraformingScar.label>шрам терраформирования</TerraformingScar.label>
+  <ToxicLake.label>токсичное озеро</ToxicLake.label>
+  <Valley.label>долина</Valley.label>
+  <Wetland.label>заболоченные земли</Wetland.label>
+</LanguageData>

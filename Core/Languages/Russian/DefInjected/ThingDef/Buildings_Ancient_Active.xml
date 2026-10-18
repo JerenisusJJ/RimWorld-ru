@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientCommsConsole.label>древняя консоль связи</AncientCommsConsole.label>
+  <AncientCommsConsole.description>Древняя консоль с коммуникационной антенной. Ценные части отсутствуют, а всё остальное прогнило до бесполезного состояния.</AncientCommsConsole.description>
+  <AncientCommsConsole.comps.CompHackable.notHackedInspectString>Взломайте, чтобы получить доступ к древнему спутнику с припасами.</AncientCommsConsole.comps.CompHackable.notHackedInspectString>
+  <AncientEnemyTerminal.label>древний вражеский терминал</AncientEnemyTerminal.label>
+  <AncientEnemyTerminal.description>Древний компьютерный терминал. Может быть взломан, чтобы призвать врагов неподалёку.</AncientEnemyTerminal.description>
+  <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>Взлом {lookup: {0}; Case; 1} оповестит противников, и они нападут на вас.</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
+  <AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>Взломайте, чтобы призвать врагов неподалёку.</AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
+  <AncientSecurityCrate.label>защищённый контейнер</AncientSecurityCrate.label>
+  <AncientSecurityCrate.description>Большой герметичный контейнер с автономным источником питания и встроенной системой сигнализации. Предметы в таких контейнерах могут не ветшать долгое время. Если попытаться открыть его без кода доступа, могут активироваться защитные механизмы.</AncientSecurityCrate.description>
+  <AncientTerminal.label>древний терминал</AncientTerminal.label>
+  <AncientTerminal.description>Древний компьютерный терминал. Может быть взломан для получения давно забытых данных.</AncientTerminal.description>
+  <AncientTerminal_Worshipful.label>древний терминал</AncientTerminal_Worshipful.label>
+  <AncientTerminal_Worshipful.description>Древний компьютерный терминал. Может быть взломан для получения давно забытых данных.</AncientTerminal_Worshipful.description>
+</LanguageData>

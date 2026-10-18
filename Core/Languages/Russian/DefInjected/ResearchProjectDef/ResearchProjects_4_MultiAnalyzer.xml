@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AdvancedFabrication.label>сверхвысокоточное производство</AdvancedFabrication.label>
+  <AdvancedFabrication.description>Позволяет собирать продвинутые компоненты из обычных компонентов и некоторых других материалов.</AdvancedFabrication.description>
+  <AdvancedFabrication.generalRules.rulesStrings>
+    <li>subject-&gt;продвинутые компоненты</li>
+    <li>subject_gen-&gt;продвинутых компонентов</li>
+    <li>subject_dat-&gt;продвинутым компонентам</li>
+    <li>subject_pre_about-&gt;о продвинутых компонентах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} продавать продвинутые компоненты отчаявшимся обитателям окраинного мира</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? нашёл : нашла} способ быстрого и дешёвого изготовления продвинутых компонентов, но вскоре {ANYPAWN_gender ? умер : умерла}, не успев никому о нём рассказать</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? попытался : попыталась} заняться изготовлением продвинутых компонентов, но из-за чрезмерных затрат {ANYPAWN_gender ? отказался : отказалась} от этой затеи и {ANYPAWN_gender ? выбрал : выбрала} промысел попроще</li>
+    <li>subject_gerund-&gt;производства продвинутых компонентов</li>
+  </AdvancedFabrication.generalRules.rulesStrings>
+  <Bionics.label>бионическое протезирование</Bionics.label>
+  <Bionics.description>Позволяет изготавливать высокотехнологичные бионические протезы для замены потерянных конечностей и глаз. Для имплантирования требуется опытный врач.</Bionics.description>
+  <Bionics.generalRules.rulesStrings>
+    <li>subject-&gt;бионические протезы</li>
+    <li>subject_gen-&gt;бионических протезов</li>
+    <li>subject_dat-&gt;бионическим протезам</li>
+    <li>subject_pre_about-&gt;о бионических протезах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} создавать индивидуальные бионические элементы лица для изуродованных войной солдат, чтобы те могли вернуться к своим близким</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? просмотрел : просмотрела} множество записей замедленных движений человека, чтобы усовершенствовать процесс изготовления бионических протезов</li>
+    <li>subject_story-&gt;, будучи {ANYPAWN_gender ? добровольным испытуемым, позволил : добровольной испытуемой, позволила} вживить себе различные прототипы бионики и {ANYPAWN_gender ? стал : стала} походить на машину</li>
+    <li>subject_gerund-&gt;создания бионических протезов</li>
+    <li>subject_gerund-&gt;бионического протезирования</li>
+  </Bionics.generalRules.rulesStrings>
+  <ChargedShot.label>энергетическое оружие</ChargedShot.label>
+  <ChargedShot.description>Понимание секретов импульсно-заряженных энергетических снарядов позволяет изготавливать энерговинтовки. Для этого потребуются продвинутые компоненты.</ChargedShot.description>
+  <ChargedShot.generalRules.rulesStrings>
+    <li>subject-&gt;энергетическое оружие</li>
+    <li>subject_gen-&gt;энергетического оружия</li>
+    <li>subject_dat-&gt;энергетическому оружию</li>
+    <li>subject_pre_about-&gt;об энергетическом оружии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} принцип работы монорельсовых дорог утопических миров, а затем {ANYPAWN_gender ? применил : применила} полученные знания в области вооружения</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? смог : смогла} одолеть механического ползуна, держась от него на расстоянии выстрела из энергокопья</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? научился : научилась} усиливать винтовочные боеприпасы остаточным энергетическим зарядом, значительно увеличив их смертоносность</li>
+    <li>subject_gerund-&gt;изготовления энерговинтовок</li>
+    <li>subject_gerund-&gt;изготовления энергокопий</li>
+  </ChargedShot.generalRules.rulesStrings>
+  <Cryptosleep.label>саркофаги криптосна</Cryptosleep.label>
+  <Cryptosleep.description>Саркофаги криптосна предназначены для погружения живых существ в состояние анабиоза.</Cryptosleep.description>
+  <Cryptosleep.generalRules.rulesStrings>
+    <li>subject-&gt;криптосон</li>
+    <li>subject_gen-&gt;криптосна</li>
+    <li>subject_dat-&gt;криптосну</li>
+    <li>subject_pre_about-&gt;о криптосне</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? приступил : приступила} к испытанию прототипа саркофага криптосна, но {ANYPAWN_gender ? проснулся : проснулась} спустя целое поколение в полном одиночестве</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? приговорил : приговорила} известного на всю систему криминального авторитета к пожизненному криптосну вместо смертной казни</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} погружать неизлечимо больных людей в капсулы криптосна, чтобы в будущем они смогли увидеть своих выросших детей</li>
+    <li>subject_gerund-&gt;сооружения саркофагов криптосна</li>
+    <li>subject_gerund-&gt;стимулирования криптосна</li>
+  </Cryptosleep.generalRules.rulesStrings>
+  <Fabrication.label>высокоточное производство</Fabrication.label>
+  <Fabrication.description>Позволяет вам строить специальные станки, на которых можно изготавливать высокотехнологичные изделия самых разных видов: от компонентов до силовой брони.</Fabrication.description>
+  <Fabrication.discoveredLetterText>Теперь у вас есть технология для постройки высокоточного станка, но для этого потребуются некоторые продвинутые компоненты. Вы можете добыть несколькими способами:\n\n -Купить в поселении другой развитой фракции, отправив туда караван.\n -Купить у проходящих торговцев. Запросите караван или дождитесь, пока к вам придут сами.\n -Получить в награду за выполнение заданий.</Fabrication.discoveredLetterText>
+  <Fabrication.discoveredLetterTitle>Получение продвинутых компонентов</Fabrication.discoveredLetterTitle>
+  <Fabrication.generalRules.rulesStrings>
+    <li>subject-&gt;высокоточное производство</li>
+    <li>subject_gen-&gt;высокоточного производства</li>
+    <li>subject_dat-&gt;высокоточному производству</li>
+    <li>subject_pre_about-&gt;о высокоточном производстве</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? потратил : потратила} много лет на изготовление продвинутых компонентов для создания высокоточного станка, чтобы с его помощью изготовить ещё больше продвинутых компонентов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? продал : продала} всё своё имущество, чтобы построить один-единственный высокоточный станок</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} технологические диковинки, которые стали предметом поклонения у невежественных сельских жителей</li>
+    <li>subject_gerund-&gt;изготовления высокотехнологичных изделий</li>
+    <li>subject_gerund-&gt;сооружения высокотехнологичных производственных цехов</li>
+  </Fabrication.generalRules.rulesStrings>
+  <MultiAnalyzer.label>мультианализатор</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Ускоряет изучение технологий. Должен быть размещён рядом со столом для исследований. Один стол может быть соединён только с одним мультианализатором.</MultiAnalyzer.description>
+  <MultiAnalyzer.generalRules.rulesStrings>
+    <li>subject-&gt;мультианализ</li>
+    <li>subject_gen-&gt;мультианализа</li>
+    <li>subject_dat-&gt;мультианализу</li>
+    <li>subject_pre_about-&gt;о мультианализе</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? автоматизировал : автоматизировала} свою исследовательскую лабораторию</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? раскрыл : раскрыла} трансспектральные тайны Вселенной</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? помог : помогла} выявить новые стабильные изотопы</li>
+    <li>subject_gerund-&gt;сооружения мультианализаторов</li>
+  </MultiAnalyzer.generalRules.rulesStrings>
+  <PoweredArmor.label>пехотная броня</PoweredArmor.label>
+  <PoweredArmor.description>Изготовление силовой брони общего назначения, применяемой штурмовиками космопехоты. Для производства потребуются продвинутые компоненты.</PoweredArmor.description>
+  <PoweredArmor.generalRules.rulesStrings>
+    <li>subject-&gt;силовая броня общего назначения</li>
+    <li>subject_gen-&gt;силовой брони общего назначения</li>
+    <li>subject_dat-&gt;силовой броне общего назначения</li>
+    <li>subject_pre_about-&gt;о силовой броне общего назначения</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? нанялся : нанялась} в отряд штурмовой космопехоты для обслуживания их брони</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? протестировал : протестировала} броню, пройдя {ANYPAWN_gender ? безоружным : безоружной} по поселению враждебно настроенных диких туземцев и не получив ни царапины</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} броню для защиты от неблагоприятных погодных условий, которая также оказалась эффективной и против пиратов</li>
+    <li>subject_gerund-&gt;изготовления гренадерской брони</li>
+    <li>subject_gerund-&gt;изготовления пехотной брони</li>
+    <li>subject_gerund-&gt;изготовления роскошной пехотной брони</li>
+  </PoweredArmor.generalRules.rulesStrings>
+  <ReconArmor.label>разведброня</ReconArmor.label>
+  <ReconArmor.description>Изготовление лёгкой силовой брони, применяемой бойцами-разведчиками, которым требуется защита без стеснения движений. Для производства потребуются продвинутые компоненты.</ReconArmor.description>
+  <ReconArmor.generalRules.rulesStrings>
+    <li>subject-&gt;лёгкая силовая броня</li>
+    <li>subject_gen-&gt;лёгкой силовой брони</li>
+    <li>subject_dat-&gt;лёгкой силовой броне</li>
+    <li>subject_pre_about-&gt;о лёгкой силовой броне</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возглавил : возглавила} отряд разведчиков-повстанцев в борьбе против имперских войск, но {ANYPAWN_gender ? попал : попала} в плен</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} силовую броню, достаточно лёгкую и подвижную, чтобы вооружённые молотами воины могли оперативно сближаться с врагом</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} лёгкую броню для охотников, которая впоследствии снискала популярность и среди солдат</li>
+    <li>subject_gerund-&gt;изготовления разведброни</li>
+    <li>subject_gerund-&gt;изготовления роскошной разведброни</li>
+    <li>subject_gerund-&gt;уменьшения веса брони</li>
+  </ReconArmor.generalRules.rulesStrings>
+  <RocketswarmLauncher.label>залповые ракетницы</RocketswarmLauncher.label>
+  <RocketswarmLauncher.description>Выпускают за один залп рой ракет, способных в ключевой момент битвы нанести колоссальный урон по большой области.</RocketswarmLauncher.description>
+  <RocketswarmLauncher.generalRules.rulesStrings>
+    <li>subject-&gt;ракетные турели</li>
+    <li>subject_gen-&gt;ракетных турелей</li>
+    <li>subject_dat-&gt;ракетным турелям</li>
+    <li>subject_pre_about-&gt;о ракетных турелях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? дал : дала} показания о применении залповых ракетниц против гражданских целей</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? оборудовал : оборудовала} последнюю линию обороны поселения, включавшую в себя ловушки и пусковые установки</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? наладил : наладила} производство примитивных ракет для выхода в космос, однако высокая интенсивность отказов определила их назначение в качестве оружия</li>
+    <li>subject_gerund-&gt;сооружения залповых ракетниц</li>
+  </RocketswarmLauncher.generalRules.rulesStrings>
+  <SniperTurret.label>снайперские турели</SniperTurret.label>
+  <SniperTurret.description>Такие турели имеют очень высокую дальность стрельбы. Они стреляют урановыми снарядами, что прошивают пласталь, словно бумагу. Однако на ближних дистанциях снайперские турели не так эффективны.</SniperTurret.description>
+  <SniperTurret.generalRules.rulesStrings>
+    <li>subject-&gt;снайперские турели</li>
+    <li>subject_gen-&gt;снайперских турелей</li>
+    <li>subject_dat-&gt;снайперским турелям</li>
+    <li>subject_pre_about-&gt;о снайперских турелях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? организовал : организовала} мероприятие по послевоенному разминированию территории, в ходе которого {ANYPAWN_gender ? собирал : собирала} отработанные радиоактивные урановые снаряды</li>
+    <li>subject_story-&gt;, увидев, как турель прострелила штурмового механоида насквозь, {ANYPAWN_gender ? задался : задалась} целью разобраться в сущности этого феномена</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? исследовал : исследовала} влияние плотности материала снаряда на его бронепробитие</li>
+    <li>subject_gerund-&gt;сооружения снайперских турелей</li>
+  </SniperTurret.generalRules.rulesStrings>
+  <VitalsMonitor.label>монитор жизненных показателей</VitalsMonitor.label>
+  <VitalsMonitor.description>Улучшает качество лечения, повышает вероятность успешной операции и скорость иммунизации. Должен быть размещён рядом с больничной кроватью. Одна кровать может быть подключена только к одному монитору.</VitalsMonitor.description>
+  <VitalsMonitor.generalRules.rulesStrings>
+    <li>subject-&gt;медицинский мониторинг</li>
+    <li>subject_gen-&gt;медицинского мониторинга</li>
+    <li>subject_dat-&gt;медицинскому мониторингу</li>
+    <li>subject_pre_about-&gt;о медицинском мониторинге</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? дал : дала} клятву добиться перемен в системе здравоохранения после изнурительных смен в переполненной больнице</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? смог : смогла} поставить на ноги человека, выжившего на остеклевшем мире</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? оборудовал : оборудовала} палату-изолятор для удалённого мониторинга состояния пациентов, уход за которыми осуществляли механоиды</li>
+    <li>subject_gerund-&gt;мониторинга жизненных показателей</li>
+    <li>subject_gerund-&gt;изготовления мониторов жизненных показателей</li>
+  </VitalsMonitor.generalRules.rulesStrings>
+</LanguageData>

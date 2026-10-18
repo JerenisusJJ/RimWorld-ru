@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AttackingSettlement.label>атаковано поселение</AttackingSettlement.label>
+  <NaturalEnemy.label>стремятся к враждебности</NaturalEnemy.label>
+  <PermanentEnemy.label>всегда враждебны</PermanentEnemy.label>
+</LanguageData>

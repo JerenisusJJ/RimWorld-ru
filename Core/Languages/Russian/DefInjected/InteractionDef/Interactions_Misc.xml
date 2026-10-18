@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CreepyWords.label>жуткие слова</CreepyWords.label>
+  <CreepyWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [rambled] [subjectInsane].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [darkSpeechAdverb] [rambled] [subjectInsane].</li>
+  </CreepyWords.logRulesInitiator.rulesStrings>
+  <DisturbingChat.label>странный разговор</DisturbingChat.label>
+  <DisturbingChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [disturbed], потому что [RECIPIENT_nameDef] [talkingAbout] [subjectDisturbing].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [darkSpeechAdverb] [spoke] [subjectDisturbing]. [INITIATOR_possessive] собеседник — [RECIPIENT_nameDef].</li>
+    <li>spoke-&gt;говорит</li>
+    <li>spoke-&gt;бормочет</li>
+    <li>spoke-&gt;с запинкой говорит</li>
+    <li>spoke-&gt;жалуется</li>
+    <li>spoke-&gt;бурчит</li>
+    <li>spoke-&gt;бормочет</li>
+    <li>spoke(p=5)-&gt;[rambled]</li>
+    <li>subjectDisturbing-&gt;[subjectDarkStudy]</li>
+    <li>subjectDisturbing-&gt;[subjectInsane]</li>
+    <li>disturbed-&gt;тревожится</li>
+    <li>disturbed-&gt;дрожит от страха</li>
+    <li>disturbed-&gt;в ужасе</li>
+    <li>disturbed-&gt;грустит</li>
+    <li>disturbed-&gt;переживает</li>
+    <li>disturbed-&gt;беспокоится</li>
+    <li>disturbed-&gt;в растерянности</li>
+    <li>disturbed-&gt;нервничает</li>
+    <li>disturbed-&gt;теряет самообладание</li>
+    <li>disturbed-&gt;в отчаянии</li>
+    <li>disturbed-&gt;волнуется</li>
+    <li>maybeDarkSpeechAdverb-&gt;</li>
+    <li>maybeDarkSpeechAdverb-&gt;[darkSpeechAdverb]</li>
+    <li>talkingAbout-&gt;рассказывает</li>
+    <li>talkingAbout-&gt;говорит</li>
+    <li>talkingAbout-&gt;[maybeDarkSpeechAdverb] сетует</li>
+    <li>talkingAbout-&gt;[maybeDarkSpeechAdverb] говорит</li>
+    <li>talkingAbout-&gt;[maybeDarkSpeechAdverb] распространяется</li>
+    <li>talkingAbout-&gt;в красках рассказывает</li>
+  </DisturbingChat.logRulesInitiator.rulesStrings>
+  <InhumanRambling.label>мистический бред</InhumanRambling.label>
+  <InhumanRambling.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [rambled] [subjectInsane].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [darkSpeechAdverb] [rambled] [subjectInsane].</li>
+  </InhumanRambling.logRulesInitiator.rulesStrings>
+  <InterrogateIdentity.label>допрос и выяснение личности</InterrogateIdentity.label>
+  <InterrogateIdentity.logRulesInitiator.rulesStrings>
+    <li>askedAbout-&gt;допрашивает подозреваемого ([RECIPIENT_nameDef])</li>
+    <li>askedAbout-&gt;спрашивает подозреваемого ([RECIPIENT_nameDef])</li>
+    <li>askedAbout-&gt;требует от подозреваемого ([RECIPIENT_nameDef]) рассказать всё, что известно</li>
+    <li>askedAbout-&gt;расспрашивает подозреваемого ([RECIPIENT_nameDef])</li>
+    <li>askedAbout-&gt;с пристрастием допрашивает подозреваемого ([RECIPIENT_nameDef])</li>
+    <li>askedAbout-&gt;давит на подозреваемого ([RECIPIENT_nameDef]), требуя больше информации</li>
+    <li>askedAbout-&gt;задаёт подозреваемому ([RECIPIENT_nameDef]) хитрые вопросы</li>
+    <li>askedAbout-&gt;пытается расколоть подозреваемого ([RECIPIENT_nameDef]) вопросами</li>
+    <li>askedAbout-&gt;кричит на подозреваемого ([RECIPIENT_nameDef]), требуя информацию</li>
+    <li>askedAbout-&gt;заваливает подозреваемого ([RECIPIENT_nameDef]) вопросами</li>
+    <li>askedAbout-&gt;ставит перед подозреваемым ([RECIPIENT_nameDef]) вопрос ребром</li>
+    <li>askedAbout-&gt;пристаёт к подозреваемому ([RECIPIENT_nameDef]) с вопросами</li>
+    <li>askedAbout-&gt;прощупывает подозреваемого ([RECIPIENT_nameDef]), заговаривая</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] работе</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] отношениях с другими фракциями</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] рождении</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] детстве</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] родителях</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] старых друзьях</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] любовных похождениях</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] вкусах</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] реакции на стресс</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] предпочтениях в еде</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] самых страшных кошмарах</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] лучших воспоминаниях</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] сожалениях</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] мечтах и целях</li>
+    <li>identityTopic-&gt;о том, почему [RECIPIENT_nameDef] [RECIPIENT_gender ? выбрал : выбрала] эту фракцию</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] роли в определённых событиях</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] хобби и занятиях</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] моральных ценностях и принципах</li>
+    <li>identityTopic-&gt;о [RECIPIENT_possessive] мотивах</li>
+    <li>identityTopic-&gt;о том, что влияет на [RECIPIENT_possessive] решения</li>
+    <li>identityTopic-&gt;о психологических травмах</li>
+    <li>identityTopic-&gt;о процессах человеческого мышления</li>
+    <li>identityTopic-&gt;о детстве</li>
+    <li>identityTopic-&gt;о школе</li>
+    <li>identityTopic-&gt;о культуре</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [askedAbout] [identityTopic].</li>
+  </InterrogateIdentity.logRulesInitiator.rulesStrings>
+  <OccultTeaching.label>оккультные учения</OccultTeaching.label>
+  <OccultTeaching.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] объясняет свою теорию [subjectDarkStudy]. [RECIPIENT_nameDef] внимательно слушает.</li>
+    <li>r_logentry-&gt;[RECIPIENT_nameDef] делится своими идеями [subjectDarkStudy]. [RECIPIENT_nameDef] внимательно слушает.</li>
+    <li>r_logentry-&gt;[RECIPIENT_nameDef] говорит [subjectDarkStudy].</li>
+    <li>r_logentry-&gt;[RECIPIENT_nameDef] заговаривает [subjectDarkStudy].</li>
+    <li>r_logentry-&gt;[RECIPIENT_nameDef] проводит лекцию [subjectDarkStudy].</li>
+  </OccultTeaching.logRulesInitiator.rulesStrings>
+  <PrisonerStudyAnomaly.label>сбор сведений о пленнике</PrisonerStudyAnomaly.label>
+  <PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] спрашивает [subjectDarkStudy]. Ответит ли [RECIPIENT_nameDef]?</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] задаёт вопросы [subjectDarkStudy].</li>
+    <li>r_logentry-&gt;[RECIPIENT_nameDef] бормочет [subjectInsane].</li>
+  </PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>
+</LanguageData>

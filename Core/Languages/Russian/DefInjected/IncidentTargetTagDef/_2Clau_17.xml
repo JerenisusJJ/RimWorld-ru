@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: default world settings -->
+	<World.label>настройки мира по умолчанию</World.label>
+	<!-- EN: Set the default world, map, and faction settings to use for a new colony. -->
+	<World.description>Задайте настройки мира, карты и фракций по умолчанию для новой колонии.</World.description>
+</LanguageData>

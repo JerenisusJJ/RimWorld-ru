@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AmbrosiaHigh.stages.ambrosia_warmth.label>тепло амброзии</AmbrosiaHigh.stages.ambrosia_warmth.label>
+  <AmbrosiaHigh.stages.ambrosia_warmth.description>Амброзия расслабляет мой разум и в то же время заряжает энергией.</AmbrosiaHigh.stages.ambrosia_warmth.description>
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>амброзийное похмелье</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>Мне тяжело и холодно. Не {PAWN_gender ? думал : думала}, что мне так сильно будет нужен хоть кусочек этого фрукта.</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
+</LanguageData>

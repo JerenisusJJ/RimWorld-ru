@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AttackedBuilding.label>атакована постройка</AttackedBuilding.label>
+  <DebugGoodwill.label>debug event</DebugGoodwill.label>
+  <LaborersMissedShuttle.label>рабочие не попали на челнок</LaborersMissedShuttle.label>
+  <ReachNaturalGoodwill.label>репутация стремится в сторону базовой</ReachNaturalGoodwill.label>
+  <RitualDone.label>завершён ритуал</RitualDone.label>
+  <ShuttleDestroyed.label>челнок уничтожен</ShuttleDestroyed.label>
+  <UsedForbiddenThing.label>использован запретный предмет</UsedForbiddenThing.label>
+  <UsedHarmfulAbility.label>применена опасная способность</UsedHarmfulAbility.label>
+</LanguageData>

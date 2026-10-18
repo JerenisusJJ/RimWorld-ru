@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EmpireNameUtility.rulePack.rulesFiles>
+    <li>ImperialNameFirstMale-&gt;Names/Imperial_First_Male</li>
+    <li>ImperialNameFirstFemale-&gt;Names/Imperial_First_Female</li>
+    <li>ImperialNameLastMale-&gt;Names/Imperial_Last_Male</li>
+    <li>ImperialNameLastFemale-&gt;Names/Imperial_Last_Female</li>
+  </EmpireNameUtility.rulePack.rulesFiles>
+  <EmpireNameUtility.rulePack.rulesStrings>
+    <li>WordImperial(p=4)-&gt;[SylB][SylB]</li>
+    <li>WordImperial(p=2)-&gt;[SylB][SylB][SylB]</li>
+    <li>WordImperial(p=0.2)-&gt;[SylB][SylB][SylB][SylB]</li>
+  </EmpireNameUtility.rulePack.rulesStrings>
+  <NamerPersonCorunan.rulePack.rulesStrings>
+    <li>r_name-&gt;[WordTribal] [Animal]</li>
+    <li>r_name-&gt;[Color] [WordTribal]</li>
+    <li>r_name-&gt;[WordTribal] [WordTribal]</li>
+    <li>r_name-&gt;[Animal] [WordTribal]</li>
+    <li>r_name(p=0.7)-&gt;[Color] [Animal_masc]</li>
+    <li>r_name(p=0.7)-&gt;[Color_fem] [Animal_fem]</li>
+  </NamerPersonCorunan.rulePack.rulesStrings>
+</LanguageData>

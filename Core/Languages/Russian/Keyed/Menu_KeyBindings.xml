@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SaveButton>Сохранить</SaveButton>
+  <ClearBinding>Очистить</ClearBinding>
+  <ResetBinding>По умолчанию</ResetBinding>
+  <BindingButtonToolTip>Нажмите левую кнопку мыши, затем нажмите клавишу, на которую вы хотите назначить данное действие. Для выбора опций нажмите правую кнопку мыши.</BindingButtonToolTip>
+  <BindingButtonToolTipController>Нажмите кнопку, на которую вы хотите назначить данное действие. Для выбора опций нажмите левый курок</BindingButtonToolTipController>
+  <PressAnyKeyOrEsc>Нажмите любую клавишу или ESC для отмены…</PressAnyKeyOrEsc>
+  <PressAnyKeyOrEscController>Нажмите любую кнопку или {Key:Cancel} для отмены…</PressAnyKeyOrEscController>
+  <KeyBindingOverwritten>Перезаписана клавиша, привязанная к действию: {0}</KeyBindingOverwritten>
+</LanguageData>

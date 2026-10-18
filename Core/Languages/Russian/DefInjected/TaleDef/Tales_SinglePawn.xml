@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ClosedTheVoid.label>закрывает узел пустоты</ClosedTheVoid.label>
+  <ClosedTheVoid.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] закрывает узел пустоты</li>
+    <li>image-&gt;[PAWN_nameFull] запечатывает канал связи с пустотой [circumstance_group]. Поселение в безопасности!</li>
+    <li>image-&gt;[PAWN_nameFull] с сердцем, полным решимости защитить поселение, бросает вызов узлу пустоты [circumstance_group].</li>
+    <li>circumstance_phrase-&gt;среди потрескивающих всплесков энергии</li>
+    <li>circumstance_phrase-&gt;в лучах жутковатого света, излучаемого узлом</li>
+    <li>circumstance_phrase-&gt;под тихий, еле слышный шёпот из ниоткуда</li>
+    <li>desc_sentence-&gt;Серый металл поджимает со всех сторон.</li>
+    <li>desc_sentence-&gt;Остальные поселенцы видны [side_position]. Все напряжённо ждут, когда вернётся [PAWN_nameDef].</li>
+    <li>desc_sentence-&gt;По выражению лица понятно, что [PAWN_nameDef] сейчас стоит перед сложным выбором.</li>
+  </ClosedTheVoid.rulePack.rulesStrings>
+  <EmbracedTheVoid.label>впускает в себя пустоту</EmbracedTheVoid.label>
+  <EmbracedTheVoid.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] впускает в себя пустоту</li>
+    <li>image-&gt;[PAWN_nameFull] использует тайные знания о пустоте и сбрасывает оковы смертной оболочки [circumstance_group].</li>
+    <li>image-&gt;[PAWN_nameFull] поддаётся зову пустоты [circumstance_group].</li>
+    <li>image-&gt;[PAWN_nameFull] [circumstance_group] наконец внимает зловещему шёпоту из пустоты.</li>
+    <li>circumstance_phrase-&gt;в окружении потоков тёмной энергии</li>
+    <li>circumstance_phrase-&gt;посреди круговорота энергии</li>
+    <li>circumstance_phrase-&gt;с жуткой улыбкой на лице</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] источает зловещую мощь, дарованную [PAWN_gender ? ему : ей] пактом с пустотой.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] меняется, приобретая потусторонний блеск в глазах.</li>
+    <li>desc_sentence-&gt;Остальные поселенцы видны [side_position]. [PAWN_nameDef] [PAWN_gender ? сделал : сделала] свой выбор, и всем остаётся лишь размышлять о его правильности.</li>
+  </EmbracedTheVoid.rulePack.rulesStrings>
+  <PerformedPsychicRitual.label>выполняет псионический ритуал</PerformedPsychicRitual.label>
+  <PerformedPsychicRitual.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] руководит проведением псионического ритуала</li>
+    <li>image-&gt;[PAWN_nameFull] пропускает через себя энергию и совершает могущественный псионический ритуал, [circumstance_group].</li>
+    <li>image-&gt;[PAWN_nameFull] произносит тёмные заклинания и устанавливает контакт с мистическими силами для проведения псионического ритуала, [circumstance_group].</li>
+    <li>image-&gt;[PAWN_nameFull] сосредоточенно смотрит в одну точку и совершает псионический ритуал, [circumstance_group].</li>
+    <li>image-&gt;[circumstance_group], [PAWN_nameFull] чертит в воздухе сложные символы и входит в поток со скрытыми энергиями, чтобы совершить псионический ритуал.</li>
+    <li>circumstance_phrase-&gt;сосредоточившись на томе перед собой</li>
+    <li>circumstance_phrase-&gt;исполнившись решимости и показывая своё мастерство</li>
+    <li>circumstance_phrase-&gt;жестоко улыбаясь</li>
+    <li>circumstance_phrase-&gt;стараясь перекричать рёв бушующей вокруг энергии</li>
+    <li>desc_sentence-&gt;[side_position] видны люди, которые в поддержку распевают песнопения.</li>
+    <li>desc_sentence-&gt;Под конец ритуала воздух подёргивается рябью.</li>
+    <li>desc_sentence-&gt;На заднем плане подёргивается рябью монолит.</li>
+    <li>desc_sentence-&gt;Пламя расставленных вокруг свечей колышется от буйства энергии и будто вот-вот потухнет.</li>
+  </PerformedPsychicRitual.rulePack.rulesStrings>
+</LanguageData>

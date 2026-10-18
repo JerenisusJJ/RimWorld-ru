@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GravNausea.letterLabel>гравитационная тошнота</GravNausea.letterLabel>
+  <GravNausea.letterText>Во время посадки {GRAVSHIP} {PILOT_nameDef} был вынужден выполнить аварийный маневр, что привело к сильному и продолжительному замедлению. Из-за этого ваши поселенцы чувствуют сильную тошноту. Эти эффекты быстро пройдут.</GravNausea.letterText>
+  <MinorGravshipCrash.letterLabel>незначительная авария гравикорабля</MinorGravshipCrash.letterLabel>
+  <MinorGravshipCrash.letterText>Во время посадки {GRAVSHIP} {PILOT_nameDef} случайно выключил гравидвигатель слишком рано, из-за чего гравикорабль несколько метров летел в свободном падении. Некоторые постройки внутри гравикорабля получили лёгкие повреждения от аварии.</MinorGravshipCrash.letterText>
+  <OverheatedGravEngine.letterLabel>перегрев гравидвигателя</OverheatedGravEngine.letterLabel>
+  <OverheatedGravEngine.letterText>Во время посадки {GRAVSHIP} {PILOT_nameDef} перегрузил гравидвигатель, что привело к его перегреву. Теперь двигателю потребуется больше времени на охлаждение, и пока он не остынет, гравикорабль нельзя запустить.</OverheatedGravEngine.letterText>
+  <ThrusterBreakdown.letterLabel>поломка ускорителя</ThrusterBreakdown.letterLabel>
+  <ThrusterBreakdown.letterText>Во время посадки {GRAVSHIP} {PILOT_nameDef} перегрел ускорители корабля, что привело к сгоранию ценных компонентов. Ускорители придется отремонтировать, прежде чем их можно будет использовать снова.</ThrusterBreakdown.letterText>
+</LanguageData>

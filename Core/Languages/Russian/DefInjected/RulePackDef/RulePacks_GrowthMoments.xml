@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GrowthMomentFlavor.rulePack.rulesStrings>
+    <li>r_root-&gt;[firstSentence] [secondSentence]</li>
+    <li>firstSentence(tierSection==4)-&gt;[PAWN_pronoun] {PAWN_gender ? продемонстрировал : продемонстрировала} отличный [nounGrowth] и испытывает [adjGood] [nounAttitudeGood] в отношении [nounFutureGen].</li>
+    <li>firstSentence(tierSection==4)-&gt;[PAWN_pronoun] {PAWN_gender ? выработал : выработала} интерес к нескольким видам занятий, когда {PAWN_gender ? закончил : закончила} [situationLearning].</li>
+    <li>firstSentence(tierSection==4)-&gt;Когда [PAWN_nameDef] {PAWN_gender ? закончил : закончила} [situationLearning], [PAWN_pronoun] {PAWN_gender ? выработал : выработала} интерес к нескольким видам занятий.</li>
+    <li>firstSentence(tierSection==4)-&gt;За последний год [PAWN_pronoun] {PAWN_gender ? показал : показала} отличный [nounGrowth].</li>
+    <li>secondSentence(tierSection==4)-&gt;[PAWN_nameDef] хочет больше [situationLearning] и [situationFun].</li>
+    <li>secondSentence(tierSection==4)-&gt;[PAWN_nameDef] нравится [situationLearning], но больше всего [PAWN_pronoun] любит [situationFun].</li>
+    <li>secondSentence(tierSection==4)-&gt;[PAWN_nameDef] любит [situationLearning] и мечтает [situationAspirational].</li>
+    <li>secondSentence(tierSection==4)-&gt;[PAWN_nameDef] надеется, что если [PAWN_pronoun] будет [situationLearning], [PAWN_pronoun] сможет в будущем [situationAspirational].</li>
+    <li>firstSentence(tierSection==3)-&gt;За последнее время [PAWN_pronoun] {PAWN_gender ? продемонстрировал : продемонстрировала} [adjGood] [nounAttitudeGood] в отношении [nounFutureGen].</li>
+    <li>firstSentence(tierSection==3)-&gt;[PAWN_pronoun] испытывает [nounAttitudeGood] в отношении [nounFutureGen].</li>
+    <li>firstSentence(tierSection==3)-&gt;[PAWN_pronoun] {PAWN_gender ? заинтересовался : заинтересовалась} новыми видами занятий, а также начал [situationLearning].</li>
+    <li>firstSentence(tierSection==3)-&gt;[PAWN_pronoun] {PAWN_gender ? показал : показала} отличный [nounGrowth].</li>
+    <li>secondSentence(tierSection==3)-&gt;[PAWN_nameDef] рад, что редко чувствует себя [feelingBad], и хочет побольше [situationFun].</li>
+    <li>secondSentence(tierSection==3)-&gt;[PAWN_nameDef] любит [situationLearning], но больше всего {PAWN_gender ? рад : рада} [situationFun].</li>
+    <li>secondSentence(tierSection==3)-&gt;Когда [PAWN_nameDef] вырастет, [PAWN_pronoun] хочет [taskWork].</li>
+    <li>secondSentence(tierSection==3)-&gt;Но больше всего [PAWN_nameDef] любит [situationFun].</li>
+    <li>firstSentence(tierSection==2)-&gt;[PAWN_pronoun] {PAWN_gender ? продемонстрировал : продемонстрировала} определённый [nounGrowth] и хочет продолжать [situationLearning].</li>
+    <li>firstSentence(tierSection==2)-&gt;[PAWN_pronoun] испытывает сдержанный [nounAttitudeGood] в отношении дальнейшей учёбы.</li>
+    <li>firstSentence(tierSection==2)-&gt;Строя планы [nounFutureGen], [PAWN_pronoun] {PAWN_gender ? хотел : хотела} бы [situationLearning].</li>
+    <li>firstSentence(tierSection==2)-&gt;Благодаря тому, что [PAWN_pronoun] мог [situationLearning], [PAWN_nameDef] {PAWN_gender ? заинтересовался : заинтересовалась} новым видом занятия.</li>
+    <li>secondSentence(tierSection==2)-&gt;А ещё [PAWN_nameDef] любит [situationFun].</li>
+    <li>secondSentence(tierSection==2)-&gt;Однако [PAWN_nameDef] {PAWN_gender ? хотел : хотела} бы почаще [situationFun].</li>
+    <li>secondSentence(tierSection==2)-&gt;Тем не менее, [PAWN_nameDef] считает, что [taskWork] — это скучно.</li>
+    <li>secondSentence(tierSection==2)-&gt;В особенности [PAWN_nameDef] {PAWN_gender ? хотел : хотела} бы сосредоточиться на том, чтобы [situationLearning].</li>
+    <li>firstSentence(tierSection==1)-&gt;[PAWN_pronoun] {PAWN_gender ? показал : показала} слабый [nounGrowth] и не имеет больших ожиданий в отношении [nounFutureGen].</li>
+    <li>firstSentence(tierSection==1)-&gt;Несмотря на оптимизм в отношении [nounFutureGen], [PAWN_pronoun] {PAWN_gender ? показал : показала} слабый [nounGrowth].</li>
+    <li>firstSentence(tierSection==1)-&gt;[PAWN_pronoun] надеется, что жизнь станет лучше, начиная с [nounFutureGen].</li>
+    <li>firstSentence(tierSection==1)-&gt;[PAWN_pronoun] {PAWN_gender ? показал : показала} минимальный [nounGrowth], и жалуется на то, что [situationLearning] — это скучно.</li>
+    <li>secondSentence(tierSection==1)-&gt;[PAWN_nameDef] хочет больше [situationFun], но опасается, что [situationBad].</li>
+    <li>secondSentence(tierSection==1)-&gt;[PAWN_nameDef] часто чувствует себя [feelingBad], когда пытается [situationFun].</li>
+    <li>secondSentence(tierSection==1)-&gt;[PAWN_nameDef] почему-то боится, что [situationBad], когда [PAWN_pronoun] будет [situationFun].</li>
+    <li>secondSentence(tierSection==1)-&gt;[PAWN_nameDef] регулярно видит кошмарный сон о том, как [situationBad].</li>
+    <li>firstSentence(tierSection==0)-&gt;[PAWN_pronoun] хочет больше [situationLearning], но [PAWN_objective] редко это удаётся.</li>
+    <li>firstSentence(tierSection==0)-&gt;[PAWN_pronoun] не {PAWN_gender ? показал : показала} [nounGrowth].</li>
+    <li>firstSentence(tierSection==0)-&gt;[PAWN_pronoun] не {PAWN_gender ? проявил : проявила} интереса ни к каким занятиям и почти не испытывает оптимизма в отношении [nounFutureGen].</li>
+    <li>firstSentence(tierSection==0)-&gt;[PAWN_pronoun] не {PAWN_gender ? показал : показала} интереса к учёбе, и в особенности не любит [situationLearning].</li>
+    <li>secondSentence(tierSection==0)-&gt;И вообще, [PAWN_nameDef] хочет только [situationFun].</li>
+    <li>secondSentence(tierSection==0)-&gt;[PAWN_nameDef] постоянно сдерживает себя, опасаясь, что [situationBad].</li>
+    <li>secondSentence(tierSection==0)-&gt;Вдобавок, [PAWN_nameDef] боится потерять здоровье из-за того, что [situationBad].</li>
+    <li>secondSentence(tierSection==0)-&gt;[PAWN_nameDef] боится снова увидеть кошмарный сон, в котором [PAWN_pronoun] будет [situationFun], и из-за этого [situationBad].</li>
+    <li>adjGood-&gt;огромный</li>
+    <li>adjGood-&gt;бурный</li>
+    <li>adjGood-&gt;неподдельный</li>
+    <li>adjGood-&gt;живой</li>
+    <li>adjGood-&gt;подлинный</li>
+    <li>adjGood-&gt;безграничный</li>
+    <li>adjGood-&gt;безмерный</li>
+    <li>adjGood-&gt;здоровый</li>
+    <li>adjGood-&gt;неиссякаемый</li>
+    <li>adjGood-&gt;глубокий</li>
+    <li>adjGood-&gt;искренний</li>
+    <li>feelingBad-&gt;{PAWN_gender ? одиноким : одинокой}</li>
+    <li>feelingBad-&gt;{PAWN_gender ? напуганным : напуганной}</li>
+    <li>feelingBad-&gt;{PAWN_gender ? уязвимым : уязвимой}</li>
+    <li>feelingBad-&gt;{PAWN_gender ? подавленным : подавленной}</li>
+    <li>feelingBad-&gt;{PAWN_gender ? измученным : измученной}</li>
+    <li>nounAttitudeGood-&gt;энтузиазм</li>
+    <li>nounAttitudeGood-&gt;восторг</li>
+    <li>nounAttitudeGood-&gt;оптимизм</li>
+    <li>nounFutureGen-&gt;завтрашнего дня</li>
+    <li>nounFutureGen-&gt;следующих недель</li>
+    <li>nounFutureGen-&gt;следующих месяцев</li>
+    <li>nounFutureGen-&gt;следующего года</li>
+    <li>nounFutureGen-&gt;ближайшего будущего</li>
+    <li>nounGrowth-&gt;личностный прогресс</li>
+    <li>nounGrowth-&gt;личностный рост</li>
+    <li>situationFun-&gt;исследовать новые места в компании [friendNamePluralGen]</li>
+    <li>situationFun-&gt;играть в [Game]</li>
+    <li>situationFun-&gt;играть в [Game] с друзьями</li>
+    <li>situationFun-&gt;играть в компании [friendNameSingularGen]</li>
+    <li>situationFun-&gt;болтать в компании [friendNameSingularGen]</li>
+    <li>situationFun-&gt;сплетничать про [friendNamePluralGen]</li>
+    <li>situationFun-&gt;заводить новых друзей</li>
+    <li>situationFun-&gt;гулять на свежем воздухе</li>
+    <li>situationFun-&gt;смотреть на ночное небо в ожидании метеоритов</li>
+    <li>situationFun-&gt;болтать [topicLearningPrep] по радио</li>
+    <li>situationFun-&gt;болтать по радио с чужаками</li>
+    <li>situationFun-&gt;рисовать портреты [friendNamePluralGen] на полу</li>
+    <li>situationFun-&gt;мечтать [topicLearningPrep]</li>
+    <li>situationFun-&gt;бегать на природе</li>
+    <li>situationFun-&gt;искать приключения в компании [friendNamePluralGen]</li>
+    <li>situationFun-&gt;искать спрятанные сокровища</li>
+    <li>situationFun-&gt;рисовать [enemyNamePluralGen]</li>
+    <li>situationFun-&gt;рисовать [friendNameSingularGen]</li>
+    <li>situationFun-&gt;писать рассказ про [friendNameSingularGen], который преследует [enemyNamePluralGen]</li>
+    <li>situationFun-&gt;представлять, как борется против [enemyNamePluralGen]</li>
+    <li>situationFun-&gt;рассказывать истории про [enemyNamePluralGen]</li>
+    <li>situationLearning-&gt;смотреть, как надо [taskWork]</li>
+    <li>situationLearning-&gt;учиться [taskWork]</li>
+    <li>situationLearning-&gt;узнавать новое [topicLearningPrep]</li>
+    <li>situationLearning-&gt;читать [topicLearningPrep]</li>
+    <li>situationLearning-&gt;делать важную работу</li>
+    <li>situationAspirational-&gt;поменять этот мир к лучшему</li>
+    <li>situationAspirational-&gt;стать {PAWN_gender ? богатым : богатой}</li>
+    <li>situationAspirational-&gt;спасти этот мир</li>
+    <li>situationAspirational-&gt;помогать другим</li>
+    <li>situationAspirational-&gt;стать {PAWN_gender ? знаменитым : знаменитой}</li>
+    <li>situationAspirational-&gt;улететь с этой планеты</li>
+    <li>situationBad-&gt;на н[PAWN_possessive] нападут [enemyNamePlural]</li>
+    <li>situationBad-&gt;[PAWN_possessive] похитят [enemyNamePlural]</li>
+    <li>situationBad-&gt;[PAWN_possessive] поймает [enemyNameSingular]</li>
+    <li>situationBad-&gt;вдохнёт токсичный газ</li>
+    <li>situationBad-&gt;заболеет трупной чахоткой</li>
+    <li>situationBad-&gt;заразится чумой</li>
+    <li>situationBad-&gt;получит пищевое отравление</li>
+    <li>situationBad-&gt;увидит смерть своих близких</li>
+    <li>situationBad-&gt;поест на земле</li>
+    <li>topicLearningPrep-&gt;о вселенной</li>
+    <li>topicLearningPrep-&gt;о науке</li>
+    <li>topicLearningPrep-&gt;о других культурах</li>
+    <li>topicLearningPrep-&gt;об архотехнологиях</li>
+    <li>topicLearningPrep-&gt;о планетарной экономике</li>
+    <li>topicLearningPrep-&gt;о психологии</li>
+    <li>topicLearningPrep-&gt;об энтомологии</li>
+    <li>topicLearningPrep-&gt;о гестации механоидов</li>
+    <li>topicLearningPrep-&gt;о генной инженерии</li>
+    <li>topicLearningPrep-&gt;о ракетостроении</li>
+    <li>topicLearningPrep-&gt;о горном деле</li>
+    <li>taskWork-&gt;готовить</li>
+    <li>taskWork-&gt;дрессировать животных</li>
+    <li>taskWork-&gt;заботиться о больных</li>
+    <li>taskWork-&gt;помогать людям</li>
+    <li>taskWork-&gt;охотиться на муффало</li>
+    <li>taskWork-&gt;выращивать еду</li>
+    <li>taskWork-&gt;шить одежду</li>
+    <li>friendNamePluralGen-&gt;друзей</li>
+    <li>friendNamePluralGen-&gt;родственников</li>
+    <li>friendNamePluralGen-&gt;[friendAdjPluralGen] животных</li>
+    <li>friendNamePluralGen-&gt;[friendAdjPluralGen] механоидов</li>
+    <li>friendNamePluralGen-&gt;[friendAdjPluralGen] сверстников</li>
+    <li>friendNamePluralGen-&gt;воображаемых друзей</li>
+    <li>friendNameSingularGen-&gt;друга</li>
+    <li>friendNameSingularGen-&gt;собаки</li>
+    <li>friendNameSingularGen-&gt;[friendAdjGen] кота</li>
+    <li>friendNameSingularGen-&gt;своего сверстника</li>
+    <li>friendNameSingularGen-&gt;своего [friendAdjGen] сверстника</li>
+    <li>friendNameSingularGen-&gt;члена своей семьи</li>
+    <li>friendAdjGen-&gt;доброго</li>
+    <li>friendAdjGen-&gt;отзывчивого</li>
+    <li>friendAdjGen-&gt;дружелюбного</li>
+    <li>friendAdjGen-&gt;озорного</li>
+    <li>friendAdjGen-&gt;весёлого</li>
+    <li>friendAdjPluralGen-&gt;добрых</li>
+    <li>friendAdjPluralGen-&gt;отзывчивых</li>
+    <li>friendAdjPluralGen-&gt;дружелюбных</li>
+    <li>friendAdjPluralGen-&gt;озорных</li>
+    <li>friendAdjPluralGen-&gt;весёлых</li>
+    <li>enemyNamePlural-&gt;налётчики</li>
+    <li>enemyNamePlural-&gt;[AdjectiveBadass_plural] налётчики</li>
+    <li>enemyNamePlural-&gt;загадочные чужаки</li>
+    <li>enemyNamePlural-&gt;[AdjectiveBadass_plural] насекомые</li>
+    <li>enemyNamePlural-&gt;агрессивные бумалопы</li>
+    <li>enemyNamePlural-&gt;таинственные кровопийцы</li>
+    <li>enemyNamePlural-&gt;боги-машины</li>
+    <li>enemyNamePlural-&gt;дикие механоиды</li>
+    <li>enemyNamePlural-&gt;существа с ужасными пси-способностями</li>
+    <li>enemyNamePluralGen-&gt;налётчиков</li>
+    <li>enemyNamePluralGen-&gt;загадочных чужаков</li>
+    <li>enemyNamePluralGen-&gt;гигантских насекомых</li>
+    <li>enemyNamePluralGen-&gt;агрессивных бумалоп</li>
+    <li>enemyNamePluralGen-&gt;таинственных кровопийц</li>
+    <li>enemyNamePluralGen-&gt;богов-машин</li>
+    <li>enemyNamePluralGen-&gt;диких механоидов</li>
+    <li>enemyNamePluralGen-&gt;существ с ужасными пси-способностями</li>
+    <li>enemyNameSingular-&gt;[AdjectiveBadass] [Enemy]</li>
+    <li>enemyNameSingular-&gt;[AdjectiveBadass] [AnimalBadass]</li>
+    <li>enemyNameSingular-&gt;[AnimalBadass]</li>
+    <li>enemyNameSingular-&gt;[Mechanoid]</li>
+    <li>enemyNameSingular-&gt;[AdjectiveBadass] мусорщик</li>
+    <li>enemyNameSingular-&gt;чужак</li>
+    <li>enemyNameSingular-&gt;гемофаг</li>
+    <li>enemyNameSingular-&gt;безглазая женщина</li>
+    <li>enemyNameSingular-&gt;человек с крюком в руке</li>
+  </GrowthMomentFlavor.rulePack.rulesStrings>
+</LanguageData>

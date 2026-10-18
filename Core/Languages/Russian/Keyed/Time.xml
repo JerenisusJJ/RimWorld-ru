@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LetterDay>д</LetterDay>
+  <LetterHour>ч</LetterHour>
+  <LetterMinute>м</LetterMinute>
+  <LetterSecond>с</LetterSecond>
+  <LetterYear>г</LetterYear>
+  <AM>AM</AM>
+  <PM>PM</PM>
+  <DaysLower>дней</DaysLower>
+  <HoursLower>часов</HoursLower>
+  <SecondsLower>секунд</SecondsLower>
+  <SeasonSpring>весна</SeasonSpring>
+  <SeasonSummer>лето</SeasonSummer>
+  <SeasonFall>осень</SeasonFall>
+  <SeasonWinter>зима</SeasonWinter>
+  <SeasonPermanentSummer>вечное лето</SeasonPermanentSummer>
+  <SeasonPermanentWinter>вечная зима</SeasonPermanentWinter>
+  <QuadrumAprimay>Мартомай</QuadrumAprimay>
+  <QuadrumJugust>Июгуст</QuadrumJugust>
+  <QuadrumSeptober>Сентоноябрь</QuadrumSeptober>
+  <QuadrumDecembary>Декавраль</QuadrumDecembary>
+  <QuadrumAprimay_Short>Мар</QuadrumAprimay_Short>
+  <QuadrumJugust_Short>Июг</QuadrumJugust_Short>
+  <QuadrumSeptober_Short>Сен</QuadrumSeptober_Short>
+  <QuadrumDecembary_Short>Дек</QuadrumDecembary_Short>
+  <Born>Дата рождения: {0}</Born>
+  <AgeChronological>Хронологический возраст: {0_numCase ? год : года : лет} {1_numCase ? квартал : квартала : кварталов} {2_numCase ? день : дня : дней}</AgeChronological>
+  <AgeBiological>Биологический возраст: {0_numCase ? год : года : лет} {1_numCase ? квартал : квартала : кварталов} {2_numCase ? день : дня : дней}</AgeBiological>
+  <Period1Year>1 год</Period1Year>
+  <PeriodYears>{0_numCase ? год : года : лет}</PeriodYears>
+  <Period1Quadrum>1 квартал</Period1Quadrum>
+  <PeriodQuadrums>{0_numCase ? квартал : квартала : кварталов}</PeriodQuadrums>
+  <Period1Day>1 день</Period1Day>
+  <PeriodDays>{0_numCase ? день : дня : дней}</PeriodDays>
+  <Period1Hour>1 ч</Period1Hour>
+  <PeriodHours>{0} ч</PeriodHours>
+  <Period1Second>1 с</Period1Second>
+  <PeriodSeconds>{0} с</PeriodSeconds>
+  <Started>Началось</Started>
+  <Lasted>Длится</Lasted>
+  <OccurredTimeAgo>произошло {0} назад</OccurredTimeAgo>
+  <TimeAgo>{0} назад</TimeAgo>
+</LanguageData>

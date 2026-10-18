@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GravshipCrew.label>экипаж гравикорабля</GravshipCrew.label>
+  <GravshipCrew.description>Экипаж гравикорабля.</GravshipCrew.description>
+  <GravshipCrew.leaderTitle>капитан</GravshipCrew.leaderTitle>
+  <GravshipCrew.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</GravshipCrew.messageDefendersAttacking>
+  <GravshipCrew.pawnSingular>поселенец</GravshipCrew.pawnSingular>
+  <GravshipCrew.pawnsPlural>поселенцы</GravshipCrew.pawnsPlural>
+</LanguageData>

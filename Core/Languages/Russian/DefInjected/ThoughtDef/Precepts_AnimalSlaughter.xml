@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>забито животное</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>Мне пришлось забить животное. Это плохой поступок.</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>
+  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>забито животное</SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>Мне пришлось забить животное, это ужасно! Как вообще можно вот так оборвать чью-то жизнь?</SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>
+  <SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>забито животное</SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.labelSocial>{OTHERPAWN_gender ? забил : забила} животное</SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.labelSocial>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>забито животное</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>Кто-то забил животное. Это грустно.</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>
+  <SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>забито животное</SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.labelSocial>{OTHERPAWN_gender ? забил : забила} животное</SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.labelSocial>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>забито животное</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>Кто-то забил животное! Как вообще можно вот так оборвать чью-то жизнь? Ужас!</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>
+  <SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>забито животное</SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.labelSocial>{OTHERPAWN_gender ? забил : забила} животное</SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.labelSocial>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>забито животное</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>Кто-то забил животное! Трагично оборвалась ещё одна бесценная жизнь.</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>
+</LanguageData>

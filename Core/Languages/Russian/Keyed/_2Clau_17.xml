@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Baking the asset packs for {0} failed, the mod was not uploaded: -->
+	<ModAssetPackBakeFailed>Не удалось запечь пакеты ресурсов для {0}; мод не был опубликован:</ModAssetPackBakeFailed>
+	<!-- EN: Respect system display scaling -->
+	<RespectSystemScaling>Учитывать системное масштабирование экрана</RespectSystemScaling>
+	<!-- EN: When enabled, the UI scale is multiplied by the operating system's display scaling. Disable to apply the UI scale as-is. -->
+	<RespectSystemScaling_Tooltip>Если включено, масштаб интерфейса умножается на масштабирование экрана от операционной системы. Отключите, чтобы применять масштаб интерфейса как есть.</RespectSystemScaling_Tooltip>
+	<!-- EN: Texture compression in the Waylith engine is higher quality and always enabled. -->
+	<TextureCompressionAlwaysOn_Tooltip>Сжатие текстур в движке Waylith выполняется в более высоком качестве и всегда включено.</TextureCompressionAlwaysOn_Tooltip>
+	<!-- EN: Display mode -->
+	<DisplayMode>Режим отображения</DisplayMode>
+	<!-- EN: Windowed -->
+	<DisplayMode_Windowed>Оконный</DisplayMode_Windowed>
+	<!-- EN: Exclusive fullscreen -->
+	<DisplayMode_ExclusiveFullscreen>Полноэкранный (эксклюзивный)</DisplayMode_ExclusiveFullscreen>
+	<!-- EN: Monitor -->
+	<Monitor>Монитор</Monitor>
+	<!-- EN: Automatic -->
+	<Monitor_Automatic>Автоматически</Monitor_Automatic>
+	<!-- EN: Graphics card -->
+	<Gpu>Видеокарта</Gpu>
+	<!-- EN: Automatic -->
+	<Gpu_Automatic>Автоматически</Gpu_Automatic>
+	<!-- EN: {0} (in use) -->
+	<Gpu_InUse>{0} (используется)</Gpu_InUse>
+	<!-- EN: Changing the graphics card requires a restart. Unsaved progress will be lost.\n\nRestart now? -->
+	<GpuChangedRestart>Для смены видеокарты требуется перезапуск. Несохранённый прогресс будет потерян.\n\nПерезапустить сейчас?</GpuChangedRestart>
+</LanguageData>

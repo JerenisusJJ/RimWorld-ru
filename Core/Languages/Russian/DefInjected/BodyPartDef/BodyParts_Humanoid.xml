@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Arm.label>рука</Arm.label>
+  <Clavicle.label>ключица</Clavicle.label>
+  <Femur.label>бедро</Femur.label>
+  <Finger.label>палец</Finger.label>
+  <Hand.label>кисть</Hand.label>
+  <Humerus.label>плечевая кость</Humerus.label>
+  <Pelvis.label>таз</Pelvis.label>
+  <Radius.label>предплечье</Radius.label>
+  <Shoulder.label>плечо</Shoulder.label>
+  <Sternum.label>грудина</Sternum.label>
+  <Tibia.label>голень</Tibia.label>
+  <Toe.label>палец</Toe.label>
+  <Torso.label>торс</Torso.label>
+  <Waist.label>доп. снаряжение</Waist.label>
+</LanguageData>

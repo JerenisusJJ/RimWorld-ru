@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mech_CentipedeBlaster.label>бластерная сентипеда</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBlaster.labelPlural>бластерные сентипеды</Mech_CentipedeBlaster.labelPlural>
+  <Mech_CentipedeBurner.label>огнемётная сентипеда</Mech_CentipedeBurner.label>
+  <Mech_CentipedeBurner.labelPlural>огнемётные сентипеды</Mech_CentipedeBurner.labelPlural>
+  <Mech_CentipedeGunner.label>пулемётная сентипеда</Mech_CentipedeGunner.label>
+  <Mech_CentipedeGunner.labelPlural>пулемётные сентипеды</Mech_CentipedeGunner.labelPlural>
+  <Mech_Lancer.label>улан</Mech_Lancer.label>
+  <Mech_Lancer.labelPlural>уланы</Mech_Lancer.labelPlural>
+  <Mech_Pikeman.label>драгун</Mech_Pikeman.label>
+  <Mech_Pikeman.labelPlural>драгуны</Mech_Pikeman.labelPlural>
+  <Mech_Scyther.label>жнец</Mech_Scyther.label>
+  <Mech_Scyther.labelPlural>жнецы</Mech_Scyther.labelPlural>
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[faction_leader_nameFull], [faction_leaderTitle] фракции [faction_name], сообщает, что хочет встретиться с вами на нейтральной территории для переговоров.\n\nЭто хорошая возможность улучшить отношения с этой фракцией и получить ценные дипломатические подарки, но знайте: неумелый переговорщик может принести больше вреда, чем пользы.[extraLeaderPart][favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)-&gt;\n\nУспешная встреча может принести вашему переговорщику немного {lookup: [faction_royalFavorLabel]; Case; 1} от фракции [faction_name].</li>
+    <li>favorRewardDetails-&gt;</li>
+    <li>extraLeaderPart(priority=1)-&gt;\n\n[leaderRoleEffect].[leaderPawnInfo]</li>
+    <li>extraLeaderPart-&gt;</li>
+    <li>leaderRoleEffect-&gt;Другие фракции будут уважать вас больше, если вы пошлёте на переговоры своего лидера.</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-&gt; [playerFaction_leaderTitle] [playerFaction_leader_nameFull] получит бонус к вероятности удачного исхода переговоров.</li>
+    <li>leaderPawnInfo-&gt;</li>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+    <li>questName-&gt;[peaceTalks] [faction_leader_nameDef]</li>
+    <li>questName-&gt;[peaceTalks] с [faction_leader_nameDef]</li>
+    <li>questName-&gt;[peaceTalks] большой важности</li>
+    <li>questName-&gt;[peaceTalks]</li>
+    <li>peaceTalks-&gt;переговоры</li>
+    <li>peaceTalks-&gt;собрание</li>
+    <li>peaceTalks-&gt;встреча</li>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>Срок предложения о встрече для переговоров с фракцией [faction_name] истёк. Вы не выполнили задание [resolvedQuestName].</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+</LanguageData>

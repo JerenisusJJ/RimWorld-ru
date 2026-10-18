@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SlaughteredFish_Disapproved.stages.slaughtered_fish.label>забитая рыба</SlaughteredFish_Disapproved.stages.slaughtered_fish.label>
+  <SlaughteredFish_Disapproved.stages.slaughtered_fish.description>Мне пришлось убить рыбу. Это было отвратительно.</SlaughteredFish_Disapproved.stages.slaughtered_fish.description>
+  <SlaughteredFish_Know_Disapproved.stages.killed_fish.label>убил(а) рыбу</SlaughteredFish_Know_Disapproved.stages.killed_fish.label>
+  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>забил(а) рыбу</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>
+  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>Кто-то убивает рыбу! Мы должны защищать этих прекрасных созданий.</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>
+  <SlaughteredFish_Know_Prohibited.stages.killed_fish.label>убил(а) рыбу</SlaughteredFish_Know_Prohibited.stages.killed_fish.label>
+  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>забил(а) рыбу</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>
+  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>Кто-то убивает рыбу! Наши скользкие братья и сестры умирают.</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>
+  <SlaughteredFish_Sacred.stages.fished_recently.label>недавно рыбачил(а)</SlaughteredFish_Sacred.stages.fished_recently.label>
+  <SlaughteredFish_Sacred.stages.fished_recently.description>Рыбалка помогает мне найти свой путь — хотя бы ненадолго.</SlaughteredFish_Sacred.stages.fished_recently.description>
+  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>не хватает рыбы</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>
+  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>Жаль, что мы не там, где можно ловить рыбу.</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AddictionImmune.label>без зависимости от {lookup: {0}; Case; 1}</AddictionImmune.label>
+  <AddictionImmune.description>Носители этого гена никогда не становятся зависимыми от {lookup: {0}; Case; 1}.</AddictionImmune.description>
+  <AddictionImmune.labelShortAdj>{0} — иммунитет</AddictionImmune.labelShortAdj>
+  <AddictionResistant.label>сопротивление зависимости от {lookup: {0}; Case; 1}</AddictionResistant.label>
+  <AddictionResistant.description>Носители этого гена в два раза реже становятся зависимыми от {lookup: {0}; Case; 1}.</AddictionResistant.description>
+  <AddictionResistant.labelShortAdj>{0} — сопротивление</AddictionResistant.labelShortAdj>
+  <AptitudePoor.label>{0} — плохо</AptitudePoor.label>
+  <AptitudePoor.description>Склонность к {lookup: {0}; Case; 2} носителя этого гена уменьшена на 4.</AptitudePoor.description>
+  <AptitudeRemarkable.label>{0} — отлично</AptitudeRemarkable.label>
+  <AptitudeRemarkable.description>Склонность к {lookup: {0}; Case; 2} носителя этого гена увеличена на 8. Степень интереса к этому навыку увеличена на 1.</AptitudeRemarkable.description>
+  <AptitudeStrong.label>{0} — хорошо</AptitudeStrong.label>
+  <AptitudeStrong.description>Склонность к {lookup: {0}; Case; 2} носителя этого гена увеличена на 4.</AptitudeStrong.description>
+  <AptitudeTerrible.label>{0} — ужасно</AptitudeTerrible.label>
+  <AptitudeTerrible.description>Склонность к {lookup: {0}; Case; 2} носителя этого гена уменьшена на 8. Интерес к этому навыку сброшен на 0.</AptitudeTerrible.description>
+  <ChemicalDependency.label>зависимость от {lookup: {0}; Case; 1}</ChemicalDependency.label>
+  <ChemicalDependency.description>Носители этого гена должны регулярно употреблять {lookup: {0}; Case; 3}, чтобы выжить. После {DEFICIENCYDURATION} без этого вещества начинается ломка. Через {COMADURATION} — наступает кома. После {DEATHDURATION} без {lookup: {0}; Case; 1} носитель гена погибнет.</ChemicalDependency.description>
+  <ChemicalDependency.labelShortAdj>{0} — зависимость</ChemicalDependency.labelShortAdj>
+</LanguageData>

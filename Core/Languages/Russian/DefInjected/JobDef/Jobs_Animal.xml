@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ExitMapFlying.reportString>спасается бегством</ExitMapFlying.reportString>
+  <LayEgg.reportString>откладывает яйца</LayEgg.reportString>
+  <Maintain.reportString>обслуживает TargetA</Maintain.reportString>
+  <Mate.reportString>спаривается с TargetA</Mate.reportString>
+  <Nuzzle.reportString>ласкается к TargetA</Nuzzle.reportString>
+  <PredatorHunt.reportString>охотится на TargetA</PredatorHunt.reportString>
+</LanguageData>

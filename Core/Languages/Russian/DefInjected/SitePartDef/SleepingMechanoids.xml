@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SleepingMechanoids.label>«Спящие» механоиды</SleepingMechanoids.label>
+  <SleepingMechanoids.description>Несколько «спящих» механоидов.</SleepingMechanoids.description>
+  <SleepingMechanoids.arrivedLetter>В этом месте находятся несколько «спящих» механоидов.\n\nОни могут проснуться, если вы подойдёте слишком близко, так что будьте начеку!</SleepingMechanoids.arrivedLetter>
+</LanguageData>

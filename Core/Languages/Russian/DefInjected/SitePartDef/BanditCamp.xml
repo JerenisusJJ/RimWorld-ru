@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BanditCamp.label>лагерь бандитов</BanditCamp.label>
+  <BanditCamp.description>Лагерь бандитов.</BanditCamp.description>
+  <BanditCamp.approachingReportString>Нападает на {lookup: {0}; Case; 3}</BanditCamp.approachingReportString>
+  <BanditCamp.approachOrderString>Напасть на {lookup: {0}; Case; 3}</BanditCamp.approachOrderString>
+  <BanditCamp.arrivedLetter>В этом месте расположен вражеский лагерь.</BanditCamp.arrivedLetter>
+</LanguageData>

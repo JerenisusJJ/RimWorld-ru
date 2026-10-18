@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Floordrawing.label>рисовать на полу</Floordrawing.label>
+  <Floordrawing.description>Разрисовывать пол мелом. Поселенец, назначенный убираться, со временем сотрёт рисунки.</Floordrawing.description>
+  <Lessontaking.label>посещать уроки</Lessontaking.label>
+  <Lessontaking.description>Взрослый, назначенный ухаживать за детьми, будет проводить уроки на разные темы. Ребёнок будет получать опыт в навыках. Требуется парта.</Lessontaking.description>
+  <NatureRunning.label>гулять на свежем воздухе</NatureRunning.label>
+  <NatureRunning.description>Изучать местность вокруг. Требуется выход на свежий воздух.</NatureRunning.description>
+  <Radiotalking.label>болтать по радио</Radiotalking.label>
+  <Radiotalking.description>Общаться с другими людьми при помощи радио. Требуется консоль связи.</Radiotalking.description>
+  <Reading.label>читать</Reading.label>
+  <Reading.description>Находить книги и читать их.</Reading.description>
+  <Skydreaming.label>наблюдать за облаками</Skydreaming.label>
+  <Skydreaming.description>Найти хорошее место и наблюдать за небом. Требуется выход на свежий воздух.</Skydreaming.description>
+  <Workwatching.label>наблюдать за работой</Workwatching.label>
+  <Workwatching.description>Следовать за взрослым и следить за его работой. Даёт опыт в навыках.</Workwatching.description>
+</LanguageData>

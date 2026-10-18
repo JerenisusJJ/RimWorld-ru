@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Interrogate.label>допросить</Interrogate.label>
+  <Interrogate.description>Надзиратели допросят пленного, внимательно отслеживая его реакции, и попытаются определить, тот ли он, за кого себя выдаёт. Вероятность изобличить самозванца тем выше, чем выше социальный навык надзирателя. Однако всегда есть шанс, что самозванца всё равно не распознают.</Interrogate.description>
+  <Study.label>исследовать</Study.label>
+  <Study.description>Исследователи будут изучать пленника, чтобы получить новые знания.</Study.description>
+</LanguageData>

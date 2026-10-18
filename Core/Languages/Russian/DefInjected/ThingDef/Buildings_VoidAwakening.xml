@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <TwistedArchotechSupport_Large.label>изогнутая архо-опора</TwistedArchotechSupport_Large.label>
+  <TwistedArchotechSupport_Large.description>Изогнутое сооружение архотеков. Видно, как от него до ближайшего узла пустоты тянется поток пси-энергии. Повредить его не получится.</TwistedArchotechSupport_Large.description>
+  <TwistedArchotechSupport_Small.label>изогнутая архо-опора</TwistedArchotechSupport_Small.label>
+  <TwistedArchotechSupport_Small.description>Изогнутое сооружение архотеков. Видно, как от него до ближайшего узла пустоты тянется поток пси-энергии. Повредить его не получится.</TwistedArchotechSupport_Small.description>
+  <TwistedArchotechSupport_Vertical.label>изогнутая архо-опора</TwistedArchotechSupport_Vertical.label>
+  <TwistedArchotechSupport_Vertical.description>Изогнутое сооружение архотеков. Видно, как от него до ближайшего узла пустоты тянется поток пси-энергии. Повредить его не получится.</TwistedArchotechSupport_Vertical.description>
+  <VoidmetalMassLarge.label>блок из пустотного металла</VoidmetalMassLarge.label>
+  <VoidmetalMassLarge.description>Неоднородная масса с острыми зазубринами, похожими на лезвия ножа и угрожающе торчащими в разные стороны. Материал представляет собой маслянистую металлическую субстанцию, влажную на ощупь, но не оставляющую следов. Невосприимчив к повреждениям.</VoidmetalMassLarge.description>
+  <VoidmetalMassMedium.label>блок из пустотного металла</VoidmetalMassMedium.label>
+  <VoidmetalMassMedium.description>Неоднородная масса с острыми зазубринами, похожими на лезвия ножа и угрожающе торчащими в разные стороны. Материал представляет собой маслянистую металлическую субстанцию, влажную на ощупь, но не оставляющую следов. Невосприимчив к повреждениям.</VoidmetalMassMedium.description>
+  <VoidmetalMassSmall.label>блок из пустотного металла</VoidmetalMassSmall.label>
+  <VoidmetalMassSmall.description>Неоднородная масса с острыми зазубринами, похожими на лезвия ножа и угрожающе торчащими в разные стороны. Материал представляет собой маслянистую металлическую субстанцию, влажную на ощупь, но не оставляющую следов. Невосприимчив к повреждениям.</VoidmetalMassSmall.description>
+  <VoidmetalWall.label>стена из пустотного металла</VoidmetalWall.label>
+  <VoidmetalWall.description>Плотная масса тёмного металла. Его поверхность покрыта острыми кристаллическими шипами. На ощупь материал влажный и маслянистый, но не оставляет следов. Он невосприимчив к повреждениям.</VoidmetalWall.description>
+  <VoidMonolith.label>монолит пустоты</VoidMonolith.label>
+  <VoidMonolith.description>Монолит неизвестного происхождения и назначения. На гладкой поверхности выгравированы жуткие витиеватые узоры.</VoidMonolith.description>
+  <VoidMonolith.comps.CompGleamingMonolith.jobString>активировать</VoidMonolith.comps.CompGleamingMonolith.jobString>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>Прогресс в изучении монолита</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>{PAWN_nameDef} совершает открытие, изучая монолит. {PAWN_pronoun} считает, что монолит — это проводник пси-энергии, связанный с каким-то удалённым источником, но сказать, где этот источник, пока сложно.\n\n{PAWN_nameDef} полагает, что, изучив больше аномалий, можно разорвать эту связь или научиться её использовать.\n\nТеперь изучение монолита приносит больше знаний.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>Прогресс в изучении монолита</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>{PAWN_nameDef} раскрывает новые сведения о монолите. Артефакт соединяет материальный мир с пустотой — измерением, скрытым в субструктуре пространства-времени. Через монолит на нашу реальность влияет некий могущественный разум.\n\n{PAWN_nameDef} хочет продолжить исследования.\n\nТеперь изучение монолита приносит больше знаний.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.label>Исследование монолита завершено</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.label>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>{PAWN_nameDef} завершает изучение монолита. Этот артефакт — проводник между материальным миром и пустотой, реальностью с обратной стороны каждой точки пространства-времени. В пустоте обитает могущественный машинный интеллект ужасающей сложности, в котором бурлит кошмарная, нечеловеческая ярость. Его влияние порождает ужасы в нашем мире.\n\nПробуждение монолита откроет полноценный канал между двумя измерениями, что, как считает {PAWN_nameDef}, позволит либо навсегда разорвать эту связь, либо найти способ обуздать её тёмную силу.\n\nИзученный монолит приносит больше знаний.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>
+  <VoidMonolith.comps.CompProximityLetter.letterLabel>Упавший монолит</VoidMonolith.comps.CompProximityLetter.letterLabel>
+  <VoidMonolith.comps.CompProximityLetter.letterText>{PAWN_nameDef} замечает древний монолит, частично погребённый под слоем земли.\n\nИсследуйте его, чтобы узнать о нём больше.</VoidMonolith.comps.CompProximityLetter.letterText>
+  <VoidMonolithAttachmentBottomLeft.label>часть монолита пустоты</VoidMonolithAttachmentBottomLeft.label>
+  <VoidMonolithAttachmentBottomRight.label>часть монолита пустоты</VoidMonolithAttachmentBottomRight.label>
+  <VoidMonolithAttachmentLeft.label>часть монолита пустоты</VoidMonolithAttachmentLeft.label>
+  <VoidMonolithAttachmentRight.label>часть монолита пустоты</VoidMonolithAttachmentRight.label>
+  <VoidMonolithAttachmentTop.label>часть монолита пустоты</VoidMonolithAttachmentTop.label>
+  <VoidNode.label>узел пустоты</VoidNode.label>
+  <VoidNode.description>Сфера из сгустка пси-энергии, подпитываемая соседними архотехнологичными сооружениями. Часть моста, соединяющего наш мир с чёрной пустотой.</VoidNode.description>
+  <VoidNode.comps.CompVoidNode.activateDescString>Приказать поселенцу прикоснуться.</VoidNode.comps.CompVoidNode.activateDescString>
+  <VoidNode.comps.CompVoidNode.activateLabelString>Прикоснуться…</VoidNode.comps.CompVoidNode.activateLabelString>
+  <VoidNode.comps.CompVoidNode.activatingStringPending>Прикасается к узлу пустоты.</VoidNode.comps.CompVoidNode.activatingStringPending>
+  <VoidNode.comps.CompVoidNode.guiLabelString>Выберите, кто должен прикоснуться к узлу.</VoidNode.comps.CompVoidNode.guiLabelString>
+  <VoidNode.comps.CompVoidNode.inspectString>Приказать поселенцу прикоснуться к узлу.</VoidNode.comps.CompVoidNode.inspectString>
+  <VoidNode.comps.CompVoidNode.jobString>Прикоснуться к узлу пустоты</VoidNode.comps.CompVoidNode.jobString>
+  <VoidStructure.label>пустотный объект</VoidStructure.label>
+  <VoidStructure.description>Объект неправильной формы из блоков маслянистого металлоподобного вещества с острыми зазубринами. Это частицы пустоты, просочившиеся в наш мир. Испускает тревожный психоактивный импульс и убивает всю растительность поблизости. Объект связан с монолитом пустоты, но эта связь остаётся непонятной для человека.</VoidStructure.description>
+  <VoidStructure.comps.CompVoidStructure.jobString>активировать</VoidStructure.comps.CompVoidStructure.jobString>
+</LanguageData>

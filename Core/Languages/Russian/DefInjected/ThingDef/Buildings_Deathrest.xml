@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DeathrestAccelerator.label>ускоритель торпора</DeathrestAccelerator.label>
+  <DeathrestAccelerator.description>Этот аппарат подключается к находящемуся в торпоре и ускоряет процесс, оптимизируя работу саркофага с помощью более эффективных препаратов и улучшенной методики анализа крови.</DeathrestAccelerator.description>
+  <DeathrestCasket.label>торпорный саркофаг</DeathrestCasket.label>
+  <DeathrestCasket.description>Медицинская капсула, ускоряющая торпор. К ней можно подключать другие аппараты, улучшающие качество процесса. Количество аппаратов, которые можно подключить к саркофагу, зависит от торпорной вместимости пациента.\n\nИспользование торпорного саркофага доступно только при наличии гена торпора.</DeathrestCasket.description>
+  <GlucosoidPump.label>глюкозная помпа</GlucosoidPump.label>
+  <GlucosoidPump.description>Аппарат, подключаемый к торпорному саркофагу, позволяет пациенту двигаться быстрее после пробуждения. Повышает концентрацию веществ, передающих сигналы мышцам, и очищает мышечную ткань от различных продуктов распада. Эффект длится до следующего погружения в торпор.\n\nДля работы требуется гемоген.</GlucosoidPump.description>
+  <GlucosoidPump.comps.CompRefuelable.fuelLabel>Гемоген</GlucosoidPump.comps.CompRefuelable.fuelLabel>
+  <HemogenAmplifier.label>гемобустер</HemogenAmplifier.label>
+  <HemogenAmplifier.description>Это аппарат, подключаемый к торпорному саркофагу, повышает усваиваемость гемогена у пацента. Он стимулирует гемогеновые железы с помощью специального зонда и анализатора крови.\n\nДля работы требуется гемоген.</HemogenAmplifier.description>
+  <HemogenAmplifier.comps.CompRefuelable.fuelLabel>Гемоген</HemogenAmplifier.comps.CompRefuelable.fuelLabel>
+  <Hemopump.label>гемопомпа</Hemopump.label>
+  <Hemopump.description>Этот аппарат, подключаемый к торпорному саркофагу, увеличивает максимальное количество гемогена, которое пациент может накапливать в своём теле.\n\nДля работы требуется гемоген.</Hemopump.description>
+  <Hemopump.comps.CompRefuelable.fuelLabel>Гемоген</Hemopump.comps.CompRefuelable.fuelLabel>
+  <PsychofluidPump.label>психопомпа</PsychofluidPump.label>
+  <PsychofluidPump.description>Этот аппарат, подключаемый к торпорному саркофагу, увеличивает психическую чувствительность пациента с помощью активной стимуляции нервных тканей.\n\nДля работы требуется гемоген.</PsychofluidPump.description>
+  <PsychofluidPump.comps.CompRefuelable.fuelLabel>Гемоген</PsychofluidPump.comps.CompRefuelable.fuelLabel>
+</LanguageData>

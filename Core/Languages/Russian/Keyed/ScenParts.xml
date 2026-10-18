@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ScenPart_StartingMech>Начало с механоидом</ScenPart_StartingMech>
+  <Mechanoid>Механоид</Mechanoid>
+  <RandomMech>Случайный выбор</RandomMech>
+  <StartOverseenChance>Вероятность подконтрольности</StartOverseenChance>
+</LanguageData>

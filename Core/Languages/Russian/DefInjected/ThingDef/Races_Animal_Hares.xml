@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Hare.label>заяц</Hare.label>
+  <Hare.description>Это небольшое, одиночное травоядное может быстро ускакать от опасности.</Hare.description>
+  <Hare.race.meatLabel>зайчатина</Hare.race.meatLabel>
+  <Hare.tools.head.label>голова</Hare.tools.head.label>
+  <Snowhare.label>беляк</Snowhare.label>
+  <Snowhare.description>Это выносливое животное переживает суровые северные зимы, зарываясь в норы под снегом и находя себе пропитание там, или же впадая в спячку на время самых тяжёлых месяцев.</Snowhare.description>
+  <Snowhare.tools.head.label>голова</Snowhare.tools.head.label>
+</LanguageData>

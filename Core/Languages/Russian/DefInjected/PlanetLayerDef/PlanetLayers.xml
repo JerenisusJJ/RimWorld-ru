@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Orbit.label>орбита</Orbit.label>
+  <Orbit.elevationString>200 км</Orbit.elevationString>
+  <Orbit.gerundLabel>на</Orbit.gerundLabel>
+  <Orbit.viewGizmoTooltip>Просмотреть объекты, находящиеся на орбите планеты.</Orbit.viewGizmoTooltip>
+</LanguageData>

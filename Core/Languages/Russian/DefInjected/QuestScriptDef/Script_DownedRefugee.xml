@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;[refugee_nameDef] связывается с вами по радио и умоляет о помощи. [refugee_objective] нанесли тяжёлые раны, и [refugee_pronoun] не в состоянии передвигаться самостоятельно.\n\n[refugee_nameDef] — [refugee_title] в возрасте [refugee_age] лет. [refugee_pronoun] обещает присоединиться к вам, если вы спасёте [refugee_possessive].\n\n[refugee_nameDef] говорит, что рядом [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name], говорит, что [asker_possessive] друга ранили, пока тот был в пути. Жертва — [refugee_nameIndef], [refugee_title] в возрасте [refugee_age] лет.\n\nУ [asker_nameDef] нет людей, чтобы отправить на спасение [refugee_nameDef], но [asker_pronoun] заверяет, что если вы сможете добраться до [refugee_nameDef] и оказать [refugee_objective] помощь, то [refugee_pronoun] присоединится к вам.\n\n[asker_nameDef] говорит, что рядом [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo(priority=1)-&gt;[refugee_pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo-&gt;</li>
+  </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+    <li>questName-&gt;спасая [refugee_nameDef]</li>
+    <li>questName-&gt;помогая [refugee_nameDef]</li>
+    <li>questName-&gt;спасение [refugee_nameDef]</li>
+    <li>questName-&gt;помощь [refugee_nameDef]</li>
+  </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>Мы потеряли сигнал от [refugee_nameDef]. [refugee_possessive] больше не спасти. Время, отведённое для задания [resolvedQuestName], истекло.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
+</LanguageData>

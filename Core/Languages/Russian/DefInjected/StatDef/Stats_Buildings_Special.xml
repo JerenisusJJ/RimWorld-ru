@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AssemblySpeedFactor.label>скорость работы</AssemblySpeedFactor.label>
+  <AssemblySpeedFactor.description>Множитель скорости сбора генов поселенцами в этом месте.</AssemblySpeedFactor.description>
+  <AssemblySpeedFactor.parts.Room_cleanliness.customLabel>Чистота помещения</AssemblySpeedFactor.parts.Room_cleanliness.customLabel>
+  <BabyPlayGainFactor.label>насыщенность игры</BabyPlayGainFactor.label>
+  <BabyPlayGainFactor.description>Насколько эффективно этот предмет удовлетворяет потребность младенца в игре.</BabyPlayGainFactor.description>
+  <BirthRitualQualityOffset.label>прирост качества родов</BirthRitualQualityOffset.label>
+  <BirthRitualQualityOffset.description>Влияние этого места на качество родов. Качество родов определяет шанс того, что ребёнок родится здоровым.</BirthRitualQualityOffset.description>
+  <GeneticComplexityIncrease.label>увеличение генетической сложности</GeneticComplexityIncrease.label>
+  <GeneticComplexityIncrease.description>Насколько данное сооружение повышает порог допустимой генетической сложности при работе с генным сборщиком.</GeneticComplexityIncrease.description>
+</LanguageData>

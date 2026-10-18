@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AllowedAreaMech.label>доступные области</AllowedAreaMech.label>
+  <AllowedAreaMech.headerTip>Доступные области применимы только к механоидам, находящимся в режиме работы и зарядки.</AllowedAreaMech.headerTip>
+  <AutoRepair.label>автопочинка</AutoRepair.label>
+  <ControlGroup.label>группа</ControlGroup.label>
+  <DraftMech.label>режим призыва</DraftMech.label>
+  <Energy.label>заряд</Energy.label>
+  <Overseer.label>оператор</Overseer.label>
+  <WorkMode.label>режим работы</WorkMode.label>
+</LanguageData>

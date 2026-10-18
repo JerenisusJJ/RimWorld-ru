@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bullet_HellsphereCannonGun.label>снаряд дезинтегратора</Bullet_HellsphereCannonGun.label>
+  <Gun_HellsphereCannon.label>дезинтегратор</Gun_HellsphereCannon.label>
+  <Gun_HellsphereCannon.description>Сверхмощное энергетическое оружие, предназначенное для прорыва укреплений. Перед выстрелом заряжается несколько секунд, в течение которых цель должна находиться в прямой видимости, после чего обрушивает на неё настоящий ад. Энергия взрыва плавит бетон в радиусе поражения и поджигает всё поблизости. Не может стрелять, если цель стоит вплотную.</Gun_HellsphereCannon.description>
+  <Gun_HellsphereCannon.tools.barrel.label>ствол</Gun_HellsphereCannon.tools.barrel.label>
+  <Gun_HellsphereCannon.verbs.Verb_Shoot.label>дезинтегратор</Gun_HellsphereCannon.verbs.Verb_Shoot.label>
+</LanguageData>

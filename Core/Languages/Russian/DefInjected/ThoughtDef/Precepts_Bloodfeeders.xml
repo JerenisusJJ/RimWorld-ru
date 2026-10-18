@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>почитаемый кровоед</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>
+  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>Пусть они превозносят меня. То, что я пью их кровь, ставит меня выше них так же, как люди стоят выше животных.</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>
+  <Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>ненависть кровоеда к себе</Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>
+  <Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.description>Я себя ненавижу. Мне нужно освободиться от этого ужасного проклятия.</Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.description>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeders.label>нет кровоедов</BloodfeederColonist_Revered.stages.no_bloodfeeders.label>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeders.description>Нам нужен мудрый повелитель. А стать им может только кровоед.</BloodfeederColonist_Revered.stages.no_bloodfeeders.description>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>нет повелителя-кровоеда</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>Нам нужен мудрый повелитель. А стать им может только кровоед.</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>
+  <BloodfeederColonist_Revered.stages.bloodfeeder_master.label>есть повелитель-кровоед</BloodfeederColonist_Revered.stages.bloodfeeder_master.label>
+  <BloodfeederColonist_Revered.stages.bloodfeeder_master.description>Покровительство кровоеда — величайшая честь! Да пребудет с ним вечная жизнь.</BloodfeederColonist_Revered.stages.bloodfeeder_master.description>
+  <BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>среди нас кровоед</BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>
+  <BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.description>Один из них — среди нас. Мы должны изгнать этого демона из нашего поселения.</BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.description>
+  <BloodfeederDied_Revered.stages.bloodfeeder_died.label>кровоед умер</BloodfeederDied_Revered.stages.bloodfeeder_died.label>
+  <BloodfeederDied_Revered.stages.bloodfeeder_died.description>Мы допустили смерть одного из высших созданий. Кара падёт на нас за наше прегрешение.</BloodfeederDied_Revered.stages.bloodfeeder_died.description>
+  <BloodfeederDied_Reviled.stages.bloodfeeder_died.label>кровоед умер</BloodfeederDied_Reviled.stages.bloodfeeder_died.label>
+  <BloodfeederDied_Reviled.stages.bloodfeeder_died.description>Хороший кровоед — мёртвый кровоед.</BloodfeederDied_Reviled.stages.bloodfeeder_died.description>
+  <Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.bloodfeeder.label>кровоед</Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.bloodfeeder.label>
+  <Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.bloodfeeder.label>кровоед</Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.bloodfeeder.label>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bullet_MiniShotgun.label>дробь</Bullet_MiniShotgun.label>
+  <Bullet_Slugthrower.label>пуля</Bullet_Slugthrower.label>
+  <Bullet_Spiner.label>шип</Bullet_Spiner.label>
+  <Gun_MiniFlameblaster.label>мини-огнемёт</Gun_MiniFlameblaster.label>
+  <Gun_MiniFlameblaster.description>Компактный огнемёт механоидов.</Gun_MiniFlameblaster.description>
+  <Gun_MiniFlameblaster.tools.barrel.label>ствол</Gun_MiniFlameblaster.tools.barrel.label>
+  <Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>мини-огнемёт</Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>
+  <Gun_MiniShotgun.label>мини-дробовик</Gun_MiniShotgun.label>
+  <Gun_MiniShotgun.description>Компактное оружие для стрельбы на ближней дистанции, предназначенное для установки на лёгких боевых механоидов.</Gun_MiniShotgun.description>
+  <Gun_MiniShotgun.tools.barrel.label>ствол</Gun_MiniShotgun.tools.barrel.label>
+  <Gun_MiniShotgun.verbs.Verb_Shoot.label>мини-дробовик</Gun_MiniShotgun.verbs.Verb_Shoot.label>
+  <Gun_Slugthrower.label>ружьё механоидов</Gun_Slugthrower.label>
+  <Gun_Slugthrower.description>Компактное однозарядное оружие, предназначенное для установки на лёгких боевых механоидов.</Gun_Slugthrower.description>
+  <Gun_Slugthrower.tools.barrel-0.label>ствол</Gun_Slugthrower.tools.barrel-0.label>
+  <Gun_Slugthrower.tools.barrel-1.label>ствол</Gun_Slugthrower.tools.barrel-1.label>
+  <Gun_Slugthrower.verbs.Verb_Shoot.label>ружьё механоидов</Gun_Slugthrower.verbs.Verb_Shoot.label>
+  <Gun_Spiner.label>шипомёт</Gun_Spiner.label>
+  <Gun_Spiner.description>Миниатюрное оружие, использующееся дронами-пчёлами. Стреляет снарядами, похожими на шипы. Несмотря на малую эффективную дальность стрельбы, шипомёт является довольно опасным оружием.</Gun_Spiner.description>
+  <Gun_Spiner.tools.barrel.label>ствол</Gun_Spiner.tools.barrel.label>
+  <Gun_Spiner.verbs.Verb_Shoot.label>шипомёт</Gun_Spiner.verbs.Verb_Shoot.label>
+</LanguageData>

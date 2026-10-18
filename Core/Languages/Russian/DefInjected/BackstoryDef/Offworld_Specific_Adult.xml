@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Castaway57.description>{PAWN_nameDef} {PAWN_gender ? оказался единственным выжившим : оказалась единственной выжившей : оказался единственным выжившим} в крушении корабля на безлюдной планете. В течение многих лет до своего спасения {PAWN_pronoun} {PAWN_gender ? обеспечивал : обеспечивала : обеспечивало} своё существование, пользуясь исключительно подручными средствами и тем, что удаётся найти.\n\n{PAWN_nameDef} {PAWN_gender ? отточил : отточила : отточило} свои навыки выживания до невероятного уровня, однако годы одиночества негативно сказались на {PAWN_possessive} способностях к общению с другими людьми.</Castaway57.description>
+  <Castaway57.title>выживший в крушении</Castaway57.title>
+  <Castaway57.titleShort>выживший</Castaway57.titleShort>
+  <CaveworldIlluminator95.description>Среди обитателей пещер обладатели острого зрения пользуются большим почтением. {PAWN_nameDef} {PAWN_gender ? указывал : указывала : указывало} остальным путь, отмечая места для копания биолюминесцентными грибами, а также {PAWN_gender ? предупреждал : предупреждала : предупреждало} о подстерегающих опасностях.</CaveworldIlluminator95.description>
+  <CaveworldIlluminator95.title>зрящий мира пещер</CaveworldIlluminator95.title>
+  <CaveworldIlluminator95.titleShort>проводник</CaveworldIlluminator95.titleShort>
+  <ColonySettler53.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} поселенцем в одном из колониальных миров.\n\nПри такой жизни нужно быть мастером на всё руки в самых основных делах.</ColonySettler53.description>
+  <ColonySettler53.title>житель поселения</ColonySettler53.title>
+  <ColonySettler53.titleShort>поселенец</ColonySettler53.titleShort>
+  <DeepSpaceMiner3.description>{PAWN_nameDef} {PAWN_gender ? занимался : занималась : занимался} потной и грязной работой по извлечению металла из астероидов на буровой установке в глубоком космосе. {PAWN_pronoun} ежедневно {PAWN_gender ? оттачивал : оттачивала : оттачивало} свои профессиональные навыки на работе, а при случае неплохо {PAWN_gender ? показывал : показывала : показывало} себя и в барной драке.</DeepSpaceMiner3.description>
+  <DeepSpaceMiner3.title>космический шахтёр</DeepSpaceMiner3.title>
+  <DeepSpaceMiner3.titleShort>шахтёр</DeepSpaceMiner3.titleShort>
+  <FactoryWorker58.description>{PAWN_nameDef} {PAWN_gender ? был чернорабочим : была чернорабочей : был чернорабочим} на фабрике. В {PAWN_possessive} обязанности также входил уход за мулами и лошадьми, с помощью которых товар развозили по городу.</FactoryWorker58.description>
+  <FactoryWorker58.title>рабочий фабрики</FactoryWorker58.title>
+  <FactoryWorker58.titleShort>рабочий</FactoryWorker58.titleShort>
+  <HumanComputer83.description>{PAWN_nameDef} с детства {PAWN_gender ? имел : имела : имело} дар к выполнению в уме сложнейших вычислений и феноменальную память. Один из диктаторов среднего мира решил использовать {PAWN_possessive} таланты, чтобы следить за финансами и расходами, поскольку обычные компьютеры чересчур уязвимы для взлома.</HumanComputer83.description>
+  <HumanComputer83.title>человек-компьютер</HumanComputer83.title>
+  <HumanComputer83.titleShort>вычислитель</HumanComputer83.titleShort>
+  <JoywireArtist8.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в одной из лабораторий урбанизированного мира. Там {PAWN_pronoun} {PAWN_gender ? создавал : создавала : создавало} передовое ПО для так называемых «чипов счастья», стремясь максимизировать удовольствие, получаемое пользователем.\n\nКогда местное правительство ввело жёсткие ограничения на производство чипов, {PAWN_pronoun} {PAWN_gender ? начал : начала : начало} продавать свои продукты на чёрном рынке.</JoywireArtist8.description>
+  <JoywireArtist8.title>художник-чиподел</JoywireArtist8.title>
+  <JoywireArtist8.titleShort>чиподел</JoywireArtist8.titleShort>
+  <MafiaBoss17.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} крупным криминальным авторитетом в одном из преступных синдикатов своего городского мира.\n\n{PAWN_pronoun} {PAWN_gender ? давал : давала : давало} взятки чиновникам, {PAWN_gender ? держал : держала : держало} в узде подчинённых и {PAWN_gender ? выбивал : выбивала : выбивало} просроченные долги. Всеми возможными средствами.</MafiaBoss17.description>
+  <MafiaBoss17.title>босс мафии</MafiaBoss17.title>
+  <MafiaBoss17.titleShort>мафиози</MafiaBoss17.titleShort>
+  <PsychiatricPatient94.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} большую часть своей взрослой жизни в психиатрической больнице. В {PAWN_possessive} родном индустриальном мире психические заболевания были изучены плохо, поэтому {PAWN_possessive} лечили скорее как больное животное, нежели как человека.\n\nКогда в конечном итоге {PAWN_nameDef} {PAWN_gender ? выздоровел и выписался : выздоровела и выписалась : выздоровел и выписался}, многие из {PAWN_possessive} умений и навыков оказались забыты.</PsychiatricPatient94.description>
+  <PsychiatricPatient94.title>психбольной</PsychiatricPatient94.title>
+  <PsychiatricPatient94.titleShort>пациент</PsychiatricPatient94.titleShort>
+  <Sheriff52.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} стражем закона в отдалённом индустриальном городе. {PAWN_pronoun} {PAWN_gender ? раскрывал : раскрывала : раскрывало} мелкие преступления, {PAWN_gender ? разрешал : разрешала : разрешало} конфликты и иногда {PAWN_gender ? участвовал : участвовала : участвовало} в пьяных салунных перестрелках.</Sheriff52.description>
+  <Sheriff52.title>шериф</Sheriff52.title>
+  <Sheriff52.titleShort>шериф</Sheriff52.titleShort>
+  <SpaceTactician28.description>{PAWN_nameDef} {PAWN_gender ? поступил : поступила : поступило} на службу в космический флот звёздной системы, вовлечённой в масштабные межпланетные войны. Проявляя хладнокровие и воинскую смекалку в бою, {PAWN_pronoun} быстро {PAWN_gender ? продвинулся : продвинулась : продвинулся} по службе и вскоре уже успешно {PAWN_gender ? командовал : командовала : командовало} целыми армиями.</SpaceTactician28.description>
+  <SpaceTactician28.title>тактик</SpaceTactician28.title>
+  <SpaceTactician28.titleShort>тактик</SpaceTactician28.titleShort>
+  <StarshipJanitor33.description>Пока другие пассажиры космического корабля проводили годы в саркофагах криптосна, {PAWN_nameDef} периодически {PAWN_gender ? проверял : проверяла : проверяло} состояние корабля и навигационных систем и {PAWN_gender ? проводил : проводила : проводило} техобслуживание механоидов.</StarshipJanitor33.description>
+  <StarshipJanitor33.title>корабельный уборщик</StarshipJanitor33.title>
+  <StarshipJanitor33.titleShort>уборщик</StarshipJanitor33.titleShort>
+  <Taxonomist0.description>Много лет {PAWN_nameDef} {PAWN_gender ? путешествовал : путешествовала : путешествовало} между звёздными системами, изучая и классифицируя найденную флору и фауну в надежде создать полное описание видов.</Taxonomist0.description>
+  <Taxonomist0.title>биолог-систематик</Taxonomist0.title>
+  <Taxonomist0.titleShort>биолог</Taxonomist0.titleShort>
+  <UrbworldDrone32.description>На протяжении многих лет {PAWN_nameDef} {PAWN_gender ? выполнял : выполняла : выполняло} функции трутня-строителя в крупной цивилизации-улье. Хотя {PAWN_objective} в итоге удалось освободиться из этого жестокого социального эксперимента, к н{PAWN_objective} так и не вернулись способности к творческим занятиям и лидерству.</UrbworldDrone32.description>
+  <UrbworldDrone32.title>трутень улья</UrbworldDrone32.title>
+  <UrbworldDrone32.titleShort>трутень</UrbworldDrone32.titleShort>
+  <UrbworldEntrepreneur14.description>В урбанизированных мирах большинству известны лишь страдания. Но кто-то же должен управлять местными корпорациями?\n\n{PAWN_nameDef} {PAWN_gender ? знал : знала : знало}, как вести торговлю — взятки и тонкий технический расчёт. {PAWN_pronoun} — буквально социоинтеллектуальная машина.</UrbworldEntrepreneur14.description>
+  <UrbworldEntrepreneur14.title>предприниматель</UrbworldEntrepreneur14.title>
+  <UrbworldEntrepreneur14.titleShort>делец</UrbworldEntrepreneur14.titleShort>
+  <UrbworldRebel56.description>В то время как большинство людей {PAWN_possessive} мира избрали своим путём отказаться от своей социальной и биологической индивидуальности, чтобы слиться в единой информационной сущности, {PAWN_nameDef} {PAWN_gender ? присоединился : присоединилась : присоединился} к группе мятежников, решившей отказаться от использования технологий.</UrbworldRebel56.description>
+  <UrbworldRebel56.title>мятежник-луддит</UrbworldRebel56.title>
+  <UrbworldRebel56.titleShort>мятежник</UrbworldRebel56.titleShort>
+</LanguageData>

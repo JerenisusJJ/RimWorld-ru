@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AgeReversalDemanded.stages.harmful_aging.label>губительное старение</AgeReversalDemanded.stages.harmful_aging.label>
+  <AgeReversalDemanded.stages.harmful_aging.description>Я старею. Мне нужно пройти цикл омоложения в биоскульпторе.</AgeReversalDemanded.stages.harmful_aging.description>
+  <AgeReversalDemanded.stages.terrible_aging.label>ужасающее старение</AgeReversalDemanded.stages.terrible_aging.label>
+  <AgeReversalDemanded.stages.terrible_aging.description>Моя молодость стремительно уходит. Мне нужно пройти цикл омоложения в биоскульпторе.</AgeReversalDemanded.stages.terrible_aging.description>
+  <AgeReversalDemanded.stages.horrific_aging.label>смертельное старение</AgeReversalDemanded.stages.horrific_aging.label>
+  <AgeReversalDemanded.stages.horrific_aging.description>Я {PAWN_gender ? заперт : заперта} в этой разлагающейся клетке из плоти! Мне нужно пройти цикл омоложения в биоскульпторе.</AgeReversalDemanded.stages.horrific_aging.description>
+  <AgeReversalReceived.stages.received_age_reversal.label>{PAWN_gender ? Получил : Получила} омоложение</AgeReversalReceived.stages.received_age_reversal.label>
+  <AgeReversalReceived.stages.received_age_reversal.description>Старение и смерть не волнуют меня. Я могу жить вечно, как и подобает сверхчеловеку.</AgeReversalReceived.stages.received_age_reversal.description>
+  <BioSculpterDespised.stages.used_biosculpter_pod.label>{PAWN_gender ? Воспользовался : Воспользовалась} биоскульптором</BioSculpterDespised.stages.used_biosculpter_pod.label>
+  <BioSculpterDespised.stages.used_biosculpter_pod.description>Моё тело было осквернено в биоскульпторе.</BioSculpterDespised.stages.used_biosculpter_pod.description>
+  <NeedNeuralSupercharge.stages.want_neural_supercharge.label>нехватка нейростимуляции</NeedNeuralSupercharge.stages.want_neural_supercharge.label>
+  <NeedNeuralSupercharge.stages.want_neural_supercharge.description>Без нейростимуляции мой мозг работает ниже своих истинных возможностей. Это огорчает.</NeedNeuralSupercharge.stages.want_neural_supercharge.description>
+  <SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>{PAWN_gender ? Воспользовался : Воспользовалась} ускорителем сна</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>
+  <SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>Я {PAWN_gender ? спал : спала} с ускорителем сна. Он помогает мне реализовать мой потенциал.</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>
+</LanguageData>

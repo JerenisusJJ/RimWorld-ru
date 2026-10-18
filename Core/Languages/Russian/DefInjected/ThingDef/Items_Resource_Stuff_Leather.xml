@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Leather_AlphaThrumbo.label>грива трумбо</Leather_AlphaThrumbo.label>
+  <Leather_AlphaThrumbo.description>Пушистая шкура альфа-трумбо. Исключительно прочная и роскошная — сквозь невесомый мех словно ощущается псионический отголосок древней истории этого существа.\n\nИспользуется для создания изделий высочайшего качества благодаря отличной теплоизоляции и прочности.</Leather_AlphaThrumbo.description>
+  <Leather_Armadillo.label>кожа броненосца</Leather_Armadillo.label>
+  <Leather_Armadillo.description>Дубленая, высушенная и выделанная кожа броненосца. Прочная, но слабо защищает от воздействия окружающей среды.</Leather_Armadillo.description>
+  <Leather_Hippo.label>кожа бегемота</Leather_Hippo.label>
+  <Leather_Hippo.description>Дубленая, высушенная и выделанная кожа бегемота. Хотя она очень прочная, но слабо защищает от экстремальных погодных условий.</Leather_Hippo.description>
+  <Leather_Mastodon.label>кожа мастодонта</Leather_Mastodon.label>
+  <Leather_Mastodon.description>Дубленая, высушенная и выделанная кожа мастодонта. Прочная и отлично защищает от холода.</Leather_Mastodon.description>
+  <Leather_Mink.label>мех норки</Leather_Mink.label>
+  <Leather_Mink.description>Дубленая, высушенная и выделанная норковая шкура. Мягкая, гладкая и изысканно роскошная, норка используется в элитной зимней одежде и предметах интерьера, поэтому стоит дорого.</Leather_Mink.description>
+  <Leather_Sealskin.label>тюленья шкура</Leather_Sealskin.label>
+  <Leather_Sealskin.description>Дубленая шкура разных ластоногих: тюленей, морских львов и моржей. Она не особо прочная, но отлично сохраняет тепло. Тюленья шкура роскошно мягкая на ощупь и стоит дорого.</Leather_Sealskin.description>
+  <Leather_AlphaThrumbo.stuffProps.stuffAdjective>гривы трумбо</Leather_AlphaThrumbo.stuffProps.stuffAdjective>
+  <Leather_Armadillo.stuffProps.stuffAdjective>кожи броненосца</Leather_Armadillo.stuffProps.stuffAdjective>
+  <Leather_Hippo.stuffProps.stuffAdjective>кожи бегемота</Leather_Hippo.stuffProps.stuffAdjective>
+  <Leather_Mastodon.stuffProps.stuffAdjective>кожи мастодонта</Leather_Mastodon.stuffProps.stuffAdjective>
+  <Leather_Mink.stuffProps.stuffAdjective>меха норки</Leather_Mink.stuffProps.stuffAdjective>
+  <Leather_Sealskin.stuffProps.stuffAdjective>тюленьей шкуры</Leather_Sealskin.stuffProps.stuffAdjective>
+</LanguageData>

@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GlobalUtility.rulePack.rulesFiles>
+    <li>RomanNumeral-&gt;Words/Misc/Numbers_SmallRoman</li>
+    <li>Direction_masc-&gt;Words/Adjectives/CompassDirections_Masc</li>
+    <li>Direction_fem-&gt;Words/Adjectives/CompassDirections_Fem</li>
+    <li>Direction_neutral-&gt;Words/Adjectives/CompassDirections_Neutral</li>
+    <li>Letter-&gt;WordParts/CapitalLetters</li>
+    <li>LetterLatin-&gt;WordParts/CapitalLettersLatin</li>
+    <li>SylE-&gt;WordParts/Syllables_English</li>
+    <li>SylG-&gt;WordParts/Syllables_Galician</li>
+    <li>SylB-&gt;WordParts/Syllables_Byzantinian</li>
+    <li>SylP-&gt;WordParts/Syllables_Pig</li>
+    <li>Color-&gt;Words/Nouns/Colors</li>
+    <li>Color_fem-&gt;Words/Nouns/Colors_Female</li>
+    <li>Color_neutral-&gt;Words/Nouns/Colors_Neutral</li>
+    <li>Color_plural-&gt;Words/Nouns/Colors_Plural</li>
+    <li>Vegetable_masc-&gt;Words/Nouns/Vegetables_Masc</li>
+    <li>Vegetable_fem_acc-&gt;Words/Nouns/Vegetables_Accusative_Female</li>
+    <li>Vegetables_acc-&gt;Words/Nouns/Vegetables_Collective_Accusative_Plural</li>
+    <li>Game-&gt;Words/Nouns/Games</li>
+    <li>Game_acc-&gt;Words/Nouns/Games_Accusative</li>
+    <li>Animal_masc-&gt;Words/Nouns/Animals_Masc</li>
+    <li>Animal_fem-&gt;Words/Nouns/Animals_Female</li>
+    <li>Animal_gen-&gt;Words/Nouns/Animals_Genitive</li>
+    <li>AnimalBadass_masc-&gt;Words/Nouns/Animals_Badass_Masc</li>
+    <li>AnimalBadass_fem-&gt;Words/Nouns/Animals_Badass_Female</li>
+    <li>AnimalBadass_plural-&gt;Words/Nouns/Animals_Badass_Plural</li>
+    <li>AnimalBadass_gen-&gt;Words/Nouns/Animals_Badass_Genitive</li>
+    <li>AnimalBadass_plural_gen-&gt;Words/Nouns/Animals_Badass_Genitive_Plural</li>
+    <li>Weapon_masc-&gt;Words/Nouns/Weapons_masc</li>
+    <li>Weapon_fem-&gt;Words/Nouns/Weapons_fem</li>
+    <li>Weapon_fem_acc-&gt;Words/Nouns/Weapons_fem_acc</li>
+    <li>Weapon_neutral-&gt;Words/Nouns/Weapons_neutral</li>
+    <li>TerrainFeature_masc-&gt;Words/Nouns/TerrainFeatures_Masc</li>
+    <li>TerrainFeature_fem-&gt;Words/Nouns/TerrainFeatures_Fem</li>
+    <li>TerrainFeature_neutral-&gt;Words/Nouns/TerrainFeatures_Neutral</li>
+    <li>TreeType_fem-&gt;Words/Nouns/TreeTypes_Female</li>
+    <li>TreeType_masc-&gt;Words/Nouns/TreeTypes_Masc</li>
+    <li>TreeType_fem_gen-&gt;Words/Nouns/TreeTypes_Genitive_Female</li>
+    <li>TreeType_masc_gen-&gt;Words/Nouns/TreeTypes_Genitive_Masc</li>
+    <li>PersonJob-&gt;Words/Nouns/People_Jobs</li>
+    <li>PersonJob_masc_gen-&gt;Words/Nouns/People_Jobs_Genitive_Masc</li>
+    <li>PersonJob_masc_ins-&gt;Words/Nouns/People_Jobs_Instrumental_Masc</li>
+    <li>PersonJobs_gen-&gt;Words/Nouns/People_Jobs_Genitive_Plural</li>
+    <li>PersonFamily-&gt;Words/Nouns/People_Family</li>
+    <li>PersonFamily_masc_gen-&gt;Words/Nouns/People_Family_Genitive_Masc</li>
+    <li>PersonFamily_fem_gen-&gt;Words/Nouns/People_Family_Genitive_Female</li>
+    <li>PersonFamilies_gen-&gt;Words/Nouns/People_Family_Genitive_Plural</li>
+    <li>PersonAlly-&gt;Words/Nouns/People_Allies</li>
+    <li>PersonAllies_gen-&gt;Words/Nouns/People_Allies_Genitive_Plural</li>
+    <li>PersonBadass-&gt;Words/Nouns/People_Badass</li>
+    <li>Enemy-&gt;Words/Nouns/People_Enemies</li>
+    <li>Enemy_gen-&gt;Words/Nouns/People_Enemies_Genitive</li>
+    <li>Enemies-&gt;Words/Nouns/People_Enemies_Plural</li>
+    <li>Enemies_gen-&gt;Words/Nouns/People_Enemies_Genitive_Plural</li>
+    <li>Apparel-&gt;Words/Nouns/Apparel</li>
+    <li>Gore-&gt;Words/Nouns/Gore</li>
+    <li>Mechanoid_masc-&gt;Words/Nouns/Mechanoids_Masc</li>
+    <li>Mechanoid_fem-&gt;Words/Nouns/Mechanoids_Female</li>
+    <li>Mechanoid_masc_gen-&gt;Words/Nouns/Mechanoids_Genitive_Masc</li>
+    <li>Mechanoid_fem_gen-&gt;Words/Nouns/Mechanoids_Genitive_Female</li>
+    <li>ConceptPositive_nom-&gt;Words/Nouns/Concepts_Positive_Nominative</li>
+    <li>ConceptPositive-&gt;Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass_nom-&gt;Words/Nouns/Concepts_Badass_Nominative</li>
+    <li>ConceptBadass-&gt;Words/Nouns/Concepts_Badass</li>
+    <li>ConceptAngsty_nom-&gt;Words/Nouns/Concepts_Angsty_Nominative</li>
+    <li>ConceptAngsty-&gt;Words/Nouns/Concepts_Angsty</li>
+    <li>Community-&gt;Words/Nouns/Communities</li>
+    <li>Community_prep-&gt;Words/Nouns/Communities_Prepos</li>
+    <li>Bodypart-&gt;Words/Nouns/Bodyparts</li>
+    <li>Bodypart_pre-&gt;Words/Nouns/Bodyparts_Prepositional</li>
+    <li>AdjectiveLarge-&gt;Words/Adjectives/Large</li>
+    <li>AdjectiveBadass-&gt;Words/Adjectives/Badass</li>
+    <li>AdjectiveBadass_fem-&gt;Words/Adjectives/Badass_Female</li>
+    <li>AdjectiveBadass_neutral-&gt;Words/Adjectives/Badass_Neutral</li>
+    <li>AdjectiveBadass_plural-&gt;Words/Adjectives/Badass_Plural</li>
+    <li>AdjectiveAngsty-&gt;Words/Adjectives/Angsty</li>
+    <li>AdjectiveAngsty_fem-&gt;Words/Adjectives/Angsty_Female</li>
+    <li>AdjectiveAngsty_neutral-&gt;Words/Adjectives/Angsty_Neutral</li>
+    <li>AdjectiveAngsty_plural-&gt;Words/Adjectives/Angsty_Plural</li>
+    <li>AdjectiveFriendly-&gt;Words/Adjectives/Friendly</li>
+    <li>AdjectiveFriendly_fem-&gt;Words/Adjectives/Friendly_Female</li>
+    <li>AdjectiveFriendly_neutral-&gt;Words/Adjectives/Friendly_Neutral</li>
+    <li>AdjectiveFriendly_plural-&gt;Words/Adjectives/Friendly_Plural</li>
+    <li>AdjectiveTreeType_acc_fem-&gt;Words/Adjectives/TreeTypes_Accusative_Female</li>
+    <li>TransFriendly-&gt;Words/Transgressives/Friendly</li>
+    <li>PersonalCharacteristic_masc-&gt;Words/Nouns/PersonalCharacteristics_masc</li>
+    <li>PersonalCharacteristic_fem-&gt;Words/Nouns/PersonalCharacteristics_fem</li>
+    <li>PersonalCharacteristic_neutral-&gt;Words/Nouns/PersonalCharacteristics_neutral</li>
+    <li>PersonalCharacteristic_plural-&gt;Words/Nouns/PersonalCharacteristics_plural</li>
+  </GlobalUtility.rulePack.rulesFiles>
+  <GlobalUtility.rulePack.rulesStrings>
+    <li>Character(p=6)-&gt;[PersonJob]</li>
+    <li>Character(p=4)-&gt;[Animal]</li>
+    <li>Character(p=3)-&gt;[Enemy]</li>
+    <li>Character-&gt;[Mechanoid]</li>
+    <li>Character_gen(p=6)-&gt;[PersonJob_masc_gen]</li>
+    <li>Character_gen(p=4)-&gt;[Animal_gen]</li>
+    <li>Character_gen(p=3)-&gt;[Enemy_gen]</li>
+    <li>Character_gen-&gt;[Mechanoid_gen]</li>
+    <li>Quantity_adjphrase-&gt;группа</li>
+    <li>Quantity_adjphrase-&gt;несколько</li>
+    <li>Quantity_adjphrase-&gt;десятки</li>
+    <li>Quantity_adjphrase-&gt;пара</li>
+    <li>Quantity_adjphrase-&gt;тройка</li>
+    <li>Quantity_adjphrase-&gt;множество</li>
+    <li>Quantity_adjphrase-&gt;пять</li>
+    <li>Quantity_adjphrase-&gt;шесть</li>
+    <li>Quantity_adjphrase-&gt;бессчётное количество</li>
+    <li>Quantity_adjphrase-&gt;неисчислимое количество</li>
+    <li>AdjectiveAny-&gt;[AdjectiveBadass]</li>
+    <li>AdjectiveAny-&gt;[AdjectiveAngsty]</li>
+    <li>AdjectiveAny-&gt;[AdjectiveFriendly]</li>
+    <li>AdjectiveAny_fem-&gt;[AdjectiveBadass_fem]</li>
+    <li>AdjectiveAny_fem-&gt;[AdjectiveAngsty_fem]</li>
+    <li>AdjectiveAny_fem-&gt;[AdjectiveFriendly_fem]</li>
+    <li>AdjectiveAny_neutral-&gt;[AdjectiveBadass_neutral]</li>
+    <li>AdjectiveAny_neutral-&gt;[AdjectiveAngsty_neutral]</li>
+    <li>AdjectiveAny_neutral-&gt;[AdjectiveFriendly_neutral]</li>
+    <li>AdjectiveAny_plural-&gt;[AdjectiveBadass_plural]</li>
+    <li>AdjectiveAny_plural-&gt;[AdjectiveAngsty_plural]</li>
+    <li>AdjectiveAny_plural-&gt;[AdjectiveFriendly_plural]</li>
+    <li>Animal-&gt;[Animal_masc]</li>
+    <li>Animal-&gt;[Animal_fem]</li>
+    <li>ConceptAny-&gt;[ConceptBadass]</li>
+    <li>ConceptAny-&gt;[ConceptAngsty]</li>
+    <li>Outlander-&gt;[PersonJob]</li>
+    <li>Outlander-&gt;[PersonAlly]</li>
+    <li>Outlanders_gen-&gt;[PersonJobs_gen]</li>
+    <li>Outlanders_gen-&gt;[PersonAllies_gen]</li>
+    <li>Mechanoid(p=6)-&gt;[Mechanoid_masc]</li>
+    <li>Mechanoid-&gt;[Mechanoid_fem]</li>
+    <li>Mechanoid_gen(p=6)-&gt;[Mechanoid_masc_gen]</li>
+    <li>Mechanoid_gen-&gt;[Mechanoid_fem_gen]</li>
+    <li>PersonalCharacteristic-&gt;[PersonalCharacteristic_masc]</li>
+    <li>PersonalCharacteristic-&gt;[PersonalCharacteristic_fem]</li>
+    <li>PersonalCharacteristic-&gt;[PersonalCharacteristic_neutral]</li>
+    <li>PersonalCharacteristic-&gt;[PersonalCharacteristic_plural]</li>
+    <li>PersonFamily_gen-&gt;[PersonFamily_masc_gen]</li>
+    <li>PersonFamily_gen-&gt;[PersonFamily_fem_gen]</li>
+    <li>HisWeapon(p=4)-&gt;свой [Weapon_masc]</li>
+    <li>HisWeapon(p=6)-&gt;свою [Weapon_fem_acc]</li>
+    <li>HisWeapon-&gt;своё [Weapon_neutral]</li>
+    <li>Weapon(p=4)-&gt;[Weapon_masc]</li>
+    <li>Weapon(p=6)-&gt;[Weapon_fem]</li>
+    <li>Weapon-&gt;[Weapon_neutral]</li>
+    <li>Weapon_acc(p=4)-&gt;[Weapon_masc]</li>
+    <li>Weapon_acc(p=6)-&gt;[Weapon_fem_acc]</li>
+    <li>Weapon_acc-&gt;[Weapon_neutral]</li>
+    <li>TerrainFeature-&gt;[TerrainFeature_masc]</li>
+    <li>TerrainFeature-&gt;[TerrainFeature_fem]</li>
+    <li>TerrainFeature-&gt;[TerrainFeature_neutral]</li>
+  </GlobalUtility.rulePack.rulesStrings>
+  <TalkTopicsUtility.rulePack.rulesFiles>
+    <li>talktopicheavyfile-&gt;Words/Nouns/TalkTopics_Heavy</li>
+    <li>talktopiclightfile-&gt;Words/Nouns/TalkTopics_Light</li>
+    <li>TerrainFeature_prep-&gt;Words/Nouns/TerrainFeatures_Prepos</li>
+  </TalkTopicsUtility.rulePack.rulesFiles>
+  <TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicAny-&gt;[TalkTopicLight]</li>
+    <li>TalkTopicAny-&gt;[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy-&gt;[talktopicheavyfile]</li>
+    <li>TalkTopicLight(p=25)-&gt;[talktopiclightfile]</li>
+    <li>TalkTopicLight-&gt;об овощах</li>
+    <li>TalkTopicLight-&gt;о пользе овощей</li>
+    <li>TalkTopicLight-&gt;о приготовлении овощей</li>
+    <li>TalkTopicLight-&gt;об игре в [Game]</li>
+    <li>TalkTopicLight-&gt;о практике игры в [Game]</li>
+    <li>TalkTopicLight-&gt;о правилах игры в [Game]</li>
+    <li>TalkTopicLight-&gt;о животных</li>
+    <li>TalkTopicLight-&gt;про обучение животных</li>
+    <li>TalkTopicLight-&gt;про то, как приручается [Animal]</li>
+    <li>TalkTopicLight-&gt;про то, как дерётся [Animal]</li>
+    <li>TalkTopicLight-&gt;про то, какую опасность представляет [Animal]</li>
+    <li>TalkTopicLight-&gt;про [Weapon_acc]</li>
+    <li>TalkTopicLight-&gt;про то, как можно применять [Weapon_acc]</li>
+    <li>TalkTopicLight-&gt;про то, какую опасность представляет [Weapon]</li>
+    <li>TalkTopicLight-&gt;о [TerrainFeature_prep]</li>
+    <li>TalkTopicLight-&gt;про [Outlanders_gen]</li>
+    <li>TalkTopicLight-&gt;про [Enemies_gen]</li>
+    <li>TalkTopicLight-&gt;про то, какую опасность представляют [Enemies]</li>
+    <li>TalkTopicLight-&gt;про [Apparel]</li>
+    <li>TalkTopicLight-&gt;про то, как носить [Apparel]</li>
+    <li>TalkTopicLight-&gt;про то, как правильно делать [Apparel]</li>
+  </TalkTopicsUtility.rulePack.rulesStrings>
+</LanguageData>

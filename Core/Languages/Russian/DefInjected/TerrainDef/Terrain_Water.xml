@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HotSpring.label>вода горячего источника</HotSpring.label>
+  <HotSpring.tools.water.label>вода</HotSpring.tools.water.label>
+  <ToxicWaterDeep.label>токсичная глубокая вода</ToxicWaterDeep.label>
+  <ToxicWaterDeep.tools.water.label>вода</ToxicWaterDeep.tools.water.label>
+  <ToxicWaterMovingChestDeep.label>токсичное течение по грудь</ToxicWaterMovingChestDeep.label>
+  <ToxicWaterMovingChestDeep.tools.water.label>вода</ToxicWaterMovingChestDeep.tools.water.label>
+  <ToxicWaterMovingShallow.label>токсичное мелководное течение</ToxicWaterMovingShallow.label>
+  <ToxicWaterMovingShallow.tools.water.label>вода</ToxicWaterMovingShallow.tools.water.label>
+  <ToxicWaterOceanDeep.label>токсичные глубины океана</ToxicWaterOceanDeep.label>
+  <ToxicWaterOceanDeep.tools.water.label>вода</ToxicWaterOceanDeep.tools.water.label>
+  <ToxicWaterOceanShallow.label>токсичное океаническое мелководье</ToxicWaterOceanShallow.label>
+  <ToxicWaterOceanShallow.tools.water.label>вода</ToxicWaterOceanShallow.tools.water.label>
+  <ToxicWaterShallow.label>токсичное мелководье</ToxicWaterShallow.label>
+  <ToxicWaterShallow.tools.water.label>вода</ToxicWaterShallow.tools.water.label>
+</LanguageData>

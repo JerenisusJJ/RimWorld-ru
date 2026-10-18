@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ArrestingCreatesEnemies.label>Арест ухудшает отношения с фракциями</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.helpText>Внимание: Человек, которого вы попытаетесь арестовать, может начать сопротивляться.\n\nЕсли вы арестуете не поселенца или поселенца из другой фракции, вся эта фракция станет вашим врагом.\n\nС учётом социальных навыков поселенца, проводящего арест, шанс успеха составляет {0}.</ArrestingCreatesEnemies.helpText>
+  <MaxNumberOfPlayerSettlements.label>Максимальное число поселений</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.helpText>Внимание: RimWorld рассчитан на то, чтобы игрок управлял только одним поселением за игру. Управлять несколькими поселениями можно, но это экспериментальная функция.\n\nОдновременное управление поселениями нарушит игровой баланс, а сосредоточиться и держать в памяти происходящее станет значительно сложнее. Также возможны проблемы с производительностью.\n\nРекомендуется играть с одним поселением, хотя бы в несколько первых раз.</MaxNumberOfPlayerSettlements.helpText>
+  <SteamDeckControlsGame.label>управление со Steam Deck</SteamDeckControlsGame.label>
+  <SteamDeckControlsGame.helpText>Нажмите X, чтобы открыть меню «Проекты», и {Key:TogglePause}, чтобы поставить на паузу или продолжить игру. Для обычного и альтернативного щелчков используйте курки. Для работы со списками, увеличения и уменьшения масштаба служат кнопки {Key:MapZoom_In} и {Key:MapZoom_Out}. Зажмите кнопку L5, чтобы перемещать камеру при помощи тачскрина и эмулировать альтернативные щелчки.</SteamDeckControlsGame.helpText>
+  <SteamDeckControlsMainMenu.label>управление со Steam Deck</SteamDeckControlsMainMenu.label>
+  <SteamDeckControlsMainMenu.helpText>Используйте трэкпад для перемещения указателя и правый курок для щелчка. Нажмите {Key:Accept} для применения изменений и {Key:Cancel} для перехода назад.</SteamDeckControlsMainMenu.helpText>
+  <SwitchFlickingDesignation.label>Приказ о переключении</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.helpText>Примечание: Это действие — лишь приказ поселенцам.\n\nНичего не произойдёт, пока поселенец, назначенный оператором, не подойдёт и не переключит выключатель вручную.</SwitchFlickingDesignation.helpText>
+  <TradeGoodsMustBeNearBeacon.label>Обмен товарами и торговые маяки</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.helpText>Чтобы отправлять товары или серебро орбитальным торговцам, постройте торговый маяк и разместите рядом с ним склад с товарами.</TradeGoodsMustBeNearBeacon.helpText>
+  <TradingRequiresPermit.label>Требования для торговой привилегии</TradingRequiresPermit.label>
+  <TradingRequiresPermit.helpText>Для торговли здесь требуется титул не ниже, чем {0}.\n\nУдостоверьтесь, что в вашем караване есть {0} или кто-либо ещё выше по статусу.</TradingRequiresPermit.helpText>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GotLovin.label>близость</GotLovin.label>
+  <GotLovin_NonSpouse.label>близость вне брака</GotLovin_NonSpouse.label>
+  <GotLovin_Spouse.label>близость со второй половинкой</GotLovin_Spouse.label>
+  <InitiatedLovin.label>близость</InitiatedLovin.label>
+  <SharedBed.label>разделена постель</SharedBed.label>
+  <SharedBed_NonSpouse.label>разделена постель вне брака</SharedBed_NonSpouse.label>
+  <SharedBed_Spouse.label>разделена постель со второй половинкой</SharedBed_Spouse.label>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AttackedMember.label>член фракции атакован</AttackedMember.label>
+  <FriendlyExitedMapTended.label>члену фракции оказан уход</FriendlyExitedMapTended.label>
+  <GuiltyPrisonerDied.label>погиб виновный пленник</GuiltyPrisonerDied.label>
+  <InnocentPrisonerDied.label>погиб невинный пленник</InnocentPrisonerDied.label>
+  <MemberCaptured.label>член фракции захвачен в плен</MemberCaptured.label>
+  <MemberCrushed.label>член фракции попал под обрушение потолка</MemberCrushed.label>
+  <MemberExitedMapHealthy.label>член фракции ушёл в здравии</MemberExitedMapHealthy.label>
+  <MemberKilled.label>убит член фракции</MemberKilled.label>
+  <MemberNeutrallyDied.label>погиб член фракции</MemberNeutrallyDied.label>
+  <MemberSold.label>член фракции продан</MemberSold.label>
+  <MemberStripped.label>член фракции был раздет</MemberStripped.label>
+  <PerformedHarmfulSurgery.label>проведена травмирующая операция на члене фракции</PerformedHarmfulSurgery.label>
+  <PrisonerDied.label>пленник погиб</PrisonerDied.label>
+  <UsedHarmfulItem.label>член фракции пострадал</UsedHarmfulItem.label>
+  <XenogermAbsorbed.label>изъято ксеносемя у члена фракции</XenogermAbsorbed.label>
+</LanguageData>

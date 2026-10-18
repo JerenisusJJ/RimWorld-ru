@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Decree_BuildMonument.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[decreeIntro]\n\nТребуется построить монумент размера [monumentSize] из этих материалов (общей стоимостью [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\nПосле завершения строительства вам нужно сохранить его в целости в течение [keepMonumentTicks_duration], в противном случае [asker_nameDef] будет [asker_displeased].</li>
+    <li>asker_displeased(asker_gender==Male)-&gt;огорчён</li>
+    <li>asker_displeased(asker_gender==Female)-&gt;огорчена</li>
+    <li>asker_offended(asker_gender==Male)-&gt;оскорблён</li>
+    <li>asker_offended(asker_gender==Female)-&gt;оскорблена</li>
+  </Decree_BuildMonument.questDescriptionRules.rulesStrings>
+  <Decree_BuildMonument.questNameRules.rulesStrings>
+    <li>questName-&gt;указ о монументе</li>
+  </Decree_BuildMonument.questNameRules.rulesStrings>
+  <Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>Новая метка монумента прибыла</Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>
+  <Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>Поскольку метка монумента уничтожена, вам отправили новую.</Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>
+  <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>Монумент завершён</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
+  <Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>Вы завершили строительство монумента.\n\nВам нужно сохранить его в целости в течение [keepMonumentTicks_duration], в противном случае [asker_nameDef] будет [asker_displeased].</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
+  <Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>Монумент уничтожен</Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>
+  <Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>[asker_nameDef] [asker_offended] тем, что вы допустили разрушение монумента так скоро после завершения строительства.\n\n[asker_pronoun] [asker_displeased] вашей безответственностью.</Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>Не допускайте разрушения монумента в течение {0}</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>Не допускайте разрушения монумента в течение {0}</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
+  <Decree_BuildMonument.KeepMonument.slateRef>Сохраняйте монумент {0}</Decree_BuildMonument.KeepMonument.slateRef>
+  <Decree_HarvestCrop.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[decreeIntro]\n\nНужно собрать [plantToHarvest_label] в количестве [harvestItemCount] ед.\n\nДля этого вам может потребоваться сначала это растение посадить и вырастить.\n\n[decreeThreatInfo]</li>
+  </Decree_HarvestCrop.questDescriptionRules.rulesStrings>
+  <Decree_HarvestCrop.questNameRules.rulesStrings>
+    <li>questName-&gt;указ о сборе ([plantToHarvest_label])</li>
+  </Decree_HarvestCrop.questNameRules.rulesStrings>
+  <Decree_HuntAnimal.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[decreeIntro]\n\nВам нужно убить на охоте или забить [animalToHuntWithCount].\n\n[decreeThreatInfo]</li>
+    <li>animalToHuntWithCount(countToHunt==1)-&gt;[animalToHunt_indefinite]</li>
+    <li>animalToHuntWithCount(countToHunt!=1)-&gt;[countToHunt] [animalToHunt_labelPlural]</li>
+  </Decree_HuntAnimal.questDescriptionRules.rulesStrings>
+  <Decree_HuntAnimal.questNameRules.rulesStrings>
+    <li>questName-&gt;указ об охоте ([animalToHunt_labelPlural])</li>
+  </Decree_HuntAnimal.questNameRules.rulesStrings>
+  <Decree_ProduceItem.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[decreeIntro]\n\nВам нужно изготовить:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
+  </Decree_ProduceItem.questDescriptionRules.rulesStrings>
+  <Decree_ProduceItem.questNameRules.rulesStrings>
+    <li>questName-&gt;указ о производстве ([defToProduce_label])</li>
+  </Decree_ProduceItem.questNameRules.rulesStrings>
+</LanguageData>

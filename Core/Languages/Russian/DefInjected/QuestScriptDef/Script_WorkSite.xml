@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили [siteLabel] под контролем фракции [faction_name] неподалёку.\n\nВы можете разграбить лагерь и забрать себе [loot]. [raidConsequences]\n\nЛагерь будет свёрнут через [timeout_duration].</li>
+    <li>raidConsequences(faction_temporary==false)-&gt;[faction_name] при этом станет враждебной, если ещё таковой не является.</li>
+    <li>raidConsequences(faction_temporary==true)-&gt;Так как [faction_name] — лишь маленькая и независимая группа, нападать на них можно без каких-либо дипломатических последствий.</li>
+  </OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings>
+    <li>questName-&gt;Обнаружено: [site_label]</li>
+  </OpportunitySite_WorkSite.questNameRules.rulesStrings>
+</LanguageData>

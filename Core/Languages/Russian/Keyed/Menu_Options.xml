@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Audiovisuals>Аудио и видео</Audiovisuals>
+  <MasterVolume>Общая громкость</MasterVolume>
+  <GameVolume>Громкость игры</GameVolume>
+  <MusicVolume>Громкость музыки</MusicVolume>
+  <AmbientVolume>Громкость окружения</AmbientVolume>
+  <UIVolume>Громкость интерфейса</UIVolume>
+  <MasterVolumeTooltip>Влияет на всё звуки</MasterVolumeTooltip>
+  <GameVolumeTooltip>Влияет на звуки игрового мира, например при рубке деревьев или строительстве.</GameVolumeTooltip>
+  <MusicVolumeTooltip>Влияет на музыку.</MusicVolumeTooltip>
+  <AmbientVolumeTooltip>Влияет на звуки окружения: ветра, насекомых и прочего.</AmbientVolumeTooltip>
+  <UIVolumeTooltip>Влияет на звуки интерфейса, например щелчки кнопок и уведомления.</UIVolumeTooltip>
+  <Antialiasing>Сглаживание</Antialiasing>
+  <RememberDrawStyle>Запомнить режимы размещения</RememberDrawStyle>
+  <RememberDrawStyle_Tooltip>Если включено, режимы размещения не будут сбрасываться к режиму по умолчанию при создании новых сооружений и областей.</RememberDrawStyle_Tooltip>
+  <ZoomSwitchLayer>Масштабирование меняет слои карты</ZoomSwitchLayer>
+  <ZoomSwitchLayer_Tooltip>Если включено, уменьшение масштаба на карте мира переключит вид на орбитальный. Увеличение масштаба переключит вид обратно на планету.</ZoomSwitchLayer_Tooltip>
+  <EdgeScreenScroll>Прокрутка курсором краёв экрана</EdgeScreenScroll>
+  <ZoomToMouse>Приближать камеру к курсору</ZoomToMouse>
+  <PauseOnLoad>Пауза после загрузки</PauseOnLoad>
+  <PauseOnUrgentLetter>Пауза при срочном сообщении</PauseOnUrgentLetter>
+  <AutomaticPauseModeSetting>Пауза при событиях</AutomaticPauseModeSetting>
+  <CustomCursor>Использовать системный курсор</CustomCursor>
+  <HatsShownOnlyOnMap>Скрыть гол. уборы в интерфейсе</HatsShownOnlyOnMap>
+  <UIScale>Масштаб UI</UIScale>
+  <KeyboardConfig>Настройки клавиатуры</KeyboardConfig>
+  <ControllerConfig>Настройки контроллера</ControllerConfig>
+  <ModifyConfig>Изменить</ModifyConfig>
+  <ChooseLanguage>Выбор языка</ChooseLanguage>
+  <ResetAdaptiveTutor>Сбросить обучение</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Обучение сброшено. Всё уроки будут даны заново.</AdaptiveTutorIsReset>
+  <SteamDeckKeyboardMode>Режим клавиатуры</SteamDeckKeyboardMode>
+  <RunInBackground>Работать в фоновом режиме</RunInBackground>
+  <DevelopmentMode>Режим разработчика</DevelopmentMode>
+  <ResetModsConfigOnCrash>Сброс конф. модов при ошибке</ResetModsConfigOnCrash>
+  <DisableQuickStartCryptoSickness>Быстрый запуск без криптосонной болезни</DisableQuickStartCryptoSickness>
+  <StartDevPaletteOn>Запускать игру с палитрой разработчика</StartDevPaletteOn>
+  <OpenLogOnWarnings>Открывать лог при предупреждениях</OpenLogOnWarnings>
+  <CloseLogWindowOnEscape>Закрывать лог при нажатии отмены</CloseLogWindowOnEscape>
+  <LogVerbose>Подробный журнал</LogVerbose>
+  <SaveGameDataFolder>Папка с сохранениями</SaveGameDataFolder>
+  <SaveGameDataLocation>Расположение сохранений</SaveGameDataLocation>
+  <LogFileFolder>Папка с журналом</LogFileFolder>
+  <LogFileLocation>Расположение журнала</LogFileLocation>
+  <OpenFolder>Открыть</OpenFolder>
+  <ShowFolder>Показать</ShowFolder>
+  <NamesYouWantToSee>Желаемые имена персонажей</NamesYouWantToSee>
+  <NamesYouWantToSeeSubText>Персонажи с этими именами будут чаще встречаться в игре.</NamesYouWantToSeeSubText>
+  <AddName>Добавить имя</AddName>
+  <TypeFirstNickOrLastName>Введите имя, прозвище или фамилию.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Это имя уже есть в списке.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Настройки рассказчика</ChangeStoryteller>
+  <AutosaveInterval>Период автосохр.</AutosaveInterval>
+  <AutosaveIntervalTooltip>Число внутриигровых дней между автосохранениями.</AutosaveIntervalTooltip>
+  <TemperatureMode>Ед. температуры</TemperatureMode>
+  <ShowRealtimeClock>Показывать реальное время</ShowRealtimeClock>
+  <TwelveHourClockMode>12-часовой формат</TwelveHourClockMode>
+  <DisableTinyText>Отключить мелкий шрифт</DisableTinyText>
+  <MaxNumberOfPlayerSettlements>Максимальное число поселений: {0}</MaxNumberOfPlayerSettlements>
+  <AutosavesCount>Число автосохранений: {0}</AutosavesCount>
+  <MapDragSensitivity>Чувств-ть мыши при прокрутке</MapDragSensitivity>
+  <PlantWindSway>Покачивание растений на ветру</PlantWindSway>
+  <EnableTestMapSizes>Задействовать тестовые размеры карт</EnableTestMapSizes>
+  <MaxPermadeathAutosaveIntervalInfo>Максимальный интервал автосохранения в «ответственном» режиме — {0_numCase ? день : дня : дней}.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Настройки модов</ModSettings>
+  <PermanentlyDisableDevMode>Навсегда отключить режим разработчика</PermanentlyDisableDevMode>
+  <TextureCompression>Сжатие текстур</TextureCompression>
+  <TextureCompression_Tooltip>Несжатые текстуры требуют гораздо больше видеопамяти для хранения, но позволяют немного лучше разглядеть мелкие детали. Отключайте сжатие, только если уверены, что у вас хватит памяти.\n\nОбратите внимание, что некоторые моды часто тоже потребляют много видеопамяти, и в этом случае вам, возможно, понадобится вновь включить сжатие.</TextureCompression_Tooltip>
+  <SmoothCameraJumps>Плавные перемещения камеры</SmoothCameraJumps>
+  <SmoothCameraJumpsDesc>Если включено, при переходе к назначенному месту камера будет быстро, но плавно перемещаться. Если выключено, камера будет «прыгать» мгновенно.</SmoothCameraJumpsDesc>
+  <GravshipCutscenes>Кат-сцены с гравикораблём</GravshipCutscenes>
+  <GravshipCutscenesDesc>Если отключено, гравикорабли будут взлетать и садиться мгновенно.</GravshipCutscenesDesc>
+  <Resolution>Разрешение экрана</Resolution>
+  <Fullscreen>Во весь экран</Fullscreen>
+  <BorderlessFullscreen>Во весь экран без рамок</BorderlessFullscreen>
+  <BorderlessFullscreenInstructions>Чтобы запустить RimWorld во весь экран без рамок:\n\n1) Откройте Steam\n2) Перейдите во вкладку «Библиотека»\n3) Найдите в списке RimWorld и щёлкните по нему правой кнопкой\n4) Выберите «Свойства…»\n5) Добавьте «-popupwindow» без кавычек в строку «Параметры запуска» на вкладке «Общие»\n6) Перезапустите игру\n7) Если всё сделано правильно, вы не увидите этого окна\n\nПодсказка: чтобы перемещать окно между вашими мониторами, используйте комбинацию Windows + Shift + Влево/Вправо.</BorderlessFullscreenInstructions>
+  <SelectMod>Выбор мода…</SelectMod>
+  <NoConfigurableMods>Нет настраиваемых модов.</NoConfigurableMods>
+  <RestoreToDefaultSettingsLabel>Восстановить всё настройки по умолчанию</RestoreToDefaultSettingsLabel>
+  <RestoreToDefaultSettings>Восстановить по умолчанию</RestoreToDefaultSettings>
+  <ResetAndRestart>Были восстановлены настройки по умолчанию. Игра перезапустится автоматически.</ResetAndRestart>
+  <ResetAndRestartConfirmationDialog>Всё настройки будут сброшены, а игра перезапустится. Несохранённый прогресс будет потерян.\n\nПродолжить?</ResetAndRestartConfirmationDialog>
+  <ChangedTextureCompressionRestart>Включение или отключение сжатия текстур требует перезапуска игры. Несохранённый прогресс будет потерян.\n\nПродолжить?</ChangedTextureCompressionRestart>
+  <SetBackgroundImage>Фон главного меню</SetBackgroundImage>
+</LanguageData>

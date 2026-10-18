@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MonolithMigration.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Ваши поселенцы слышат эхо психического послания. Оно исходит от извращённого нечеловеческого разума, который когда-то давно оставили далеко позади. Вы можете сосредоточиться на эхо и выслать ответ, но, что он за собой повлечёт, сложно даже предположить.</li>
+  </MonolithMigration.questDescriptionRules.rulesStrings>
+  <MonolithMigration.questNameRules.rulesStrings>
+    <li>questName-&gt;Странный сигнал</li>
+  </MonolithMigration.questNameRules.rulesStrings>
+</LanguageData>

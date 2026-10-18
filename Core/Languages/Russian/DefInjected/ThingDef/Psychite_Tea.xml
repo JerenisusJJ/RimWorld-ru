@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PsychiteTea.label>психиновый чай</PsychiteTea.label>
+  <PsychiteTea.description>Ароматный чай из психолиста, вызывающий лёгкий эффект эйфории. Очень прост в приготовлении, но при слишком частом употреблении вызывает привыкание.\n\nЭтот чай вошёл в быт многих племён как тонизирующий напиток, а также как часть социальных и религиозных обычаев.</PsychiteTea.description>
+  <PsychiteTea.ingestible.ingestCommandString>Пить {lookup: {0}; Case; 3}</PsychiteTea.ingestible.ingestCommandString>
+  <PsychiteTea.ingestible.ingestReportString>Пьёт {lookup: {0}; Case; 3}</PsychiteTea.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Breakup.label>расставание</Breakup.label>
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] говорит [RECIPIENT_nameDef], что хочет расстаться.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] просит [RECIPIENT_nameDef] дать [INITIATOR_objective] немного свободы.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] говорит [RECIPIENT_nameDef], что их отношения зашли в тупик.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] предлагает [RECIPIENT_nameDef] остаться друзьями.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] предлагает [RECIPIENT_nameDef] сделать перерыв в отношениях.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] предлагает [RECIPIENT_nameDef] отдохнуть друг от друга.</li>
+  </Breakup.logRulesInitiator.rulesStrings>
+  <MarriageProposal.label>свадебное предложение</MarriageProposal.label>
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] предлагает [RECIPIENT_nameDef] свои руку и сердце.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] предлагает [RECIPIENT_nameDef] связать их судьбы узами брака.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] предлагает [RECIPIENT_nameDef] прожить свои жизни рядом друг с другом.</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
+  <RomanceAttempt.label>флирт</RomanceAttempt.label>
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef], [wootactic].</li>
+    <li>wooed-&gt;пытается флиртовать с</li>
+    <li>wooed-&gt;флиртует с</li>
+    <li>wooed-&gt;пытается привлечь к себе внимание</li>
+    <li>wooed-&gt;пытается добиться расположения</li>
+    <li>wooed-&gt;пытается завести роман с</li>
+    <li>wooed-&gt;пытается кадрить</li>
+    <li>wooed-&gt;подкатывает к</li>
+    <li>wooed-&gt;подбивает клинья к</li>
+    <li>wooed-&gt;заигрывает с</li>
+    <li>wooed-&gt;строит глазки</li>
+    <li>wootactic(p=4)-&gt;[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic(p=0.5)-&gt;[boasting] свой [PersonalCharacteristic_masc]</li>
+    <li>wootactic(p=0.5)-&gt;[boasting] свою [PersonalCharacteristic_fem]</li>
+    <li>wootactic(p=0.5)-&gt;[boasting] своё [PersonalCharacteristic_neutral]</li>
+    <li>wootactic(p=0.5)-&gt;[boasting] свои [PersonalCharacteristic_plural]</li>
+    <li>wootactic(p=2)-&gt;рассказывая историю [TalkTopicLight]</li>
+    <li>wootactic(p=2)-&gt;рассказывая историю [TalkTopicHeavy]</li>
+    <li>wootactic-&gt;сравнивая [RECIPIENT_possessive] с [romantic_adj] [romantic_noun]</li>
+    <li>wootactic-&gt;сравнивая [RECIPIENT_possessive] [PersonalCharacteristic] с [romantic_adj] [romantic_noun]</li>
+    <li>boasting-&gt;[boasting_adverb] нахваливая</li>
+    <li>boasting-&gt;[boasting_adverb] показывая</li>
+    <li>boasting-&gt;[boasting_adverb] демонстрируя</li>
+    <li>boasting-&gt;[boasting_adverb] упоминая в разговоре</li>
+    <li>boasting-&gt;[boasting_adverb] преувеличивая</li>
+    <li>boasting-&gt;[boasting_adverb] выпячивая</li>
+    <li>boasting-&gt;[boasting_adverb] выставляя напоказ</li>
+    <li>boasting_adverb(p=5)-&gt;</li>
+    <li>boasting_adverb-&gt;важно</li>
+    <li>boasting_adverb-&gt;изящно</li>
+    <li>boasting_adverb-&gt;гордо</li>
+    <li>boasting_adverb-&gt;горделиво</li>
+    <li>boasting_adverb-&gt;хвастливо</li>
+    <li>boasting_adverb-&gt;нескромно</li>
+    <li>boasting_adverb-&gt;тонко</li>
+    <li>boasting_adverb-&gt;навязчиво</li>
+    <li>boasting_adverb-&gt;ненавязчиво</li>
+    <li>boasting_adverb-&gt;как бы невзначай</li>
+    <li>boasting_adverb-&gt;как бы ненароком</li>
+    <li>boasting_adverb-&gt;с чувством собственной важности</li>
+    <li>boasting_adverb-&gt;с выражением превосходства на лице</li>
+    <li>complimenting(p=3)-&gt;[complimenting_adverb] хваля</li>
+    <li>complimenting-&gt;[complimenting_adverb] осыпая комплиментами</li>
+    <li>complimenting-&gt;[complimenting_adverb] нахваливая</li>
+    <li>complimenting-&gt;по достоинству оценивая</li>
+    <li>complimenting-&gt;[complimenting_adverb] говоря приятные слова про</li>
+    <li>complimenting(p=2)-&gt;[complimenting_adverb] шутя про</li>
+    <li>complimenting-&gt;задавая ехидный вопрос про</li>
+    <li>complimenting-&gt;отпуская колкий комментарий про</li>
+    <li>complimenting_adverb(p=3)-&gt;</li>
+    <li>complimenting_adverb-&gt;тонко</li>
+    <li>complimenting_adverb-&gt;изящно</li>
+    <li>complimenting_adverb-&gt;игриво</li>
+    <li>complimenting_adverb-&gt;заигрывающе</li>
+    <li>complimenting_adverb-&gt;как бы между делом</li>
+    <li>complimenting_adverb-&gt;бесстыдно</li>
+    <li>complimenting_adverb-&gt;не стесняясь</li>
+    <li>complimenting_adverb-&gt;самозабвенно</li>
+    <li>romantic_adj-&gt;красотой</li>
+    <li>romantic_adj-&gt;сиянием</li>
+    <li>romantic_adj-&gt;мерцанием</li>
+    <li>romantic_adj-&gt;золотом</li>
+    <li>romantic_adj-&gt;очарованием</li>
+    <li>romantic_adj-&gt;великолепием</li>
+    <li>romantic_adj-&gt;нежностью</li>
+    <li>romantic_adj-&gt;изяществом</li>
+    <li>romantic_adj-&gt;величием</li>
+    <li>romantic_adj(p=2)-&gt;[romantic_adj_badass]</li>
+    <li>romantic_adj_badass-&gt;неудержимостью</li>
+    <li>romantic_adj_badass-&gt;бешенством</li>
+    <li>romantic_adj_badass-&gt;безумием</li>
+    <li>romantic_adj_badass-&gt;дикостью</li>
+    <li>romantic_adj_badass-&gt;огнём</li>
+    <li>romantic_adj_badass-&gt;холодом</li>
+    <li>romantic_adj_badass-&gt;гибельностью</li>
+    <li>romantic_adj_badass-&gt;бессердечием</li>
+    <li>romantic_adj_badass-&gt;ужасом</li>
+    <li>romantic_adj_badass-&gt;тьмой</li>
+    <li>romantic_adj_badass-&gt;лютостью</li>
+    <li>romantic_adj_badass-&gt;суровостью</li>
+    <li>romantic_adj_badass-&gt;гневом</li>
+    <li>romantic_adj_badass-&gt;свирепостью</li>
+    <li>romantic_adj_badass-&gt;яростью</li>
+    <li>romantic_noun-&gt;цветка</li>
+    <li>romantic_noun-&gt;ручья</li>
+    <li>romantic_noun-&gt;реки</li>
+    <li>romantic_noun-&gt;звезды</li>
+    <li>romantic_noun-&gt;луны</li>
+    <li>romantic_noun-&gt;солнца</li>
+    <li>romantic_noun-&gt;полярного сияния</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
+</LanguageData>

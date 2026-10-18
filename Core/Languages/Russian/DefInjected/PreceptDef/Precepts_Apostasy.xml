@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apostasy_Abhorrent.label>чудовищно</Apostasy_Abhorrent.label>
+  <Apostasy_Abhorrent.description>Отказ от нашей идеолигии есть апогей безнравственности.</Apostasy_Abhorrent.description>
+  <Apostasy_Abhorrent.comps.0.description>Сменена идеолигия</Apostasy_Abhorrent.comps.0.description>
+  <Apostasy_Disapproved.label>порицается</Apostasy_Disapproved.label>
+  <Apostasy_Disapproved.description>Отказ от нашей идеолигии говорит о недостатках характера.</Apostasy_Disapproved.description>
+  <Apostasy_Disapproved.comps.0.description>Сменена идеолигия</Apostasy_Disapproved.comps.0.description>
+  <Apostasy_Horrible.label>ужасно</Apostasy_Horrible.label>
+  <Apostasy_Horrible.description>Отказ от нашей идеолигии говорит о моральных изъянах.</Apostasy_Horrible.description>
+  <Apostasy_Horrible.comps.0.description>Сменена идеолигия</Apostasy_Horrible.comps.0.description>
+</LanguageData>

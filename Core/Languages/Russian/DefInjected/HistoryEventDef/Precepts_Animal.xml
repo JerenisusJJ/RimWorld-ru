@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AteVeneratedAnimalMeat.label>съедено мясо священного животного</AteVeneratedAnimalMeat.label>
+  <HuntedVeneratedAnimal.label>убито священное животное</HuntedVeneratedAnimal.label>
+  <SlaughteredVeneratedAnimal.label>забито священное животное</SlaughteredVeneratedAnimal.label>
+  <TameVeneratedAnimalDied.label>приручённое священное животное погибло</TameVeneratedAnimalDied.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MoodOffsetDepressive.stages.depressive.label>уныние</MoodOffsetDepressive.stages.depressive.label>
+  <MoodOffsetDepressive.stages.depressive.description>Влияние типажа меланхолика.</MoodOffsetDepressive.stages.depressive.description>
+  <MoodOffsetOptimist.stages.optimist.label>оптимизм</MoodOffsetOptimist.stages.optimist.label>
+  <MoodOffsetOptimist.stages.optimist.description>Влияние типажа оптимиста.</MoodOffsetOptimist.stages.optimist.description>
+  <MoodOffsetPessimist.stages.pessimist.label>пессимизм</MoodOffsetPessimist.stages.pessimist.label>
+  <MoodOffsetPessimist.stages.pessimist.description>Влияние типажа пессимиста.</MoodOffsetPessimist.stages.pessimist.description>
+  <MoodOffsetSanguine.stages.sanguine.label>жизнерадостность</MoodOffsetSanguine.stages.sanguine.label>
+  <MoodOffsetSanguine.stages.sanguine.description>Влияние типажа сангвиника.</MoodOffsetSanguine.stages.sanguine.description>
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.label>творческая натура</MoodOffsetTorturedArtist.stages.Tortured_artist.label>
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.description>Влияние типажа непонятого творца.</MoodOffsetTorturedArtist.stages.Tortured_artist.description>
+</LanguageData>

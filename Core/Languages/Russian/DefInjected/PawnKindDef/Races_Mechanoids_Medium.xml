@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mech_Legionary.label>легионер</Mech_Legionary.label>
+  <Mech_Legionary.labelPlural>легионеры</Mech_Legionary.labelPlural>
+  <Mech_Scorcher.label>испепелитель</Mech_Scorcher.label>
+  <Mech_Scorcher.labelPlural>испепелители</Mech_Scorcher.labelPlural>
+  <Mech_Tesseron.label>тессерон</Mech_Tesseron.label>
+  <Mech_Tesseron.labelPlural>тессероны</Mech_Tesseron.labelPlural>
+</LanguageData>

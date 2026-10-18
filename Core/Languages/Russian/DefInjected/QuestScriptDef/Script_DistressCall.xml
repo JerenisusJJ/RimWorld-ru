@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_DistressCall.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы перехватили сигнал бедствия из ближайшего лагеря фракции [faction_name].\n\nКто-то перепуганным голосом просил помочь им как можно скорее. В обмен на помощь он предлагал всё, что только есть у них в лагере, включая мощные архо-осколки.\n\nКогда потерпевший попытался объяснить, что именно случилось, связь оборвалась.</li>
+  </OpportunitySite_DistressCall.questDescriptionRules.rulesStrings>
+  <OpportunitySite_DistressCall.questNameRules.rulesStrings>
+    <li>questName-&gt;Сигнал бедствия</li>
+  </OpportunitySite_DistressCall.questNameRules.rulesStrings>
+</LanguageData>

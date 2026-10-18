@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <UnknownAdulthood.description>Невозможно узнать, откуда [PAWN_nameDef] родом.</UnknownAdulthood.description>
+  <UnknownAdulthood.title>неизвестно</UnknownAdulthood.title>
+  <UnknownAdulthood.titleShort>неизвестно</UnknownAdulthood.titleShort>
+  <UnknownChildhood.description>Невозможно узнать, откуда [PAWN_nameDef] родом.</UnknownChildhood.description>
+  <UnknownChildhood.title>неизвестно</UnknownChildhood.title>
+  <UnknownChildhood.titleShort>неизвестно</UnknownChildhood.titleShort>
+</LanguageData>

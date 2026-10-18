@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CureAbasia.label>ввести противоабазийные механиты</CureAbasia.label>
+  <CureAbasia.description>Введение большой дозы механитов для улучшения питания мозговых тканей и координированной реорганизации нейронов без повреждения мозга. Это позволяет исцелить абазию, но требует большого количества передовых медикаментов.</CureAbasia.description>
+  <CureAbasia.jobString>вводит противоабазийные механиты</CureAbasia.jobString>
+  <CureAbasia.successfullyRemovedHediffMessage>{0} успешно исцеляет {1} от абазии.</CureAbasia.successfullyRemovedHediffMessage>
+  <CureBloodRot.label>вылечить гнилокровие</CureBloodRot.label>
+  <CureBloodRot.description>Провести особую процедуру лечения от гнилокровия путём введения пациенту большой дозы механитов-бактериофагов.</CureBloodRot.description>
+  <CureBloodRot.jobString>Лечит гнилокровие</CureBloodRot.jobString>
+  <CureBloodRot.successfullyRemovedHediffMessage>{0} успешно исцеляет {1} от гнилокровия.</CureBloodRot.successfullyRemovedHediffMessage>
+</LanguageData>

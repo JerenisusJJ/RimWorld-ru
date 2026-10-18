@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Assault.label>обычное нападение</Assault.label>
+  <Assault.message>{PAWN_nameDef} переполняется агрессией!</Assault.message>
+  <FleshbeastEmergence.label>появление биошмата</FleshbeastEmergence.label>
+  <FleshbeastEmergence.letterDesc>{PAWN_nameDef} превращается в отвратительного биошмата!</FleshbeastEmergence.letterDesc>
+  <FleshbeastEmergence.letterLabel>{PAWN_nameDef} превращается</FleshbeastEmergence.letterLabel>
+  <SightstealerAttack.label>нападение взглядокрадов</SightstealerAttack.label>
+  <SightstealerAttack.letterDesc>{PAWN_nameDef} испускает жуткий, почти нечеловеческий вопль.\n\nИздалека эхом отзываются другие.\n\nТеперь они придут сюда…</SightstealerAttack.letterDesc>
+  <SightstealerAttack.letterLabel>{PAWN_nameDef} жутко воет</SightstealerAttack.letterLabel>
+</LanguageData>

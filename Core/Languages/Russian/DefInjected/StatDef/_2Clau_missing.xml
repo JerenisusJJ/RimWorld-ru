@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: A multiplier applied to a caravan's speed when this person is part of a caravan. -->
+	<CaravanBonusSpeedFactor.description>Множитель, применяемый к скорости каравана, когда этот человек является его частью.</CaravanBonusSpeedFactor.description>
+	<!-- EN: caravan speed factor -->
+	<CaravanBonusSpeedFactor.label>множитель скорости каравана</CaravanBonusSpeedFactor.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ExpectationsSlave.stages.destitute_slave_expectations.label>отчаянные ожидания раба</ExpectationsSlave.stages.destitute_slave_expectations.label>
+  <ExpectationsSlave.stages.destitute_slave_expectations.description>Я в рабстве у людей, находящихся в бедственном положении. Я вообще ничего не жду.</ExpectationsSlave.stages.destitute_slave_expectations.description>
+  <ExpectationsSlave.stages.poor_slave_expectations.label>крайне низкие ожидания раба</ExpectationsSlave.stages.poor_slave_expectations.label>
+  <ExpectationsSlave.stages.poor_slave_expectations.description>Я в рабстве у людей с серьёзными проблемами. Я очень мало чего жду.</ExpectationsSlave.stages.poor_slave_expectations.description>
+  <ExpectationsSlave.stages.meager_slave_expectations.label>низкие ожидания раба</ExpectationsSlave.stages.meager_slave_expectations.label>
+  <ExpectationsSlave.stages.meager_slave_expectations.description>Я в рабстве у людей с некоторыми проблемами. Я мало чего жду.</ExpectationsSlave.stages.meager_slave_expectations.description>
+  <ExpectationsSlave.stages.slave_expectations.label>ожидания раба</ExpectationsSlave.stages.slave_expectations.label>
+  <ExpectationsSlave.stages.slave_expectations.description>Я в рабстве и не ожидаю многого от своего положения.</ExpectationsSlave.stages.slave_expectations.description>
+</LanguageData>

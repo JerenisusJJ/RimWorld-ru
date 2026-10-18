@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bow_Great_Unique.label>уникальный длинный лук</Bow_Great_Unique.label>
+  <Bow_Great_Unique.description>Длинный лук с индивидуальными деталями.</Bow_Great_Unique.description>
+  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>длинный лук</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>лук</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Bow_Great_Unique.tools.limb.label>плечо</Bow_Great_Unique.tools.limb.label>
+  <Bow_Great_Unique.verbs.Verb_Shoot.label>уникальный длинный лук</Bow_Great_Unique.verbs.Verb_Shoot.label>
+  <Gun_AssaultRifle_Unique.label>уникальный автомат</Gun_AssaultRifle_Unique.label>
+  <Gun_AssaultRifle_Unique.description>Автомат с индивидуальными деталями.</Gun_AssaultRifle_Unique.description>
+  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>автомат</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>карабин</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>боевой карабин</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>винтовка войны</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>военное оружие</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>фузея</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <Gun_AssaultRifle_Unique.tools.stock.label>приклад</Gun_AssaultRifle_Unique.tools.stock.label>
+  <Gun_AssaultRifle_Unique.tools.barrel.label>ствол</Gun_AssaultRifle_Unique.tools.barrel.label>
+  <Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>уникальный автомат</Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_BeamRepeater_Unique.label>уникальный лучевой репитер</Gun_BeamRepeater_Unique.label>
+  <Gun_BeamRepeater_Unique.description>Лучевой репитер с индивидуальными деталями.</Gun_BeamRepeater_Unique.description>
+  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>репитер</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>повторитель луча</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>лучевая пушка</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_BeamRepeater_Unique.tools.barrels.label>стволы</Gun_BeamRepeater_Unique.tools.barrels.label>
+  <Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>уникальный лучевой репитер</Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>
+  <Gun_BoltActionRifle_Unique.label>уникальная магазинная винтовка</Gun_BoltActionRifle_Unique.label>
+  <Gun_BoltActionRifle_Unique.description>Магазинная винтовка с индивидуальными деталями.</Gun_BoltActionRifle_Unique.description>
+  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>магазинная винтовка</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>трамбовщик</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>болтовка</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>винтовка</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>дальнобой</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>дальнобойщик</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <Gun_BoltActionRifle_Unique.tools.stock.label>приклад</Gun_BoltActionRifle_Unique.tools.stock.label>
+  <Gun_BoltActionRifle_Unique.tools.barrel.label>ствол</Gun_BoltActionRifle_Unique.tools.barrel.label>
+  <Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>уникальная магазинная винтовка</Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_ChainShotgun_Unique.label>уникальный цепной дробовик</Gun_ChainShotgun_Unique.label>
+  <Gun_ChainShotgun_Unique.description>Цепной дробовик с индивидуальными деталями.</Gun_ChainShotgun_Unique.description>
+  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>цепной дробовик</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>дробовик</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>цепной дробовик</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>бластер</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>взрыв-палка</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.5>швабра</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.6>потрошитель</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.6>
+  <Gun_ChainShotgun_Unique.tools.stock.label>приклад</Gun_ChainShotgun_Unique.tools.stock.label>
+  <Gun_ChainShotgun_Unique.tools.barrel.label>ствол</Gun_ChainShotgun_Unique.tools.barrel.label>
+  <Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>уникальный цепной дробовик</Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>
+  <Gun_ChargeLance_Unique.label>уникальное энергокопье</Gun_ChargeLance_Unique.label>
+  <Gun_ChargeLance_Unique.description>Энергокопье с индивидуальными деталями.</Gun_ChargeLance_Unique.description>
+  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>энергокопье</Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_ChargeLance_Unique.tools.barrel.label>ствол</Gun_ChargeLance_Unique.tools.barrel.label>
+  <Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>уникальное энергокопье</Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>
+  <Gun_ChargeRifle_Unique.label>уникальная импульсная винтовка</Gun_ChargeRifle_Unique.label>
+  <Gun_ChargeRifle_Unique.description>Импульсная винтовка с индивидуальными деталями.</Gun_ChargeRifle_Unique.description>
+  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>импульсная винтовка</Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_ChargeRifle_Unique.tools.stock.label>приклад</Gun_ChargeRifle_Unique.tools.stock.label>
+  <Gun_ChargeRifle_Unique.tools.barrel.label>ствол</Gun_ChargeRifle_Unique.tools.barrel.label>
+  <Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>уникальная импульсная винтовка</Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_HeavySMG_Unique.label>уникальный тяжёлый ПП</Gun_HeavySMG_Unique.label>
+  <Gun_HeavySMG_Unique.description>Тяжёлый пистолет-пулемет с индивидуальными деталями.</Gun_HeavySMG_Unique.description>
+  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>тяжелый ПП</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>ПП</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.2>дубасер</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_HeavySMG_Unique.tools.grip.label>рукоять</Gun_HeavySMG_Unique.tools.grip.label>
+  <Gun_HeavySMG_Unique.tools.barrel.label>ствол</Gun_HeavySMG_Unique.tools.barrel.label>
+  <Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>уникальный тяжелый ПП</Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>
+  <Gun_HellcatRifle_Unique.label>уникальная винтовка «Адская фурия»</Gun_HellcatRifle_Unique.label>
+  <Gun_HellcatRifle_Unique.description>Винтовка «Адская фурия» с индивидуальными деталями.</Gun_HellcatRifle_Unique.description>
+  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд горелки</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>винтовка «Адская фурия»</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>адская фурия</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>огнемет</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>огненная пушка</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>сжигатель</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>жгучая пушка</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <Gun_HellcatRifle_Unique.tools.stock.label>приклад</Gun_HellcatRifle_Unique.tools.stock.label>
+  <Gun_HellcatRifle_Unique.tools.barrel.label>ствол</Gun_HellcatRifle_Unique.tools.barrel.label>
+  <Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>уникальная винтовка «Адская фурия»</Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_LMG_Unique.label>уникальный ручной пулемет</Gun_LMG_Unique.label>
+  <Gun_LMG_Unique.description>Ручной пулемет с индивидуальными деталями.</Gun_LMG_Unique.description>
+  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>РПК</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>пулемет</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>ручной пулемет</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_LMG_Unique.tools.stock.label>приклад</Gun_LMG_Unique.tools.stock.label>
+  <Gun_LMG_Unique.tools.barrel.label>ствол</Gun_LMG_Unique.tools.barrel.label>
+  <Gun_LMG_Unique.verbs.Verb_Shoot.label>уникальный ручной пулемет</Gun_LMG_Unique.verbs.Verb_Shoot.label>
+  <Gun_Minigun_Unique.label>уникальный миниган</Gun_Minigun_Unique.label>
+  <Gun_Minigun_Unique.description>Миниган с индивидуальными деталями.</Gun_Minigun_Unique.description>
+  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>миниган</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>пушка Гатлинга</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>шестиствол</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_Minigun_Unique.tools.barrels.label>стволы</Gun_Minigun_Unique.tools.barrels.label>
+  <Gun_Minigun_Unique.verbs.Verb_Shoot.label>уникальный миниган</Gun_Minigun_Unique.verbs.Verb_Shoot.label>
+  <Gun_Revolver_Unique.label>уникальный револьвер</Gun_Revolver_Unique.label>
+  <Gun_Revolver_Unique.description>Револьвер с индивидуальными деталями.</Gun_Revolver_Unique.description>
+  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>револьвер</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.1>шестизарядник</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>стальной</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>курок</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_Revolver_Unique.tools.grip.label>рукоять</Gun_Revolver_Unique.tools.grip.label>
+  <Gun_Revolver_Unique.tools.barrel.label>ствол</Gun_Revolver_Unique.tools.barrel.label>
+  <Gun_Revolver_Unique.verbs.Verb_Shoot.label>уникальный револьвер</Gun_Revolver_Unique.verbs.Verb_Shoot.label>
+  <Gun_SniperRifle_Unique.label>уникальная снайперская винтовка</Gun_SniperRifle_Unique.label>
+  <Gun_SniperRifle_Unique.description>Снайперская винтовка с индивидуальными деталями.</Gun_SniperRifle_Unique.description>
+  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>заряд</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>на перезарядке</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>снайперская винтовка</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>прецизионная винтовка</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>марксманская винтовка</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>снайпер</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>хедшоттер</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>снайперган</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>сталкер</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>ассассинатор</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>
+  <Gun_SniperRifle_Unique.tools.stock.label>приклад</Gun_SniperRifle_Unique.tools.stock.label>
+  <Gun_SniperRifle_Unique.tools.barrel.label>ствол</Gun_SniperRifle_Unique.tools.barrel.label>
+  <Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>уникальная снайперская винтовка</Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>
+</LanguageData>

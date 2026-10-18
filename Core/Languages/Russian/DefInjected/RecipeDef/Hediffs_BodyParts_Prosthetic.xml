@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InstallBloodWarmer.label>установить подогреватель крови</InstallBloodWarmer.label>
+  <InstallBloodWarmer.description>Установите подогреватель крови.</InstallBloodWarmer.description>
+  <InstallBloodWarmer.jobString>Установка подогревателя крови.</InstallBloodWarmer.jobString>
+  <InstallPilotAssistant.label>установить помощника пилота</InstallPilotAssistant.label>
+  <InstallPilotAssistant.description>Установите помощника пилота.</InstallPilotAssistant.description>
+  <InstallPilotAssistant.jobString>Установка помощника пилота.</InstallPilotAssistant.jobString>
+  <RemovePilotAssistant.label>удалить помощника пилота</RemovePilotAssistant.label>
+  <RemovePilotAssistant.description>Удалите помощника пилота.</RemovePilotAssistant.description>
+  <RemovePilotAssistant.jobString>Удаление помощника пилота.</RemovePilotAssistant.jobString>
+  <InstallVacskinGland.label>вживить герметизирующую железу</InstallVacskinGland.label>
+  <InstallVacskinGland.description>Вживляет герметизирующую железу.</InstallVacskinGland.description>
+  <InstallVacskinGland.jobString>Вживляет герметизирующую железу.</InstallVacskinGland.jobString>
+  <RemoveVacskinGland.label>удалить герметизирующую железу</RemoveVacskinGland.label>
+  <RemoveVacskinGland.description>Удаляет герметизирующую железу.</RemoveVacskinGland.description>
+  <RemoveVacskinGland.jobString>Удаляет герметизирующую железу.</RemoveVacskinGland.jobString>
+</LanguageData>

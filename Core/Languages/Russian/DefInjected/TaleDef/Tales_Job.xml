@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AttendedConcert.label>посещение концерта</AttendedConcert.label>
+  <AttendedConcert.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[ATTENDER_nameDef] посещает концерт [ORGANIZER_nameDef]</li>
+    <li>tale_noun-&gt;[ATTENDER_nameDef] слушает игру [ORGANIZER_nameDef]</li>
+    <li>image-&gt;[ATTENDER_nameFull] молча слушает, [circumstance_group]</li>
+    <li>image-&gt;[ATTENDER_nameFull] наслаждается выступлением [ORGANIZER_nameFull], [circumstance_group]</li>
+    <li>image-&gt;[ATTENDER_nameFull] двигается в такт музыке, [circumstance_group]</li>
+    <li>image-&gt;[ATTENDER_nameFull] растворяется в чарующих звуках музыки, [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;хлопая ладонями в такт</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] [PersonJobs_gen] танцуют под музыку.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] [AnimalBadass_plural_gen] слушают внимательно.</li>
+  </AttendedConcert.rulePack.rulesStrings>
+  <HeldConcert.label>проведение концерта</HeldConcert.label>
+  <HeldConcert.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[ORGANIZER_nameDef] проводит концерт</li>
+    <li>image-&gt;[ORGANIZER_nameFull] играет свою фирменную песню [circumstance_group]</li>
+    <li>image-&gt;[ORGANIZER_nameFull] приглашает толпу подпевать</li>
+    <li>image-&gt;[ORGANIZER_nameFull] играет воодушевляющую мелодию</li>
+    <li>image-&gt;[ORGANIZER_nameFull] играет сложную композицию [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;с напряжённым лицом</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] [PersonJobs_gen] слушают, стоя неподалёку.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] [AnimalBadass_plural_gen] слушают, стоя неподалёку.</li>
+  </HeldConcert.rulePack.rulesStrings>
+</LanguageData>

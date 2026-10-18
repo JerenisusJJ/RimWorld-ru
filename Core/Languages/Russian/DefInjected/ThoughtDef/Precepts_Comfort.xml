@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SlabBed_Preferred.stages.slept_on_slab_bed.label>{PAWN_gender ? Спал : Спала} на кровати-плите</SlabBed_Preferred.stages.slept_on_slab_bed.label>
+  <SlabBed_Preferred.stages.slept_on_slab_bed.description>Спав на неудобной кровати-плите, я {PAWN_gender ? проявил : проявила} свои моральные качества.</SlabBed_Preferred.stages.slept_on_slab_bed.description>
+</LanguageData>

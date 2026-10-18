@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LongShots.label>бол. дальности</LongShots.label>
+  <Melee.label>ближнего боя</Melee.label>
+  <MeleeBlunt.label>дробящее ближнего боя</MeleeBlunt.label>
+  <MeleePiercer.label>колющее ближнего боя</MeleePiercer.label>
+  <Neolithic.label>неолитическое</Neolithic.label>
+  <Ranged.label>дальнего боя</Ranged.label>
+  <RangedHeavy.label>тяжёлое дальнего боя</RangedHeavy.label>
+  <RangedLight.label>лёгкое дальнего боя</RangedLight.label>
+  <ShortShots.label>малой дальности</ShortShots.label>
+  <Ultratech.label>ультратехнологичное</Ultratech.label>
+</LanguageData>

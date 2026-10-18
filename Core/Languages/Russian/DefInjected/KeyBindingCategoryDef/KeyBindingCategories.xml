@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Architect.label>строительство</Architect.label>
+  <Architect.description>Указания поселенцам по строительству, расчистке и хранению</Architect.description>
+  <DebugMenu.label>меню отладки</DebugMenu.label>
+  <DebugMenu.description>Управление в меню отладки. Доступно только в режиме разработчика.</DebugMenu.description>
+  <Development.label>разработчикам</Development.label>
+  <Development.description>Клавиши для управления функциональностью режима разработчика.</Development.description>
+  <Game.label>общее игровое управление</Game.label>
+  <Game.description>Клавиши для управления большинством аспектов игрового процесса.</Game.description>
+  <GameMapCamera.label>управление камерой</GameMapCamera.label>
+  <GameMapCamera.description>Управление камерой.</GameMapCamera.description>
+  <MainTabs.label>основные вкладки</MainTabs.label>
+  <MainTabs.description>Клавиши для открытия основных информационных вкладок.</MainTabs.description>
+  <Modifiers.label>модификаторы</Modifiers.label>
+  <Modifiers.description>Клавиши-модификаторы для комбинаций команд.</Modifiers.description>
+  <SelectionMisc.label>разное</SelectionMisc.label>
+  <SelectionMisc.description>Клавиши для взаимодействия с объектами и предметами на карте.</SelectionMisc.description>
+  <SelectionSpecial.label>специальное</SelectionSpecial.label>
+  <SelectionSpecial.description>Клавиши для специальных операций над выбранными объектами.</SelectionSpecial.description>
+</LanguageData>

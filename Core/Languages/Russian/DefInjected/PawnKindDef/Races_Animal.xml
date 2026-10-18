@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Alligator.label>аллигатор</Alligator.label>
+  <AlphaThrumbo.label>альфа-трумбо</AlphaThrumbo.label>
+  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>детеныш альфа-трумбо</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>
+  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>детеныши альфа-трумбо</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>
+  <Armadillo.label>броненосец</Armadillo.label>
+  <Badger.label>барсук</Badger.label>
+  <BogHound.label>болотная гончая</BogHound.label>
+  <BogHound.lifeStages.bog_hound_puppy.label>щенок болотной гончей</BogHound.lifeStages.bog_hound_puppy.label>
+  <BogHound.lifeStages.bog_hound_puppy.labelPlural>щенки болотной гончей</BogHound.lifeStages.bog_hound_puppy.labelPlural>
+  <Bullfrog.label>лягушка-бык</Bullfrog.label>
+  <Cat_Scimitar.label>скимитаркот</Cat_Scimitar.label>
+  <ColossusToad.label>гигантская жаба</ColossusToad.label>
+  <Gorilla.label>горилла</Gorilla.label>
+  <Hippo.label>бегемот</Hippo.label>
+  <LavaSnail.label>лавовая улитка</LavaSnail.label>
+  <Mastodon.label>мастодонт</Mastodon.label>
+  <Mastodon.lifeStages.mastodon_calf.label>детеныш мастодонта</Mastodon.lifeStages.mastodon_calf.label>
+  <Mastodon.lifeStages.mastodon_calf.labelPlural>детеныши мастодонта</Mastodon.lifeStages.mastodon_calf.labelPlural>
+  <Megavole.label>мегаполевка</Megavole.label>
+  <Mink.label>норка</Mink.label>
+  <MonitorLizard.label>варан</MonitorLizard.label>
+  <Moose.label>лось</Moose.label>
+  <Moose.labelPlural>лось</Moose.labelPlural>
+  <Moose.lifeStages.moose_calf.label>детеныш лося</Moose.lifeStages.moose_calf.label>
+  <Moose.lifeStages.moose_calf.labelPlural>детеныши лося</Moose.lifeStages.moose_calf.labelPlural>
+  <Muskox.label>овцебык</Muskox.label>
+  <Muskox.labelPlural>овцебыки</Muskox.labelPlural>
+  <Muskox.lifeStages.muskox_calf.label>теленок овцебыка</Muskox.lifeStages.muskox_calf.label>
+  <Muskox.lifeStages.muskox_calf.labelPlural>телята овцебыка</Muskox.lifeStages.muskox_calf.labelPlural>
+  <Panda.label>панда</Panda.label>
+  <Porcupine.label>дикобраз</Porcupine.label>
+  <PrairieDog.label>луговая собачка</PrairieDog.label>
+  <Tiger.label>тигр</Tiger.label>
+  <Wolf_Great.label>великий волк</Wolf_Great.label>
+  <Wolf_Great.labelPlural>великие волки</Wolf_Great.labelPlural>
+  <Wolf_Great.lifeStages.greatwolf_puppy.label>щенок великого волка</Wolf_Great.lifeStages.greatwolf_puppy.label>
+  <Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>щенки великого волка</Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>
+  <Wolverine.label>росомаха</Wolverine.label>
+</LanguageData>

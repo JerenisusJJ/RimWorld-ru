@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InstallDenture.label>установить зубной протез</InstallDenture.label>
+  <InstallDenture.description>Установить зубной протез.</InstallDenture.description>
+  <InstallDenture.jobString>Устанавливает зубной протез</InstallDenture.jobString>
+  <InstallPegLeg.label>установить деревянную ногу</InstallPegLeg.label>
+  <InstallPegLeg.description>Установить деревянную ногу.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Устанавливает деревянную ногу</InstallPegLeg.jobString>
+  <InstallWoodenFoot.label>установить деревянную стопу</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Установить деревянную стопу.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Устанавливает деревянную стопу</InstallWoodenFoot.jobString>
+  <InstallWoodenHand.label>установить деревянную кисть</InstallWoodenHand.label>
+  <InstallWoodenHand.description>Установить деревянную кисть.</InstallWoodenHand.description>
+  <InstallWoodenHand.jobString>Устанавливает деревянную кисть</InstallWoodenHand.jobString>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mote_RitualGlowRays.label>Частица</Mote_RitualGlowRays.label>
+  <Mote_RitualGlowSingleRay.label>Частица</Mote_RitualGlowSingleRay.label>
+  <Mote_RitualSmoke.label>Частица</Mote_RitualSmoke.label>
+  <Mote_RitualSmokeDust.label>Частица</Mote_RitualSmokeDust.label>
+  <Mote_RitualSmokeDustVague.label>Частица</Mote_RitualSmokeDustVague.label>
+  <Mote_RitualSmokeThick.label>Частица</Mote_RitualSmokeThick.label>
+  <Mote_RitualSmokeThickSlim.label>Частица</Mote_RitualSmokeThickSlim.label>
+  <Mote_RitualTechLineA.label>Частица</Mote_RitualTechLineA.label>
+  <Mote_RitualTechLineB.label>Частица</Mote_RitualTechLineB.label>
+  <Mote_RitualTechLineC.label>Частица</Mote_RitualTechLineC.label>
+  <Mote_RolePawnHighlight.label>Частица</Mote_RolePawnHighlight.label>
+  <Mote_RolePositionHighlight.label>Частица</Mote_RolePositionHighlight.label>
+  <Mote_SpikePipe.label>Частица</Mote_SpikePipe.label>
+  <Mote_TotemOutline.label>Частица</Mote_TotemOutline.label>
+</LanguageData>

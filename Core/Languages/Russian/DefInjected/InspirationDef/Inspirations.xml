@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Frenzy_Go.label>прилив сил</Frenzy_Go.label>
+  <Frenzy_Go.baseInspectLine>Воодушевление: прилив сил</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.beginLetter>В ближайшие 8 дней {PAWN_pronoun} будет передвигаться значительно быстрее.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetterLabel>Воодушевление (прилив сил)</Frenzy_Go.beginLetterLabel>
+  <Frenzy_Go.endMessage>{PAWN_nameIndef} теряет воодушевление (прилив сил).</Frenzy_Go.endMessage>
+  <Frenzy_Shoot.label>стрелковый азарт</Frenzy_Shoot.label>
+  <Frenzy_Shoot.baseInspectLine>Воодушевление: стрелковый азарт</Frenzy_Shoot.baseInspectLine>
+  <Frenzy_Shoot.beginLetter>Точность {PAWN_possessive} стрельбы на ближайшие 8 дней значительно повысится.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetterLabel>Воодушевление (стрелковый азарт)</Frenzy_Shoot.beginLetterLabel>
+  <Frenzy_Shoot.endMessage>{PAWN_nameIndef} теряет воодушевление (стрелковый азарт).</Frenzy_Shoot.endMessage>
+  <Frenzy_Work.label>рабочий запал</Frenzy_Work.label>
+  <Frenzy_Work.baseInspectLine>Воодушевление: рабочий запал</Frenzy_Work.baseInspectLine>
+  <Frenzy_Work.beginLetter>В ближайшие 8 дней производительность {PAWN_possessive} труда существенно возрастёт.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetterLabel>Воодушевление (рабочий запал)</Frenzy_Work.beginLetterLabel>
+  <Frenzy_Work.endMessage>{PAWN_nameIndef} теряет воодушевление (рабочий запал).</Frenzy_Work.endMessage>
+  <Inspired_Creativity.label>творческий подъём</Inspired_Creativity.label>
+  <Inspired_Creativity.baseInspectLine>Воодушевление: творческий подъём</Inspired_Creativity.baseInspectLine>
+  <Inspired_Creativity.beginLetter>Уровень мастерства, с которым {PAWN_pronoun} завершит любое изделие, предмет искусства или мебель, возрастёт на два. Такой творческий подъём позволит создать предмет с качеством вплоть до легендарного.\n\nПодъём исчезнет через 8 дней или с первой завершённой работой.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetterLabel>Воодушевление (творческий подъём)</Inspired_Creativity.beginLetterLabel>
+  <Inspired_Creativity.endMessage>{PAWN_nameIndef} теряет воодушевление (творческий подъём).</Inspired_Creativity.endMessage>
+  <Inspired_Recruitment.label>красноречие</Inspired_Recruitment.label>
+  <Inspired_Recruitment.baseInspectLine>Воодушевление: красноречие</Inspired_Recruitment.baseInspectLine>
+  <Inspired_Recruitment.beginLetter>{PAWN_pronoun} чувствует, что сможет блеснуть своим красноречием и убедить любого пленника, независимо от его психологического сопротивления, но не отличающегося непоколебимой верностью, присоединиться к вашей фракции.\n\nЭто чувство исчезнет через 8 дней или после удачной вербовки.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetterLabel>Воодушевление (красноречие)</Inspired_Recruitment.beginLetterLabel>
+  <Inspired_Recruitment.endMessage>{PAWN_nameIndef} теряет воодушевление (красноречие).</Inspired_Recruitment.endMessage>
+  <Inspired_Surgery.label>чутьё хирурга</Inspired_Surgery.label>
+  <Inspired_Surgery.baseInspectLine>Воодушевление: чутьё хирурга</Inspired_Surgery.baseInspectLine>
+  <Inspired_Surgery.beginLetter>{PAWN_pronoun} чувствует, что свою следующую хирургическую операцию проведёт с удвоенными шансами на успех. Тем не менее, небольшая вероятность ошибки всё равно остаётся.\n\nЭто чувство исчезнет через 8 дней или после операции.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetterLabel>Воодушевление (чутьё хирурга)</Inspired_Surgery.beginLetterLabel>
+  <Inspired_Surgery.endMessage>{PAWN_nameIndef} теряет воодушевление (чутьё хирурга).</Inspired_Surgery.endMessage>
+  <Inspired_Taming.label>любовь к животным</Inspired_Taming.label>
+  <Inspired_Taming.baseInspectLine>Воодушевление: любовь к животным</Inspired_Taming.baseInspectLine>
+  <Inspired_Taming.beginLetter>{PAWN_pronoun} чувствует, что сможет приручить любое животное, вне зависимости от его дикости.\n\nЭто чувство исчезнет через 8 дней или после первого приручения.</Inspired_Taming.beginLetter>
+  <Inspired_Taming.beginLetterLabel>Воодушевление (любовь к животным)</Inspired_Taming.beginLetterLabel>
+  <Inspired_Taming.endMessage>{PAWN_nameIndef} теряет воодушевление (любовь к животным).</Inspired_Taming.endMessage>
+  <Inspired_Trade.label>торговое чутьё</Inspired_Trade.label>
+  <Inspired_Trade.baseInspectLine>Воодушевление: торговое чутьё</Inspired_Trade.baseInspectLine>
+  <Inspired_Trade.beginLetter>{PAWN_pronoun} чувствует, что свою следующую сделку заключит значительно выгоднее, чем обычно.\n\nЕсли сделка не состоится, {PAWN_possessive} воодушевление исчезнет через 8 дней.</Inspired_Trade.beginLetter>
+  <Inspired_Trade.beginLetterLabel>Воодушевление (торговое чутьё)</Inspired_Trade.beginLetterLabel>
+  <Inspired_Trade.endMessage>{PAWN_nameIndef} теряет воодушевление (торговое чутьё).</Inspired_Trade.endMessage>
+</LanguageData>

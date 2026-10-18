@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Heavy.label>тяжёлые строения</Heavy.label>
+  <Light.label>лёгкие строения</Light.label>
+  <Medium.label>обычные строения</Medium.label>
+  <UltraHeavy.label>сверхтяжёлый</UltraHeavy.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AlertVacuumExposure>Воздействие вакуума</AlertVacuumExposure>
+  <AlertVacuumExposureDesc>Эти люди и животные страдают от воздействия космического вакуума:\n{0}\n\nОтправьте их в герметичное помещение, пока они не умерли.</AlertVacuumExposureDesc>
+  <AlertMechanoidThreat>Угроза от механоидов</AlertMechanoidThreat>
+  <AlertMechanoidThreatDesc>Мехрой сканирует местность, чтобы определить ваше местоположение. Когда они найдут вас, начнется крупное нападение враждебных механоидов.\n\nПокиньте карту до их прибытия!</AlertMechanoidThreatDesc>
+  <AlertMechanoidThreatCritical>Наступающие механоиды</AlertMechanoidThreatCritical>
+  <AlertMechanoidThreatCriticalDesc>Мехрой обнаружил ваше местоположение и будет слать враждебных механоидов, пока вы не покинете это место.</AlertMechanoidThreatCriticalDesc>
+  <StabilizersRemainingAlertLabel>Оставшиеся стабилизаторы</StabilizersRemainingAlertLabel>
+  <StabilizersRemainingAlertDescription>Ядро церебрекса сейчас неуязвимо. Найдите и уничтожьте его стабилизаторы, чтобы получить доступ к ядру.</StabilizersRemainingAlertDescription>
+  <RelayStabilizersRemainingAlertLabel>Оставшиеся стабилизаторы</RelayStabilizersRemainingAlertLabel>
+  <RelayStabilizersRemainingAlertDescription>Реле сейчас защищено ближайшими стабилизаторами. Уничтожьте или взломайте их, чтобы дестабилизировать реле.</RelayStabilizersRemainingAlertDescription>
+  <SurveyScannerAlertLabel>Защитите сканер</SurveyScannerAlertLabel>
+  <SurveyScannerAlertDescription>Охраняйте сканер, пока разведывательная операция не завершится.</SurveyScannerAlertDescription>
+</LanguageData>

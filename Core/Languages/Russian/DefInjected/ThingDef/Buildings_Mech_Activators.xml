@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ActivatorCountdown.label>активатор с таймером</ActivatorCountdown.label>
+  <ActivatorCountdown.description>Устройство-таймер, активирующее «спящих» механоидов. По завершении отсчёта оно пробудит находящихся рядом механоидов и их близлежащие постройки.</ActivatorCountdown.description>
+  <ActivatorProximity.label>активатор приближения</ActivatorProximity.label>
+  <ActivatorProximity.description>Датчик движения, активирующий «спящих» механоидов. При обнаружении рядом человеческой угрозы он пробудит находящихся рядом механоидов и их близлежащие постройки.</ActivatorProximity.description>
+</LanguageData>

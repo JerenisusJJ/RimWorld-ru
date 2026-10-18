@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <IndefiniteArticle></IndefiniteArticle>
+  <DefiniteArticle></DefiniteArticle>
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
+  <Proits>его</Proits>
+  <Prohis>его</Prohis>
+  <Proher>её</Proher>
+  <ProitsCap>Его</ProitsCap>
+  <ProhisCap>Его</ProhisCap>
+  <ProherCap>Её</ProherCap>
+  <ProitObj>ему</ProitObj>
+  <ProhimObj>ему</ProhimObj>
+  <ProherObj>ей</ProherObj>
+  <ProitObjCap>Ему</ProitObjCap>
+  <ProhimObjCap>Ему</ProhimObjCap>
+  <ProherObjCap>Ей</ProherObjCap>
+  <Prohe>он</Prohe>
+  <Proshe>она</Proshe>
+  <Proit>оно</Proit>
+  <ProheCap>Он</ProheCap>
+  <ProsheCap>Она</ProsheCap>
+  <ProitCap>Оно</ProitCap>
+  <ProHeNoun>мужчина</ProHeNoun>
+  <ProSheNoun>женщина</ProSheNoun>
+  <ProItNoun>человек</ProItNoun>
+  <ClauseSequence2>{0} и {1}.</ClauseSequence2>
+  <ClauseSequence3>{0}, {1} и {2}.</ClauseSequence3>
+  <ClauseSequence4>{0} и {1}, а также {2} и {3}.</ClauseSequence4>
+  <ClauseSequence5>{0}, {1} и {2}, и ещё {3} и {4}.</ClauseSequence5>
+  <ClauseSequence6>и {0}, и {1}, и {2}, и ещё {3}, {4} и {5}.</ClauseSequence6>
+  <ClauseSequence7>и {0}, и {1}, и {2}, и кроме того, {3}, {4} и {5} и, наконец, {6}.</ClauseSequence7>
+  <ClauseSequence8>и {0}, и {1}, и {2}, а ещё {3}, {4} и {5} и, наконец, {6} и {7}.</ClauseSequence8>
+  <XorY>{0} или {1}</XorY>
+</LanguageData>

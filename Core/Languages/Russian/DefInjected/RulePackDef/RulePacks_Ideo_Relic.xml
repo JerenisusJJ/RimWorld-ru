@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerIdeoRelic.rulePack.rulesStrings>
+    <li>r_ideoRelicName(p=0.4)-&gt;[memeHyphenPrefix][second]</li>
+    <li>r_ideoRelicName(p=0.8)-&gt;[first]-[second]</li>
+    <li>r_ideoRelicName(p=0.5)-&gt;[generic_subject] [generic_concept]</li>
+    <li>r_ideoRelicName(p=0.3)-&gt;[generic_subject] [memeConcept]</li>
+    <li>r_ideoRelicName-&gt;[thingLabel] [memeConcept]</li>
+    <li>r_ideoRelicName-&gt;[memeHyphenPrefix]-[thingLabel]</li>
+    <li>r_ideoRelicName(p=0.25)-&gt;[memeAdjective_masc] [relic_masc]</li>
+    <li>r_ideoRelicName(p=0.25)-&gt;[memeAdjective_fem] [relic_fem]</li>
+    <li>r_ideoRelicName(p=0.50)-&gt;[memeAdjective_neutral] [relic_neutral]</li>
+    <li>r_ideoRelicName-&gt;[relic] [memeConcept]</li>
+    <li>r_ideoRelicName-&gt;[memeHyphenPrefix]-[relic]</li>
+    <li>relic(p=1)-&gt;[relic_masc]</li>
+    <li>relic(p=1)-&gt;[relic_fem]</li>
+    <li>relic(p=2)-&gt;[relic_neutral]</li>
+    <li>relic_masc-&gt;артефакт</li>
+    <li>relic_fem-&gt;реликвия</li>
+    <li>relic_neutral-&gt;сокровище</li>
+    <li>relic_neutral-&gt;наследие</li>
+    <li>first-&gt;хор</li>
+    <li>first-&gt;ан</li>
+    <li>first-&gt;экс</li>
+    <li>first-&gt;тон</li>
+    <li>first-&gt;доу</li>
+    <li>first-&gt;бор</li>
+    <li>first-&gt;вен</li>
+    <li>first-&gt;ксан</li>
+    <li>first-&gt;арль</li>
+    <li>first-&gt;гекс</li>
+    <li>first-&gt;бакс</li>
+    <li>first-&gt;цел</li>
+    <li>first-&gt;лок</li>
+    <li>first-&gt;поул</li>
+    <li>first-&gt;лод</li>
+    <li>second-&gt;звено</li>
+    <li>second-&gt;связь</li>
+    <li>second-&gt;петля</li>
+    <li>second-&gt;нексус</li>
+    <li>second-&gt;ядро</li>
+    <li>second-&gt;загадка</li>
+    <li>second-&gt;масса</li>
+    <li>second-&gt;корпус</li>
+    <li>second-&gt;фокус</li>
+    <li>second-&gt;линза</li>
+    <li>second-&gt;свет</li>
+    <li>second-&gt;тень</li>
+    <li>second-&gt;локус</li>
+    <li>second-&gt;форма</li>
+    <li>second-&gt;плеть</li>
+    <li>second-&gt;кром</li>
+    <li>generic_subject-&gt;вестник</li>
+    <li>generic_subject-&gt;предтеча</li>
+    <li>generic_subject-&gt;глашатай</li>
+    <li>generic_subject-&gt;наветник</li>
+    <li>generic_concept-&gt;времён</li>
+    <li>generic_concept-&gt;небес</li>
+    <li>generic_concept-&gt;звёзд</li>
+    <li>generic_concept-&gt;бездны</li>
+    <li>generic_concept-&gt;дали</li>
+    <li>generic_concept-&gt;смерти</li>
+    <li>generic_concept-&gt;жизни</li>
+    <li>generic_concept-&gt;света</li>
+    <li>generic_concept-&gt;тьмы</li>
+    <li>generic_concept-&gt;конца</li>
+  </NamerIdeoRelic.rulePack.rulesStrings>
+</LanguageData>

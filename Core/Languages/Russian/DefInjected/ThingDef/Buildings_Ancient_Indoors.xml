@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientBarrel.label>древняя бочка</AncientBarrel.label>
+  <AncientBarrel.description>Древняя дырявая бочка, выглядит, как будто в ней хранились какие-то отходы. Единственное, что в ней сейчас — это размазанная засохшая грязь.</AncientBarrel.description>
+  <AncientBasicRecharger.label>древняя малая зарядная станция</AncientBasicRecharger.label>
+  <AncientBasicRecharger.description>Древняя малая зарядная станция. Ценные части отсутствуют, а всё остальное пришло в негодность.</AncientBasicRecharger.description>
+  <AncientBed.label>древняя кровать</AncientBed.label>
+  <AncientBed.description>Старый гнилой матрас на ржавой раме. Несмотря на неудобство, кровать всё ещё можно к использовать по прямому назначению, но починить уже не получится.</AncientBed.description>
+  <AncientCrate.label>древний ящик</AncientCrate.label>
+  <AncientCrate.description>Древний сломанный ящик. Всё ценное, что в нём было, пришло в негодность.</AncientCrate.description>
+  <AncientDisplayBank.label>ряд древних дисплеев</AncientDisplayBank.label>
+  <AncientDisplayBank.description>Древняя система экранов. Ценные части отсутствуют, а всё остальное пришло в негодность.</AncientDisplayBank.description>
+  <AncientEquipmentBlocks.label>древние ящики с оборудованием</AncientEquipmentBlocks.label>
+  <AncientEquipmentBlocks.description>Несколько древних ящиков с оборудованием неизвестного назначения. Ценные части отсутствуют, а всё остальное пришло в негодность.</AncientEquipmentBlocks.description>
+  <AncientGenerator.label>древний генератор</AncientGenerator.label>
+  <AncientGenerator.description>Древний электрический генератор. Его пригодные для использования части давно изъяты или разбиты, а остальное — заржавело.</AncientGenerator.description>
+  <AncientKitchenSink.label>древняя раковина</AncientKitchenSink.label>
+  <AncientKitchenSink.description>Древняя кухонная раковина, сделанная из листов неметаллического волокна. Она совсем испорчена и не содержит ничего ценного.\n\nКак здесь оказалась раковина, — должно быть, интересная история.</AncientKitchenSink.description>
+  <AncientLamp.label>древняя лампа</AncientLamp.label>
+  <AncientLamp.description>Древняя лампа с автономным питанием. Её внутренний аккумулятор почти полностью разряжен, но она всё ещё слабо светится.</AncientLamp.description>
+  <AncientLargeMechGestator.label>древний большой гестатор механоидов</AncientLargeMechGestator.label>
+  <AncientLargeMechGestator.description>Древний большой гестатор механоидов. Ценные части отсутствуют, а всё остальное пришло в негодность.</AncientLargeMechGestator.description>
+  <AncientLockerBank.label>ряд древних шкафов</AncientLockerBank.label>
+  <AncientLockerBank.description>Ряд древних проржавевших шкафчиков. Всё они давно взломаны, ничего ценного внутри не осталось.</AncientLockerBank.description>
+  <AncientMachine.label>древняя машина</AncientMachine.label>
+  <AncientMachine.description>Громоздкий корпус древней машины, заполненный непонятными механизмами. Ценные части отсутствуют, а всё остальное пришло в негодность.</AncientMachine.description>
+  <AncientMechDropBeacon.label>древний маяк механоидов</AncientMechDropBeacon.label>
+  <AncientMechDropBeacon.description>Разбитый корпус десантного маяка механоидов. Ценные части в нём отсутствуют, а сам корпус испортился после долгих лет.</AncientMechDropBeacon.description>
+  <AncientMechGestator.label>древний гестатор механоидов</AncientMechGestator.label>
+  <AncientMechGestator.description>Древний гестатор механоидов. Ценные части отсутствуют, а всё остальное пришло в негодность.</AncientMechGestator.description>
+  <AncientMechGestatorTank.label>древний инкубатор механоидов</AncientMechGestatorTank.label>
+  <AncientMechGestatorTank.description>Древнее устройство, способное выращивать новых механоидов, а также подпитывать повреждённых во время их восстановления.</AncientMechGestatorTank.description>
+  <AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>Из инкубатора механоидов появляется {0_labelShort}.</AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>
+  <AncientMicrowave.label>древняя микроволновка</AncientMicrowave.label>
+  <AncientMicrowave.description>Древнее устройство для разогрева пищи. Разбитое и заржавевшее, теперь оно совершенно бесполезно.\n\nКак оно здесь оказалось — трудно сказать.</AncientMicrowave.description>
+  <AncientMilitaryCrate.label>древний военный ящик</AncientMilitaryCrate.label>
+  <AncientMilitaryCrate.description>Древний ящик с армейскими отметками. Он давным-давно взломан, а всё ценное из него — растащено.</AncientMilitaryCrate.description>
+  <AncientOperatingTable.label>древний операционный стол</AncientOperatingTable.label>
+  <AncientOperatingTable.description>Стол, когда-то использовавшийся для хирургических операций. Он уже давно пришёл в негодность.</AncientOperatingTable.description>
+  <AncientOven.label>древняя духовка</AncientOven.label>
+  <AncientOven.description>Древняя духовка. Разбитая и заржавевшая, теперь совершенно бесполезна.\n\nКак она здесь оказалась — трудно сказать.</AncientOven.description>
+  <AncientRefrigerator.label>древний холодильник</AncientRefrigerator.label>
+  <AncientRefrigerator.description>Древний холодильник. Из него давно выдраны всё полезные части.</AncientRefrigerator.description>
+  <AncientSecurityTurret.label>древняя охранная турель</AncientSecurityTurret.label>
+  <AncientSecurityTurret.description>Сломанная древняя охранная турель. Всё ценные части изъяты или разбиты.</AncientSecurityTurret.description>
+  <AncientSpacerCrate.label>древний космический ящик</AncientSpacerCrate.label>
+  <AncientSpacerCrate.description>Древний сломанный ящик. Всё ценности, что в нём хранились, давно уже изъяты.</AncientSpacerCrate.description>
+  <AncientStandardRecharger.label>древняя зарядная станция</AncientStandardRecharger.label>
+  <AncientStandardRecharger.description>Древняя стандартная зарядная станция. Ценные части отсутствуют, а всё остальное пришло в негодность.</AncientStandardRecharger.description>
+  <AncientStorageCylinder.label>древний бак</AncientStorageCylinder.label>
+  <AncientStorageCylinder.description>Древнее устройство, похожее на хранилище для какой-то жидкости. Ценные части отсутствуют, а всё остальное пришло в негодность.</AncientStorageCylinder.description>
+  <AncientStove.label>древняя кухонная плита</AncientStove.label>
+  <AncientStove.description>Старая кухонная плита. Разбитая и заржавевшая, теперь совершенно бесполезна.</AncientStove.description>
+  <AncientSystemRack.label>древняя серверная стойка</AncientSystemRack.label>
+  <AncientSystemRack.description>Древний стеллаж, набитый непонятными устройствами. Ценные части отсутствуют, а всё остальное пришло в негодность.</AncientSystemRack.description>
+</LanguageData>

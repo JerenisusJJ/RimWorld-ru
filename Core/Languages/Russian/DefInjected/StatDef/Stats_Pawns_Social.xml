@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimalProductsSellImprovement.label>модификатор цен животных продуктов</AnimalProductsSellImprovement.label>
+  <AnimalProductsSellImprovement.description>Когда этот человек продаёт мясо, кожу или шерсть, цена при продаже будет улучшена на этот процент.</AnimalProductsSellImprovement.description>
+  <SlaveSuppressionFallRate.label>темп снижения подавленности</SlaveSuppressionFallRate.label>
+  <SlaveSuppressionFallRate.description>Скорость, с которой снижается подавленность раба.</SlaveSuppressionFallRate.description>
+  <SlaveSuppressionFallRate.formatString>{0} в день</SlaveSuppressionFallRate.formatString>
+  <SlaveSuppressionFallRate.formatStringUnfinalized>{0} в день</SlaveSuppressionFallRate.formatStringUnfinalized>
+</LanguageData>

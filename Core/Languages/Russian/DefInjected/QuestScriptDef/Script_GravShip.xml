@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Gravcore_AncientReactor.questAvailableLetterLabel>Обнаружено гравиядро: древний реактор</Gravcore_AncientReactor.questAvailableLetterLabel>
+  <Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили энергетический след гравиядра. Сигнал исходит от древнего разрушающегося реактора. Местоположение отмечено на мировой карте.\n\nТрещины в защитной оболочке реактора пропускают опасные вещества, окутывая окрестности токсичными осадками. Сам реактор сильно защищен древними системами безопасности.\n\nДобывайте гравиядра и гравлитовые панели, чтобы увеличить размер вашего гравикорабля.</li>
+  </Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+  <Gravcore_AncientReactor.questNameRules.rulesStrings>
+    <li>questName-&gt;древний реактор</li>
+  </Gravcore_AncientReactor.questNameRules.rulesStrings>
+  <Gravcore_AncientStockpile.questAvailableLetterLabel>Обнаружено гравиядро: древний склад</Gravcore_AncientStockpile.questAvailableLetterLabel>
+  <Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили энергетический след гравиядра. Сигнал исходит от древнего подземного хранилища. Местоположение отмечено на мировой карте.\n\nДля входа в подземные хранилища их нужно взломать. Этот процесс может занять несколько дней.\n\nДобывайте гравиядра и гравлитовые панели, чтобы увеличить размер вашего гравикорабля.</li>
+  </Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+  <Gravcore_AncientStockpile.questNameRules.rulesStrings>
+    <li>questName-&gt;Древний склад</li>
+  </Gravcore_AncientStockpile.questNameRules.rulesStrings>
+  <Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>Обнаружено гравиядро: место крушения</Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>
+  <Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили энергетический след гравиядра. Сигнал поступает с обломков разбившейся орбитальной платформы.\n\nСканеры фиксируют усиленное присутствие механоидов.\n\nДобывайте гравиядра и гравлитовые панели, чтобы увеличить размер вашего гравикорабля.</li>
+  </Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName-&gt;разрушенная платформа механоидов</li>
+  </Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+  <Gravcore_FrozenTerraformer.questAvailableLetterLabel>Обнаружено гравиядро: замерзший терраформер</Gravcore_FrozenTerraformer.questAvailableLetterLabel>
+  <Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили энергетический след гравиядра. Оно питает неработающий древний терраформер. Его местоположение отмечено на мировой карте.\n\nТерраформер охлаждает местность до опасно низких температур. Будьте готовы к холоду и длительному пребыванию.\n\nСобирайте гравиядра и панели из гравлита, чтобы увеличить размер вашего гравикорабля.</li>
+  </Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+  <Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+    <li>questName-&gt;замерзший терраформер</li>
+  </Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+  <Gravcore_InsectLair.questAvailableLetterLabel>Обнаружено гравиядро: вход в пещеру</Gravcore_InsectLair.questAvailableLetterLabel>
+  <Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили энергетический след гравиядра. Сигнал исходит из системы пещер глубоко под землей. Вход в систему пещер отмечен на мировой карте.\n\nПодземные пещеры могут быть крайне опасными, и их исследование может занять несколько дней.\n\nДобывайте гравиядра и гравлитовые панели, чтобы увеличить размер вашего гравикорабля.</li>
+  </Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+  <Gravcore_InsectLair.questNameRules.rulesStrings>
+    <li>questName-&gt;вход в пещеру</li>
+  </Gravcore_InsectLair.questNameRules.rulesStrings>
+  <Gravcore_MechanoidRelay.questAvailableLetterLabel>Обнаружено гравиядро: ретранслятор механоидов</Gravcore_MechanoidRelay.questAvailableLetterLabel>
+  <Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+    <li>letterLabelMapGenerated-&gt;Ретранслятор механоидов</li>
+    <li>letterTextMapGenerated-&gt;Поблизости находится ретранслятор механоидов, работающий на гравиядре.\n\nВ настоящее время ретранслятор защищен стабилизаторами. Чтобы извлечь гравиядро ретранслятора, сначала взломайте или уничтожьте все стабилизаторы.\n\nБудьте осторожны: уничтожение стабилизатора вызовет защитную реакцию. Взлом — более медленный, но безопасный способ.</li>
+  </Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+  <Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили энергетический след гравиядра. Оно питает ретранслятор, являющийся частью огромной сети коммуникации механоидов.\n\nВы можете разобрать ретранслятор, но этот процесс займет несколько дней. Сам ретранслятор будет сильно охраняться механоидaми.\n\nДобывайте гравиядра и гравлитовые панели, чтобы увеличить размер вашего гравикорабля.</li>
+  </Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+  <Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+    <li>questName-&gt;ретранслятор механоидов</li>
+  </Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+  <Gravcore_Mechhive.questAvailableLetterLabel>Обнаружен мехрой</Gravcore_Mechhive.questAvailableLetterLabel>
+  <Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили огромный выброс энергии, исходящий от мехроя на орбите. Его местоположение отмечено на мировой карте.\n\nДанный мехрой — центр разума всех механоидов на планете. Если отключить его, все смертоносные механоиды по всей планете будут обезврежены. Либо вы сможете использовать мехрой в своих целях.\n\nМехрой защищен противокорабельным оружием. Постройте подавитель сигналов, прежде чем приближаться.\n\nОсторожно: мехрои чрезвычайно опасны. Сначала исследуйте другие места и убедитесь, что подготовлены к долгому пребыванию на орбите.</li>
+  </Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+  <Gravcore_Mechhive.questNameRules.rulesStrings>
+    <li>questName-&gt;мехрой</li>
+  </Gravcore_Mechhive.questNameRules.rulesStrings>
+  <Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>Обнаружено гравиядро: орбитальная платформа</Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>
+  <Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили энергетический след гравиядра. Сигнал идет с заброшенной орбитальной платформы.\n\nВы можете отправиться на орбитальные платформы с помощью гравикорабля, челноков или транспортных капсул.\n\nБудьте осторожны — орбитальные места крайне опасны. Экипируйте своих поселенцев скафандрами. Спланируйте обратный путь — длительное пребывание на орбите очень затруднительно.</li>
+  </Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+  <Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+    <li>questName-&gt;заброшенная орбитальная платформа</li>
+  </Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+  <Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>Обнаружено гравиядро: платформа механоидов</Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>
+  <Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили энергетический след гравиядра. Сигнал идет с орбитальной платформы механоидов. Сканеры показывают сильную оборону.\n\nВы можете отправиться на орбитальные платформы с помощью гравикорабля, челноков или транспортных капсул.\n\nБудьте осторожны — орбитальные места крайне опасны. Экипируйте своих поселенцев скафандрами. Спланируйте обратный путь — длительное пребывание на орбите очень затруднительно.</li>
+  </Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName-&gt;Платформа механоидов</li>
+  </Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+  <GravEngine.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы обнаружили гравидвигатель механоидов! С его помощью вы сможете построить гравикорабль для быстрого перемещения по планете.\n\nДвигатель оснащен технологией, которая пассивно сканирует окрестности в поисках гравиядра. Если вы добудете эту технологию, со временем сможете улучшать свой гравикорабль.</li>
+  </GravEngine.questDescriptionRules.rulesStrings>
+  <GravEngine.questNameRules.rulesStrings>
+    <li>questName-&gt;гравикорабль</li>
+  </GravEngine.questNameRules.rulesStrings>
+  <GravshipWreckage.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;Вы перехватили сигнал бедствия от разбившегося гравокорабля. В обломках сохранилась ценная гравитехнология. Осторожно — обломки охраняются враждебными механоидами.</li>
+    <li>questDescription(asker_factionLeader==true)-&gt;[asker_faction_leaderTitle] [asker_nameFull] из фракции [asker_faction_name] поделился с вами координатами разбившегося гравикорабля. [asker_pronoun] слышал(а) о вашем изучении технологий гравиядра и подумал(а), что вам может быть интересно собрать всё, что осталось из гравитехнологий. [asker_nameDef] предупреждает, что место крушения охраняется враждебными механоидами.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)-&gt;[asker_nameFull], [asker_royalTitleInCurrentFaction] из фракции [asker_faction_name], требует уничтожить нескольких надоедливых механоидов, мешающих ближайшему поселению. Механоиды охраняют останки гравикорабля. Если вы уничтожите механоидов, [asker_nameDef] позволит вам оставить все найденные гравитехнологии.</li>
+  </GravshipWreckage.questDescriptionRules.rulesStrings>
+  <GravshipWreckage.questNameRules.rulesStrings>
+    <li>questName-&gt;Обломки гравикорабля</li>
+  </GravshipWreckage.questNameRules.rulesStrings>
+  <MechanoidSignal.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Вы засекли сигнал с находящегося на орбите корабля механоидов. Корабль неисправен и постепенно снижается.\n\nЕсли вы подделаете сигнал ответа, корабль совершит аварийную посадку поблизости, и вы сможете разобрать его ради ценной гравитехнологии.</li>
+    <li>gravEngineSpawnedLetterLabel-&gt;гравидвигатель</li>
+    <li>gravEngineSpawnedLetterText-&gt;Корабль механоидов потерпел крушение поблизости.\n\nВнутри находится рабочий гравидвигатель. Двигатель противостоит гравитации и генерирует подъемное поле вокруг себя, что позволяет поднимать вверх огромные корабли и платформы. Далеко от планеты он не работает, но его можно использовать для передвижения по планете и выхода на орбиту.\n\nОсмотрите двигатель, чтобы воспользоваться им.</li>
+  </MechanoidSignal.questDescriptionRules.rulesStrings>
+  <MechanoidSignal.questNameRules.rulesStrings>
+    <li>questName-&gt;сигнал механоидов</li>
+  </MechanoidSignal.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <IdeoBuildingDisrespected.stages.disrespected.label>{BUILDING_labelCap} не почитается</IdeoBuildingDisrespected.stages.disrespected.label>
+  <IdeoBuildingDisrespected.stages.disrespected.description>У нас есть {BUILDING_labelIndef}, но это сооружение должно стоять в подобающем помещении.</IdeoBuildingDisrespected.stages.disrespected.description>
+  <IdeoBuildingMissing.stages.Missing.label>{BUILDING_label} отсутствует</IdeoBuildingMissing.stages.Missing.label>
+  <IdeoBuildingMissing.stages.Missing.description>Когда уже у нас будет {BUILDING_labelIndef}?</IdeoBuildingMissing.stages.Missing.description>
+</LanguageData>

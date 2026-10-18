@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Chicken.label>курица</Chicken.label>
+  <Chicken.description>Традиционная домашняя птица, разводится ради яиц и мяса: и растёт быстро, и яйца несёт часто.</Chicken.description>
+  <Chicken.tools.claws.label>когти</Chicken.tools.claws.label>
+  <Chicken.tools.beak.label>клюв</Chicken.tools.beak.label>
+  <Chicken.tools.head.label>голова</Chicken.tools.head.label>
+  <Duck.label>утка</Duck.label>
+  <Duck.description>Распространённый вид птиц, используемых как в сельском хозяйстве, так и встречающихся в дикой природе. Уток разводят ради их вкусного и питательного мяса. Они вырастают быстро, но откладывают яйца довольно редко.</Duck.description>
+  <Duck.tools.claws.label>когти</Duck.tools.claws.label>
+  <Duck.tools.beak.label>клюв</Duck.tools.beak.label>
+  <Duck.tools.head.label>голова</Duck.tools.head.label>
+  <Goose.label>гусь</Goose.label>
+  <Goose.description>Птица, одомашненная человеком ради яиц и мяса. Очень часто откладывает яйца, но срок их инкубации весьма долог.</Goose.description>
+  <Goose.tools.claws.label>когти</Goose.tools.claws.label>
+  <Goose.tools.beak.label>клюв</Goose.tools.beak.label>
+  <Goose.tools.head.label>голова</Goose.tools.head.label>
+  <Turkey.label>индейка</Turkey.label>
+  <Turkey.description>Невысокая толстая нелетающая птица, известная своим уморительным кулдыканьем. Давно одомашнена, но обитает и в дикой природе.</Turkey.description>
+  <Turkey.tools.claws.label>когти</Turkey.tools.claws.label>
+  <Turkey.tools.beak.label>клюв</Turkey.tools.beak.label>
+  <Turkey.tools.head.label>голова</Turkey.tools.head.label>
+</LanguageData>

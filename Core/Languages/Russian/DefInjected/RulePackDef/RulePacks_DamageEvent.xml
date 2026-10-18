@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DamageEvent_Ceiling.rulePack.rulesStrings>
+    <li>damageSource-&gt;[roof] [collapsed] на</li>
+    <li>roof-&gt;крыша</li>
+    <li>roof-&gt;кровля</li>
+    <li>roof-&gt;потолок</li>
+    <li>collapsed-&gt;обрушивается</li>
+    <li>collapsed-&gt;падает</li>
+    <li>collapsed-&gt;обваливается</li>
+    <li>damaged_participle-&gt;ушибая</li>
+    <li>damaged_participle-&gt;дробя</li>
+    <li>damaged_participle-&gt;давя</li>
+    <li>damaged_participle-&gt;ломая</li>
+    <li>destroyed_participle-&gt;разбивая</li>
+    <li>destroyed_participle-&gt;раздрабливая</li>
+    <li>destroyed_participle-&gt;отбивая</li>
+    <li>destroyed_participle-&gt;размазывая</li>
+    <li>destroyed_participle-&gt;раздавливая</li>
+  </DamageEvent_Ceiling.rulePack.rulesStrings>
+  <DamageEvent_Fire.rulePack.rulesStrings>
+    <li>damageSource-&gt;[fire] опаляет</li>
+    <li>fire(p=3)-&gt;огонь</li>
+    <li>fire(p=3)-&gt;пламя</li>
+    <li>fire(p=3)-&gt;пожар</li>
+    <li>fire-&gt;жар</li>
+    <li>fire-&gt;пламя пожара</li>
+    <li>fire-&gt;огонь пожара</li>
+    <li>damaged_participle-&gt;обжигая</li>
+    <li>damaged_participle-&gt;покрывая ожогами</li>
+    <li>damaged_participle-&gt;поджигая</li>
+    <li>damaged_participle-&gt;запекая</li>
+    <li>destroyed_participle-&gt;обугливая</li>
+    <li>destroyed_participle-&gt;сжигая</li>
+    <li>destroyed_participle-&gt;испепеляя</li>
+    <li>destroyed_participle-&gt;превращая в пепел</li>
+  </DamageEvent_Fire.rulePack.rulesStrings>
+  <DamageEvent_Include.rulePack.rulesStrings>
+    <li>r_logentry(recipient_part_destroyed_count!=0)-&gt;[damageSource] [RECIPIENT_nameDef], [destroyed_participle] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count!=0,recipient_part_damaged_count!=0)-&gt;[damageSource] [RECIPIENT_nameDef], [destroyed_participle] [RECIPIENT_possessive] [destroyed_targets] and [damaged_participle] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,recipient_part_damaged_count!=0)-&gt;[damageSource] [RECIPIENT_nameDef], [damaged_participle] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=0.1)-&gt;[damageSource] [RECIPIENT_nameDef].</li>
+  </DamageEvent_Include.rulePack.rulesStrings>
+  <DamageEvent_PowerBeam.rulePack.rulesStrings>
+    <li>damageSource-&gt;[sky] разверзается над</li>
+    <li>damageSource-&gt;Луч невероятной [power] [damaged]</li>
+    <li>damageSource-&gt;Столб [light] [damaged]</li>
+    <li>sky-&gt;небо</li>
+    <li>sky(p=0.3)-&gt;небесная твердь</li>
+    <li>sky-&gt;небосвод</li>
+    <li>power-&gt;силы</li>
+    <li>power-&gt;энергии</li>
+    <li>power-&gt;мощи</li>
+    <li>light-&gt;света</li>
+    <li>light-&gt;энергии</li>
+    <li>light-&gt;пламени</li>
+    <li>light(p=0.2)-&gt;ослепительного жара</li>
+  </DamageEvent_PowerBeam.rulePack.rulesStrings>
+  <DamageEvent_Tornado.rulePack.rulesStrings>
+    <li>damageSource-&gt;[spiraling] смерч [enveloped]</li>
+    <li>destroyed_participle(p=3)-&gt;разрывая</li>
+    <li>spiraling-&gt;завихрённый</li>
+    <li>spiraling-&gt;кружащийся</li>
+    <li>spiraling-&gt;вихревой</li>
+    <li>spiraling(p=10)-&gt;</li>
+    <li>enveloped(p=8)-&gt;захватывает</li>
+    <li>enveloped(p=8)-&gt;поглощает</li>
+    <li>enveloped(p=8)-&gt;окутывает</li>
+  </DamageEvent_Tornado.rulePack.rulesStrings>
+  <DamageEvent_TrapSpike.rulePack.rulesStrings>
+    <li>damageSource-&gt;[spiketrap] ударяет</li>
+    <li>damageSource-&gt;[spiketrap] бьёт</li>
+    <li>damageSource-&gt;[spiketrap] срабатывает на</li>
+    <li>spiketrap-&gt;ловушка</li>
+    <li>spiketrap-&gt;шипастая ловушка</li>
+    <li>spiketrap-&gt;ловушка с шипами</li>
+    <li>damaged_participle-&gt;пробивая</li>
+    <li>damaged_participle-&gt;пронизывая</li>
+    <li>damaged_participle-&gt;вонзаясь в</li>
+    <li>damaged_participle-&gt;дырявя</li>
+    <li>destroyed_participle-&gt;на куски разрывая</li>
+    <li>destroyed_participle-&gt;в клочья разрывая</li>
+    <li>destroyed_participle-&gt;потроша</li>
+    <li>destroyed_participle-&gt;превращая в фарш</li>
+  </DamageEvent_TrapSpike.rulePack.rulesStrings>
+</LanguageData>

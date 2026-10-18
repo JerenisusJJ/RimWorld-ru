@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Zone_Fishing>Рыболовная зона</Zone_Fishing>
+  <FishingGroup>рыбалка</FishingGroup>
+  <DesignatorFishingZoneDesc>Создайте область, где ваши охотники будут ловить рыбу. Её нужно разместить над водой, в которой есть рыба. Более крупные водоемы обычно лучше подходят для рыбалки.</DesignatorFishingZoneDesc>
+  <DesignatorAreaSnowOrSandClearExpand>Зона очистки от снега и песка</DesignatorAreaSnowOrSandClearExpand>
+  <DesignatorAreaSnowOrSandClearExpandDesc>Создайте область, которую поселенцы будут стараться держать свободной от снега и песка.</DesignatorAreaSnowOrSandClearExpandDesc>
+  <DesignatorAreaSnowOrSandClearClear>Убрать зону очистки от снега и песка</DesignatorAreaSnowOrSandClearClear>
+  <DesignatorAreaSnowOrSandClearClearDesc>Удаляет область очистки от снега и песка. Поселенцы больше не будут поддерживать её чистоту от снега и песка.</DesignatorAreaSnowOrSandClearClearDesc>
+  <DesignatorRemoveFoundation>Убрать основание</DesignatorRemoveFoundation>
+  <DesignatorRemoveFoundationDesc>Уберите мосты или надстройки гравикорабля, чтобы открыть территорию под ними.</DesignatorRemoveFoundationDesc>
+  <DesignatorMoveGravship>Переместить зону посадки</DesignatorMoveGravship>
+  <DesignatorMoveGravshipDesc>Измените расположение места посадки гравикорабля.</DesignatorMoveGravshipDesc>
+</LanguageData>

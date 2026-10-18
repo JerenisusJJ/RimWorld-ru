@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Black.label>чёрный</Black.label>
+  <Blue.label>синий</Blue.label>
+  <DarkBlue.label>тёмно-синий</DarkBlue.label>
+  <DarkGreen.label>тёмно-зелёный</DarkGreen.label>
+  <DarkGrey.label>тёмно-серый</DarkGrey.label>
+  <DarkMauve.label>тёмно-лиловый</DarkMauve.label>
+  <DarkOlive.label>тёмно-оливковый</DarkOlive.label>
+  <DarkOrange.label>тёмно-оранжевый</DarkOrange.label>
+  <DarkPink.label>тёмно-розовый</DarkPink.label>
+  <DarkPurple.label>тёмно-фиолетовый</DarkPurple.label>
+  <DarkRed.label>тёмно-красный</DarkRed.label>
+  <DarkSapphire.label>тёмно-сапфировый</DarkSapphire.label>
+  <DarkTeal.label>тёмно-бирюзовый</DarkTeal.label>
+  <Green.label>зелёный</Green.label>
+  <Grey.label>серый</Grey.label>
+  <LightBlue.label>светло-синий</LightBlue.label>
+  <LightGreen.label>светло-зелёный</LightGreen.label>
+  <LightGrey.label>светло-серый</LightGrey.label>
+  <LightMauve.label>светло-лиловый</LightMauve.label>
+  <LightOlive.label>светло-оливковый</LightOlive.label>
+  <LightOrange.label>светло-оранжевый</LightOrange.label>
+  <LightPink.label>светло-розовый</LightPink.label>
+  <LightPurple.label>светло-фиолетовый</LightPurple.label>
+  <LightRed.label>светло-красный</LightRed.label>
+  <LightSapphire.label>светло-сапфировый</LightSapphire.label>
+  <LightTeal.label>светло-бирюзовый</LightTeal.label>
+  <Mauve.label>лиловый</Mauve.label>
+  <Olive.label>оливковый</Olive.label>
+  <Orange.label>оранжевый</Orange.label>
+  <Pink.label>розовый</Pink.label>
+  <Purple.label>фиолетовый</Purple.label>
+  <Red.label>красный</Red.label>
+  <Sapphire.label>сапфировый</Sapphire.label>
+  <Teal.label>бирюзовый</Teal.label>
+</LanguageData>

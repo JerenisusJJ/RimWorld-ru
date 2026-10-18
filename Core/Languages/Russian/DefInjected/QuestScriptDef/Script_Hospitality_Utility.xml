@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Util_ApplyMoodThreshold.LetterLabelGuestUnhappy.slateRef>Гость недоволен: {SUBJECT_definite}</Util_ApplyMoodThreshold.LetterLabelGuestUnhappy.slateRef>
+  <Util_ApplyMoodThreshold.LetterTextGuestUnhappy.slateRef>{SUBJECT_definite}, {SUBJECT_gender ? которого : которую} вы должны были защищать и опекать, {SUBJECT_gender ? пробыл : пробыла} в настроении ниже минимально допустимого порога [moodThreshold] слишком долго.\n\n[remainingWillNowLeave]</Util_ApplyMoodThreshold.LetterTextGuestUnhappy.slateRef>
+</LanguageData>

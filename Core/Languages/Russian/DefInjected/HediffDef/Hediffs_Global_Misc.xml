@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GravNausea.label>гравитационная тошнота</GravNausea.label>
+  <GravNausea.description>Сильная тошнота, вызванная резким ускорением или замедлением на гравикорабле.</GravNausea.description>
+  <ThrumboRoar.label>рев трумбо</ThrumboRoar.label>
+  <ThrumboRoar.description>Прикажите трумбо издать оглушительный рев. Есть шанс, что враждебные люди и животные будут дрожать от страха, что снизит их скорость передвижения и ловкость.</ThrumboRoar.description>
+  <VacuumExposure.label>воздействие вакуума</VacuumExposure.label>
+  <VacuumExposure.description>Это существо испытывает различные негативные эффекты, вызванные воздействием космического вакуума, включая гипоксию и декомпрессионную болезнь. Оно вскоре погибнет, если не попадет в герметичное пространство.</VacuumExposure.description>
+  <VacuumExposure.stages.initial-0.label>начальная стадия</VacuumExposure.stages.initial-0.label>
+  <VacuumExposure.stages.initial-1.label>начальная стадия</VacuumExposure.stages.initial-1.label>
+  <VacuumExposure.stages.mild.label>легкая стадия</VacuumExposure.stages.mild.label>
+  <VacuumExposure.stages.moderate.label>умеренная стадия</VacuumExposure.stages.moderate.label>
+  <VacuumExposure.stages.extreme.label>крайняя стадия</VacuumExposure.stages.extreme.label>
+  <VolcanicAsh.label>вулканический пепел</VolcanicAsh.label>
+  <VolcanicAsh.description>Пепел от извержения вулкана.</VolcanicAsh.description>
+  <WarTrumpet.label>боевой рев</WarTrumpet.label>
+  <WarTrumpet.description>Прикажите животному издать мощный рев. Есть шанс, что враждебные люди и животные будут дрожать от страха, что снизит их скорость и ловкость.</WarTrumpet.description>
+</LanguageData>

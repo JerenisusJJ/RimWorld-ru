@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Description_Map.rulePack.rulesStrings>
+    <li>desc-&gt;карта [physicalDescription] и показывает интересующее место. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc-&gt;[physicalDescription], эта [mapType] [has] [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc-&gt;эта [mapType] [physicalDescription] и [has] [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc-&gt;[mapType], содержащая [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc-&gt;подборка карт с [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc-&gt;карта из [place] с [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>physicalDescription-&gt;напечатана на тонком и термостойком полимере</li>
+    <li>physicalDescription-&gt;сделана лазерной печатью на гиперткани</li>
+    <li>physicalDescription-&gt;нарисована, по-видимому, засохшей кровью</li>
+    <li>physicalDescription-&gt;скреплена ниткой</li>
+    <li>physicalDescription-&gt;переплетена изношенной кожей</li>
+    <li>physicalDescription-&gt;нарисована на тонкой коже</li>
+    <li>physicalDescription-&gt;переплетена в винил</li>
+    <li>physicalDescription-&gt;нацарапана на тонких листах пергамента</li>
+    <li>physicalDescription-&gt;нацарапана углем</li>
+    <li>physicalDescription-&gt;нацарапана на промокшем холсте</li>
+    <li>physicalDescription-&gt;нацарапана на гнилой шкуре животного</li>
+    <li>physicalDescription-&gt;нацарапана черными чернилами</li>
+    <li>physicalDescription-&gt;вышита на шкуре лося</li>
+    <li>physicalDescription-&gt;написана на высушенной шкуре [Animal_gen]</li>
+    <li>physicalDescription-&gt;создана из почерневшего пергамента</li>
+    <li>physicalDescription-&gt;деликатно сложена в шестнадцать секций</li>
+    <li>physicalDescription-&gt;напечатана промышленным прессом</li>
+    <li>physicalDescription-&gt;напечатана на гиперткани</li>
+    <li>physicalDescription-&gt;изящно напечатана на качественной гиперткани</li>
+    <li>physicalDescription-&gt;украшена голографическими наклейками</li>
+    <li>physicalDescription-&gt;написана паукообразным почерком</li>
+    <li>physicalDescription-&gt;начертана чернилами на пожелтевшей бумаге</li>
+    <li>physicalDescription-&gt;начертана цветными чернилами</li>
+    <li>physicalDescription-&gt;явно повреждена из-за пожара</li>
+    <li>physicalDescription-&gt;нарисована на прочном холсте</li>
+    <li>physicalDescription-&gt;много раз сложена и испачкана грязью и углем</li>
+    <li>physicalDescription-&gt;нарисована на рассыпающемся пергаменте с бледными паукообразными буквами</li>
+    <li>physicalDescription-&gt;нацарапана на пожелтевшем пергаменте с потрепанными и осыпающимися краями</li>
+    <li>mapContents-&gt;сотни мелких рисунков, на которых изображены [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>mapContents-&gt;быстрые наброски, на которых есть [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>mapContents-&gt;примечательные [mapSubject]. Самый длинный озаглавлен: «[AdjectiveBadass]!» и обведен красными чернилами</li>
+    <li>mapContents-&gt;обожженные края и размазанные линии. На главной карте изображены [mapSubjectAdj_plural][mapSubject], однако линии скрыты из-за пятен [stain_adj].</li>
+    <li>mapContents-&gt;новые диаграммы на каждой странице. Некоторые подробно раскрывают тему [mapSubject], отдельно выделены [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>mapContents-&gt;фантастических [mapSubject] и исторические [mapSubject]</li>
+    <li>mapContents-&gt;десятки древних схем, на которых начертаны [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>mapContents-&gt;рисунки по теме. В центре большой [depiction], похожий на [Animal_gen], выполненный в стиле [artstyle_adj]</li>
+    <li>mapContents-&gt;тысячи странных символов, многие из которых напоминают [mapSubject]. Самый распространенный символ выглядит как [Animal], нарисованный в стиле [artstyle_adj]</li>
+    <li>mapContents-&gt;явные следы времени. Одна схема, нарисованная другой рукой, изображает древние [mapSubject] из [place]</li>
+    <li>mapContents-&gt;подробные схемы [place] [mapSubject] и их связь с тем, что называется [mapSubjectAdj_plural][mapSubject]</li>
+    <li>mapContents-&gt;четыре больших эскиза [place] [mapSubject]</li>
+    <li>mapContents-&gt;множество мелких схем. На одной из диаграмм написано «[place] [RomanNumeral]», она содержит подробный обзор [place] [mapSubject]</li>
+    <li>mapContents-&gt;много мелких рисунков, на которых изображены [mapSubjectAdj_plural] [mapSubject] и [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>mapContents-&gt;подробные рисунки планеты. Несколько близлежащих точек помечены как «[Enemy]» красными чернилами</li>
+    <li>mapContents-&gt;координаты нескольких [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>mapContents-&gt;координаты выделены желтым маркером</li>
+    <li>mapContents-&gt;рисунки близлежащих территорий. Грубые символы обозначают безопасные места и тайники</li>
+    <li>mapContents-&gt;месторасположение [Quantity_adjphrase] убежищ зверя «[Animal]». Красные «Х» также обозначают несколько могил</li>
+    <li>mapContents-&gt;ничего важного. Или так кажется</li>
+    <li>mapContents-&gt;выцветшие линии сетки. В каждом секторе есть [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>mapContents-&gt;[Quantity_adjphrase] [mapSubject], изображенные в стиле [artstyle_adj]. Под каждым — [AdjectiveAny_mas] [Animal_mas]</li>
+    <li>mapContents-&gt;[Quantity_adjphrase] [mapSubject], изображенные в стиле [artstyle_adj]. Под каждым — [AdjectiveAny_fem] [Animal_fem]</li>
+    <li>|mapContents-&gt;[Quantity_adjphrase] [mapSubject], изображенные в стиле [artstyle_adj]. Под каждым — [AdjectiveAny_neu] [Animal_neu]</li>
+    <li>maybe_specialFact-&gt;</li>
+    <li>maybe_specialFact-&gt;[specialFact]</li>
+    <li>specialFact-&gt;В обычном свете метки невидимы. Однако в полной темноте появляются призрачные символы и спектральные линии, светящиеся бледным серебром.</li>
+    <li>specialFact-&gt;Метки появляются и исчезают в зависимости от угла освещения.</li>
+    <li>specialFact-&gt;Страницы слабо светятся багровыми знаками, которые извиваются и меняются при приближении к пламени.</li>
+    <li>specialFact-&gt;Примечания выполнены на местном диалекте, что подразумевает, что место рождения автора — [place].</li>
+    <li>specialFact-&gt;В каждом сгибе спрятана буква и несколько чисел, но их смысл неясен.</li>
+    <li>specialFact-&gt;Что-то в этих метках вызывает тревогу.</li>
+    <li>specialFact-&gt;Содержит пометки на давно забытом языке.</li>
+    <li>specialFact-&gt;Грубые и неровные метки меняются со временем, раскрывая скрытый смысл.</li>
+    <li>specialFact-&gt;Говорят, что карта показывает саму жизненную силу земли и ведет читателя туда, где природа сильнее всего.</li>
+    <li>specialFact-&gt;Среди множества сгибов спрятан листок с рисунком на котором начертан зверь «[Animal]», и вид зверя довольно [emotionalState].</li>
+    <li>specialFact-&gt;При долгом контакте с картой на пальцах остаются слабые красные пятна.</li>
+    <li>specialFact-&gt;Между сгибами есть песчинки.</li>
+    <li>specialFact-&gt;Примечания на карте намекают, что она хранит ключ к какому-то большому секрету.</li>
+    <li>specialFact-&gt;В полях грубо нарисованы [mapSubject], скорее всего их происхождение —  [place].</li>
+    <li>specialFact-&gt;Чернила выцвели, а слабые пятна скрывают детали, разгадать которые нелегко.</li>
+    <li>specialFact-&gt;Незаметные швы указывают, что карта сшита из нескольких более крупных.</li>
+    <li>specialFact-&gt;Эта карта может быть не только путеводителем, но и предупреждением.</li>
+    <li>specialFact-&gt;Некоторые метки сделаны наспех, похоже, карта была создана второпях.</li>
+    <li>specialFact-&gt;Детализация намекает, что карта была заказана состоятельным человеком, а скрытность указывает на наличие чего-то тайного.</li>
+    <li>specialFact-&gt;[Quantity_adjphrase] [Character] нарисованы [noteLocation]. Настроение явно было [emotionalState_neu].</li>
+    <li>specialFact-&gt;Изящная каллиграфия подписывает некоторые [mapSubject], но один единичный рисунок отмечен только загадочным символом — знаком «[mapSymbol]».</li>
+    <li>specialFact-&gt;На карте есть краткая биография автора — [PersonJob], земля его предков — [place].</li>
+    <li>specialFact-&gt;Карту создал прославленный [PersonBadass_mas].</li>
+    <li>specialFact-&gt;Карту создала прославленная [PersonBadass_fem].</li>
+    <li>specialFact-&gt;Карту создало прославленное [PersonBadass_neu].</li>
+    <li>specialFact-&gt;Автор карты [emotionalState_mas] [PersonBadass_mas].</li>
+    <li>specialFact-&gt;Автор карты [emotionalState_fem] [PersonBadass_fem].</li>
+    <li>specialFact-&gt;Автор карты [emotionalState_neu] [PersonBadass_neu].</li>
+    <li>specialFact-&gt;Простота карты говорит о спешке при ее создании — [PersonBadass_mas] хотел опередить власти.</li>
+    <li>specialFact-&gt;Простота карты говорит о спешке при ее создании — [PersonBadass_fem] хотела опередить власти.</li>
+    <li>specialFact-&gt;Простота карты говорит о спешке при ее создании — [PersonBadass_neu] хотело опередить власти.</li>
+    <li>specialFact-&gt;Некоторые области обведены с пояснениями вроде «[Enemy] — не попадаться» и «[Animal] — опасность».</li>
+    <li>specialFact-&gt;На карте обведено «[mapSymbol]» и подписано: «пахнет [smell] и [stain]».</li>
+    <li>specialFact-&gt;На полях написана тысячелетняя поэма «Diabolus».</li>
+    <li>specialFact-&gt;Легенда обозначает [mapSymbol] ([Color] ) как логово [Enemy], а [mapSymbol] ([Color] ) — как охотничьи угодья [Animal_gen].</li>
+    <li>specialFact-&gt;Масштаб карты определенно нарушен.</li>
+    <li>specialFact-&gt;На карте есть выцветшая восковая печать [noteLocation], напоминающая зверя «[emotionalState_mas] [Animal_mas]».</li>
+    <li>specialFact-&gt;На карте есть выцветшая восковая печать [noteLocation], напоминающая зверя «[emotionalState_fem] [Animal_fem]».</li>
+    <li>specialFact-&gt;На карте есть выцветшая восковая печать [noteLocation], напоминающая зверя «[emotionalState_neu] [Animal_neu]».</li>
+    <li>maybe_questInfo-&gt;</li>
+    <li>maybe_questInfo(p=3)-&gt;[questInfo]</li>
+    <li>questInfo-&gt;Область на карте обведена и подписана: «[mapText]!»</li>
+    <li>questInfo-&gt;Приложенная записка подписана: «[mapText]?»</li>
+    <li>questInfo-&gt;«[mapText]» нацарапано выцветшими чернилами [noteLocation].</li>
+    <li>questInfo-&gt;Записка [noteLocation] гласит: «[mapText].»</li>
+    <li>questInfo-&gt;Написанная наспех записка [noteLocation] гласит: «[mapText]!»</li>
+    <li>questInfo-&gt;Загадка нацарапана [noteLocation]. Заканчивается словами: «…[mapText].»</li>
+    <li>questInfo-&gt;Рядом с  [mapSymbol] надпись: «[mapText].»</li>
+    <li>questInfo-&gt;На карте выжжены слова: «[mapText].»</li>
+    <li>questInfo-&gt;[mapSymbol] большого размера нарисован у [mapFeature]. Подписано: «[mapText].»</li>
+    <li>questInfo-&gt;[Color_fem] роза ветров выгравирована на карте. Странно, но север и юг перепутаны. В центре розы написано: «[mapText].»</li>
+    <li>questInfo-&gt;Предыдущий владелец карты явно что-то искал. Одна область обведена рядом с надписью: «[mapText].»</li>
+    <li>questInfo-&gt;Держа карту на свету, можно увидеть слова: «[mapText].»</li>
+    <li>questInfo-&gt;[noteLocation],  [mapSymbol] подписан: «[mapText]!»</li>
+    <li>questInfo-&gt;[noteLocation], [mapSymbol] подписан: «[mapText]?»</li>
+    <li>questInfo-&gt;[noteLocation], некоторые заметки размазаны. Видно только одно: «Подтверждено – [mapText].»</li>
+    <li>questInfo-&gt;[noteLocation] находится грубый рисунок [PersonBadass_gen]. Под ним — слова: «[mapText].»</li>
+    <li>questInfo-&gt;[noteLocation] набросан карандашом зверь «[Animal]». Ниже написано: «[mapText].»</li>
+    <li>questInfo-&gt;Легенда карты помечает [mapSymbol] как «[mapText].»</li>
+    <li>questInfo-&gt;Толстый красный крест перечеркнут по месту. Рядом мелко приписано: «[mapText]».</li>
+    <li>questInfo-&gt;При ближайшем рассмотрении заметно, что кто-то пытался стереть слова «[mapText]» с карты.</li>
+    <li>questInfo-&gt;Рядом с иконкой черепа кто-то крупно вывел: «[mapText].»</li>
+    <li>questInfo-&gt;Необычный символ нарисован [noteLocation]. Под ним написано: «[mapText].»</li>
+    <li>questInfo-&gt;[Color_mas] кинжал выгравирован на карте, указывая на слова: «[mapText].»</li>
+    <li>questInfo-&gt;[noteLocation] — контрольный список. Все пункты вычеркнуты, остался один: «[mapText].»</li>
+    <li>maybe_condition-&gt;</li>
+    <li>maybe_condition-&gt;[conditionSmell]</li>
+    <li>maybe_condition-&gt;[conditionStains]</li>
+    <li>maybe_condition-&gt;[conditionTouch]</li>
+    <li>conditionSmell-&gt;Пахнет [smell].</li>
+    <li>conditionSmell-&gt;Слегка пахнет [smell].</li>
+    <li>conditionSmell-&gt;Карта слабо пахнет [smell], намекает на прошлое занятие владельца.</li>
+    <li>smell-&gt;солью и морскими водорослями</li>
+    <li>smell-&gt;розами</li>
+    <li>smell-&gt;серой</li>
+    <li>smell-&gt;химтопливом</li>
+    <li>smell-&gt;сеном и навозом</li>
+    <li>smell-&gt;горелым мясом</li>
+    <li>smell-&gt;желе насекомых</li>
+    <li>smell-&gt;духами</li>
+    <li>smell-&gt;маслом и порохом</li>
+    <li>smell-&gt;гнилыми токсокартофами</li>
+    <li>smell-&gt;миндалем</li>
+    <li>smell-&gt;отбеливателем</li>
+    <li>smell-&gt;фекалиями [Animal_gen]</li>
+    <li>conditionStains-&gt;Царапины и пятна [stain_adj] скрывают детали, чтение затруднено.</li>
+    <li>conditionStains-&gt;Пятна [stain_adj] и ожоги говорят о частом использовании в суровых условиях.</li>
+    <li>conditionStains-&gt;Схемы скрыты и заляпаны [stain].</li>
+    <li>conditionStains-&gt;Карта не завершена и испачкана [stain].</li>
+    <li>conditionTouch-&gt;Пятна [stain_adj] и изношенные края придают ей вид утилитарной, часто использовавшейся вещи.</li>
+    <li>stain-&gt;кровью</li>
+    <li>stain_adj-&gt;крови</li>
+    <li>stain-&gt;маслом</li>
+    <li>stain_adj-&gt;масла</li>
+    <li>stain-&gt;смазкой</li>
+    <li>stain_adj-&gt;смазки</li>
+    <li>stain-&gt;красными чернилами</li>
+    <li>stain_adj-&gt;красных чернил</li>
+    <li>stain-&gt;соленой водой</li>
+    <li>stain_adj-&gt;соленой воды</li>
+    <li>stain-&gt;воском</li>
+    <li>stain_adj-&gt;воска</li>
+    <li>stain-&gt;кофе</li>
+    <li>stain_adj-&gt;кофе</li>
+    <li>stain-&gt;ржавчиной</li>
+    <li>stain_adj-&gt;ржавчины</li>
+    <li>stain-&gt;химтопливом</li>
+    <li>stain_adj-&gt;химтоплива</li>
+    <li>conditionTouch-&gt;Страницы шероховаты на ощупь.</li>
+    <li>conditionTouch-&gt;Карта хрупка на ощупь.</li>
+    <li>conditionTouch-&gt;Обожженные края намекают, что она спасена после неудачной миссии.</li>
+    <li>conditionTouch-&gt;На ощупь карта кажется хрупкой, но хранит десятки лет опыта.</li>
+    <li>conditionTouch-&gt;Края поцарапаны и выцвели. Один уголок заклеен лентой.</li>
+    <li>maybe_authorInfo-&gt;</li>
+    <li>maybe_authorInfo-&gt;\n\n[authorInfo]</li>
+    <li>authorInfo-&gt;Неизвестно, кто создал эту карту.</li>
+    <li>authorInfo-&gt;Автор карты — [ANYPAWN_nameFull], [ANYPAWN_kind] из [ANYPAWN_factionName_gen].</li>
+    <li>authorInfo-&gt;[noteLocation] карта подписана: [ANYPAWN_nameIndef] ([PersonJob]).</li>
+    <li>authorInfo-&gt;В комплекте к карте есть короткая биография автора — [ANYPAWN_nameIndef] ([ANYPAWN_kind]).</li>
+    <li>authorInfo-&gt;Похоже, предыдущим владельцем карты был некий [ANYPAWN_nameIndef].</li>
+    <li>authorInfo-&gt;Карта когда-то принадлежала анонимному [ANYPAWN_kind]. Метки на ней подсказывают, что [ANYPAWN_pronoun] был или была членом фракции [ANYPAWN_factionName].</li>
+    <li>has-&gt;имеет</li>
+    <li>has-&gt;содержит</li>
+    <li>has-&gt;характеризуется</li>
+    <li>emotionalState_mas-&gt;радостный</li>
+    <li>emotionalState_fem-&gt;радостная</li>
+    <li>emotionalState_plural-&gt;радостные</li>
+    <li>emotionalState_neu-&gt;радостное</li>
+    <li>emotionalState_mas-&gt;подавленный</li>
+    <li>emotionalState_fem-&gt;подавленная</li>
+    <li>emotionalState_plural-&gt;подавленные</li>
+    <li>emotionalState_neu-&gt;подавленное</li>
+    <li>emotionalState_mas-&gt;сердитый</li>
+    <li>emotionalState_fem-&gt;сердитая</li>
+    <li>emotionalState_plural-&gt;сердитые</li>
+    <li>emotionalState_neu-&gt;сердитое</li>
+    <li>emotionalState_mas-&gt;чувственный</li>
+    <li>emotionalState_fem-&gt;чувственная</li>
+    <li>emotionalState_plural-&gt;чувственные</li>
+    <li>emotionalState_neu-&gt;чувственное</li>
+    <li>mapType(p=4)_fem-&gt;карта</li>
+    <li>mapType_fem-&gt;схема</li>
+    <li>mapType_mas-&gt;атлас</li>
+    <li>mapType_mas-&gt;обзорный доклад</li>
+    <li>mapSymbol-&gt;ключ</li>
+    <li>mapSymbol-&gt;«Х»</li>
+    <li>mapSymbol-&gt;звезда</li>
+    <li>mapSymbol-&gt;луна</li>
+    <li>mapSymbol-&gt;башня</li>
+    <li>mapSymbol-&gt;череп</li>
+    <li>mapSymbol-&gt;[Animal]</li>
+    <li>mapText(p=10)-&gt;[questMapText]</li>
+    <li>mapText(p=2)-&gt;[subject]</li>
+    <li>mapText-&gt;крайняя опасность</li>
+    <li>mapText-&gt;остерегайтесь [Enemy_gen]</li>
+    <li>mapText-&gt;впереди голод</li>
+    <li>mapText-&gt;не оставляйте следов</li>
+    <li>mapText-&gt;сумасшедший [Animal_mas]</li>
+    <li>mapText-&gt;сумасшедшая [Animal_fem]</li>
+    <li>mapText-&gt;сумасшедшее [Animal_neu]</li>
+    <li>mapText-&gt;сумасшедшие [Animal_plural]</li>
+    <li>mapText-&gt;набег налетчиков</li>
+    <li>mapText-&gt;наш последний караван</li>
+    <li>mapText-&gt;выживших нет</li>
+    <li>mapText-&gt;это здесь</li>
+    <li>mapText-&gt;здесь покоится [ANYPAWN_nameIndef]</li>
+    <li>mapText-&gt;последний покой [ANYPAWN_nameIndef_gen]</li>
+    <li>mapText-&gt;собственность [ANYPAWN_factionName]</li>
+    <li>mapFeature(p=8)-&gt;[questMapFeature_gen]</li>
+    <li>mapFeature-&gt;реки</li>
+    <li>mapFeature-&gt;соединения двух рек</li>
+    <li>mapFeature-&gt;перекрестка</li>
+    <li>mapFeature-&gt;горной гряды</li>
+    <li>mapFeature-&gt;побережья</li>
+    <li>mapFeature-&gt;озера</li>
+    <li>mapFeature-&gt;прибрежной бухты</li>
+    <li>mapFeature-&gt;прибрежного острова</li>
+    <li>noteLocation-&gt;в углу</li>
+    <li>noteLocation-&gt;в углу карты</li>
+    <li>noteLocation-&gt;в одном из углов</li>
+    <li>noteLocation-&gt;слева</li>
+    <li>noteLocation-&gt;на обратной стороне</li>
+    <li>noteLocation-&gt;внизу</li>
+    <li>noteLocation-&gt;возле [mapFeature]</li>
+    <li>noteLocation-&gt;рядом с [mapFeature]</li>
+    <li>noteLocation-&gt;ниже [mapFeature]</li>
+    <li>noteLocation-&gt;по краю карты</li>
+  </Description_Map.rulePack.rulesStrings>
+  <MapUtility.rulePack.rulesStrings>
+    <li>place-&gt;[PlaceOutlander]</li>
+    <li>place-&gt;[direction_mas] [PlaceOutlander]</li>
+    <li>PlaceOutlander-&gt;[CapSylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[CapSylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[CapSylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[CapSylE][SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[CapSylE][SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[CapSylE][SylE][SylE][place_end]</li>
+    <li>mapSubjectAdj(p=6)_mas-&gt;[direction_mas]</li>
+    <li>mapSubjectAdj(p=6)_fem-&gt;[direction_fem]</li>
+    <li>mapSubjectAdj(p=6)_neu-&gt;[direction_neu]</li>
+    <li>mapSubjectAdj(p=6)_plural-&gt;[direction_plural]</li>
+    <li>mapSubjectAdj_mas-&gt;древний</li>
+    <li>mapSubjectAdj_fem-&gt;древняя</li>
+    <li>mapSubjectAdj_plural-&gt;древние</li>
+    <li>mapSubjectAdj_neu-&gt;древнее</li>
+    <li>mapSubjectAdj_mas-&gt;исторический</li>
+    <li>mapSubjectAdj_fem-&gt;историческая</li>
+    <li>mapSubjectAdj_plural-&gt;исторические</li>
+    <li>mapSubjectAdj_neu-&gt;историческое</li>
+    <li>mapSubjectAdj_mas-&gt;старый</li>
+    <li>mapSubjectAdj_fem-&gt;старая</li>
+    <li>mapSubjectAdj_plural-&gt;старые</li>
+    <li>mapSubjectAdj_neu-&gt;старое</li>
+    <li>mapSubjectAdj_mas-&gt;забытый</li>
+    <li>mapSubjectAdj_fem-&gt;забытая</li>
+    <li>mapSubjectAdj_plural-&gt;забытые</li>
+    <li>mapSubjectAdj_neu-&gt;забытое</li>
+    <li>mapSubjectAdj_mas-&gt;секретный</li>
+    <li>mapSubjectAdj_fem-&gt;секретная</li>
+    <li>mapSubjectAdj_plural-&gt;секретные</li>
+    <li>mapSubjectAdj_neu-&gt;секретное</li>
+    <li>mapSubjectAdj_mas-&gt;личный</li>
+    <li>mapSubjectAdj_fem-&gt;личная</li>
+    <li>mapSubjectAdj_plural-&gt;личные</li>
+    <li>mapSubjectAdj_neu-&gt;личное</li>
+    <li>mapSubjectAdj_mas-&gt;скрытый</li>
+    <li>mapSubjectAdj_fem-&gt;скрытая</li>
+    <li>mapSubjectAdj_plural-&gt;скрытые</li>
+    <li>mapSubjectAdj_neu-&gt;скрытое</li>
+    <li>mapSubjectAdj_mas-&gt;оккультный</li>
+    <li>mapSubjectAdj_fem-&gt;оккультная</li>
+    <li>mapSubjectAdj_plural-&gt;оккультные</li>
+    <li>mapSubjectAdj_neu-&gt;оккультное</li>
+    <li>mapSubjectAdj_mas-&gt;неизвестный</li>
+    <li>mapSubjectAdj_fem-&gt;неизвестная</li>
+    <li>mapSubjectAdj_plural-&gt;неизвестные</li>
+    <li>mapSubjectAdj_neu-&gt;неизвестное</li>
+    <li>mapSubjectAdj_mas-&gt;необычный</li>
+    <li>mapSubjectAdj_fem-&gt;необычная</li>
+    <li>mapSubjectAdj_plural-&gt;необычные</li>
+    <li>mapSubjectAdj_neu-&gt;необычное</li>
+    <li>mapSubjectAdj_mas-&gt;странный</li>
+    <li>mapSubjectAdj_fem-&gt;странная</li>
+    <li>mapSubjectAdj_plural-&gt;странные</li>
+    <li>mapSubjectAdj_neu-&gt;странное</li>
+    <li>mapSubjectAdj_mas-&gt;необычный</li>
+    <li>mapSubjectAdj_fem-&gt;необычная</li>
+    <li>mapSubjectAdj_plural-&gt;необычные</li>
+    <li>mapSubjectAdj_neu-&gt;необычное</li>
+    <li>mapSubjectAdj_mas-&gt;стоящий</li>
+    <li>mapSubjectAdj_fem-&gt;стоящая</li>
+    <li>mapSubjectAdj_plural-&gt;стоящие</li>
+    <li>mapSubjectAdj_neu-&gt;стоящее</li>
+    <li>mapSubjectAdj_mas-&gt;драгоценный</li>
+    <li>mapSubjectAdj_fem-&gt;драгоценная</li>
+    <li>mapSubjectAdj_plural-&gt;драгоценные</li>
+    <li>mapSubjectAdj_neu-&gt;драгоценное</li>
+    <li>mapSubjectAdj_mas-&gt;очаровательный</li>
+    <li>mapSubjectAdj_fem-&gt;очаровательная</li>
+    <li>mapSubjectAdj_plural-&gt;очаровательные</li>
+    <li>mapSubjectAdj_neu-&gt;очаровательное</li>
+    <li>mapSubjectAdj_mas-&gt;гламурный</li>
+    <li>mapSubjectAdj_fem-&gt;гламурная</li>
+    <li>mapSubjectAdj_plural-&gt;гламурные</li>
+    <li>mapSubjectAdj_neu-&gt;гламурное</li>
+    <li>mapSubjectAdj_mas-&gt;возмутительный</li>
+    <li>mapSubjectAdj_fem-&gt;возмутительная</li>
+    <li>mapSubjectAdj_plural-&gt;возмутительные</li>
+    <li>mapSubjectAdj_neu-&gt;возмутительное</li>
+    <li>mapSubjectAdj_mas-&gt;дикий</li>
+    <li>mapSubjectAdj_fem-&gt;дикая</li>
+    <li>mapSubjectAdj_plural-&gt;дикие</li>
+    <li>mapSubjectAdj_neu-&gt;дикое</li>
+    <li>mapSubjectAdj_mas-&gt;великий</li>
+    <li>mapSubjectAdj_fem-&gt;великая</li>
+    <li>mapSubjectAdj_plural-&gt;великие</li>
+    <li>mapSubjectAdj_neu-&gt;великое</li>
+    <li>mapSubjectAdj_mas-&gt;проклятый</li>
+    <li>mapSubjectAdj_fem-&gt;проклятая</li>
+    <li>mapSubjectAdj_plural-&gt;проклятые</li>
+    <li>mapSubjectAdj_neu-&gt;проклятое</li>
+    <li>mapSubjectAdj_mas-&gt;грандиозный</li>
+    <li>mapSubjectAdj_fem-&gt;грандиозная</li>
+    <li>mapSubjectAdj_plural-&gt;грандиозные</li>
+    <li>mapSubjectAdj_neu-&gt;грандиозное</li>
+    <li>mapSubjectAdj_mas-&gt;маленький</li>
+    <li>mapSubjectAdj_fem-&gt;маленькая</li>
+    <li>mapSubjectAdj_plural-&gt;маленькие</li>
+    <li>mapSubjectAdj_neu-&gt;маленькое</li>
+    <li>mapSubjectAdj_mas-&gt;плохой</li>
+    <li>mapSubjectAdj_fem-&gt;плохая</li>
+    <li>mapSubjectAdj_plural-&gt;плохие</li>
+    <li>mapSubjectAdj_neu-&gt;плохое</li>
+    <li>mapSubjectAdj_mas-&gt;ужасный</li>
+    <li>mapSubjectAdj_fem-&gt;ужасная</li>
+    <li>mapSubjectAdj_plural-&gt;ужасные</li>
+    <li>mapSubjectAdj_neu-&gt;ужасное</li>
+    <li>mapSubjectAdj_mas-&gt;смертоносный</li>
+    <li>mapSubjectAdj_fem-&gt;смертоносная</li>
+    <li>mapSubjectAdj_plural-&gt;смертоносные</li>
+    <li>mapSubjectAdj_neu-&gt;смертоносное</li>
+    <li>mapSubjectAdj_mas-&gt;мистический</li>
+    <li>mapSubjectAdj_fem-&gt;мистическая</li>
+    <li>mapSubjectAdj_plural-&gt;мистические</li>
+    <li>mapSubjectAdj_neu-&gt;мистическое</li>
+    <li>mapSubjectAdj_mas-&gt;святой</li>
+    <li>mapSubjectAdj_fem-&gt;святая</li>
+    <li>mapSubjectAdj_plural-&gt;святые</li>
+    <li>mapSubjectAdj_neu-&gt;святое</li>
+    <li>mapSubjectAdj_mas-&gt;местный</li>
+    <li>mapSubjectAdj_fem-&gt;местная</li>
+    <li>mapSubjectAdj_plural-&gt;местные</li>
+    <li>mapSubjectAdj_neu-&gt;местное</li>
+    <li>mapSubjectAdj_mas-&gt;региональный</li>
+    <li>mapSubjectAdj_fem-&gt;региональная</li>
+    <li>mapSubjectAdj_plural-&gt;региональные</li>
+    <li>mapSubjectAdj_neu-&gt;региональное</li>
+    <li>mapSubjectAdj_mas-&gt;родной</li>
+    <li>mapSubjectAdj_fem-&gt;родная</li>
+    <li>mapSubjectAdj_plural-&gt;родные</li>
+    <li>mapSubjectAdj_neu-&gt;родное</li>
+    <li>mapSubjectAdj_mas-&gt;близлежащий</li>
+    <li>mapSubjectAdj_fem-&gt;близлежащая</li>
+    <li>mapSubjectAdj_plural-&gt;близлежащие</li>
+    <li>mapSubjectAdj_neu-&gt;близлежащие</li>
+    <li>mapSubjectAdj_mas-&gt;планетарный</li>
+    <li>mapSubjectAdj_fem-&gt;планетарная</li>
+    <li>mapSubjectAdj_plural-&gt;планетарные</li>
+    <li>mapSubjectAdj_neu-&gt;планетарное</li>
+    <li>mapSubjectAdj_mas-&gt;опасный</li>
+    <li>mapSubjectAdj_fem-&gt;опасная</li>
+    <li>mapSubjectAdj_plural-&gt;опасные</li>
+    <li>mapSubjectAdj_neu-&gt;опасное</li>
+    <li>mapSubjectAdj_mas-&gt;смертельный</li>
+    <li>mapSubjectAdj_fem-&gt;смертельная</li>
+    <li>mapSubjectAdj_plural-&gt;смертельные</li>
+    <li>mapSubjectAdj_neu-&gt;смертельное</li>
+    <li>mapSubjectAdj_mas-&gt;токсичный</li>
+    <li>mapSubjectAdj_fem-&gt;токсичная</li>
+    <li>mapSubjectAdj_plural-&gt;токсичные</li>
+    <li>mapSubjectAdj_neu-&gt;токсичное</li>
+    <li>mapSubjectAdj_mas-&gt;избранный</li>
+    <li>mapSubjectAdj_fem-&gt;избранная</li>
+    <li>mapSubjectAdj_plural-&gt;избранные</li>
+    <li>mapSubjectAdj_neu-&gt;избранное</li>
+    <li>mapSubjectAdj_mas-&gt;уникальный</li>
+    <li>mapSubjectAdj_fem-&gt;уникальная</li>
+    <li>mapSubjectAdj_plural-&gt;уникальные</li>
+    <li>mapSubjectAdj_neu-&gt;уникальное</li>
+    <li>mapSubjectAdj_mas-&gt;важный</li>
+    <li>mapSubjectAdj_fem-&gt;важная</li>
+    <li>mapSubjectAdj_plural-&gt;важные</li>
+    <li>mapSubjectAdj_neu-&gt;важное</li>
+    <li>direction_mas-&gt;северный</li>
+    <li>direction_fem-&gt;северная</li>
+    <li>direction_plural-&gt;северные</li>
+    <li>direction_neu-&gt;северное</li>
+    <li>direction_mas-&gt;восточный</li>
+    <li>direction_fem-&gt;восточная</li>
+    <li>direction_plural-&gt;восточные</li>
+    <li>direction_neu-&gt;восточное</li>
+    <li>direction_mas-&gt;южный</li>
+    <li>direction_fem-&gt;южная</li>
+    <li>direction_plural-&gt;южные</li>
+    <li>direction_neu-&gt;южное</li>
+    <li>direction_mas-&gt;западный</li>
+    <li>direction_fem-&gt;западная</li>
+    <li>direction_plural-&gt;западные</li>
+    <li>direction_neu-&gt;западное</li>
+    <li>direction(p=0.2)_mas-&gt;подземный</li>
+    <li>direction(p=0.2)_fem-&gt;подземная</li>
+    <li>direction(p=0.2)_plural-&gt;подземные</li>
+    <li>direction(p=0.2)_neu-&gt;подземное</li>
+    <li>direction(p=0.2)_mas-&gt;подземельный</li>
+    <li>direction(p=0.2)_fem-&gt;подземельная</li>
+    <li>direction(p=0.2)_plural-&gt;подземельные</li>
+    <li>direction(p=0.2)_neu-&gt;подземельное</li>
+    <li>mapSubject-&gt;дороги</li>
+    <li>mapSubject-&gt;тропы</li>
+    <li>mapSubject-&gt;пути</li>
+    <li>mapSubject-&gt;пещеры</li>
+    <li>mapSubject-&gt;холмы</li>
+    <li>mapSubject-&gt;горы</li>
+    <li>mapSubject-&gt;реки</li>
+    <li>mapSubject-&gt;леса</li>
+    <li>mapSubject-&gt;болота</li>
+    <li>mapSubject-&gt;пустоши</li>
+    <li>mapSubject-&gt;ориентиры</li>
+    <li>mapSubject-&gt;водосборы</li>
+    <li>mapSubject-&gt;озера</li>
+    <li>mapSubject-&gt;долины</li>
+    <li>mapSubject-&gt;места</li>
+    <li>mapSubject-&gt;участки</li>
+    <li>mapSubject-&gt;легенды</li>
+    <li>mapSubject-&gt;тайны</li>
+    <li>mapSubject-&gt;границы</li>
+    <li>mapSubject-&gt;рубежи</li>
+    <li>mapSubject-&gt;локации</li>
+    <li>mapSubject-&gt;ресурсы</li>
+    <li>mapSubject-&gt;артефакты</li>
+    <li>mapSubject-&gt;реликвии</li>
+    <li>mapSubject-&gt;города</li>
+    <li>mapSubject-&gt;поселения</li>
+    <li>mapSubject-&gt;крепости</li>
+    <li>mapSubject-&gt;руины</li>
+    <li>mapSubject-&gt;развалины</li>
+    <li>mapSubject-&gt;народы</li>
+    <li>mapSubject-&gt;истории</li>
+    <li>mapSubject-&gt;территории</li>
+    <li>mapSubject-&gt;массивы суши</li>
+    <li>CapSylE-&gt;Al</li>
+    <li>CapSylE-&gt;All</li>
+    <li>CapSylE-&gt;An</li>
+    <li>CapSylE-&gt;And</li>
+    <li>CapSylE-&gt;Ar</li>
+    <li>CapSylE-&gt;Are</li>
+    <li>CapSylE-&gt;As</li>
+    <li>CapSylE-&gt;At</li>
+    <li>CapSylE-&gt;Ban</li>
+    <li>CapSylE-&gt;Bin</li>
+    <li>CapSylE-&gt;Bon</li>
+    <li>CapSylE-&gt;But</li>
+    <li>CapSylE-&gt;Ca</li>
+    <li>CapSylE-&gt;Co</li>
+    <li>CapSylE-&gt;Da</li>
+    <li>CapSylE-&gt;Del</li>
+    <li>CapSylE-&gt;Din</li>
+    <li>CapSylE-&gt;Do</li>
+    <li>CapSylE-&gt;Ea</li>
+    <li>CapSylE-&gt;Ed</li>
+    <li>CapSylE-&gt;En</li>
+    <li>CapSylE-&gt;Ent</li>
+    <li>CapSylE-&gt;Er</li>
+    <li>CapSylE-&gt;Era</li>
+    <li>CapSylE-&gt;Ere</li>
+    <li>CapSylE-&gt;Es</li>
+    <li>CapSylE-&gt;Eve</li>
+    <li>CapSylE-&gt;Far</li>
+    <li>CapSylE-&gt;Fen</li>
+    <li>CapSylE-&gt;Fin</li>
+    <li>CapSylE-&gt;For</li>
+    <li>CapSylE-&gt;Fun</li>
+    <li>CapSylE-&gt;Ga</li>
+    <li>CapSylE-&gt;Go</li>
+    <li>CapSylE-&gt;Ha</li>
+    <li>CapSylE-&gt;Had</li>
+    <li>CapSylE-&gt;Hat</li>
+    <li>CapSylE-&gt;He</li>
+    <li>CapSylE-&gt;Hen</li>
+    <li>CapSylE-&gt;Her</li>
+    <li>CapSylE-&gt;Hi</li>
+    <li>CapSylE-&gt;Hi</li>
+    <li>CapSylE-&gt;Hin</li>
+    <li>CapSylE-&gt;His</li>
+    <li>CapSylE-&gt;In</li>
+    <li>CapSylE-&gt;Is</li>
+    <li>CapSylE-&gt;It</li>
+    <li>CapSylE-&gt;Ith</li>
+    <li>CapSylE-&gt;Ja</li>
+    <li>CapSylE-&gt;Ka</li>
+    <li>CapSylE-&gt;Ko</li>
+    <li>CapSylE-&gt;La</li>
+    <li>CapSylE-&gt;Lan</li>
+    <li>CapSylE-&gt;Le</li>
+    <li>CapSylE-&gt;Len</li>
+    <li>CapSylE-&gt;Lon</li>
+    <li>CapSylE-&gt;Ma</li>
+    <li>CapSylE-&gt;Me</li>
+    <li>CapSylE-&gt;Men</li>
+    <li>CapSylE-&gt;Min</li>
+    <li>CapSylE-&gt;Mon</li>
+    <li>CapSylE-&gt;Na</li>
+    <li>CapSylE-&gt;Ne</li>
+    <li>CapSylE-&gt;Not</li>
+    <li>CapSylE-&gt;Ome</li>
+    <li>CapSylE-&gt;On</li>
+    <li>CapSylE-&gt;Or</li>
+    <li>CapSylE-&gt;Ou</li>
+    <li>CapSylE-&gt;Oul</li>
+    <li>CapSylE-&gt;Our</li>
+    <li>CapSylE-&gt;Pa</li>
+    <li>CapSylE-&gt;Qua</li>
+    <li>CapSylE-&gt;Ra</li>
+    <li>CapSylE-&gt;Re</li>
+    <li>CapSylE-&gt;Ro</li>
+    <li>CapSylE-&gt;Se</li>
+    <li>CapSylE-&gt;Sho</li>
+    <li>CapSylE-&gt;St</li>
+    <li>CapSylE-&gt;Te</li>
+    <li>CapSylE-&gt;Ted</li>
+    <li>CapSylE-&gt;Ter</li>
+    <li>CapSylE-&gt;Tha</li>
+    <li>CapSylE-&gt;The</li>
+    <li>CapSylE-&gt;Thi</li>
+    <li>CapSylE-&gt;Thi</li>
+    <li>CapSylE-&gt;Ti</li>
+    <li>CapSylE-&gt;To</li>
+    <li>CapSylE-&gt;Un</li>
+    <li>CapSylE-&gt;Ve</li>
+    <li>CapSylE-&gt;Ver</li>
+    <li>CapSylE-&gt;Wa</li>
+    <li>CapSylE-&gt;Was</li>
+    <li>CapSylE-&gt;Wit</li>
+    <li>CapSylE-&gt;You</li>
+  </MapUtility.rulePack.rulesStrings>
+  <Namer_Map.rulePack.rulesStrings>
+    <li>title(p=2)-&gt;[mapType] [mapNoun_fem]: [subject]</li>
+    <li>title(p=2)-&gt; [mapType] [map_fem]</li>
+    <li>title(p=2)-&gt;[maybeAdjective_fem] [maybeAdjective_fem] [map_fem] [ANYPAWN_nameIndef_gen]</li>
+    <li>title(p=2)-&gt;[maybeAdjective_mas] [maybeAdjective_mas] [map_mas] [ANYPAWN_nameIndef_gen]</li>
+    <li>title(p=2)-&gt;[maybeAdjective_neu] [maybeAdjective_neu] [map_neu] [ANYPAWN_nameIndef_gen]</li>
+    <li>title(p=2)-&gt;[maybeAdjective_plural] [maybeAdjective_plural] [map_plural] [ANYPAWN_nameIndef_gen]</li>
+    <li>title-&gt;[mapType_adj] [mapNoun_fem]: [subject]</li>
+    <li>title-&gt;[mapType_fem]-[mapNoun_fem]: [subject]</li>
+    <li>title-&gt;[mapType_mas]-[mapNoun_mas]: [subject]</li>
+    <li>title-&gt;[mapType_neu]-[mapNoun_neu]: [subject]</li>
+    <li>title-&gt;[mapNoun]: [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>title-&gt;[AdjectiveAny_mas] [map_mas]</li>
+    <li>title-&gt;[AdjectiveAny_fem] [map_fem]</li>
+    <li>title-&gt;[AdjectiveAny_neu] [map_new]</li>
+    <li>title-&gt;[AdjectiveAny_plural] [map_plural]</li>
+    <li>title(p=0.5)-&gt;карты: [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>title(p=0.5)-&gt; [mapNoun]: [place]</li>
+    <li>maybeAdjective-&gt;</li>
+    <li>maybeAdjective_mas-&gt;[adjective_mas]]</li>
+    <li>maybeAdjective_fem-&gt;[adjective_fem]</li>
+    <li>maybeAdjective_neu-&gt;[adjective_neu]</li>
+    <li>maybeAdjective_plural-&gt;[adjective_plural]  </li>
+    <li>adjective_mas-&gt;[AdjectiveAny_mas]]</li>
+    <li>adjective_fem-&gt;[AdjectiveAny_fem]</li>
+    <li>adjective_neu-&gt;[AdjectiveAny_neu]</li>
+    <li>adjective_plural-&gt;[AdjectiveAny_plural]</li>
+    <li>adjective_mas-&gt;[Color_mas]]</li>
+    <li>adjective_fem-&gt;[Color_fem]</li>
+    <li>adjective_neu-&gt;[Color_neu]</li>
+    <li>adjective_plural-&gt;[Color_plural]</li>
+    <li>adjective_mas-&gt;[AdjectiveLarge_mas]]</li>
+    <li>adjective_fem-&gt;[AdjectiveLarge_fem]</li>
+    <li>adjective_neu-&gt;[AdjectiveLarge_neu]</li>
+    <li>adjective_plural-&gt;[AdjectiveLarge_plural]  </li>
+    <li>maybeThe-&gt;</li>
+    <li>maybeThe-&gt;</li>
+    <li>map_mas-&gt;[mapNoun_mas]</li>
+    <li>map_fem-&gt;[mapNoun_fem]</li>
+    <li>map_neu-&gt;[mapNoun_neu]</li>
+    <li>map(p=2)_mas-&gt;[mapNoun_mas]: [place]</li>
+    <li>map(p=2)_fem-&gt;[mapNoun_fem]: [place]</li>
+    <li>map(p=2)_neu-&gt;[mapNoun_neu]: [place]</li>
+    <li>map_mas-&gt;[mapNoun_mas]: [mapSubject]</li>
+    <li>map_fem-&gt;[mapNoun_fem]: [mapSubject]</li>
+    <li>map_neu-&gt;[mapNoun_neu]: [mapSubject]</li>
+    <li>map_mas-&gt;[mapNoun_mas]: [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>map_fem-&gt;[mapNoun_fem]: [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>map_neu-&gt;[mapNoun_neu]: [mapSubjectAdj_plural] [mapSubject]</li>
+    <li>mapNoun(p=5)_fem-&gt;карта</li>
+    <li>mapNoun(p=2)_mas&gt;атлас</li>
+    <li>mapNoun_mas-&gt;альманах</li>
+    <li>mapNoun_fem-&gt;схема</li>
+    <li>mapNoun_mas-&gt;обзорный доклад</li>
+    <li>mapNoun_neu-&gt;исследование</li>
+    <li>mapNoun_mas-&gt;памфлет</li>
+    <li>mapType(p=2)_mas-&gt;[Animal_mas]</li>
+    <li>mapType(p=2)_fem-&gt;[Animal_fem]</li>
+    <li>mapType(p=2)_neu-&gt;[Animal_neu]</li>
+    <li>mapType(p=2)_mas-&gt;[TreeType_mas]</li>
+    <li>mapType(p=2)_fem-&gt;[TreeType_fem]</li>
+    <li>mapType(p=2)_neu-&gt;[TreeType_neu]</li>
+    <li>mapType_adj-&gt;контурная</li>
+    <li>mapType_adj-&gt;топографическая</li>
+    <li>mapType_adj-&gt;рельефная</li>
+    <li>mapType_mas-&gt;доклад</li>
+    <li>mapType_adj-&gt;ценная</li>
+    <li>mapType_adj-&gt;аннотированная</li>
+    <li>mapType_adj-&gt;иллюстрированная</li>
+    <li>mapType_adj-&gt;конфедеративная</li>
+    <li>mapType_adj-&gt;коалиционная</li>
+    <li>mapType_adj-&gt;федеративная</li>
+    <li>mapType_adj-&gt;историческая</li>
+    <li>mapType_adj-&gt;бумажная</li>
+    <li>mapType_adj-&gt;кожаная</li>
+    <li>mapType_adj-&gt;прошитая</li>
+    <li>mapType_adj-&gt;ламинированная</li>
+    <li>mapType_adj-&gt;голографическая</li>
+  </Namer_Map.rulePack.rulesStrings>
+</LanguageData>

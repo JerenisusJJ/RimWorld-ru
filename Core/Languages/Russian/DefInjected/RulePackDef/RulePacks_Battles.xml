@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Battle_Brawl.rulePack.rulesStrings>
+    <li>r_battlename-&gt;Всеобщая мясорубка</li>
+  </Battle_Brawl.rulePack.rulesStrings>
+  <Battle_Duel.rulePack.rulesStrings>
+    <li>r_battlename-&gt;[PARTICIPANT1_nameDef] против [PARTICIPANT2_nameDef]</li>
+  </Battle_Duel.rulePack.rulesStrings>
+  <Battle_Internal.rulePack.rulesStrings>
+    <li>r_battlename-&gt;Внутренний конфликт фракции [FACTION1_name]</li>
+  </Battle_Internal.rulePack.rulesStrings>
+  <Battle_Solo.rulePack.rulesStrings>
+    <li>r_battlename-&gt;Отчёт [PARTICIPANT1_nameDef]</li>
+  </Battle_Solo.rulePack.rulesStrings>
+  <Battle_War.rulePack.rulesStrings>
+    <li>r_battlename-&gt;Фракция [FACTION1_name] против фракции [FACTION2_name]</li>
+  </Battle_War.rulePack.rulesStrings>
+</LanguageData>

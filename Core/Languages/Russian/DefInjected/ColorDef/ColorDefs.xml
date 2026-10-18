@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <UniqueWeapon_Black.label>чёрный</UniqueWeapon_Black.label>
+  <UniqueWeapon_Cream.label>кремовый</UniqueWeapon_Cream.label>
+  <UniqueWeapon_DarkBrown.label>темно-коричневый</UniqueWeapon_DarkBrown.label>
+  <UniqueWeapon_EMP.label>электрик</UniqueWeapon_EMP.label>
+  <UniqueWeapon_Fire.label>огненно-оранжевый</UniqueWeapon_Fire.label>
+  <UniqueWeapon_Gold.label>золотой</UniqueWeapon_Gold.label>
+  <UniqueWeapon_Gray.label>серый</UniqueWeapon_Gray.label>
+  <UniqueWeapon_Green.label>зеленый</UniqueWeapon_Green.label>
+  <UniqueWeapon_IceBlue.label>ледяной синий</UniqueWeapon_IceBlue.label>
+  <UniqueWeapon_Jade.label>нефритовый</UniqueWeapon_Jade.label>
+  <UniqueWeapon_Limestone.label>известковый</UniqueWeapon_Limestone.label>
+  <UniqueWeapon_MutedBlue.label>приглушенно-синий</UniqueWeapon_MutedBlue.label>
+  <UniqueWeapon_MutedGreen.label>приглушенно-зеленый</UniqueWeapon_MutedGreen.label>
+  <UniqueWeapon_MutedPurple.label>приглушенно-фиолетовый</UniqueWeapon_MutedPurple.label>
+  <UniqueWeapon_MutedRed.label>приглушенно-красный</UniqueWeapon_MutedRed.label>
+  <UniqueWeapon_Purple.label>фиолетовый</UniqueWeapon_Purple.label>
+  <UniqueWeapon_Red.label>красный</UniqueWeapon_Red.label>
+  <UniqueWeapon_Sandstone.label>песчаник</UniqueWeapon_Sandstone.label>
+  <UniqueWeapon_Tox.label>ярко-зеленый</UniqueWeapon_Tox.label>
+  <UniqueWeapon_White.label>белый</UniqueWeapon_White.label>
+</LanguageData>

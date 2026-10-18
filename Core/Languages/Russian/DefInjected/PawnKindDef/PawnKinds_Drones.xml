@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Drone_Hunter.label>дрон-охотник</Drone_Hunter.label>
+  <Drone_Hunter.labelPlural>дроны-охотники</Drone_Hunter.labelPlural>
+  <Drone_Sentry.label>дрон-дозорный</Drone_Sentry.label>
+  <Drone_Sentry.labelPlural>дроны-дозорные</Drone_Sentry.labelPlural>
+  <Drone_Wasp.label>оса</Drone_Wasp.label>
+  <Drone_Wasp.labelPlural>осы</Drone_Wasp.labelPlural>
+</LanguageData>

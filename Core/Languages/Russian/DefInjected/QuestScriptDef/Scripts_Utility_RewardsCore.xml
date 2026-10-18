@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+    <li>rewardDescription-&gt;[joiner_nameDef] — [joiner_title] возраста [joiner_age] лет прибудет в транспортной капсуле.[joinerFactionInfo][joiner_relationInfo]</li>
+    <li>joinerFactionInfo(priority=1)-&gt; [joiner_pronoun] член фракции [joiner_factionName].</li>
+    <li>joinerFactionInfo-&gt;</li>
+  </Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+  <Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+    <li>rewardDescription-&gt;[joiner_nameDef] — [joiner_title] возраста [joiner_age] лет присоединится к вам. [joiner_relationInfo]</li>
+  </Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+  <Util_SendItemPods.questDescriptionRules.rulesStrings>
+    <li>rewardDescription-&gt;прибудут транспортные капсулы со следующими ресурсами (общей ценностью [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
+  </Util_SendItemPods.questDescriptionRules.rulesStrings>
+</LanguageData>

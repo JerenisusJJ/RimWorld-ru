@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
+    <li>damage_source-&gt;[source] [attacked]</li>
+    <li>source-&gt;что-то, таящееся в [dark]</li>
+    <li>source-&gt;что-то в [dark]</li>
+    <li>source-&gt;существо в [dark]</li>
+    <li>source-&gt;невидимое существо</li>
+    <li>source-&gt;существо, сотканное из теней,</li>
+    <li>source-&gt;невидимый в [dark] враг</li>
+    <li>dark-&gt;непроглядной тьме</li>
+    <li>dark-&gt;неестественной темноте</li>
+    <li>dark-&gt;обволакивающей черноте</li>
+    <li>dark-&gt;тенях</li>
+    <li>attacked-&gt;атакует</li>
+    <li>attacked-&gt;наносит удар</li>
+    <li>attacked-&gt;бьёт</li>
+    <li>damaged_present-&gt;и наносит рану части тела:</li>
+    <li>damaged_present-&gt;и причиняет серьёзный вред части тела:</li>
+    <li>destroyed_present-&gt;и полностью удаляет часть тела:</li>
+    <li>destroyed_present-&gt;и наносит увечье части тела:</li>
+    <li>destroyed_present-&gt;и отрывает часть тела:</li>
+  </DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
+</LanguageData>

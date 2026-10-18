@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Make_StoneBlocksGranite.label>изготовить блоки гранита</Make_StoneBlocksGranite.label>
+  <Make_StoneBlocksGranite.description>Распилить обломки гранита на блоки, пригодные для строительства.</Make_StoneBlocksGranite.description>
+  <Make_StoneBlocksGranite.jobString>Изготавливает блоки гранита</Make_StoneBlocksGranite.jobString>
+  <Make_StoneBlocksLimestone.label>изготовить блоки известняка</Make_StoneBlocksLimestone.label>
+  <Make_StoneBlocksLimestone.description>Распилить обломки известняка на блоки, пригодные для строительства.</Make_StoneBlocksLimestone.description>
+  <Make_StoneBlocksLimestone.jobString>Изготавливает блоки известняка</Make_StoneBlocksLimestone.jobString>
+  <Make_StoneBlocksMarble.label>изготовить блоки мрамора</Make_StoneBlocksMarble.label>
+  <Make_StoneBlocksMarble.description>Распилить обломки мрамора на блоки, пригодные для строительства.</Make_StoneBlocksMarble.description>
+  <Make_StoneBlocksMarble.jobString>Изготавливает блоки мрамора</Make_StoneBlocksMarble.jobString>
+  <Make_StoneBlocksSandstone.label>изготовить блоки песчаника</Make_StoneBlocksSandstone.label>
+  <Make_StoneBlocksSandstone.description>Распилить обломки песчаника на блоки, пригодные для строительства.</Make_StoneBlocksSandstone.description>
+  <Make_StoneBlocksSandstone.jobString>Изготавливает блоки песчаника</Make_StoneBlocksSandstone.jobString>
+  <Make_StoneBlocksSlate.label>изготовить блоки сланца</Make_StoneBlocksSlate.label>
+  <Make_StoneBlocksSlate.description>Распилить обломки сланца на блоки, пригодные для строительства.</Make_StoneBlocksSlate.description>
+  <Make_StoneBlocksSlate.jobString>Изготавливает блоки сланца</Make_StoneBlocksSlate.jobString>
+</LanguageData>

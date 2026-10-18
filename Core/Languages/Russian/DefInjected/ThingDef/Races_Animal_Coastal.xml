@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HermitCrab.label>краб-отшельник</HermitCrab.label>
+  <HermitCrab.description>Небольшой ракообразный, обитающий на побережьях. Крабы-отшельники ищут разные раковины, чтобы защищать себя.</HermitCrab.description>
+  <HermitCrab.tools.right_claw.label>правая клешня</HermitCrab.tools.right_claw.label>
+  <HermitCrab.tools.right_claw.labelNoLocation>клешня</HermitCrab.tools.right_claw.labelNoLocation>
+  <HermitCrab.tools.left_claw.label>левая клешня</HermitCrab.tools.left_claw.label>
+  <HermitCrab.tools.left_claw.labelNoLocation>клешня</HermitCrab.tools.left_claw.labelNoLocation>
+  <HermitCrab.tools.head.label>голова</HermitCrab.tools.head.label>
+  <Otter.label>выдра</Otter.label>
+  <Otter.description>Игривое морское животное. Использует камни как инструмент, чтобы вскрывать раковины моллюсков.</Otter.description>
+  <Otter.tools.left_claw.label>левая лапа</Otter.tools.left_claw.label>
+  <Otter.tools.left_claw.labelNoLocation>лапа</Otter.tools.left_claw.labelNoLocation>
+  <Otter.tools.right_claw.label>правая лапа</Otter.tools.right_claw.label>
+  <Otter.tools.right_claw.labelNoLocation>лапа</Otter.tools.right_claw.labelNoLocation>
+  <Otter.tools.head.label>голова</Otter.tools.head.label>
+  <Seal.label>тюлень</Seal.label>
+  <Seal.description>Морское млекопитающее с обтекаемым телом, прекрасно охотится на рыбу. На суше тюлени медлительны, но в воде довольно быстры.</Seal.description>
+  <Seal.tools.head.label>голова</Seal.tools.head.label>
+  <SeaLion.label>морской лев</SeaLion.label>
+  <SeaLion.description>Крупное и умное морское животное. У самцов морских львов густая шерсть вокруг шеи, напоминающая гриву льва.</SeaLion.description>
+  <SeaLion.tools.head.label>голова</SeaLion.tools.head.label>
+  <SeaTurtle.label>морская черепаха</SeaTurtle.label>
+  <SeaTurtle.description>Крупная морская черепаха. Обтекаемый панцирь и мощные ласты делают её отличным пловцом.</SeaTurtle.description>
+  <SeaTurtle.tools.beak.label>клюв</SeaTurtle.tools.beak.label>
+  <SeaTurtle.tools.head.label>голова</SeaTurtle.tools.head.label>
+  <StoneCrab.label>каменный краб</StoneCrab.label>
+  <StoneCrab.description>Крепкое ракообразное с мощными клешнями. В некоторых регионах каменные крабы считаются деликатесом.</StoneCrab.description>
+  <StoneCrab.tools.right_claw.label>правая клешня</StoneCrab.tools.right_claw.label>
+  <StoneCrab.tools.right_claw.labelNoLocation>клешня</StoneCrab.tools.right_claw.labelNoLocation>
+  <StoneCrab.tools.left_claw.label>левая клешня</StoneCrab.tools.left_claw.label>
+  <StoneCrab.tools.left_claw.labelNoLocation>клешня</StoneCrab.tools.left_claw.labelNoLocation>
+  <StoneCrab.tools.head.label>голова</StoneCrab.tools.head.label>
+  <Walrus.label>морж</Walrus.label>
+  <Walrus.description>Крупное морское животное с бивнями и усами. Благодаря массивному телу может выживать в очень холодных условиях. На суше медлителен, но в воде довольно быстр.</Walrus.description>
+  <Walrus.tools.tusk.label>бивень</Walrus.tools.tusk.label>
+  <Walrus.tools.head.label>голова</Walrus.tools.head.label>
+</LanguageData>

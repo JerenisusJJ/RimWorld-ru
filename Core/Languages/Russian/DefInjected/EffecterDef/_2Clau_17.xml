@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: default fishing zone settings -->
+	<Fishing.label>настройки зон рыбалки по умолчанию</Fishing.label>
+	<!-- EN: Configure the default settings for fishing zones. -->
+	<Fishing.description>Настройте параметры зон рыбалки по умолчанию.</Fishing.description>
+</LanguageData>

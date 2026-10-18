@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Darklight_Preferred.label>тусклый свет</Darklight_Preferred.label>
+  <Darklight_Preferred.description>Обычный свет слишком яркий. Тусклый свет лучше.</Darklight_Preferred.description>
+  <DarknessCombat_Preferred.label>предпочитается</DarknessCombat_Preferred.label>
+  <DarknessCombat_Preferred.description>В темноте мы сражаемся лучше.</DarknessCombat_Preferred.description>
+  <Eclipse_Beautiful.label>красиво</Eclipse_Beautiful.label>
+  <Eclipse_Beautiful.description>Затмение — это зрелищная передышка от слепящего солнечного света.</Eclipse_Beautiful.description>
+</LanguageData>

@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AdvancedPsychicRituals.label>продвинутые псионические ритуалы</AdvancedPsychicRituals.label>
+  <AdvancedPsychicRituals.description>Совершайте продвинутые псионические ритуалы.</AdvancedPsychicRituals.description>
+  <AdvancedPsychicRituals.generalRules.rulesStrings>
+    <li>subject-&gt;продвинутые псионические ритуалы</li>
+    <li>subject_story-&gt;{PAWN gender ? попал : попала} в оккультный круг</li>
+    <li>subject_story-&gt;{PAWN gender ? встретил : встретила} мастера-оккультиста в изгнании и {PAWN gender ? узнал : узнала} от него множество секретов</li>
+    <li>subject_story-&gt;{PAWN gender ? получил : получила} более глубокое понимание ритуала с принесением жертвы</li>
+    <li>subject_story-&gt;назначили профессором псионической истории в Университете Айкса</li>
+    <li>subject_gerund-&gt;проводит продвинутые псионические ритуалы</li>
+  </AdvancedPsychicRituals.generalRules.rulesStrings>
+  <AtmosphericHeater.label>обогреватель атмосферы</AtmosphericHeater.label>
+  <AtmosphericHeater.description>Устройство, излучающее тепло. Питается от тёмного архо-осколка. Сжигание биоферрита разгоняет молекулы воздуха, что позволяет повысить его температуру на улице. Из-за неэффективной изоляции само сооружение также пышет жаром.</AtmosphericHeater.description>
+  <AtmosphericHeater.generalRules.rulesStrings>
+    <li>subject-&gt;биоферритовый обогрев</li>
+    <li>subject_story-&gt;знает, как улучшать архаичные геотермические генераторы</li>
+    <li>subject_story-&gt;обладает знаниями о теплоотдаче биометаллов</li>
+    <li>subject_story-&gt;в курсе о результатах исследований, согласно которым архотехнологии позволяют накапливать бесконечные объёмы энергии</li>
+    <li>subject_story-&gt;имеет богатый опыт изучения печных сооружений на густонаселённых ледяных планетах</li>
+    <li>subject_gerund-&gt;обогревает с помощью биоферрита</li>
+    <li>subject_gerund-&gt;строит обогреватели на биоферрите</li>
+  </AtmosphericHeater.generalRules.rulesStrings>
+  <BasicPsychicRituals.label>Воззвание к пустоте</BasicPsychicRituals.label>
+  <BasicPsychicRituals.description>Создавайте места для псионических ритуалов, чтобы их проводить. Используйте ритуал воззвания к пустоте, чтобы обнаруживать новых тварей.</BasicPsychicRituals.description>
+  <BasicPsychicRituals.generalRules.rulesStrings>
+    <li>subject-&gt;псионические ритуалы</li>
+    <li>subject_story-&gt;много знает о ритуалах культа Хоракса</li>
+    <li>subject_story-&gt;имеет опыт воссоздания примитивных капищ</li>
+    <li>subject_story-&gt;обладает базовыми навыками псионической коммуникации</li>
+    <li>subject_story-&gt;знает на собственном опыте, как неудачно может пройти ритуал воззвания к пустоте на мёртвой планете</li>
+    <li>subject_story-&gt;имеет опыт контакта с архо-осколком на вершине столпа в пустыне</li>
+    <li>subject_gerund-&gt;проводит псионические ритуалы</li>
+    <li>subject_gerund-&gt;создаёт места для ритуалов</li>
+    <li>subject_gerund-&gt;взывает к тварям в пустоте</li>
+  </BasicPsychicRituals.generalRules.rulesStrings>
+  <BioferriteExtraction.label>извлечение биоферрита</BioferriteExtraction.label>
+  <BioferriteExtraction.description>Извлечение биоферрита непосредственно из захваченных тварей. Этот материал можно использовать для изготовления оружия и экипировки на рабочем месте или биоферритовом верстаке.</BioferriteExtraction.description>
+  <BioferriteExtraction.generalRules.rulesStrings>
+    <li>subject-&gt;извлечение биоферрита</li>
+    <li>subject_gen-&gt;извлечения биоферрита</li>
+    <li>subject_dat-&gt;извлечению биоферрита</li>
+    <li>subject_pre_about-&gt;об извлечении биоферрита</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? извлёк : извлекла} органическое вещество из образца стремительно мутирующей плоти</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? собрал и выварил : собрала и выварила} плоть с древа-предвестника</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} отчёты о феномене архотеков</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла} неизвестный ранее органический металл</li>
+    <li>subject_gerund-&gt;извлечения биоферрита</li>
+  </BioferriteExtraction.generalRules.rulesStrings>
+  <BioferriteGenerator.label>биоферритовый генератор</BioferriteGenerator.label>
+  <BioferriteGenerator.description>Электрический генератор. Сжимает биоферрит до воспламенения, а затем преобразовывает полученное тепло в энергию.\n\nБиоферрит пси-активен и при разрушении производит неприятный гул, тревожащий проходящих мимо поселенцев.</BioferriteGenerator.description>
+  <BioferriteGenerator.generalRules.rulesStrings>
+    <li>subject-&gt;энерговыработка на биоферрите</li>
+    <li>subject_story-&gt;имеет навыки применения инновационных технологий энерговыработки</li>
+    <li>subject_story-&gt;имеет представление о том, как использовать металлы и волокна в качестве топлива</li>
+    <li>subject_story-&gt;любит огонь и всё, что горит</li>
+    <li>subject_story-&gt;по работе приходилось обслуживать энергетические системы на орбите</li>
+    <li>subject_story-&gt;умеет перерабатывать всё живое в звёздной системе на топливо</li>
+    <li>subject_gerund-&gt;строит биоферритовые генераторы</li>
+    <li>subject_gerund-&gt;заправляет генераторы биоферритовым топливом</li>
+  </BioferriteGenerator.generalRules.rulesStrings>
+  <BioferriteHarvesting.label>сборщики биоферрита</BioferriteHarvesting.label>
+  <BioferriteHarvesting.description>Создавайте сборщики биоферрита, чтобы автоматизировать извлечение этого материала из захваченных тварей. Таким способом можно получить больше биоферрита, чем вручную.</BioferriteHarvesting.description>
+  <BioferriteHarvesting.generalRules.rulesStrings>
+    <li>subject-&gt;биоферрит</li>
+    <li>subject_story-&gt;имеет опыт исследования экзотической волокнистой субстанции, напоминающей металл</li>
+    <li>subject_story-&gt;доводилось вскрывать упыря заживо</li>
+    <li>subject_story-&gt;доводилось находить залежи органических металлов</li>
+    <li>subject_story-&gt;приходилось сталкиваться со странными дикими животными, заражёнными чем-то металлическим</li>
+    <li>subject_gerund-&gt;собирает биоферрит</li>
+  </BioferriteHarvesting.generalRules.rulesStrings>
+  <BioferriteIgnition.label>биоферритовое оружие</BioferriteIgnition.label>
+  <BioferriteIgnition.description>Создавайте продвинутое оружие, работающее на биоферрите.</BioferriteIgnition.description>
+  <BioferriteIgnition.generalRules.rulesStrings>
+    <li>subject-&gt;биоферрит как топливо</li>
+    <li>subject-&gt;биоферритовое оружие</li>
+    <li>subject_story-&gt;доводилось работать на экскавационной платформе на архотехнологичном астероиде</li>
+    <li>subject_story-&gt;приходилось заниматься исследованием точек возгорания экзотических материалов</li>
+    <li>subject_story-&gt;доводилось служить в исследовательском отделе оружейной компании в среднем мире</li>
+    <li>subject_story-&gt;раньше доводилось чистить биошахты в архотехнической пустыне</li>
+    <li>subject_gerund-&gt;создаёт биоферритовое оружие</li>
+  </BioferriteIgnition.generalRules.rulesStrings>
+  <BioferriteShaping.label>формовка биоферрита</BioferriteShaping.label>
+  <BioferriteShaping.description>Создавайте из биоферрита полезные инструменты, оружие, напольные панели и многое другое.</BioferriteShaping.description>
+  <BioferriteShaping.generalRules.rulesStrings>
+    <li>subject-&gt;формовка биоферрита</li>
+    <li>subject_story-&gt;знает уникальные техники литья и формовки</li>
+    <li>subject_story-&gt;обладает опытом в высокотемпературной формовке</li>
+    <li>subject_story-&gt;доводилось работать с экзотическими металлами на литейном заводе</li>
+    <li>subject_story-&gt;приходилось служить под руководством учёного, исследовавшего архотехнические материалы </li>
+    <li>subject_story-&gt;раньше приходилось исследовать процесс создания архотехнических артефактов</li>
+    <li>subject_gerund-&gt;формует биоферрит</li>
+  </BioferriteShaping.generalRules.rulesStrings>
+  <BlissLobotomy.label>блаженство от лоботомии</BlissLobotomy.label>
+  <BlissLobotomy.description>Проводите поселенцам лоботомию. Лоботомированные люди становятся счастливее, но не способны на интеллектуальный и квалифицированный труд.</BlissLobotomy.description>
+  <BlissLobotomy.generalRules.rulesStrings>
+    <li>subject-&gt;лоботомия</li>
+    <li>subject_story-&gt;за мыслепреступления против государства приговорили к лоботомии и исполнили приговор</li>
+    <li>subject_story-&gt;приходилось заниматься реабилитацией выживших в Элдофском эксперименте</li>
+    <li>subject_story-&gt;на стажировке приходилось совмещать обязанности парикмахера и нейрохирурга</li>
+    <li>subject_gerund-&gt;проводит лоботомии</li>
+    <li>subject_gerund-&gt;удаляет часть мозга</li>
+  </BlissLobotomy.generalRules.rulesStrings>
+  <BloodRain.label>кровавый дождь</BloodRain.label>
+  <BloodRain.description>Проводите псионический ритуал, который вызывает дождь из психоактивной жидкости, напоминающей кровь. Все, кто вовремя не укроются от «дождя», впадут в слепую ярость.</BloodRain.description>
+  <BloodRain.generalRules.rulesStrings>
+    <li>subject-&gt;кровавый дождь</li>
+    <li>subject_story-&gt;Приходилось проводить фольклорные исследования для выяснения природы органических осадков</li>
+    <li>subject_story-&gt;Приходилось изучать нейронные связи людей, испытывающих неконтролируемые приступы гнева</li>
+    <li>subject_story-&gt;Доводилось пробовать психоактивные жидкости из потоков на вознесённой планете Айкс</li>
+    <li>subject_story-&gt;Доводилось попадать под дождь из психоактивной жидкости и потом терять рассудок от гнева</li>
+    <li>subject_gerund-&gt;вызывает кровавый дождь</li>
+  </BloodRain.generalRules.rulesStrings>
+  <Brainwipe.label>Зачистка памяти</Brainwipe.label>
+  <Brainwipe.description>Проводите псионический ритуал, который удаляет большую часть эпизодических воспоминаний жертвы. Травматические события стираются из памяти, а оказывающих сопротивление пленников можно склонить на вашу сторону.</Brainwipe.description>
+  <Brainwipe.generalRules.rulesStrings>
+    <li>subject-&gt;стирание памяти</li>
+    <li>subject_story-&gt;приходилось изучать выборочную потерю памяти</li>
+    <li>subject_story-&gt;доводилось работать с людьми, пережившими повреждение мозга</li>
+    <li>subject_story-&gt;приходилось исследовать нейронные пути страдающих амнезией</li>
+    <li>subject_story-&gt;приходилось управлять центром промывки мозгов после Забытых войн</li>
+    <li>subject_gerund-&gt;стирает память жертвы</li>
+    <li>subject_gerund-&gt;совершает ритуал, стирающий память жертвы</li>
+  </Brainwipe.generalRules.rulesStrings>
+  <Chronophagy.label>Хронофагия</Chronophagy.label>
+  <Chronophagy.description>Проводите псионический ритуал, который заставляет жертву стареть и дряхлеть. Заклинатель при этом омолаживается. В результате ритуала жертва также получит повреждение мозга. Эта травма может оказаться смертельной, если цель уже в возрасте.</Chronophagy.description>
+  <Chronophagy.generalRules.rulesStrings>
+    <li>subject-&gt;хронофагия</li>
+    <li>subject_story-&gt;приходилось исследовать возрастную деградацию</li>
+    <li>subject_story-&gt;доводилось заниматься репликацией здоровых структур одного организма в другом с ущербом здоровью донора</li>
+    <li>subject_story-&gt;доводилось заниматься теориями о возможном применении насыщенной архотехники в ритуалах</li>
+    <li>subject_story-&gt;доводилось наблюдать за антивозрастными процедурами для богачей на утопической планете</li>
+    <li>subject_gerund-&gt;крадёт молодость</li>
+    <li>subject_gerund-&gt;занимается хронофагией</li>
+    <li>subject_gerund-&gt;проводит ритуал хронофагии</li>
+  </Chronophagy.generalRules.rulesStrings>
+  <DeadlifeDust.label>порошок мёртвой жизни</DeadlifeDust.label>
+  <DeadlifeDust.description>Создавайте устройства, производящие облака микроскопических архитов. Архиты могут возвращать к жизни трупы, превращая их в смертоносных шамблеров. Такие шамблеры атакуют только врагов.</DeadlifeDust.description>
+  <DeadlifeDust.generalRules.rulesStrings>
+    <li>subject-&gt;порошок мёртвой жизни</li>
+    <li>subject_story-&gt;доводилось создавать систему воздушно-капельного распыления наноботов</li>
+    <li>subject_story-&gt;приходилось разделять сорта архитов с помощью атомных центрифуг</li>
+    <li>subject_story-&gt;как-то доводилось смотреть ролик про смертельное нападение шамблеров на город</li>
+    <li>subject_story-&gt;приходилось разрабатывать устройство для управления архитами с автоматической системой распознавания «свой-чужой»</li>
+    <li>subject_gerund-&gt;делает порошок мёртвой жизни</li>
+    <li>subject_gerund-&gt;распространяет архитов, чтобы создать шамблеров</li>
+  </DeadlifeDust.generalRules.rulesStrings>
+  <DeathRefusal.label>лекарство от смерти</DeathRefusal.label>
+  <DeathRefusal.description>Проводите псионический ритуал, дарующий цели лекарство от смерти — то есть возможность один раз воскреснуть после смерти.</DeathRefusal.description>
+  <DeathRefusal.generalRules.rulesStrings>
+    <li>subject-&gt;заклинание «Лекарство от смерти»</li>
+    <li>subject_story-&gt;приходилось изучать истории о выживших в невероятных условиях</li>
+    <li>subject_story-&gt;приходилось смотреть на последние моменты жизни жертв кровавой 7-й Последней битвы</li>
+    <li>subject_story-&gt;доводилось принимать участие в попытке воскрешения ур-пророка Аксхора</li>
+    <li>subject_story-&gt;доводилось собирать информацию об избежавших смерти людях в библиотеках столицы</li>
+    <li>subject_gerund-&gt;отрицает смерть</li>
+    <li>subject_gerund-&gt;проводит ритуал отрицания смерти</li>
+  </DeathRefusal.generalRules.rulesStrings>
+  <DisruptorFlares.label>ракеты-дизрапторы</DisruptorFlares.label>
+  <DisruptorFlares.description>Создавайте световые ракеты из биоферрита, чтобы раскрывать местоположение невидимых существ и насыщать область действия светом.</DisruptorFlares.description>
+  <DisruptorFlares.generalRules.rulesStrings>
+    <li>subject-&gt;биоферритовые световые ракеты</li>
+    <li>subject-&gt;краткосрочное освещение</li>
+    <li>subject_story-&gt;приходилось изучать невидимую часть ЭМ-спектра</li>
+    <li>subject_story-&gt;доводилось отключать зрительные центры подопытных</li>
+    <li>subject_story-&gt;приходилось исследовать биосвечение фауны в условиях вечной ночи</li>
+    <li>subject_story-&gt;приходилось исследовать суженный ЭМ-спектр излучения архитов</li>
+    <li>subject_gerund-&gt;временно увеличивает видимость</li>
+    <li>subject_gerund-&gt;создаёт световые ракеты из биоферрита</li>
+  </DisruptorFlares.generalRules.rulesStrings>
+  <Electroharvester.label>электрожнец</Electroharvester.label>
+  <Electroharvester.description>Генератор, устанавливаемый возле фиксирующей платформы. Он подключается к телу твари и использует её пси-потоки, а также аномальные искажения пространства в качестве источника энергии.\n\nКрупные существа производят больше электричества. Процесс выкачивания энергии тревожит тварь и повышает шанс её побега.\n\nК электрожнецу можно подсоединить несколько платформ, при этом каждая платформа способна обслуживать только один электрожнец.</Electroharvester.description>
+  <Electroharvester.generalRules.rulesStrings>
+    <li>subject-&gt;энерговыработка из тварей</li>
+    <li>subject_story-&gt;приходилось исследовать механизмы ионных насосов в клетках живых организмов</li>
+    <li>subject_story-&gt;доводилось исследовать редкий земной вид: электрического угря</li>
+    <li>subject_story-&gt;доводилось ворошить рой архитов ради изучения их теплоотдачи</li>
+    <li>subject_story-&gt;доводилось заниматься теоретическими изысканиями на тему энергетического потенциала архотехнологий</li>
+    <li>subject_gerund-&gt;добывает энергию из тварей</li>
+    <li>subject_gerund-&gt;собирает электрожнецы</li>
+  </Electroharvester.generalRules.rulesStrings>
+  <EntityContainment.label>изоляция тварей</EntityContainment.label>
+  <EntityContainment.description>Стройте платформы и ингибиторы, чтобы захваченные твари не сбежали.</EntityContainment.description>
+  <EntityContainment.generalRules.rulesStrings>
+    <li>subject-&gt;изоляция тварей</li>
+    <li>subject_story-&gt;доводилось работать в исследовательском отделе на планете-тюрьме</li>
+    <li>subject_story-&gt;доводилось мотать срок на планете-тюрьме</li>
+    <li>subject_story-&gt;приходилось работать с партизанским движением, чтобы вырваться из заточения</li>
+    <li>subject_story-&gt;приходилось строить мясоперерабатывающие комбинаты для сетевых компаний на планетах с динозаврами</li>
+    <li>subject_gerund-&gt;держит тварей в заточении</li>
+    <li>subject_gerund-&gt;строит помещения для удержания тварей</li>
+  </EntityContainment.generalRules.rulesStrings>
+  <FrenzyInducer.label>индуктор прилива сил</FrenzyInducer.label>
+  <FrenzyInducer.description>Архо-осколок, вмонтированный в раму под электрическим напряжением. Создаёт бешеную псионическую вибрацию, которая побуждает всех, кто находится поблизости, двигаться и работать быстрее. При этом всё психические срывы гарантированно приведут к насилию.</FrenzyInducer.description>
+  <FrenzyInducer.generalRules.rulesStrings>
+    <li>subject-&gt;архо-индукторы прилива сил</li>
+    <li>subject_story-&gt;доводилось работать мотивационным терапевтом</li>
+    <li>subject_story-&gt;приходилось бить в барабаны на галере на дикой планете</li>
+    <li>subject_story-&gt;доводилось исследовать различные воздействия архо-полей на человеческий разум</li>
+    <li>subject_story-&gt;доводилось управлять трансовым аппаратом в подпольном городском клубе</li>
+    <li>subject_gerund-&gt;создаёт прилив сил</li>
+    <li>subject_gerund-&gt;создаёт индукторы прилива сил на основе архотехнологий</li>
+  </FrenzyInducer.generalRules.rulesStrings>
+  <GhoulEnhancements.label>новые возможности для упырей</GhoulEnhancements.label>
+  <GhoulEnhancements.description>Создавайте протезы из биоферрита, чтобы делать упырей сильнее.</GhoulEnhancements.description>
+  <GhoulEnhancements.generalRules.rulesStrings>
+    <li>subject-&gt;новые возможности для упырей</li>
+    <li>subject_story-&gt;доводилось ставить опыты на мёртвых и дважды мёртвых</li>
+    <li>subject_story-&gt;доводилось вживлять упырям всякие странные предметы</li>
+    <li>subject_story-&gt;приходилось исследовать сложное протезирование упырей</li>
+    <li>subject_gerund-&gt;ставит упырю биоферритовый протез</li>
+  </GhoulEnhancements.generalRules.rulesStrings>
+  <GhoulInfusion.label>превращение в упыря</GhoulInfusion.label>
+  <GhoulInfusion.description>Проводите хирургические операции по вживлению архо-осколков живым людям, превращая их в кошмарных упырей. Упыри — мощные бойцы ближнего боя, но не могут работать. Если не давать им достаточно сырого мяса, они потеряют рассудок.</GhoulInfusion.description>
+  <GhoulInfusion.generalRules.rulesStrings>
+    <li>subject-&gt;создание упырей</li>
+    <li>subject_story-&gt;доводилось продавать узников с планет-тюрем на передовые городских конфликтов</li>
+    <li>subject_story-&gt;приходилось использовать архитовые инъекции в военных целях в рамках экспериментальной программы</li>
+    <li>subject_story-&gt;приходилось изучать дикую нежить на мёртвой планете</li>
+    <li>subject_gerund-&gt;вживляет архо-осколок живому человеку</li>
+    <li>subject_gerund-&gt;создаёт упыря</li>
+  </GhoulInfusion.generalRules.rulesStrings>
+  <GhoulResurrection.label>воскрешение упырей</GhoulResurrection.label>
+  <GhoulResurrection.description>Производите сыворотку, воскрешающую упырей.</GhoulResurrection.description>
+  <GhoulResurrection.generalRules.rulesStrings>
+    <li>subject-&gt;воскрешение упырей</li>
+    <li>subject_story-&gt;изобретатель нового способа воскрешения упырей</li>
+    <li>subject_story-&gt;приходилось делать трупам разные архотехнологичные инъекции</li>
+    <li>subject_story-&gt;доводилось исследовать воздействие высококонцентрированных архитов на упырей</li>
+    <li>subject_story-&gt;приходилось видеть многократное воскрешение упыря</li>
+    <li>subject_gerund-&gt;воскрешает упыря</li>
+    <li>subject_gerund-&gt;синтезирует сыворотку для воскрешения упырей</li>
+  </GhoulResurrection.generalRules.rulesStrings>
+  <InsanityWeaponry.label>Оружие безумия</InsanityWeaponry.label>
+  <InsanityWeaponry.description>Переделывайте архо-осколки в оружие с ограниченным количеством зарядов. Такое оружие шокирует врагов, манипулирует ими и уничтожает их при помощи археотехнологий.</InsanityWeaponry.description>
+  <InsanityWeaponry.generalRules.rulesStrings>
+    <li>subject-&gt;архотехнологичное оружие безумия</li>
+    <li>subject_story-&gt;автор диссертации о психологических способах ведения войны</li>
+    <li>subject_story-&gt;доводилось воочию видеть всю ценность устрашения, когда в панике бежал целый имперский батальон</li>
+    <li>subject_story-&gt;приходилось работать в больнице для жертв архотехнологий</li>
+    <li>subject_story-&gt;доводилось заниматься вивисекцией заражённых архитами животных для изучения воздействия архотехнологий на мозг млекопитающих</li>
+    <li>subject_gerund-&gt;переделывает архотехнику в оружие, вызывающее безумие</li>
+  </InsanityWeaponry.generalRules.rulesStrings>
+  <JuggernautSerum.label>сыворотка сокрушительной силы</JuggernautSerum.label>
+  <JuggernautSerum.description>Синтезируйте сыворотку, временно увеличивающую силу и скорость, а также залечивающую во время действия раны. Эта сыворотка при введении ухудшает настроение.</JuggernautSerum.description>
+  <JuggernautSerum.generalRules.rulesStrings>
+    <li>subject-&gt;сыворотка сокрушительной силы</li>
+    <li>subject_story-&gt;отлучили от большого спорта после скандала с допингом: {PAWN_gender ? подсадил : подсадила} команду на сыворотку сокрушительной силы</li>
+    <li>subject_story-&gt;приходилось выдавать солдатам сыворотку сокрушительной силы, когда заканчивались патроны</li>
+    <li>subject_story-&gt;доводилось исследовать использование сыворотки на стройках с использованием подневольных рабочих</li>
+    <li>subject_story-&gt;один раз {PAWN_gender ? угодил : угодила} в чан с сывороткой сокрушительной силы</li>
+    <li>subject_gerund-&gt;синтезирует сыворотку сокрушительной силы</li>
+  </JuggernautSerum.generalRules.rulesStrings>
+  <MetalbloodSerum.label>сыворотка железной крови</MetalbloodSerum.label>
+  <MetalbloodSerum.description>Шприц с рыжеватой жидкостью, которая непрерывно затвердевает и возвращается в исходное состояние. Попадая в кровоток, она заставляет плоть твердеть, что снижает получаемый урон. Но, так как в основе сыворотки биоферрит, поселенец становится крайне уязвимым к огню.</MetalbloodSerum.description>
+  <MetalbloodSerum.generalRules.rulesStrings>
+    <li>subject-&gt;сыворотки железной крови</li>
+    <li>subject_story-&gt;доводилось заниматься исследованиями реакционных жидкостей для создания брони для военных</li>
+    <li>subject_story-&gt;{PAWN_gender ? один : одна} из первооткрывателей технологии замещения крови</li>
+    <li>subject_story-&gt;доводилось найти на мёртвой планете источник железной крови</li>
+    <li>subject_story-&gt;приходилось использовать огнемёты против повстанцев с железной кровью</li>
+    <li>subject_gerund-&gt;синтезирует сыворотку железной крови</li>
+  </MetalbloodSerum.generalRules.rulesStrings>
+  <MindNumbSerum.label>сыворотка притупления чувств</MindNumbSerum.label>
+  <MindNumbSerum.description>Синтезируйте сыворотку, стабилизирующую настроение и предотвращающую нервные срывы.</MindNumbSerum.description>
+  <MindNumbSerum.generalRules.rulesStrings>
+    <li>subject-&gt;сыворотка притупления чувств</li>
+    <li>subject_story-&gt;как-то раз {PAWN_gender ? сорвал : сорвала} концерт, притупив чувства главного исполнителя</li>
+    <li>subject_story-&gt;приходилось добавлять разбавленную сыворотку притупления чувств в систему водоснабжения психбольницы</li>
+    <li>subject_story-&gt;приходилось выдавать «зелёным» солдатам сыворотку притупления чувств перед боем и после</li>
+    <li>subject_story-&gt;доводилось исследовать использование архотехнологий для обезболивания</li>
+    <li>subject_gerund-&gt;синтезирует сыворотку притупления боли</li>
+  </MindNumbSerum.generalRules.rulesStrings>
+  <MutationWeaponry.label>мутационное оружие</MutationWeaponry.label>
+  <MutationWeaponry.description>Переделывайте архо-осколки в оружие с ограниченным количеством зарядов, превращающее врагов в ужасных чудовищ.</MutationWeaponry.description>
+  <MutationWeaponry.generalRules.rulesStrings>
+    <li>subject-&gt;индукция мутаций</li>
+    <li>subject-&gt;оружие, индуцирующее мутации</li>
+    <li>subject_story-&gt;лелеет мечты о новой жизни с архитами в своём теле</li>
+    <li>subject_story-&gt;доводилось видеть, как архотек меняет флору</li>
+    <li>subject_story-&gt;доводилось экспериментировать с новыми видами вооружений</li>
+    <li>subject_story-&gt;приходилось изучать новую жизнь на вознесённых планетах</li>
+    <li>subject_story-&gt;доводилось выращивать архитовую культуру в лаборатории</li>
+    <li>subject_gerund-&gt;индуцирует мутации</li>
+    <li>subject_gerund-&gt;переделывает архотехнику в оружие, вызывающее мутации</li>
+  </MutationWeaponry.generalRules.rulesStrings>
+  <NeurosisPulse.label>волна невроза</NeurosisPulse.label>
+  <NeurosisPulse.description>Проводите псионический ритуал, заставляющий всех в большой области работать быстрее. При этом люди под действием ритуала становятся раздражительнее.</NeurosisPulse.description>
+  <NeurosisPulse.generalRules.rulesStrings>
+    <li>subject-&gt;волна невроза</li>
+    <li>subject-&gt;работа в приоритете</li>
+    <li>subject_story-&gt;доводилось состоять в культе рабочих в городе</li>
+    <li>subject_story-&gt;доводилось на работе испытывать воздействие псионического ритуала</li>
+    <li>subject_story-&gt;приходилось изучать нейронные связи невротиков</li>
+    <li>subject_story-&gt;приходилось исследовать общие элементы управленческих подходов и оккультных практик</li>
+    <li>subject_gerund-&gt;псионно провоцирует невроз</li>
+    <li>subject_gerund-&gt;совершает ритуал, чтобы поднять продуктивность работы</li>
+  </NeurosisPulse.generalRules.rulesStrings>
+  <Philophagy.label>филофагия</Philophagy.label>
+  <Philophagy.description>Проводите псионический ритуал, который высасывает опыт из жертвы и передаёт его заклинателю. В результате рассудок жертвы помутится, её навыки притупятся, и она останется с повреждением мозга.</Philophagy.description>
+  <Philophagy.generalRules.rulesStrings>
+    <li>subject-&gt;филофагия</li>
+    <li>subject-&gt;перенос навыков</li>
+    <li>subject_story-&gt;доводилось заниматься расследованием дела серийного филофага</li>
+    <li>subject_story-&gt;приходилось исследовать процессы нейронной репликации в лаборатории на утопической планете</li>
+    <li>subject_story-&gt;доводилось изучать тронутых рассудком жертв культа</li>
+    <li>subject_story-&gt;жертва псионического нападения, после которого ухудшились навыки</li>
+    <li>subject_gerund-&gt;переносит знания цели</li>
+    <li>subject_gerund-&gt;совершает ритуал присвоения навыков цели</li>
+  </Philophagy.generalRules.rulesStrings>
+  <PleasurePulse.label>волна удовольствия</PleasurePulse.label>
+  <PleasurePulse.description>Проводите псионический ритуал, который делает жителей региона счастливее. Осчастливленные люди не спешат работать.</PleasurePulse.description>
+  <PleasurePulse.generalRules.rulesStrings>
+    <li>subject-&gt;заклинание удовольствия</li>
+    <li>subject_story-&gt;доводилось читать о «соме» — чудо-еде с Земли</li>
+    <li>subject_story-&gt;приходилось исследовать миф о Поедателях лотосов</li>
+    <li>subject_story-&gt;доводилось вместе с социальными философами создавать утилитарный ритуал</li>
+    <li>subject_story-&gt;доводилось состоять в архотек-культе гедонистов</li>
+    <li>subject_gerund-&gt;псионно индуцирует удовольствие</li>
+    <li>subject_gerund-&gt;совершает псионический ритуал, вызывающий прилив удовольствия</li>
+  </PleasurePulse.generalRules.rulesStrings>
+  <ProximityDetector.label>детектор приближения</ProximityDetector.label>
+  <ProximityDetector.description>Сканер, способный обнаруживать невидимых существ. Поднимает тревогу, когда регистрирует псионически невидимые биосигнатуры в радиусе своего действия.</ProximityDetector.description>
+  <ProximityDetector.generalRules.rulesStrings>
+    <li>subject-&gt;детекторы приближения</li>
+    <li>subject-&gt;сенсоры движения</li>
+    <li>subject_story-&gt;черпает вдохновение из древних кинолент</li>
+    <li>subject_story-&gt;доводилось собирать прототипы простых устройств с защитой от пси-воздействия</li>
+    <li>subject_story-&gt;доводилось служить инженером и обслуживать системы раннего предупреждения на мёртвой планете</li>
+    <li>subject_story-&gt;приходилось изучать мультиспектральное сканирование для кросс-системного обнаружения паттернов</li>
+    <li>subject_gerund-&gt;открывает невидимое</li>
+    <li>subject_gerund-&gt;обнаруживает невидимых существ</li>
+  </ProximityDetector.generalRules.rulesStrings>
+  <Psychophagy.label>психофагия</Psychophagy.label>
+  <Psychophagy.description>Проводите псионический ритуал, который атрофирует психочувствительность цели и усиливает это качество в заклинателе. У жертвы пострадает мозг.</Psychophagy.description>
+  <Psychophagy.generalRules.rulesStrings>
+    <li>subject-&gt;психофагия</li>
+    <li>subject_story-&gt;доводилось изучать процессы управляемого отключёния восприимчивости к псионике</li>
+    <li>subject_story-&gt;приходилось управлять переносом архитов из трупов</li>
+    <li>subject_story-&gt;увлекается собиранием слухов о псионических ритуалах переноса и передачи</li>
+    <li>subject_story-&gt;доводилось видеть, как члены культа Хоракса вытянули все силы из имперского дворянина</li>
+    <li>subject_gerund-&gt;крадёт псионические способности</li>
+    <li>subject_gerund-&gt;проводит ритуал психофагии</li>
+  </Psychophagy.generalRules.rulesStrings>
+  <RevenantInvisibility.label>невидимость ревенанта</RevenantInvisibility.label>
+  <RevenantInvisibility.description>Доработайте хребет ревенанта, чтобы его можно было пересадить человеку. Получивший имплант может на время становиться невидимым.</RevenantInvisibility.description>
+  <RevenantInvisibility.generalRules.rulesStrings>
+    <li>subject-&gt;невидимость</li>
+    <li>subject_story-&gt;доводилось вживлять хребет чудовища человеку без оглядки на возможные последствия</li>
+    <li>subject_story-&gt;автор романа об исчезающих моральных качествах невидимого человека</li>
+    <li>subject_story-&gt;доводилось найти странный металлический хребет в системе с мёртвой звездой</li>
+    <li>subject_story-&gt;приходилось видеть сон об армии невидимых воинов</li>
+    <li>subject_gerund-&gt;приспосабливает хребет ревенанта</li>
+    <li>subject_gerund-&gt;вживляет хребет ревенанта человеку</li>
+  </RevenantInvisibility.generalRules.rulesStrings>
+  <SerumSynthesis.label>синтез сывороток</SerumSynthesis.label>
+  <SerumSynthesis.description>Постройте лабораторию для синтеза архотехнологичных сывороток, которые временно дарят пользователям новые силы.</SerumSynthesis.description>
+  <SerumSynthesis.generalRules.rulesStrings>
+    <li>subject-&gt;синтез сывороток</li>
+    <li>subject_story-&gt;доводилось ради эксперимента ставить себе архитовые инъекции</li>
+    <li>subject_story-&gt;доводилось найти в храме на мёртвой планете купель с чёрной маслянистой жидкостью</li>
+    <li>subject_story-&gt;как-то раз {PAWN_gender ? упал : упала} с большой высоты, но {PAWN_gender ? остался : осталась} без единой царапины благодаря сыворотке</li>
+    <li>subject_story-&gt;приходилось управлять программой испытаний сывороток в столичной бригаде</li>
+    <li>subject_gerund-&gt;синтезирует сыворотки</li>
+  </SerumSynthesis.generalRules.rulesStrings>
+  <SkipAbductionPlayer.label>Похищение телепортацией</SkipAbductionPlayer.label>
+  <SkipAbductionPlayer.description>Проводите псионический ритуал, в результате которого вы похитите случайно выбранного враждебного человека на карте. После ритуала жертва впадёт в краткосрочную кому, что позволит вам взять её в плен.</SkipAbductionPlayer.description>
+  <SkipAbductionPlayer.generalRules.rulesStrings>
+    <li>subject-&gt;псионическое похищение</li>
+    <li>subject-&gt;похищение телепортацией</li>
+    <li>subject_story-&gt;доводилось видеть попытку похищения имперского дворянина</li>
+    <li>subject_story-&gt;как-то раз кротолюди взяли {PAWN_gender ? его : её} в плен и требовали выкуп</li>
+    <li>subject_story-&gt;приходилось видеть последствия неудачного ритуала перемещения, совершённого лидером культа</li>
+    <li>subject_story-&gt;приходилось исследовать транспространственный перенос посредством архотехнологий</li>
+    <li>subject_gerund-&gt;похищает врагов с помощью псионического ритуала</li>
+    <li>subject_gerund-&gt;совершает ритуал похищения телепортацией</li>
+  </SkipAbductionPlayer.generalRules.rulesStrings>
+  <SleepSuppressor.label>подавитель сонливости</SleepSuppressor.label>
+  <SleepSuppressor.description>Архо-осколок, вмонтированный в раму под электрическим напряжением. Рассылает пси-импульс, который меняет химические процессы внутри головного мозга и останавливает накопление токсинов утомления. Раздражает всех прохожих.</SleepSuppressor.description>
+  <SleepSuppressor.generalRules.rulesStrings>
+    <li>subject-&gt;подавитель сонливости</li>
+    <li>subject_story-&gt;приходилось изучать недостаток сна у заводских рабочих</li>
+    <li>subject_story-&gt;приходилось исследовать последствия использования стимуляторов имперскими солдатами</li>
+    <li>subject_story-&gt;доводилось исследовать различные воздействия архо-полей на человеческий разум</li>
+    <li>subject_story-&gt;доводилось работать в описомнической лаборатории на утопической планете, где богачи проводили всю жизнь во сне</li>
+    <li>subject_story-&gt;доводилось управлять системой «подъём-отбой» в трудовом лагере на планете-тюрьме</li>
+    <li>subject_gerund-&gt;создаёт подавители сна из архотехники</li>
+    <li>subject_gerund-&gt;подавляет сонливость с помощью архотехнологий</li>
+  </SleepSuppressor.generalRules.rulesStrings>
+  <SummonAnimals.label>привлечение животных</SummonAnimals.label>
+  <SummonAnimals.description>Проводите псионический ритуал, привлекающий стадо животных.</SummonAnimals.description>
+  <SummonAnimals.generalRules.rulesStrings>
+    <li>subject-&gt;заклинание стихийной миграции</li>
+    <li>subject_story-&gt;доводилось пасти стада в горах примитивной планеты</li>
+    <li>subject_story-&gt;знает, как общаться с полевыми зверями</li>
+    <li>subject_story-&gt;приходилось проводить опыты по воздействию архитов на разные виды животных</li>
+    <li>subject_story-&gt;доводилось видеть, как культ поклонения природе общается со стадом животных</li>
+    <li>subject_gerund-&gt;призывает стада животных</li>
+  </SummonAnimals.generalRules.rulesStrings>
+  <SummonFleshbeastsPlayer.label>призыв биошматов</SummonFleshbeastsPlayer.label>
+  <SummonFleshbeastsPlayer.description>Проводите псионический ритуал, призывающий биошматов. Они появляются из земли и атакуют всех, кто окажется поблизости.</SummonFleshbeastsPlayer.description>
+  <SummonFleshbeastsPlayer.generalRules.rulesStrings>
+    <li>subject-&gt;призыв биошматов</li>
+    <li>subject_story-&gt;доводилось читать древние фолианты о происхождении жизни</li>
+    <li>subject_story-&gt;доводилось своими глазами видеть спонтанную генерацию бумкрыс на Сахэ</li>
+    <li>subject_story-&gt;черпает вдохновение из древнего фильма о слиянии плоти</li>
+    <li>subject_story-&gt;приходилось исследовать перенос и разделение сознания во время органического слияния</li>
+    <li>subject_story-&gt;приходилось наблюдать за общиной кротолюдей, наткнувшейся на ужасных подземных тварей</li>
+    <li>subject_gerund-&gt;призывает биошматов</li>
+    <li>subject_gerund-&gt;совершает ритуал призыва биошматов</li>
+  </SummonFleshbeastsPlayer.generalRules.rulesStrings>
+  <SummonPitGate.label>создание хтонических врат</SummonPitGate.label>
+  <SummonPitGate.description>Проводите псионический ритуал, после которого биошматы прорывают в земле огромную воронку, ведущую в их логово. Там можно найти ресурсы.</SummonPitGate.description>
+  <SummonPitGate.generalRules.rulesStrings>
+    <li>subject-&gt;заклинание хтонических врат</li>
+    <li>subject_story-&gt;приходилось исследовать инвазии расплавленной плоти</li>
+    <li>subject_story-&gt;доводилось слышать рассказы о гештальт-организмах</li>
+    <li>subject_story-&gt;доводилось заведовать библиотекой школы сектантов на мёртвой планете</li>
+    <li>subject_story-&gt;доводилось проводить церемонию оседания</li>
+    <li>subject_gerund-&gt;совершает ритуал, открывающий хтонические врата</li>
+    <li>subject_gerund-&gt;призывает хтонические врата</li>
+  </SummonPitGate.generalRules.rulesStrings>
+  <SummonShamblers.label>призыв шамблеров</SummonShamblers.label>
+  <SummonShamblers.description>Проводите псионический ритуал, который привлекает толпу живых мертвецов. Они не дружественны, но не станут нападать на ваше поселение. Их можно захватить для изучения.</SummonShamblers.description>
+  <SummonShamblers.generalRules.rulesStrings>
+    <li>subject-&gt;ритуалы призыва шамблеров</li>
+    <li>subject_story-&gt;приходилось изучать некрокульты мёртвых планет по материалам университетской библиотеки</li>
+    <li>subject_story-&gt;знает множество историй об атаках шамблеров</li>
+    <li>subject_story-&gt;приходилось изучать формирование архитовых нитей в мёртвых организмах</li>
+    <li>subject_story-&gt;{PAWN_gender ? повидал : повидала} много всего в бытность куратором на мёртвой планете</li>
+    <li>subject_gerund-&gt;призывает шамблеров</li>
+    <li>subject_gerund-&gt;через ритуал вызывает шамблеров</li>
+  </SummonShamblers.generalRules.rulesStrings>
+  <VoidSculptures.label>скульптуры пустоты</VoidSculptures.label>
+  <VoidSculptures.description>Посвящайте пустоте скульптуры из биоферрита, чтобы улучшать качество псионических ритуалов.</VoidSculptures.description>
+  <VoidSculptures.generalRules.rulesStrings>
+    <li>subject-&gt;скульптуры пустоты</li>
+    <li>subject-&gt;биоферритовая скульптура</li>
+    <li>subject_story-&gt;приходилось моделировать на компьютере возможные архотек-пространства</li>
+    <li>subject_story-&gt;доводилось быть двойником для создания снов клиентки</li>
+    <li>subject_story-&gt;хочет оживлять скульптуры</li>
+    <li>subject_story-&gt;во сне видит бесконечный рукотворный океан</li>
+    <li>subject_story-&gt;доводилось видеть, как работают имперские псионики</li>
+    <li>subject_gerund-&gt;делает скульптуру из биоферрита</li>
+    <li>subject_gerund-&gt;создаёт из биоферрита ритуальные скульптуры</li>
+  </VoidSculptures.generalRules.rulesStrings>
+</LanguageData>

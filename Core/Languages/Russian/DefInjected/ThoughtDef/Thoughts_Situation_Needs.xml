@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NeedLearning.stages.learningstarved.label>жажда знаний</NeedLearning.stages.learningstarved.label>
+  <NeedLearning.stages.learningstarved.description>Прошла куча времени с тех пор, как я {PAWN_gender ? изучал : изучала} что-то новое. Я {PAWN_gender ? устал : устала} от рутины!</NeedLearning.stages.learningstarved.description>
+  <NeedLearning.stages.learningdeprived.label>тяга к знаниям</NeedLearning.stages.learningdeprived.label>
+  <NeedLearning.stages.learningdeprived.description>Я хочу изучать больше нового. Здесь так скучно!</NeedLearning.stages.learningdeprived.description>
+  <NeedLearning.stages.learning_unfulfilled.label>недостаток учёбы</NeedLearning.stages.learning_unfulfilled.label>
+  <NeedLearning.stages.learning_unfulfilled.description>Мне нужно больше возможностей и времени на изучение новых вещей.</NeedLearning.stages.learning_unfulfilled.description>
+  <NeedLearning.stages.learning_satisfied.label>удовлетворенность учебой</NeedLearning.stages.learning_satisfied.label>
+  <NeedLearning.stages.learning_satisfied.description>Мне удалось многому научиться за последние дни. Жду не дождусь, когда можно будет узнать еще больше!</NeedLearning.stages.learning_satisfied.description>
+  <NeedLearning.stages.learning_fully_satisfied.label>полное удовлетворение учёбой</NeedLearning.stages.learning_fully_satisfied.label>
+  <NeedLearning.stages.learning_fully_satisfied.description>Я узнаю́ столько всего нового! И мне это так нравится!</NeedLearning.stages.learning_fully_satisfied.description>
+  <NeedPlay.stages.desperately_wants_to_play.label>ужасно хочет играть</NeedPlay.stages.desperately_wants_to_play.label>
+  <NeedPlay.stages.desperately_wants_to_play.description>Поиграйте. Со. Мной. Сейчас же!</NeedPlay.stages.desperately_wants_to_play.description>
+  <NeedPlay.stages.really_wants_to_play.label>очень хочет играть</NeedPlay.stages.really_wants_to_play.label>
+  <NeedPlay.stages.really_wants_to_play.description>Почему со мной никто не играет?</NeedPlay.stages.really_wants_to_play.description>
+  <NeedPlay.stages.wants_to_play.label>хочет играть</NeedPlay.stages.wants_to_play.label>
+  <NeedPlay.stages.wants_to_play.description>Скукота!</NeedPlay.stages.wants_to_play.description>
+  <NeedPlay.stages.entertained.label>{PAWN_gender ? Повеселился : Повеселилась}</NeedPlay.stages.entertained.label>
+  <NeedPlay.stages.entertained.description>Мне весело!</NeedPlay.stages.entertained.description>
+  <NeedPlay.stages.very_entertained.label>очень весело</NeedPlay.stages.very_entertained.label>
+  <NeedPlay.stages.very_entertained.description>Вот это веселье!</NeedPlay.stages.very_entertained.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GoJuiceHigh.stages.high_on_gojuice.label>под Go-соком</GoJuiceHigh.stages.high_on_gojuice.label>
+  <GoJuiceHigh.stages.high_on_gojuice.description>Я на взводе, но в тоже время {PAWN_gender ? спокоен : спокойна}. Я — пуля снайпера, летящая в цель.</GoJuiceHigh.stages.high_on_gojuice.description>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>ломка по Go-соку</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>Всё как в тумане, не могу ясно мыслить. У меня нет сил, ноги ватные, хочу есть, всё болит!</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+</LanguageData>

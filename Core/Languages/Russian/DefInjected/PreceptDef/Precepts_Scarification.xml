@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Scarification_Extreme.label>по всему телу</Scarification_Extreme.label>
+  <Scarification_Extreme.description>У каждого должны быть ритуальные шрамы по всему телу.</Scarification_Extreme.description>
+  <Scarification_Extreme.comps.0.thoughtStageDescriptions.0>Шрамирование (требуется 5 шрамов)</Scarification_Extreme.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Extreme.comps.1.thoughtStageDescriptions.0>Шрамирование (требуется 5 шрамов)</Scarification_Extreme.comps.1.thoughtStageDescriptions.0>
+  <Scarification_Heavy.label>умеренное</Scarification_Heavy.label>
+  <Scarification_Heavy.description>У каждого должно быть много ритуальных шрамов.</Scarification_Heavy.description>
+  <Scarification_Heavy.comps.0.thoughtStageDescriptions.0>Шрамирование (требуется 3 шрама)</Scarification_Heavy.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Heavy.comps.1.thoughtStageDescriptions.0>Шрамирование (требуется 3 шрама)</Scarification_Heavy.comps.1.thoughtStageDescriptions.0>
+  <Scarification_Horrible.label>порицается</Scarification_Horrible.label>
+  <Scarification_Horrible.description>Подвергать людей процедуре шрамирования — ужасно.</Scarification_Horrible.description>
+  <Scarification_Horrible.comps.0.description>кого-то шрамировали</Scarification_Horrible.comps.0.description>
+  <Scarification_Minor.label>небольшое</Scarification_Minor.label>
+  <Scarification_Minor.description>У каждого должен быть ритуальный шрам.</Scarification_Minor.description>
+  <Scarification_Minor.comps.0.thoughtStageDescriptions.0>Шрамирование (требуется 1 шрам)</Scarification_Minor.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Minor.comps.1.thoughtStageDescriptions.0>Шрамирование (требуется 1 шрам)</Scarification_Minor.comps.1.thoughtStageDescriptions.0>
+</LanguageData>

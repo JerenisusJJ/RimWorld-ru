@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BlocksGranite.label>блоки гранита</BlocksGranite.label>
+  <BlocksGranite.description>Цельные блоки гранита. Гранит — очень твёрдый камень.</BlocksGranite.description>
+  <BlocksGranite.stuffProps.stuffAdjective>гранита</BlocksGranite.stuffProps.stuffAdjective>
+  <BlocksLimestone.label>блоки известняка</BlocksLimestone.label>
+  <BlocksLimestone.description>Цельные блоки известняка.</BlocksLimestone.description>
+  <BlocksLimestone.stuffProps.stuffAdjective>известняка</BlocksLimestone.stuffProps.stuffAdjective>
+  <BlocksMarble.label>блоки мрамора</BlocksMarble.label>
+  <BlocksMarble.description>Цельные блоки мрамора. Мрамор — мягкий, красивый камень, хороший материал для скульптур.</BlocksMarble.description>
+  <BlocksMarble.stuffProps.stuffAdjective>мрамора</BlocksMarble.stuffProps.stuffAdjective>
+  <BlocksSandstone.label>блоки песчаника</BlocksSandstone.label>
+  <BlocksSandstone.description>Цельные блоки песчаника. Песчаник — относительно мягкий камень и легко крошится.</BlocksSandstone.description>
+  <BlocksSandstone.stuffProps.stuffAdjective>песчаника</BlocksSandstone.stuffProps.stuffAdjective>
+  <BlocksSlate.label>блоки сланца</BlocksSlate.label>
+  <BlocksSlate.description>Цельные блоки шиферного сланца. Скучно выглядящий камень, который легко крошится.</BlocksSlate.description>
+  <BlocksSlate.stuffProps.stuffAdjective>сланца</BlocksSlate.stuffProps.stuffAdjective>
+  <ChunkGranite.label>обломок гранита</ChunkGranite.label>
+  <ChunkGranite.description>Обломок горной породы. Можно разрезать на блоки, пригодные для строительства.</ChunkGranite.description>
+  <ChunkLimestone.label>обломок известняка</ChunkLimestone.label>
+  <ChunkLimestone.description>Обломок горной породы. Можно разрезать на блоки, пригодные для строительства.</ChunkLimestone.description>
+  <ChunkMarble.label>обломок мрамора</ChunkMarble.label>
+  <ChunkMarble.description>Обломок горной породы. Можно разрезать на блоки, пригодные для строительства.</ChunkMarble.description>
+  <ChunkSandstone.label>обломок песчаника</ChunkSandstone.label>
+  <ChunkSandstone.description>Обломок горной породы. Можно разрезать на блоки, пригодные для строительства.</ChunkSandstone.description>
+  <ChunkSlagSteel.label>металлолом</ChunkSlagSteel.label>
+  <ChunkSlagSteel.description>Груда металлолома. Не слишком полезна в текущем виде, но её можно расплавить, чтобы получить сталь.</ChunkSlagSteel.description>
+  <ChunkSlate.label>обломок сланца</ChunkSlate.label>
+  <ChunkSlate.description>Обломок горной породы. Можно разрезать на блоки, пригодные для строительства.</ChunkSlate.description>
+  <Granite.label>гранит</Granite.label>
+  <Granite.description>Очень твёрдая порода магматического происхождения.</Granite.description>
+  <Limestone.label>известняк</Limestone.label>
+  <Limestone.description>Осадочная порода, состоящая из уплотнённых останков древних морских ракушек.</Limestone.description>
+  <Marble.label>мрамор</Marble.label>
+  <Marble.description>Мягкая метаморфическая порода.</Marble.description>
+  <Sandstone.label>песчаник</Sandstone.label>
+  <Sandstone.description>Осадочная порода, состоящая из частиц песка, спрессованных вместе.</Sandstone.description>
+  <Slate.label>шиферный сланец</Slate.label>
+  <Slate.description>Метаморфическая порода тёмного цвета. Её тонкие слои хорошо заметны на разрезе.</Slate.description>
+  <SmoothedGranite.label>полированный гранит</SmoothedGranite.label>
+  <SmoothedGranite.description>Очень твёрдая порода магматического происхождения. Отполированная поверхность пестрит мозаикой из чёрных, белых и розовых вкраплений.</SmoothedGranite.description>
+  <SmoothedLimestone.label>полированный известняк</SmoothedLimestone.label>
+  <SmoothedLimestone.description>Осадочная порода, состоящая из уплотнённых останков древних морских ракушек. Отполированная поверхность имеет ровный белый цвет с лёгкими узорами из примесей.</SmoothedLimestone.description>
+  <SmoothedMarble.label>полированный мрамор</SmoothedMarble.label>
+  <SmoothedMarble.description>Мягкая метаморфическая порода. Этот полупрозрачный камень будто источает свет изнутри.</SmoothedMarble.description>
+  <SmoothedSandstone.label>гладкий песчаник</SmoothedSandstone.label>
+  <SmoothedSandstone.description>Осадочная порода, состоящая из частиц песка, спрессованных вместе. Слои песка отполированы до состояния гладкой, плоской поверхности.</SmoothedSandstone.description>
+  <SmoothedSlate.label>полированный сланец</SmoothedSlate.label>
+  <SmoothedSlate.description>Метаморфическая порода тёмного цвета. Её тонкие слои хорошо заметны на разрезе, а ещё лучше — на гладкой отполированной поверхности.</SmoothedSlate.description>
+</LanguageData>

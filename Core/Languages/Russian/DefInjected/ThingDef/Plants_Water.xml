@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Plant_Bulrush.label>рогоз</Plant_Bulrush.label>
+  <Plant_Bulrush.description>Растение, часто встречающееся на болотах. Его легко узнать по коричневому початку на конце стебля, напоминающему сигару.</Plant_Bulrush.description>
+  <Plant_LilyPad.label>кувшинка</Plant_LilyPad.label>
+  <Plant_LilyPad.description>Водное растение с широким плавающим листом.</Plant_LilyPad.description>
+  <Plant_Lotus.label>лотос</Plant_Lotus.label>
+  <Plant_Lotus.description>Водное растение, известное своими ароматными цветами.</Plant_Lotus.description>
+  <Plant_Reeds.label>тростник</Plant_Reeds.label>
+  <Plant_Reeds.description>Высокое стройное растение, растущее в воде.</Plant_Reeds.description>
+</LanguageData>

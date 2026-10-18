@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Adaptation.label>восстановление</Adaptation.label>
+  <Adaptation.valueFormat>{0} дней</Adaptation.valueFormat>
+  <ColonistMood.label>настроение</ColonistMood.label>
+  <ColonistMood.graphLabelY>% настроения</ColonistMood.graphLabelY>
+  <FreeColonists.label>поселенцы</FreeColonists.label>
+  <FreeColonists.graphLabelY>Поселенцев</FreeColonists.graphLabelY>
+  <PopAdaptation.label>восстановление по населению</PopAdaptation.label>
+  <PopAdaptation.valueFormat>{0} дней</PopAdaptation.valueFormat>
+  <PopIntent.label>накал по населению x10</PopIntent.label>
+  <PopIntent.valueFormat>{0} дней</PopIntent.valueFormat>
+  <Prisoners.label>пленники</Prisoners.label>
+  <Prisoners.graphLabelY>Пленников</Prisoners.graphLabelY>
+  <ThreatPoints.label>очки веселья /10</ThreatPoints.label>
+  <ThreatPoints.graphLabelY>Очков</ThreatPoints.graphLabelY>
+  <ThreatPoints.valueFormat>{0} очков</ThreatPoints.valueFormat>
+  <Wealth_Buildings.label>сооружения</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>Значение</Wealth_Buildings.graphLabelY>
+  <Wealth_Items.label>предметы</Wealth_Items.label>
+  <Wealth_Pawns.label>люди и животные</Wealth_Pawns.label>
+  <Wealth_Total.label>богатство (всего)</Wealth_Total.label>
+</LanguageData>

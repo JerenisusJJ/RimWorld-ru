@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Disease_Abasia.label>абазия</Disease_Abasia.label>
+  <Disease_Abasia.letterLabel>Болезнь: абазия</Disease_Abasia.letterLabel>
+  <Disease_Abasia.letterText>У {0} из ваших поселенцев обнаружена {2}.\n\nУбедитесь, что у вас есть медицинская кровать и доктор. Заболевшие нуждаются в надлежащем лечении и постельном режиме.\n\nНа симптомы жалуются следующие {1}</Disease_Abasia.letterText>
+  <Disease_BloodRot.label>гнилокровие</Disease_BloodRot.label>
+  <Disease_BloodRot.letterLabel>Болезнь: гнилокровие</Disease_BloodRot.letterLabel>
+  <Disease_BloodRot.letterText>У {0} из ваших поселенцев обнаружено {2}.\n\nУбедитесь, что у вас есть медицинская кровать и доктор. Заболевшие нуждаются в надлежащем лечении и постельном режиме.\n\nНа симптомы жалуются следующие {1}</Disease_BloodRot.letterText>
+</LanguageData>

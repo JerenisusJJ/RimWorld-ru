@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RelicInertArk.label>ларец</RelicInertArk.label>
+  <RelicInertArk.description>Объект, имеющий идеолигиозное значение.</RelicInertArk.description>
+  <RelicInertBox.label>короб</RelicInertBox.label>
+  <RelicInertBox.description>Объект, имеющий идеолигиозное значение.</RelicInertBox.description>
+  <RelicInertCube.label>куб</RelicInertCube.label>
+  <RelicInertCube.description>Куб, умещающийся в руке. Сейчас неактивен, но когда-то был неестественно притягателен.</RelicInertCube.description>
+  <RelicInertCup.label>чаша</RelicInertCup.label>
+  <RelicInertCup.description>Объект, имеющий идеолигиозное значение.</RelicInertCup.description>
+  <RelicInertFragment.label>осколок</RelicInertFragment.label>
+  <RelicInertFragment.description>Объект, имеющий идеолигиозное значение.</RelicInertFragment.description>
+  <RelicInertPendant.label>кулон</RelicInertPendant.label>
+  <RelicInertPendant.description>Объект, имеющий идеолигиозное значение.</RelicInertPendant.description>
+  <RelicInertSwordHandle.label>рукоять</RelicInertSwordHandle.label>
+  <RelicInertSwordHandle.description>Объект, имеющий идеолигиозное значение.</RelicInertSwordHandle.description>
+  <RelicInertTablet.label>скрижаль</RelicInertTablet.label>
+  <RelicInertTablet.description>Объект, имеющий идеолигиозное значение.</RelicInertTablet.description>
+</LanguageData>

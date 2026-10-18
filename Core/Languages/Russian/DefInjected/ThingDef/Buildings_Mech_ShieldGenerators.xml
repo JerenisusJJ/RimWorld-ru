@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ShieldGeneratorBullets.label>барьерный проектор механоидов</ShieldGeneratorBullets.label>
+  <ShieldGeneratorBullets.description>Проектор импульсно-репульсорного поля, перехватывающего пули извне, но позволяющего вести огонь изнутри.\n\nЭтот проектор настроен на защиту от снарядов, летящих по настильной траектории, например от пуль.\n\nЩит может быть временно отключён при помощи ЭМИ, ударом по самому устройству или перегрузкой защитного поля.</ShieldGeneratorBullets.description>
+  <ShieldGeneratorMortar.label>купольный проектор механоидов</ShieldGeneratorMortar.label>
+  <ShieldGeneratorMortar.description>Проектор импульсно-репульсорного поля, перехватывающего пули извне, но позволяющего вести огонь изнутри.\n\nЭтот проектор настроен на защиту от снарядов, падающих по навесной или мортирной траекториям.\n\nЩит может быть временно отключён при помощи ЭМИ, ударом по самому устройству или перегрузкой защитного поля.</ShieldGeneratorMortar.description>
+</LanguageData>

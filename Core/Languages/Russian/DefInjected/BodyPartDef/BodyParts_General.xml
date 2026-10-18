@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Brain.label>мозг</Brain.label>
+  <Ear.label>ухо</Ear.label>
+  <Eye.label>глаз</Eye.label>
+  <Foot.label>стопа</Foot.label>
+  <Head.label>голова</Head.label>
+  <Jaw.label>челюсть</Jaw.label>
+  <Leg.label>нога</Leg.label>
+  <Neck.label>шея</Neck.label>
+  <Nose.label>нос</Nose.label>
+  <Ribcage.label>грудная клетка</Ribcage.label>
+  <Skull.label>череп</Skull.label>
+  <Spine.label>позвоночник</Spine.label>
+  <Tongue.label>язык</Tongue.label>
+  <Tongue.removeRecipeLabelOverride>удалить</Tongue.removeRecipeLabelOverride>
+</LanguageData>

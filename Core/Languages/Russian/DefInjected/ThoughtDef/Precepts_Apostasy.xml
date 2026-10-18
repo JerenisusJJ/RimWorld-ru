@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChangedIdeo_Know_Abhorrent.stages.recent_apostasy.label>недавний отступник</ChangedIdeo_Know_Abhorrent.stages.recent_apostasy.label>
+  <ChangedIdeo_Know_Abhorrent.stages.recent_apostasy.labelSocial>{OTHERPAWN_gender ? недавний отступник : недавняя отступница}</ChangedIdeo_Know_Abhorrent.stages.recent_apostasy.labelSocial>
+  <ChangedIdeo_Know_Disapproved.stages.recent_apostasy.label>недавний отступник</ChangedIdeo_Know_Disapproved.stages.recent_apostasy.label>
+  <ChangedIdeo_Know_Disapproved.stages.recent_apostasy.labelSocial>{OTHERPAWN_gender ? недавний отступник : недавняя отступница}</ChangedIdeo_Know_Disapproved.stages.recent_apostasy.labelSocial>
+  <ChangedIdeo_Know_Horrible.stages.recent_apostasy.label>недавний отступник</ChangedIdeo_Know_Horrible.stages.recent_apostasy.label>
+  <ChangedIdeo_Know_Horrible.stages.recent_apostasy.labelSocial>{OTHERPAWN_gender ? недавний отступник : недавняя отступница}</ChangedIdeo_Know_Horrible.stages.recent_apostasy.labelSocial>
+  <IsApostate_Abhorrent_Social.stages.apostate.label>отступник</IsApostate_Abhorrent_Social.stages.apostate.label>
+  <IsApostate_Abhorrent_Social.stages.apostate.labelSocial>{OTHERPAWN_gender ? отступник : отступница}</IsApostate_Abhorrent_Social.stages.apostate.labelSocial>
+  <IsApostate_Disapproved_Social.stages.apostate.label>отступник</IsApostate_Disapproved_Social.stages.apostate.label>
+  <IsApostate_Disapproved_Social.stages.apostate.labelSocial>{OTHERPAWN_gender ? отступник : отступница}</IsApostate_Disapproved_Social.stages.apostate.labelSocial>
+  <IsApostate_Horrible_Social.stages.apostate.label>отступник</IsApostate_Horrible_Social.stages.apostate.label>
+  <IsApostate_Horrible_Social.stages.apostate.labelSocial>{OTHERPAWN_gender ? отступник : отступница}</IsApostate_Horrible_Social.stages.apostate.labelSocial>
+</LanguageData>

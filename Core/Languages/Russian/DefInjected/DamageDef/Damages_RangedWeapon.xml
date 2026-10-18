@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BeamBypassShields.label>луч</BeamBypassShields.label>
+  <BeamBypassShields.deathMessage>{0} убит(а) лучом.</BeamBypassShields.deathMessage>
+  <Bullet_TraitIncendiary.label>пуля</Bullet_TraitIncendiary.label>
+  <Bullet_TraitIncendiary.deathMessage>{0} застрелен(а).</Bullet_TraitIncendiary.deathMessage>
+  <Bullet_TraitTox.label>пуля</Bullet_TraitTox.label>
+  <Bullet_TraitTox.deathMessage>{0} застрелен(а).</Bullet_TraitTox.deathMessage>
+</LanguageData>

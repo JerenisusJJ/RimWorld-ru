@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientMegastructure.label>древняя мегапостройка</AncientMegastructure.label>
+  <CooledLava.label>застывшая лава</CooledLava.label>
+  <DryLakeBed.label>дно высохшего озера</DryLakeBed.label>
+  <DryLakeBed.tools.sand.label>песок</DryLakeBed.tools.sand.label>
+  <GlowforestSoil.label>почва</GlowforestSoil.label>
+  <GlowforestSoil.tools.dirt.label>земля</GlowforestSoil.tools.dirt.label>
+  <GrasslandSoil.label>почва</GrasslandSoil.label>
+  <GrasslandSoil.tools.dirt.label>земля</GrasslandSoil.tools.dirt.label>
+  <LavaDeep.label>глубокая лава</LavaDeep.label>
+  <Space.label>космос</Space.label>
+  <VolcanicRock.label>вулканическая порода</VolcanicRock.label>
+  <VolcanicRock_Smooth.label>гладкая вулканическая порода</VolcanicRock_Smooth.label>
+</LanguageData>

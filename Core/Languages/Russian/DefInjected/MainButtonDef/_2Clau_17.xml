@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: default colonist schedules -->
+	<Schedule.label>расписания поселенцев по умолчанию</Schedule.label>
+	<!-- EN: Set custom default schedules for colonists. You can create alternating schedules and the mod will cycle between them when assigning them to new colonists. -->
+	<Schedule.description>Задайте собственные расписания поселенцев по умолчанию. Можно создать несколько чередующихся расписаний — мод будет назначать их по очереди новым поселенцам.</Schedule.description>
+</LanguageData>

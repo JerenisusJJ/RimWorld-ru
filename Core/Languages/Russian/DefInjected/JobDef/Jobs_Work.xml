@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ActivitySuppression.reportString>подавляет TargetC</ActivitySuppression.reportString>
+  <PrisonerInterrogateIdentity.reportString>допрашивает TargetA</PrisonerInterrogateIdentity.reportString>
+</LanguageData>

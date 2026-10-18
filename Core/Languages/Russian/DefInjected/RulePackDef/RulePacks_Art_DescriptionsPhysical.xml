@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ArtDescription_CubeSculpture.rulePack.rulesStrings>
+    <li>r_art_description-&gt;[cubeWork] [cubeDepicts] [aCube]. [cube_style_group]</li>
+    <li>cube_style_group(p=2)-&gt;[cubeDescSentence]. [cubeExtraSentence].</li>
+    <li>cube_style_group(p=3)-&gt;[cubeDescSentence].</li>
+    <li>cube_style_group-&gt;</li>
+    <li>cubeDescSentence(p=3)-&gt;[aPawn] [worshipsTheCube] [cubeLocation]</li>
+    <li>cubeDescSentence(p=3)-&gt;[pawnsPlural] [worshippingTheCube] [cubeLocation]</li>
+    <li>cubeDescSentence-&gt;[cubeWork] намекает созерцающим, если они ещё не [worshippingTheCube], то им пора начать</li>
+    <li>cubeDescSentence-&gt;[cubeWork] имеет центральный ярко выраженный посыл: все [worshippingTheCube], а кто ещё не начал, тот должен исправить эту оплошность</li>
+    <li>cubeWork-&gt;работа</li>
+    <li>cubeWork-&gt;скульптура</li>
+    <li>cubeWork-&gt;художественное произведение</li>
+    <li>cubeWork-&gt;арт-объект</li>
+    <li>aCube-&gt;абстрактный куб</li>
+    <li>aCube-&gt;идеальный куб</li>
+    <li>aCube-&gt;кривоватый куб</li>
+    <li>aCube-&gt;стилизованный куб</li>
+    <li>aCube-&gt;множащийся куб</li>
+    <li>aCube-&gt;грубо сделанный куб</li>
+    <li>aCube-&gt;искажённый куб</li>
+    <li>aCube-&gt;ужасающий куб</li>
+    <li>aCube-&gt;тёмный куб</li>
+    <li>cubeLocation-&gt;у центра</li>
+    <li>cubeLocation-&gt;на каждой грани</li>
+    <li>cubeLocation-&gt;в центре каждой грани</li>
+    <li>cubeLocation-&gt;в верхней части композиции</li>
+    <li>cubeLocation-&gt;в нижней части композиции</li>
+    <li>cubeLocation-&gt;на заднем плане композиции</li>
+    <li>cubeLocation-&gt;у краёв композиции</li>
+    <li>cubeLocation-&gt;вдоль граней</li>
+    <li>cubeLocation-&gt;вдоль граней</li>
+    <li>cubeDepicts-&gt;изображает</li>
+    <li>cubeDepicts-&gt;показывает</li>
+    <li>cubeDepicts-&gt;—</li>
+    <li>cubeDepicts-&gt;представляет из себя</li>
+    <li>aPawn-&gt;автопортрет автора</li>
+    <li>aPawn-&gt;трумбо</li>
+    <li>aPawn-&gt;истощенный человек, у которого слишком много глаз,</li>
+    <li>aPawn-&gt;один из ваших поселенцев</li>
+    <li>aPawn-&gt;неандерталец</li>
+    <li>aPawn-&gt;один из предводителей мира-утопии</li>
+    <li>aPawn-&gt;неясная фигура</li>
+    <li>aPawn-&gt;шаман одного из племён</li>
+    <li>aPawn-&gt;гемофага с надвинутым капюшоном</li>
+    <li>aPawn-&gt;средневековая принцесса</li>
+    <li>aPawn-&gt;предводитель далёкой общины ([Community])</li>
+    <li>aPawn-&gt;женщина, у которой в руках [Weapon],</li>
+    <li>aPawn-&gt;процессия людей в балахонах</li>
+    <li>pawnsPlural-&gt;ваши поселенцы</li>
+    <li>pawnsPlural-&gt;рейдеры</li>
+    <li>pawnsPlural-&gt;аборигены</li>
+    <li>pawnsPlural-&gt;механоиды</li>
+    <li>pawnsPlural-&gt;пираты</li>
+    <li>pawnsPlural-&gt;крестьяне</li>
+    <li>pawnsPlural-&gt;несколько особей животных ([Animal])</li>
+    <li>pawnsPlural-&gt;люди из соседней общины ([Community])</li>
+    <li>pawnsPlural-&gt;[Quantity_adjphrase] человек</li>
+    <li>worshippingTheCube-&gt;поклоняются кубу</li>
+    <li>worshippingTheCube-&gt;преклоняются перед кубом</li>
+    <li>worshippingTheCube-&gt;падают ниц перед кубом</li>
+    <li>worshippingTheCube-&gt;водят круги вокруг куба</li>
+    <li>worshippingTheCube-&gt;восславляют куб</li>
+    <li>worshippingTheCube-&gt;испытывают священный трепет перед кубом</li>
+    <li>worshippingTheCube-&gt;возносят кубу мольбы</li>
+    <li>worshippingTheCube-&gt;рыдают перед кубом</li>
+    <li>worshippingTheCube-&gt;играют с кубом</li>
+    <li>worshippingTheCube-&gt;заводят дружбу с кубом</li>
+    <li>worshippingTheCube-&gt;смотрят на куб</li>
+    <li>worshippingTheCube-&gt;неустанно обхаживают куб</li>
+    <li>worshippingTheCube-&gt;приносят кубу жертвы</li>
+    <li>worshippingTheCube-&gt;делают кубу подношения</li>
+    <li>worshippingTheCube-&gt;кидаются на куб</li>
+    <li>worshippingTheCube-&gt;выказывают кубу своё уважение</li>
+    <li>worshippingTheCube-&gt;зарывают куб в землю</li>
+    <li>worshippingTheCube-&gt;ставят куб на постамент</li>
+    <li>worshippingTheCube-&gt;снимают с куба копию</li>
+    <li>worshippingTheCube-&gt;везут куб на другую планету</li>
+    <li>worshipsTheCube-&gt;поклоняется кубу</li>
+    <li>worshipsTheCube-&gt;преклоняется перед кубом</li>
+    <li>worshipsTheCube-&gt;падает ниц перед кубом</li>
+    <li>worshipsTheCube-&gt;ходит вокруг куба</li>
+    <li>worshipsTheCube-&gt;восславляет куб</li>
+    <li>worshipsTheCube-&gt;испытывает священный трепет перед кубом</li>
+    <li>worshipsTheCube-&gt;возносит мольбы кубу</li>
+    <li>worshipsTheCube-&gt;рыдает перед кубом</li>
+    <li>worshipsTheCube-&gt;играет с кубом</li>
+    <li>worshipsTheCube-&gt;заводит дружбу с кубом</li>
+    <li>worshipsTheCube-&gt;смотрит на куб</li>
+    <li>worshipsTheCube-&gt;неустанно обхаживает куб</li>
+    <li>worshipsTheCube-&gt;приносит жертвы кубу</li>
+    <li>worshipsTheCube-&gt;делает кубу подношения</li>
+    <li>worshipsTheCube-&gt;кидается на куб</li>
+    <li>worshipsTheCube-&gt;нападает на куб</li>
+    <li>worshipsTheCube-&gt;закапывает куб</li>
+    <li>worshipsTheCube-&gt;ставит куб на постамент</li>
+    <li>worshipsTheCube-&gt;делает копию куба</li>
+    <li>worshipsTheCube-&gt;везёт куб на другую планету</li>
+    <li>cubeExtraSentence-&gt;Кажется, куб [cubeEmotion]</li>
+    <li>cubeExtraSentence-&gt;[pawnsPlural] идут к кубу, чтобы присоединиться к происходящему</li>
+    <li>cubeExtraSentence-&gt;[aPawn] идёт к кубу, чтобы присоединиться к происходящему</li>
+    <li>cubeExtraSentence-&gt;[aPawn] горестно наблюдает за происходящим</li>
+    <li>cubeExtraSentence-&gt;[pawnsPlural] пытаются украсть куб</li>
+    <li>cubeExtraSentence-&gt;Куб будто бы подёргивает легкая рябь</li>
+    <li>cubeEmotion-&gt;это никак не затрагивает</li>
+    <li>cubeEmotion-&gt;этому рад</li>
+    <li>cubeEmotion-&gt;расстроен</li>
+    <li>cubeEmotion-&gt;к этому безучастен</li>
+    <li>cubeEmotion-&gt;в ярости</li>
+    <li>cubeEmotion-&gt;польщён</li>
+    <li>cubeEmotion-&gt;недоволен</li>
+  </ArtDescription_CubeSculpture.rulePack.rulesStrings>
+  <ArtDescription_VoidSculpture.rulePack.rulesStrings>
+    <li>r_art_description-&gt;[voidStrange] скульптура [voidVerbphrase]. [voidDesc]</li>
+    <li>voidStrange-&gt;необычная</li>
+    <li>voidStrange-&gt;жуткая</li>
+    <li>voidStrange-&gt;неприятная</li>
+    <li>voidStrange-&gt;пугающая</li>
+    <li>voidStrange-&gt;перекрученная</li>
+    <li>voidStrange-&gt;деформированная</li>
+    <li>voidStrange-&gt;нечеловеческая</li>
+    <li>voidStrange-&gt;странная</li>
+    <li>voidVerbphrase-&gt;противоестественно скручивается</li>
+    <li>voidVerbphrase-&gt;извивается, будто бы стараясь навредить зрителю</li>
+    <li>voidVerbphrase-&gt;как будто постоянно меняется под взором смотрящего</li>
+    <li>voidVerbphrase-&gt;источает ауру ярости</li>
+    <li>voidVerbphrase-&gt;источает ауру грусти и тоски</li>
+    <li>voidVerbphrase-&gt;вызывает необъяснимый липкий страх и неуверенность в себе</li>
+    <li>voidVerbphrase-&gt;то и дело выдаётся в какую-нибудь сторону без всякой причины</li>
+    <li>voidVerbphrase-&gt;будто бы подрагивает, когда находится на периферии зрения</li>
+    <li>voidVerbphrase-&gt;выглядит так, будто дышит</li>
+    <li>voidVerbphrase-&gt;не похожа ни на одно живое существо</li>
+    <li>voidVerbphrase-&gt;по видимому метафорически выражает страдание</li>
+    <li>voidDesc-&gt;Десятки пальцеобразных придатков судорожно обхватывают центральную фигуру композиции.</li>
+    <li>voidDesc-&gt;Сферы в композиции прижимают и размозжают друг друга, образуя вытянутые формы.</li>
+    <li>voidDesc-&gt;Похожие на лезвия сегменты согнуты так, что все вместе они напоминают застывшую на лице гримасу ужаса.</li>
+    <li>voidDesc-&gt;Похожие на руки отростки сжимают друг друга, будто стремясь уничтожить.</li>
+    <li>voidDesc-&gt;Из поверхности скульптуры выступают иглы. Они будто готовы выстрелить и пронзить любого, кто совершит резкое движение.</li>
+    <li>voidDesc-&gt;Поверхность сжимается и перекатывается. Она то похожа на что-то органическое, то на что-то выточенное или заточенное на станке.</li>
+    <li>voidDesc-&gt;Скульптура будто бы с огромной силой разрезала себя на части. Странно, что они ещё держатся.</li>
+    <li>voidDesc-&gt;Некое подобие руки замерло в ожидании, будто приготовившись к атаке.</li>
+    <li>voidDesc-&gt;Две фигуры истязают друг друга, вонзая в тела длинные зазубренные пальцы.</li>
+    <li>voidDesc-&gt;Изо рта скорченного в крике лица выступает фигура сложной формы.</li>
+    <li>voidDesc-&gt;Абстрактная животная фигура будто бы отрывает себе конечность.</li>
+    <li>voidDesc-&gt;Сотни абстрактных фигурок клубятся над большой искажённой сферой.</li>
+  </ArtDescription_VoidSculpture.rulePack.rulesStrings>
+</LanguageData>

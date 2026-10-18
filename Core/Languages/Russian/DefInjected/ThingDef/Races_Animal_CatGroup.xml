@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Cat.label>кошка</Cat.label>
+  <Cat.description>Одни из первых домашних животных, кошки — небольшие млекопитающие, охотящиеся на разных вредителей. Несмотря на присущее им равнодушие, они всё равно очень популярны из-за своего спокойствия, независимости и мягчайшего меха, который очень приятно гладить.</Cat.description>
+  <Cat.tools.left_claw.label>левая лапа</Cat.tools.left_claw.label>
+  <Cat.tools.left_claw.labelNoLocation>лапа</Cat.tools.left_claw.labelNoLocation>
+  <Cat.tools.right_claw.label>правая лапа</Cat.tools.right_claw.label>
+  <Cat.tools.right_claw.labelNoLocation>лапа</Cat.tools.right_claw.labelNoLocation>
+  <Cat.tools.head.label>голова</Cat.tools.head.label>
+  <GuineaPig.label>морская свинка</GuineaPig.label>
+  <GuineaPig.description>Не является свиньёй и не имеет никакого отношения к морю. Этого небольшого грызуна разводят в качестве домашнего питомца и источника питательного мяса.</GuineaPig.description>
+  <GuineaPig.tools.left_claw.label>левая лапа</GuineaPig.tools.left_claw.label>
+  <GuineaPig.tools.left_claw.labelNoLocation>лапа</GuineaPig.tools.left_claw.labelNoLocation>
+  <GuineaPig.tools.right_claw.label>правая лапа</GuineaPig.tools.right_claw.label>
+  <GuineaPig.tools.right_claw.labelNoLocation>лапа</GuineaPig.tools.right_claw.labelNoLocation>
+  <GuineaPig.tools.head.label>голова</GuineaPig.tools.head.label>
+  <Husky.label>хаски</Husky.label>
+  <Husky.description>Крупная энергичная порода собак с густой шерстью. Хаски комфортно себя чувствуют даже в арктических условиях.</Husky.description>
+  <Husky.tools.left_claw.label>левая лапа</Husky.tools.left_claw.label>
+  <Husky.tools.left_claw.labelNoLocation>лапа</Husky.tools.left_claw.labelNoLocation>
+  <Husky.tools.right_claw.label>правая лапа</Husky.tools.right_claw.label>
+  <Husky.tools.right_claw.labelNoLocation>лапа</Husky.tools.right_claw.labelNoLocation>
+  <Husky.tools.head.label>голова</Husky.tools.head.label>
+  <LabradorRetriever.label>лабрадор-ретривер</LabradorRetriever.label>
+  <LabradorRetriever.description>Собака средних размеров. Эта порода изначально разводилась для охоты на птиц, но со временем стала применяться как сторожевая. Очень верный друг.</LabradorRetriever.description>
+  <LabradorRetriever.tools.left_claw.label>левая лапа</LabradorRetriever.tools.left_claw.label>
+  <LabradorRetriever.tools.left_claw.labelNoLocation>лапа</LabradorRetriever.tools.left_claw.labelNoLocation>
+  <LabradorRetriever.tools.right_claw.label>правая лапа</LabradorRetriever.tools.right_claw.label>
+  <LabradorRetriever.tools.right_claw.labelNoLocation>лапа</LabradorRetriever.tools.right_claw.labelNoLocation>
+  <LabradorRetriever.tools.head.label>голова</LabradorRetriever.tools.head.label>
+  <Monkey.label>обезьяна</Monkey.label>
+  <Monkey.description>Обезьяны пользуются своим изогнутым хвостом, чтобы держаться за ветви, оставляя руки свободными для чего-нибудь ещё. Обезьяны по природе весьма эгоистичны, но умны, и могут быть обучены выполнению сложных задач.</Monkey.description>
+  <Monkey.tools.left_fist.label>левый кулак</Monkey.tools.left_fist.label>
+  <Monkey.tools.left_fist.labelNoLocation>лапа</Monkey.tools.left_fist.labelNoLocation>
+  <Monkey.tools.right_fist.label>правый кулак</Monkey.tools.right_fist.label>
+  <Monkey.tools.right_fist.labelNoLocation>лапа</Monkey.tools.right_fist.labelNoLocation>
+  <Monkey.tools.head.label>голова</Monkey.tools.head.label>
+  <YorkshireTerrier.label>йоркширский терьер</YorkshireTerrier.label>
+  <YorkshireTerrier.description>Небольшая спокойная собака. Изначально разводившиеся для охоты на крыс, йоркширские терьеры впоследствии стали домашними и декоративными животными. Кто-то считает их бесполезными, но для многих радость от общения с собаками этой породы перевешивает хлопоты, связанные с их содержанием.</YorkshireTerrier.description>
+  <YorkshireTerrier.tools.left_claw.label>левая лапа</YorkshireTerrier.tools.left_claw.label>
+  <YorkshireTerrier.tools.left_claw.labelNoLocation>лапа</YorkshireTerrier.tools.left_claw.labelNoLocation>
+  <YorkshireTerrier.tools.right_claw.label>правая лапа</YorkshireTerrier.tools.right_claw.label>
+  <YorkshireTerrier.tools.right_claw.labelNoLocation>лапа</YorkshireTerrier.tools.right_claw.labelNoLocation>
+  <YorkshireTerrier.tools.cute_little_teeth.label>милые маленькие зубки</YorkshireTerrier.tools.cute_little_teeth.label>
+  <YorkshireTerrier.tools.head.label>голова</YorkshireTerrier.tools.head.label>
+</LanguageData>

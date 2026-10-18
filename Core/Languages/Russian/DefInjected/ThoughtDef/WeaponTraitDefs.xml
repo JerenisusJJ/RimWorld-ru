@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BondedThoughtCalm.stages.s_calm_thoughts.label>{WEAPON} успокаивает</BondedThoughtCalm.stages.s_calm_thoughts.label>
+  <BondedThoughtCalm.stages.s_calm_thoughts.description>Моё оружие, {WEAPON}, нашёптывает мне успокаивающие мысли.</BondedThoughtCalm.stages.s_calm_thoughts.description>
+  <BondedThoughtKind.stages.s_kind_thoughts.label>{WEAPON} ободряет</BondedThoughtKind.stages.s_kind_thoughts.label>
+  <BondedThoughtKind.stages.s_kind_thoughts.description>Моё оружие, {WEAPON}, ободряет меня.</BondedThoughtKind.stages.s_kind_thoughts.description>
+  <BondedThoughtMuttering.stages.s_muttering.label>{WEAPON} бурчит</BondedThoughtMuttering.stages.s_muttering.label>
+  <BondedThoughtMuttering.stages.s_muttering.description>Моё оружие, {WEAPON}, ворчит у меня в голове. Временами это трудно не замечать.</BondedThoughtMuttering.stages.s_muttering.description>
+  <BondedThoughtWailing.stages.s_wailing.label>{WEAPON} воет</BondedThoughtWailing.stages.s_wailing.label>
+  <BondedThoughtWailing.stages.s_wailing.description>Моё оружие, {WEAPON}, безумно завывает у меня в голове. Как бы мне хотелось этого не замечать.</BondedThoughtWailing.stages.s_wailing.description>
+  <JealousRage.stages.s_jealousy.label>{WEAPON} ревнует</JealousRage.stages.s_jealousy.label>
+  <JealousRage.stages.s_jealousy.description>Моё оружие, {WEAPON}, ревнует меня к другому оружию. Я слышу его крики ярости у себя в голове.</JealousRage.stages.s_jealousy.description>
+  <KillThirst_Weapon.stages.s_kill_thirst.label>{WEAPON} жаждет крови</KillThirst_Weapon.stages.s_kill_thirst.label>
+  <KillThirst_Weapon.stages.s_kill_thirst.description>Моё оружие, {WEAPON}, злится из-за того, что долго никого не убивало. Я чувствую его ярость.</KillThirst_Weapon.stages.s_kill_thirst.description>
+  <OnKill_BadThought.stages.s_kill_sorrow.label>{WEAPON} скорбит по убитым</OnKill_BadThought.stages.s_kill_sorrow.label>
+  <OnKill_BadThought.stages.s_kill_sorrow.description>Моё оружие, {WEAPON}, скорбит по убитым противникам, и его скорбь захватывает мой разум.</OnKill_BadThought.stages.s_kill_sorrow.description>
+  <OnKill_GoodThought.stages.s_kill_happiness.label>{WEAPON} радуется крови</OnKill_GoodThought.stages.s_kill_happiness.label>
+  <OnKill_GoodThought.stages.s_kill_happiness.description>Моё оружие, {WEAPON}, переполнено радостью от пролитой им крови, и я чувствую её отголоски.</OnKill_GoodThought.stages.s_kill_happiness.description>
+</LanguageData>

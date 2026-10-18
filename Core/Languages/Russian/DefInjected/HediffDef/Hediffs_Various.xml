@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BioStarvation.label>инкубационный голод</BioStarvation.label>
+  <BioStarvation.description>Голод, вызванный недостатком питательных веществ во время роста в инкубаторе.</BioStarvation.description>
+  <Deathrest.label>торпор</Deathrest.label>
+  <Deathrest.description>Состояние, похожее на глубокую кому и продолжающееся несколько дней. В него могут входить только обладатели определённого гена. Процесс можно оптимизировать с помощью различных сооружений.</Deathrest.description>
+  <DeathrestExhaustion.label>торпорное истощение</DeathrestExhaustion.label>
+  <DeathrestExhaustion.description>Нарушение обмена веществ, вызванное длительным отсутствием возможности погрузиться в торпор.</DeathrestExhaustion.description>
+  <GeneticDrugNeed.label>зависимость</GeneticDrugNeed.label>
+  <GeneticDrugNeed.description>Генетически обусловленная зависимость от определённого наркотика. Без его регулярного приёма происходит постепенное нарушение жизненно важных функций организма, дестабилизация психики и, в конечном счёте, смерть.\n\nВступает в силу после достижения возраста 13 лет.</GeneticDrugNeed.description>
+  <GeneticDrugNeed.stages.deficiency.label>абстиненция</GeneticDrugNeed.stages.deficiency.label>
+  <GeneticDrugNeed.stages.deficiency.overrideLabel>абстинентная кома</GeneticDrugNeed.stages.deficiency.overrideLabel>
+  <GeneticDrugNeed.stages.3.overrideLabel>абстинентная кома</GeneticDrugNeed.stages.3.overrideLabel>
+  <HemogenCraving.label>гемогенное голодание</HemogenCraving.label>
+  <HemogenCraving.description>Дезориентация и болезненная тяга к человеческой крови, вызванные расщеплением организмом запасов гемогена в костном мозге.</HemogenCraving.description>
+  <HemogenCraving.stages.minor.label>лёгкое</HemogenCraving.stages.minor.label>
+  <HemogenCraving.stages.moderate.label>умеренное</HemogenCraving.stages.moderate.label>
+  <HemogenCraving.stages.major.label>сильное</HemogenCraving.stages.major.label>
+  <InterruptedDeathrest.label>прерванный торпор</InterruptedDeathrest.label>
+  <InterruptedDeathrest.description>Недомогание из-за нарушения обмена веществ, вызванного прерванным торпором. Может продлиться несколько дней.</InterruptedDeathrest.description>
+  <PsychicBond.label>психическая связь</PsychicBond.label>
+  <PsychicBond.description>Психическая связь с другим человеком, сформированная благодаря специальному гену. Связь сама по себе даёт некоторую психическую восприимчивость, благодаря чему доступна даже психически глухим людям.</PsychicBond.description>
+  <PsychicBond.stages.0.extraTooltip>Человек, с которым сформирована связь, находится поблизости.</PsychicBond.stages.0.extraTooltip>
+  <PsychicBond.stages.0.overrideLabel>психическая связь</PsychicBond.stages.0.overrideLabel>
+  <PsychicBond.stages.1.extraTooltip>Человек, с которым сформирована связь, находится слишком далеко.</PsychicBond.stages.1.extraTooltip>
+  <PsychicBond.stages.1.overrideLabel>психическая связь на расстоянии</PsychicBond.stages.1.overrideLabel>
+  <PsychicBondTorn.label>психическая связь разорвана</PsychicBondTorn.label>
+  <PsychicBondTorn.description>Психическая связь с другим человеком была разорвана из-за его смерти.</PsychicBondTorn.description>
+  <RegenerationComa.label>регенеративная кома</RegenerationComa.label>
+  <RegenerationComa.description>Состояние, в котором тело восстанавливается от повреждений, при отсутствии гена бессмертия приведших бы к смерти.</RegenerationComa.description>
+  <ScanningSickness.label>недомогание от анализатора</ScanningSickness.label>
+  <ScanningSickness.description>Временное недомогание, вызванное нахождением в церебральном анализаторе. Его работа вызывает нарушения биохимических процессов в мозге, которые со временем приходят в норму без долгосрочных последствий для здоровья.</ScanningSickness.description>
+  <VatGrowing.label>рост в инкубаторе</VatGrowing.label>
+  <VatGrowing.description>Стимуляция роста и взросления организма инкубатором.</VatGrowing.description>
+  <VatLearning.label>обучение в инкубаторе</VatLearning.label>
+  <VatLearning.description>Электрическая стимуляция мозга инкубатором для развития навыков. Этот процесс позволяет лишь частично компенсировать отсутствие обучения в ходе нормального развития вне инкубатора.</VatLearning.description>
+  <XenogerminationComa.label>ксенокома</XenogerminationComa.label>
+  <XenogerminationComa.description>Кома, вызванная вживлением ксеносемени в организм. В процессе генетической перестройки тела ксеносемя не даёт своему носителю проснуться из соображений безопасности.\n\nПродолжительность ксенокомы может быть уменьшена при осуществлении вживления более опытным специалистом в качественно оборудованном госпитале.</XenogerminationComa.description>
+  <XenogermLossShock.label>генетический шок</XenogermLossShock.label>
+  <XenogermLossShock.description>Нарушение обмена веществ и работы гормонов, вызванное извлечением генетического материала из тела. Характеризуется временным недомоганием и ослаблением иммунитета.</XenogermLossShock.description>
+  <XenogermReplicating.label>генетическая регенерация</XenogermReplicating.label>
+  <XenogermReplicating.description>Восстановление изъятого генетического материала. Его повторное извлечение до завершения регенерации приведёт к смерти.</XenogermReplicating.description>
+  <XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>Генетический материал {PAWN_nameDef} восстановился.</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
+</LanguageData>

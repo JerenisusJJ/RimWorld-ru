@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DarkVisions.label>тёмные видения</DarkVisions.label>
+  <DarkVisions.baseInspectLine>Душевное состояние: тёмные видения</DarkVisions.baseInspectLine>
+  <DarkVisions.beginLetter>{PAWN_nameDef} чувствует, как разум одолевают ужасные видения, и бормочет о вещах, которые видит лишь {PAWN_pronoun}. {PAWN_pronoun} выйдет из этого состояния через несколько часов.</DarkVisions.beginLetter>
+  <DarkVisions.beginLetterLabel>тёмные видения</DarkVisions.beginLetterLabel>
+  <DarkVisions.recoveryMessage>{PAWN_nameDef} больше на страдает от тёмных видений.</DarkVisions.recoveryMessage>
+  <EntityKiller.label>убийца тварей</EntityKiller.label>
+  <EntityKiller.baseInspectLine>Душевное состояние: убийца тварей</EntityKiller.baseInspectLine>
+  <EntityKiller.beginLetter>{0} впадает в безумие. {PAWN_pronoun} больше не может мириться с тем, что в поселении держат опасных тёмных тварей, и собирается истребить их сколько сможет.</EntityKiller.beginLetter>
+  <EntityKiller.recoveryMessage>{0} больше не убивает тёмных тварей просто так.</EntityKiller.recoveryMessage>
+  <EntityLiberator.label>освободитель тварей</EntityLiberator.label>
+  <EntityLiberator.baseInspectLine>Душевное состояние: освободитель тварей</EntityLiberator.baseInspectLine>
+  <EntityLiberator.beginLetter>{0} внезапно попадает под влияние пленной твари. Теперь {0_gender ? он : она : он} {0_gender ? убеждён : убеждена : убеждён}, что это создание нужно освободить.</EntityLiberator.beginLetter>
+  <EntityLiberator.recoveryMessage>{0} больше не освобождает тварей.</EntityLiberator.recoveryMessage>
+  <InsaneRamblings.label>бессвязная речь</InsaneRamblings.label>
+  <InsaneRamblings.baseInspectLine>Душевное состояние: бессвязная речь</InsaneRamblings.baseInspectLine>
+  <InsaneRamblings.beginLetter>{PAWN_nameDef} полностью теряет связь с реальностью и начинает бормотать невесть о чём. {PAWN_pronoun} выйдет из этого состояния через несколько часов.</InsaneRamblings.beginLetter>
+  <InsaneRamblings.beginLetterLabel>бессвязная речь</InsaneRamblings.beginLetterLabel>
+  <InsaneRamblings.recoveryMessage>{PAWN_nameDef} прекращает нести бред.</InsaneRamblings.recoveryMessage>
+  <TerrifyingHallucinations.label>ужасающие галлюцинации</TerrifyingHallucinations.label>
+  <TerrifyingHallucinations.baseInspectLine>Душевное состояние: ужасающие галлюцинации</TerrifyingHallucinations.baseInspectLine>
+  <TerrifyingHallucinations.beginLetter>{0} видит вокруг яркие галлюцинации, которые превращают {PAWN_possessive} друзей и союзников в жутких чудовищ. {PAWN_pronoun} будет убегать от всех, кого воспримет как угрозу.</TerrifyingHallucinations.beginLetter>
+  <TerrifyingHallucinations.beginLetterLabel>ужасающие галлюцинации</TerrifyingHallucinations.beginLetterLabel>
+  <TerrifyingHallucinations.recoveryMessage>{0} больше не галлюцинирует.</TerrifyingHallucinations.recoveryMessage>
+</LanguageData>

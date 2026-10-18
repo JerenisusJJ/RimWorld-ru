@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DrillArm.label>рука-бур</DrillArm.label>
+  <DrillArm.description>Механическая замена руке для ускорения горных работ. Имеет встроенный гибкий бур, позволяющий пользователю быстро находить и использовать трещины в горной породе. Имеет манипулятор для повседневных нужд, однако слегка громоздкая конструкция несколько затрудняет передвижение пользователя.</DrillArm.description>
+  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>бур</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
+  <DrillArm.labelNoun>рука-бур</DrillArm.labelNoun>
+  <ElbowBlade.label>локтевое лезвие</ElbowBlade.label>
+  <ElbowBlade.description>Острое, как бритва, лезвие, расположенное в потайном отсеке в локтевой кости. Выдвигается быстро и бесшумно и позволяет наносить сокрушительные режущие удары.</ElbowBlade.description>
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>лезвие</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
+  <ElbowBlade.labelNoun>локтевое лезвие</ElbowBlade.labelNoun>
+  <FieldHand.label>агрорука</FieldHand.label>
+  <FieldHand.description>Эта механическая замена руки ускоряет работы по посадке культур и сбору урожая. Множество телескопических стержней, похожих на пальцы, могут одновременно собирать урожай с нескольких культур или рыть несколько ям разом. Имеет манипулятор для повседневных нужд, однако слегка громоздкая конструкция несколько затрудняет передвижение пользователя.</FieldHand.description>
+  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>кулак</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
+  <FieldHand.labelNoun>агрорука</FieldHand.labelNoun>
+  <HandTalon.label>кистевой коготь</HandTalon.label>
+  <HandTalon.description>Острый, как бритва, коготь, выдвигающийся из потайного отсека между безымянным и средним пальцами. Хотя длина лезвия больше длины ладони, в закрытом состоянии коготь становится гибким, и пользователь может прятать его внутри. Позволяет наносить быстрые рубящие удары, но плохо пробивает броню.</HandTalon.description>
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>коготь</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+  <HandTalon.labelNoun>кистевой коготь</HandTalon.labelNoun>
+  <KneeSpike.label>коленный шип</KneeSpike.label>
+  <KneeSpike.description>Шип, расположенный в потайном отсеке спереди колена. Выдвигается быстро и бесшумно и позволяет наносить сокрушительные колющие удары, способные пробить даже толстую броню.</KneeSpike.description>
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>шип</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
+  <KneeSpike.labelNoun>коленный шип</KneeSpike.labelNoun>
+  <Mindscrew.label>мозгорез</Mindscrew.label>
+  <Mindscrew.description>Вызывает у пользователя непрерывную боль. Мозгорезы применяются некоторыми органами власти в качестве долгосрочного наказания. Находятся и те, кто устанавливает их себе по собственной воле, чтобы продемонстрировать идеологическую или религиозную преданность.</Mindscrew.description>
+  <Mindscrew.labelNoun>мозгорез</Mindscrew.labelNoun>
+  <VenomFangs.label>ядовитые клыки</VenomFangs.label>
+  <VenomFangs.description>Пара инъекторов устанавливается на клыки пользователя и подключается к насосу подачи яда. В момент укуса противника впрыскивает яд через выдвижные инъекторы.</VenomFangs.description>
+  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>ядовитые клыки</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <VenomFangs.labelNoun>ядовитые клыки</VenomFangs.labelNoun>
+  <VenomTalon.label>ядовитый коготь</VenomTalon.label>
+  <VenomTalon.description>Выдвижной коготь, вживлённый в средний палец и подключённый к насосу подачи яда, расположенному в предплечье. Позволяет наносить быстрые удары, впрыскивая яд в образующиеся раны, но плохо пробивает броню.</VenomTalon.description>
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>ядовитый коготь</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <VenomTalon.labelNoun>ядовитый коготь</VenomTalon.labelNoun>
+</LanguageData>

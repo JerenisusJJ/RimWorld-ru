@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Use {0_label} -->
+	<MechSerumHealer.comps.CompUsable_FixHealthConditionChoice.useLabel>Использовать {lookup: {0_label}; Case; 3}</MechSerumHealer.comps.CompUsable_FixHealthConditionChoice.useLabel>
+</LanguageData>

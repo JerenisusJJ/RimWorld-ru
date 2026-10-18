@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Siege.arrivalTextEnemy>Похоже, они собираются устроить осаду поселения и обстрелять вас с расстояния из миномётов. Вы можете переждать осаду или контратаковать.</Siege.arrivalTextEnemy>
+  <Siege.arrivalTextFriendly>Похоже, что они хотят использовать осадную тактику, чтобы помочь вам.</Siege.arrivalTextFriendly>
+  <Siege.letterLabelEnemy>Осада</Siege.letterLabelEnemy>
+  <Siege.letterLabelFriendly>Помощь союзников</Siege.letterLabelFriendly>
+</LanguageData>

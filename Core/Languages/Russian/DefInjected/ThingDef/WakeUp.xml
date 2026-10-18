@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WakeUp.label>бодрин</WakeUp.label>
+  <WakeUp.description>Синтетический стимулятор. Восполняет потребность в отдыхе и позволяет работать длительное время без усталости. Псионикам бодрин позволяет получить больше пси-концентрации во время медитации. Регулярное употребление препарата вызывает привыкание.\n\nВо многих мирах особо выдающиеся представители самых престижных университетов и крупных компаний часто страдают психозами из-за бодриновой зависимости.</WakeUp.description>
+  <WakeUp.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</WakeUp.ingestible.ingestCommandString>
+  <WakeUp.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</WakeUp.ingestible.ingestReportString>
+</LanguageData>

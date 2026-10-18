@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PreferredXenotype.label>предпочтительно</PreferredXenotype.label>
+  <PreferredXenotype.description>Последователи считают, что этот ксенотип, в сравнении с другими, обладает более высоким моральным или духовным статусом, и будут счастливы, если в поселении будет представлен только он. Однако наличие предпочтительного ксенотипа означает, что всё остальные ксенотипы считаются нежелательными, и последователи будут несчастны, живя рядом с ними.</PreferredXenotype.description>
+  <PreferredXenotype.comps.0.description>Получение нежелательного ксенотипа</PreferredXenotype.comps.0.description>
+  <PreferredXenotype.comps.1.thoughtStageDescriptions.0>Предпочтительный ксенотип</PreferredXenotype.comps.1.thoughtStageDescriptions.0>
+  <PreferredXenotype.comps.1.thoughtStageDescriptions.1>Нежелательный ксенотип</PreferredXenotype.comps.1.thoughtStageDescriptions.1>
+  <PreferredXenotype.comps.2.thoughtStageDescriptions.0>Предпочтительные ксенотипы</PreferredXenotype.comps.2.thoughtStageDescriptions.0>
+  <PreferredXenotype.comps.2.thoughtStageDescriptions.1>Нежелательные ксенотипы</PreferredXenotype.comps.2.thoughtStageDescriptions.1>
+  <PreferredXenotype.comps.2.thoughtStageDescriptions.2>Нежелательные ксенотипы</PreferredXenotype.comps.2.thoughtStageDescriptions.2>
+  <PreferredXenotype.comps.2.thoughtStageDescriptions.3>Нежелательные ксенотипы</PreferredXenotype.comps.2.thoughtStageDescriptions.3>
+</LanguageData>

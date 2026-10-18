@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Artilleryman28.description>{PAWN_nameDef} {PAWN_gender ? служил : служила : служило} в имперской артиллерии, обрушивая снаряды на головы противников издалека.</Artilleryman28.description>
+  <Artilleryman28.title>артиллерист</Artilleryman28.title>
+  <Artilleryman28.titleShort>артиллерист</Artilleryman28.titleShort>
+  <Artilleryman28.titleFemale>артиллеристка</Artilleryman28.titleFemale>
+  <BrokenSoldier29.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} способным солдатом во время затяжной войны за престол. В решающей битве {PAWN_possessive} подразделение оставили прикрывать отступление. {PAWN_nameDef} {PAWN_gender ? видел : видела : видело}, как {PAWN_possessive} товарищи гибли один за другим. {PAWN_gender ? Единственным выжившим оказался : Единственной выжившей оказалась : Единственным выжившим оказался} {PAWN_pronoun} {PAWN_gender ? сам : сама : сам}.\n\nЭти события сломили {PAWN_possessive}, оставив без какой-либо возможности контролировать свои эмоции.\n\nНаходясь в госпитале, {PAWN_nameDef} {PAWN_gender ? научился : научилась : научился} рисовать.</BrokenSoldier29.description>
+  <BrokenSoldier29.title>сломленный солдат</BrokenSoldier29.title>
+  <BrokenSoldier29.titleShort>солдат</BrokenSoldier29.titleShort>
+  <Demolitionist39.description>{PAWN_nameDef} {PAWN_gender ? занимался : занималась : занимался} изготовлением и установкой взрывчатки для прорыва обороны противника. Работа со взрывчаткой приучила {PAWN_possessive} всегда сохранять голову ясной, а руку — твёрдой.</Demolitionist39.description>
+  <Demolitionist39.title>взрывотехник</Demolitionist39.title>
+  <Demolitionist39.titleShort>взрывотехник</Demolitionist39.titleShort>
+  <Deserter65.description>После участия в бесчисленных битвах за то, во что {PAWN_pronoun} даже {PAWN_gender ? не верил : не верила : не верило}, {PAWN_nameDef} {PAWN_gender ? бросил : бросила : бросило} своё оружие и {PAWN_gender ? дезертировал : дезертировала : дезертировало}. С тех пор {PAWN_nameDef} {PAWN_gender ? жил : жила : жило} в одиночестве, {PAWN_gender ? преследуемый : преследуемая : преследуемое} теми, кого {PAWN_gender ? предал : предала : предало}.</Deserter65.description>
+  <Deserter65.title>дезертир</Deserter65.title>
+  <Deserter65.titleShort>дезертир</Deserter65.titleShort>
+  <DisgracedOfficer19.description>{PAWN_nameDef} {PAWN_gender ? служил : служила : служило} офицером в имперском батальоне. {PAWN_pronoun} {PAWN_gender ? развивал : развивала : развивало} боевые и социальные навыки, чтобы хорошо выполнять свою работу и пользоваться уважением среди личного состава.\n\nОднако, когда {PAWN_possessive} подразделение попало под прямой огонь в первый раз, {PAWN_nameDef} {PAWN_gender ? сбежал : сбежала : сбежало} и {PAWN_gender ? спрятался : спряталась : спрятался} в бункере. После этого случая {PAWN_pronoun} {PAWN_gender ? был понижен : была понижена : был понижно} в звании, и с тех пор живёт в позоре.</DisgracedOfficer19.description>
+  <DisgracedOfficer19.title>разжалованный офицер</DisgracedOfficer19.title>
+  <DisgracedOfficer19.titleShort>офицер</DisgracedOfficer19.titleShort>
+  <Firebomber51.description>{PAWN_nameDef} {PAWN_gender ? пилотировал : пилотировала : пилотировало} небольшой истребитель-бомбардировщик, разработанный специально для распыления зажигательной смеси.\n\nПристрастившись наблюдать за горящими целями, {PAWN_nameDef} {PAWN_gender ? полюбил : полюбила : полюбило} огонь во всех его проявлениях: военном, кулинарном и даже медицинском, при прижигании ран.</Firebomber51.description>
+  <Firebomber51.title>бомбардир</Firebomber51.title>
+  <Firebomber51.titleShort>бомбардир</Firebomber51.titleShort>
+  <InfantryEngineer46.description>Несмотря на службу в пехотном батальоне, {PAWN_nameDef} редко {PAWN_gender ? брал : брала : брало} в руки оружие. В {PAWN_possessive} задачи входило быстрое сооружение оборонных линий, фортификаций, ловушек, создание подкопов.</InfantryEngineer46.description>
+  <InfantryEngineer46.title>военный инженер</InfantryEngineer46.title>
+  <InfantryEngineer46.titleShort>инженер</InfantryEngineer46.titleShort>
+  <InfantryMedic6.description>{PAWN_nameDef} {PAWN_gender ? лечил : лечила : лечило} своих раненных в бою товарищей.</InfantryMedic6.description>
+  <InfantryMedic6.title>военный врач</InfantryMedic6.title>
+  <InfantryMedic6.titleShort>медик</InfantryMedic6.titleShort>
+  <InfantryOfficer49.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} офицером имперского пехотного батальона. {PAWN_pronoun} {PAWN_gender ? выработал : выработала : выработало} много боевых и социальных навыков, которые помогали {PAWN_objective} хорошо выполнять свои обязанности и быть {PAWN_gender ? уважаемым : уважаемой : уважаемым} среди своих подчинённых.</InfantryOfficer49.description>
+  <InfantryOfficer49.title>пехотный офицер</InfantryOfficer49.title>
+  <InfantryOfficer49.titleShort>офицер</InfantryOfficer49.titleShort>
+  <IntelligenceAgent21.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} высокопоставленным офицером контрразведки и {PAWN_gender ? ловил : ловила : ловило} вражеских шпионов.</IntelligenceAgent21.description>
+  <IntelligenceAgent21.title>агент разведки</IntelligenceAgent21.title>
+  <IntelligenceAgent21.titleShort>контр-разведчик</IntelligenceAgent21.titleShort>
+  <LineInfanteer20.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} обычным бойцом в имперской пехоте.\n\n{PAWN_nameDef} {PAWN_gender ? был : была : было} с ранних годов {PAWN_gender ? призван : призвана : призван} в армию, для доукомплектования {PAWN_possessive} подразделения, и {PAWN_gender ? смог : смогла : смог} достаточно хорошо выучиться военному делу, чтобы радовать своих командиров. Тем не менее, {PAWN_pronoun} никогда до конца не понимал, что происходит вокруг, и это заставляло {PAWN_possessive} сомневаться в своих навыках.</LineInfanteer20.description>
+  <LineInfanteer20.title>пехотинец</LineInfanteer20.title>
+  <LineInfanteer20.titleShort>пехотинец</LineInfanteer20.titleShort>
+  <LoyalJanissary59.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} янычаром в огромной армии своего господина. {PAWN_pronoun} больше остальных бойцов {PAWN_gender ? был преисполнен : была преисполнена : был преисполнно} чувством долга, и весь смысл {PAWN_possessive} жизни заключался в безукоризненной службе.</LoyalJanissary59.description>
+  <LoyalJanissary59.title>преданный янычар</LoyalJanissary59.title>
+  <LoyalJanissary59.titleShort>янычар</LoyalJanissary59.titleShort>
+  <MilitaryChaplain10.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} со своими бойцами и в учении, и в бою, отпевая погибших и укрепляя веру живых.\n\nКак и всё имперские капелланы, {PAWN_pronoun} {PAWN_gender ? поклялся : поклялась : поклялся} никогда не брать в руки оружие. Тем не менее, {PAWN_pronoun} {PAWN_gender ? помогал : помогала : помогало} раненым и {PAWN_gender ? лечил : лечила : лечило} их раны.</MilitaryChaplain10.description>
+  <MilitaryChaplain10.title>военный священник</MilitaryChaplain10.title>
+  <MilitaryChaplain10.titleShort>капеллан</MilitaryChaplain10.titleShort>
+  <MilitaryCommissar71.description>{PAWN_nameDef} {PAWN_gender ? был контрразведчиком : была контрразведчицей : был контрразведчиком} в одном из батальонов Империи. На службе {PAWN_pronoun} {PAWN_gender ? проверял : проверяла : проверяло} верность людей и ни разу не {PAWN_gender ? отступил : отступила : отступило} без прямого приказа. Всё это не повысило {PAWN_objective} популярность, но зато позволило приобрести большое мастерство в распознавании малейших проявлений неискренности.</MilitaryCommissar71.description>
+  <MilitaryCommissar71.title>военный комиссар</MilitaryCommissar71.title>
+  <MilitaryCommissar71.titleShort>комиссар</MilitaryCommissar71.titleShort>
+  <MilitaryCook18.description>Как известно, голодный солдат — плохой солдат. Работа {PAWN_nameDef} заключалась в своевременном приготовлении еды для своего подразделения, вне зависимости от условий.\n\nЭта работа заставляла {PAWN_possessive} обращать внимание как на пищевые потребности бойцов, так и на психологические.</MilitaryCook18.description>
+  <MilitaryCook18.title>военный повар</MilitaryCook18.title>
+  <MilitaryCook18.titleShort>военный повар</MilitaryCook18.titleShort>
+  <PiousSoldier67.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила : проводило} много времени, свободного от тренировок и сражений, рядом с капелланом. {PAWN_pronoun} {PAWN_gender ? посвятил : посвятила : посвятило} свою жизнь службе и своему лорду, и религии.</PiousSoldier67.description>
+  <PiousSoldier67.title>набожный солдат</PiousSoldier67.title>
+  <PiousSoldier67.titleShort>набожный солдат</PiousSoldier67.titleShort>
+  <Propagandist86.description>{PAWN_nameDef} {PAWN_gender ? был талантливым художником и военным пропагандистом : была талантливой художницей и военной пропагандисткой : был талантливым художником и военным пропагандистом}. {PAWN_pronoun} {PAWN_gender ? создавал : создавала : создавало} произведения искусства, восхваляющие армию и лордов {PAWN_possessive} государства.</Propagandist86.description>
+  <Propagandist86.title>пропагандист</Propagandist86.title>
+  <Propagandist86.titleShort>пропагандист</Propagandist86.titleShort>
+  <ReconSniper89.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} профессиональным военным снайпером. {PAWN_pronoun} {PAWN_gender ? обучен : обучена : обучно} быстро занимать неожиданные огневые позиции, меткими выстрелами устранять поставленные цели и уходить, прежде чем противник мог раскрыть {PAWN_possessive} местоположение.</ReconSniper89.description>
+  <ReconSniper89.title>снайпер-разведчик</ReconSniper89.title>
+  <ReconSniper89.titleShort>снайпер</ReconSniper89.titleShort>
+  <RoyalGuard51.description>{PAWN_nameDef} {PAWN_gender ? охранял : охраняла : охраняло} личный дворец могущественного лорда.\n\nХотя насилие было редким явлением, дворец кишел интригами. Работа научила {PAWN_nameDef} мастерски управляться и словами, и оружием.</RoyalGuard51.description>
+  <RoyalGuard51.title>придворный стражник</RoyalGuard51.title>
+  <RoyalGuard51.titleShort>стражник</RoyalGuard51.titleShort>
+  <Shipcracker37.description>В задачи {PAWN_nameDef} входили полёт со своего корабля сквозь пустоту космоса в сторону вражеского корабля, приземление на его поверхность, создание проходных отверстий и его последующий захват в тесном бою. {PAWN_nameDef} {PAWN_gender ? добился : добилась : добился} больших успехов в обращении с тяжёлым катафрактарским арсеналом, позволявшим прорубаться как сквозь сталь, так и сквозь людей.\n\n{PAWN_pronoun} также {PAWN_gender ? выработал : выработала : выработало} тягу к наркотикам, которые {PAWN_pronoun} {PAWN_gender ? принимал : принимала : принимало}, чтобы справиться с непреодолимым стрессом.</Shipcracker37.description>
+  <Shipcracker37.title>штурмовик</Shipcracker37.title>
+  <Shipcracker37.titleShort>штурмовик</Shipcracker37.titleShort>
+  <Warmonger35.description>{PAWN_nameDef} {PAWN_gender ? упивался : упивалась : упивался} кровопролитием. Бойцы, служившие с {PAWN_gender ? ним : ней : ним}, ужасались {PAWN_possessive} жестокости. Они редко общались с {PAWN_nameDef}, но {PAWN_objective} было хорошо и {PAWN_gender ? одному : одной : одному}.</Warmonger35.description>
+  <Warmonger35.title>свирепый воин</Warmonger35.title>
+  <Warmonger35.titleShort>воин</Warmonger35.titleShort>
+</LanguageData>

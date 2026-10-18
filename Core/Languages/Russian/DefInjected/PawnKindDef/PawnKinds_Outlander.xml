@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Town_Councilman.label>городской советник</Town_Councilman.label>
+  <Town_Councilman.labelPlural>городские советники</Town_Councilman.labelPlural>
+  <Town_Guard.label>городской стражник</Town_Guard.label>
+  <Town_Guard.labelPlural>городские стражники</Town_Guard.labelPlural>
+  <Town_Trader.label>городской торговец</Town_Trader.label>
+  <Town_Trader.labelPlural>городские торговцы</Town_Trader.labelPlural>
+  <Villager.label>житель</Villager.label>
+  <Villager.labelFemale>жительница</Villager.labelFemale>
+  <Villager.labelMale>житель</Villager.labelMale>
+  <Villager.labelPlural>жители</Villager.labelPlural>
+</LanguageData>

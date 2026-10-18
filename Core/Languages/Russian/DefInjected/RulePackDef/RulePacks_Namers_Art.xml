@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ArtNameUtility.rulePack.rulesFiles>
+    <li>Artwork_masc-&gt;Words/Nouns/Artworks_Masc</li>
+    <li>Artwork_fem-&gt;Words/Nouns/Artworks_Fem</li>
+    <li>Artwork_neutral-&gt;Words/Nouns/Artworks_Neutral</li>
+    <li>Random-&gt;Words/Nouns/Random</li>
+    <li>ConceptAny-&gt;Words/Nouns/Concepts_Random</li>
+    <li>art_adjective-&gt;Words/Adjectives/Badass</li>
+    <li>art_adjective(p=3)-&gt;Words/Adjectives/Angsty</li>
+    <li>badasscolor_masc-&gt;Words/Nouns/Colors_Badass</li>
+    <li>badasscolor_fem-&gt;Words/Nouns/Colors_Badass_Female</li>
+  </ArtNameUtility.rulePack.rulesFiles>
+  <NamerArtCommon.rulePack.rulesStrings>
+    <li>r_art_name-&gt;момент [ConceptAny] [ANYPAWN_nameIndef]</li>
+    <li>r_art_name-&gt;К [ANYPAWN_nameIndef]</li>
+    <li>r_art_name-&gt;[AdjectiveAny] дух [ANYPAWN_nameIndef]</li>
+    <li>r_art_name-&gt;[ANYPAWN_nameIndef] — воплощение [ConceptAny]</li>
+    <li>r_art_name-&gt;[ANYPAWN_nameIndef] и путь [ConceptAny]</li>
+    <li>r_art_name-&gt;[Random] [ConceptAny]</li>
+    <li>r_art_name-&gt;[Random] [RomanNumeral]</li>
+    <li>r_art_name-&gt;[Artwork] [RomanNumeral]</li>
+    <li>r_art_name-&gt;[Artwork] [ConceptAny]</li>
+    <li>r_art_name-&gt;[Artwork] [ConceptAny] №[digit]</li>
+    <li>r_art_name-&gt;[Artwork] №[digit]</li>
+    <li>r_art_name-&gt;[Artwork] №[digit][digit]</li>
+    <li>r_art_name(p=0.3)-&gt;[AdjectiveAny] [Artwork_masc]</li>
+    <li>r_art_name(p=0.3)-&gt;[AdjectiveAny] [Artwork_masc] [ConceptAny]</li>
+    <li>r_art_name(p=0.3)-&gt;[AdjectiveAny_fem] [Artwork_fem]</li>
+    <li>r_art_name(p=0.3)-&gt;[AdjectiveAny_fem] [Artwork_fem] [ConceptAny]</li>
+    <li>r_art_name(p=0.3)-&gt;[AdjectiveAny_neutral] [Artwork_neutral]</li>
+    <li>r_art_name(p=0.3)-&gt;[AdjectiveAny_neutral] [Artwork_neutral] [ConceptAny]</li>
+    <li>r_art_name(p=0.3)-&gt;[Color] [Artwork_masc]</li>
+    <li>r_art_name(p=0.3)-&gt;[Color_fem] [Artwork_fem]</li>
+    <li>r_art_name(p=0.3)-&gt;[Color_neutral] [Artwork_neutral]</li>
+    <li>r_art_name(p=0.3)-&gt;[Color] [TerrainFeature_masc]</li>
+    <li>r_art_name(p=0.3)-&gt;[Color_fem] [TerrainFeature_fem]</li>
+    <li>r_art_name(p=0.3)-&gt;[Color_neutral] [TerrainFeature_neutral]</li>
+    <li>r_art_name-&gt;[Color] цвет [ConceptAny]</li>
+    <li>r_art_name-&gt;[Animal]</li>
+    <li>r_art_name-&gt;[badasscolor_masc] [Animal_masc]</li>
+    <li>r_art_name-&gt;[badasscolor_fem] [Animal_fem]</li>
+    <li>Artwork-&gt;[Artwork_masc]</li>
+    <li>Artwork-&gt;[Artwork_fem]</li>
+    <li>Artwork-&gt;[Artwork_neutral]</li>
+  </NamerArtCommon.rulePack.rulesStrings>
+  <NamerArtWeapon.rulePack.rulesStrings>
+    <li>r_art_name-&gt;символ [ConceptBadass]</li>
+    <li>r_art_name-&gt;[AdjectiveBadass] [AnimalBadass_masc]</li>
+    <li>r_art_name-&gt;[AdjectiveBadass_fem] [AnimalBadass_fem]</li>
+    <li>r_art_name-&gt;[badasscolor_masc] [AnimalBadass_masc]</li>
+    <li>r_art_name-&gt;[badasscolor_fem] [AnimalBadass_fem]</li>
+    <li>r_art_name-&gt;[badasscolor_masc] цвет [ConceptBadass]</li>
+    <li>r_art_name-&gt;[ANYPAWN_nameIndef] — воплощение [ConceptBadass]</li>
+    <li>r_art_name-&gt;момент [ConceptBadass] [ANYPAWN_nameIndef]</li>
+    <li>r_art_name-&gt;[badasscolor_masc] [ANYPAWN_nameIndef]</li>
+    <li>r_art_name-&gt;[ANYPAWN_nameIndef]-[AnimalBadass_masc]</li>
+    <li>r_art_name-&gt;[ANYPAWN_nameIndef]-[PersonBadass]</li>
+  </NamerArtWeapon.rulePack.rulesStrings>
+</LanguageData>

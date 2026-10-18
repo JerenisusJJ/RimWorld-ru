@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BioluminescentSpores.stages.bioluminescent_spores.label>биолюминесцентные споры</BioluminescentSpores.stages.bioluminescent_spores.label>
+  <BioluminescentSpores.stages.bioluminescent_spores.description>Они совершенно волшебные.</BioluminescentSpores.stages.bioluminescent_spores.description>
+  <GravNausea.stages.grav_nausea.label>гравитационная тошнота</GravNausea.stages.grav_nausea.label>
+  <GravNausea.stages.grav_nausea.description>Всё крутится. Кажется, меня сейчас стошнит.</GravNausea.stages.grav_nausea.description>
+  <VolcanicAsh.stages.volcanic_ash.label>вулканический пепел</VolcanicAsh.stages.volcanic_ash.label>
+  <VolcanicAsh.stages.volcanic_ash.description>Обжигает дыхательные пути.</VolcanicAsh.stages.volcanic_ash.description>
+</LanguageData>

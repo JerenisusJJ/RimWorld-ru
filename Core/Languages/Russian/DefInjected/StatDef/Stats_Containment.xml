@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ColdContainmentBonus.label>эффект от содержания в холоде</ColdContainmentBonus.label>
+  <ColdContainmentBonus.description>Вероятность побега этой твари снижена при содержании в очень холодном помещении.</ColdContainmentBonus.description>
+  <ContainmentStrength.label>надёжность изоляции</ContainmentStrength.label>
+  <ContainmentStrength.description>Насколько надёжно это средство изоляции сдерживает тварь. Этот показатель можно увеличить, установив усиленные двери и стены, а также дополнительные источники света и специальные устройства изоляции. Несколько тварей в одном помещении удерживать сложнее. Некоторых тварей легче удерживать в холодных помещениях.</ContainmentStrength.description>
+  <ContainmentStrength.offsetLabel>влияние на надёжность</ContainmentStrength.offsetLabel>
+  <MinimumContainmentStrength.label>минимальная надёжность изоляции</MinimumContainmentStrength.label>
+  <MinimumContainmentStrength.description>Минимальная надёжность средств изоляции, необходимая для удержания этой твари. Если существо содержится в недостаточно надёжном помещении, оно с большой вероятностью сбежит.</MinimumContainmentStrength.description>
+</LanguageData>

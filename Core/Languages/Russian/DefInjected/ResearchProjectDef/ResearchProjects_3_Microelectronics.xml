@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DeepDrilling.label>глубокое бурение</DeepDrilling.label>
+  <DeepDrilling.description>Строительство буровых установок для извлечения полезных ископаемых из недр. Для обнаружения месторождений требуется глубинный сканер.</DeepDrilling.description>
+  <DeepDrilling.generalRules.rulesStrings>
+    <li>subject-&gt;глубокое бурение</li>
+    <li>subject_gen-&gt;глубокого бурения</li>
+    <li>subject_dat-&gt;глубокому бурению</li>
+    <li>subject_pre_about-&gt;о глубоком бурении</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? приступил : приступила} к изучению глубочайших недр, устроившись на работу в возглавляемую кротолюдьми корпорацию</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? обнаружил : обнаружила} исчезнувший в дочеловеческую эпоху биом, пробурив скважину до основания ледяной шапки планеты</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? обогатился : обогатилась} благодаря добытым из ядра планеты ресурсам</li>
+    <li>subject_gerund-&gt;скважинной добычи полезных ископаемых</li>
+  </DeepDrilling.generalRules.rulesStrings>
+  <FlatscreenTelevision.label>плазменный телевизор</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>Высокотехнологичный плоский телевизор с кристально чистым изображением и насыщенными цветами. Принимает сигнал от древних спутников и позволяет читать распространённые форматы карт памяти.</FlatscreenTelevision.description>
+  <FlatscreenTelevision.generalRules.rulesStrings>
+    <li>subject-&gt;ЖК-телевизоры</li>
+    <li>subject_gen-&gt;ЖК-телевизоров</li>
+    <li>subject_dat-&gt;ЖК-телевизорам</li>
+    <li>subject_pre_about-&gt;о ЖК-телевизорах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? провёл : провела} эксперименты по созданию телевизоров без лучевых трубок</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? организовал : организовала} трансляцию [tv_content] в высоком разрешении по всей галактике</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} главой подразделения телекомпании, отвечающего за трансляцию [tv_content]</li>
+    <li>tv_content-&gt;мыльных опер</li>
+    <li>tv_content-&gt;новостных программ</li>
+    <li>tv_content-&gt;революционной пропаганды</li>
+    <li>tv_content-&gt;«Модных показов с утопических миров»</li>
+    <li>tv_content-&gt;документальных мультфильмов</li>
+    <li>subject_gerund-&gt;изготовления плазменных телевизоров</li>
+  </FlatscreenTelevision.generalRules.rulesStrings>
+  <GroundPenetratingScanner.label>глубинный сканер</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>Сенсорная установка, используемая геологами для поиска месторождений полезных ископаемых. Эффективность поиска зависит от исследовательских способностей оператора. Найденные ресурсы можно извлечь при помощи буровых установок. Глубинный сканер потребляет много электроэнергии и не работает под крышей.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.generalRules.rulesStrings>
+    <li>subject-&gt;геофизика</li>
+    <li>subject-&gt;глубинные сканеры</li>
+    <li>subject_gen-&gt;геофизики</li>
+    <li>subject_gen-&gt;глубинных сканеров</li>
+    <li>subject_dat-&gt;геофизике</li>
+    <li>subject_dat-&gt;глубинным сканерам</li>
+    <li>subject_pre_about-&gt;о геофизике</li>
+    <li>subject_pre_about-&gt;о глубинных сканерах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? обнаружил : обнаружила} глубоко под поверхностью планеты кости древних гигантов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? занялся : занялась} сканированием недр в поисках олова, но {ANYPAWN_gender ? наткнулся : наткнулась} на богатый пласт золота и сказочно {ANYPAWN_gender ? разбогател : разбогатела}</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? просканировал : просканировала} землю на наличие древних минных полей с целью обеспечения безопасности людей</li>
+    <li>subject_gerund-&gt;сооружения глубинных сканеров</li>
+  </GroundPenetratingScanner.generalRules.rulesStrings>
+  <HeavyTurrets.label>тяжёлые турели</HeavyTurrets.label>
+  <HeavyTurrets.description>Конструирование тяжёлых автоматических турелей.</HeavyTurrets.description>
+  <HeavyTurrets.generalRules.rulesStrings>
+    <li>subject-&gt;тяжёлые турели</li>
+    <li>subject_gen-&gt;тяжёлых турелей</li>
+    <li>subject_dat-&gt;тяжёлым турелям</li>
+    <li>subject_pre_about-&gt;о тяжёлых турелях</li>
+    <li>subject_story-&gt;в одиночку {ANYPAWN_gender ? отразил : отразила} нападение сектантов, укрывшись за каскадом турелей</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? нанялся : нанялась} к местным жителям для возведения оборонительного периметра из мешков с песком и турелей</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} собирать турель за турелью, не особо задаваясь вопросом о том, кто их покупает</li>
+    <li>subject_gerund-&gt;сооружения тяжёлых турелей</li>
+  </HeavyTurrets.generalRules.rulesStrings>
+  <HospitalBed.label>больничная кровать</HospitalBed.label>
+  <HospitalBed.description>Кровать, предназначенная для использования в больничных помещениях. Регулируется под пациента и оснащена кое-каким медицинским оборудованием. Гораздо лучше подходит для лечения больных и раненых, чем обычная кровать.</HospitalBed.description>
+  <HospitalBed.generalRules.rulesStrings>
+    <li>subject-&gt;стационарное лечение</li>
+    <li>subject_gen-&gt;стационарного лечения</li>
+    <li>subject_dat-&gt;стационарному лечению</li>
+    <li>subject_pre_about-&gt;о стационарном лечении</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возглавил : возглавила} революцию в стандартизации медицинского обслуживания</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? построил : построила} первую в системе общественную больницу</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? сосредоточился : сосредоточилась} на получении прибыли, продавая свои превосходные медицинские апартаменты богатым людям</li>
+    <li>subject_gerund-&gt;изготовления больничных кроватей</li>
+  </HospitalBed.generalRules.rulesStrings>
+  <LongRangeMineralScanner.label>сканер минералов дальнего действия</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>Латеральный сенсор, позволяющий учёным обнаруживать скопления минералов по всей планете. Эффективность поиска зависит от исследовательских способностей оператора. Этот сенсор можно настроить на поиск конкретного ресурса. Для добычи найденного ресурса потребуется снарядить экспедицию. Сканер потребляет много электроэнергии.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.generalRules.rulesStrings>
+    <li>subject-&gt;дальнее обнаружение минералов</li>
+    <li>subject_gen-&gt;дальнего обнаружения минералов</li>
+    <li>subject_dat-&gt;дальнему обнаружению минералов</li>
+    <li>subject_pre_about-&gt;о дальнем обнаружении минералов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? соорудил : соорудила} так много сканеров, что [ANYPAWN_objective] стала известна вся геологическая структура планеты</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? получил : получила} огромную прибыль от торговли с другими поселениями, предварительно выяснив с помощью сканера, что там добывали</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? добыл : добыла} весь нефрит планеты для изготовления религиозных изваяний</li>
+    <li>subject_gerund-&gt;сооружения сканеров минералов дальнего действия</li>
+  </LongRangeMineralScanner.generalRules.rulesStrings>
+  <MedicineProduction.label>производство медикаментов</MedicineProduction.label>
+  <MedicineProduction.description>В комплект аптечки обычно входят основные препараты, получаемые путём синтеза лекарственных трав и нейтроамина, а также различные виды перевязочного материала.</MedicineProduction.description>
+  <MedicineProduction.generalRules.rulesStrings>
+    <li>subject-&gt;лекарства</li>
+    <li>subject-&gt;медикаменты</li>
+    <li>subject_gen-&gt;лекарств</li>
+    <li>subject_gen-&gt;медикаментов</li>
+    <li>subject_dat-&gt;лекарствам</li>
+    <li>subject_dat-&gt;медикаментам</li>
+    <li>subject_pre_about-&gt;о лекарствах</li>
+    <li>subject_pre_about-&gt;о медикаментах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? исследовал : исследовала} медикаменты урбанизированного мира в стремлении повсеместно распространить полученные знания</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? решил : решила} узнать больше о происхождении нейтроамина</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? переработал : переработала} конфискованные запасы наркоторговца в полезные медикаменты</li>
+    <li>subject_gerund-&gt;производства медикаментов</li>
+  </MedicineProduction.generalRules.rulesStrings>
+  <MicroelectronicsBasics.label>основы микроэлектроники</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>Знание основ работы с тонкой и сложной электроникой открывает высокотехнологичный стол для исследований, консоль связи, а также другие проекты, такие как телевидение и саркофаги криптосна.</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.generalRules.rulesStrings>
+    <li>subject-&gt;микроэлектроника</li>
+    <li>subject_gen-&gt;микроэлектроники</li>
+    <li>subject_dat-&gt;микроэлектронике</li>
+    <li>subject_pre_about-&gt;о микроэлектронике</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? занялся : занялась} разработкой микроэлектронных устройств</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? спроектировал : спроектировала} прототип первого варианта высокотехнологичного стола для исследований</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} разъезжать по городам, расхваливая достоинства точных исследований</li>
+    <li>subject_gerund-&gt;производства микроэлектронных устройств</li>
+  </MicroelectronicsBasics.generalRules.rulesStrings>
+  <MoisturePump.label>водяная помпа</MoisturePump.label>
+  <MoisturePump.description>Очень медленно удаляет влагу из близлежащей местности, превращая болота или неглубокие водоёмы в сухую землю, а мягкий песок — в обычный. Не влияет на глубокие водоёмы.</MoisturePump.description>
+  <MoisturePump.generalRules.rulesStrings>
+    <li>subject-&gt;водяные помпы</li>
+    <li>subject_gen-&gt;водяных помп</li>
+    <li>subject_dat-&gt;водяным помпам</li>
+    <li>subject_pre_about-&gt;о водяных помпах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} устройство найденных на Земле древних водяных помп с ветродвигателем</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? осушил : осушила} огромные болота, служившие источником болезней</li>
+    <li>subject_story-&gt;по глупости {ANYPAWN_gender ? попытался : попыталась} осушить моря</li>
+    <li>subject_gerund-&gt;применения водяных помп</li>
+  </MoisturePump.generalRules.rulesStrings>
+  <MultibarrelWeapons.label>многоствольное оружие</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>Понимание принципов работы многоствольного оружия позволяет собирать миниганы.</MultibarrelWeapons.description>
+  <MultibarrelWeapons.generalRules.rulesStrings>
+    <li>subject-&gt;многоствольное оружие</li>
+    <li>subject_gen-&gt;многоствольного оружия</li>
+    <li>subject_dat-&gt;многоствольному оружию</li>
+    <li>subject_pre_about-&gt;о многоствольном оружии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изготовил : изготовила} уникальный портативный миниган, ставший единственной вещью, найденной после исчезновения отряда</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? сконструировал : сконструировала} систему боепитания повышенной ёмкости, чтобы обеспечить бесперебойную стрельбу из минигана</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} оружие, предназначенное специально для ликвидации всех до единого находящихся в помещении людей</li>
+    <li>subject_gerund-&gt;изготовления миниганов</li>
+  </MultibarrelWeapons.generalRules.rulesStrings>
+  <PrecisionRifling.label>высокоточное огнестрельное оружие</PrecisionRifling.label>
+  <PrecisionRifling.description>Высокоточным оружием считаются автоматы и снайперские винтовки.</PrecisionRifling.description>
+  <PrecisionRifling.generalRules.rulesStrings>
+    <li>subject-&gt;автоматы</li>
+    <li>subject_gen-&gt;автоматов</li>
+    <li>subject_dat-&gt;автоматам</li>
+    <li>subject_pre_about-&gt;об автоматах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? усовершенствовал : усовершенствовала} технологические процессы литейного производства для получения более качественных винтовок</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? сконструировал : сконструировала} снайперскую винтовку, чтобы незаметно убить лидера охотящихся на н[ANYPAWN_possessive] неандертальцев</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? прославился : прославилась} тем, что одним метким выстрелом {ANYPAWN_gender ? выбил : выбила} плод амброзии из руки повелителя</li>
+    <li>subject_gerund-&gt;изготовления автоматов</li>
+    <li>subject_gerund-&gt;изготовления снайперских винтовок</li>
+  </PrecisionRifling.generalRules.rulesStrings>
+  <ShieldBelt.label>генераторы щита</ShieldBelt.label>
+  <ShieldBelt.description>Импульсно-репульсорная технология, позволяющая конструировать миниатюрные генераторы защитного поля, которое не пропускает через себя быстро летящие снаряды.</ShieldBelt.description>
+  <ShieldBelt.generalRules.rulesStrings>
+    <li>subject-&gt;барьерные проекторы</li>
+    <li>subject_gen-&gt;барьерных проекторов</li>
+    <li>subject_dat-&gt;барьерным проекторам</li>
+    <li>subject_pre_about-&gt;о барьерных проекторах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изготовил : изготовила} прототип щита, который впоследствии спас [ANYPAWN_possessive] от совершённого на н[ANYPAWN_possessive] покушения</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} позволять себе жульничать при игре в бильярд, используя скрытый импульсно-репульсорный подавитель</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? научился : научилась} убивать противников, проводя атаки клинком настолько медленно, что их щиты не оказывали сопротивления</li>
+    <li>subject_gerund-&gt;изготовления переносных барьерных проекторов</li>
+    <li>subject_gerund-&gt;изготовления поясов-щитов</li>
+  </ShieldBelt.generalRules.rulesStrings>
+  <TransportPod.label>транспортная капсула</TransportPod.label>
+  <TransportPod.description>Капсула, предназначенная для транспортировки грузов, животных или людей. Может быть использована для отправки подарков, совершения внезапных атак или доставки подкрепления боевым отрядам.</TransportPod.description>
+  <TransportPod.generalRules.rulesStrings>
+    <li>subject-&gt;транспортные капсулы</li>
+    <li>subject_gen-&gt;транспортных капсул</li>
+    <li>subject_dat-&gt;транспортным капсулам</li>
+    <li>subject_pre_about-&gt;о транспортных капсулах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? совершил : совершила} полёт в капсуле, но {ANYPAWN_gender ? приземлился : приземлилась} посреди поселения дикого племени и чудом {ANYPAWN_gender ? выбрался живым : выбралась живой}</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? потратил : потратила} целое состояние, чтобы отправить объекту своей любви транспортную капсулу с одним-единственным обручальным кольцом</li>
+    <li>subject_story-&gt;, благодаря продуманному использованию капсул, {ANYPAWN_gender ? смог : смогла} предотвратить массовый голод</li>
+    <li>subject_gerund-&gt;строительства транспортных капсул</li>
+  </TransportPod.generalRules.rulesStrings>
+</LanguageData>

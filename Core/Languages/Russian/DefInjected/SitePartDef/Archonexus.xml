@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Archonexus.label>архонексус</Archonexus.label>
+  <Archonexus.description>Древнее устройство архотеков. Говорят, что оно способно наделить силой бога-машины.</Archonexus.description>
+  <Archonexus.approachingReportString>Исследует {lookup: {0}; Case; 3}</Archonexus.approachingReportString>
+  <Archonexus.approachOrderString>Исследовать {lookup: {0}; Case; 3}</Archonexus.approachOrderString>
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение печально известной компании наемников. Эти древние солдаты происходят из давно забытой эпохи в истории этой планеты. Недавно они пробудились от криптосна и теперь создают проблемы в этом районе.\n\nКомпанией руководит [LEADER_nameDef], обладающий уникальным оружием ([WEAPON_quality]). В группу входят:\n\n[mercenaryList]\n\nЕсли вам удастся захватить или убить лидера, вы сможете забрать уникальное оружие.\n\n[location]</li>
+    <li>location(atLandmark==true)-&gt;Солдаты скрываются в древнем сооружении у [landmarkName].</li>
+    <li>location(atLandmark==false)-&gt;Солдаты скрываются в древнем сооружении.</li>
+  </OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
+    <li>questName-&gt;[ancient] [mercenaries]</li>
+    <li>questName-&gt;[ancient] [mercenaries]</li>
+    <li>ancient-&gt;Древний</li>
+    <li>ancient-&gt;Пробужденные</li>
+    <li>ancient-&gt;Криптосонные</li>
+    <li>mercenaries-&gt;Наемники</li>
+    <li>mercenaries-&gt;Солдаты</li>
+    <li>mercenaries-&gt;Воины</li>
+    <li>mercenaries-&gt;Бойцы</li>
+  </OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
+  <OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
+    <li>subject-&gt;древние наемники</li>
+    <li>subject-&gt;древние солдаты</li>
+    <li>subject-&gt;древние</li>
+    <li>questMapFeature-&gt;военный гарнизон</li>
+    <li>questMapFeature-&gt;рисунок древнего солдата</li>
+    <li>questMapFeature-&gt;набросок человека из другого времени</li>
+    <li>questMapText-&gt;они проснулись</li>
+    <li>questMapText-&gt;опасные древние</li>
+    <li>questMapText-&gt;древнее оружие</li>
+  </OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
+</LanguageData>

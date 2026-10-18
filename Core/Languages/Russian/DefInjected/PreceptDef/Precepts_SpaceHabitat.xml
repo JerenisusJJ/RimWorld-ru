@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SpaceHabitat_Preferred.label>предпочтительно</SpaceHabitat_Preferred.label>
+  <SpaceHabitat_Preferred.description>Жизнь на планете предназначена для низших животных. Мы должны жить на орбите или среди звёзд.</SpaceHabitat_Preferred.description>
+  <SpaceHabitat_Preferred.comps.0.thoughtStageDescriptions.0>Жизнь на планете</SpaceHabitat_Preferred.comps.0.thoughtStageDescriptions.0>
+  <SpaceHabitat_Preferred.comps.0.thoughtStageDescriptions.1>Жизнь в космосе</SpaceHabitat_Preferred.comps.0.thoughtStageDescriptions.1>
+</LanguageData>

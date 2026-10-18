@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Drone.label>дрон</Drone.label>
+  <DroneWithThreeLegs.label>дрон</DroneWithThreeLegs.label>
+  <DroneWithThreeLegs.corePart.parts.center_leg.customLabel>центральная нога</DroneWithThreeLegs.corePart.parts.center_leg.customLabel>
+  <DroneWithThreeLegs.corePart.parts.rear_left_leg.customLabel>задняя левая нога</DroneWithThreeLegs.corePart.parts.rear_left_leg.customLabel>
+  <DroneWithThreeLegs.corePart.parts.rear_right_leg.customLabel>задняя правая нога</DroneWithThreeLegs.corePart.parts.rear_right_leg.customLabel>
+  <DroneWithTreads.label>дрон</DroneWithTreads.label>
+  <DroneWithTreads.corePart.parts.front_left_tread.customLabel>передняя левая гусеничная лента</DroneWithTreads.corePart.parts.front_left_tread.customLabel>
+  <DroneWithTreads.corePart.parts.back_left_tread.customLabel>задняя левая гусеничная лента</DroneWithTreads.corePart.parts.back_left_tread.customLabel>
+  <DroneWithTreads.corePart.parts.front_right_tread.customLabel>передняя правая гусеничная лента</DroneWithTreads.corePart.parts.front_right_tread.customLabel>
+  <DroneWithTreads.corePart.parts.back_right_tread.customLabel>задняя правая гусеничная лента</DroneWithTreads.corePart.parts.back_right_tread.customLabel>
+</LanguageData>

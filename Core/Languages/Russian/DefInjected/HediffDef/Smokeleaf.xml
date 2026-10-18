@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SmokeleafAddiction.label>зависимость от дымолиста</SmokeleafAddiction.label>
+  <SmokeleafAddiction.description>Зависимость от дымолиста. Его продолжительное употребление вызывает неврологические изменения на клеточном уровне, из-за чего мозг уже не способен нормально функционировать без вещества.\n\nПерерыв в регулярном употреблении обработанного дымолиста вызовет абстинентный синдром — ломку. Длительное воздержание поможет мозгу вернуться к нормальному состоянию и избавиться от зависимости..</SmokeleafAddiction.description>
+  <SmokeleafAddiction.stages.withdrawal.label>ломка</SmokeleafAddiction.stages.withdrawal.label>
+  <SmokeleafHigh.label>под кайфом от дымолиста</SmokeleafHigh.label>
+  <SmokeleafHigh.description>В крови присутствуют активные химические вещества дымолиста, вызывающие ощущение покоя и расслабления.</SmokeleafHigh.description>
+  <SmokeleafHigh.labelNoun>кайф от дымолиста</SmokeleafHigh.labelNoun>
+  <SmokeleafTolerance.label>толерантность к дымолисту</SmokeleafTolerance.label>
+  <SmokeleafTolerance.description>Толерантность к дымолисту. Чем она серьёзнее, тем больше потребуется обработанного дымолиста для получения первоначального эффекта.</SmokeleafTolerance.description>
+  <SmokeleafTolerance.stages.small.label>небольшая</SmokeleafTolerance.stages.small.label>
+  <SmokeleafTolerance.stages.large.label>средняя</SmokeleafTolerance.stages.large.label>
+  <SmokeleafTolerance.stages.massive.label>сильная</SmokeleafTolerance.stages.massive.label>
+</LanguageData>

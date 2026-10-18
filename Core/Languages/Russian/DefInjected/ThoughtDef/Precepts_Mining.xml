@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>{PAWN_gender ? Разрушил : Разрушила} естественную стену</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>Я {PAWN_gender ? разрушил : разрушила} естественную стену. Причинять вред земле — неправильно.</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>{PAWN_gender ? Разрушил : Разрушила} естественную стену</MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>Я {PAWN_gender ? разрушил : разрушила} естественную стену. Это преступление против природы.</MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>{PAWN_gender ? Разрушил : Разрушила} естественную стену</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>Я {PAWN_gender ? разрушил : разрушила} естественную стену. Это ужасное преступление против природы!</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>
+  <Mined_Disapproved.stages.mined.label>{PAWN_gender ? Копал : Копала} породу</Mined_Disapproved.stages.mined.label>
+  <Mined_Disapproved.stages.mined.description>Мне пришлось прокопать дыру в горной породе, несмотря на то, что я не одобряю причинение вреда земле.</Mined_Disapproved.stages.mined.description>
+  <Mined_Horrible.stages.mined.label>{PAWN_gender ? Копал : Копала} породу</Mined_Horrible.stages.mined.label>
+  <Mined_Horrible.stages.mined.description>Мне пришлось прокопать дыру в горной породе. Это ужасное преступление против природы!</Mined_Horrible.stages.mined.description>
+  <Mined_Know_Disapproved.stages.mined.label>копал(а) породу</Mined_Know_Disapproved.stages.mined.label>
+  <Mined_Know_Disapproved.stages.mined.labelSocial>{OTHERPAWN_gender ? Копал : Копала} породу</Mined_Know_Disapproved.stages.mined.labelSocial>
+  <Mined_Know_Disapproved_Mood.stages.mined.label>добыта порода</Mined_Know_Disapproved_Mood.stages.mined.label>
+  <Mined_Know_Disapproved_Mood.stages.mined.description>Один из нас прокопал дыру в горной породе. Причинять вред земле — неправильно.</Mined_Know_Disapproved_Mood.stages.mined.description>
+  <Mined_Know_Horrible.stages.mined.label>копал(а) породу</Mined_Know_Horrible.stages.mined.label>
+  <Mined_Know_Horrible.stages.mined.labelSocial>{OTHERPAWN_gender ? Копал : Копала} породу</Mined_Know_Horrible.stages.mined.labelSocial>
+  <Mined_Know_Horrible_Mood.stages.mined.label>добыта порода</Mined_Know_Horrible_Mood.stages.mined.label>
+  <Mined_Know_Horrible_Mood.stages.mined.description>Один из нас прокопал дыру в горной породе. Это преступление против природы.</Mined_Know_Horrible_Mood.stages.mined.description>
+  <Mined_Know_Prohibited.stages.mined.label>копал(а) породу</Mined_Know_Prohibited.stages.mined.label>
+  <Mined_Know_Prohibited.stages.mined.labelSocial>{OTHERPAWN_gender ? Копал : Копала} породу</Mined_Know_Prohibited.stages.mined.labelSocial>
+  <Mined_Know_Prohibited_Mood.stages.mined.label>добыта порода</Mined_Know_Prohibited_Mood.stages.mined.label>
+  <Mined_Know_Prohibited_Mood.stages.mined.description>Один из нас прокопал дыру в нетронутой земле. Это ужасное надругательство над природой.</Mined_Know_Prohibited_Mood.stages.mined.description>
+</LanguageData>

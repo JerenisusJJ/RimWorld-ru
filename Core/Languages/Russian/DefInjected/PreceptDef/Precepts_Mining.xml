@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mining_Disapproved.label>не одобряются</Mining_Disapproved.label>
+  <Mining_Disapproved.description>Копаться в почве — плохо.</Mining_Disapproved.description>
+  <Mining_Disapproved.comps.0.description>Кто-то выкопал породу</Mining_Disapproved.comps.0.description>
+  <Mining_Disapproved.comps.3.description>Кто-то выкопал породу</Mining_Disapproved.comps.3.description>
+  <Mining_Horrible.label>ужасны</Mining_Horrible.label>
+  <Mining_Horrible.description>Портить природную почву шахтёрским инструментом — отвратительно.</Mining_Horrible.description>
+  <Mining_Horrible.comps.0.description>Кто-то выкопал породу</Mining_Horrible.comps.0.description>
+  <Mining_Horrible.comps.3.description>Кто-то выкопал породу</Mining_Horrible.comps.3.description>
+  <Mining_Prohibited.label>запрещены</Mining_Prohibited.label>
+  <Mining_Prohibited.description>Насиловать почву, дарованную нам самой природой, шахтёрским инструментом – омерзительное злодеяние.</Mining_Prohibited.description>
+  <Mining_Prohibited.comps.0.description>Горные работы</Mining_Prohibited.comps.0.description>
+  <Mining_Prohibited.comps.3.description>Кто-то выкопал породу</Mining_Prohibited.comps.3.description>
+  <MiningYield_High.label>увеличены</MiningYield_High.label>
+  <MiningYield_High.description>Горные работы — очень важное занятие. Мы проводим их со всем вниманием и уважением к процессу, благодаря чему добываем больше полезных ресурсов.</MiningYield_High.description>
+</LanguageData>

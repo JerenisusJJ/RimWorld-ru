@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Event_AbilityUsed.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] [used] «[ABILITY_label]» на [SUBJECT_definite].</li>
+    <li>used(INITIATOR_gender==Male)-&gt;применил</li>
+    <li>used(INITIATOR_gender==Male)-&gt;использовал</li>
+    <li>used(INITIATOR_gender==Female)-&gt;применила</li>
+    <li>used(INITIATOR_gender==Female)-&gt;использовала</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
+  <Event_ItemUsed.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] [used] [ITEM_indefinite] на [SUBJECT_definite].</li>
+    <li>used(INITIATOR_gender==Male)-&gt;применил</li>
+    <li>used(INITIATOR_gender==Male)-&gt;использовал</li>
+    <li>used(INITIATOR_gender==Female)-&gt;применила</li>
+    <li>used(INITIATOR_gender==Female)-&gt;использовала</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
+  <Event_Stun.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Атака [INITIATOR_definite] [stunned] [SUBJECT_definite].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [stumble_phrase].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [stumble_phrase] после атаки.</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [stumble_phrase] после атаки [INITIATOR_definite].</li>
+    <li>stunned-&gt;оглушает</li>
+    <li>stunned-&gt;дезориентирует</li>
+    <li>stumble_phrase-&gt;[in_confusion_prefix] [stumbles]</li>
+    <li>stumble_phrase-&gt;[stumbles] [in_confusion_suffix]</li>
+    <li>stumbles-&gt;качается из стороны в сторону</li>
+    <li>stumbles-&gt;покачивается</li>
+    <li>stumbles-&gt;пошатывается</li>
+    <li>in_confusion_prefix-&gt;растерянно</li>
+    <li>in_confusion_prefix-&gt;дезориентированно</li>
+    <li>in_confusion_prefix-&gt;оцепенело</li>
+    <li>in_confusion_prefix-&gt;контуженно</li>
+    <li>in_confusion_prefix-&gt;остолбенело</li>
+    <li>in_confusion_suffix-&gt;с мутным взглядом</li>
+    <li>in_confusion_suffix-&gt;в полубессознательном состоянии</li>
+    <li>in_confusion_suffix-&gt;в замешательстве</li>
+  </Event_Stun.rulePack.rulesStrings>
+</LanguageData>

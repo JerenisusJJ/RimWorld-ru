@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Drone_Hunter.label>дрон-охотник</Drone_Hunter.label>
+  <Drone_Hunter.description>Автоматизированный боевой дрон. Дрон-охотник преследует свою цель и взрывается при приближении.</Drone_Hunter.description>
+  <Drone_Hunter.comps.CompMechPowerCell.labelOverride>Аккумулятор</Drone_Hunter.comps.CompMechPowerCell.labelOverride>
+  <Drone_Hunter.comps.CompMechPowerCell.tooltipOverride>Дроны имеют ограниченный срок службы аккумулятора. Когда аккумулятор разряжается, дрон отключается.</Drone_Hunter.comps.CompMechPowerCell.tooltipOverride>
+  <Drone_Hunter.tools.shell_spike.label>бронешип</Drone_Hunter.tools.shell_spike.label>
+  <Drone_Sentry.label>дрон-дозорный</Drone_Sentry.label>
+  <Drone_Sentry.description>Автоматизированный сторожевой дрон. Он постоянно патрулирует территорию в поисках нарушителей. Найдя нарушителя, дрон безжалостно атакует его с помощью короткоствольного дробовика. Долговечный аккумулятор позволяет ему работать веками.</Drone_Sentry.description>
+  <Drone_Sentry.tools.shell_spike.label>бронешип</Drone_Sentry.tools.shell_spike.label>
+  <Drone_Wasp.label>оса</Drone_Wasp.label>
+  <Drone_Wasp.description>Небольшой дрон для защиты и контроля ситуации. Вводит малую дозу паралитического биотоксина, оглушая органические цели. Несмотря на то, что оса предназначена для нелетального поражения, иногда она может случайно убить цель. Оса питается от долговечного аккумулятора.</Drone_Wasp.description>
+  <Drone_Wasp.tools.stinger.label>жало</Drone_Wasp.tools.stinger.label>
+</LanguageData>

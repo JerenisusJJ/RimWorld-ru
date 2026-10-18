@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Structure_OriginBuddhist.label>буддийское течение</Structure_OriginBuddhist.label>
+  <Structure_OriginBuddhist.description>Эта идеолигия происходит от буддизма, древнего религиозного течения. В её центре могут быть совсем другие принципы, нежели тысячи лет назад, однако символика осталась похожей.</Structure_OriginBuddhist.description>
+  <Structure_OriginBuddhist.generalRules.rulesStrings>
+    <li>r_ideoName(p=99)-&gt;[globalAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[memeAdjective_masc] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[packAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[packIdeoName]</li>
+    <li>memeLeaderNoun-&gt;бодхисаттва</li>
+    <li>memeLeaderNoun-&gt;саттва</li>
+    <li>memeLeaderNoun-&gt;лама</li>
+    <li>memeLeaderAdjective-&gt;просвещённый</li>
+    <li>memeLeaderAdjective-&gt;мудрый</li>
+    <li>memeLeaderAdjective-&gt;просветлённый</li>
+    <li>memeLeaderAdjective-&gt;бодхи</li>
+    <li>memeLeaderAdjective-&gt;далай</li>
+    <li>memeMoralist(p=2)-&gt;бхикшу</li>
+    <li>memeMoralist-&gt;священник</li>
+    <li>memeMoralist-&gt;монах</li>
+  </Structure_OriginBuddhist.generalRules.rulesStrings>
+  <Structure_OriginBuddhist.symbolPacks.0.adjective>буддийский</Structure_OriginBuddhist.symbolPacks.0.adjective>
+  <Structure_OriginBuddhist.symbolPacks.0.ideoName>буддизм</Structure_OriginBuddhist.symbolPacks.0.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.0.member>буддист</Structure_OriginBuddhist.symbolPacks.0.member>
+  <Structure_OriginBuddhist.symbolPacks.0.theme>Будды</Structure_OriginBuddhist.symbolPacks.0.theme>
+  <Structure_OriginBuddhist.symbolPacks.1.adjective>тхеравадский</Structure_OriginBuddhist.symbolPacks.1.adjective>
+  <Structure_OriginBuddhist.symbolPacks.1.ideoName>тхеравада</Structure_OriginBuddhist.symbolPacks.1.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.1.member>тхеравада-буддист</Structure_OriginBuddhist.symbolPacks.1.member>
+  <Structure_OriginBuddhist.symbolPacks.2.adjective>махаянский</Structure_OriginBuddhist.symbolPacks.2.adjective>
+  <Structure_OriginBuddhist.symbolPacks.2.ideoName>махаяна</Structure_OriginBuddhist.symbolPacks.2.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.2.member>махаяна-буддист</Structure_OriginBuddhist.symbolPacks.2.member>
+  <Structure_OriginBuddhist.symbolPacks.3.adjective>ваджарайанский</Structure_OriginBuddhist.symbolPacks.3.adjective>
+  <Structure_OriginBuddhist.symbolPacks.3.ideoName>ваджрайана</Structure_OriginBuddhist.symbolPacks.3.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.3.member>ваджрайана-буддист</Structure_OriginBuddhist.symbolPacks.3.member>
+  <Structure_OriginBuddhist.symbolPacks.4.adjective>дзен</Structure_OriginBuddhist.symbolPacks.4.adjective>
+  <Structure_OriginBuddhist.symbolPacks.4.ideoName>дзен</Structure_OriginBuddhist.symbolPacks.4.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.4.member>дзен-буддист</Structure_OriginBuddhist.symbolPacks.4.member>
+  <Structure_OriginBuddhist.symbolPacks.5.adjective>сан</Structure_OriginBuddhist.symbolPacks.5.adjective>
+  <Structure_OriginBuddhist.symbolPacks.5.ideoName>сан</Structure_OriginBuddhist.symbolPacks.5.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.5.member>сан-буддист</Structure_OriginBuddhist.symbolPacks.5.member>
+  <Structure_OriginBuddhist.symbolPacks.6.adjective>экаянский</Structure_OriginBuddhist.symbolPacks.6.adjective>
+  <Structure_OriginBuddhist.symbolPacks.6.ideoName>экаяна</Structure_OriginBuddhist.symbolPacks.6.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.6.member>экаяна-буддист</Structure_OriginBuddhist.symbolPacks.6.member>
+  <Structure_OriginBuddhist.symbolPacks.7.adjective>наваянский</Structure_OriginBuddhist.symbolPacks.7.adjective>
+  <Structure_OriginBuddhist.symbolPacks.7.ideoName>наваяна</Structure_OriginBuddhist.symbolPacks.7.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.7.member>наваяна-буддист</Structure_OriginBuddhist.symbolPacks.7.member>
+  <Structure_OriginBuddhist.symbolPacks.8.adjective>тантрический</Structure_OriginBuddhist.symbolPacks.8.adjective>
+  <Structure_OriginBuddhist.symbolPacks.8.ideoName>тантрический буддизм</Structure_OriginBuddhist.symbolPacks.8.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.8.member>тантрический буддист</Structure_OriginBuddhist.symbolPacks.8.member>
+  <Structure_OriginBuddhist.symbolPacks.9.adjective>гелугпистский</Structure_OriginBuddhist.symbolPacks.9.adjective>
+  <Structure_OriginBuddhist.symbolPacks.9.ideoName>гелугпа</Structure_OriginBuddhist.symbolPacks.9.ideoName>
+  <Structure_OriginBuddhist.symbolPacks.9.member>гелугпа-буддист</Structure_OriginBuddhist.symbolPacks.9.member>
+  <Structure_OriginBuddhist.worshipRoomLabel>пагода</Structure_OriginBuddhist.worshipRoomLabel>
+  <Structure_OriginChristian.label>христианское течение</Structure_OriginChristian.label>
+  <Structure_OriginChristian.description>Эта идеолигия — разновидность абстрактного теизма, произошедшая от христианства, древнего религиозного течения. В её центре могут быть совсем другие принципы, нежели тысячи лет назад, однако символика осталась похожей.</Structure_OriginChristian.description>
+  <Structure_OriginChristian.generalRules.rulesStrings>
+    <li>r_ideoName(p=99)-&gt;[globalAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[memeAdjective_masc] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[packAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[packIdeoName]</li>
+    <li>memeLeaderNoun-&gt;епископ</li>
+    <li>memeLeaderNoun-&gt;кардинал</li>
+    <li>memeLeaderNoun-&gt;папа</li>
+    <li>memeLeaderNoun-&gt;понтифик</li>
+    <li>memeLeaderNoun-&gt;легат</li>
+    <li>memeLeaderNoun-&gt;нунций</li>
+    <li>memeLeaderNoun-&gt;дивиус</li>
+    <li>memeLeaderNoun-&gt;экклезиаст</li>
+    <li>memeLeaderAdjective-&gt;святой</li>
+    <li>memeLeaderAdjective-&gt;божественный</li>
+    <li>memeLeaderAdjective-&gt;божий</li>
+    <li>memeMoralist-&gt;священник</li>
+    <li>memeMoralist-&gt;пастор</li>
+    <li>memeMoralist-&gt;клерик</li>
+    <li>memeMoralist-&gt;проповедник</li>
+    <li>memeMoralist-&gt;ректор</li>
+    <li>memeMoralist-&gt;аббат</li>
+  </Structure_OriginChristian.generalRules.rulesStrings>
+  <Structure_OriginChristian.symbolPacks.0.adjective>христианский</Structure_OriginChristian.symbolPacks.0.adjective>
+  <Structure_OriginChristian.symbolPacks.0.ideoName>христианство</Structure_OriginChristian.symbolPacks.0.ideoName>
+  <Structure_OriginChristian.symbolPacks.0.member>христианин</Structure_OriginChristian.symbolPacks.0.member>
+  <Structure_OriginChristian.symbolPacks.1.adjective>католический</Structure_OriginChristian.symbolPacks.1.adjective>
+  <Structure_OriginChristian.symbolPacks.1.ideoName>католичество</Structure_OriginChristian.symbolPacks.1.ideoName>
+  <Structure_OriginChristian.symbolPacks.1.member>католик</Structure_OriginChristian.symbolPacks.1.member>
+  <Structure_OriginChristian.symbolPacks.2.adjective>протестантский</Structure_OriginChristian.symbolPacks.2.adjective>
+  <Structure_OriginChristian.symbolPacks.2.ideoName>протестантство</Structure_OriginChristian.symbolPacks.2.ideoName>
+  <Structure_OriginChristian.symbolPacks.2.member>протестант</Structure_OriginChristian.symbolPacks.2.member>
+  <Structure_OriginChristian.symbolPacks.3.adjective>православный</Structure_OriginChristian.symbolPacks.3.adjective>
+  <Structure_OriginChristian.symbolPacks.3.ideoName>православие</Structure_OriginChristian.symbolPacks.3.ideoName>
+  <Structure_OriginChristian.symbolPacks.3.member>православный</Structure_OriginChristian.symbolPacks.3.member>
+  <Structure_OriginChristian.symbolPacks.4.adjective>несторианский</Structure_OriginChristian.symbolPacks.4.adjective>
+  <Structure_OriginChristian.symbolPacks.4.ideoName>несторианство</Structure_OriginChristian.symbolPacks.4.ideoName>
+  <Structure_OriginChristian.symbolPacks.4.member>несторианец</Structure_OriginChristian.symbolPacks.4.member>
+  <Structure_OriginChristian.symbolPacks.5.adjective>англиканский</Structure_OriginChristian.symbolPacks.5.adjective>
+  <Structure_OriginChristian.symbolPacks.5.ideoName>англиканство</Structure_OriginChristian.symbolPacks.5.ideoName>
+  <Structure_OriginChristian.symbolPacks.5.member>англиканец</Structure_OriginChristian.symbolPacks.5.member>
+  <Structure_OriginChristian.symbolPacks.6.adjective>баптистский</Structure_OriginChristian.symbolPacks.6.adjective>
+  <Structure_OriginChristian.symbolPacks.6.ideoName>баптизм</Structure_OriginChristian.symbolPacks.6.ideoName>
+  <Structure_OriginChristian.symbolPacks.6.member>баптист</Structure_OriginChristian.symbolPacks.6.member>
+  <Structure_OriginChristian.symbolPacks.7.adjective>анабаптистский</Structure_OriginChristian.symbolPacks.7.adjective>
+  <Structure_OriginChristian.symbolPacks.7.ideoName>анабаптизм</Structure_OriginChristian.symbolPacks.7.ideoName>
+  <Structure_OriginChristian.symbolPacks.7.member>анабаптист</Structure_OriginChristian.symbolPacks.7.member>
+  <Structure_OriginChristian.symbolPacks.8.adjective>кальвинистский</Structure_OriginChristian.symbolPacks.8.adjective>
+  <Structure_OriginChristian.symbolPacks.8.ideoName>кальвинизм</Structure_OriginChristian.symbolPacks.8.ideoName>
+  <Structure_OriginChristian.symbolPacks.8.member>кальвинист</Structure_OriginChristian.symbolPacks.8.member>
+  <Structure_OriginChristian.symbolPacks.9.adjective>лютеранский</Structure_OriginChristian.symbolPacks.9.adjective>
+  <Structure_OriginChristian.symbolPacks.9.ideoName>лютеранство</Structure_OriginChristian.symbolPacks.9.ideoName>
+  <Structure_OriginChristian.symbolPacks.9.member>лютеранин</Structure_OriginChristian.symbolPacks.9.member>
+  <Structure_OriginChristian.symbolPacks.10.adjective>адвентистский</Structure_OriginChristian.symbolPacks.10.adjective>
+  <Structure_OriginChristian.symbolPacks.10.ideoName>адвентизм</Structure_OriginChristian.symbolPacks.10.ideoName>
+  <Structure_OriginChristian.symbolPacks.10.member>адвентист</Structure_OriginChristian.symbolPacks.10.member>
+  <Structure_OriginChristian.symbolPacks.11.adjective>методистский</Structure_OriginChristian.symbolPacks.11.adjective>
+  <Structure_OriginChristian.symbolPacks.11.ideoName>методизм</Structure_OriginChristian.symbolPacks.11.ideoName>
+  <Structure_OriginChristian.symbolPacks.11.member>методист</Structure_OriginChristian.symbolPacks.11.member>
+  <Structure_OriginChristian.symbolPacks.12.adjective>мормонский</Structure_OriginChristian.symbolPacks.12.adjective>
+  <Structure_OriginChristian.symbolPacks.12.ideoName>мормонство</Structure_OriginChristian.symbolPacks.12.ideoName>
+  <Structure_OriginChristian.symbolPacks.12.member>мормон</Structure_OriginChristian.symbolPacks.12.member>
+  <Structure_OriginChristian.symbolPacks.13.adjective>теономический</Structure_OriginChristian.symbolPacks.13.adjective>
+  <Structure_OriginChristian.symbolPacks.13.ideoName>теономика</Structure_OriginChristian.symbolPacks.13.ideoName>
+  <Structure_OriginChristian.symbolPacks.13.member>теономист</Structure_OriginChristian.symbolPacks.13.member>
+  <Structure_OriginChristian.worshipRoomLabel>церковь</Structure_OriginChristian.worshipRoomLabel>
+  <Structure_OriginHindu.label>индуистское течение</Structure_OriginHindu.label>
+  <Structure_OriginHindu.description>Эта идеолигия — разновидность имманентного теизма, произошедшая от индуизма, древнего религиозного течения. В её центре могут быть совсем другие принципы, нежели тысячи лет назад, однако символика осталась похожей.</Structure_OriginHindu.description>
+  <Structure_OriginHindu.fixedDeityNameTypes.0.name>Брахма</Structure_OriginHindu.fixedDeityNameTypes.0.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.0.type>Божество-творец</Structure_OriginHindu.fixedDeityNameTypes.0.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.1.name>Вишну</Structure_OriginHindu.fixedDeityNameTypes.1.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.1.type>Божество-хранитель</Structure_OriginHindu.fixedDeityNameTypes.1.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.2.name>Шива</Structure_OriginHindu.fixedDeityNameTypes.2.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.2.type>Божество-разрушитель</Structure_OriginHindu.fixedDeityNameTypes.2.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.3.name>Ушас</Structure_OriginHindu.fixedDeityNameTypes.3.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.3.type>Божество рассвета</Structure_OriginHindu.fixedDeityNameTypes.3.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.4.name>Деви</Structure_OriginHindu.fixedDeityNameTypes.4.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.4.type>Божество женственности</Structure_OriginHindu.fixedDeityNameTypes.4.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.5.name>Лакшми</Structure_OriginHindu.fixedDeityNameTypes.5.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.5.type>Божество процветания</Structure_OriginHindu.fixedDeityNameTypes.5.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.6.name>Парвати</Structure_OriginHindu.fixedDeityNameTypes.6.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.6.type>Божество плодородности</Structure_OriginHindu.fixedDeityNameTypes.6.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.7.name>Кали</Structure_OriginHindu.fixedDeityNameTypes.7.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.7.type>Божество-защитник</Structure_OriginHindu.fixedDeityNameTypes.7.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.8.name>Бхуми</Structure_OriginHindu.fixedDeityNameTypes.8.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.8.type>Божество земли</Structure_OriginHindu.fixedDeityNameTypes.8.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.9.name>Сарасвати</Structure_OriginHindu.fixedDeityNameTypes.9.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.9.type>Божество мудрости</Structure_OriginHindu.fixedDeityNameTypes.9.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.10.name>Гаятри</Structure_OriginHindu.fixedDeityNameTypes.10.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.10.type>Божество жизни</Structure_OriginHindu.fixedDeityNameTypes.10.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.11.name>Аннапурна</Structure_OriginHindu.fixedDeityNameTypes.11.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.11.type>Божество пищи</Structure_OriginHindu.fixedDeityNameTypes.11.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.12.name>Нинтра</Structure_OriginHindu.fixedDeityNameTypes.12.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.12.type>Божество сна</Structure_OriginHindu.fixedDeityNameTypes.12.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.13.name>Шашти</Structure_OriginHindu.fixedDeityNameTypes.13.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.13.type>Божество-покровитель детей</Structure_OriginHindu.fixedDeityNameTypes.13.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.14.name>Манаса</Structure_OriginHindu.fixedDeityNameTypes.14.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.14.type>Божество змей</Structure_OriginHindu.fixedDeityNameTypes.14.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.15.name>Сваха</Structure_OriginHindu.fixedDeityNameTypes.15.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.15.type>Божество пепла</Structure_OriginHindu.fixedDeityNameTypes.15.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.16.name>Бхайрава</Structure_OriginHindu.fixedDeityNameTypes.16.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.16.type>Божество уничтожения</Structure_OriginHindu.fixedDeityNameTypes.16.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.17.name>Кришна</Structure_OriginHindu.fixedDeityNameTypes.17.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.17.type>Божество сострадания</Structure_OriginHindu.fixedDeityNameTypes.17.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.18.name>Сурья</Structure_OriginHindu.fixedDeityNameTypes.18.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.18.type>Божество солнца</Structure_OriginHindu.fixedDeityNameTypes.18.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.19.name>Варуна</Structure_OriginHindu.fixedDeityNameTypes.19.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.19.type>Божество неба</Structure_OriginHindu.fixedDeityNameTypes.19.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.20.name>Митра</Structure_OriginHindu.fixedDeityNameTypes.20.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.20.type>Божество-покровитель дружбы</Structure_OriginHindu.fixedDeityNameTypes.20.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.21.name>Интра</Structure_OriginHindu.fixedDeityNameTypes.21.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.21.type>Божество небес</Structure_OriginHindu.fixedDeityNameTypes.21.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.22.name>Агни</Structure_OriginHindu.fixedDeityNameTypes.22.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.22.type>Божество огня</Structure_OriginHindu.fixedDeityNameTypes.22.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.23.name>Сома</Structure_OriginHindu.fixedDeityNameTypes.23.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.23.type>Божество луны</Structure_OriginHindu.fixedDeityNameTypes.23.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.24.name>Рудра</Structure_OriginHindu.fixedDeityNameTypes.24.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.24.type>Божество ветра</Structure_OriginHindu.fixedDeityNameTypes.24.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.25.name>Притхиви</Structure_OriginHindu.fixedDeityNameTypes.25.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.25.type>Божество земли</Structure_OriginHindu.fixedDeityNameTypes.25.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.26.name>Адити</Structure_OriginHindu.fixedDeityNameTypes.26.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.26.type>Божество бесконечности</Structure_OriginHindu.fixedDeityNameTypes.26.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.27.name>Вач</Structure_OriginHindu.fixedDeityNameTypes.27.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.27.type>Божество звука</Structure_OriginHindu.fixedDeityNameTypes.27.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.28.name>Ниррити</Structure_OriginHindu.fixedDeityNameTypes.28.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.28.type>Божество разложения</Structure_OriginHindu.fixedDeityNameTypes.28.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.29.name>Ратри</Structure_OriginHindu.fixedDeityNameTypes.29.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.29.type>Божество ночи</Structure_OriginHindu.fixedDeityNameTypes.29.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.30.name>Араньяни</Structure_OriginHindu.fixedDeityNameTypes.30.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.30.type>Божество леса</Structure_OriginHindu.fixedDeityNameTypes.30.type>
+  <Structure_OriginHindu.fixedDeityNameTypes.31.name>Дурга</Structure_OriginHindu.fixedDeityNameTypes.31.name>
+  <Structure_OriginHindu.fixedDeityNameTypes.31.type>Богиня-воительница</Structure_OriginHindu.fixedDeityNameTypes.31.type>
+  <Structure_OriginHindu.generalRules.rulesStrings>
+    <li>r_ideoName(p=99)-&gt;[globalAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[memeAdjective_masc] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[packAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[packIdeoName]</li>
+    <li>memeLeaderNoun-&gt;махатма</li>
+    <li>memeLeaderNoun-&gt;ишвара</li>
+    <li>memeLeaderNoun-&gt;йог</li>
+    <li>memeLeaderNoun-&gt;пандит</li>
+    <li>memeLeaderNoun-&gt;аватар</li>
+    <li>memeLeaderAdjective-&gt;священный</li>
+    <li>memeLeaderAdjective-&gt;индуистский</li>
+    <li>memeLeaderAdjective-&gt;индийский</li>
+    <li>memeLeaderAdjective-&gt;тиртха</li>
+    <li>memeMoralist(p=3)-&gt;пуджари</li>
+    <li>memeMoralist-&gt;пурохит</li>
+    <li>memeMoralist-&gt;арчака</li>
+    <li>memeMoralist-&gt;брахман</li>
+  </Structure_OriginHindu.generalRules.rulesStrings>
+  <Structure_OriginHindu.symbolPacks.0.adjective>индуистский</Structure_OriginHindu.symbolPacks.0.adjective>
+  <Structure_OriginHindu.symbolPacks.0.ideoName>индуизм</Structure_OriginHindu.symbolPacks.0.ideoName>
+  <Structure_OriginHindu.symbolPacks.0.member>индуист</Structure_OriginHindu.symbolPacks.0.member>
+  <Structure_OriginHindu.symbolPacks.1.adjective>индуистский</Structure_OriginHindu.symbolPacks.1.adjective>
+  <Structure_OriginHindu.symbolPacks.1.ideoName>индуизм</Structure_OriginHindu.symbolPacks.1.ideoName>
+  <Structure_OriginHindu.symbolPacks.1.member>индуист</Structure_OriginHindu.symbolPacks.1.member>
+  <Structure_OriginHindu.symbolPacks.2.adjective>индуистский</Structure_OriginHindu.symbolPacks.2.adjective>
+  <Structure_OriginHindu.symbolPacks.2.ideoName>индуизм</Structure_OriginHindu.symbolPacks.2.ideoName>
+  <Structure_OriginHindu.symbolPacks.2.member>индуист</Structure_OriginHindu.symbolPacks.2.member>
+  <Structure_OriginHindu.symbolPacks.3.adjective>тантрическо-индуистский</Structure_OriginHindu.symbolPacks.3.adjective>
+  <Structure_OriginHindu.symbolPacks.3.ideoName>тантрический индуизм</Structure_OriginHindu.symbolPacks.3.ideoName>
+  <Structure_OriginHindu.symbolPacks.3.member>тантрический индуист</Structure_OriginHindu.symbolPacks.3.member>
+  <Structure_OriginHindu.symbolPacks.4.adjective>ведическо-индуистский</Structure_OriginHindu.symbolPacks.4.adjective>
+  <Structure_OriginHindu.symbolPacks.4.ideoName>ведийский индуизм</Structure_OriginHindu.symbolPacks.4.ideoName>
+  <Structure_OriginHindu.symbolPacks.4.member>ведический индуист</Structure_OriginHindu.symbolPacks.4.member>
+  <Structure_OriginHindu.symbolPacks.5.adjective>дхармическо-индуистский</Structure_OriginHindu.symbolPacks.5.adjective>
+  <Structure_OriginHindu.symbolPacks.5.ideoName>дхармический индуизм</Structure_OriginHindu.symbolPacks.5.ideoName>
+  <Structure_OriginHindu.symbolPacks.5.member>дхармический индуист</Structure_OriginHindu.symbolPacks.5.member>
+  <Structure_OriginHindu.symbolPacks.6.adjective>вайшнавистско-индуистский</Structure_OriginHindu.symbolPacks.6.adjective>
+  <Structure_OriginHindu.symbolPacks.6.ideoName>вайшнавизм</Structure_OriginHindu.symbolPacks.6.ideoName>
+  <Structure_OriginHindu.symbolPacks.6.member>вайшнавистский индуист</Structure_OriginHindu.symbolPacks.6.member>
+  <Structure_OriginHindu.symbolPacks.7.adjective>шиваистско-индуистский</Structure_OriginHindu.symbolPacks.7.adjective>
+  <Structure_OriginHindu.symbolPacks.7.ideoName>шиваизм</Structure_OriginHindu.symbolPacks.7.ideoName>
+  <Structure_OriginHindu.symbolPacks.7.member>шиваистский индуист</Structure_OriginHindu.symbolPacks.7.member>
+  <Structure_OriginHindu.symbolPacks.8.adjective>йога</Structure_OriginHindu.symbolPacks.8.adjective>
+  <Structure_OriginHindu.symbolPacks.8.ideoName>йога</Structure_OriginHindu.symbolPacks.8.ideoName>
+  <Structure_OriginHindu.symbolPacks.8.member>йог</Structure_OriginHindu.symbolPacks.8.member>
+  <Structure_OriginHindu.symbolPacks.9.adjective>ньяя</Structure_OriginHindu.symbolPacks.9.adjective>
+  <Structure_OriginHindu.symbolPacks.9.ideoName>ньяя</Structure_OriginHindu.symbolPacks.9.ideoName>
+  <Structure_OriginHindu.symbolPacks.9.member>ньяя-индуист</Structure_OriginHindu.symbolPacks.9.member>
+  <Structure_OriginHindu.symbolPacks.10.adjective>вайшешика-индуистский</Structure_OriginHindu.symbolPacks.10.adjective>
+  <Structure_OriginHindu.symbolPacks.10.ideoName>вайшешика</Structure_OriginHindu.symbolPacks.10.ideoName>
+  <Structure_OriginHindu.symbolPacks.10.member>вайшишика-индуист</Structure_OriginHindu.symbolPacks.10.member>
+  <Structure_OriginHindu.symbolPacks.11.adjective>санкхья-индуистский</Structure_OriginHindu.symbolPacks.11.adjective>
+  <Structure_OriginHindu.symbolPacks.11.ideoName>санкхья</Structure_OriginHindu.symbolPacks.11.ideoName>
+  <Structure_OriginHindu.symbolPacks.11.member>санкхья-индуист</Structure_OriginHindu.symbolPacks.11.member>
+  <Structure_OriginHindu.symbolPacks.12.adjective>миманса-индуистский</Structure_OriginHindu.symbolPacks.12.adjective>
+  <Structure_OriginHindu.symbolPacks.12.ideoName>миманса</Structure_OriginHindu.symbolPacks.12.ideoName>
+  <Structure_OriginHindu.symbolPacks.12.member>миманса-индуист</Structure_OriginHindu.symbolPacks.12.member>
+  <Structure_OriginHindu.symbolPacks.13.adjective>веданта-индуистский</Structure_OriginHindu.symbolPacks.13.adjective>
+  <Structure_OriginHindu.symbolPacks.13.ideoName>веданта</Structure_OriginHindu.symbolPacks.13.ideoName>
+  <Structure_OriginHindu.symbolPacks.13.member>веданта-индуист</Structure_OriginHindu.symbolPacks.13.member>
+  <Structure_OriginHindu.worshipRoomLabel>святилище</Structure_OriginHindu.worshipRoomLabel>
+  <Structure_OriginIslamic.label>исламское течение</Structure_OriginIslamic.label>
+  <Structure_OriginIslamic.description>Эта идеолигия — разновидность абстрактного теизма, произошедшая от ислама, древнего религиозного течения. В её центре могут быть совсем другие принципы, нежели тысячи лет назад, однако символика осталась похожей.</Structure_OriginIslamic.description>
+  <Structure_OriginIslamic.generalRules.rulesStrings>
+    <li>r_ideoName(p=99)-&gt;[globalAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[memeAdjective_masc] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[packAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)-&gt;[packIdeoName]</li>
+    <li>memeLeaderNoun-&gt;мулла</li>
+    <li>memeLeaderNoun-&gt;имам</li>
+    <li>memeLeaderNoun-&gt;халиф</li>
+    <li>memeLeaderNoun-&gt;муфтий</li>
+    <li>memeLeaderNoun-&gt;алман</li>
+    <li>memeLeaderNoun-&gt;киаи</li>
+    <li>memeLeaderNoun-&gt;аятолла</li>
+    <li>memeLeaderAdjective-&gt;великий</li>
+    <li>memeMoralist(p=4)-&gt;имам</li>
+    <li>memeMoralist-&gt;гади</li>
+    <li>memeMoralist-&gt;алим</li>
+    <li>memeMoralist-&gt;аллам</li>
+    <li>memeMoralist-&gt;муэдзин</li>
+    <li>memeMoralist-&gt;муджтахид</li>
+    <li>memeMoralist-&gt;священник</li>
+  </Structure_OriginIslamic.generalRules.rulesStrings>
+  <Structure_OriginIslamic.symbolPacks.0.adjective>исламский</Structure_OriginIslamic.symbolPacks.0.adjective>
+  <Structure_OriginIslamic.symbolPacks.0.ideoName>ислам</Structure_OriginIslamic.symbolPacks.0.ideoName>
+  <Structure_OriginIslamic.symbolPacks.0.member>мусульманин</Structure_OriginIslamic.symbolPacks.0.member>
+  <Structure_OriginIslamic.symbolPacks.1.adjective>исламистский</Structure_OriginIslamic.symbolPacks.1.adjective>
+  <Structure_OriginIslamic.symbolPacks.1.ideoName>исламизм</Structure_OriginIslamic.symbolPacks.1.ideoName>
+  <Structure_OriginIslamic.symbolPacks.1.member>исламист</Structure_OriginIslamic.symbolPacks.1.member>
+  <Structure_OriginIslamic.symbolPacks.2.adjective>шиитский</Structure_OriginIslamic.symbolPacks.2.adjective>
+  <Structure_OriginIslamic.symbolPacks.2.ideoName>шиизм</Structure_OriginIslamic.symbolPacks.2.ideoName>
+  <Structure_OriginIslamic.symbolPacks.2.member>шиит</Structure_OriginIslamic.symbolPacks.2.member>
+  <Structure_OriginIslamic.symbolPacks.3.adjective>суннитский</Structure_OriginIslamic.symbolPacks.3.adjective>
+  <Structure_OriginIslamic.symbolPacks.3.ideoName>суннизм</Structure_OriginIslamic.symbolPacks.3.ideoName>
+  <Structure_OriginIslamic.symbolPacks.3.member>суннит</Structure_OriginIslamic.symbolPacks.3.member>
+  <Structure_OriginIslamic.symbolPacks.4.adjective>ибадистский</Structure_OriginIslamic.symbolPacks.4.adjective>
+  <Structure_OriginIslamic.symbolPacks.4.ideoName>ибадизм</Structure_OriginIslamic.symbolPacks.4.ideoName>
+  <Structure_OriginIslamic.symbolPacks.4.member>ибадист</Structure_OriginIslamic.symbolPacks.4.member>
+  <Structure_OriginIslamic.symbolPacks.5.adjective>исмаилистский</Structure_OriginIslamic.symbolPacks.5.adjective>
+  <Structure_OriginIslamic.symbolPacks.5.ideoName>исмаилизм</Structure_OriginIslamic.symbolPacks.5.ideoName>
+  <Structure_OriginIslamic.symbolPacks.5.member>исмаилист</Structure_OriginIslamic.symbolPacks.5.member>
+  <Structure_OriginIslamic.symbolPacks.6.adjective>мусталистский</Structure_OriginIslamic.symbolPacks.6.adjective>
+  <Structure_OriginIslamic.symbolPacks.6.ideoName>мустализм</Structure_OriginIslamic.symbolPacks.6.ideoName>
+  <Structure_OriginIslamic.symbolPacks.6.member>мусталист</Structure_OriginIslamic.symbolPacks.6.member>
+  <Structure_OriginIslamic.symbolPacks.7.adjective>тайибистский</Structure_OriginIslamic.symbolPacks.7.adjective>
+  <Structure_OriginIslamic.symbolPacks.7.ideoName>тайибизм</Structure_OriginIslamic.symbolPacks.7.ideoName>
+  <Structure_OriginIslamic.symbolPacks.7.member>тайибист</Structure_OriginIslamic.symbolPacks.7.member>
+  <Structure_OriginIslamic.symbolPacks.8.adjective>низалистский</Structure_OriginIslamic.symbolPacks.8.adjective>
+  <Structure_OriginIslamic.symbolPacks.8.ideoName>низализм</Structure_OriginIslamic.symbolPacks.8.ideoName>
+  <Structure_OriginIslamic.symbolPacks.8.member>низалист</Structure_OriginIslamic.symbolPacks.8.member>
+  <Structure_OriginIslamic.symbolPacks.9.adjective>сурфистский</Structure_OriginIslamic.symbolPacks.9.adjective>
+  <Structure_OriginIslamic.symbolPacks.9.ideoName>сурфизм</Structure_OriginIslamic.symbolPacks.9.ideoName>
+  <Structure_OriginIslamic.symbolPacks.9.member>сурфист</Structure_OriginIslamic.symbolPacks.9.member>
+  <Structure_OriginIslamic.symbolPacks.10.adjective>кадиристский</Structure_OriginIslamic.symbolPacks.10.adjective>
+  <Structure_OriginIslamic.symbolPacks.10.ideoName>кадиризм</Structure_OriginIslamic.symbolPacks.10.ideoName>
+  <Structure_OriginIslamic.symbolPacks.10.member>кадирист</Structure_OriginIslamic.symbolPacks.10.member>
+  <Structure_OriginIslamic.symbolPacks.11.adjective>захиристский</Structure_OriginIslamic.symbolPacks.11.adjective>
+  <Structure_OriginIslamic.symbolPacks.11.ideoName>захиризм</Structure_OriginIslamic.symbolPacks.11.ideoName>
+  <Structure_OriginIslamic.symbolPacks.11.member>захирист</Structure_OriginIslamic.symbolPacks.11.member>
+  <Structure_OriginIslamic.symbolPacks.12.adjective>азракистский</Structure_OriginIslamic.symbolPacks.12.adjective>
+  <Structure_OriginIslamic.symbolPacks.12.ideoName>азраказм</Structure_OriginIslamic.symbolPacks.12.ideoName>
+  <Structure_OriginIslamic.symbolPacks.12.member>азракист</Structure_OriginIslamic.symbolPacks.12.member>
+  <Structure_OriginIslamic.symbolPacks.13.adjective>ваххабитский</Structure_OriginIslamic.symbolPacks.13.adjective>
+  <Structure_OriginIslamic.symbolPacks.13.ideoName>ваххабизм</Structure_OriginIslamic.symbolPacks.13.ideoName>
+  <Structure_OriginIslamic.symbolPacks.13.member>ваххабит</Structure_OriginIslamic.symbolPacks.13.member>
+  <Structure_OriginIslamic.symbolPacks.14.adjective>халифистский</Structure_OriginIslamic.symbolPacks.14.adjective>
+  <Structure_OriginIslamic.symbolPacks.14.ideoName>халифизм</Structure_OriginIslamic.symbolPacks.14.ideoName>
+  <Structure_OriginIslamic.symbolPacks.14.member>халифист</Structure_OriginIslamic.symbolPacks.14.member>
+  <Structure_OriginIslamic.worshipRoomLabel>мечеть</Structure_OriginIslamic.worshipRoomLabel>
+</LanguageData>

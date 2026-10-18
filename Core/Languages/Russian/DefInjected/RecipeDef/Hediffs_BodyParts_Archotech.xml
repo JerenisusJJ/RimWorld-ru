@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InstallArchotechArm.label>вживить архоруку</InstallArchotechArm.label>
+  <InstallArchotechArm.description>Вживить архоруку.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>Вживляет архоруку</InstallArchotechArm.jobString>
+  <InstallArchotechEye.label>вживить архоглаз</InstallArchotechEye.label>
+  <InstallArchotechEye.description>Вживить архоглаз.</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>Вживляет архоглаз</InstallArchotechEye.jobString>
+  <InstallArchotechLeg.label>вживить архоногу</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>Вживить архоногу.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>Вживляет архоногу</InstallArchotechLeg.jobString>
+</LanguageData>

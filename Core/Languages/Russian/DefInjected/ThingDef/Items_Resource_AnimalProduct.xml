@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <EggAlligatorFertilized.label>яйцо аллигатора (опл.)</EggAlligatorFertilized.label>
+  <EggAlligatorFertilized.description>Оплодотворенное яйцо аллигатора. Если всё пойдет хорошо, из него вылупится маленький аллигатор. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggAlligatorFertilized.description>
+  <EggAlligatorUnfertilized.label>яйцо аллигатора (неопл.)</EggAlligatorUnfertilized.label>
+  <EggAlligatorUnfertilized.description>Неоплодотворенное яйцо аллигатора. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggAlligatorUnfertilized.description>
+  <EggBluebirdFertilized.label>яйцо синешейки (опл.)</EggBluebirdFertilized.label>
+  <EggBluebirdFertilized.description>Оплодотворенное яйцо синешейки. Если всё пойдет хорошо, из него вылупится птенец синешейки. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggBluebirdFertilized.description>
+  <EggBluebirdUnfertilized.label>яйцо синешейки (неопл.)</EggBluebirdUnfertilized.label>
+  <EggBluebirdUnfertilized.description>Неоплодотворенное яйцо синешейки. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggBluebirdUnfertilized.description>
+  <EggCrowFertilized.label>яйцо вороны (опл.)</EggCrowFertilized.label>
+  <EggCrowFertilized.description>Оплодотворенное яйцо вороны. Если всё пойдет хорошо, из него вылупится птенец вороны. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggCrowFertilized.description>
+  <EggCrowUnfertilized.label>яйцо вороны (неопл.)</EggCrowUnfertilized.label>
+  <EggCrowUnfertilized.description>Неоплодотворенное яйцо вороны. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggCrowUnfertilized.description>
+  <EggFlamingoFertilized.label>яйцо фламинго (опл.)</EggFlamingoFertilized.label>
+  <EggFlamingoFertilized.description>Оплодотворенное яйцо фламинго. Если всё пойдет хорошо, из него вылупится птенец фламинго. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggFlamingoFertilized.description>
+  <EggFlamingoUnfertilized.label>яйцо фламинго (неопл.)</EggFlamingoUnfertilized.label>
+  <EggFlamingoUnfertilized.description>Неоплодотворенное яйцо фламинго. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggFlamingoUnfertilized.description>
+  <EggHeronFertilized.label>яйцо цапли (опл.)</EggHeronFertilized.label>
+  <EggHeronFertilized.description>Оплодотворенное яйцо цапли. Если всё пойдет хорошо, из него вылупится птенец цапли. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggHeronFertilized.description>
+  <EggHeronUnfertilized.label>яйцо цапли (неопл.)</EggHeronUnfertilized.label>
+  <EggHeronUnfertilized.description>Неоплодотворенное яйцо цапли. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggHeronUnfertilized.description>
+  <EggMacawFertilized.label>яйцо ара (опл.)</EggMacawFertilized.label>
+  <EggMacawFertilized.description>Оплодотворенное яйцо попугая ара. Если всё пойдет хорошо, из него вылупится птенец попугая. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggMacawFertilized.description>
+  <EggMacawUnfertilized.label>яйцо ара (неопл.)</EggMacawUnfertilized.label>
+  <EggMacawUnfertilized.description>Неоплодотворенное яйцо попугая ара. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggMacawUnfertilized.description>
+  <EggMonitorLizardFertilized.label>яйцо варана (опл.)</EggMonitorLizardFertilized.label>
+  <EggMonitorLizardFertilized.description>Оплодотворенное яйцо варана. Если всё пойдет хорошо, из него вылупится маленький варан. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggMonitorLizardFertilized.description>
+  <EggMonitorLizardUnfertilized.label>яйцо варана (неопл.)</EggMonitorLizardUnfertilized.label>
+  <EggMonitorLizardUnfertilized.description>Неоплодотворенное яйцо варана. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggMonitorLizardUnfertilized.description>
+  <EggPeacockFertilized.label>яйцо павлина (опл.)</EggPeacockFertilized.label>
+  <EggPeacockFertilized.description>Оплодотворенное яйцо павлина. Если всё пойдет хорошо, из него вылупится птенец павлина. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggPeacockFertilized.description>
+  <EggPeacockUnfertilized.label>яйцо павлина (неопл.)</EggPeacockUnfertilized.label>
+  <EggPeacockUnfertilized.description>Неоплодотворенное яйцо павлина. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggPeacockUnfertilized.description>
+  <EggPenguinFertilized.label>яйцо пингвина (опл.)</EggPenguinFertilized.label>
+  <EggPenguinFertilized.description>Оплодотворенное яйцо пингвина. Если всё пойдет хорошо, из него вылупится птенец пингвина. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggPenguinFertilized.description>
+  <EggPenguinUnfertilized.label>яйцо пингвина (неопл.)</EggPenguinUnfertilized.label>
+  <EggPenguinUnfertilized.description>Неоплодотворенное яйцо пингвина. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggPenguinUnfertilized.description>
+  <EggQuailFertilized.label>яйцо перепелки (опл.)</EggQuailFertilized.label>
+  <EggQuailFertilized.description>Оплодотворенное яйцо перепёлки. Если всё пойдет хорошо, из него вылупится птенец перепелки. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggQuailFertilized.description>
+  <EggQuailUnfertilized.label>яйцо перепелки (неопл.)</EggQuailUnfertilized.label>
+  <EggQuailUnfertilized.description>Неоплодотворенное яйцо перепелки. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggQuailUnfertilized.description>
+  <EggSeaTurtleFertilized.label>яйцо морской черепахи (опл.)</EggSeaTurtleFertilized.label>
+  <EggSeaTurtleFertilized.description>Оплодотворенное яйцо морской черепахи. Если всё пойдет хорошо, из него вылупится маленькая морская черепаха. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggSeaTurtleFertilized.description>
+  <EggSeaTurtleUnfertilized.label>яйцо морской черепахи (неопл.)</EggSeaTurtleUnfertilized.label>
+  <EggSeaTurtleUnfertilized.description>Неоплодотворенное яйцо морской черепахи. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggSeaTurtleUnfertilized.description>
+  <EggSparrowFertilized.label>яйцо воробья (опл.)</EggSparrowFertilized.label>
+  <EggSparrowFertilized.description>Оплодотворенное яйцо воробья. Если всё пойдет хорошо, из него вылупится птенец воробья. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggSparrowFertilized.description>
+  <EggSparrowUnfertilized.label>яйцо воробья (неопл.)</EggSparrowUnfertilized.label>
+  <EggSparrowUnfertilized.description>Неоплодотворенное яйцо воробья. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggSparrowUnfertilized.description>
+  <EggSwanFertilized.label>яйцо лебедя (опл.)</EggSwanFertilized.label>
+  <EggSwanFertilized.description>Оплодотворенное яйцо лебедя. Если всё пойдет хорошо, из него вылупится птенец лебедя. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggSwanFertilized.description>
+  <EggSwanUnfertilized.label>яйцо лебедя (неопл.)</EggSwanUnfertilized.label>
+  <EggSwanUnfertilized.description>Неоплодотворенное яйцо лебедя. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggSwanUnfertilized.description>
+  <EggVultureFertilized.label>яйцо грифа (опл.)</EggVultureFertilized.label>
+  <EggVultureFertilized.description>Оплодотворенное яйцо грифа. Если всё пойдет хорошо, из него вылупится птенец грифа. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggVultureFertilized.description>
+  <EggVultureUnfertilized.label>яйцо грифа (неопл.)</EggVultureUnfertilized.label>
+  <EggVultureUnfertilized.description>Неоплодотворенное яйцо грифа. Его можно съесть сырым, но гораздо вкуснее оно приготовленное.</EggVultureUnfertilized.description>
+  <WoolMastodon.label>шерсть мастодонта</WoolMastodon.label>
+  <WoolMastodon.description>Густая и лохматая шерсть мастодонта. Отлично защищает от холода.</WoolMastodon.description>
+  <WoolMuskox.label>шерсть овцебыка</WoolMuskox.label>
+  <WoolMuskox.description>Колкая шерсть овцебыка. Хорошо защищает от холода.</WoolMuskox.description>
+  <WoolMastodon.stuffProps.stuffAdjective>шерсти мастодонта</WoolMastodon.stuffProps.stuffAdjective>
+  <WoolMuskox.stuffProps.stuffAdjective>шерсти овцебыка</WoolMuskox.stuffProps.stuffAdjective>
+</LanguageData>

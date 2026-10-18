@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BerserkTrance.label>транс берсерка</BerserkTrance.label>
+  <BerserkTrance.description>Этот человек переполнен гневом на идеологической почве и находится в состоянии неконтролируемой ярости. Его тело наполнено небывалой силой, но почти не поддаётся контролю.</BerserkTrance.description>
+  <CombatCommand.label>боевое командование</CombatCommand.label>
+  <CombatCommand.description>Этот человек координирует действия бойцов поблизости, повышая их эффективность в бою.</CombatCommand.description>
+  <CombatCommandBuff.label>боевое командование</CombatCommandBuff.label>
+  <CombatCommandBuff.description>Боевые навыки улучшены благодаря другому человеку, принявшему на себя командование.</CombatCommandBuff.description>
+  <FarmingCommand.label>фермерские наставления</FarmingCommand.label>
+  <FarmingCommand.description>Этот человек даёт советы и наставления по фермерству, улучшая способности всех вокруг.</FarmingCommand.description>
+  <FarmingCommandBuff.label>фермерские наставления</FarmingCommandBuff.label>
+  <FarmingCommandBuff.description>Навыки фермерства этого человека улучшены кем-то поблизости, дающим советы и наставления.</FarmingCommandBuff.description>
+  <ImmunityDrive.label>поддержка выздоровления</ImmunityDrive.label>
+  <ImmunityDrive.description>Этот человек получил моральную поддержку, что придало ему уверенности и ускорило выработку иммунитета.</ImmunityDrive.description>
+  <MarksmanCommand.label>командование стрелками</MarksmanCommand.label>
+  <MarksmanCommand.description>Этот человек руководит стрельбой, повышая эффективность всех стрелков поблизости.</MarksmanCommand.description>
+  <MarksmanCommandBuff.label>командование стрелками</MarksmanCommandBuff.label>
+  <MarksmanCommandBuff.description>Эффективность стрельбы этого человека улучшена, так как кто-то поблизости руководит стрельбой.</MarksmanCommandBuff.description>
+  <MiningCommand.label>шахтёрские наставления</MiningCommand.label>
+  <MiningCommand.description>Этот человек даёт советы и наставления по горному делу, чтобы окружающие могли быстрее разрабатывать породу.</MiningCommand.description>
+  <MiningCommandBuff.label>шахтёрские наставления</MiningCommandBuff.label>
+  <MiningCommandBuff.description>Скорость проведения горных работ этим человеком повышена благодаря шахтёрским наставлениям кого-то поблизости.</MiningCommandBuff.description>
+  <PreachHealth.label>проповедь за здоровье</PreachHealth.label>
+  <PreachHealth.description>Воля к жизни этого человека усилилась после прослушанной проповеди. Она ускорила заживление его ран и формирование иммунитета.</PreachHealth.description>
+  <ProductionCommand.label>ремесленные наставления</ProductionCommand.label>
+  <ProductionCommand.description>Этот человек даёт советы и наставления по производству и строительству, улучшая способности всех вокруг.</ProductionCommand.description>
+  <ProductionCommandBuff.label>ремесленные наставления</ProductionCommandBuff.label>
+  <ProductionCommandBuff.description>Навыки производства и строительства этого человека улучшены кем-то поблизости, дающим советы и наставления.</ProductionCommandBuff.description>
+  <ResearchCommand.label>научные наставления</ResearchCommand.label>
+  <ResearchCommand.description>Этот человек делится соображениями и оказывает моральную поддержку, увеличивая скорость исследования у всех вокруг.</ResearchCommand.description>
+  <ResearchCommandBuff.label>научные наставления</ResearchCommandBuff.label>
+  <ResearchCommandBuff.description>Скорость исследования этого человека увеличена, так как кто-то рядом делится научными наставлениями.</ResearchCommandBuff.description>
+  <WorkDrive.label>рабочий запал</WorkDrive.label>
+  <WorkDrive.description>Лидер призвал этого человека работать упорнее.</WorkDrive.description>
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <TradeRequest.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Одно из соседних поселений, [settlement_label], связывается с вами с предложением об обмене. Они хотели бы приобрести:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](стоимостью [requestedThingMarketValue_money])\n\nЕсли вы хотите заключить эту сделку, отправьте караван с указанными товарами.[travelTime]</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)-&gt;качеством от нормального и выше </li>
+    <li>qualityInfo-&gt;</li>
+    <li>travelTime(canCaravan==True,priority=1)-&gt; Расчётное время в пути — [estimatedTravelTime_duration].</li>
+    <li>travelTime-&gt;</li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
+  <TradeRequest.questNameRules.rulesStrings>
+    <li>questName-&gt;караван в [settlement_label]</li>
+    <li>questName-&gt;торговля с [settlement_label]</li>
+    <li>questName-&gt;обмен с [settlement_label]</li>
+    <li>questName-&gt;припасы для [settlement_label]</li>
+    <li>questName-&gt;[special_masc] [trade_masc]</li>
+    <li>questName-&gt;[special_neutral] [trade_neutral]</li>
+    <li>questName-&gt;[special_femine] [trade_femine]</li>
+    <li>special_masc-&gt;специальный</li>
+    <li>special_masc-&gt;уникальный</li>
+    <li>special_masc-&gt;необычный</li>
+    <li>special_neutral-&gt;специальное</li>
+    <li>special_neutral-&gt;уникальное</li>
+    <li>special_neutral-&gt;необычное</li>
+    <li>special_femine-&gt;специальная</li>
+    <li>special_femine-&gt;уникальная</li>
+    <li>special_femine-&gt;необычная</li>
+    <li>trade_masc-&gt;обмен</li>
+    <li>trade_femine-&gt;продажа</li>
+    <li>trade_femine-&gt;сделка</li>
+    <li>trade_neutral-&gt;предложение</li>
+  </TradeRequest.questNameRules.rulesStrings>
+  <TradeRequest.LetterLabelQuestFailed.slateRef>Задание провалено: «[resolvedQuestName]»</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <TradeRequest.LetterTextQuestFailed.slateRef>Фракция [faction_name] теперь враждебна к вам.</TradeRequest.LetterTextQuestFailed.slateRef>
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>Кто удостоится {lookup: [asker_faction_royalFavorLabel]; Case; 1} за успешное проведение сделки?</TradeRequest.LetterTextFavorReceiver.slateRef>
+</LanguageData>

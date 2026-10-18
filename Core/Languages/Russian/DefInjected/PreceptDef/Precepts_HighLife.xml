@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DrugUse_Essential.label>необходимо</DrugUse_Essential.label>
+  <DrugUse_Essential.description>Только в изменённом сознании можно наслаждаться жизнью.</DrugUse_Essential.description>
+  <DrugUse_Essential.comps.0.description>Наркотики принимаются каждые {DAYSSATISIFED_numCase ? день : дня : дней}</DrugUse_Essential.comps.0.description>
+</LanguageData>

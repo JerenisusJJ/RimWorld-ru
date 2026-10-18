@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerRitualFuneral.rulePack.rulesStrings>
+    <li>r_ritualName(p=0.50)-&gt;[memeAdjective_masc] [funeral_masc]</li>
+    <li>r_ritualName(p=1.25)-&gt;[memeAdjective_neutral] [funeral_neutral]</li>
+    <li>r_ritualName(p=0.25)-&gt;[memeAdjective_plural] [funeral_plural]</li>
+    <li>r_ritualName-&gt;[funeral] [chosenTheme]</li>
+    <li>r_ritualName-&gt;[chosenAdjective] [funeral_masc]</li>
+    <li>r_ritualName-&gt;[funeral] [keyDeity]</li>
+    <li>r_ritualName-&gt;[funeral] [memeConcept]</li>
+    <li>r_ritualName(p=0.01)-&gt;[funeral]</li>
+    <li>funeral(p=2)-&gt;[funeral_masc]</li>
+    <li>funeral(p=5)-&gt;[funeral_neutral]</li>
+    <li>funeral(p=1)-&gt;[funeral_plural]</li>
+    <li>funeral_masc-&gt;реквием</li>
+    <li>funeral_masc-&gt;панегирик</li>
+    <li>funeral_neutral-&gt;оплакивание</li>
+    <li>funeral_neutral-&gt;захоронение</li>
+    <li>funeral_neutral-&gt;погребение</li>
+    <li>funeral_neutral-&gt;предание земле</li>
+    <li>funeral_neutral-&gt;прощание</li>
+    <li>funeral_plural-&gt;похороны</li>
+  </NamerRitualFuneral.rulePack.rulesStrings>
+</LanguageData>

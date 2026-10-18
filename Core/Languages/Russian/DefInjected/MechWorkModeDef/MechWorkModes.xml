@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Escort.label>сопровождение</Escort.label>
+  <Escort.description>Оставаться рядом с механитором и атаковать ближайших противников. Следовать за ним, в том числе за пределы карты.</Escort.description>
+  <Recharge.label>подзарядка</Recharge.label>
+  <Recharge.description>Отправиться к зарядной станции и встать на подзарядку даже при максимальном уровне заряда.</Recharge.description>
+  <SelfShutdown.label>зарядка в режиме сна</SelfShutdown.label>
+  <SelfShutdown.description>Войти в режим сна, позволяющий очень медленно восстанавливать заряд без зарядной станции.</SelfShutdown.description>
+  <Work.label>работа</Work.label>
+  <Work.description>Автономная работа в зависимости от типа механоида. Подзарядка у зарядных станций будет осуществляться автоматически по необходимости.</Work.description>
+</LanguageData>

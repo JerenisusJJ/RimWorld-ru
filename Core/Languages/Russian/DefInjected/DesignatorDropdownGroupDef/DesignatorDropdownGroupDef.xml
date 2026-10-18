@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Floor_Carpet.label>ковёр</Floor_Carpet.label>
+  <Floor_Carpet_Fine.label>изысканный ковёр</Floor_Carpet_Fine.label>
+  <Floor_Flagstone.label>грубая плитка</Floor_Flagstone.label>
+  <Floor_Tile.label>плитка</Floor_Tile.label>
+  <Floor_Tile_Fine.label>изысканная плитка</Floor_Tile_Fine.label>
+  <Floor_Tile_Metal.label>металлическая плитка</Floor_Tile_Metal.label>
+  <StandingLampColored.label>торшер</StandingLampColored.label>
+</LanguageData>

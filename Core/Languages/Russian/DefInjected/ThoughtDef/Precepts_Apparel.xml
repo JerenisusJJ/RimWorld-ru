@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WearingDesiredApparel_Soft.stages.wearing.label>носит {lookup: {APPAREL}; Case; 3}</WearingDesiredApparel_Soft.stages.wearing.label>
+  <WearingDesiredApparel_Soft.stages.wearing.description>Мне нравится носить {lookup: {APPAREL}; Case; 3}, это соответствует моим убеждениям.</WearingDesiredApparel_Soft.stages.wearing.description>
+  <WearingDesiredApparel_Strong.stages.wearing.label>носит {lookup: {APPAREL}; Case; 3}</WearingDesiredApparel_Strong.stages.wearing.label>
+  <WearingDesiredApparel_Strong.stages.wearing.description>Мне очень нравится носить {lookup: {APPAREL}; Case; 3}, это соответствует моим убеждениям.</WearingDesiredApparel_Strong.stages.wearing.description>
+</LanguageData>

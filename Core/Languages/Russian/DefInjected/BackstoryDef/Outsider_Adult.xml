@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Hermit82.description>Под давлением общественной жизни {PAWN_nameDef} {PAWN_gender ? покинул : покинула : покинуло} свой перенаселённый город, чтобы вести простую жизнь среди дикой природы. Там {PAWN_pronoun} {PAWN_gender ? проводил : проводила : проводило} свои дни в одиночестве, ухаживая за садом и самостоятельно изготавливая простейшие инструменты, необходимые для выживания.</Hermit82.description>
+  <Hermit82.title>отшельник</Hermit82.title>
+  <Hermit82.titleShort>отшельник</Hermit82.titleShort>
+</LanguageData>

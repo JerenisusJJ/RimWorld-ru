@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientComplex.label>древний комплекс</AncientComplex.label>
+  <AncientComplex.description>Древний комплекс, внтури которого таятся сокровища.</AncientComplex.description>
+  <AncientComplex.approachingReportString>Исследует {lookup: {0}; Case; 3}</AncientComplex.approachingReportString>
+  <AncientComplex.approachOrderString>Исследовать {lookup: {0}; Case; 3}</AncientComplex.approachOrderString>
+</LanguageData>

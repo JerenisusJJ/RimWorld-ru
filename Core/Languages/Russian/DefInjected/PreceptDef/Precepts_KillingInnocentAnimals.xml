@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <KillingInnocentAnimals_Abhorrent.label>отвратительно</KillingInnocentAnimals_Abhorrent.label>
+  <KillingInnocentAnimals_Abhorrent.description>Убийство невинного животного — это бесчеловечное преступление. Всё животные, которые не напали сами или были спровоцированы человеком, — невинны.</KillingInnocentAnimals_Abhorrent.description>
+  <KillingInnocentAnimals_Abhorrent.comps.2.description>Убито невинное животное</KillingInnocentAnimals_Abhorrent.comps.2.description>
+  <KillingInnocentAnimals_Disapproved.label>не одобряется</KillingInnocentAnimals_Disapproved.label>
+  <KillingInnocentAnimals_Disapproved.description>Убивать невинных животных — плохо. Всё животные, которые не напали сами или были спровоцированы человеком — невинны.</KillingInnocentAnimals_Disapproved.description>
+  <KillingInnocentAnimals_Disapproved.comps.0.description>Убито невинное животное</KillingInnocentAnimals_Disapproved.comps.0.description>
+  <KillingInnocentAnimals_Disapproved.comps.2.description>Кто-то убил невинное животное</KillingInnocentAnimals_Disapproved.comps.2.description>
+  <KillingInnocentAnimals_Horrible.label>ужасно</KillingInnocentAnimals_Horrible.label>
+  <KillingInnocentAnimals_Horrible.description>Убить невинное животное — это ужасное преступление. Всё животные, которые не напали сами или были спровоцированы человеком — невинны.</KillingInnocentAnimals_Horrible.description>
+  <KillingInnocentAnimals_Horrible.comps.0.description>Убито невинное животное</KillingInnocentAnimals_Horrible.comps.0.description>
+  <KillingInnocentAnimals_Horrible.comps.2.description>Кто-то убил невинное животное</KillingInnocentAnimals_Horrible.comps.2.description>
+</LanguageData>

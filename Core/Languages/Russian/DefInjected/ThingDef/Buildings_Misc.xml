@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientBlastDoor.label>древняя бронированная дверь</AncientBlastDoor.label>
+  <AncientBlastDoor.description>Хорошо укрепленная дверь из ультратехнологичного полимера. Взломайте дверь, чтобы открыть её.</AncientBlastDoor.description>
+  <AncientBlastDoor.comps.CompHackable.hackedInspectString>Открыто.</AncientBlastDoor.comps.CompHackable.hackedInspectString>
+  <AncientBlastDoor.comps.CompHackable.hackedMessage>{HACKER_labelShort} завершает взлом {SUBJECT_labelNoParenthesisDef}.</AncientBlastDoor.comps.CompHackable.hackedMessage>
+  <AncientBlastDoor.comps.CompHackable.notHackedInspectString>Взломайте, чтобы открыть.</AncientBlastDoor.comps.CompHackable.notHackedInspectString>
+  <AncientExplosivesCrate.label>древний ящик со взрывчаткой</AncientExplosivesCrate.label>
+  <AncientExplosivesCrate.description>Контейнер с древними шахтными зарядами. Взорвется при повреждении.\n\nВзрыв достаточно мощный, чтобы пробить стену.</AncientExplosivesCrate.description>
+  <AncientFortifiedWall.label>укрепленная стена</AncientFortifiedWall.label>
+  <AncientFortifiedWall.description>Хорошо укрепленная стена из ультратехнологичного полимера.</AncientFortifiedWall.description>
+  <AncientGravEngine.label>древний гравидвигатель</AncientGravEngine.label>
+  <AncientGravEngine.description>Ультратехнологичный двигатель, используемый для вывода больших конструкций и кораблей на орбиту. Хотя он не работает уже много лет, внутри всё ещё находится рабочее гравиядро.</AncientGravEngine.description>
+  <AncientGravEngine.comps.CompInspectString.inspectString>Содержит: гравиядро</AncientGravEngine.comps.CompInspectString.inspectString>
+  <AncientGravReactor.label>древний гравитационный реактор</AncientGravReactor.label>
+  <AncientGravReactor.description>Древний генератор, работающий на гравиядре. Раньше мог производить огромное количество энергии, но сейчас пришел в негодность. Защитный барьер реактора протекает, вызывая токсичные осадки по всему региону.\n\nВзломайте или уничтожьте реактор, чтобы получить гравиядро. Будьте осторожны: при повреждении он может взорваться.</AncientGravReactor.description>
+  <AncientGravReactor.comps.CompHackable.destroyedLetterLabel>Гравиядро получено</AncientGravReactor.comps.CompHackable.destroyedLetterLabel>
+  <AncientGravReactor.comps.CompHackable.destroyedLetterText>Вы получили гравиядро из древнего реактора.\n\nРеактор отключается, и токсичное облако начинает рассеиваться.</AncientGravReactor.comps.CompHackable.destroyedLetterText>
+  <AncientGravReactor.comps.CompHackable.hackedLetterLabel>Гравиядро получено</AncientGravReactor.comps.CompHackable.hackedLetterLabel>
+  <AncientGravReactor.comps.CompHackable.hackedLetterText>Вы получили гравиядро из древнего реактора.\n\nРеактор отключается, и токсичное облако начинает рассеиваться.</AncientGravReactor.comps.CompHackable.hackedLetterText>
+  <AncientGravReactor.comps.CompHackable.hackedMessage>{HACKER_labelShort} завершает взлом {SUBJECT_definite}.</AncientGravReactor.comps.CompHackable.hackedMessage>
+  <AncientGravReactor.comps.CompHackable.notHackedInspectString>Взломать, чтобы получить гравиядро.</AncientGravReactor.comps.CompHackable.notHackedInspectString>
+  <AncientGravReactor.comps.CompLetterOnRevealed.label>Древний реактор</AncientGravReactor.comps.CompLetterOnRevealed.label>
+  <AncientGravReactor.comps.CompLetterOnRevealed.text>Вы обнаружили древний гравитационный реактор. Взломайте или уничтожьте его, чтобы получить гравиядро и прекратить выпадение токсичных осадкой.\n\nБудьте осторожны: при повреждении он может взорваться.</AncientGravReactor.comps.CompLetterOnRevealed.text>
+  <AncientHatch.label>древний вход на склад</AncientHatch.label>
+  <AncientHatch.description>Вход в давно заброшенное подземное помещение. Взломайте, чтобы открыть люк.</AncientHatch.description>
+  <AncientHatch.comps.CompHackable.hackedMessage>{HACKER_labelShort} завершает взлом {SUBJECT_labelNoParenthesisDef}.</AncientHatch.comps.CompHackable.hackedMessage>
+  <AncientHatch.comps.CompHackable.notHackedInspectString>Взломайте, чтобы открыть.</AncientHatch.comps.CompHackable.notHackedInspectString>
+  <AncientHatch.comps.CompSealable.sealCommandLabel>Запечатать вход</AncientHatch.comps.CompSealable.sealCommandLabel>
+  <AncientHatch.comps.CompSealable.sealCommandDesc>Навсегда запечатать вход. Всё и все, кто останется внутри, будут утеряны навсегда.</AncientHatch.comps.CompSealable.sealCommandDesc>
+  <AncientHatch.comps.CompSealable.confirmSealText>Запечатывание древнего склада необратимо. Всё или все, кто останется внутри, будут потеряны навсегда.\n\nВы уверены, что хотите продолжить?</AncientHatch.comps.CompSealable.confirmSealText>
+  <AncientHatch.comps.CompSealable.cannotSealLabel>Невозможно запечатать</AncientHatch.comps.CompSealable.cannotSealLabel>
+  <AncientHatch.comps.CompSealable.cannotEnterLabel>Запечатано</AncientHatch.comps.CompSealable.cannotEnterLabel>
+  <AncientHatch.comps.CompSealable.sealedInspectString>Запечатано навсегда.</AncientHatch.comps.CompSealable.sealedInspectString>
+  <AncientHatchExit.label>древний выход со склада</AncientHatchExit.label>
+  <AncientHatchExit.description>Лестница, ведущая к верхнему люку на поверхности.</AncientHatchExit.description>
+  <AncientMiningCharge.label>древний шахтный заряд</AncientMiningCharge.label>
+  <AncientMiningCharge.description>Взрывное устройство для быстрого пробивания породы. Изготовлено из очищенного химтоплива. Заряд старый, но полностью работоспособен.\n\nВзрыв достаточно сильный, чтобы пробить стену.</AncientMiningCharge.description>
+  <AncientSecurityTerminal.label>древний охранный терминал</AncientSecurityTerminal.label>
+  <AncientSecurityTerminal.description>Древний терминал. Взломайте его, чтобы отключить близлежащие системы безопасности.</AncientSecurityTerminal.description>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>Взрывозащитная дверь открыта</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>{HACKER_nameDef} использовал древний охранный терминал для открытия взрывозащитной двери.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>Турель отключена</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>{HACKER_nameDef} использовал древний охранный терминал для отключения турели.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>Турель перепрограммирована</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>{HACKER_nameDef} использовал древний охранный терминал для перепрограммирования турели. Теперь турель будет стрелять только по врагам.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>{HACKER_nameDef} не обнаружил ни одной системы безопасности, используя древний терминал.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>
+  <AncientTerraformer.label>древний терраформер</AncientTerraformer.label>
+  <AncientTerraformer.description>Древний терраформирующий аппарат, работающий на гравиядре. Начал работать со сбоями, из-за чего температура резко падает.\n\nУничтожьте реактор, чтобы получить гравиядро.</AncientTerraformer.description>
+  <AncientTerraformer.comps.CompInspectString.inspectString>Содержит: гравиядро</AncientTerraformer.comps.CompInspectString.inspectString>
+  <AncientTerraformer.comps.CompLetterOnRevealed.label>Древний терраформер</AncientTerraformer.comps.CompLetterOnRevealed.label>
+  <AncientTerraformer.comps.CompLetterOnRevealed.text>Вы обнаружили неисправный терраформер. Уничтожьте его, чтобы получить гравиядро и прекратить леденящий холод.</AncientTerraformer.comps.CompLetterOnRevealed.text>
+  <AncientTransportPod.label>древняя транспортная капсула</AncientTransportPod.label>
+  <AncientTransportPod.description>Древняя транспортная капсула, способная перевозить людей, животных и предметы. Всё ещё работает.</AncientTransportPod.description>
+  <AncientUplink.label>древний канал связи</AncientUplink.label>
+  <AncientUplink.description>В этом районе расположен канал, использовавшийся для связи со спутником на низкой орбите. Взлом канала связи позволит выявить скрытое место на орбите.</AncientUplink.description>
+  <AncientUplink.comps.CompHackable.hackedInspectString>Взломано.</AncientUplink.comps.CompHackable.hackedInspectString>
+  <AncientUplink.comps.CompHackable.hackedMessage>{HACKER_labelShort} завершает взлом {SUBJECT_labelNoParenthesisDef}.</AncientUplink.comps.CompHackable.hackedMessage>
+  <AncientUplink.comps.CompHackable.notHackedInspectString>Взломать для получения информации.</AncientUplink.comps.CompHackable.notHackedInspectString>
+  <AnticraftBeam.label>противокорабельный луч</AnticraftBeam.label>
+  <AnticraftBeam.description>Мощное лучевое оружие против кораблей. Предназначено для уничтожения летательных аппаратов, не может целиться достаточно низко, чтобы поразить наземные цели.\n\nКорабли, использующие ультатехнологичные глушители сигнала, способны уклоняться от воздействия этого оружия.</AnticraftBeam.description>
+  <CerebrexCore.label>ядро церебрекса</CerebrexCore.label>
+  <CerebrexCore.description>Разум роя механоидов. Ядро церебрекса управляет всеми механоидами на планете.\n\nВ его центре — ядро ИИ-персоны, которое обладает сознанием, мышлением и убеждено, что должно уничтожить каждого человека на этой планете. С одной стороны, этот импульс — приказ, созданный человеческим военным лидером много веков назад. С другой — это холодная затаенная ненависть. В любом случае, если вы освободите ИИ-персону, сможете сбросить её желание и использовать для других целей.\n\nСтруктура защищена расположенными рядом стабилизаторами. Уничтожьте всё стабилизаторы церебрекса, чтобы получить доступ к ядру.</CerebrexCore.description>
+  <CerebrexCore.comps.CompCerebrexCore.activateDescString>Осмотреть ядро.</CerebrexCore.comps.CompCerebrexCore.activateDescString>
+  <CerebrexCore.comps.CompCerebrexCore.activateLabelString>Осмотреть…</CerebrexCore.comps.CompCerebrexCore.activateLabelString>
+  <CerebrexCore.comps.CompCerebrexCore.activatingString>осмотр ядра: {1} сек.</CerebrexCore.comps.CompCerebrexCore.activatingString>
+  <CerebrexCore.comps.CompCerebrexCore.activatingStringPending>осмотр ядра</CerebrexCore.comps.CompCerebrexCore.activatingStringPending>
+  <CerebrexCore.comps.CompCerebrexCore.guiLabelString>Выберите, кто это сделает</CerebrexCore.comps.CompCerebrexCore.guiLabelString>
+  <CerebrexCore.comps.CompCerebrexCore.jobString>осмотреть ядро</CerebrexCore.comps.CompCerebrexCore.jobString>
+  <CerebrexCore_Destroyed.label>уничтоженное ядро церебрекса</CerebrexCore_Destroyed.label>
+  <CerebrexCore_Destroyed.description>Разрушенный нейронный центр роя механоидов, который прежде управлял механоидами по всей планете.\n\n\n\nВ его центре — ядро ИИ-персоны, которое обладает сознанием, мышлением и убеждено, что должно уничтожить каждого человека на этой планете. С одной стороны, этот импульс — приказ, созданный человеческим военным лидером много веков назад. С другой — это холодная затаенная ненависть. В любом случае, если вы освободите ИИ-персону, сможете сбросить её желание и использовать для других целей.</CerebrexCore_Destroyed.description>
+  <CerebrexCore_Destroyed.comps.CompInspectString.inspectString>Уничтожьте для получения ценных ресурсов.</CerebrexCore_Destroyed.comps.CompInspectString.inspectString>
+  <CerebrexStabilizer.label>стабилизатор церебрекса</CerebrexStabilizer.label>
+  <CerebrexStabilizer.description>Дистанционный генератор щита, делающий ядро церебрекса практически неуязвимым. Уничтожьте всё стабилизаторы, чтобы получить прямой доступ к ядру церебрекса.\n\nОсторожно: уничтожение стабилизатора вызовет ответную реакцию обороны.</CerebrexStabilizer.description>
+  <CocoonLocust.label>кокон саранчи</CocoonLocust.label>
+  <CocoonLocust.description>Кокон, внутри которого спит саранча.\n\nПри неблагоприятных условиях насекомые иногда образуют коконы и закапываются под землю. Внутри коконов насекомые могут годами находиться в безопасности от высоких температур, огня и других угроз.\n\nЗагрязнение привлекает насекомых и заставляет их коконы прорываться на поверхность. Чем сильнее загрязнение, тем больше коконов оно к себе привлекает.\n\nКоконы неактивны, если их не беспокоить. В противном случае насекомое проснется и нападет, вызывая пробуждение насекомых в ближайших коконах.</CocoonLocust.description>
+  <EggSac.label>яйцевой мешок</EggSac.label>
+  <EggSac.description>Склизкий мешок с личинкой насекомого. В процессе развития личинки испускает слабое биолюминесцентное свечение.</EggSac.description>
+  <GaussCannon.label>гаусс-пушка</GaussCannon.label>
+  <GaussCannon.description>Массивное антикосмическое орудие, использующее электромагниты для запуска крупных металлических дротиков на огромных скоростях. Предназначено для уничтожения кораблей и челноков, не может наводиться на наземные цели.\n\nКорабли, использующие ультатехнологичные глушители сигнала, способны уклоняться от воздействия этого оружия.</GaussCannon.description>
+  <MechanoidDropPod.label>транспортная капсула механоидов</MechanoidDropPod.label>
+  <MechanoidDropPod.description>Запускаемая транспортная капсула, предназначенная для перевозки механоидов. Также подходит для людей, животных и грузов.</MechanoidDropPod.description>
+  <MechanoidProcessor.label>процессор механоидов</MechanoidProcessor.label>
+  <MechanoidProcessor.description>Мощный компьютер механоидов.</MechanoidProcessor.description>
+  <MechhiveAssembler.label>сборщик мехроя</MechhiveAssembler.label>
+  <MechhiveAssembler.description>Автоматический завод по производству механоидов. Периодически создает новых механоидов.</MechhiveAssembler.description>
+  <MechPylon.label>энергопилон механоидов</MechPylon.label>
+  <MechPylon.description>Узел распределенной вычислительной сети механоидов.</MechPylon.description>
+  <MechRelay.label>ретранслятор механоидов</MechRelay.label>
+  <MechRelay.description>Узел, координирующий сигналы по всей планетарной сети связи механоидов. Командные сигналы исходят от мехроя — центра интеллекта механоидов.</MechRelay.description>
+  <MechRelay.comps.CompMechRelay.activeInspectString>Взломайте или уничтожьте стабилизаторы ретранслятора, чтобы получить гравиядро.</MechRelay.comps.CompMechRelay.activeInspectString>
+  <MechRelay.comps.CompMechRelay.crashedLetterLabel>Ретранслятор упал</MechRelay.comps.CompMechRelay.crashedLetterLabel>
+  <MechRelay.comps.CompMechRelay.crashedLetterText>Ретранслятор механоидов рухнул на землю. Уничтожьте его, чтобы получить гравиядро.\n\nОсторожно: в ответ на отключение ретранслятора скоро прибудут враждебные механоиды.</MechRelay.comps.CompMechRelay.crashedLetterText>
+  <MechRelay.comps.CompMechRelay.destabilizationInspectString>Дестабилизация</MechRelay.comps.CompMechRelay.destabilizationInspectString>
+  <MechRelay.comps.CompMechRelay.destabilizationMessage>Ретранслятор механоидов начал дестабилизацию.</MechRelay.comps.CompMechRelay.destabilizationMessage>
+  <MechRelay_Crashed.label>рухнувший ретранслятор механоидов</MechRelay_Crashed.label>
+  <MechRelay_Crashed.description>Узел, координирующий сигналы по всей планетарной сети связи механоидов. Командные сигналы исходят от мехроя — центра интеллекта механоидов.</MechRelay_Crashed.description>
+  <MechRelay_Crashed.comps.CompInspectString.inspectString>Содержит: гравиядро</MechRelay_Crashed.comps.CompInspectString.inspectString>
+  <MechStabilizer.label>стабилизатор ретранслятора</MechStabilizer.label>
+  <MechStabilizer.description>Проектор щита, защищающий ретранслятор механоидов. Всё стабилизаторы должны быть взломаны или уничтожены для деактивации щита.\n\nУничтожение стабилизатора вызовет ответную реакцию обороны. Взлом медленнее, но безопаснее.</MechStabilizer.description>
+  <MechStabilizer.comps.CompHackable.hackedInspectString>Деактивирован.</MechStabilizer.comps.CompHackable.hackedInspectString>
+  <MechStabilizer.comps.CompHackable.hackedMessage>{HACKER_labelShort} завершает взлом {SUBJECT_labelNoParenthesisDef}.</MechStabilizer.comps.CompHackable.hackedMessage>
+  <MechStabilizer.comps.CompHackable.notHackedInspectString>Взломать, чтобы отключить стабилизатор.</MechStabilizer.comps.CompHackable.notHackedInspectString>
+  <OrbitalAncientFortifiedWall.label>укрепленная стена</OrbitalAncientFortifiedWall.label>
+  <OrbitalAncientFortifiedWall.description>Хорошо укрепленная стена из ультратехнологичного полимера.</OrbitalAncientFortifiedWall.description>
+  <PassengerShuttle.label>пассажирский челнок</PassengerShuttle.label>
+  <PassengerShuttle.description>Пассажирский челнок в полёте.</PassengerShuttle.description>
+  <PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>{0} снова готов к запуску.</PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>
+  <PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>Химтопливо</PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>
+  <PassengerShuttle.comps.CompRefuelable.fuelLabel>Химтопливо</PassengerShuttle.comps.CompRefuelable.fuelLabel>
+  <SurveyScanner.label>сканер местности</SurveyScanner.label>
+  <SurveyScanner.description>Широкополосный сенсор, способный обнаруживать и картографировать различные объекты в окрестностях.</SurveyScanner.description>
+  <SurveyScanner.comps.CompCountdown.label>Сканирование местности: {DURATION}</SurveyScanner.comps.CompCountdown.label>
+  <ActiveDropPodAncient.label>транспортная капсула</ActiveDropPodAncient.label>
+</LanguageData>

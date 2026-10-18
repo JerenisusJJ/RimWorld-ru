@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bison.label>зубр</Bison.label>
+  <Bison.description>Крупное травоядное, обитающее в бескрайних саваннах. Зубры весьма покорны после приручения. Но если их разозлить, они быстры и опасны.</Bison.description>
+  <Bison.tools.head.label>голова</Bison.tools.head.label>
+  <Bison.tools.left_hoof.label>левое копыто</Bison.tools.left_hoof.label>
+  <Bison.tools.left_hoof.labelNoLocation>копыто</Bison.tools.left_hoof.labelNoLocation>
+  <Bison.tools.right_hoof.label>правое копыто</Bison.tools.right_hoof.label>
+  <Bison.tools.right_hoof.labelNoLocation>копыто</Bison.tools.right_hoof.labelNoLocation>
+  <Boomalope.label>бумалопа</Boomalope.label>
+  <Boomalope.description>Разработанная для химического производства, бумалопа отращивает на спине большой мешок с нестабильными химикатами. Несмотря на её слабость и уязвимость, другие животные научились обходить бумалопу стороной, из-за огромного взрыва, происходящего после её смерти. Бумалоп можно доить, получая химтопливо, но будьте очень аккуратны!</Boomalope.description>
+  <Boomalope.tools.head.label>голова</Boomalope.tools.head.label>
+  <Boomalope.tools.left_hoof.label>левое копыто</Boomalope.tools.left_hoof.label>
+  <Boomalope.tools.left_hoof.labelNoLocation>копыто</Boomalope.tools.left_hoof.labelNoLocation>
+  <Boomalope.tools.right_hoof.label>правое копыто</Boomalope.tools.right_hoof.label>
+  <Boomalope.tools.right_hoof.labelNoLocation>копыто</Boomalope.tools.right_hoof.labelNoLocation>
+  <Caribou.label>северный олень</Caribou.label>
+  <Caribou.description>Крупный представитель семейства оленьих, хорошо адаптированный к жизни в холодном климате. Северные олени могут давать молоко, но вещи на спине таскать не будут.</Caribou.description>
+  <Caribou.tools.left_hoof.label>левое копыто</Caribou.tools.left_hoof.label>
+  <Caribou.tools.left_hoof.labelNoLocation>копыто</Caribou.tools.left_hoof.labelNoLocation>
+  <Caribou.tools.right_hoof.label>правое копыто</Caribou.tools.right_hoof.label>
+  <Caribou.tools.right_hoof.labelNoLocation>копыто</Caribou.tools.right_hoof.labelNoLocation>
+  <Caribou.tools.head.label>голова</Caribou.tools.head.label>
+  <Cow.label>корова</Cow.label>
+  <Cow.description>Крупное одомашненное копытное животное. Люди на протяжении тысячелетий разводили коров ради молока, мяса и шкуры. Эти существа чрезвычайно спокойны и не нападут, даже если их бить. Большинство пород настолько приучены к человеку, что не смогут выжить в дикой природе.</Cow.description>
+  <Cow.race.meatLabel>говядина</Cow.race.meatLabel>
+  <Cow.tools.head.label>голова</Cow.tools.head.label>
+  <Cow.tools.left_hoof.label>левое копыто</Cow.tools.left_hoof.label>
+  <Cow.tools.left_hoof.labelNoLocation>копыто</Cow.tools.left_hoof.labelNoLocation>
+  <Cow.tools.right_hoof.label>правое копыто</Cow.tools.right_hoof.label>
+  <Cow.tools.right_hoof.labelNoLocation>копыто</Cow.tools.right_hoof.labelNoLocation>
+  <Donkey.label>осёл</Donkey.label>
+  <Donkey.description>Родственник лошади небольшого размера, приручённый в древние времена для использования в сельском хозяйстве. Его нелепый крик одновременно раздражающий и милый.\n\nЛюди могут ехать верхом на ослах в составе каравана, чтобы увеличить его скорость.</Donkey.description>
+  <Donkey.tools.head.label>голова</Donkey.tools.head.label>
+  <Donkey.tools.left_hoof.label>левое копыто</Donkey.tools.left_hoof.label>
+  <Donkey.tools.left_hoof.labelNoLocation>копыто</Donkey.tools.left_hoof.labelNoLocation>
+  <Donkey.tools.right_hoof.label>правое копыто</Donkey.tools.right_hoof.label>
+  <Donkey.tools.right_hoof.labelNoLocation>копыто</Donkey.tools.right_hoof.labelNoLocation>
+  <Dromedary.label>верблюд</Dromedary.label>
+  <Dromedary.description>Крупное млекопитающее, приспособленное для жизни в пустынях. Это животное одомашнено человеком с древних времён. Его шкура отлично защищает от дневного зноя и ночного холода, а молоко весьма питательно. Верблюды могут быть использованы в качестве вьючных и ездовых животных, но из-за их прыгучего аллюра скорость езды будет меньше, чем на лошади.\n\nВерблюды собирают влагу, выделяемую при дыхании, а их горб представляет собой жировые отложения — всё это позволяет им неделями обходиться без воды.\n\nЛюди могут ехать верхом на верблюдах в составе каравана, чтобы увеличить его скорость.</Dromedary.description>
+  <Dromedary.tools.left_hoof.label>левое копыто</Dromedary.tools.left_hoof.label>
+  <Dromedary.tools.left_hoof.labelNoLocation>копыто</Dromedary.tools.left_hoof.labelNoLocation>
+  <Dromedary.tools.right_hoof.label>правое копыто</Dromedary.tools.right_hoof.label>
+  <Dromedary.tools.right_hoof.labelNoLocation>копыто</Dromedary.tools.right_hoof.labelNoLocation>
+  <Dromedary.tools.head.label>голова</Dromedary.tools.head.label>
+  <Elephant.label>слон</Elephant.label>
+  <Elephant.description>Крупнейшее из нетронутых генной модификацией животных. Слоны имеют длинный хобот для передвижения предметов и острые бивни в качестве смертоносного оружия. Бивни весьма ценны, получить их можно при разделке туши мёртвого животного.\n\nСлоны — умные существа, способные к сложным социальным отношениям. С древних лет их использовали в качестве вьючных и рабочих животных. Они могут выполнять сложную работу и помнить события, произошедшие десятки лет назад в их долгой жизни.</Elephant.description>
+  <Elephant.tools.tusk.label>бивень</Elephant.tools.tusk.label>
+  <Elephant.tools.left_foot.label>левая нога</Elephant.tools.left_foot.label>
+  <Elephant.tools.left_foot.labelNoLocation>нога</Elephant.tools.left_foot.labelNoLocation>
+  <Elephant.tools.right_foot.label>правая нога</Elephant.tools.right_foot.label>
+  <Elephant.tools.right_foot.labelNoLocation>нога</Elephant.tools.right_foot.labelNoLocation>
+  <Elephant.tools.head.label>голова</Elephant.tools.head.label>
+  <Elk.label>марал</Elk.label>
+  <Elk.description>Крупный представитель семейства оленьих, хорошо адаптированный к жизни в холодном климате. Приручённый марал может давать молоко, но вещи на спине таскать не будет.</Elk.description>
+  <Elk.tools.left_hoof.label>левое копыто</Elk.tools.left_hoof.label>
+  <Elk.tools.left_hoof.labelNoLocation>копыто</Elk.tools.left_hoof.labelNoLocation>
+  <Elk.tools.right_hoof.label>правое копыто</Elk.tools.right_hoof.label>
+  <Elk.tools.right_hoof.labelNoLocation>копыто</Elk.tools.right_hoof.labelNoLocation>
+  <Elk.tools.head.label>голова</Elk.tools.head.label>
+  <Goat.label>коза</Goat.label>
+  <Goat.description>Козы, обладая природным любопытством, стали одними из самых дружелюбных животных, когда либо одомашненных человеком.</Goat.description>
+  <Goat.tools.head.label>голова</Goat.tools.head.label>
+  <Horse.label>лошадь</Horse.label>
+  <Horse.description>Крупное копытное млекопитающее с короткой шерстью, косматой гривой и длинным хвостом. Человек одомашнил лошадь ещё в древние времена.\n\nЛюди могут ехать верхом на лошадях в составе каравана, чтобы увеличить его скорость.</Horse.description>
+  <Horse.race.meatLabel>конина</Horse.race.meatLabel>
+  <Horse.tools.head.label>голова</Horse.tools.head.label>
+  <Horse.tools.left_hoof.label>левое копыто</Horse.tools.left_hoof.label>
+  <Horse.tools.left_hoof.labelNoLocation>копыто</Horse.tools.left_hoof.labelNoLocation>
+  <Horse.tools.right_hoof.label>правое копыто</Horse.tools.right_hoof.label>
+  <Horse.tools.right_hoof.labelNoLocation>копыто</Horse.tools.right_hoof.labelNoLocation>
+  <Muffalo.label>муффало</Muffalo.label>
+  <Muffalo.description>Крупное стадное травоядное животное. Произошло от буйволов и приспособилось как к тёплому, так и к холодному климату. Крайне опасный в ярости, ручной муффало очень покорен и может быть использован в качестве вьючного животного.\n\nНикто точно не знает, из-за чего шерсть муффало приобрела голубой цвет. Кто-то считает его устойчивым последствием некой генной модификации.</Muffalo.description>
+  <Muffalo.tools.head.label>голова</Muffalo.tools.head.label>
+  <Muffalo.tools.left_hoof.label>левое копыто</Muffalo.tools.left_hoof.label>
+  <Muffalo.tools.left_hoof.labelNoLocation>копыто</Muffalo.tools.left_hoof.labelNoLocation>
+  <Muffalo.tools.right_hoof.label>правое копыто</Muffalo.tools.right_hoof.label>
+  <Muffalo.tools.right_hoof.labelNoLocation>копыто</Muffalo.tools.right_hoof.labelNoLocation>
+  <Rhinoceros.label>носорог</Rhinoceros.label>
+  <Rhinoceros.description>Это крупное травоядное млекопитающее очень легко разозлить. Массивный острый рог делает его крайне опасным противником, а количество мышц на одной его ноге — больше, чем у среднестатистического человека во всём теле.</Rhinoceros.description>
+  <Rhinoceros.tools.horn-0.label>рог</Rhinoceros.tools.horn-0.label>
+  <Rhinoceros.tools.horn-1.label>рог</Rhinoceros.tools.horn-1.label>
+  <Rhinoceros.tools.head.label>голова</Rhinoceros.tools.head.label>
+  <Yak.label>як</Yak.label>
+  <Yak.description>Яки — крупные выносливые животные с мощным телосложением, короткими, но толстыми ногами и широкими закруглёнными парными копытами, позволяющими ходить по снегу.</Yak.description>
+  <Yak.race.meatLabel>мясо яка</Yak.race.meatLabel>
+  <Yak.tools.head.label>голова</Yak.tools.head.label>
+  <Yak.tools.left_hoof.label>левое копыто</Yak.tools.left_hoof.label>
+  <Yak.tools.left_hoof.labelNoLocation>копыто</Yak.tools.left_hoof.labelNoLocation>
+  <Yak.tools.right_hoof.label>правое копыто</Yak.tools.right_hoof.label>
+  <Yak.tools.right_hoof.labelNoLocation>копыто</Yak.tools.right_hoof.labelNoLocation>
+</LanguageData>

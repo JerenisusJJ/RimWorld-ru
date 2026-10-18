@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <UnnaturalDarkness.questContentRules.rulesStrings>
+    <li>initialPhaseLetterLabel-&gt;Меркнущее небо</li>
+    <li>initialPhaseLetterText-&gt;Небо становится темнее. Скоро без света ламп и факелов будет совсем ничего не видно.\n\nЧтобы выжить, стройте освещённые комплексы сооружений. Создавайте ранцы с ракетами-дизрапторами, чтобы исследовать темноту.</li>
+    <li>mainPhaseLetterLabel-&gt;Неестественная темнота</li>
+    <li>mainPhaseLetterText-&gt;На поселение опускается неестественная темнота. Везде, где нет света, теперь ходят нелюди.\n\nС небес падают столбы из заострённого маслянистого металла. На них неприятно даже смотреть, но они почти наверняка созданы с использованием ценных технологий. Проложите к ним хорошо освещённые пути и уничтожьте их, чтобы положить конец этому кошмару.\n\nЕсли вы продержитесь достаточно долго, тьма отступит сама.</li>
+    <li>darknessLiftedLetterLabel-&gt;Тьма отступает</li>
+    <li>darknessLiftedLetterText-&gt;Неестественная темнота начала отступать. Металлические столбы сложились внутрь себя и исчезли. Вы выжили!</li>
+  </UnnaturalDarkness.questContentRules.rulesStrings>
+  <UnnaturalDarkness.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;</li>
+  </UnnaturalDarkness.questDescriptionRules.rulesStrings>
+  <UnnaturalDarkness.questNameRules.rulesStrings>
+    <li>questDescription-&gt;неестественная темнота</li>
+  </UnnaturalDarkness.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Alligator.label>аллигатор</Alligator.label>
+  <Alligator.description>Крупная полуводная рептилия с мощными челюстями. На суше аллигаторы медлительны, но в воде они смертельно опасны.</Alligator.description>
+  <Alligator.tools.left_claw.label>левая лапа</Alligator.tools.left_claw.label>
+  <Alligator.tools.left_claw.labelNoLocation>лапа</Alligator.tools.left_claw.labelNoLocation>
+  <Alligator.tools.right_claw.label>правая лапа</Alligator.tools.right_claw.label>
+  <Alligator.tools.right_claw.labelNoLocation>лапа</Alligator.tools.right_claw.labelNoLocation>
+  <Alligator.tools.head.label>голова</Alligator.tools.head.label>
+  <AlphaThrumbo.label>альфа-трумбо</AlphaThrumbo.label>
+  <AlphaThrumbo.description>Огромное, изящное существо неизвестного происхождения. Альфа-трумбо встречаются ещё реже и представляют куда большую опасность, чем обычные трумбо. Их шкуру почти невозможно пробить, а их острый рог ценится дороже золота.\n\nАльфа-трумбо — одни из самых долгоживущих подвижных существ во вселенной. Некоторые племена считают, что они помнят и ментально передают всё, что когда-либо испытали, своему потомству, так что память каждого из них уходит в глубину тысячелетий.</AlphaThrumbo.description>
+  <AlphaThrumbo.tools.horn.label>рог</AlphaThrumbo.tools.horn.label>
+  <AlphaThrumbo.tools.left_foot.label>левая лапа</AlphaThrumbo.tools.left_foot.label>
+  <AlphaThrumbo.tools.left_foot.labelNoLocation>лапа</AlphaThrumbo.tools.left_foot.labelNoLocation>
+  <AlphaThrumbo.tools.right_foot.label>правая лапа</AlphaThrumbo.tools.right_foot.label>
+  <AlphaThrumbo.tools.right_foot.labelNoLocation>лапа</AlphaThrumbo.tools.right_foot.labelNoLocation>
+  <AlphaThrumbo.tools.head.label>голова</AlphaThrumbo.tools.head.label>
+  <Armadillo.label>броненосец</Armadillo.label>
+  <Armadillo.description>Маленькое млекопитающее с кожистой броней по всему телу. Удивительно, что при таких коротких ногах броненосец весьма быстр.</Armadillo.description>
+  <Armadillo.tools.left_claw.label>левая лапа</Armadillo.tools.left_claw.label>
+  <Armadillo.tools.left_claw.labelNoLocation>лапа</Armadillo.tools.left_claw.labelNoLocation>
+  <Armadillo.tools.right_claw.label>правая лапа</Armadillo.tools.right_claw.label>
+  <Armadillo.tools.right_claw.labelNoLocation>лапа</Armadillo.tools.right_claw.labelNoLocation>
+  <Armadillo.tools.head.label>голова</Armadillo.tools.head.label>
+  <Badger.label>барсук</Badger.label>
+  <Badger.description>Крепкое всеядное млекопитающее. Барсуки удивительно выносливы для своего размера.</Badger.description>
+  <Badger.tools.left_claw.label>левая лапа</Badger.tools.left_claw.label>
+  <Badger.tools.left_claw.labelNoLocation>лапа</Badger.tools.left_claw.labelNoLocation>
+  <Badger.tools.right_claw.label>правая лапа</Badger.tools.right_claw.label>
+  <Badger.tools.right_claw.labelNoLocation>лапа</Badger.tools.right_claw.labelNoLocation>
+  <Badger.tools.head.label>голова</Badger.tools.head.label>
+  <BogHound.label>болотная гончая</BogHound.label>
+  <BogHound.description>Происходящие от домашних собак, эти псы давно отвыкли от общества людей. Они искусные падальщики, способные выживать в чрезвычайно токсичных условиях. Болотных гончих приручить гораздо сложнее, чем их домашних собратьев, и они куда опаснее.</BogHound.description>
+  <BogHound.tools.left_claw.label>левая лапа</BogHound.tools.left_claw.label>
+  <BogHound.tools.left_claw.labelNoLocation>лапа</BogHound.tools.left_claw.labelNoLocation>
+  <BogHound.tools.right_claw.label>правая лапа</BogHound.tools.right_claw.label>
+  <BogHound.tools.right_claw.labelNoLocation>лапа</BogHound.tools.right_claw.labelNoLocation>
+  <BogHound.tools.head.label>голова</BogHound.tools.head.label>
+  <Bullfrog.label>лягушка-бык</Bullfrog.label>
+  <Bullfrog.description>Крупная лягушка, известная своим громким кваканьем. Лапки лягушки-быка считаются деликатесом на некоторых планетах.</Bullfrog.description>
+  <Bullfrog.tools.head.label>голова</Bullfrog.tools.head.label>
+  <Cat_Scimitar.label>скимитаркот</Cat_Scimitar.label>
+  <Cat_Scimitar.description>Биоинженерный хищник, напоминающий своего давно вымершего тезку. Изначально выведенные для охотничьих резерватов на ледяных мирах, сейчас скимитаркоты — частые домашние животные среди знати глиттермиров. Их ярость не стоит недооценивать.</Cat_Scimitar.description>
+  <Cat_Scimitar.tools.left_claw.label>левая лапа</Cat_Scimitar.tools.left_claw.label>
+  <Cat_Scimitar.tools.left_claw.labelNoLocation>лапа</Cat_Scimitar.tools.left_claw.labelNoLocation>
+  <Cat_Scimitar.tools.right_claw.label>правая лапа</Cat_Scimitar.tools.right_claw.label>
+  <Cat_Scimitar.tools.right_claw.labelNoLocation>лапа</Cat_Scimitar.tools.right_claw.labelNoLocation>
+  <Cat_Scimitar.tools.head.label>голова</Cat_Scimitar.tools.head.label>
+  <ColossusToad.label>гигантская жаба</ColossusToad.label>
+  <ColossusToad.description>Огромная лягушка, выведенная для промышленных ферм. Её мясо безопасно для употребления, но толстая кожа выделяет неприятную слизь.</ColossusToad.description>
+  <ColossusToad.tools.head.label>голова</ColossusToad.tools.head.label>
+  <Gorilla.label>горилла</Gorilla.label>
+  <Gorilla.description>Огромная и умная человекообразная обезьяна. Обычно гориллы спокойны, но в ярости они внушают ужас.</Gorilla.description>
+  <Gorilla.tools.left_fist.label>левый кулак</Gorilla.tools.left_fist.label>
+  <Gorilla.tools.left_fist.labelNoLocation>кулак</Gorilla.tools.left_fist.labelNoLocation>
+  <Gorilla.tools.right_fist.label>правый кулак</Gorilla.tools.right_fist.label>
+  <Gorilla.tools.right_fist.labelNoLocation>кулак</Gorilla.tools.right_fist.labelNoLocation>
+  <Gorilla.tools.head.label>голова</Gorilla.tools.head.label>
+  <Hippo.label>бегемот</Hippo.label>
+  <Hippo.description>Огромное полуводное млекопитающее с короткими крепкими ногами. Хотя бегемот травоядный, в случае опасности он может атаковать с ужасающей силой. Его мощная пасть способна дробить кости и броню.</Hippo.description>
+  <Hippo.tools.head.label>голова</Hippo.tools.head.label>
+  <LavaSnail.label>лавовая улитка</LavaSnail.label>
+  <LavaSnail.description>Крупный медленно передвигающийся моллюск. Родом с вулканической планеты Нучандус, эти улитки были выведены для фермерских хозяйств. Их кожа выделяет густую слизь, защищающую от экстремальных температур.</LavaSnail.description>
+  <LavaSnail.tools.head.label>голова</LavaSnail.tools.head.label>
+  <Mastodon.label>мастодонт</Mastodon.label>
+  <Mastodon.description>Огромное млекопитающее, напоминающее слона. Когда-то мастодонты считались вымершими, но теперь из-за своей стойкости к суровому холоду они поселились на множестве миров. Их толстая шкура отлично подходит для пошива теплой одежды. Однако ловить их даже опытным охотникам крайне опасно.</Mastodon.description>
+  <Mastodon.tools.tusk.label>бивень</Mastodon.tools.tusk.label>
+  <Mastodon.tools.left_foot.label>левая нога</Mastodon.tools.left_foot.label>
+  <Mastodon.tools.left_foot.labelNoLocation>нога</Mastodon.tools.left_foot.labelNoLocation>
+  <Mastodon.tools.right_foot.label>правая нога</Mastodon.tools.right_foot.label>
+  <Mastodon.tools.right_foot.labelNoLocation>нога</Mastodon.tools.right_foot.labelNoLocation>
+  <Mastodon.tools.head.label>голова</Mastodon.tools.head.label>
+  <Megavole.label>мегаполевка</Megavole.label>
+  <Megavole.description>Крупный роющий грызун, выведенный из-за своих размеров и силы. Почти полностью слеп, но может быть весьма агрессивным, если его загнать в угол. На некоторых примитивных мирах мегаполевок обучают добывать ценные полезные ископаемые.</Megavole.description>
+  <Megavole.tools.left_claw.label>левая лапка</Megavole.tools.left_claw.label>
+  <Megavole.tools.left_claw.labelNoLocation>лапка</Megavole.tools.left_claw.labelNoLocation>
+  <Megavole.tools.right_claw.label>правая лапка</Megavole.tools.right_claw.label>
+  <Megavole.tools.right_claw.labelNoLocation>лапка</Megavole.tools.right_claw.labelNoLocation>
+  <Megavole.tools.head.label>голова</Megavole.tools.head.label>
+  <Mink.label>норка</Mink.label>
+  <Mink.description>Маленькое полуводное млекопитающее. Благодаря высокой ценности меха норок разводят на фермах на многих планетах.</Mink.description>
+  <Mink.tools.left_claw.label>левая лапа</Mink.tools.left_claw.label>
+  <Mink.tools.left_claw.labelNoLocation>лапа</Mink.tools.left_claw.labelNoLocation>
+  <Mink.tools.right_claw.label>правая лапа</Mink.tools.right_claw.label>
+  <Mink.tools.right_claw.labelNoLocation>лапа</Mink.tools.right_claw.labelNoLocation>
+  <Mink.tools.head.label>голова</Mink.tools.head.label>
+  <MonitorLizard.label>варан</MonitorLizard.label>
+  <MonitorLizard.description>Крупная ядовитая ящерица. Выделяет токсины из ядовитых желез в нижней челюсти, чтобы обездвиживать жертву.</MonitorLizard.description>
+  <MonitorLizard.tools.left_claw.label>левая лапа</MonitorLizard.tools.left_claw.label>
+  <MonitorLizard.tools.left_claw.labelNoLocation>лапа</MonitorLizard.tools.left_claw.labelNoLocation>
+  <MonitorLizard.tools.right_claw.label>правая лапа</MonitorLizard.tools.right_claw.label>
+  <MonitorLizard.tools.right_claw.labelNoLocation>лапа</MonitorLizard.tools.right_claw.labelNoLocation>
+  <MonitorLizard.tools.head.label>голова</MonitorLizard.tools.head.label>
+  <Moose.label>лось</Moose.label>
+  <Moose.description>Один из самых крупных представителей оленевых, приспособленный к жизни в крайне холодном климате. Длинные ноги позволяют этому животному легко передвигаться по глубокому снегу.</Moose.description>
+  <Moose.tools.left_hoof.label>левое копыто</Moose.tools.left_hoof.label>
+  <Moose.tools.left_hoof.labelNoLocation>копыто</Moose.tools.left_hoof.labelNoLocation>
+  <Moose.tools.right_hoof.label>правое копыто</Moose.tools.right_hoof.label>
+  <Moose.tools.right_hoof.labelNoLocation>копыто</Moose.tools.right_hoof.labelNoLocation>
+  <Moose.tools.head.label>голова</Moose.tools.head.label>
+  <Muskox.label>овцебык</Muskox.label>
+  <Muskox.description>Пушистое парнокопытное млекопитающее, обитающее в холодных районах. Шерсть овцебыка известна своей жесткостью, но отлично защищает от холода.</Muskox.description>
+  <Muskox.tools.left_hoof.label>левое копыто</Muskox.tools.left_hoof.label>
+  <Muskox.tools.left_hoof.labelNoLocation>копыто</Muskox.tools.left_hoof.labelNoLocation>
+  <Muskox.tools.right_hoof.label>правое копыто</Muskox.tools.right_hoof.label>
+  <Muskox.tools.right_hoof.labelNoLocation>копыто</Muskox.tools.right_hoof.labelNoLocation>
+  <Muskox.tools.head.label>голова</Muskox.tools.head.label>
+  <Panda.label>панда</Panda.label>
+  <Panda.description>Медлительный, неуклюжий травоядный зверь. Многие обожают панд за их нелепое очарование, из-за чего они часто становятся домашними питомцами на урбмирах. На окраине галактики панд редко можно встретить на воле.</Panda.description>
+  <Panda.tools.left_claw.label>левая лапа</Panda.tools.left_claw.label>
+  <Panda.tools.left_claw.labelNoLocation>лапа</Panda.tools.left_claw.labelNoLocation>
+  <Panda.tools.right_claw.label>правая лапа</Panda.tools.right_claw.label>
+  <Panda.tools.right_claw.labelNoLocation>лапа</Panda.tools.right_claw.labelNoLocation>
+  <Panda.tools.head.label>голова</Panda.tools.head.label>
+  <Porcupine.label>дикобраз</Porcupine.label>
+  <Porcupine.description>Крупный грызун. Передвигается медленно, но зато его защищают острые иглы, предохраняющие от нападений хищников.</Porcupine.description>
+  <Porcupine.tools.left_claw.label>левая лапа</Porcupine.tools.left_claw.label>
+  <Porcupine.tools.left_claw.labelNoLocation>лапа</Porcupine.tools.left_claw.labelNoLocation>
+  <Porcupine.tools.right_claw.label>правая лапа</Porcupine.tools.right_claw.label>
+  <Porcupine.tools.right_claw.labelNoLocation>лапа</Porcupine.tools.right_claw.labelNoLocation>
+  <Porcupine.tools.head.label>голова</Porcupine.tools.head.label>
+  <PrairieDog.label>луговая собачка</PrairieDog.label>
+  <PrairieDog.description>Норный грызун с коротким хвостом и острыми когтями для рытья земли. Стайные животные, обычно живут крупными колониями.</PrairieDog.description>
+  <PrairieDog.tools.left_claw.label>левая лапа</PrairieDog.tools.left_claw.label>
+  <PrairieDog.tools.left_claw.labelNoLocation>лапа</PrairieDog.tools.left_claw.labelNoLocation>
+  <PrairieDog.tools.right_claw.label>правая лапа</PrairieDog.tools.right_claw.label>
+  <PrairieDog.tools.right_claw.labelNoLocation>лапа</PrairieDog.tools.right_claw.labelNoLocation>
+  <PrairieDog.tools.head.label>голова</PrairieDog.tools.head.label>
+  <Tiger.label>тигр</Tiger.label>
+  <Tiger.description>Крайне опасный хищник-одиночка. Тигры быстро расправляются со своей добычей благодаря скрытности и острым когтям.</Tiger.description>
+  <Tiger.tools.left_claw.label>левая лапа</Tiger.tools.left_claw.label>
+  <Tiger.tools.left_claw.labelNoLocation>лапа</Tiger.tools.left_claw.labelNoLocation>
+  <Tiger.tools.right_claw.label>правая лапа</Tiger.tools.right_claw.label>
+  <Tiger.tools.right_claw.labelNoLocation>лапа</Tiger.tools.right_claw.labelNoLocation>
+  <Tiger.tools.head.label>голова</Tiger.tools.head.label>
+  <Wolf_Great.label>великий волк</Wolf_Great.label>
+  <Wolf_Great.description>Генетически модифицированный вид, созданный по образцу давно вымерших лютоволков. Эти грозные хищники были выведены как домашние животные для знати глиттермиров. Дикие великие волки довольно свободолюбивы и часто сбегают из неволи, а потому теперь населяют многие планеты.</Wolf_Great.description>
+  <Wolf_Great.race.meatLabel>мясо великого волка</Wolf_Great.race.meatLabel>
+  <Wolf_Great.tools.left_claw.label>левая лапа</Wolf_Great.tools.left_claw.label>
+  <Wolf_Great.tools.left_claw.labelNoLocation>лапа</Wolf_Great.tools.left_claw.labelNoLocation>
+  <Wolf_Great.tools.right_claw.label>правая лапа</Wolf_Great.tools.right_claw.label>
+  <Wolf_Great.tools.right_claw.labelNoLocation>лапа</Wolf_Great.tools.right_claw.labelNoLocation>
+  <Wolf_Great.tools.head.label>голова</Wolf_Great.tools.head.label>
+  <Wolverine.label>росомаха</Wolverine.label>
+  <Wolverine.description>Маленький, но свирепый хищник. Росомахи — одиночки, предпочитающие питаться падалью, но при необходимости могут убить животное, в несколько раз превышающее их по размеру.</Wolverine.description>
+  <Wolverine.tools.left_claw.label>левая лапа</Wolverine.tools.left_claw.label>
+  <Wolverine.tools.left_claw.labelNoLocation>лапа</Wolverine.tools.left_claw.labelNoLocation>
+  <Wolverine.tools.right_claw.label>правая лапа</Wolverine.tools.right_claw.label>
+  <Wolverine.tools.right_claw.labelNoLocation>лапа</Wolverine.tools.right_claw.labelNoLocation>
+  <Wolverine.tools.head.label>голова</Wolverine.tools.head.label>
+</LanguageData>

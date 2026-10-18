@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Artillery_AutoMortar.label>автоминомёт</Artillery_AutoMortar.label>
+  <Artillery_AutoMortar.verbs.Verb_Shoot.label>автоминомёт</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+  <Gun_ChargeBlasterHeavyTurret.label>лёгкий бластер</Gun_ChargeBlasterHeavyTurret.label>
+  <Gun_ChargeBlasterHeavyTurret.description>Скорострельный энергетический бластер для ведения огня на подавление.</Gun_ChargeBlasterHeavyTurret.description>
+  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>ствол</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+  <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>лёгкий бластер</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
+  <Gun_InfernoCannonTurret.label>инферно-пушка</Gun_InfernoCannonTurret.label>
+  <Gun_InfernoCannonTurret.description>Миниатюрное артиллерийское орудие. Стреляет одиночными зажигательными снарядами.</Gun_InfernoCannonTurret.description>
+  <Gun_InfernoCannonTurret.tools.barrel.label>ствол</Gun_InfernoCannonTurret.tools.barrel.label>
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>инферно-пушка</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+  <Turret_AutoChargeBlaster.label>автоматическая турель с бластером</Turret_AutoChargeBlaster.label>
+  <Turret_AutoChargeBlaster.description>Турель с энергетическим бластером и автономным источником питания. Не может обнаруживать цели на очень близкой дистанции.</Turret_AutoChargeBlaster.description>
+  <Turret_AutoInferno.label>автоматическая инферно-турель</Turret_AutoInferno.label>
+  <Turret_AutoInferno.description>Турель с инферно-пушкой и автономным источником питания. Не может обнаруживать цели на очень близкой дистанции.</Turret_AutoInferno.description>
+  <Turret_AutoMortar.label>автоматическая турель-миномёт</Turret_AutoMortar.label>
+  <Turret_AutoMortar.description>Самозарядная автоматическая турель-миномёт с автономным источником питания. Может поражать цели на любой дистанции, даже через стены, но обладает низкой точностью.</Turret_AutoMortar.description>
+</LanguageData>

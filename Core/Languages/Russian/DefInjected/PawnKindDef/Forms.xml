@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Blindhealer.label>незрячий лекарь</Blindhealer.label>
+  <Blindhealer.letterLabel>К поселению приближается незрячий лекарь.</Blindhealer.letterLabel>
+  <Blindhealer.letterPrompt>Перед вами стоит {PAWN_genderNoun} небольшого роста и с болезненной худобой. Вместо глаз — две полости, затянутые шрамами. Но даже так вам кажется, что {PAWN_gender ? новоприбывший : новоприбывшая} смотрит на вас с теплотой. {PAWN_pronoun} говорит, что {PAWN_possessive} навыки будут вам полезны, и хочет остаться на какое-то время.</Blindhealer.letterPrompt>
+  <CreepDrifter.label>скиталец</CreepDrifter.label>
+  <CreepDrifter.letterLabel>К поселению приближается посетитель.</CreepDrifter.letterLabel>
+  <CreepDrifter.letterPrompt>Перед вами стоит измождённый путник. {PAWN_gender ? Он : Она} еле держится на ногах и просит пустить {PAWN_possessive} в поселение, по крайней мере пока {PAWN_pronoun} вновь не наберётся сил.\n\n</CreepDrifter.letterPrompt>
+  <CultEscapee.label>беглец из секты</CultEscapee.label>
+  <CultEscapee.letterLabel>К поселению приближается дрожащая фигура.</CultEscapee.letterLabel>
+  <CultEscapee.letterPrompt>{PAWN_genderNoun} смотрит на вас пустым взглядом и еле стоит на ногах. {PAWN_pronoun} рассказывает, что {PAWN_gender ? сбежал : сбежала} из ужасной секты, и умоляет вас принять {PAWN_possessive} в поселение.</CultEscapee.letterPrompt>
+  <DarkScholar.label>тёмный учёный</DarkScholar.label>
+  <DarkScholar.letterLabel>К поселению приближается тёмный учёный, обезображенный уродливыми шрамами.</DarkScholar.letterLabel>
+  <DarkScholar.letterPrompt>{PAWN_pronoun} сгорбился, стоит безмолвно, будто {PAWN_gender ? неживой : неживая}. И только глаза {PAWN_possessive} подвижны, готовы заглянуть вам в самую душу.\n\n{PAWN_pronoun} говорит, что здесь {PAWN_possessive} место, и просит остаться на какое-то время. Судя по {PAWN_possessive} тону, отказа {PAWN_pronoun} не примет.</DarkScholar.letterPrompt>
+  <DealMaker.label>делец</DealMaker.label>
+  <DealMaker.letterLabel>К поселению уверенно шагает крайне {PAWN_gender ? привлекательный : привлекательная} {PAWN_gender ? незнакомец : незнакомка}.</DealMaker.letterLabel>
+  <DealMaker.letterPrompt>Это {PAWN_genderNoun} в хорошей одежде и с решительным лицом. {PAWN_pronoun} делает широкий приветственный жест и предлагает сделку, обещая помогать вам в обмен на гостеприимство. Такова {PAWN_possessive} цель, а своих целей {PAWN_pronoun} всегда добивается.\n\n</DealMaker.letterPrompt>
+  <LeatheryStranger.label>толстокожий незнакомец</LeatheryStranger.label>
+  <LeatheryStranger.letterLabel>К вашему поселению приближается человек в лохмотьях и с необычайно грубой кожей.</LeatheryStranger.letterLabel>
+  <LeatheryStranger.letterPrompt>{PAWN_pronoun} смотрит прямо перед собой и говорит так, будто ничего вокруг не замечает. {PAWN_pronoun} отказывается покидать ваше поселение, потому что хочет остаться именно здесь, и предлагает взамен помощь.</LeatheryStranger.letterPrompt>
+  <LoneGenius.label>одинокий гений</LoneGenius.label>
+  <LoneGenius.letterLabel>К поселению приближается одинокая фигура.</LoneGenius.letterLabel>
+  <LoneGenius.letterPrompt>Перед вами {PAWN_genderNoun}, {PAWN_gender ? который : которая} твердит о каком-то научном открытии и просит лабораторию. Если вы оставите {PAWN_possessive} в поселении, {PAWN_pronoun} поделится с вами немалыми знаниями. Пока сложно сказать, что это — безумие или гениальность.</LoneGenius.letterPrompt>
+  <TimelessOne.label>обманувший время</TimelessOne.label>
+  <TimelessOne.letterLabel>К вашему поселению приближается подросток. {PAWN_pronoun} излучает какую-то мистическую уверенность.</TimelessOne.letterLabel>
+  <TimelessOne.letterPrompt>{PAWN_nameDef} ещё совсем дитя, но в {PAWN_possessive} глазах застыла древняя мудрость. Когда {PAWN_pronoun} заговаривает с вами, {PAWN_possessive} голос звучит неестественно, будто сквозь века. {PAWN_pronoun} говорит, что сюда {PAWN_possessive} привели звёзды, что такова судьба. {PAWN_pronoun} хочет остаться и помогать вам.</TimelessOne.letterPrompt>
+</LanguageData>

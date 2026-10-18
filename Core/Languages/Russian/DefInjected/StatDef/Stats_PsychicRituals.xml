@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PsychicRitualQuality.label>качество псионических ритуалов</PsychicRitualQuality.label>
+  <PsychicRitualQuality.description>Насколько близлежащие постройки влияют на качество псионических ритуалов, проводимых в этом месте.</PsychicRitualQuality.description>
+  <PsychicRitualQualityOffset.label>прирост качества псионических ритуалов</PsychicRitualQualityOffset.label>
+  <PsychicRitualQualityOffset.description>Прирост применяется к качеству псионического ритуала, когда этот человек в нём задействован. Общий прирост качества делится на число людей, задействованных в ритуале.</PsychicRitualQualityOffset.description>
+</LanguageData>

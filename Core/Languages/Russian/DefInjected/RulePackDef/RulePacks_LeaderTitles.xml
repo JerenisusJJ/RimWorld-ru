@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+    <li>memeLeaderNoun(priority=1)-&gt;[cultureLeaderNoun]</li>
+    <li>cultureLeaderTitle-&gt;[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective-&gt;великий</li>
+    <li>cultureLeaderAdjective-&gt;первый</li>
+    <li>cultureLeaderAdjective-&gt;величайший</li>
+    <li>cultureLeaderAdjective-&gt;высший</li>
+    <li>cultureLeaderNoun-&gt;вождь</li>
+  </LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+    <li>cultureLeaderAdjective-&gt;высший</li>
+    <li>cultureLeaderAdjective-&gt;великий</li>
+    <li>cultureLeaderAdjective-&gt;первый</li>
+    <li>cultureLeaderAdjective-&gt;величайший</li>
+    <li>cultureLeaderNoun-&gt;президент</li>
+    <li>cultureLeaderNoun-&gt;директор</li>
+    <li>cultureLeaderNoun-&gt;правитель</li>
+    <li>cultureLeaderNoun-&gt;лидер</li>
+  </LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+    <li>r_leaderTitle(p=6)-&gt;[memeLeaderAdjective] [memeLeaderNoun]</li>
+    <li>r_leaderTitle(p=3)-&gt;[cultureLeaderAdjective] [memeLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)-&gt;[memeLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)-&gt;[cultureLeaderTitle]</li>
+  </LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+    <li>memeLeaderNoun(priority=1)-&gt;[cultureLeaderNoun]</li>
+    <li>cultureLeaderTitle-&gt;[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective-&gt;большой</li>
+    <li>cultureLeaderAdjective-&gt;главный</li>
+    <li>cultureLeaderAdjective-&gt;важный</li>
+    <li>cultureLeaderNoun-&gt;босс</li>
+    <li>cultureLeaderNoun-&gt;бандит</li>
+    <li>cultureLeaderNoun-&gt;человек</li>
+    <li>cultureLeaderNoun-&gt;шеф</li>
+    <li>cultureLeaderNoun-&gt;начальник</li>
+    <li>cultureLeaderNoun-&gt;авторитет</li>
+    <li>cultureLeaderNoun-&gt;вор</li>
+  </LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+    <li>cultureLeaderTitle-&gt;[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective-&gt;величайший</li>
+    <li>cultureLeaderAdjective-&gt;высший</li>
+    <li>cultureLeaderNoun-&gt;консул</li>
+    <li>cultureLeaderNoun-&gt;лидер</li>
+    <li>cultureLeaderNoun-&gt;министр</li>
+    <li>cultureLeaderNoun-&gt;предводитель</li>
+    <li>cultureLeaderNoun-&gt;правитель</li>
+  </LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+  <LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+    <li>r_leaderTitle-&gt;Высший Стелларх</li>
+  </LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+</LanguageData>

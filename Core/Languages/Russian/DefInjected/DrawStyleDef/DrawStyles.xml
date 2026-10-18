@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AngledLine.label>наклонная линия</AngledLine.label>
+  <EmptyOval.label>овальный контур</EmptyOval.label>
+  <EmptyRectangle.label>прямоугольный контур</EmptyRectangle.label>
+  <FilledOval.label>сплошной овал</FilledOval.label>
+  <FilledRectangle.label>сплошной прямоугольник</FilledRectangle.label>
+  <Line.label>линия</Line.label>
+</LanguageData>

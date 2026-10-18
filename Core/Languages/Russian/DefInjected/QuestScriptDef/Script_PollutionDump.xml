@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PollutionDump.questContentRules.rulesStrings>
+    <li>wastepacksLetterLabel-&gt;Отходы прибыли</li>
+    <li>wastepacksLetterText-&gt;Мешки с токсичными отходами доставлены.</li>
+  </PollutionDump.questContentRules.rulesStrings>
+  <PollutionDump.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==True)-&gt;У ИИ-личности на орбитальном корабле есть для вас особая просьба. Она хочет выгрузить избыток токсичных отходов и надеется, что вы позаботитесь об их хранении.\n\nЕсли вы возьмётесь за это, то она отправит вам транспортные капсулы, содержащие мешки отходов в количестве [wastepackCount] шт.\n\nМешки отходов следует хранить при отрицательной температуре, иначе они будут растворяться, а их содержимое будет загрязнять окружающую среду.</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)-&gt;У [asker_nameFull], [asker_royalTitleInCurrentFaction] из фракции [asker_faction_name], есть особая просьба. У н[asker_possessive] скопились токсичные отходы, которые [asker_pronoun] не хочет хранить у себя.\n\nЕсли вы возьмётесь за это, то [asker_nameDef] отправит вам транспортные капсулы, содержащие мешки отходов в количестве [wastepackCount] шт.\n\nМешки отходов следует хранить при отрицательной температуре, иначе они будут растворяться, а их содержимое будет загрязнять окружающую среду.</li>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_faction_leaderTitle] [asker_nameFull] из фракции [asker_faction_name] просит вас об одолжении. Кто-то сбросил токсичные отходы около [asker_possessive] поселения, и [asker_pronoun] не имеет возможности безопасно хранить их.\n\nЕсли вы возьмётесь за это дело, то [asker_nameDef] отправит вам транспортные капсулы, содержащие мешки отходов в количестве [wastepackCount] шт.\n\nМешки отходов следует хранить при отрицательной температуре, иначе они будут растворяться, а их содержимое будет загрязнять окружающую среду.</li>
+  </PollutionDump.questDescriptionRules.rulesStrings>
+  <PollutionDump.questNameRules.rulesStrings>
+    <li>questName-&gt;[dump] [waste]</li>
+    <li>questName(askerIsNull==False)-&gt;[asker_faction_pawnSingular] и [dump] [waste]</li>
+    <li>questName(askerIsNull==False,asker_royalInCurrentFaction==False)-&gt;[asker_nameDef] и [dump] [waste]</li>
+    <li>waste-&gt;отходов</li>
+    <li>waste-&gt;ядовитых веществ</li>
+    <li>waste-&gt;токсинов</li>
+    <li>waste-&gt;мешков с отходами</li>
+    <li>dump-&gt;свалка</li>
+    <li>dump-&gt;сброс</li>
+    <li>dump-&gt;уничтожение</li>
+    <li>dump-&gt;избавление от</li>
+  </PollutionDump.questNameRules.rulesStrings>
+</LanguageData>

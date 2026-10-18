@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bullet_Shell_Deadlife.label>капсула с порошком мёртвой жизни</Bullet_Shell_Deadlife.label>
+  <GhoulResurrectionSerum.label>сыворотка воскрешения упыря</GhoulResurrectionSerum.label>
+  <GhoulResurrectionSerum.description>Капсула с густой серой жидкостью из порошка мёртвой жизни и сложных биохимикатов. Вколите её в труп упыря, и тот снова оживёт. На полное воскрешение уйдёт несколько часов.</GhoulResurrectionSerum.description>
+  <GhoulResurrectionSerum.comps.CompUsable.useLabel>Использовать: {0_label}</GhoulResurrectionSerum.comps.CompUsable.useLabel>
+  <JuggernautSerum.label>сыворотка сокрушительной силы</JuggernautSerum.label>
+  <JuggernautSerum.description>Шприц с непрозрачной желтоватой жидкостью, которая увеличивает силу и скорость, а также позволяет быстрее восстанавливаться после травм. Вводится внутримышечно и ускоряет метаболические процессы. При этом нестабильность вещества плохо сказывается на психике — у пациента появляются тревожные мысли и резко портится настроение.</JuggernautSerum.description>
+  <JuggernautSerum.comps.CompUsable.useLabel>Использовать: {0_label}</JuggernautSerum.comps.CompUsable.useLabel>
+  <JuggernautSerum.ingestible.ingestCommandString>Ввести: {0}</JuggernautSerum.ingestible.ingestCommandString>
+  <JuggernautSerum.ingestible.ingestReportString>В процессе введения: {0}</JuggernautSerum.ingestible.ingestReportString>
+  <MetalbloodSerum.label>сыворотка железной крови</MetalbloodSerum.label>
+  <MetalbloodSerum.description>Шприц с рыжеватой жидкостью, которая непрерывно затвердевает и возвращается в исходное состояние. Попадая в кровоток, она заставляет плоть твердеть, что снижает получаемый урон. Но, так как в основе сыворотки биоферрит, поселенец становится крайне уязвимым к огню.</MetalbloodSerum.description>
+  <MetalbloodSerum.comps.CompUsable.useLabel>Использовать: {0_label}</MetalbloodSerum.comps.CompUsable.useLabel>
+  <MetalbloodSerum.ingestible.ingestCommandString>Ввести: {0}</MetalbloodSerum.ingestible.ingestCommandString>
+  <MetalbloodSerum.ingestible.ingestReportString>В процессе введения: {0}</MetalbloodSerum.ingestible.ingestReportString>
+  <MindNumbSerum.label>сыворотка притупления чувств</MindNumbSerum.label>
+  <MindNumbSerum.description>Шприц с прозрачной вязкой жидкостью. Впрыскивается в ствол мозга и притупляет его, после чего поселенец не способен ощущать сильные эмоции. Какое-то время у него не будет ни срывов, ни воодушевления.</MindNumbSerum.description>
+  <MindNumbSerum.comps.CompUsable.useLabel>Использовать: {0_label}</MindNumbSerum.comps.CompUsable.useLabel>
+  <MindNumbSerum.ingestible.ingestCommandString>Ввести: {0}</MindNumbSerum.ingestible.ingestCommandString>
+  <MindNumbSerum.ingestible.ingestReportString>В процессе введения: {0}</MindNumbSerum.ingestible.ingestReportString>
+  <Shell_Deadlife.label>снаряд с порошком мёртвой жизни</Shell_Deadlife.label>
+  <Shell_Deadlife.description>Артиллерийский снаряд с порошкообразным веществом, облако из которого превращает в ходячих мертвецов трупы всех животных и людей поблизости. Мертвецы атакуют только ваших врагов.\n\nСнаряд можно зарядить в миномёт или установить как ловушку. Взрывается при повреждении.</Shell_Deadlife.description>
+  <Shell_Deadlife_Releasing.label>капсула с порошком мёртвой жизни</Shell_Deadlife_Releasing.label>
+  <VoidsightSerum.label>сыворотка взгляда в пустоту</VoidsightSerum.label>
+  <VoidsightSerum.description>Стеклянная капсула с подвижной маслянистой жидкостью чёрного цвета. При введении в глаз вещество подавляет тормозные нейроны, отвечающие за восприятие мира, и позволяет осознавать тёмные пси-феномены. Это увеличивает объем знаний, получаемых при изучении противоестественных тварей, а также повышает психочувствительность и сказывается на настроении.\n\nЭффект временный и не суммируется.</VoidsightSerum.description>
+  <VoidsightSerum.comps.CompUsable.useLabel>Использовать: {0_label}</VoidsightSerum.comps.CompUsable.useLabel>
+  <VoidsightSerum.ingestible.ingestCommandString>Ввести: {0}</VoidsightSerum.ingestible.ingestCommandString>
+  <VoidsightSerum.ingestible.ingestReportString>В процессе введения: {0}</VoidsightSerum.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimalJaw.label>пасть</AnimalJaw.label>
+  <Antenna.label>усик</Antenna.label>
+  <Beak.label>клюв</Beak.label>
+  <Body.label>туловище</Body.label>
+  <Elytra.label>надкрылье</Elytra.label>
+  <FrontClaw.label>передний коготь</FrontClaw.label>
+  <FrontClaw.labelShort>коготь</FrontClaw.labelShort>
+  <HeadClaw.label>клешня</HeadClaw.label>
+  <HeadWithEarHoles.label>голова</HeadWithEarHoles.label>
+  <Hoof.label>копыто</Hoof.label>
+  <Horn.label>рог</Horn.label>
+  <Hump.label>горб</Hump.label>
+  <InsectHead.label>голова</InsectHead.label>
+  <InsectHeart.label>сердце</InsectHeart.label>
+  <InsectLeg.label>нога</InsectLeg.label>
+  <InsectMouth.label>рот</InsectMouth.label>
+  <InsectNostril.label>ноздря</InsectNostril.label>
+  <Jowl.label>челюсть</Jowl.label>
+  <Paw.label>лапа</Paw.label>
+  <Plastron.label>нижний щит</Plastron.label>
+  <Pronotum.label>переднеспинка</Pronotum.label>
+  <RearClaw.label>задний коготь</RearClaw.label>
+  <RearClaw.labelShort>коготь</RearClaw.labelShort>
+  <Shell.label>панцирь</Shell.label>
+  <SnakeBody.label>туловище</SnakeBody.label>
+  <SnakeHead.label>голова</SnakeHead.label>
+  <SnakeMouth.label>рот</SnakeMouth.label>
+  <Tail.label>хвост</Tail.label>
+  <Trunk.label>хобот</Trunk.label>
+  <TurtleBeak.label>клюв</TurtleBeak.label>
+  <TurtleShell.label>панцирь</TurtleShell.label>
+  <Tusk.label>бивень</Tusk.label>
+</LanguageData>

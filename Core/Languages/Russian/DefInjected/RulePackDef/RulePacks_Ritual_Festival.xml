@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerFestivalGlobal.rulePack.rulesStrings>
+    <li>festivalName(p=1)-&gt;[memeAdjective_masc] [festival_masc]</li>
+    <li>festivalName(p=1)-&gt;[memeAdjective_fem] [festival_fem]</li>
+    <li>festivalName(p=1)-&gt;[memeAdjective_neutral] [festival_neutral]</li>
+    <li>festivalName-&gt;[chosenAdjective] [festival_masc]</li>
+    <li>festivalName-&gt;[festival] [chosenTheme]</li>
+    <li>festivalName-&gt;[festival] [keyDeity]</li>
+    <li>festivalName-&gt;[festival] [memeConcept]</li>
+    <li>festival-&gt;[festival_masc]</li>
+    <li>festival-&gt;[festival_fem]</li>
+    <li>festival-&gt;[festival_neutral]</li>
+    <li>festival_masc-&gt;фестиваль</li>
+    <li>festival_masc-&gt;праздник</li>
+    <li>festival_fem-&gt;вечеринка</li>
+    <li>festival_fem-&gt;фиеста</li>
+    <li>festival_neutral-&gt;торжество</li>
+    <li>festival_neutral-&gt;празднество</li>
+  </NamerFestivalGlobal.rulePack.rulesStrings>
+  <NamerRitualFestival.rulePack.rulesStrings>
+    <li>r_ritualName-&gt;[festivalName]</li>
+  </NamerRitualFestival.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GlucosoidRush.label>глюкозоидное возбуждение</GlucosoidRush.label>
+  <GlucosoidRush.description>Скорость передвижения увеличена, так как во время торпора саркофаг был подключен к глюкозоидной помпе. Эффект продлится до следующего погружения в торпор.</GlucosoidRush.description>
+  <GlucosoidRush.extraTooltip>Эффект продлится до следующего погружения в торпор.</GlucosoidRush.extraTooltip>
+  <HemogenAmplified.label>гемогенное усиление</HemogenAmplified.label>
+  <HemogenAmplified.description>Получение гемогена увеличено от всех источников, так как во время торпора саркофаг был подключен к гемобустеру. Эффект продлится до следующего погружения в торпор.</HemogenAmplified.description>
+  <HemogenAmplified.extraTooltip>Эффект продлится до следующего погружения в торпор.</HemogenAmplified.extraTooltip>
+  <PsychofluidRush.label>пси-возбуждение</PsychofluidRush.label>
+  <PsychofluidRush.description>Психическая чувствительность повышена, так как во время торпора саркофаг был подключен к психопомпе. Эффект продлится до следующего погружения в торпор.</PsychofluidRush.description>
+  <PsychofluidRush.extraTooltip>Эффект продлится до следующего погружения в торпор.</PsychofluidRush.extraTooltip>
+</LanguageData>

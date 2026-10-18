@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Audio.label>аудио</Audio.label>
+  <Controls.label>управление</Controls.label>
+  <Dev.label>отладка</Dev.label>
+  <Gameplay.label>геймплей</Gameplay.label>
+  <General.label>общее</General.label>
+  <Graphics.label>графика</Graphics.label>
+  <Interface.label>интерфейс</Interface.label>
+  <Mods.label>настройки модов</Mods.label>
+</LanguageData>

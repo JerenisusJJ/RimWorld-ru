@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SelfShutdown.label>зарядка в режиме сна</SelfShutdown.label>
+  <SelfShutdown.description>Войти в режим сна, позволяющий очень медленно восстанавливать заряд без зарядной станции.</SelfShutdown.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HighLife.stages.high_life-0.label>жизнь под кайфом</HighLife.stages.high_life-0.label>
+  <HighLife.stages.high_life-0.description>Верный путь лежит через изменение своего сознания, и я следую ему.</HighLife.stages.high_life-0.description>
+  <HighLife.stages.high_life-1.label>жизнь под кайфом</HighLife.stages.high_life-1.label>
+  <HighLife.stages.high_life_missing-0.label>жизнь без кайфа</HighLife.stages.high_life_missing-0.label>
+  <HighLife.stages.high_life_missing-0.description>Я уже давно не {PAWN_gender ? изменял : изменяла} своё сознание. Так долго быть трезвым — неправильно.</HighLife.stages.high_life_missing-0.description>
+  <HighLife.stages.high_life_missing-1.label>жизнь без кайфа</HighLife.stages.high_life_missing-1.label>
+  <HighLife.stages.high_life_missing-1.description>Я уже давно не {PAWN_gender ? изменял : изменяла} своё сознание. Так долго быть трезвым — неправильно.</HighLife.stages.high_life_missing-1.description>
+</LanguageData>

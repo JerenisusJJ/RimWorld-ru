@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: default storage settings -->
+	<Storage.label>настройки хранилищ по умолчанию</Storage.label>
+	<!-- EN: Configure the default settings for stockpile zones, dumping stockpile zones, and storage buildings such as shelves. You can also create your own custom stockpile zone types with their own settings. -->
+	<Storage.description>Настройте параметры зон хранения, зон свалок и складских построек, например полок. Также можно создать собственные типы зон хранения с индивидуальными настройками.</Storage.description>
+</LanguageData>

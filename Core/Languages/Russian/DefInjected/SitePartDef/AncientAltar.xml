@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientAltar.label>комплекс с реликвией</AncientAltar.label>
+  <AncientAltar.description>Древний комплекс, внутри которого находится реликвия.</AncientAltar.description>
+  <AncientAltar.approachingReportString>Исследует {lookup: {0}; Case; 3}</AncientAltar.approachingReportString>
+  <AncientAltar.approachOrderString>Исследовать {lookup: {0}; Case; 3}</AncientAltar.approachOrderString>
+  <AncientAltar.arrivedLetter>В этой области находится древнее сооружение, содержащее в себе реликвию.</AncientAltar.arrivedLetter>
+</LanguageData>

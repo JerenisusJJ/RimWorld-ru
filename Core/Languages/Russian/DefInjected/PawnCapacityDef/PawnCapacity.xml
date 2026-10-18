@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BloodFiltration.label>фильтрация крови</BloodFiltration.label>
+  <BloodFiltration.labelDrones>пневматика</BloodFiltration.labelDrones>
+  <BloodFiltration.labelMechanoids>рециркуляция</BloodFiltration.labelMechanoids>
+  <BloodPumping.label>кровообращение</BloodPumping.label>
+  <BloodPumping.labelDrones>целостность батареи</BloodPumping.labelDrones>
+  <BloodPumping.labelMechanoids>энерговыработка</BloodPumping.labelMechanoids>
+  <Breathing.label>дыхание</Breathing.label>
+  <Consciousness.label>сознание</Consciousness.label>
+  <Consciousness.labelAnomalyEntity>чувствительность</Consciousness.labelAnomalyEntity>
+  <Consciousness.labelDrones>производительность</Consciousness.labelDrones>
+  <Consciousness.labelMechanoids>обработка данных</Consciousness.labelMechanoids>
+  <Eating.label>питание</Eating.label>
+  <Hearing.label>слух</Hearing.label>
+  <Manipulation.label>работа</Manipulation.label>
+  <Metabolism.label>пищеварение</Metabolism.label>
+  <Moving.label>движение</Moving.label>
+  <Sight.label>зрение</Sight.label>
+  <Talking.label>речь</Talking.label>
+  <Talking.labelMechanoids>связь</Talking.labelMechanoids>
+</LanguageData>

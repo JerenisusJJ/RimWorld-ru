@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientAmmoStack.label>ящик с древними боеприпасами</AncientAmmoStack.label>
+  <AncientAmmoStack.description>Контейнер с древними боеприпасами, почти пустой. Остатки патронов проржавели и больше не пригодны.</AncientAmmoStack.description>
+  <AncientAntenna.label>древняя антенна</AncientAntenna.label>
+  <AncientAntenna.description>Заржавевшая антенна, использовавшаяся для передачи давным-давно забытых сообщений.</AncientAntenna.description>
+  <AncientArmchair.label>древнее кресло</AncientArmchair.label>
+  <AncientArmchair.description>Потертое и порванное кресло. В его нынешнем состоянии оно не пригодно для использования.</AncientArmchair.description>
+  <AncientAutocannonTurret.label>сломанная автопушка</AncientAutocannonTurret.label>
+  <AncientAutocannonTurret.description>Автопушка с разбитым стволом. Система наведения отсутствует, а всё компоненты ржавые и настолько деформированы, что бесполезны.</AncientAutocannonTurret.description>
+  <AncientBarrierLong.label>большое бетонное ограждение</AncientBarrierLong.label>
+  <AncientBarrierLong.description>Бетонное ограждение, использовавшееся для блокирования пути транспортных средств.</AncientBarrierLong.description>
+  <AncientBathtub.label>потрескавшаяся ванна</AncientBathtub.label>
+  <AncientBathtub.description>Ванна с глубокими трещинами и следами ржавчины. Абсолютно не пригодна для использования.</AncientBathtub.description>
+  <AncientCardboardBox.label>старая картонная коробка</AncientCardboardBox.label>
+  <AncientCardboardBox.description>Размокшая картонная коробка, полная старого хлама.</AncientCardboardBox.description>
+  <AncientChembarrel.label>древняя химбочка</AncientChembarrel.label>
+  <AncientChembarrel.description>Заржавевшая бочка, где когда-то хранилось химтопливо. Теперь она пуста и проржавела.</AncientChembarrel.description>
+  <AncientChembarrelPallet.label>поддон с древними химбочками</AncientChembarrelPallet.label>
+  <AncientChembarrelPallet.description>Стопка ржавых бочек на сгнившем поддоне. Всё ценное топливо вытекло давным-давно.</AncientChembarrelPallet.description>
+  <AncientChemtruck.label>древний химгрузовик</AncientChemtruck.label>
+  <AncientChemtruck.description>Заброшенный грузовик для перевозки химтоплива. Всё пригодные детали давно разобраны.</AncientChemtruck.description>
+  <AncientColdStorage.label>древний холодильник</AncientColdStorage.label>
+  <AncientColdStorage.description>Старый холодильник, заржавел и не открывается. Всё его содержимое давно превратилось в прах.</AncientColdStorage.description>
+  <AncientCraneArm.label>рука сломанного крана</AncientCraneArm.label>
+  <AncientCraneArm.description>Заржавевшая, деформированная и сломанная рука крана.</AncientCraneArm.description>
+  <AncientCraneArmSmall.label>рука сломанного крана</AncientCraneArmSmall.label>
+  <AncientCraneArmSmall.description>Маленький обломок крановой стрелы, сломанный и заржавевший.</AncientCraneArmSmall.description>
+  <AncientCraneBase.label>основание сломанного крана</AncientCraneBase.label>
+  <AncientCraneBase.description>Основание большого промышленного крана.</AncientCraneBase.description>
+  <AncientCraneColumn.label>колонна сломанного крана</AncientCraneColumn.label>
+  <AncientCraneColumn.description>Вертикальная опорная колонна от разрушенного крана. Заржавела и уже неустойчива.</AncientCraneColumn.description>
+  <AncientCratePallet.label>древний поддон с ящиками</AncientCratePallet.label>
+  <AncientCratePallet.description>Поддон для ящиков. Всё содержимое давно разобрали мародеры.</AncientCratePallet.description>
+  <AncientDestroyedConsole.label>древняя разрушенная консоль</AncientDestroyedConsole.label>
+  <AncientDestroyedConsole.description>Разрушенная консоль. Теперь она полностью неработоспособна — всё годные детали разбиты или давно украдены.</AncientDestroyedConsole.description>
+  <AncientDestroyedConsoleLarge.label>древняя разрушенная консоль</AncientDestroyedConsoleLarge.label>
+  <AncientDestroyedConsoleLarge.description>Разрушенная консоль. Теперь она полностью неработоспособна — всё годные детали разбиты или давно украдены.</AncientDestroyedConsoleLarge.description>
+  <AncientDoubleBed.label>ржавая двуспальная кровать</AncientDoubleBed.label>
+  <AncientDoubleBed.description>Двуспальная кровать с прогнувшимся, ржавым каркасом. Лучше, чем спать на полу, но только чуть-чуть.</AncientDoubleBed.description>
+  <AncientDrillPlatform.label>древняя буровая платформа</AncientDrillPlatform.label>
+  <AncientDrillPlatform.description>Платформа для бурения вглубь земли. Всё ценные детали давно унесли.</AncientDrillPlatform.description>
+  <AncientExcavator.label>древний экскаватор</AncientExcavator.label>
+  <AncientExcavator.description>Остатки шахтерского транспорта. Всё ценные детали давно украдены.</AncientExcavator.description>
+  <AncientFilingCabinet.label>ржавый архивный шкаф</AncientFilingCabinet.label>
+  <AncientFilingCabinet.description>Проржавевший архивный шкаф. Внутри ничего полезного не осталось.</AncientFilingCabinet.description>
+  <AncientForklift.label>сломанный погрузчик</AncientForklift.label>
+  <AncientForklift.description>Сломанный погрузчик, заржавевший и с отсутствующими деталями. Восстановлению не подлежит, слишком поврежден.</AncientForklift.description>
+  <AncientIndustrialShelf.label>промышленная полка</AncientIndustrialShelf.label>
+  <AncientIndustrialShelf.description>Промышленная полка, покрытая ржавчиной. Здесь нет ничего ценного.</AncientIndustrialShelf.description>
+  <AncientIndustrialTruck.label>ржавый промышленный грузовик</AncientIndustrialTruck.label>
+  <AncientIndustrialTruck.description>Промышленный грузовик, сильно заржавевший и заброшенный. Двигатель не подлежит ремонту.</AncientIndustrialTruck.description>
+  <AncientLockers.label>ржавые шкафчики</AncientLockers.label>
+  <AncientLockers.description>Набор металлических шкафчиков, сильно заржавевших и покореженных. Всё содержимое основательно разграблено.</AncientLockers.description>
+  <AncientMediumContainer.label>древний контейнер</AncientMediumContainer.label>
+  <AncientMediumContainer.description>Заржавевший транспортный контейнер. Он абсолютно пуст.</AncientMediumContainer.description>
+  <AncientMetalCrate.label>ржавая металлическая тара</AncientMetalCrate.label>
+  <AncientMetalCrate.description>Металлическая тара, из-за ржавчины не открывается. Пустая и бесполезная.</AncientMetalCrate.description>
+  <AncientMilitaryBarrier.label>древнее военное заграждение</AncientMilitaryBarrier.label>
+  <AncientMilitaryBarrier.description>Бетонное заграждение, когда-то использовавшееся как военный блокпост.</AncientMilitaryBarrier.description>
+  <AncientMilitaryGeneratorSmall.label>древний военный генератор</AncientMilitaryGeneratorSmall.label>
+  <AncientMilitaryGeneratorSmall.description>Небольшой ржавый генератор. Топливный бак пуст, а двигатель не подлежит восстановлению.</AncientMilitaryGeneratorSmall.description>
+  <AncientMortar.label>разбитый миномет</AncientMortar.label>
+  <AncientMortar.description>Разрушенная минометная установка. Разбита и больше никогда не будет работать.</AncientMortar.description>
+  <AncientOpenContainer.label>открытый ржавый контейнер</AncientOpenContainer.label>
+  <AncientOpenContainer.description>Заржавевший контейнер для грузоперевозок. Внутри нет ничего полезного.</AncientOpenContainer.description>
+  <AncientOven.label>древняя духовка</AncientOven.label>
+  <AncientOven.description>Древняя духовка. Разбитая и заржавевшая, теперь совершенно бесполезна.</AncientOven.description>
+  <AncientPipe.label>древняя труба</AncientPipe.label>
+  <AncientPipe.description>Сегмент старой проржавевшей трубы.</AncientPipe.description>
+  <AncientPlantPot.label>древний цветочный горшок</AncientPlantPot.label>
+  <AncientPlantPot.description>Большой потрескавшийся горшок с мертвой почвой. Здесь больше уже ничего не вырастет.</AncientPlantPot.description>
+  <AncientRustedMicrowave.label>ржавая микроволновка</AncientRustedMicrowave.label>
+  <AncientRustedMicrowave.description>Старая микроволновка, вся покрытая ржавчиной. Ремонту не подлежит.</AncientRustedMicrowave.description>
+  <AncientShelf.label>древняя полка</AncientShelf.label>
+  <AncientShelf.description>Древняя полка. На ней нет ничего интересного.</AncientShelf.description>
+  <AncientShower.label>потрескавшаяся душевая</AncientShower.label>
+  <AncientShower.description>Разбитая душевая кабина. Трубы проржавели, а керамика расколота.</AncientShower.description>
+  <AncientSimpleResearchBench.label>древний исследовательский стол</AncientSimpleResearchBench.label>
+  <AncientSimpleResearchBench.description>Старый примитивный исследовательский стол с ржавыми инструментами и выцветшими записями. Ничего ценного не осталось.</AncientSimpleResearchBench.description>
+  <AncientSingleBed.label>ржавая кровать</AncientSingleBed.label>
+  <AncientSingleBed.description>Односпальная кровать с ржавым металлическим каркасом и порванным матрасом. Лучше, чем спать на земле, но только чуть-чуть.</AncientSingleBed.description>
+  <AncientSmallContainer.label>древний контейнер</AncientSmallContainer.label>
+  <AncientSmallContainer.description>Заржавевший транспортный контейнер. Он абсолютно пуст.</AncientSmallContainer.description>
+  <AncientSmallShelf.label>небольшая древняя полка</AncientSmallShelf.label>
+  <AncientSmallShelf.description>Древняя полка. На ней уже не осталось ничего полезного.</AncientSmallShelf.description>
+  <AncientStove.label>древняя кухонная плита</AncientStove.label>
+  <AncientStove.description>Древняя кухонная плита. Разбитая и заржавевшая, горелки не работают.</AncientStove.description>
+  <AncientTableBrewery.label>древнейшая пивоварня</AncientTableBrewery.label>
+  <AncientTableBrewery.description>Развалившийся пивоваренный стол, когда-то использовавшийся для брожения. Всё оборудование заржавело и непригодно к использованию.</AncientTableBrewery.description>
+  <AncientTableButcher.label>древний стол мясника</AncientTableButcher.label>
+  <AncientTableButcher.description>Сломанный стол мясника, покрытый старыми пятнами.</AncientTableButcher.description>
+  <AncientTableDrugLab.label>древняя нарколаборатория</AncientTableDrugLab.label>
+  <AncientTableDrugLab.description>Разваливающийся лабораторный стол с битыми пробирками. Всё оборудование грязное и сломанное.</AncientTableDrugLab.description>
+  <AncientTableMachining.label>древний станок</AncientTableMachining.label>
+  <AncientTableMachining.description>Заржавевший станок, заваленный мусором. Всё полезные детали уже давно сняли.</AncientTableMachining.description>
+  <AncientTableSmithingElectric.label>древняя электрическая кузница</AncientTableSmithingElectric.label>
+  <AncientTableSmithingElectric.description>Разрушенная электрическая кузница с обгоревшими поверхностями и торчащими проводами. Восстановлению не подлежит.</AncientTableSmithingElectric.description>
+  <AncientTableSmithingFueled.label>древняя топливная кузница</AncientTableSmithingFueled.label>
+  <AncientTableSmithingFueled.description>Старая кузница, работавшая на топливе. Теперь вся покрыта копотью и ржавчиной.</AncientTableSmithingFueled.description>
+  <AncientTableStoveElectric.label>древняя электроплита</AncientTableStoveElectric.label>
+  <AncientTableStoveElectric.description>Старая электроплита с разбитыми нагревательными элементами. Слишком повреждена для эксплуатации.</AncientTableStoveElectric.description>
+  <AncientTableStoveFueled.label>древняя топливная плита</AncientTableStoveFueled.label>
+  <AncientTableStoveFueled.description>Заржавевшая кухонная плита на топливе. Абсолютно непригодна.</AncientTableStoveFueled.description>
+  <AncientTableTailorElectric.label>древний электрический портняжный стол</AncientTableTailorElectric.label>
+  <AncientTableTailorElectric.description>Разрушенный швейный стол, усыпанный лоскутами и сломанными инструментами. Восстановлению не подлежит.</AncientTableTailorElectric.description>
+  <AncientTableTailorHand.label>древний ручной портняжный стол</AncientTableTailorHand.label>
+  <AncientTableTailorHand.description>Простой швейный стол с трещинами в дереве и ржавыми иглами. Полезного ничего не осталось.</AncientTableTailorHand.description>
+  <AncientTunnelerClaw.label>коготь древнего туннелера</AncientTunnelerClaw.label>
+  <AncientTunnelerClaw.description>Коготь древнего шахтерского меха. Всё части настолько испорчены, что больше не пригодны.</AncientTunnelerClaw.description>
+  <AncientTunnelerHusk.label>оболочка древнего туннелера</AncientTunnelerHusk.label>
+  <AncientTunnelerHusk.description>Остов древнего шахтерского меха. Всё сложные детали полностью испорчены.</AncientTunnelerHusk.description>
+  <AncientTV.label>разбитый телевизор</AncientTV.label>
+  <AncientTV.description>Разбитый телевизор. Экран треснул, всё ценное изнутри вынули.</AncientTV.description>
+  <AncientUraniumSlugTurret.label>сломанная турель с урановыми снарядами</AncientUraniumSlugTurret.label>
+  <AncientUraniumSlugTurret.description>Тяжёлая турель для стрельбы урановыми снарядами. Механизм разбит, боеприпасов не осталось.</AncientUraniumSlugTurret.description>
+  <AncientWashingMachine.label>древняя стиральная машина</AncientWashingMachine.label>
+  <AncientWashingMachine.description>Древний бытовой прибор для стирки текстильных изделий. Разбитый и заржавевший, теперь он совершенно бесполезен.</AncientWashingMachine.description>
+  <AncientWindTurbineBody.label>древний ветрогенератор</AncientWindTurbineBody.label>
+  <AncientWindTurbineBody.description>Опрокинутый ветрогенератор с поломанными лопастями. Всё ценное давно разобрали.</AncientWindTurbineBody.description>
+  <AncientWoodenCrate.label>старый деревянный ящик</AncientWoodenCrate.label>
+  <AncientWoodenCrate.description>Потрепанный деревянный ящик. Он пуст, древесина ломкая и хрупкая.</AncientWoodenCrate.description>
+  <RubblePile.label>куча щебня</RubblePile.label>
+  <RubblePile.description>Обрушившиеся остатки древней постройки.</RubblePile.description>
+</LanguageData>

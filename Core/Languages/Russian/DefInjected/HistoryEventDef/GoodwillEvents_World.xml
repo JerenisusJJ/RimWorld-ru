@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AttackedCaravan.label>атакован караван</AttackedCaravan.label>
+  <AttackedSettlement.label>атаковано поселение</AttackedSettlement.label>
+  <DestroyedEnemyBase.label>уничтожена вражеская база</DestroyedEnemyBase.label>
+  <SettlementProximity.label>расположение поселения</SettlementProximity.label>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GoJuiceAddiction.label>зависимость от Go-сока</GoJuiceAddiction.label>
+  <GoJuiceAddiction.description>Зависимость от Go-сока. Продолжительное употребление Go-сока вызывает неврологические изменения на клеточном уровне, из-за чего мозг уже не способен нормально функционировать без вещества.\n\nПерерыв в регулярном употреблении вызовет абстинентный синдром — ломку. Длительное воздержание поможет мозгу вернуться к нормальному состоянию и избавиться от зависимости.</GoJuiceAddiction.description>
+  <GoJuiceAddiction.stages.withdrawal.label>ломка</GoJuiceAddiction.stages.withdrawal.label>
+  <GoJuiceHigh.label>под действием Go-сока</GoJuiceHigh.label>
+  <GoJuiceHigh.description>Go-сок, попадая в кровь, многократно усиливает боевые способности и мгновенно повышает пси-концентрацию при первом применении.</GoJuiceHigh.description>
+  <GoJuiceHigh.labelNoun>действие Go-сока</GoJuiceHigh.labelNoun>
+  <GoJuiceTolerance.label>толерантность к Go-соку</GoJuiceTolerance.label>
+  <GoJuiceTolerance.description>Толерантность к Go-соку. Чем она серьёзнее, тем больше потребуется Go-сока для получения первоначального эффекта.</GoJuiceTolerance.description>
+  <GoJuiceTolerance.stages.small.label>небольшая</GoJuiceTolerance.stages.small.label>
+  <GoJuiceTolerance.stages.large.label>средняя</GoJuiceTolerance.stages.large.label>
+  <GoJuiceTolerance.stages.massive.label>сильная</GoJuiceTolerance.stages.massive.label>
+</LanguageData>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ReliquaryPilgrims.questContentRules.rulesStrings>
+    <li>pilgrimsArrivedLetterLabel-&gt;[pilgrimExpr] [arrived]</li>
+    <li>pilgrimsArrivedLetterText-&gt;[questDescription]</li>
+    <li>delayedRewardLetterText-&gt;[pawns0_nameDef] благодарит вас за то, что [venerateDate] вы впустили [pawns0_possessive] [andFollowers] поклониться реликвии, известной как «[relic_name]». В качестве вознаграждения [pawns0_nameDef] отсылает на транспортной капсуле дары (общей стоимостью [rewardsMarketValue_money]):\n\n[rewards].</li>
+    <li>pilgrimsLeavingMessage-&gt;[pilgrimsLabelSingularOrPlural] [finished] поклоняться реликвии «[relic_name]» и [leaving].</li>
+    <li>pilgrimsLeftMessage-&gt;[pilgrimsLabelSingularOrPlural] [departed].</li>
+    <li>pilgrimExpr(pilgrimCount==1,pilgrimFaction==false)-&gt;[faction_pawnSingular]-паломник</li>
+    <li>pilgrimExpr(pilgrimCount&gt;=2,pilgrimFaction==false)-&gt;[faction_pawnsPlural]-паломники</li>
+    <li>pilgrimExpr(pilgrimCount==1,pilgrimFaction==true)-&gt;паломник</li>
+    <li>pilgrimExpr(pilgrimCount&gt;=2,pilgrimFaction==true)-&gt;паломники</li>
+    <li>leaving(pilgrimCount==1)-&gt;уходит</li>
+    <li>leaving(pilgrimCount&gt;=2)-&gt;уходят</li>
+    <li>andFollowers(pilgrimCount==1)-&gt;</li>
+    <li>andFollowers(pilgrimCount==2)-&gt;и другого [faction_pawnSingular]</li>
+    <li>andFollowers(pilgrimCount&gt;=3)-&gt;и других [faction_pawnsPlural]</li>
+  </ReliquaryPilgrims.questContentRules.rulesStrings>
+  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+    <li>pilgrimsLabel-&gt;[pawns0_nameDef]</li>
+    <li>pilgrimsLabelPlural-&gt;[faction_pawnsPlural]</li>
+    <li>pilgrimsLabelSingularOrPlural(pilgrimCount==1)-&gt;[pilgrimsLabel]</li>
+    <li>pilgrimsLabelSingularOrPlural(pilgrimCount&gt;=2)-&gt;[pilgrimsLabelPlural]</li>
+    <li>finished(pilgrimCount==1)-&gt;закончил</li>
+    <li>finished(pilgrimCount&gt;=2)-&gt;закончили</li>
+    <li>arrived(pilgrimCount==1)-&gt;прибыл</li>
+    <li>arrived(pilgrimCount&gt;=2)-&gt;прибыли</li>
+    <li>departed(pilgrimCount==1)-&gt;ушёл</li>
+    <li>departed(pilgrimCount&gt;=2)-&gt;ушли</li>
+  </ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[pilgrimsLabelSingularOrPlural] [arrived], чтобы поклониться реликвии, известной как «[relic_name]».\n\nЕсли вы гарантируете [pronounSingularOrPluralObj] безопасность и неприкосновенность во время [possessive] визита, [pilgrimMay] вознаградить вас.</li>
+    <li>questDescription(pilgrimCount==1,childCount==1,priority=1)-&gt;Ребёнок-[pilgrimsLabelSingularOrPlural] [arrived], чтобы поклониться реликвии, известной как «[relic_name]».\n\nЕсли вы гарантируете [pronounSingularOrPluralObj] безопасность и неприкосновенность во время [possessive] визита, [pilgrimMay] вознаградить вас.</li>
+    <li>questDescription(pilgrimCount&gt;=2,childCount==1,priority=1)-&gt;[pilgrimsLabelSingularOrPlural] [arrived] с ребёнком, чтобы поклониться реликвии, известной как «[relic_name]».\n\nЕсли вы гарантируете [pronounSingularOrPluralObj] безопасность и неприкосновенность во время [possessive] визита, [pilgrimMay] вознаградить вас.</li>
+    <li>questDescription(pilgrimCount&gt;=2,childCount&gt;=2,allChildren==false,priority=1)-&gt;[pilgrimsLabelSingularOrPlural] [arrived] с детьми, чтобы поклониться реликвии, известной как «[relic_name]».\n\nЕсли вы гарантируете [pronounSingularOrPluralObj] безопасность и неприкосновенность во время [possessive] визита, [pilgrimMay] вознаградить вас.</li>
+    <li>questDescription(pilgrimCount&gt;=2,allChildren==true,priority=1)-&gt;Дети-[pilgrimsLabelSingularOrPlural] [arrived], чтобы поклониться реликвии, известной как «[relic_name]».\n\nЕсли вы гарантируете [pronounSingularOrPluralObj] безопасность и неприкосновенность во время [possessive] визита, [pilgrimMay] вознаградить вас.</li>
+    <li>possessive(pilgrimCount==1)-&gt;[pawns0_possessive]</li>
+    <li>possessive(pilgrimCount&gt;=2)-&gt;их</li>
+    <li>pronounSingularOrPlural(pilgrimCount==1)-&gt;[pawns0_pronoun]</li>
+    <li>pronounSingularOrPlural(pilgrimCount&gt;=2)-&gt;они</li>
+    <li>pronounSingularOrPluralObj(pilgrimCount==1)-&gt;[pawns0_objective]</li>
+    <li>pronounSingularOrPluralObj(pilgrimCount&gt;=2)-&gt;им</li>
+    <li>pilgrimMay(pilgrimCount==1)-&gt;паломник может</li>
+    <li>pilgrimMay(pilgrimCount&gt;=2)-&gt;паломники могут</li>
+  </ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+  <ReliquaryPilgrims.questNameRules.rulesStrings>
+    <li>questName-&gt;[visitAdj] [visit]</li>
+    <li>questName-&gt;[visitAdjFem] [visitFem]</li>
+    <li>questName-&gt;[visitAdjNeut] [visitNeut]</li>
+    <li>visitAdj(p=6)-&gt;</li>
+    <li>visitAdj-&gt;святой</li>
+    <li>visitAdj-&gt;священный</li>
+    <li>visitAdj-&gt;духовный</li>
+    <li>visitAdj-&gt;божественный</li>
+    <li>visitAdj-&gt;спиритуалистический</li>
+    <li>visitAdjFem-&gt;святая</li>
+    <li>visitAdjFem-&gt;священная</li>
+    <li>visitAdjFem-&gt;духовная</li>
+    <li>visitAdjFem-&gt;божественная</li>
+    <li>visitAdjFem-&gt;спиритуалистическая</li>
+    <li>visitAdjNeut-&gt;святое</li>
+    <li>visitAdjNeut-&gt;священное</li>
+    <li>visitAdjNeut-&gt;духовное</li>
+    <li>visitAdjNeut-&gt;божественное</li>
+    <li>visitAdjNeut-&gt;спиритуалистическое</li>
+    <li>visit-&gt;визит</li>
+    <li>visitNeut-&gt;паломничество</li>
+    <li>visitFem-&gt;миссия</li>
+    <li>visitFem-&gt;экспедиция</li>
+    <li>visit-&gt;поход</li>
+    <li>visitNeut-&gt;шествие</li>
+    <li>visitNeut-&gt;поклонение</li>
+  </ReliquaryPilgrims.questNameRules.rulesStrings>
+</LanguageData>

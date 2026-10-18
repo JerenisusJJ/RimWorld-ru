@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BestStockpile.label>нести на лучший склад</BestStockpile.label>
+  <DropOnFloor.label>складывать рядом</DropOnFloor.label>
+  <SpecificStockpile.label>нести на {0}</SpecificStockpile.label>
+</LanguageData>

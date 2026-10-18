@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Cannibalism_Abhorrent.label>отвратителен</Cannibalism_Abhorrent.label>
+  <Cannibalism_Abhorrent.description>Есть плоть человека — омерзительно и ужасно.</Cannibalism_Abhorrent.description>
+  <Cannibalism_Abhorrent.comps.5.description>Одежда из человеческой кожи</Cannibalism_Abhorrent.comps.5.description>
+  <Cannibalism_Acceptable.label>приемлем</Cannibalism_Acceptable.label>
+  <Cannibalism_Acceptable.description>Человеческое мясо ничем не отличается от любого другого.</Cannibalism_Acceptable.description>
+  <Cannibalism_Disapproved.label>не одобряется</Cannibalism_Disapproved.label>
+  <Cannibalism_Disapproved.description>Есть плоть человека — плохо.</Cannibalism_Disapproved.description>
+  <Cannibalism_Disapproved.comps.5.description>Одежда из человеческой кожи</Cannibalism_Disapproved.comps.5.description>
+  <Cannibalism_Horrible.label>ужасен</Cannibalism_Horrible.label>
+  <Cannibalism_Horrible.description>Есть плоть человека — ужасно.</Cannibalism_Horrible.description>
+  <Cannibalism_Horrible.comps.5.description>Одежда из человеческой кожи</Cannibalism_Horrible.comps.5.description>
+  <Cannibalism_Preferred.label>предпочтителен</Cannibalism_Preferred.label>
+  <Cannibalism_Preferred.description>Поедание человеческого мяса — благородная и необходимая часть жизни.</Cannibalism_Preferred.description>
+  <Cannibalism_Preferred.comps.1.description>Нет человеческого мяса {HUMANMEATREQUIREDINTERVAL} дней</Cannibalism_Preferred.comps.1.description>
+  <Cannibalism_Preferred.comps.2.description>Одежда из человеческой кожи</Cannibalism_Preferred.comps.2.description>
+  <Cannibalism_RequiredRavenous.label>необходим (очень сильно)</Cannibalism_RequiredRavenous.label>
+  <Cannibalism_RequiredRavenous.description>Человеческая плоть — это благочестие. Есть что-то кроме неё — немыслимо.</Cannibalism_RequiredRavenous.description>
+  <Cannibalism_RequiredRavenous.comps.3.description>Нет человеческого мяса {HUMANMEATREQUIREDINTERVAL} дней</Cannibalism_RequiredRavenous.comps.3.description>
+  <Cannibalism_RequiredRavenous.comps.4.description>Одежда из человеческой кожи</Cannibalism_RequiredRavenous.comps.4.description>
+  <Cannibalism_RequiredStrong.label>необходим (сильно)</Cannibalism_RequiredStrong.label>
+  <Cannibalism_RequiredStrong.description>Есть человечину — очень важно. Она должна употребляться при каждом приёме пищи.</Cannibalism_RequiredStrong.description>
+  <Cannibalism_RequiredStrong.comps.3.description>Нет человеческого мяса {HUMANMEATREQUIREDINTERVAL} дней</Cannibalism_RequiredStrong.comps.3.description>
+  <Cannibalism_RequiredStrong.comps.4.description>Одежда из человеческой кожи</Cannibalism_RequiredStrong.comps.4.description>
+</LanguageData>

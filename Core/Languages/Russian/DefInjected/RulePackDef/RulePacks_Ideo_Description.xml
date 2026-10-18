@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <IdeoDescriptionGlobal.rulePack.rulesStrings>
+    <li>veneratedAnimal-&gt;[animal0_thingDef_label]</li>
+    <li>altarName-&gt;[altar0_name]</li>
+    <li>ritualName-&gt;[ritual0_name]</li>
+    <li>founderName(priority=1,uses=1)-&gt;[founder_nameFull]</li>
+    <li>founderName-&gt;[founder_label]</li>
+    <li>foeLeader_pronoun-&gt;он</li>
+    <li>foeLeader_possessive-&gt;его</li>
+    <li>foeLeader_objective-&gt;ему</li>
+  </IdeoDescriptionGlobal.rulePack.rulesStrings>
+</LanguageData>

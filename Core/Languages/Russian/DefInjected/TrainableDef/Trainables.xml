@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AttackTarget.label>атаковать цель</AttackTarget.label>
+  <AttackTarget.description>Прикажите животному атаковать конкретную цель, которую видит его хозяин.</AttackTarget.description>
+  <Comfort.label>утешение</Comfort.label>
+  <Comfort.description>Животное будет давать больше эмоциональной поддержки, чаще прижиматься и радовать ваших поселенцев.</Comfort.description>
+  <Dig.label>копать</Dig.label>
+  <Dig.description>Животное будет добывать камень, отмеченный для раскопок. Животные обычно медленно и неэффективно занимаются добычей.</Dig.description>
+  <EggSpew.label>выбросить яйцо</EggSpew.label>
+  <EggSpew.description>Прикажите королеве выпустить яйцо и плюнуть кислотной жижей в выбранную область. После обучения королева будет производить яйца только по команде.</EggSpew.description>
+  <Forage.label>собирать</Forage.label>
+  <Forage.description>Животное время от времени будет находить ягоды, грибы или еду. В биомах с большими возможностями по сбору будет найдено больше еды. Собирать можно только на плодородной почве.</Forage.description>
+  <SludgeSpew.label>выплеск жижи</SludgeSpew.label>
+  <SludgeSpew.description>Прикажите личинке выплеснуть кислотную жижу на всю выбранную область. После обучения личинка будет выбрасывать жижу только по команде.</SludgeSpew.description>
+  <TerrorRoar.label>рев ужаса</TerrorRoar.label>
+  <TerrorRoar.description>Прикажите альфа-трумбо издать оглушительный рев. Есть шанс, что находящиеся рядом враждебные люди и животные в панике убегут.</TerrorRoar.description>
+  <ThrumboRoar.label>рев трумбо</ThrumboRoar.label>
+  <ThrumboRoar.description>Прикажите трумбо издать оглушительный рев. Есть шанс, что враждебные люди и животные будут дрожать от страха, что снизит их скорость передвижения и ловкость.</ThrumboRoar.description>
+  <WarTrumpet.label>боевой рев</WarTrumpet.label>
+  <WarTrumpet.description>Прикажите животному издать мощный рев. Есть шанс, что враждебные люди и животные будут дрожать от страха, что снизит их скорость и ловкость.</WarTrumpet.description>
+</LanguageData>

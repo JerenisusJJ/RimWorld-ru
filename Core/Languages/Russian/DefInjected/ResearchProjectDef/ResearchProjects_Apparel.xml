@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CataphractArmor.label>катафрактарская броня</CataphractArmor.label>
+  <CataphractArmor.description>Изготовление тяжёлых силовых доспехов, которые замедляют носящего, но могут поглотить огромное количество урона. Для производства требуются продвинутые компоненты.</CataphractArmor.description>
+  <CataphractArmor.generalRules.rulesStrings>
+    <li>subject-&gt;катафрактарская броня</li>
+    <li>subject_gen-&gt;катафрактарской брони</li>
+    <li>subject_dat-&gt;катафрактарской броне</li>
+    <li>subject_pre_about-&gt;о катафрактарской броне</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? первым разработал : первой разработала} модификацию катафрактарской брони как средство для исследования действующих вулканов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? был назначен ответственным : была назначена ответственной} за изготовление комплектов катафрактарской брони для имперских абордажных групп</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? примкнул : примкнула} к повстанцам и {ANYPAWN_gender ? изучил : изучила} доспехи взятых в плен катафрактариев</li>
+    <li>subject_gerund-&gt;изготовления брони «феникса»</li>
+    <li>subject_gerund-&gt;изготовления катафрактарской брони</li>
+    <li>subject_gerund-&gt;изготовления роскошной катафрактарской брони</li>
+  </CataphractArmor.generalRules.rulesStrings>
+  <Gunlink.label>стрелковые визоры</Gunlink.label>
+  <Gunlink.description>Изготовление носимых устройств, повышающих точность стрельбы ваших бойцов.</Gunlink.description>
+  <Gunlink.generalRules.rulesStrings>
+    <li>subject-&gt;устройства для повышения точности</li>
+    <li>subject_gen-&gt;устройств для повышения точности</li>
+    <li>subject_dat-&gt;устройствам для повышения точности</li>
+    <li>subject_pre_about-&gt;об устройствах для повышения точности</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? преобразовал : преобразовала} распространённый на утопических мирах зрительный имплант в более универсальное носимое устройство</li>
+    <li>subject_story-&gt;высоко {ANYPAWN_gender ? оценил : оценила} работу заводских стрелковых визоров, хотя и {ANYPAWN_gender ? выразил : выразила} обеспокоенность повышенным уровнем смертности ввиду невозможности их использования совместно со шлемами</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? закупил : закупила} крупную партию стрелковых визоров для армейских снайперов, при этом запретив их использование солдатами на передовой</li>
+    <li>subject_gerund-&gt;повышения точности с помощью стрелковых визоров</li>
+  </Gunlink.generalRules.rulesStrings>
+  <JumpPack.label>прыжковые ранцы</JumpPack.label>
+  <JumpPack.description>Изготовление прыжковых ранцев, предназначенных для осуществления атак с воздуха.</JumpPack.description>
+  <JumpPack.generalRules.rulesStrings>
+    <li>subject-&gt;прыжковые ранцы</li>
+    <li>subject-&gt;полёты на короткие расстояния</li>
+    <li>subject_gen-&gt;прыжковых ранцев</li>
+    <li>subject_gen-&gt;полётов на короткие расстояния</li>
+    <li>subject_dat-&gt;прыжковым ранцам</li>
+    <li>subject_dat-&gt;полётам на короткие расстояния</li>
+    <li>subject_pre_about-&gt;о прыжковых ранцах</li>
+    <li>subject_pre_about-&gt;о полётах на короткие расстояния</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал управляющим : стала управляющей} парком экстремальных развлечений, в котором можно было как потискать бумкрысу, так и посетить занятия по использованию прыжковых ранцев</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} организатором альпинистских туров на планеты с низкой гравитацией, в условиях которых прыжковые ранцы и кислородные маски были обязательными элементами экипировки</li>
+    <li>subject_story-&gt;с помощью прыжкового ранца {ANYPAWN_gender ? смог : смогла} обойти защиту из турелей на занятиях по офицерской подготовке</li>
+    <li>subject_gerund-&gt;осуществления атак с воздуха</li>
+    <li>subject_gerund-&gt;изготовления прыжковых ранцев</li>
+  </JumpPack.generalRules.rulesStrings>
+  <NobleApparel.label>благородные одеяния</NobleApparel.label>
+  <NobleApparel.description>Пошив одежды для знати: парадных рубашек, шляп-цилиндров и прочего.</NobleApparel.description>
+  <NobleApparel.generalRules.rulesStrings>
+    <li>subject-&gt;парадная одежда</li>
+    <li>subject-&gt;благородные одеяния</li>
+    <li>subject_gen-&gt;парадной одежды</li>
+    <li>subject_gen-&gt;благородных одеяний</li>
+    <li>subject_dat-&gt;парадной одежде</li>
+    <li>subject_dat-&gt;благородным одеяниям</li>
+    <li>subject_pre_about-&gt;о парадной одежде</li>
+    <li>subject_pre_about-&gt;о благородных одеяниях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} специалистом по изготовлению парадных корсетов для студенческих выпускных вечеров, проводимых на урбанизированных мирах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? был нанят : была нанята} одним знатным домом для изготовления шляп-цилиндров</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? придумал : придумала} новый фасон берета, который был в моде в течение всего сезона</li>
+    <li>subject_gerund-&gt;пошива гардероба для знати</li>
+    <li>subject_gerund-&gt;пошива благородных одеяний</li>
+  </NobleApparel.generalRules.rulesStrings>
+  <RoyalApparel.label>роскошные одеяния</RoyalApparel.label>
+  <RoyalApparel.description>Пошив одежды для знати высокого уровня: роскошных мантий и корон.</RoyalApparel.description>
+  <RoyalApparel.generalRules.rulesStrings>
+    <li>subject-&gt;роскошные одеяния</li>
+    <li>subject_gen-&gt;роскошных одеяний</li>
+    <li>subject_dat-&gt;роскошным одеяниям</li>
+    <li>subject_pre_about-&gt;о роскошных одеяниях</li>
+    <li>subject_story-&gt;целый год {ANYPAWN_gender ? проработал : проработала} над созданием королевских облачений для коронации</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} геральдическую символику различных знатных родов, чтобы гарантировать сообразность любых облачений</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? был возведён : была возведена} в имперскую знать и {ANYPAWN_gender ? удостоен : удостоена} права ношения мантии и коронета</li>
+    <li>subject_gerund-&gt;пошива гардероба для монархов</li>
+    <li>subject_gerund-&gt;изготовления корон</li>
+    <li>subject_gerund-&gt;изготовления коронетов</li>
+    <li>subject_gerund-&gt;пошива роскошных мантий</li>
+  </RoyalApparel.generalRules.rulesStrings>
+</LanguageData>

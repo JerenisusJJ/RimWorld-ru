@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DirtInEyes.label>земля</DirtInEyes.label>
+  <DirtInEyes.description>Частицы земли в глазах. Ухудшают видимость, но легко вычищаются.</DirtInEyes.description>
+  <DirtInEyes.battleStateLabel>слепота</DirtInEyes.battleStateLabel>
+  <DirtInEyes.labelNoun>земля</DirtInEyes.labelNoun>
+  <GravelInEyes.label>гравий</GravelInEyes.label>
+  <GravelInEyes.description>Частицы гравия в глазах. Влияют на способность видеть, но легко вычищаются.</GravelInEyes.description>
+  <GravelInEyes.battleStateLabel>слепота</GravelInEyes.battleStateLabel>
+  <GravelInEyes.labelNoun>гравий</GravelInEyes.labelNoun>
+  <MudInEyes.label>грязь</MudInEyes.label>
+  <MudInEyes.description>Частицы грязи в глазах. Ухудшают видимость, но легко вычищаются.</MudInEyes.description>
+  <MudInEyes.battleStateLabel>слепота</MudInEyes.battleStateLabel>
+  <MudInEyes.labelNoun>грязь</MudInEyes.labelNoun>
+  <SandInEyes.label>песок</SandInEyes.label>
+  <SandInEyes.description>Частицы песка в глазах. Ухудшают видимость, но легко вычищаются.</SandInEyes.description>
+  <SandInEyes.battleStateLabel>слепота</SandInEyes.battleStateLabel>
+  <SandInEyes.labelNoun>песок</SandInEyes.labelNoun>
+  <WaterInEyes.label>вода</WaterInEyes.label>
+  <WaterInEyes.description>Частицы грязной воды в глазах. Ухудшают видимость, но достаточно лишь проморгаться.</WaterInEyes.description>
+  <WaterInEyes.battleStateLabel>слепота</WaterInEyes.battleStateLabel>
+  <WaterInEyes.labelNoun>вода</WaterInEyes.labelNoun>
+</LanguageData>

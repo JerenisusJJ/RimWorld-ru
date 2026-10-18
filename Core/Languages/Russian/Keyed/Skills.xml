@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Level>Уровень</Level>
+  <SkillLevel>уровень навыка</SkillLevel>
+  <ProgressToNextLevel>Прогресс до следующего изученного уровня</ProgressToNextLevel>
+  <Experience>Опыт</Experience>
+  <Passion>Интерес</Passion>
+  <PassionNone>Интерес отсутствует</PassionNone>
+  <PassionMinor>Средний интерес</PassionMinor>
+  <PassionMajor>Горячий интерес</PassionMajor>
+  <LearningSpeed>Скорость обучения</LearningSpeed>
+  <LearnedMaxToday>Достигнут предел на сегодня ({0}/{1}, дальнейшая скорость обучения — {2})</LearnedMaxToday>
+  <ChildrenLearn>Дети изучают навыки, наблюдая за работой взрослых и уча уроки за партой.</ChildrenLearn>
+  <EffectsAtLevel>Параметры на уровне {0}</EffectsAtLevel>
+  <SkillMax>Максимум</SkillMax>
+  <LearnedLevel>Изученный уровень</LearnedLevel>
+  <NegativeLevelAdjustedToZero>Отрицательный уровень скорректирован до нуля.</NegativeLevelAdjustedToZero>
+  <LevelCappedAtMax>Уровень ограничен {0}.</LevelCappedAtMax>
+  <GeneLabelWithDesc>ген «{GENE_label}»</GeneLabelWithDesc>
+  <TraitLabelWithDesc>черта «{TRAITLABEL}»</TraitLabelWithDesc>
+  <Skill0>отсутствие знаний</Skill0>
+  <Skill1>некомпетентность</Skill1>
+  <Skill2>абсолютный новичок</Skill2>
+  <Skill3>посредственный новичок</Skill3>
+  <Skill4>умелый новичок</Skill4>
+  <Skill5>любитель</Skill5>
+  <Skill6>умелый любитель</Skill6>
+  <Skill7>слабый профессионал</Skill7>
+  <Skill8>профессионал</Skill8>
+  <Skill9>уверенный профессионал</Skill9>
+  <Skill10>опытный профессионал</Skill10>
+  <Skill11>ведущий профессионал</Skill11>
+  <Skill12>эксперт</Skill12>
+  <Skill13>ведущий эксперт</Skill13>
+  <Skill14>мастер</Skill14>
+  <Skill15>заслуженный мастер</Skill15>
+  <Skill16>мастер континентального масштаба</Skill16>
+  <Skill17>ведущий континентальный мастер</Skill17>
+  <Skill18>мастер планетарного масштаба</Skill18>
+  <Skill19>ведущий планетарный мастер</Skill19>
+  <Skill20>легендарный мастер</Skill20>
+</LanguageData>

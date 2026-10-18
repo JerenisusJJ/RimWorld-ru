@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerWorld.rulePack.rulesFiles>
+    <li>celestial_name-&gt;Names/Celestial</li>
+    <li>celestial_suffix-&gt;Names/CelestialSuffix</li>
+    <li>celestial_prefix-&gt;Names/CelestialPrefix</li>
+  </NamerWorld.rulePack.rulesFiles>
+  <NamerWorld.rulePack.rulesStrings>
+    <li>r_name-&gt;[celestial_name]</li>
+    <li>r_name-&gt;[celestial_prefix] [celestial_name]</li>
+    <li>r_name-&gt;[celestial_name] [celestial_suffix]</li>
+    <li>r_name-&gt;[world_name_numeric]</li>
+    <li>r_name-&gt;[world_name_numeric] [celestial_suffix]</li>
+    <li>r_name(p=0.5)-&gt;[celestial_name] [RomanNumeral]</li>
+    <li>r_name(p=0.5)-&gt;[celestial_name]-[RomanNumeral]</li>
+    <li>r_name(p=0.5)-&gt;[celestial_name]-[numbers]</li>
+    <li>r_name-&gt;[celestial_name] [celestial_name]</li>
+    <li>world_name_numeric-&gt;[letters]-[numbers]</li>
+    <li>world_name_numeric-&gt;[letters] [numbers]</li>
+    <li>letters-&gt;[LetterLatin]</li>
+    <li>letters-&gt;[LetterLatin][LetterLatin]</li>
+    <li>letters-&gt;[LetterLatin][LetterLatin][LetterLatin]</li>
+    <li>numbers-&gt;[Digit]</li>
+    <li>numbers-&gt;[Digit][Digit]</li>
+    <li>numbers-&gt;[Digit][Digit][Digit]</li>
+  </NamerWorld.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Alchemist.label>алхимик</Alchemist.label>
+  <Alchemist.letterExtra>{PAWN_nameDef} отлично разбирается в алхимии. С помощью загадочных архотехнологичных процедур {PAWN_pronoun} может превращать сталь в другие ценные ресурсы.</Alchemist.letterExtra>
+  <BodyMastery.label>полное владение телом</BodyMastery.label>
+  <BodyMastery.letterExtra>{PAWN_nameDef} умеет контролировать свои метаболические и циркадные ритмы народными средствами — во всяком случае, {PAWN_pronoun} так заявляет. {PAWN_nameDef} больше не нуждается ни во сне, ни в еде, хотя в побелевших глазах {PAWN_possessive} читается первобытный голод.</BodyMastery.letterExtra>
+  <DeathRefusal.label>лекарство от смерти</DeathRefusal.label>
+  <DeathRefusal.letterExtra>После ритуала сектантов {PAWN_nameDef} {PAWN_gender ? научился : научилась} побеждать смерть. По {PAWN_possessive} телу циркулируют чёрные потоки архо-вещества, наделяющего носителя способностью к самовоскрешению. Если {PAWN_nameDef} умрёт, то {PAWN_possessive} плоть и утраченные органы вскоре восстановятся, а раны затянутся. Однако этот процесс не проходит бесследно.</DeathRefusal.letterExtra>
+  <Fleshcrafter.label>ваяние из плоти</Fleshcrafter.label>
+  <Fleshcrafter.letterExtra>{PAWN_nameDef} говорит, что владеет тёмным искусством оживления мёртвой плоти. {PAWN_pronoun} умеет превращать трупы в биошматов.</Fleshcrafter.letterExtra>
+  <Joybringer.label>душа компании</Joybringer.label>
+  <Joybringer.letterExtra>{PAWN_nameDef} приносит радость окружающим, и дело не только в обаянии. {PAWN_pronoun} повышает людям настроение своими шутками и позитивными мыслями.</Joybringer.letterExtra>
+  <Occultist.label>оккультист</Occultist.label>
+  <Occultist.letterExtra>{PAWN_pronoun} хорошо разбирается во всём, что связано с пустотой. {PAWN_pronoun} быстрее других изучает неестественные явления и при случае может поделиться знаниями.</Occultist.letterExtra>
+  <PerfectHuman.label>совершенный человек</PerfectHuman.label>
+  <PerfectHuman.letterExtra>{PAWN_nameDef} сделает что угодно с непревзойдённым мастерством. Какой бы навык ни понадобился — он уже развит до максимума. А как серьёзно {PAWN_nameDef} относится к выполнению задач! {PAWN_pronoun} несомненно идеальный работник.</PerfectHuman.letterExtra>
+  <PsychicButcher.label>пси-мясник</PsychicButcher.label>
+  <PsychicButcher.letterExtra>{PAWN_nameDef} — гроза всех животных в округе. {PAWN_pronoun} обладает редким даром деформировать плоть живых существ, разом превращая их в куски мяса. {PAWN_nameDef} божится, что использует это только в кулинарных целях, но очевидно, что {PAWN_pronoun} может так же легко разделать человека.</PsychicButcher.letterExtra>
+  <ShamblerOverlord.label>повелитель шамблеров</ShamblerOverlord.label>
+  <ShamblerOverlord.letterExtra>{PAWN_nameDef} — носитель повреждённых архитов. {PAWN_pronoun} может выпустить в воздух облако порошка мёртвой жизни, которое оживит соседние трупы.</ShamblerOverlord.letterExtra>
+  <UnnaturalHealing.label>неестественное заживление</UnnaturalHealing.label>
+  <UnnaturalHealing.letterExtra>{PAWN_pronoun} хочет помочь вам своей сверхспособностью к исцелению.</UnnaturalHealing.letterExtra>
+</LanguageData>

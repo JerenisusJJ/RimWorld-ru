@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mech_Agrihand.label>агродрон</Mech_Agrihand.label>
+  <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>оптический датчик</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>
+  <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>звуковой датчик</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>
+  <Mech_Agrihand.corePart.parts.right_shoulder.customLabel>правое плечо</Mech_Agrihand.corePart.parts.right_shoulder.customLabel>
+  <Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>правая рука</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>правый клинок</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <Mech_Agrihand.corePart.parts.left_leg.customLabel>левая нога</Mech_Agrihand.corePart.parts.left_leg.customLabel>
+  <Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>левая ступня</Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Mech_Agrihand.corePart.parts.right_leg.customLabel>правая нога</Mech_Agrihand.corePart.parts.right_leg.customLabel>
+  <Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>правая ступня</Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Mech_Light.label>лёгкий механоид</Mech_Light.label>
+  <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>оптический датчик</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>
+  <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>звуковой датчик</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>
+  <Mech_Light.corePart.parts.left_leg.customLabel>левая нога</Mech_Light.corePart.parts.left_leg.customLabel>
+  <Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>левая ступня</Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Mech_Light.corePart.parts.right_leg.customLabel>правая нога</Mech_Light.corePart.parts.right_leg.customLabel>
+  <Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>правая ступня</Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>
+</LanguageData>

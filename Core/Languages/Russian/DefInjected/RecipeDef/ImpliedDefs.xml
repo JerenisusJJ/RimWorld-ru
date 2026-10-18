@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Make_Apparel_Blindfold.label>сшить повязку на глаза</Make_Apparel_Blindfold.label>
+  <Make_Apparel_Blindfold.description>Сшить повязку на глаза</Make_Apparel_Blindfold.description>
+  <Make_Apparel_Blindfold.jobString>Шьёт повязку на глаза</Make_Apparel_Blindfold.jobString>
+  <Make_Apparel_Flophat.label>сшить шапку-носок</Make_Apparel_Flophat.label>
+  <Make_Apparel_Flophat.description>Сшить шапку-носок</Make_Apparel_Flophat.description>
+  <Make_Apparel_Flophat.jobString>Шьёт шапку-носок</Make_Apparel_Flophat.jobString>
+  <Make_Apparel_Shadecone.label>сшить коническую шляпу</Make_Apparel_Shadecone.label>
+  <Make_Apparel_Shadecone.description>Сшить коническую шляпу</Make_Apparel_Shadecone.description>
+  <Make_Apparel_Shadecone.jobString>Шьёт коническую шляпу</Make_Apparel_Shadecone.jobString>
+  <Make_Apparel_Tailcap.label>сшить шапку с хвостом</Make_Apparel_Tailcap.label>
+  <Make_Apparel_Tailcap.description>Сшить шапку с хвостом</Make_Apparel_Tailcap.description>
+  <Make_Apparel_Tailcap.jobString>Шьёт шапку с хвостом</Make_Apparel_Tailcap.jobString>
+  <Make_Apparel_TortureCrown.label>выковать терновую корону</Make_Apparel_TortureCrown.label>
+  <Make_Apparel_TortureCrown.description>Выковать терновую корону</Make_Apparel_TortureCrown.description>
+  <Make_Apparel_TortureCrown.jobString>Куёт терновую корону</Make_Apparel_TortureCrown.jobString>
+</LanguageData>

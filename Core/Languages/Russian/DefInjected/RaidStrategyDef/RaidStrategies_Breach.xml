@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ImmediateAttackBreaching.arrivalTextEnemy>Они нападают немедленно.\n\nНалётчики собираются пробить ваши стены. Они попытаются пробраться в ваше поселение и будут уничтожать всё на своём пути.</ImmediateAttackBreaching.arrivalTextEnemy>
+  <ImmediateAttackBreaching.arrivalTextFriendly>Они спешат, чтобы помочь вам.</ImmediateAttackBreaching.arrivalTextFriendly>
+  <ImmediateAttackBreaching.letterLabelEnemy>Налёт</ImmediateAttackBreaching.letterLabelEnemy>
+  <ImmediateAttackBreaching.letterLabelFriendly>Союзники</ImmediateAttackBreaching.letterLabelFriendly>
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>Они нападают немедленно.\n\nНалётчики собираются пробить ваши стены. Они попытаются пробраться в ваше поселение и будут уничтожать всё на своём пути.\n\nБудьте внимательны, судя по всему, они используют более продуманную тактику, чем обычно. Они будут обходить ваши турели и замечать некоторые ловушки.</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>Они спешат, чтобы помочь вам.</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>Налёт</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>Союзники</ImmediateAttackBreachingSmart.letterLabelFriendly>
+</LanguageData>

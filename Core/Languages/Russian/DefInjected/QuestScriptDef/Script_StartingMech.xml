@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MechanitorStartingMech.questContentRules.rulesStrings>
+    <li>arrivalLetterLabel-&gt;[mech_label] переходит под контроль [mechanitor_nameDef]</li>
+    <li>arrivalLetterText-&gt;[mech_label] был сброшен с орбиты и перешёл под контроль [mechanitor_nameDef].\n\nОн подключился к [mechanitor_possessive] мехлинку и желает снова служить по своему назначению.</li>
+  </MechanitorStartingMech.questContentRules.rulesStrings>
+</LanguageData>

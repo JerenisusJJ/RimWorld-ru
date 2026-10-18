@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Mechanitor.label>Механитор</Mechanitor.label>
+  <Mechanitor.labelPlural>механиторы</Mechanitor.labelPlural>
+  <Mechanitor_Basic.label>механитор</Mechanitor_Basic.label>
+  <Mechanitor_Basic.labelPlural>механиторы</Mechanitor_Basic.labelPlural>
+  <Sanguophage.label>гемофаг</Sanguophage.label>
+  <Sanguophage.labelPlural>гемофаги</Sanguophage.labelPlural>
+  <Sanguophage_Player.label>гемофаг</Sanguophage_Player.label>
+  <Sanguophage_Player.labelPlural>гемофаги</Sanguophage_Player.labelPlural>
+  <SanguophageThrall.label>трэлл</SanguophageThrall.label>
+  <SanguophageThrall.labelPlural>трэллы</SanguophageThrall.labelPlural>
+  <Tribal_Child.label>житель</Tribal_Child.label>
+  <Tribal_Child.labelFemale>жительница</Tribal_Child.labelFemale>
+  <Tribal_Child.labelMale>житель</Tribal_Child.labelMale>
+  <Tribal_Child.labelPlural>жители</Tribal_Child.labelPlural>
+  <Villager_Child.label>житель</Villager_Child.label>
+  <Villager_Child.labelFemale>жительница</Villager_Child.labelFemale>
+  <Villager_Child.labelMale>житель</Villager_Child.labelMale>
+  <Villager_Child.labelPlural>жители</Villager_Child.labelPlural>
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Dryad_Barkskin.label>дриада-дубокож</Dryad_Barkskin.label>
+  <Dryad_Barkskin.description>Каста дриад, основное назначение которых — принимать на себя удар во время боя. Дубокожи покрыты толстой, похожей на кору шкурой, частично сформированной самим древом Гауранлен. Под руководством людей они могут сражаться, поглощая наносимый противником урон.\n\nДриады — это зверообразные существа, имеющие симбиотические отношения с древом Гауранлен. С его помощью они размножаются, и в нём же находится их королева. У дриад существует несколько каст, и они могут видоизменять себя для перехода из одной касты в другую.</Dryad_Barkskin.description>
+  <Dryad_Barkskin.tools.left_claw.label>левая лапа</Dryad_Barkskin.tools.left_claw.label>
+  <Dryad_Barkskin.tools.left_claw.labelNoLocation>лапа</Dryad_Barkskin.tools.left_claw.labelNoLocation>
+  <Dryad_Barkskin.tools.right_claw.label>правая лапа</Dryad_Barkskin.tools.right_claw.label>
+  <Dryad_Barkskin.tools.right_claw.labelNoLocation>лапа</Dryad_Barkskin.tools.right_claw.labelNoLocation>
+  <Dryad_Barkskin.tools.head.label>голова</Dryad_Barkskin.tools.head.label>
+  <Dryad_Basic.label>незрелая дриада</Dryad_Basic.label>
+  <Dryad_Basic.description>Дриады — это небольшие зверообразные существа, имеющие симбиотические отношения с древом Гауранлен. Эта незрелая дриада может поддерживать и защищать своё древо, но её главная цель — развиться до зрелой формы одной из специализированных каст.</Dryad_Basic.description>
+  <Dryad_Basic.tools.left_claw.label>левая лапа</Dryad_Basic.tools.left_claw.label>
+  <Dryad_Basic.tools.left_claw.labelNoLocation>лапа</Dryad_Basic.tools.left_claw.labelNoLocation>
+  <Dryad_Basic.tools.right_claw.label>правая лапа</Dryad_Basic.tools.right_claw.label>
+  <Dryad_Basic.tools.right_claw.labelNoLocation>лапа</Dryad_Basic.tools.right_claw.labelNoLocation>
+  <Dryad_Basic.tools.head.label>голова</Dryad_Basic.tools.head.label>
+  <Dryad_Berrymaker.label>дриада-ягодник</Dryad_Berrymaker.label>
+  <Dryad_Berrymaker.description>Каста дриад, занимающихся выработкой пищи. Эти дриады могут непрерывно производить питательные ягоды, но при этом медлительны и неэффективны в работе и в бою.\n\nДриады — это зверообразные существа, имеющие симбиотические отношения с древом Гауранлен. С его помощью они размножаются, и в нём же находится их королева. У дриад существует несколько каст, и они могут видоизменять себя для перехода из одной касты в другую.</Dryad_Berrymaker.description>
+  <Dryad_Berrymaker.tools.left_claw.label>левая лапа</Dryad_Berrymaker.tools.left_claw.label>
+  <Dryad_Berrymaker.tools.left_claw.labelNoLocation>лапа</Dryad_Berrymaker.tools.left_claw.labelNoLocation>
+  <Dryad_Berrymaker.tools.right_claw.label>правая лапа</Dryad_Berrymaker.tools.right_claw.label>
+  <Dryad_Berrymaker.tools.right_claw.labelNoLocation>лапа</Dryad_Berrymaker.tools.right_claw.labelNoLocation>
+  <Dryad_Berrymaker.tools.head.label>голова</Dryad_Berrymaker.tools.head.label>
+  <Dryad_Carrier.label>дриада-носильщик</Dryad_Carrier.label>
+  <Dryad_Carrier.description>Каста дриад, занимающихся переносом вещей. Под руководством людей они могут перемещать предметы туда, куда надо.\n\nДриады — это зверообразные существа, имеющие симбиотические отношения с древом Гауранлен. С его помощью они размножаются, и в нём же находится их королева. У дриад существует несколько каст, и они могут видоизменять себя для перехода из одной касты в другую.</Dryad_Carrier.description>
+  <Dryad_Carrier.tools.left_claw.label>левая лапа</Dryad_Carrier.tools.left_claw.label>
+  <Dryad_Carrier.tools.left_claw.labelNoLocation>лапа</Dryad_Carrier.tools.left_claw.labelNoLocation>
+  <Dryad_Carrier.tools.right_claw.label>правая лапа</Dryad_Carrier.tools.right_claw.label>
+  <Dryad_Carrier.tools.right_claw.labelNoLocation>лапа</Dryad_Carrier.tools.right_claw.labelNoLocation>
+  <Dryad_Carrier.tools.head.label>голова</Dryad_Carrier.tools.head.label>
+  <Dryad_Clawer.label>дриада-коготь</Dryad_Clawer.label>
+  <Dryad_Clawer.description>Дриады, основное предназначение которых — мощные атаки в бою. Своему названию они обязаны своим массивным когтям на лапах. Хоть эти дриады и могут наносить огромный урон, сами они уязвимы к атакам.\n\nДриады — это зверообразные существа, имеющие симбиотические отношения с древом Гауранлен. С его помощью они размножаются, и в нём же находится их королева. У дриад существует несколько каст, и они могут видоизменять себя для перехода из одной касты в другую.</Dryad_Clawer.description>
+  <Dryad_Clawer.tools.left_claw.label>левая лапа</Dryad_Clawer.tools.left_claw.label>
+  <Dryad_Clawer.tools.right_claw.label>правая лапа</Dryad_Clawer.tools.right_claw.label>
+  <Dryad_Clawer.tools.head.label>голова</Dryad_Clawer.tools.head.label>
+  <Dryad_Gaumaker.label>дриада-гау</Dryad_Gaumaker.label>
+  <Dryad_Gaumaker.description>Каста дриад, занимающихся воспроизводством древ Гауранлен с их созданиями-симбионтами, королевами дриад, путём создания новых семенных капсул Гауранлен. Создание капсул — длительный процесс слияния трёх дриад-гау.\n\nДриады — это зверообразные существа, имеющие симбиотические отношения с древом Гауранлен. С его помощью они размножаются, и в нём же находится их королева. У дриад существует несколько каст, и они могут видоизменять себя для перехода из одной касты в другую.</Dryad_Gaumaker.description>
+  <Dryad_Gaumaker.tools.left_claw.label>левая лапа</Dryad_Gaumaker.tools.left_claw.label>
+  <Dryad_Gaumaker.tools.left_claw.labelNoLocation>лапа</Dryad_Gaumaker.tools.left_claw.labelNoLocation>
+  <Dryad_Gaumaker.tools.right_claw.label>правая лапа</Dryad_Gaumaker.tools.right_claw.label>
+  <Dryad_Gaumaker.tools.right_claw.labelNoLocation>лапа</Dryad_Gaumaker.tools.right_claw.labelNoLocation>
+  <Dryad_Gaumaker.tools.head.label>голова</Dryad_Gaumaker.tools.head.label>
+  <Dryad_Medicinemaker.label>дриада-травник</Dryad_Medicinemaker.label>
+  <Dryad_Medicinemaker.description>Каста дриад, занимающихся производством медикаментов. Эти дриады могут непрерывно выращивать лекарственные травы, но при этом медлительны и неэффективны в работе и в бою.\n\nДриады — это зверообразные существа, имеющие симбиотические отношения с древом Гауранлен. С его помощью они размножаются, и в нём же находится их королева. У дриад существует несколько каст, и они могут видоизменять себя для перехода из одной касты в другую.</Dryad_Medicinemaker.description>
+  <Dryad_Medicinemaker.tools.left_claw.label>левая лапа</Dryad_Medicinemaker.tools.left_claw.label>
+  <Dryad_Medicinemaker.tools.left_claw.labelNoLocation>лапа</Dryad_Medicinemaker.tools.left_claw.labelNoLocation>
+  <Dryad_Medicinemaker.tools.right_claw.label>правая лапа</Dryad_Medicinemaker.tools.right_claw.label>
+  <Dryad_Medicinemaker.tools.right_claw.labelNoLocation>лапа</Dryad_Medicinemaker.tools.right_claw.labelNoLocation>
+  <Dryad_Medicinemaker.tools.head.label>голова</Dryad_Medicinemaker.tools.head.label>
+  <Dryad_Woodmaker.label>дриада-древесник</Dryad_Woodmaker.label>
+  <Dryad_Woodmaker.description>Каста медленных и неуклюжих дриад, занимающихся производством древесины. Эти дриады непрерывно производят похожий на древесину материал, но при этом медлительны и неэффективны в работе и в бою.\n\nДриады — это зверообразные существа, имеющие симбиотические отношения с древом Гауранлен. С его помощью они размножаются, и в нём же находится их королева. У дриад существует несколько каст, и они могут видоизменять себя для перехода из одной касты в другую.</Dryad_Woodmaker.description>
+  <Dryad_Woodmaker.tools.left_claw.label>левая лапа</Dryad_Woodmaker.tools.left_claw.label>
+  <Dryad_Woodmaker.tools.left_claw.labelNoLocation>лапа</Dryad_Woodmaker.tools.left_claw.labelNoLocation>
+  <Dryad_Woodmaker.tools.right_claw.label>правая лапа</Dryad_Woodmaker.tools.right_claw.label>
+  <Dryad_Woodmaker.tools.right_claw.labelNoLocation>лапа</Dryad_Woodmaker.tools.right_claw.labelNoLocation>
+  <Dryad_Woodmaker.tools.head.label>голова</Dryad_Woodmaker.tools.head.label>
+</LanguageData>

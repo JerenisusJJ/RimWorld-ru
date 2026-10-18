@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Aggressive.label>агрессивность</Aggressive.label>
+  <Aggressive.letterDesc>{PAWN_nameDef} внезапно меняется в лице и угрожающе ухмыляется.\n\n{PAWN_possessive} охватила агрессия.</Aggressive.letterDesc>
+  <Aggressive.letterLabel>{PAWN_nameDef} проявляет агрессию</Aggressive.letterLabel>
+  <CrumblingMind.label>отмирание разума</CrumblingMind.label>
+  <Disturbing.label>вселяет тревогу</Disturbing.label>
+  <EntityJailbreaker.label>побег твари</EntityJailbreaker.label>
+  <Leaves.label>уходит</Leaves.label>
+  <Leaves.letterDesc>{PAWN_nameDef} благодарит вас за гостеприимство и собирается продолжить свой путь.</Leaves.letterDesc>
+  <Leaves.letterLabel>{PAWN_nameDef} уходит</Leaves.letterLabel>
+  <Metalhorror.label>металлическая жуть</Metalhorror.label>
+  <Nothing.label>ничего</Nothing.label>
+  <OrganDecay.label>распад органа</OrganDecay.label>
+  <PsychicAgony.label>пси-агония</PsychicAgony.label>
+  <PsychicAgony.letterDesc>{PAWN_nameDef} невольно высвобождает волну страданий! Попытки предотвратить беду оказались тщетными.\n\nВсе существа поблизости будут испытывать невыносимую боль. Эффект продлится несколько дней.</PsychicAgony.letterDesc>
+  <PsychicAgony.letterLabel>Пси-агония</PsychicAgony.letterLabel>
+  <PsychicAgony.surgicalInspectionLetterExtra>{SURGEON_nameDef} замечает слабую, но болезненную псионическую ауру, и её источник — {PAWN_nameDef}. {SURGEON_nameDef} не может понять, что вызвало такой эффект.</PsychicAgony.surgicalInspectionLetterExtra>
+</LanguageData>

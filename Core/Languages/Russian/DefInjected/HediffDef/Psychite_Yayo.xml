@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PsychiteAddiction.label>психиновая зависимость</PsychiteAddiction.label>
+  <PsychiteAddiction.description>Зависимость от психина. Его продолжительное употребление вызывает неврологические изменения на клеточном уровне, из-за чего мозг уже не способен нормально функционировать без вещества.\n\nПерерыв в регулярном употреблении психина вызовет абстинентный синдром — ломку. Длительное воздержание поможет мозгу вернуться к нормальному состоянию и избавиться от зависимости.</PsychiteAddiction.description>
+  <PsychiteAddiction.stages.withdrawal.label>ломка</PsychiteAddiction.stages.withdrawal.label>
+  <PsychiteTolerance.label>толерантность к психину</PsychiteTolerance.label>
+  <PsychiteTolerance.description>Толерантность к психину. Чем она серьёзнее, тем больше потребуется обработанного психина для получения первоначального эффекта.</PsychiteTolerance.description>
+  <PsychiteTolerance.stages.small.label>небольшая</PsychiteTolerance.stages.small.label>
+  <PsychiteTolerance.stages.large.label>средняя</PsychiteTolerance.stages.large.label>
+  <PsychiteTolerance.stages.massive.label>сильная</PsychiteTolerance.stages.massive.label>
+  <YayoHigh.label>под кайфом от порошка психина</YayoHigh.label>
+  <YayoHigh.description>Активные компоненты порошка психина в крови вызывают чрезвычайно сильное ощущение эйфории.</YayoHigh.description>
+  <YayoHigh.labelNoun>кайф от порошка психина</YayoHigh.labelNoun>
+</LanguageData>

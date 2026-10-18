@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Ageless.label>вечная молодость</Ageless.label>
+  <Ageless.description>Носители этого гена не стареют благодаря архитам, циркулирующим в кровеносной системе и обращающим процесс вспять. С 13-летнего возраста биологическое старение носителя замедляется, а после 18 полностью останавливается.</Ageless.description>
+  <Ageless.symbolPack.prefixSymbols.0.symbol>боже</Ageless.symbolPack.prefixSymbols.0.symbol>
+  <Ageless.symbolPack.prefixSymbols.1.symbol>вечно</Ageless.symbolPack.prefixSymbols.1.symbol>
+  <Ageless.symbolPack.prefixSymbols.2.symbol>несмертно</Ageless.symbolPack.prefixSymbols.2.symbol>
+  <Ageless.symbolPack.prefixSymbols.3.symbol>небо</Ageless.symbolPack.prefixSymbols.3.symbol>
+  <Ageless.symbolPack.suffixSymbols.0.symbol>бог</Ageless.symbolPack.suffixSymbols.0.symbol>
+  <Ageless.symbolPack.suffixSymbols.1.symbol>демиург</Ageless.symbolPack.suffixSymbols.1.symbol>
+  <Ageless.symbolPack.wholeNameSymbols.0.symbol>бессмертный</Ageless.symbolPack.wholeNameSymbols.0.symbol>
+  <Ageless.symbolPack.wholeNameSymbols.1.symbol>несмертный</Ageless.symbolPack.wholeNameSymbols.1.symbol>
+  <ArchiteMetabolism.label>архитный метаболизм</ArchiteMetabolism.label>
+  <ArchiteMetabolism.description>Носители этого гена имеют улучшенный обмен веществ благодаря архитам, циркулирующим в кровеносной системе и оптимизирующим процесс.</ArchiteMetabolism.description>
+  <ArchiteMetabolism.labelShortAdj>архо-метаболизм</ArchiteMetabolism.labelShortAdj>
+  <Deathless.label>бессмертие</Deathless.label>
+  <Deathless.description>Архиты в крови носителей этого гена не дадут им умереть ни при каких обстоятельствах. До тех пор, пока мозг носителя цел, он будет жить.</Deathless.description>
+  <Deathless.customEffectDescriptions.0>Смерть только при разрушении мозга.</Deathless.customEffectDescriptions.0>
+  <Deathless.symbolPack.prefixSymbols.0.symbol>боже</Deathless.symbolPack.prefixSymbols.0.symbol>
+  <Deathless.symbolPack.prefixSymbols.1.symbol>вечно</Deathless.symbolPack.prefixSymbols.1.symbol>
+  <Deathless.symbolPack.prefixSymbols.2.symbol>несмертно</Deathless.symbolPack.prefixSymbols.2.symbol>
+  <Deathless.symbolPack.suffixSymbols.0.symbol>бог</Deathless.symbolPack.suffixSymbols.0.symbol>
+  <Deathless.symbolPack.suffixSymbols.1.symbol>демиург</Deathless.symbolPack.suffixSymbols.1.symbol>
+  <Deathless.symbolPack.wholeNameSymbols.0.symbol>бессмертный</Deathless.symbolPack.wholeNameSymbols.0.symbol>
+  <Deathrest.label>торпор</Deathrest.label>
+  <Deathrest.description>Обладатели гена торпора должны периодически входить на несколько дней в особое коматозное состояние, продолжающееся несколько дней. Данное исследование позволяет создавать аппараты, уменьшающие время комы и дающие особые преимущества от торпора. Со временем вы сможете построить великий храм торпора.</Deathrest.description>
+  <Deathrest.symbolPack.prefixSymbols.0.symbol>смерте</Deathrest.symbolPack.prefixSymbols.0.symbol>
+  <Deathrest.symbolPack.prefixSymbols.1.symbol>мертво</Deathrest.symbolPack.prefixSymbols.1.symbol>
+  <Deathrest.symbolPack.prefixSymbols.2.symbol>упокое</Deathrest.symbolPack.prefixSymbols.2.symbol>
+  <Deathrest.symbolPack.suffixSymbols.0.symbol>покоящийся</Deathrest.symbolPack.suffixSymbols.0.symbol>
+  <DiseaseFree.label>нестарение</DiseaseFree.label>
+  <DiseaseFree.description>Носители этого гена стареют не так, как обычные люди. Они не страдают возрастными заболеваниями, вроде деменции или катаракты, у них нет старческих болей в спине и не развивается рак.</DiseaseFree.description>
+  <FireTerror.label>страх перед огнём</FireTerror.label>
+  <FireTerror.description>Носители этого гена испытывают острый страх перед огнём. Находясь рядом с его открытыми источниками, они рискуют получить нервный срыв.</FireTerror.description>
+  <FireTerror.customEffectDescriptions.0>Возможен нервный срыв рядом с открытым огнём.</FireTerror.customEffectDescriptions.0>
+  <FireTerror.labelShortAdj>пирофобия</FireTerror.labelShortAdj>
+  <FireWeakness.label>сенокожа</FireWeakness.label>
+  <FireWeakness.description>Носители этого гена очень легко получают ожоги из-за своей тонкой и сухой кожи, их иммунная система также очень болезненно реагирует на такие повреждения. Урон от огня увеличен в 4 раза.</FireWeakness.description>
+  <FireWeakness.labelShortAdj>сенокожа</FireWeakness.labelShortAdj>
+  <FireWeakness.symbolPack.prefixSymbols.0.symbol>сухо</FireWeakness.symbolPack.prefixSymbols.0.symbol>
+  <FireWeakness.symbolPack.prefixSymbols.1.symbol>сено</FireWeakness.symbolPack.prefixSymbols.1.symbol>
+  <FireWeakness.symbolPack.prefixSymbols.2.symbol>щепко</FireWeakness.symbolPack.prefixSymbols.2.symbol>
+  <HemogenDrain.label>гемогенная нестабильность</HemogenDrain.label>
+  <HemogenDrain.description>Носители этого гена ежедневно теряют дополнительные 8 единиц гемогена из-за его ускоренного распада в организме.</HemogenDrain.description>
+  <HemogenDrain.labelShortAdj>геможажда</HemogenDrain.labelShortAdj>
+  <HemogenDrain.resourceLabel>гемоген</HemogenDrain.resourceLabel>
+  <Hemogenic.label>гемогеничность</Hemogenic.label>
+  <Hemogenic.description>Носители данного гена способны хранить и извлекать биоэнергию из особого вещества под названием гемоген. Это вещество можно получить разными путями и расходовать множеством способов, которые становятся возможны при наличии определённых генов.\n\nНосители гена теряют 2 единицы гемогена в день из-за его естественного распада в организме.</Hemogenic.description>
+  <Hemogenic.customEffectDescriptions.0>Даёт запас гемогена.</Hemogenic.customEffectDescriptions.0>
+  <Hemogenic.resourceDescription>Запас биоэнергии, который можно восполнять разными путями и расходовать множеством способов.\n\nГемоген можно взять напрямую из крови другого человека или употребив готовый гемоген-пакет. Гемоген-пакет можно получить с помощью операции по извлечению из негемогеничного человека.\n\nЕсли запас гемогена в организме иссякнет, {PAWN_nameDef} очень сильно расстроится.</Hemogenic.resourceDescription>
+  <Hemogenic.resourceLabel>гемоген</Hemogenic.resourceLabel>
+  <Hemogenic.symbolPack.prefixSymbols.0.symbol>гемо</Hemogenic.symbolPack.prefixSymbols.0.symbol>
+  <PerfectImmunity.label>превосходный иммунитет</PerfectImmunity.label>
+  <PerfectImmunity.description>Носители этого гена обладают улучшенной архитами иммунной системой, способной избирательно уничтожать патогены и защищать организм от большинства болезней.</PerfectImmunity.description>
+  <PerfectImmunity.labelShortAdj>супериммунитет</PerfectImmunity.labelShortAdj>
+  <TotalHealing.label>регенерация</TotalHealing.label>
+  <TotalHealing.description>Носители этого гена обладают специальным типом клеток, способных заживлять старые раны и шрамы, а также лечить хронические заболевания, в частности, больную спину.</TotalHealing.description>
+  <TotalHealing.customEffectDescriptions.0>Каждые (*DateTime)15-30 дней(/DateTime) излечивается старая рана, шрам или хроническое заболевание.</TotalHealing.customEffectDescriptions.0>
+  <TotalHealing.labelShortAdj>регенерация</TotalHealing.labelShortAdj>
+</LanguageData>

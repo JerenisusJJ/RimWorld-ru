@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Drifter.label>бродяга</Drifter.label>
+  <Drifter.labelPlural>бродяги</Drifter.labelPlural>
+  <Pirate.label>пират</Pirate.label>
+  <Pirate.labelPlural>пираты</Pirate.labelPlural>
+  <Scavenger.label>стервятник</Scavenger.label>
+  <Scavenger.labelFemale>стервятница</Scavenger.labelFemale>
+  <Scavenger.labelPlural>стервятники</Scavenger.labelPlural>
+  <Thrasher.label>вышибала</Thrasher.label>
+  <Thrasher.labelPlural>вышибалы</Thrasher.labelPlural>
+</LanguageData>

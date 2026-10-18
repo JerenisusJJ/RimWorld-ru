@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Lovin_FreeApproved.label>свободна и одобряется</Lovin_FreeApproved.label>
+  <Lovin_FreeApproved.description>Заниматься любовью — здорово, независимо от того, кто и с кем это делает.</Lovin_FreeApproved.description>
+  <Lovin_Horrible.label>ужасна</Lovin_Horrible.label>
+  <Lovin_Horrible.description>Физическая близость всегда омерзительна, но необходима в браке.</Lovin_Horrible.description>
+  <Lovin_Horrible.comps.1.description>Прелюбодеяние</Lovin_Horrible.comps.1.description>
+  <Lovin_Horrible.comps.3.description>Похотливое действо</Lovin_Horrible.comps.3.description>
+  <Lovin_Prohibited.label>запрещена</Lovin_Prohibited.label>
+  <Lovin_Prohibited.description>Физическая близость всегда мерзка, гнусна и отвратительна.</Lovin_Prohibited.description>
+  <Lovin_Prohibited.comps.1.description>Похотливое действо</Lovin_Prohibited.comps.1.description>
+  <Lovin_SpouseOnly_Mild.label>предпочтителен брак</Lovin_SpouseOnly_Mild.label>
+  <Lovin_SpouseOnly_Mild.description>Хотя заниматься любовью вне брака можно, это всё ещё неправильно.</Lovin_SpouseOnly_Mild.description>
+  <Lovin_SpouseOnly_Mild.comps.1.description>Прелюбодеяние</Lovin_SpouseOnly_Mild.comps.1.description>
+  <Lovin_SpouseOnly_Moderate.label>требуется брак</Lovin_SpouseOnly_Moderate.label>
+  <Lovin_SpouseOnly_Moderate.description>Заниматься любовью вне брака — неправильно.</Lovin_SpouseOnly_Moderate.description>
+  <Lovin_SpouseOnly_Moderate.comps.1.description>Прелюбодеяние</Lovin_SpouseOnly_Moderate.comps.1.description>
+  <Lovin_SpouseOnly_Strict.label>обязателен брак</Lovin_SpouseOnly_Strict.label>
+  <Lovin_SpouseOnly_Strict.description>Заниматься любовью с кем-то вне брака — верх безнравственности.</Lovin_SpouseOnly_Strict.description>
+  <Lovin_SpouseOnly_Strict.comps.1.description>Прелюбодеяние</Lovin_SpouseOnly_Strict.comps.1.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Denture.label>зубной протез</Denture.label>
+  <Denture.description>Установленный зубной протез. Даёт возможность жевать пищу и говорить.</Denture.description>
+  <Denture.labelNoun>зубной протез</Denture.labelNoun>
+  <PegLeg.label>деревянная нога</PegLeg.label>
+  <PegLeg.description>Установленная деревянная нога. Даёт возможность снова ходить, пусть и не так ловко, как раньше.</PegLeg.description>
+  <PegLeg.labelNoun>деревянная нога</PegLeg.labelNoun>
+  <WoodenFoot.label>деревянная стопа</WoodenFoot.label>
+  <WoodenFoot.description>Установленная деревянная стопа. Возвращает пользователю способность стабильно стоять и ходить, но без прежних двигательных навыков.</WoodenFoot.description>
+  <WoodenFoot.labelNoun>деревянная стопа</WoodenFoot.labelNoun>
+  <WoodenHand.label>деревянная кисть</WoodenHand.label>
+  <WoodenHand.description>Установленная деревянная кисть. Лучше, чем культя, но ненамного.</WoodenHand.description>
+  <WoodenHand.labelNoun>деревянная кисть</WoodenHand.labelNoun>
+</LanguageData>

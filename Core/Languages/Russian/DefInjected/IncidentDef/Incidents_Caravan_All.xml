@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Ambush.label>засада</Ambush.label>
+  <Ambush.letterLabel>Караван попал в засаду</Ambush.letterLabel>
+  <Ambush.letterText>{0} поджидали в засаде {1} из фракции {2}!</Ambush.letterText>
+  <CaravanDemand.label>засада разбойников</CaravanDemand.label>
+  <CaravanDemand.letterLabel>Караван попал в засаду</CaravanDemand.letterLabel>
+  <CaravanDemand.letterText>{0} попал в засаду {lookup: {1}; Case; 1} из фракции {2}! Они требуют платы за проход.</CaravanDemand.letterText>
+  <CaravanMeeting.label>встреча караванов</CaravanMeeting.label>
+  <ManhunterAmbush.label>нападение животных</ManhunterAmbush.label>
+  <ManhunterAmbush.letterLabel>На караван напали животные</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterText>На {0} напали агрессивные {1}, заражённые агриозом!</ManhunterAmbush.letterText>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Alpaca.label>альпака</Alpaca.label>
+  <Alpaca.description>Родственное ламам копытное средних размеров. В основном их разводят ради их исключительно тёплой и мягкой шерсти. Альпака применяются в качестве вьючных животных с тех пор, как на них возили грузы по опасным горным тропам древней Южной Америки.</Alpaca.description>
+  <Alpaca.tools.left_hoof.label>левое копыто</Alpaca.tools.left_hoof.label>
+  <Alpaca.tools.left_hoof.labelNoLocation>копыто</Alpaca.tools.left_hoof.labelNoLocation>
+  <Alpaca.tools.right_hoof.label>правое копыто</Alpaca.tools.right_hoof.label>
+  <Alpaca.tools.right_hoof.labelNoLocation>копыто</Alpaca.tools.right_hoof.labelNoLocation>
+  <Alpaca.tools.head.label>голова</Alpaca.tools.head.label>
+  <Capybara.label>капибара</Capybara.label>
+  <Capybara.description>Крупнейший из грызунов, хорошо приспособлен для жизни в джунглях.</Capybara.description>
+  <Capybara.tools.left_claw.label>левая лапа</Capybara.tools.left_claw.label>
+  <Capybara.tools.left_claw.labelNoLocation>лапа</Capybara.tools.left_claw.labelNoLocation>
+  <Capybara.tools.right_claw.label>правая лапа</Capybara.tools.right_claw.label>
+  <Capybara.tools.right_claw.labelNoLocation>лапа</Capybara.tools.right_claw.labelNoLocation>
+  <Capybara.tools.head.label>голова</Capybara.tools.head.label>
+  <Megasloth.label>гигантский ленивец</Megasloth.label>
+  <Megasloth.description>Эти гигантские травоядные одиночки имеют на каждой лапе по два огромных когтя, что позволяет им отбиваться от угроз. Гигантские ленивцы были давно истреблены на Земле аборигенами Америки, но при помощи продвинутых технологий клонирования и искусственного вынашивания учёным впоследствии удалось вернуть этот вид к жизни. Их шкура чрезвычайно прочная, а мех прекрасно защищает от холода. Ленивцы весьма миролюбивы, если их не трогать, но обидчиков могут без труда разорвать своими огромными когтями.</Megasloth.description>
+  <Megasloth.tools.left_claw.label>левая лапа</Megasloth.tools.left_claw.label>
+  <Megasloth.tools.left_claw.labelNoLocation>лапа</Megasloth.tools.left_claw.labelNoLocation>
+  <Megasloth.tools.right_claw.label>правая лапа</Megasloth.tools.right_claw.label>
+  <Megasloth.tools.right_claw.labelNoLocation>лапа</Megasloth.tools.right_claw.labelNoLocation>
+  <Megasloth.tools.head.label>голова</Megasloth.tools.head.label>
+  <Sheep.label>овца</Sheep.label>
+  <Sheep.description>Овцеводство распространено в большинстве обитаемых миров, но лишь недавно пришло в окраинные миры. Домашние овцы — относительно небольшие травоядные, обычно с желтоватой шерстью и средних размеров рогами.</Sheep.description>
+  <Sheep.tools.head.label>голова</Sheep.tools.head.label>
+  <Sheep.tools.left_hoof.label>левое копыто</Sheep.tools.left_hoof.label>
+  <Sheep.tools.left_hoof.labelNoLocation>копыто</Sheep.tools.left_hoof.labelNoLocation>
+  <Sheep.tools.right_hoof.label>правое копыто</Sheep.tools.right_hoof.label>
+  <Sheep.tools.right_hoof.labelNoLocation>копыто</Sheep.tools.right_hoof.labelNoLocation>
+</LanguageData>

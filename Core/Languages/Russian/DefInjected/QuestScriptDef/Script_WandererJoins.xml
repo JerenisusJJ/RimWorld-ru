@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WandererJoinAbasia.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;К поселению присоединяется человек, больной абазией</li>
+  </WandererJoinAbasia.questDescriptionRules.rulesStrings>
+  <WandererJoinAbasia.questNameRules.rulesStrings>
+    <li>questName-&gt;Пополнение (абазия)</li>
+  </WandererJoinAbasia.questNameRules.rulesStrings>
+</LanguageData>

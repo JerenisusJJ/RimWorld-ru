@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MoodOffsetHappy.stages.genetic_optimism.label>генетический оптимизм</MoodOffsetHappy.stages.genetic_optimism.label>
+  <MoodOffsetHappy.stages.genetic_optimism.description>Естественное влияние гена «оптимизм».</MoodOffsetHappy.stages.genetic_optimism.description>
+  <MoodOffsetUnhappy.stages.genetic_pessimism.label>генетический пессимизм</MoodOffsetUnhappy.stages.genetic_pessimism.label>
+  <MoodOffsetUnhappy.stages.genetic_pessimism.description>Естественное влияние гена «пессимизм».</MoodOffsetUnhappy.stages.genetic_pessimism.description>
+  <MoodOffsetVeryHappy.stages.genetic_joy.label>генетическое счастье</MoodOffsetVeryHappy.stages.genetic_joy.label>
+  <MoodOffsetVeryHappy.stages.genetic_joy.description>Естественное влияние гена «крайний оптимизм».</MoodOffsetVeryHappy.stages.genetic_joy.description>
+  <MoodOffsetVeryUnhappy.stages.genetic_depression.label>генетическая депрессия</MoodOffsetVeryUnhappy.stages.genetic_depression.label>
+  <MoodOffsetVeryUnhappy.stages.genetic_depression.description>Естественное влияние гена «крайний пессимизм».</MoodOffsetVeryUnhappy.stages.genetic_depression.description>
+</LanguageData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MainPageCredit>Генератор захватывающих историй от Тайнена Сильвестра</MainPageCredit>
+  <Credits_Design>Дизайн</Credits_Design>
+  <Credits_Developers>Разработчики</Credits_Developers>
+  <Credit_MusicAndSound>Музыка и звук</Credit_MusicAndSound>
+  <Credit_GameArt>Дизайн игры</Credit_GameArt>
+  <Credit_Testers>Тестировщики</Credit_Testers>
+  <Credits_AdditionalDevelopment>Доп. разработка</Credits_AdditionalDevelopment>
+  <Credit_SpecialThanks>Особая благодарность</Credit_SpecialThanks>
+  <Credits_TitleTester>Тестировщики из сообщества</Credits_TitleTester>
+  <Credits_TitleMods>Моды</Credits_TitleMods>
+  <Credits_TitleLanguage>{0} ({1}) язык</Credits_TitleLanguage>
+  <Credits_Localization_Anomaly>Локализация Anomaly</Credits_Localization_Anomaly>
+  <Credits_Localization_Odyssey>Локализация Odyssey</Credits_Localization_Odyssey>
+  <Credits_LeadLocalizationProjectManager>Ведущий руководитель проекта локализации</Credits_LeadLocalizationProjectManager>
+  <Credits_LocalizationProjectManager>Руководитель проекта локализации</Credits_LocalizationProjectManager>
+  <Credits_ProjectManager>Руководитель проекта</Credits_ProjectManager>
+  <Credits_Translator>Переводчик</Credits_Translator>
+  <Credits_Editor>Редактор</Credits_Editor>
+  <Credits_French>Французский</Credits_French>
+  <Credits_Japanese>Японский</Credits_Japanese>
+  <Credits_Korean>Корейский</Credits_Korean>
+  <Credits_Polish>Польский</Credits_Polish>
+  <Credits_Russian>Русский</Credits_Russian>
+  <Credits_Dutch>Нидерландский</Credits_Dutch>
+  <Credits_Turkish>Турецкий</Credits_Turkish>
+  <Credits_Ukrainian>Украинский</Credits_Ukrainian>
+  <Credits_ChineseSimplified>Упрощённый китайский</Credits_ChineseSimplified>
+  <Credits_ChineseTraditional>Традиционный китайский</Credits_ChineseTraditional>
+  <AndOtherVolunteers>и многие другие любезные добровольцы!</AndOtherVolunteers>
+  <Credit_TestLead>Ведущий тестировщик</Credit_TestLead>
+  <Credits_TitleCommunity>Волонтёры из сообщества</Credits_TitleCommunity>
+  <Credit_ModDonation>Дарители модов</Credit_ModDonation>
+  <Credit_WritingDonation>Даритель текста</Credit_WritingDonation>
+  <ThanksForPlaying>Спасибо за игру!</ThanksForPlaying>
+  <SkipCredits>Пропустить</SkipCredits>
+</LanguageData>

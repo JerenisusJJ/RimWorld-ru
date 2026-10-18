@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EntropyLink.label>энтропийная связь</EntropyLink.label>
+  <EntropyLink.description>Психическая связь между двумя индивидуумами. Нейроперегрев будет поровну распределяться между обоими.</EntropyLink.description>
+  <Joyfuzz.label>волна радости</Joyfuzz.label>
+  <Joyfuzz.description>Психически вызванное ощущение внутреннего тепла, спокойствия и довольствия. В этом состоянии улучшается настроение, но недостаток негативных стимулов слегка затормаживает мозговую активность и подавляет сознание.</Joyfuzz.description>
+  <PsychicAnesthesia.label>пси-анестезия</PsychicAnesthesia.label>
+  <PsychicAnesthesia.description>Психически вызванная нечувствительность к боли.</PsychicAnesthesia.description>
+  <PsychicBlindness.label>пси-слепота</PsychicBlindness.label>
+  <PsychicBlindness.description>Психически вызванная частичная слепота.</PsychicBlindness.description>
+  <PsychicBreakdown.label>пси-срыв</PsychicBreakdown.label>
+  <PsychicBreakdown.description>Глубокая психическая дестабилизация сознания. Пси-срыв может продолжаться днями, вызывая психические расстройства разного типа.</PsychicBreakdown.description>
+  <PsychicBreakdown.stages.minor.label>незначительный</PsychicBreakdown.stages.minor.label>
+  <PsychicBreakdown.stages.major.label>серьёзный</PsychicBreakdown.stages.major.label>
+  <PsychicBreakdown.stages.total.label>общий</PsychicBreakdown.stages.total.label>
+  <PsychicBurden.label>пси-бремя</PsychicBurden.label>
+  <PsychicBurden.description>Психически вызванное затруднение передвижения.</PsychicBurden.description>
+  <PsychicEntropy.label>нейроперегрев</PsychicEntropy.label>
+  <PsychicEntropy.description>Несмотря на этимологию, нейроперегрев не имеет ничего общего с температурой. Это вид хаотической пси-энергии сознания, накапливаемой в результате применения пси-способностей и рассеиваемой по прошествии нескольких секунд или минут.\n\nЕсли нейроперегрев превысит верхний порог нормы, он может вызвать временный пси-срыв или потерю сознания из-за психического шока. Эти состояния не нанесут необратимого вреда.</PsychicEntropy.description>
+  <PsychicEntropy.descriptionShort>Хаотическая пси-энергия сознания, накапливаемая в результате применения пси-способностей. При превышении порога нормы может вызвать пси-срыв или потерю сознания.</PsychicEntropy.descriptionShort>
+  <PsychicEntropy.stages.safe.label>безопасный</PsychicEntropy.stages.safe.label>
+  <PsychicEntropy.stages.overloaded.label>средний</PsychicEntropy.stages.overloaded.label>
+  <PsychicEntropy.stages.very_overloaded.label>серьёзный</PsychicEntropy.stages.very_overloaded.label>
+  <PsychicEntropy.stages.extreme.label>опасный</PsychicEntropy.stages.extreme.label>
+  <PsychicEntropy.stages.overwhelming.label>критический</PsychicEntropy.stages.overwhelming.label>
+  <PsychicFocus.label>пси-фокусировка</PsychicFocus.label>
+  <PsychicFocus.description>Психически вызванная ментальная фокусировка, улучшающая зрение, слух и возможности перемещения.</PsychicFocus.description>
+  <PsychicLove.label>пси-любовь</PsychicLove.label>
+  <PsychicLove.description>Психически вызванное обожание. Улучшает отношение к какому-либо другому человеку. Между взрослыми людьми повышает успешность ухаживаний и предложений руки и сердца. Также понижает вероятность разрыва внутри отношений.</PsychicLove.description>
+  <PsychicLove.targetPrefix>к</PsychicLove.targetPrefix>
+  <PsychicVertigo.label>пси-головокружение</PsychicVertigo.label>
+  <PsychicVertigo.description>Психически вызванная потеря ориентации в пространстве. Вызывает рвоту у живых существ.</PsychicVertigo.description>
+</LanguageData>

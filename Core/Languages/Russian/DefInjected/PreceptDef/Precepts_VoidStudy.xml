@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <VoidStudy_Efficient.label>высокая эффективность</VoidStudy_Efficient.label>
+  <VoidStudy_Efficient.description>Пустота — настоящая загадка. Её обязательно нужно изучать.</VoidStudy_Efficient.description>
+  <VoidStudy_Inefficient.label>низкая эффективность</VoidStudy_Inefficient.label>
+  <VoidStudy_Inefficient.description>Бессмысленно пытаться познать непознаваемое. Есть более полезные занятия.</VoidStudy_Inefficient.description>
+  <VoidStudy_VeryEfficient.label>очень высокая эффективность</VoidStudy_VeryEfficient.label>
+  <VoidStudy_VeryEfficient.description>Пустота — высшая истина.</VoidStudy_VeryEfficient.description>
+  <VoidStudy_VeryInefficient.label>очень низкая эффективность</VoidStudy_VeryInefficient.label>
+  <VoidStudy_VeryInefficient.description>Весь этот бред с «пустотой» — просто суеверия. Давайте займёмся реальными проблемами.</VoidStudy_VeryInefficient.description>
+</LanguageData>

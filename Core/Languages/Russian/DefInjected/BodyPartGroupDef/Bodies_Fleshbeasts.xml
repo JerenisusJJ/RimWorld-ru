@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <FifthTentacle.label>щупальце</FifthTentacle.label>
+  <FirstTentacle.label>щупальце</FirstTentacle.label>
+  <FourthTentacle.label>щупальце</FourthTentacle.label>
+  <LeftSpike.label>левый шип</LeftSpike.label>
+  <LeftSpike.labelShort>шип</LeftSpike.labelShort>
+  <MiddleSpike.label>центральный шип</MiddleSpike.label>
+  <MiddleSpike.labelShort>шип</MiddleSpike.labelShort>
+  <RightSpike.label>правый шип</RightSpike.label>
+  <RightSpike.labelShort>шип</RightSpike.labelShort>
+  <SecondTentacle.label>щупальце</SecondTentacle.label>
+  <ThirdTentacle.label>щупальце</ThirdTentacle.label>
+</LanguageData>

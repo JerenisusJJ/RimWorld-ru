@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Asteroid.label>астероид</Asteroid.label>
+  <AsteroidBasic.label>основной астероид</AsteroidBasic.label>
+  <OrbitalItemStash.label>орбитальный схрон</OrbitalItemStash.label>
+  <OrbitalRelay.label>орбитальный ретранслятор</OrbitalRelay.label>
+  <SettlementPlatform.label>платформа поселения</SettlementPlatform.label>
+  <Space.label>космос</Space.label>
+  <SpacePocket.label>космос</SpacePocket.label>
+</LanguageData>

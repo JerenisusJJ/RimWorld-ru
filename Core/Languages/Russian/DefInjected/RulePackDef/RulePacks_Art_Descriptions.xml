@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+    <li>r_art_description-&gt;[physical_description_root] [context_sentence]</li>
+    <li>desc_sentence_group-&gt;[desc_sentence] [style_group]</li>
+    <li>context_sentence-&gt;Эта работа отсылает к тому, [tale_noun] [DATE].</li>
+    <li>context_sentence-&gt;Эта работа относится к тому, [tale_noun] [DATE].</li>
+    <li>context_sentence-&gt;Эта работа рассказывает историю о том, [tale_noun] [DATE].</li>
+  </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+    <li>r_art_description-&gt;[physical_description_root]</li>
+    <li>desc_sentence_group-&gt;[style_group]</li>
+  </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings>
+    <li>empty-&gt;</li>
+    <li>style_group-&gt;[artextra_clause]. [style_clause].</li>
+    <li>style_group-&gt;[style_clause]. [artextra_clause].</li>
+    <li>style_group-&gt;[artextra_clause]. Примечательно, что [style_clause].</li>
+    <li>style_group-&gt;[artextra_clause]. Заметно, что [style_clause].</li>
+    <li>artextra_clause-&gt;Картину окаймляет [Quantity_adjphrase] изображений. На них — [Animal]</li>
+    <li>artextra_clause-&gt;[side_position] располагается [Community]</li>
+    <li>artextra_clause-&gt;[side_position] располагается [TerrainFeature]</li>
+    <li>artextra_clause-&gt;[side_position] виднеется [Animal]</li>
+    <li>artextra_clause-&gt;[Animal] [side_position], по всей видимости, символизирует идею [ConceptAny]</li>
+    <li>artextra_clause-&gt;Персонифицированное изображение [ConceptAny] [idle_verb_progressive] [side_position]</li>
+    <li>artextra_clause-&gt;В качестве места, где происходит сцена, выступает [Community]</li>
+    <li>artextra_clause-&gt;На всё это сверху, улыбаясь, глядит [Outlander]</li>
+    <li>artextra_clause-&gt;[side_position] виднеется [TerrainFeature]. Рядом с этим местом находится [Community], где и происходит действие</li>
+    <li>artextra_clause-&gt;Нижнюю часть картины в основном заполняет [TerrainFeature]</li>
+    <li>artextra_clause-&gt;Всё изображение составлено из сотен маленьких, аккуратно расположенных [AnimalBadass_plural_gen]</li>
+    <li>artextra_clause-&gt;[Outlander] [idle_verb_progressive] [side_position]</li>
+    <li>artextra_clause-&gt;[Animal] [idle_verb_progressive] [side_position]</li>
+    <li>style_clause-&gt;[composition] структура изображения и его [artstyle_adj] стиль практически конфликтуют друг с другом</li>
+    <li>style_clause-&gt;каким-то образом изображению удаётся одновременно передать и идею [ConceptAny], и идею [ConceptAny]</li>
+    <li>style_clause-&gt;изображение напрочь лишено тем [ConceptAny] и [ConceptAny]</li>
+    <li>style_clause-&gt;стиль изображения — [artstyle_adj], и отчасти [artstyle_adj]</li>
+    <li>style_clause-&gt;работа содержит [Color] и [Color] цвета, и их сочетания</li>
+    <li>style_clause-&gt;изображение, по всей видимости, выражает идею [ConceptAny]</li>
+    <li>style_clause-&gt;работа наполнена идеей [ConceptAny] и имеет [artstyle_adj] стиль</li>
+    <li>style_clause-&gt;работа раскрывает тему [ConceptAny]</li>
+    <li>style_clause-&gt;практически каждая форма на изображении — [composition]</li>
+    <li>style_clause-&gt;[artstyle_adj] стиль центральной композиции и [artstyle_adj] стиль фона явно противоречат друг другу</li>
+    <li>style_clause-&gt;работа имеет [artstyle_adj] стиль и её структура очень [composition]</li>
+    <li>style_clause-&gt;общая композиция — весьма [composition]</li>
+    <li>physical_description_root-&gt;[on_this_art] [author] [depicted][image]. [desc_sentence_group]</li>
+    <li>physical_description_root-&gt;[this_art] [depicts][image]. [desc_sentence_group]</li>
+    <li>on_this_art-&gt;на этом произведении искусства</li>
+    <li>on_this_art-&gt;на этом предмете</li>
+    <li>on_this_art-&gt;на этом творении</li>
+    <li>on_this_art_sculpture-&gt;в этой работе</li>
+    <li>this_art_sculpture-&gt;эта скульптура</li>
+    <li>this_art_sculpture-&gt;эта резная фигура</li>
+    <li>this_art_sculpture-&gt;это изваяние</li>
+    <li>this_art_engraving-&gt;декоративный рисунок [on_this_art]</li>
+    <li>this_art_engraving-&gt;гравировка [on_this_art]</li>
+    <li>this_art_engraving_carving(p=2)-&gt;[this_art_engraving]</li>
+    <li>this_art_engraving_carving-&gt;резьба [on_this_art]</li>
+    <li>depicts-&gt;изображает</li>
+    <li>depicts-&gt;показывает</li>
+    <li>author-&gt;мастер</li>
+    <li>author-&gt;автор</li>
+    <li>author_sculpture-&gt;скульптор</li>
+    <li>author_sculpture-&gt;творец</li>
+    <li>author_sculpture-&gt;художник</li>
+    <li>depicted-&gt;изобразил</li>
+    <li>depicted-&gt;показал</li>
+    <li>depicted_engraving-&gt;выгравировал</li>
+    <li>depicted_engraving_carving-&gt;[depicted_engraving]</li>
+    <li>depicted_engraving_carving-&gt;вырезал</li>
+    <li>composition-&gt;динамичная</li>
+    <li>composition-&gt;статичная</li>
+    <li>composition-&gt;хорошо сбалансированная</li>
+    <li>composition-&gt;несбалансированная</li>
+    <li>composition-&gt;квадратная</li>
+    <li>composition-&gt;прямоугольная</li>
+    <li>composition-&gt;треугольная</li>
+    <li>artstyle_adj-&gt;современный</li>
+    <li>artstyle_adj-&gt;символический</li>
+    <li>artstyle_adj-&gt;любительский, но привлекательный</li>
+    <li>artstyle_adj-&gt;сконцентрированный на деталях</li>
+    <li>artstyle_adj-&gt;блочный</li>
+    <li>artstyle_adj-&gt;кубистский</li>
+    <li>artstyle_adj-&gt;импрессионистский</li>
+    <li>artstyle_adj-&gt;экспрессионистcкий</li>
+    <li>artstyle_adj-&gt;искренний</li>
+    <li>artstyle_adj-&gt;классический</li>
+    <li>artstyle_adj-&gt;дадаистский</li>
+    <li>artstyle_adj-&gt;сюрреалистичный</li>
+    <li>artstyle_adj-&gt;пиксельный</li>
+    <li>artstyle_adj-&gt;фовистический</li>
+    <li>artstyle_adj-&gt;сложный, реалистичный</li>
+    <li>artstyle_adj-&gt;простой</li>
+    <li>artstyle_adj-&gt;неоригинальный</li>
+    <li>artstyle_adj-&gt;геометричный</li>
+    <li>artstyle_adj-&gt;абстрактный</li>
+    <li>artstyle_adj-&gt;гиперреалистичный</li>
+    <li>artstyle_adj-&gt;народный</li>
+    <li>artstyle_adj-&gt;фигуральный</li>
+    <li>artstyle_adj-&gt;неоклассический</li>
+    <li>artstyle_adj-&gt;постимпрессионистский</li>
+    <li>artstyle_adj-&gt;минималистичный</li>
+    <li>artstyle_adj-&gt;пуристский</li>
+    <li>artstyle_adj-&gt;романистический</li>
+    <li>artstyle_adj-&gt;романтичный</li>
+    <li>artstyle_adj-&gt;похожий на граффити</li>
+    <li>artstyle_adj-&gt;эротичный</li>
+    <li>artstyle_adj-&gt;чувственный</li>
+    <li>idle_verb_progressive-&gt;парит</li>
+    <li>idle_verb_progressive-&gt;сидит</li>
+    <li>idle_verb_progressive-&gt;стоит</li>
+    <li>idle_verb_progressive-&gt;ждёт</li>
+    <li>idle_verb_progressive-&gt;улыбается</li>
+    <li>idle_verb_progressive-&gt;лежит</li>
+    <li>idle_verb_progressive-&gt;позирует</li>
+    <li>idle_verb_progressive-&gt;появляется</li>
+    <li>idle_verb_progressive-&gt;показывается</li>
+    <li>idle_verb_progressive-&gt;выцветает</li>
+    <li>side_position-&gt;за объектами</li>
+    <li>side_position-&gt;в сторонке</li>
+    <li>side_position-&gt;у края изображения</li>
+    <li>side_position-&gt;на фоне</li>
+    <li>side_position-&gt;вдалеке</li>
+    <li>side_position-&gt;в нижней части изображения</li>
+    <li>side_position-&gt;в верхней части изображения</li>
+    <li>side_position-&gt;под основным предметом</li>
+    <li>side_position-&gt;за точкой фокуса</li>
+    <li>side_position-&gt;в левой части изображения</li>
+    <li>side_position-&gt;справа от основной сцены</li>
+  </ArtDescriptionUtility_Global.rulePack.rulesStrings>
+</LanguageData>

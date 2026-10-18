@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bloodfeed.label>корм</Bloodfeed.label>
+  <Bloodfeed.description>Поселенцы с геном кровоедства, а также сокамерники этого пленника смогут удовлетворять от него свою жажду.</Bloodfeed.description>
+  <HemogenFarm.label>ферма гемогена</HemogenFarm.label>
+  <HemogenFarm.description>Операция по извлечению гемогена будет автоматически назначаться для этого пленника каждый раз тогда, когда это будет безопасно для его жизни. Процедуру будет проводить врач.</HemogenFarm.description>
+</LanguageData>

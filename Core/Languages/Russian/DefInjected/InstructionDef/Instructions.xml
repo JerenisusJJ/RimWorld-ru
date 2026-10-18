@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AcceptStartingPawns.text>Великолепно!\n\nПопробуйте ещё раз, если хотите, но не пытайтесь создать идеального персонажа. У всех есть недостатки, и от этого история становится только интереснее!\n\nВы также можете переименовать персонажей, нажав на их имена.\n\nНажмите «Начать», когда будете готовы.</AcceptStartingPawns.text>
+  <AddBillSimpleMeal.onMapInstruction>Выберите это</AddBillSimpleMeal.onMapInstruction>
+  <AddBillSimpleMeal.rejectInputMessage>Пожалуйста, добавьте в очередь заказов приготовление простой еды.</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.text>Укажите поселенцам, что готовить.\n\nКулинарные заказы добавляются через меню плиты. После добавления заказа поселенцы сами приступят к готовке.\n\n1. Дождитесь окончания постройки плиты.\n2. Выберите плиту.\n3. Откройте вкладку «Задания».\n4. Щёлкните «Добавить задание».\n5. Выберите «Приготовить простое блюдо» в контекстном меню.\n6. Щёлкните на кнопке «+» для увеличения количества порций до 10.\n\nЕсли выполнение задания затягивается, ускорьте время.\n\nИли выберите поселенца и прикажите ему готовить с помощью щелчка правой кнопки мыши на плите.</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.textController>Укажите поселенцам, что готовить.\n\nКулинарные заказы добавляются через меню плиты. После добавления заказа поселенцы сами приступят к готовке.\n\n1. Дождитесь окончания постройки плиты.\n2. Выберите плиту.\n3. Откройте вкладку «Задания».\n4. Щёлкните «Добавить задание».\n5. Выберите «Приготовить простое блюдо» в контекстном меню.\n6. Щёлкните на кнопке «+» для увеличения количества порций до 10.\n\nЕсли выполнение задания затягивается, ускорьте время.\n\nИли выберите поселенца и прикажите ему готовить нажатием левым курком по плите.</AddBillSimpleMeal.textController>
+  <BuildAnimalSleepingSpot.onMapInstruction>Постройте спальное место для животных\nвнутри помещения</BuildAnimalSleepingSpot.onMapInstruction>
+  <BuildAnimalSleepingSpot.rejectInputMessage>Пожалуйста, разместите спальное место для животных внутри этого помещения.</BuildAnimalSleepingSpot.rejectInputMessage>
+  <BuildAnimalSleepingSpot.text>Чтобы питомец спал рядом с хозяевами, разместите спальное место внутри помещения.\n\nСпальные места — метки, обозначающие лежанки для животных.</BuildAnimalSleepingSpot.text>
+  <BuildBeds.onMapInstruction>Постройте три кровати внутри помещения</BuildBeds.onMapInstruction>
+  <BuildBeds.rejectInputMessage>Пожалуйста, постройте деревянные кровати внутри этого помещения.</BuildBeds.rejectInputMessage>
+  <BuildBeds.text>Поселенцы скоро построят помещение!\n\nНо им требуется отдых и сон. Разместите три кровати внутри помещения.\n\nНайдите их в разделе «Мебель». Для поворота постройки используйте клавиши {Key:Designator_RotateLeft} и {Key:Designator_RotateRight}.</BuildBeds.text>
+  <BuildBeds.textController>Поселенцы скоро построят помещение!\n\nНо им требуется отдых и сон. Разместите три кровати внутри помещения.\n\nНайдите их в разделе «Мебель». Для поворота постройки используйте поворотные кнопки слева.</BuildBeds.textController>
+  <BuildFueledStove.onMapInstruction>Постройте топливную плиту внутри этого помещения</BuildFueledStove.onMapInstruction>
+  <BuildFueledStove.rejectInputMessage>Пожалуйста, постройте плиту внутри помещения, построенного вами ранее.</BuildFueledStove.rejectInputMessage>
+  <BuildFueledStove.text>Отлично!\n\nТеперь сделайте плиту для приготовления пищи.\n\nРазместите плиту внутри помещения.</BuildFueledStove.text>
+  <BuildHorseshoesPin.onMapInstruction>Установите колышек для метания подковы\nснаружи помещения</BuildHorseshoesPin.onMapInstruction>
+  <BuildHorseshoesPin.rejectInputMessage>Пожалуйста, разместите колышек для метания подковы рядом с этим помещением.</BuildHorseshoesPin.rejectInputMessage>
+  <BuildHorseshoesPin.text>Поселенцам нужны развлечения, иначе со временем они начнут скучать.\n\nУстановите колышек для метания подковы снаружи, рядом с помещением.</BuildHorseshoesPin.text>
+  <BuildRoomDoor.onMapInstruction>Постройте дверь в одной из стен</BuildRoomDoor.onMapInstruction>
+  <BuildRoomDoor.rejectInputMessage>Пожалуйста, постройте деревянную дверь в одной из стен помещения.</BuildRoomDoor.rejectInputMessage>
+  <BuildRoomDoor.text>Теперь разместите дверь в стене помещения.\n\nИнструмент «Дверь» доступен в разделе «Постройка» меню «Проекты».</BuildRoomDoor.text>
+  <BuildRoomWalls.onMapInstruction>Постройте стены</BuildRoomWalls.onMapInstruction>
+  <BuildRoomWalls.rejectInputMessage>Пожалуйста, постройте деревянные стены по краям подсвеченного прямоугольника.</BuildRoomWalls.rejectInputMessage>
+  <BuildRoomWalls.text>Потрясающе! А теперь построим помещение.\n\n1. Выберите вкладку «Проекты».\n2. Выберите в открывшемся меню раздел «Постройка».\n3. Кликните на инструменте «Стена».\n4. Укажите древесину как материал.\n5. Разместите четыре стены в отмеченной области.</BuildRoomWalls.text>
+  <BuildSandbags.onMapInstruction>Постройте здесь мешки с песком</BuildSandbags.onMapInstruction>
+  <BuildSandbags.rejectInputMessage>Пожалуйста, постройте мешки с песком в отмеченной области.</BuildSandbags.rejectInputMessage>
+  <BuildSandbags.text>Прекрасно! Ваше поселение работает! Однажды на вас нападут враги. Давайте подготовимся к защите.\n\nВыберите инструмент «Мешки с песком» и разместите в обозначенной области.</BuildSandbags.text>
+  <BuildSimpleResearchBench.onMapInstruction>Постройте простой стол для исследований\nвнутри этого помещения</BuildSimpleResearchBench.onMapInstruction>
+  <BuildSimpleResearchBench.rejectInputMessage>Пожалуйста, разместите простой деревянный стол для исследований внутри помещения, построенного вами ранее.</BuildSimpleResearchBench.rejectInputMessage>
+  <BuildSimpleResearchBench.text>Изучайте новые технологии на пути к прогрессу.\n\nПостройте простой стол для исследований внутри помещения.</BuildSimpleResearchBench.text>
+  <BuildTorchLamp.onMapInstruction>Разместите факел внутри помещения</BuildTorchLamp.onMapInstruction>
+  <BuildTorchLamp.rejectInputMessage>Пожалуйста, разместите факел внутри этого помещения.</BuildTorchLamp.rejectInputMessage>
+  <BuildTorchLamp.text>Вам понадобится освещение внутри, иначе поселенцы занервничают.\n\nРазместите факел внутри помещения.</BuildTorchLamp.text>
+  <ChangeWorkSettings.rejectInputMessage>Пожалуйста, откройте вкладку «Работа» и измените любые настройки.</ChangeWorkSettings.rejectInputMessage>
+  <ChangeWorkSettings.text>Укажите занятия для каждого поселенца, расставив галочки в соответствующих ячейках. Поселенцы выполняют задачи по порядку, слева направо.\n\nПопробуйте изменить какие-нибудь установки.\n\nБудьте аккуратны: поселенцы следят за приоритетами в работе, даже если это приводит к глупостям! Грамотное планирование задач — важный навык для успешной игры в RimWorld. Настраивайте приоритеты тщательно, не забывая в дальнейшем их проверять.</ChangeWorkSettings.text>
+  <ChooseLandingSite.rejectInputMessage>Пожалуйста, выберите место в умеренных лесах без холмов и гор (светло-зелёного цвета без бурых пятен)</ChooseLandingSite.rejectInputMessage>
+  <ChooseLandingSite.text>Выберите место для первого поселения.\n\nВыберите умеренные леса без горного рельефа. Такой тип местности обозначен светло-зелёным цветом, без бурых пятен. Для продолжения нажмите кнопку «Далее».\n\nБолее подробное описание выбранной местности находится во вкладке «Ландшафт».</ChooseLandingSite.text>
+  <ChooseStoryteller.rejectInputMessage>Выберите рассказчика, чтобы закончить обучение.</ChooseStoryteller.rejectInputMessage>
+  <ChooseStoryteller.text>Обучение закончено!\n\nОсновные навыки выживания получены. О пленниках, охоте, торговле, приручении животных и других нюансах игры вы узнаете уже самостоятельно.\n\nСлучайные происшествия на время этого задания отключались. Чтобы поиграть по-настоящему:\n\n1. Откройте вкладку «Меню» внизу справа.\n2. Нажмите «Настройки».\n3. Выберите «Геймплей».\n4. Нажмите кнопку «Изменить» в строке «Настройки рассказчика».\n5. Выберите рассказчика и желаемый стиль игры.\n\nУдачи.</ChooseStoryteller.text>
+  <ChopTrees.rejectInputMessage>Пожалуйста, обведите инструментом «Срубить» несколько деревьев.</ChopTrees.rejectInputMessage>
+  <ChopTrees.text>Почему бы не заготовить древесину? Пометьте деревья для рубки.\n\nДля этого воспользуйтесь инструментом «Заготовить древесину» и выделите 10 деревьев.\n\n(Совет: Обведите деревья прямоугольником для быстрого выделения.)</ChopTrees.text>
+  <CreateWorldParams.rejectInputMessage>Нажмите кнопку «Создать», чтобы сгенерировать мир.</CreateWorldParams.rejectInputMessage>
+  <CreateWorldParams.text>Добро пожаловать в RimWorld!\n\nНа этой странице устанавливаются параметры генерации мира.\n\nНажмите кнопку «Создать»!</CreateWorldParams.text>
+  <DownRaider.onMapInstruction>Отправьте поселенцев сюда,\nпод защиту мешков с песком</DownRaider.onMapInstruction>
+  <DownRaider.rejectInputMessage>Пожалуйста, сосредоточьтесь на бое!</DownRaider.rejectInputMessage>
+  <DownRaider.text>На поселение нападают!\n\n1. Приостановите игру, нажав {Key:TogglePause}!\n2. Прочитайте красный текст в правой нижней части экрана.\n3. Соберите поселенцев, выбрав их и нажав кнопку «К бою».\n4. Щёлкните правой кнопкой мыши, чтобы отправить их на позиции внутри площади, огороженной мешками.\n5. Снимите игру с паузы.\n\nПоселенцы должны занять укрытие, чтобы атакующим было сложнее в них попасть, и ждать подхода противника. Стрелять они будут сами.</DownRaider.text>
+  <DownRaider.textController>На поселение нападают!\n\n1. Приостановите игру, нажав {Key:TogglePause}!\n2. Прочитайте красный текст в правой нижней части экрана.\n3. Соберите поселенцев, выбрав их и нажав кнопку «К бою».\n4. Нажмите левый курок, чтобы отправить их на позиции внутри площади, огороженной мешками.\n5. Снимите игру с паузы.\n\nПоселенцы должны занять укрытие, чтобы атакующим было сложнее в них попасть, и ждать подхода противника. Стрелять они будут сами.</DownRaider.textController>
+  <EndStockpileDesignating.text>Щёлкните правой кнопкой мыши для выхода из режима проектирования.</EndStockpileDesignating.text>
+  <EndStockpileDesignating.textController>Нажмите кнопку левый курок для выхода из режима проектирования.</EndStockpileDesignating.textController>
+  <EquipWeapons.onMapInstruction>Возьмите это оружие</EquipWeapons.onMapInstruction>
+  <EquipWeapons.rejectInputMessage>Пожалуйста, экипируйте своих поселенцев оружием.</EquipWeapons.rejectInputMessage>
+  <EquipWeapons.text>Снабдите поселенцев подходящим оружием. Для этого:\n\n1. Выберите поселенца.\n2. Щёлкните правой кнопкой мыши по оружию.\n3. Выберите пункт «Вооружиться…» в контекстном меню.\n\nПовторите то же самое для каждого поселенца.</EquipWeapons.text>
+  <EquipWeapons.textController>Снабдите поселенцев подходящим оружием. Для этого:\n\n1. Выберите поселенца.\n2. Наведите указатель на оружие и нажмите левый курок.\n3. Выберите пункт «Вооружиться…» в контекстном меню.\n\nПовторите то же самое для каждого поселенца.</EquipWeapons.textController>
+  <ExpandAreaBuildRoof.rejectInputMessage>Пожалуйста, попрактикуйтесь в расширении области крыши.</ExpandAreaBuildRoof.rejectInputMessage>
+  <ExpandAreaBuildRoof.text>Укажите поселенцам, где строить крыши, а где нет.\n\nКрыши строятся автоматически при завершении строительства новых помещений.\n\nВыберите инструмент «Строить крышу» и обведите желаемую форму козырька к фасаду дома.</ExpandAreaBuildRoof.text>
+  <ExpandAreaHome.rejectInputMessage>Пожалуйста, немного расширьте текущую домашнюю область, для практики.</ExpandAreaHome.rejectInputMessage>
+  <ExpandAreaHome.text>Иногда требуется расширить домашнюю область.\n\nПоселенцы моют полы и тушат пожары только в своей домашней области, игнорируя огонь и грязь за её пределами.\n\nДомашняя область расширяется автоматически при постройке новых зданий — но при желании добавляется и вручную.\n\nДля этого выберите инструмент «Расширить домашнюю область» и обведите участок карты.</ExpandAreaHome.text>
+  <FinishSandbags.rejectInputMessage>Пожалуйста, подождите, пока поселенцы достроят мешки с песком.</FinishSandbags.rejectInputMessage>
+  <FinishSandbags.text>Давайте подождём, пока строительство завершится.\n\nДля ускорения попробуйте на вкладке «Работа» назначить ещё строителей.\n\nИли ускорьте время, чтобы сократить ожидание.\n\nПотом на вас нападут, для проверки обороноспособности поселения!</FinishSandbags.text>
+  <MakeGrowingZone.onMapInstruction>Пожалуйста, разместите посадки здесь\n(зажмите и тяните для размещения)</MakeGrowingZone.onMapInstruction>
+  <MakeGrowingZone.rejectInputMessage>Разместите посадки в отмеченной области.</MakeGrowingZone.rejectInputMessage>
+  <MakeGrowingZone.text>Постройка дома началась!\n\nПоселенцы нуждаются в пище, поэтому воспользуйтесь инструментом «Посадки» в отмеченном на карте месте.\n\nЗдесь поселенцы будут высаживать культурные растения.</MakeGrowingZone.text>
+  <MakeStockpile.onMapInstruction>Разместите склад здесь\n(зажмите и тяните для размещения)</MakeStockpile.onMapInstruction>
+  <MakeStockpile.rejectInputMessage>Пожалуйста, разместите склад в отмеченной области.</MakeStockpile.rejectInputMessage>
+  <MakeStockpile.text>Здорово!\n\nТеперь разместите склад, чтобы поселенцы знали, где хранить ресурсы.\n\n1. Выберите вкладку «Проекты».\n2. Выберите в открывшемся меню раздел «Области».\n3. И, наконец, выберите инструмент «Склад».\n4. Разместите его в отмеченной области.</MakeStockpile.text>
+  <MapCameraDolly.text>Итак, вы на поверхности!\n\nПопробуйте переместить камеру.\n\nИспользуйте клавиши {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} или зажмите среднюю кнопку мыши и перемещайте камеру.\n\nПопробуйте!</MapCameraDolly.text>
+  <MapCameraDolly.textController>Итак, вы на поверхности!\n\nПеремещайте камеру левым стиком.\n\nПопробуйте!</MapCameraDolly.textController>
+  <MapCameraZoom.text>Отлично!\n\nУвеличивайте и уменьшайте масштаб с помощью колёсика мыши или клавишами {Key:MapZoom_In} и {Key:MapZoom_Out}.\n\nПопробуйте!</MapCameraZoom.text>
+  <MapCameraZoom.textController>Отлично!\n\nУвеличивайте и уменьшайте масштаб с помощью {Key:MapZoom_In} и {Key:MapZoom_Out}.\n\nПопробуйте!</MapCameraZoom.textController>
+  <MineSteel.onMapInstruction>Пометьте это\nдля разработки</MineSteel.onMapInstruction>
+  <MineSteel.rejectInputMessage>Пожалуйста, воспользуйтесь инструментом «Копать» на залежах стали.</MineSteel.rejectInputMessage>
+  <MineSteel.text>Скоро поселенцы приготовят что-нибудь вкусненькое!\n\nА теперь перейдём к полезным ископаемым: в будущем они вам наверняка понадобятся. Рядом с поселением расположены залежи стали.\n\nВыберите инструмент «Копать» и обведите им залежи.</MineSteel.text>
+  <OpenMainTabResearch.rejectInputMessage>Пожалуйста, откройте вкладку «Технологии».</OpenMainTabResearch.rejectInputMessage>
+  <OpenMainTabResearch.text>Чудесно! Выберите технологию для изучения.\n\nОткройте вкладку «Технологии».</OpenMainTabResearch.text>
+  <OpenMainTabWork.rejectInputMessage>Пожалуйста, откройте вкладку «Работа».</OpenMainTabWork.rejectInputMessage>
+  <OpenMainTabWork.text>Контролируйте, чем занимается тот или иной поселенец.\n\nОткройте вкладку «Работа» на панели в нижней части экрана.</OpenMainTabWork.text>
+  <Pause.text>Теперь приостановите время.\n\nИграйте без спешки. Делайте паузу, когда хотите, и раздавайте необходимые приказы поселенцам.\n\nПопробуйте поставить игру на паузу с помощью клавиши {Key:TogglePause} или кнопок управления временем в нижней правой части экрана.</Pause.text>
+  <Pause.textController>Теперь приостановите время.\n\nИграйте без спешки. Делайте паузу, когда хотите, и раздавайте необходимые приказы поселенцам.\n\nПопробуйте поставить игру на паузу с помощью кнопки {Key:TogglePause} или кнопок управления временем в нижней правой части экрана.</Pause.textController>
+  <RandomizeCharacter.rejectInputMessage>Пожалуйста, попробуйте сначала создать персонажа со случайными характеристиками.</RandomizeCharacter.rejectInputMessage>
+  <RandomizeCharacter.text>Теперь создадим персонажей!\n\nПопробуйте подобрать произвольного персонажа с помощью кнопки «Случайно».</RandomizeCharacter.text>
+  <ReorderCharacters.rejectInputMessage>Пожалуйста, попробуйте сначала выбрать персонажа.</ReorderCharacters.rejectInputMessage>
+  <ReorderCharacters.text>Теперь вы можете выбрать персонажей!\n\nЧтобы выделить персонажа, щёлкните по области слева. Затем перетащите понравившегося вам персонажа в раздел «Выбраны».</ReorderCharacters.text>
+  <SelectResearchProject.rejectInputMessage>Пожалуйста, выберите технологию для исследования.</SelectResearchProject.rejectInputMessage>
+  <SelectResearchProject.text>Теперь укажите, что исследовать в первую очередь.\n\nВозможно, придётся подождать постройки стола для исследований.\n\nИспользуйте вкладку «Работа» для назначения нескольких поселенцев для ускорения строительства.</SelectResearchProject.text>
+  <SetToGrowRice.onMapInstruction>Укажите рисовую культуру для засеивания указанной области</SetToGrowRice.onMapInstruction>
+  <SetToGrowRice.rejectInputMessage>Пожалуйста, выберите рис для посева.</SetToGrowRice.rejectInputMessage>
+  <SetToGrowRice.text>Решите, что поселенцы посадят в размеченной области.\n\n1. Щелчком правой кнопкой мыши выйдите из режима проектирования.\n2. Щёлкните по полю для выделения.\n3. Выберите в списке культур рис.</SetToGrowRice.text>
+  <SetToGrowRice.textController>Решите, что поселенцы посадят в размеченной области.\n\n1. Нажатием левого курка выйдите из режима проектирования.\n2. Щёлкните по полю для выделения.\n3. Выберите в списке культур рис.</SetToGrowRice.textController>
+  <TimeControls.text>Ускорьте время.\n\nПопробуйте доступные режимы с помощью клавиш {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} и {Key:TimeSpeed_Superfast} или кнопок управления временем в нижней правой части экрана.</TimeControls.text>
+  <TimeControls.textController>Ускорьте время.\n\nПопробуйте доступные режимы с помощью кнопок {Key:TimeSpeed_Faster} и {Key:TimeSpeed_Slower} или кнопок управления временем в нижней правой части экрана.</TimeControls.textController>
+  <UndraftAll.rejectInputMessage>Пожалуйста, распустите поселенцев.</UndraftAll.rejectInputMessage>
+  <UndraftAll.text>Получилось! Теперь распустите поселенцев, используя ту же кнопку.\n\nЭто позволит им вернуться к прежним занятиям.</UndraftAll.text>
+  <UnforbidStartingResources.onMapInstruction>Снимите запрет</UnforbidStartingResources.onMapInstruction>
+  <UnforbidStartingResources.rejectInputMessage>Пожалуйста, разрешите подбор разбросанных ресурсов.</UnforbidStartingResources.rejectInputMessage>
+  <UnforbidStartingResources.text>Снимите запрет с разбросанных ресурсов, чтобы поселенцы перенесли их на склад.\n\n1. Для этого выберите один из отмеченных ресурсов.\n2. Щёлкните на переключатель «Разрешить» для снятия запрета на использование ресурса.\n\n(Совет: Используйте двойной щелчок на ресурсе для выделения ресурсов того же типа, видимых на экране.)\n\nДругой способ:\n1. Откройте меню «Проекты».\n2. Выберите «Приказы».\n3. Нажмите «Разрешить».\n4. Выделите всё предметы, на которых стоит запрет.</UnforbidStartingResources.text>
+</LanguageData>

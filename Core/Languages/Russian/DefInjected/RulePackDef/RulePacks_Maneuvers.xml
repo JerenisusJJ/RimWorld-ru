@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Maneuver_Bite.rulePack.rulesStrings>
+    <li>damaged_inf-&gt;укусить</li>
+    <li>damaged_inf-&gt;грызануть</li>
+    <li>maneuver_noun_gen-&gt;укуса</li>
+    <li>maneuver_noun_instr-&gt;укусом</li>
+    <li>damaged-&gt;жуёт</li>
+    <li>damaged-&gt;рвёт</li>
+    <li>damaged-&gt;грызёт</li>
+    <li>damaged-&gt;кусает</li>
+    <li>damaged_participle-&gt;надкусывая</li>
+    <li>damaged_participle-&gt;надрывая</li>
+    <li>damaged_participle-&gt;надгрызая</li>
+    <li>damaged_participle-&gt;жуя</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;обнажая плоть</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)-&gt;обнажая внутренние механизмы</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;оставляя страшные разрывы на коже</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)-&gt;оставляя страшные разрывы на металле</li>
+    <li>destroyed-&gt;разгрызает</li>
+    <li>destroyed-&gt;раскусывает</li>
+    <li>destroyed-&gt;разрывает</li>
+    <li>destroyed-&gt;разжёвывает</li>
+    <li>destroyed_participle-&gt;разгрызая</li>
+    <li>destroyed_participle-&gt;раскусывая</li>
+    <li>destroyed_participle-&gt;разрывая</li>
+    <li>destroyed_participle-&gt;разжёвывая</li>
+    <li>destroyed_suffix-&gt;на клочки</li>
+    <li>destroyed_suffix-&gt;в кашу</li>
+    <li>destroyed_suffix-&gt;в фарш</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)-&gt;на кровавые лоскуты</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)-&gt;в мясную кашу</li>
+  </Maneuver_Bite.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] пытается кинуть [TOOL_label] в глаза [RECIPIENT_definite], но [RECIPIENT_definite] уворачивается.</li>
+    <li>r_logentry-&gt;[INITIATOR_definite] пытается кинуть [TOOL_label] в глаза [RECIPIENT_definite], но [RECIPIENT_definite] вовремя закрывает лицо.</li>
+  </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] бросает [TOOL_label] в глаза [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_definite] пинает [TOOL_label] в глаза [RECIPIENT_definite].</li>
+  </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_definite] пытается кинуть [TOOL_label] в глаза [RECIPIENT_definite], но промахивается.</li>
+  </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+  <Maneuver_Poke.rulePack.rulesStrings>
+    <li>damaged_inf-&gt;ткнуть</li>
+    <li>damaged_inf-&gt;нанести тычковый удар</li>
+    <li>maneuver_noun_gen-&gt;тычка</li>
+    <li>maneuver_noun_gen-&gt;тычкового удара</li>
+    <li>maneuver_noun_instr-&gt;ударом</li>
+    <li>maneuver_noun_instr-&gt;тычковым ударом</li>
+    <li>damaged(p=2)-&gt;тыкает</li>
+    <li>damaged(p=2)-&gt;бьёт</li>
+    <li>damaged-&gt;ушибает</li>
+    <li>damaged-&gt;давит</li>
+    <li>damaged_participle(p=2)-&gt;тыкая</li>
+    <li>damaged_participle(p=2)-&gt;ушибая</li>
+    <li>damaged_participle-&gt;давя</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;оставляя огромный синяк</li>
+    <li>flavortext_consequence(target_part_destroyed_count==1)-&gt;деформируя эту часть тела</li>
+    <li>flavortext_consequence-&gt;сбивая [RECIPIENT_objective] с ног</li>
+    <li>flavortext_consequence-&gt;отшвыривая [RECIPIENT_objective] в сторону</li>
+    <li>destroyed-&gt;протыкает</li>
+    <li>destroyed-&gt;раздавливает</li>
+    <li>destroyed-&gt;разбивает</li>
+    <li>destroyed-&gt;отбивает</li>
+    <li>destroyed-&gt;размозжает</li>
+    <li>destroyed_participle-&gt;протыкая</li>
+    <li>destroyed_participle-&gt;раздавливая</li>
+    <li>destroyed_participle-&gt;разбивая</li>
+    <li>destroyed_participle-&gt;отбивая</li>
+    <li>destroyed_participle-&gt;размозжая</li>
+    <li>destroyed_suffix-&gt;в кашу</li>
+    <li>destroyed_suffix-&gt;на куски</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)-&gt;в кровавый фарш</li>
+    <li>destroyed_suffix-&gt;на клочки</li>
+  </Maneuver_Poke.rulePack.rulesStrings>
+  <Maneuver_Scratch.rulePack.rulesStrings>
+    <li>woundname_acc-&gt;рану</li>
+    <li>woundname_acc(p=0.3)-&gt;открытую рану</li>
+    <li>woundname_gen-&gt;раны</li>
+    <li>woundname_gen(p=0.3)-&gt;открытой раны</li>
+    <li>flavortext_consequence-&gt;оставляя [woundname_acc]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;обнажая плоть</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)-&gt;обнажая внутренние механизмы</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;вызывая кровотечение из [woundname_gen]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)-&gt;вызывая утечку рабочих жидкостей из [woundname_gen]</li>
+    <li>destroyed_suffix-&gt;на лоскуты</li>
+    <li>destroyed_suffix-&gt;в клочья</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)-&gt;в кровавое месиво</li>
+    <li>destroyed_suffix-&gt;на куски</li>
+  </Maneuver_Scratch.rulePack.rulesStrings>
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)-&gt;разодрать</li>
+    <li>damaged_inf-&gt;разорвать</li>
+    <li>maneuver_noun_gen-&gt;удара</li>
+    <li>maneuver_noun_instr-&gt;ударом</li>
+    <li>damaged(p=4)-&gt;ранит</li>
+    <li>damaged-&gt;вспарывает</li>
+    <li>damaged-&gt;царапает</li>
+    <li>damaged-&gt;обдирает</li>
+    <li>damaged_participle-&gt;раня</li>
+    <li>damaged_participle-&gt;вспарывая</li>
+    <li>damaged_participle-&gt;царапая</li>
+    <li>damaged_participle-&gt;обдирая</li>
+    <li>destroyed-&gt;растерзывает</li>
+    <li>destroyed-&gt;раздирает</li>
+    <li>destroyed-&gt;разрывает</li>
+    <li>destroyed_participle-&gt;растерзывая</li>
+    <li>destroyed_participle-&gt;раздирая</li>
+    <li>destroyed_participle-&gt;разрывая</li>
+  </Maneuver_Scratch_Damage.rulePack.rulesStrings>
+  <Maneuver_Slash.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)-&gt;нанести рубящий удар</li>
+    <li>damaged_inf-&gt;порезать</li>
+    <li>damaged_inf-&gt;рубануть</li>
+    <li>damaged_inf-&gt;рубануть сплеча</li>
+    <li>damaged_inf-&gt;резануть</li>
+    <li>damaged_inf-&gt;ударить сплеча</li>
+    <li>maneuver_noun_gen-&gt;рубящего удара</li>
+    <li>maneuver_noun_gen-&gt;удара сплеча</li>
+    <li>maneuver_noun_gen(p=0.5)-&gt;пореза</li>
+    <li>maneuver_noun_instr-&gt;рубящим ударом</li>
+    <li>maneuver_noun_instr-&gt;ударом сплеча</li>
+    <li>maneuver_noun_instr(p=0.5)-&gt;порезом</li>
+    <li>damaged(p=4)-&gt;рубит</li>
+    <li>damaged-&gt;рассекает</li>
+    <li>damaged-&gt;режет</li>
+    <li>damaged_participle-&gt;рубя</li>
+    <li>damaged_participle-&gt;рассекая</li>
+    <li>damaged_participle-&gt;разрезая</li>
+    <li>woundname_gen-&gt;раны</li>
+    <li>woundname_gen(p=0.3)-&gt;открытой раны</li>
+    <li>woundname_gen(p=0.3)-&gt;страшной раны</li>
+    <li>woundname_acc-&gt;рану</li>
+    <li>woundname_acc(p=0.3)-&gt;открытую рану</li>
+    <li>woundname_acc(p=0.3)-&gt;страшную рану</li>
+    <li>flavortext_consequence-&gt;оставляя [woundname_acc]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;обнажая плоть</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)-&gt;обнажая внутренние механизмы</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;вызывая кровотечение из [woundname_gen]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)-&gt;вызывая утечку рабочих жидкостей из [woundname_gen]</li>
+    <li>destroyed-&gt;разрубает</li>
+    <li>destroyed-&gt;разделяет</li>
+    <li>destroyed-&gt;рассекает</li>
+    <li>destroyed_participle-&gt;разрубая</li>
+    <li>destroyed_participle-&gt;разделяя</li>
+    <li>destroyed_participle-&gt;рассекая</li>
+    <li>destroyed_suffix-&gt;на мелкие кусочки</li>
+    <li>destroyed_suffix-&gt;чисто</li>
+    <li>destroyed_suffix-&gt;надвое</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)-&gt;на две равные части</li>
+  </Maneuver_Slash.rulePack.rulesStrings>
+  <Maneuver_Smash.rulePack.rulesStrings>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;оставляя огромный синяк</li>
+    <li>flavortext_consequence(target_part_destroyed_count==1)-&gt;деформируя эту часть тела</li>
+    <li>flavortext_consequence-&gt;сбивая [RECIPIENT_objective] с ног</li>
+    <li>flavortext_consequence-&gt;отшвыривая [RECIPIENT_objective] в сторону</li>
+    <li>destroyed_suffix-&gt;в лепёшку</li>
+    <li>destroyed_suffix-&gt;в кашу</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)-&gt;в фарш</li>
+    <li>destroyed_suffix-&gt;на куски</li>
+  </Maneuver_Smash.rulePack.rulesStrings>
+  <Maneuver_Smash_Damage.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)-&gt;ударить</li>
+    <li>damaged_inf-&gt;нанести удар</li>
+    <li>damaged_inf-&gt;стукнуть</li>
+    <li>damaged_inf-&gt;заехать</li>
+    <li>maneuver_noun_gen-&gt;удара</li>
+    <li>maneuver_noun_instr-&gt;ударом</li>
+    <li>damaged-&gt;дробит</li>
+    <li>damaged(p=4)-&gt;бьёт</li>
+    <li>damaged-&gt;ушибает</li>
+    <li>damaged_participle-&gt;ушибая</li>
+    <li>damaged_participle-&gt;дробя</li>
+    <li>destroyed-&gt;разбивает</li>
+    <li>destroyed-&gt;раздрабливает</li>
+    <li>destroyed-&gt;размазывает</li>
+    <li>destroyed-&gt;отбивает</li>
+    <li>destroyed_participle-&gt;разбивая</li>
+    <li>destroyed_participle-&gt;раздрабливая</li>
+    <li>destroyed_participle-&gt;размазывая</li>
+    <li>destroyed_participle-&gt;отбивая</li>
+  </Maneuver_Smash_Damage.rulePack.rulesStrings>
+  <Maneuver_Stab.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)-&gt;нанести колющий удар</li>
+    <li>damaged_inf-&gt;нанести проникающий удар</li>
+    <li>damaged_inf-&gt;нанести укол</li>
+    <li>maneuver_noun_gen-&gt;колющего удара</li>
+    <li>maneuver_noun_gen-&gt;проникающего удара</li>
+    <li>maneuver_noun_instr-&gt;колющим ударом</li>
+    <li>maneuver_noun_instr-&gt;проникающим ударом</li>
+    <li>damaged-&gt;прокалывает</li>
+    <li>damaged-&gt;пробивает</li>
+    <li>damaged-&gt;пронзает</li>
+    <li>damaged-&gt;протыкает</li>
+    <li>damaged_participle-&gt;прокалывая</li>
+    <li>damaged_participle-&gt;пронзая</li>
+    <li>damaged_participle-&gt;протыкая</li>
+    <li>woundname_gen-&gt;колотой раны</li>
+    <li>woundname_acc-&gt;колотую рану</li>
+    <li>woundname_acc-&gt;дыру</li>
+    <li>woundname_acc-&gt;щель</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;оставляя кровавую [woundname_acc]</li>
+    <li>flavortext_consequence-&gt;оставляя глубокую [woundname_acc]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;вызывая кровотечение из [woundname_gen]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)-&gt;вызывая утечку рабочих жидкостей из [woundname_gen]</li>
+    <li>destroyed-&gt;пронзает</li>
+    <li>destroyed-&gt;дырявит</li>
+    <li>destroyed-&gt;пробивает</li>
+    <li>destroyed_participle-&gt;пронзая</li>
+    <li>destroyed_participle-&gt;дырявя</li>
+    <li>destroyed_participle-&gt;протыкая</li>
+    <li>destroyed_suffix-&gt;насквозь</li>
+    <li>destroyed_suffix-&gt;навылет</li>
+  </Maneuver_Stab.rulePack.rulesStrings>
+</LanguageData>

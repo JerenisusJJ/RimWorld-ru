@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerAltar.rulePack.rulesStrings>
+    <li>buildingName(p=1)-&gt;[buildingName_masc]</li>
+    <li>buildingName(p=2)-&gt;[buildingName_neutral]</li>
+    <li>buildingName_masc-&gt;алтарь</li>
+    <li>buildingName_neutral-&gt;святилище</li>
+    <li>buildingName_neutral-&gt;капище</li>
+  </NamerAltar.rulePack.rulesStrings>
+  <NamerBurnTarget.rulePack.rulesStrings>
+    <li>buildingName(p=2)-&gt;[buildingName_masc]</li>
+    <li>buildingName(p=1)-&gt;[buildingName_neutral]</li>
+    <li>buildingName_masc-&gt;тотем</li>
+    <li>buildingName_masc-&gt;костёр</li>
+    <li>buildingName_neutral-&gt;чучело</li>
+  </NamerBurnTarget.rulePack.rulesStrings>
+  <NamerCannibalPlatter.rulePack.rulesStrings>
+    <li>buildingName(p=1)-&gt;[buildingName_masc]</li>
+    <li>buildingName(p=2)-&gt;[buildingName_neutral]</li>
+    <li>buildingName_masc-&gt;пир</li>
+    <li>buildingName_neutral-&gt;блюдо</li>
+    <li>buildingName_neutral-&gt;челмясо</li>
+  </NamerCannibalPlatter.rulePack.rulesStrings>
+  <NamerChristmasTree.rulePack.rulesStrings>
+    <li>buildingName-&gt;[buildingName_fem]</li>
+    <li>buildingName-&gt;[buildingName_neutral]</li>
+    <li>buildingName_fem-&gt;ёлка</li>
+    <li>buildingName_neutral-&gt;дерево</li>
+  </NamerChristmasTree.rulePack.rulesStrings>
+  <NamerIdeoBuilding.rulePack.rulesStrings>
+    <li>r_ideoBuildingName(p=0.66)-&gt;[memeAdjective_masc] [buildingName_masc]</li>
+    <li>r_ideoBuildingName(p=0.66)-&gt;[memeAdjective_fem] [buildingName_fem]</li>
+    <li>r_ideoBuildingName(p=0.66)-&gt;[memeAdjective_neutral] [buildingName_neutral]</li>
+    <li>r_ideoBuildingName-&gt;[buildingName] [chosenTheme]</li>
+    <li>r_ideoBuildingName-&gt;[chosenAdjective] [buildingName_masc]</li>
+    <li>r_ideoBuildingName-&gt;[buildingName] [keyDeity]</li>
+    <li>r_ideoBuildingName-&gt;[buildingName] [memeConcept]</li>
+  </NamerIdeoBuilding.rulePack.rulesStrings>
+  <NamerIdeogram.rulePack.rulesStrings>
+    <li>buildingName(p=2)-&gt;[buildingName_masc]</li>
+    <li>buildingName(p=3)-&gt;[buildingName_fem]</li>
+    <li>buildingName(p=1)-&gt;[buildingName_neutral]</li>
+    <li>buildingName_masc-&gt;символ</li>
+    <li>buildingName_masc-&gt;образ</li>
+    <li>buildingName_fem-&gt;идеограмма</li>
+    <li>buildingName_fem-&gt;форма</li>
+    <li>buildingName_fem-&gt;эмблема</li>
+    <li>buildingName_neutral-&gt;изображение</li>
+  </NamerIdeogram.rulePack.rulesStrings>
+  <NamerIdeoSculpture.rulePack.rulesStrings>
+    <li>buildingName(p=2)-&gt;[buildingName_masc]</li>
+    <li>buildingName(p=3)-&gt;[buildingName_fem]</li>
+    <li>buildingName(p=2)-&gt;[buildingName_neutral]</li>
+    <li>buildingName_masc-&gt;образ</li>
+    <li>buildingName_masc-&gt;монумент</li>
+    <li>buildingName_fem-&gt;статуя</li>
+    <li>buildingName_fem-&gt;скульптура</li>
+    <li>buildingName_fem-&gt;форма</li>
+    <li>buildingName_neutral-&gt;изваяние</li>
+    <li>buildingName_neutral-&gt;изображение</li>
+  </NamerIdeoSculpture.rulePack.rulesStrings>
+  <NamerSmoker.rulePack.rulesStrings>
+    <li>buildingName-&gt;[buildingName_masc]</li>
+    <li>buildingName_masc-&gt;дымитель</li>
+    <li>buildingName_masc-&gt;задымитель</li>
+    <li>buildingName_masc-&gt;тлитель</li>
+    <li>buildingName_masc-&gt;пыхатель</li>
+    <li>buildingName_masc-&gt;чадитель</li>
+    <li>buildingName_masc-&gt;кумаритель</li>
+  </NamerSmoker.rulePack.rulesStrings>
+</LanguageData>

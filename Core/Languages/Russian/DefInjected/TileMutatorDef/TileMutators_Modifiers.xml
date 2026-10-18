@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimalHabitat.label>естественная среда обитания животных</AnimalHabitat.label>
+  <AnimalHabitat.description>Естественная среда обитания для {ANIMALKIND_labelPlural}. Здесь их встречается больше, чем обычно.</AnimalHabitat.description>
+  <AnimalLife_Decreased.label>сокращенная популяция животных</AnimalLife_Decreased.label>
+  <AnimalLife_Decreased.description>Животные здесь менее многочисленны, чем обычно.</AnimalLife_Decreased.description>
+  <AnimalLife_Increased.label>увеличенная популяция животных</AnimalLife_Increased.label>
+  <AnimalLife_Increased.description>Животных здесь больше, чем обычно.</AnimalLife_Increased.description>
+  <ArcheanTrees.label>архейские деревья</ArcheanTrees.label>
+  <ArcheanTrees.description>В этой области растут древние архейские деревья. В их корнях существует особое сообщество микробов, повышающее плодородность окружающей почвы. Из-за хрупкой корневой системы пересадить их невозможно.</ArcheanTrees.description>
+  <DryGround.label>сухая почва</DryGround.label>
+  <DryGround.description>Почва в этой области суше обычного. Нет ни маленьких прудов, ни других водоемов.</DryGround.description>
+  <Fish_Decreased.label>меньше рыбы</Fish_Decreased.label>
+  <Fish_Decreased.description>В этом водоеме меньше рыбы, чем обычно.</Fish_Decreased.description>
+  <Fish_Increased.label>больше рыбы</Fish_Increased.label>
+  <Fish_Increased.description>В этом водоеме рыбы больше, чем обычно.</Fish_Increased.description>
+  <FoggyMutator.label>туманная</FoggyMutator.label>
+  <FoggyMutator.description>В этой области часто бывает туман.</FoggyMutator.description>
+  <Junkyard.label>свалка</Junkyard.label>
+  <Junkyard.description>Старое место для сброса всевозможного мусора.</Junkyard.description>
+  <MineralRich.label>богатая полезными ископаемыми</MineralRich.label>
+  <ObsidianDeposits.label>месторождения обсидиана</ObsidianDeposits.label>
+  <ObsidianDeposits.description>В этой области есть залежи вулканического обсидиана, который можно добывать для получения обсидианового стекла.</ObsidianDeposits.description>
+  <PlantGrove.label>заросли растений</PlantGrove.label>
+  <PlantGrove.description>В этой области много {0}.</PlantGrove.description>
+  <PlantLife_Decreased.label>меньше растительности</PlantLife_Decreased.label>
+  <PlantLife_Decreased.description>Растительность здесь менее обильна.</PlantLife_Decreased.description>
+  <PlantLife_Increased.label>больше растительности</PlantLife_Increased.label>
+  <PlantLife_Increased.description>Здесь растительности больше, чем обычно.</PlantLife_Increased.description>
+  <Pollution_Increased.label>повышенное загрязнение</Pollution_Increased.label>
+  <Pollution_Increased.description>Эта местность загрязнена токсичными веществами.</Pollution_Increased.description>
+  <SteamGeysers_Increased.label>высокая геотермальная активность</SteamGeysers_Increased.label>
+  <SteamGeysers_Increased.description>В этой области чаще встречаются гейзеры.</SteamGeysers_Increased.description>
+  <SunnyMutator.label>солнечно</SunnyMutator.label>
+  <SunnyMutator.description>Ясная погода здесь бывает намного чаще.</SunnyMutator.description>
+  <WetClimate.label>влажный климат</WetClimate.label>
+  <WetClimate.description>Здесь намного чаще идут осадки.</WetClimate.description>
+  <WildPlants.label>дикие растения</WildPlants.label>
+  <WildPlants.description>Когда достаточно тепло, в этой области вырастает много {0}.</WildPlants.description>
+  <WildTropicalPlants.label>дикие растения</WildTropicalPlants.label>
+  <WildTropicalPlants.description>В этой области может расти много {0}.</WildTropicalPlants.description>
+  <WindyMutator.label>ветрено</WindyMutator.label>
+  <WindyMutator.description>В этой области дуют гораздо более сильные ветры.</WindyMutator.description>
+</LanguageData>

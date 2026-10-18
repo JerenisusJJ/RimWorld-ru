@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Architect28.description>{PAWN_nameDef} {PAWN_gender ? проектировал : проектировала : проектировало} здания. В {PAWN_possessive} родном утопическом мире большую часть технических расчётов при строительстве проводил ИИ, а работу на месте выполняли роботы. Это позволяло {PAWN_objective} создавать строения, потрясающие воображение, но как следствие, {PAWN_nameDef} не {PAWN_gender ? утруждал : утруждала : утруждало} себя чёрной работой на стройплощадке.</Architect28.description>
+  <Architect28.title>архитектор</Architect28.title>
+  <Architect28.titleShort>архитектор</Architect28.titleShort>
+  <BiosphereManager95.description>Много лет {PAWN_nameDef} {PAWN_gender ? жил : жила : жило} в утопическом мире, где всю чёрную работу выполняли роботы, а люди в основном вели праздный образ жизни. {PAWN_pronoun} {PAWN_gender ? отвечал : отвечала : отвечало} за флору и фауну в цветущем парке, куда граждане приходили созерцать красоту живой природы.</BiosphereManager95.description>
+  <BiosphereManager95.title>менеджер по биосфере</BiosphereManager95.title>
+  <BiosphereManager95.titleShort>садовник</BiosphereManager95.titleShort>
+  <CharityWorker36.description>Утопические миры — это рай безопасности и комфорта для тех, кому повезло там жить. Однако {PAWN_nameDef} не {PAWN_gender ? мог : могла : мог} игнорировать соседние планеты-свалки, где люди жили в нужде и голоде. {PAWN_pronoun} {PAWN_gender ? старался : старалась : старался} помочь им, собирая пожертвования и поддерживая нуждающихся.</CharityWorker36.description>
+  <CharityWorker36.title>благотворитель</CharityWorker36.title>
+  <CharityWorker36.titleShort>филантроп</CharityWorker36.titleShort>
+  <GlitterworldEmpath26.description>{PAWN_nameDef} легко {PAWN_gender ? понимал : понимала : понимало} других людей и {PAWN_gender ? улаживал : улаживала : улаживало} конфликты. Поэтому {PAWN_possessive} выбрали для подготовки в качестве эмпата. Обучение усилило {PAWN_possessive} врождённые способности, но после него {PAWN_nameDef} {PAWN_gender ? потерял : потеряла : потеряло} возможность причинять боль другому человеку.</GlitterworldEmpath26.description>
+  <GlitterworldEmpath26.title>эмпат с мира-утопии</GlitterworldEmpath26.title>
+  <GlitterworldEmpath26.titleShort>эмпат</GlitterworldEmpath26.titleShort>
+  <GlitterworldOfficer60.description>Хотя в утопических мирах достаточно спокойно, обычно они готовы к войне. Подразделение, которым {PAWN_gender ? командовал : командовала : командовало} {PAWN_nameDef}, редко участвовало в каких-либо операциях.\n\n{PAWN_nameDef} {PAWN_gender ? любил : любила : любило} заниматься разнообразным творчеством, однако {PAWN_possessive} подчинённые предпочитали развлекаться мордобоем, и {PAWN_objective} часто приходилось их разнимать.</GlitterworldOfficer60.description>
+  <GlitterworldOfficer60.title>офицер с мира-утопии</GlitterworldOfficer60.title>
+  <GlitterworldOfficer60.titleShort>офицер</GlitterworldOfficer60.titleShort>
+  <GlitterworldSurgeon15.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} хирургом в мире, в котором почти нет болезней и человеческих страданий, и {PAWN_possessive} работа состояла в основном в проведении сложных и искусных пластических операций.\n\n{PAWN_nameDef} хорошо понимает, как устроено человеческое тело, но {PAWN_objective} ни разу не приходилось удалять раковую опухоль. Или пулю.</GlitterworldSurgeon15.description>
+  <GlitterworldSurgeon15.title>хирург с мира-утопии</GlitterworldSurgeon15.title>
+  <GlitterworldSurgeon15.titleShort>хирург</GlitterworldSurgeon15.titleShort>
+  <NavyScientist52.description>Межпланетные войны выигрываются технологиями, так что военно-космические силы утопических миров всегда находятся на острие науки. Более того, именно они первыми находят в космосе артефакты архотеков.\n\nНекоторое время {PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в одной из лабораторий космофлота.</NavyScientist52.description>
+  <NavyScientist52.title>учёный ВКС</NavyScientist52.title>
+  <NavyScientist52.titleShort>учёный</NavyScientist52.titleShort>
+  <Novelist7.description>Живя в родном {PAWN_objective} утопическом мире, {PAWN_nameDef} {PAWN_gender ? писал : писала : писало} невероятно успешные романы. {PAWN_pronoun} {PAWN_gender ? вёл : вела : вёло} беззаботный образ жизни, днём — творя, ночью — отрываясь на вечеринках, и никогда не занимаясь ручным трудом.</Novelist7.description>
+  <Novelist7.title>писатель-романист</Novelist7.title>
+  <Novelist7.titleShort>прозаик</Novelist7.titleShort>
+  <Sculptor63.description>{PAWN_nameDef} {PAWN_gender ? начинал : начинала : начинало} со скульптур размером в человеческий рост, но вскоре {PAWN_possessive} замыслы стали масштабнее. {PAWN_nameDef} {PAWN_gender ? научился : научилась : научился} вырезать огромные монументы из целых скал с помощью горнодобывающих роботов. Вскоре в парках {PAWN_possessive} родного мира-утопии появилось множество гигантских каменных фигур.</Sculptor63.description>
+  <Sculptor63.title>скульптор</Sculptor63.title>
+  <Sculptor63.titleShort>скульптор</Sculptor63.titleShort>
+  <VRDesigner87.description>{PAWN_nameDef} {PAWN_gender ? разрабатывал : разрабатывала : разрабатывало} игры в виртуальной реальности для жителей утопического мира. {PAWN_pronoun} {PAWN_gender ? уделял : уделяла : уделяло} огромное внимание мелким деталям создаваемых виртуальных миров. Например, для того, чтобы делать моделируемые ландшафты максимально реалистичными, {PAWN_pronoun} {PAWN_gender ? изучал : изучала : изучало} ботанику.</VRDesigner87.description>
+  <VRDesigner87.title>VR-дизайнер</VRDesigner87.title>
+  <VRDesigner87.titleShort>дизайнер</VRDesigner87.titleShort>
+</LanguageData>

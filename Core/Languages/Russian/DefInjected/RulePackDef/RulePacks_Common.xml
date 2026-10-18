@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OutlanderPlaceNameUtility.rulePack.rulesFiles>
+    <li>place_end-&gt;WordParts/PlaceEndings</li>
+  </OutlanderPlaceNameUtility.rulePack.rulesFiles>
+  <OutlanderPlaceNameUtility.rulePack.rulesStrings>
+    <li>PlaceOutlander-&gt;[SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[SylE][SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[SylE][SylE][place_end]</li>
+    <li>PlaceOutlander-&gt;[SylE][SylE][SylE][place_end]</li>
+  </OutlanderPlaceNameUtility.rulePack.rulesStrings>
+  <TribalWordUtility.rulePack.rulesFiles>
+    <li>tribal_word_file-&gt;Words/Foreign/Tribal</li>
+  </TribalWordUtility.rulePack.rulesFiles>
+  <TribalWordUtility.rulePack.rulesStrings>
+    <li>WordTribal(p=2)-&gt;[tribal_word_file]</li>
+    <li>WordTribal(p=2)-&gt;[SylG][SylG]</li>
+    <li>WordTribal-&gt;[SylG][SylG][SylG]</li>
+  </TribalWordUtility.rulePack.rulesStrings>
+</LanguageData>

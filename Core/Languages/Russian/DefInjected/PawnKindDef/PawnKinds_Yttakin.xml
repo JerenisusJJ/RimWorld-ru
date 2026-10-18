@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Drifter_Yttakin.label>бродяга</Drifter_Yttakin.label>
+  <Drifter_Yttakin.labelPlural>бродяги</Drifter_Yttakin.labelPlural>
+  <Mercenary_Elite_Yttakin.label>элитный наёмник</Mercenary_Elite_Yttakin.label>
+  <Mercenary_Elite_Yttakin.labelPlural>элитные наёмники</Mercenary_Elite_Yttakin.labelPlural>
+  <Mercenary_Gunner_Yttakin.label>наёмник-стрелок</Mercenary_Gunner_Yttakin.label>
+  <Mercenary_Gunner_Yttakin.labelPlural>наёмники-стрелки</Mercenary_Gunner_Yttakin.labelPlural>
+  <Mercenary_Heavy_Yttakin.label>тяжеловооружённый наёмник</Mercenary_Heavy_Yttakin.label>
+  <Mercenary_Heavy_Yttakin.labelPlural>тяжеловооружённые наёмники</Mercenary_Heavy_Yttakin.labelPlural>
+  <Mercenary_Slasher_Yttakin.label>наёмник-вышибала</Mercenary_Slasher_Yttakin.label>
+  <Mercenary_Slasher_Yttakin.labelPlural>наёмники-вышибалы</Mercenary_Slasher_Yttakin.labelPlural>
+  <Mercenary_Sniper_Yttakin.label>наёмник-снайпер</Mercenary_Sniper_Yttakin.label>
+  <Mercenary_Sniper_Yttakin.labelPlural>наёмники-снайперы</Mercenary_Sniper_Yttakin.labelPlural>
+  <Pirate_Yttakin.label>пират</Pirate_Yttakin.label>
+  <Pirate_Yttakin.labelPlural>пираты</Pirate_Yttakin.labelPlural>
+  <Scavenger_Yttakin.label>разоритель</Scavenger_Yttakin.label>
+  <Scavenger_Yttakin.labelFemale>разорительница</Scavenger_Yttakin.labelFemale>
+  <Scavenger_Yttakin.labelPlural>разорители</Scavenger_Yttakin.labelPlural>
+  <Thrasher_Yttakin.label>вышибала</Thrasher_Yttakin.label>
+  <Thrasher_Yttakin.labelPlural>вышибалы</Thrasher_Yttakin.labelPlural>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: default medicine settings -->
+	<Medicine.label>настройки медикаментов по умолчанию</Medicine.label>
+	<!-- EN: Set the default medicine settings to use for a new colony as well as the type and amount of medicine that new colonists will carry. -->
+	<Medicine.description>Задайте настройки медикаментов по умолчанию для новой колонии, а также тип и количество медикаментов, которые новые поселенцы будут носить с собой.</Medicine.description>
+</LanguageData>

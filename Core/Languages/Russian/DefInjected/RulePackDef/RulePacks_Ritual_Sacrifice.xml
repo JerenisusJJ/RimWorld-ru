@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerRitualSacrifice.rulePack.rulesStrings>
+    <li>r_ritualName(p=0.5)-&gt;[memeAdjective_masc] [sacrifice_masc]</li>
+    <li>r_ritualName(p=0.3)-&gt;[memeAdjective_fem] [sacrifice_fem]</li>
+    <li>r_ritualName(p=1.2)-&gt;[memeAdjective_neutral] [sacrifice_neutral]</li>
+    <li>r_ritualName-&gt;[sacrifice] [chosenTheme]</li>
+    <li>r_ritualName-&gt;[chosenAdjective] [sacrifice_masc]</li>
+    <li>r_ritualName-&gt;[sacrifice] [keyDeity]</li>
+    <li>r_ritualName-&gt;[sacrifice] [memeConcept]</li>
+    <li>sacrifice(p=4)-&gt;[sacrifice_neutral]</li>
+    <li>sacrifice(p=2)-&gt;[sacrifice_masc]</li>
+    <li>sacrifice(p=1)-&gt;[sacrifice_fem]</li>
+    <li>sacrifice_neutral-&gt;жертвоприношение</li>
+    <li>sacrifice_neutral-&gt;подношение</li>
+    <li>sacrifice_neutral-&gt;заклание</li>
+    <li>sacrifice_neutral-&gt;приношение</li>
+    <li>sacrifice_fem-&gt;жертва</li>
+    <li>sacrifice_masc-&gt;убой</li>
+    <li>sacrifice_masc-&gt;дар</li>
+  </NamerRitualSacrifice.rulePack.rulesStrings>
+</LanguageData>

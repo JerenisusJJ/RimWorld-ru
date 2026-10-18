@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Intro_Deserter.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull], [asker_titleIndef], бежит и зовёт на помощь! [asker_possessive] преследует (*Threat)отряд военной полиции(/Threat) фракции [asker_factionName] за дезертирство. [asker_pronoun] хочет присоединиться к вашему поселению [map_definite].\n\n[asker_nameDef] располагает информацией об имперском аванпосте, в котором можно найти всё необходимое для развития пси-способностей:\n\n[sitePart1_itemStashContents]\n\nУчтите, если вы примете [asker_nameDef] в своё поселение, вы станете врагом [asker_factionName]! Следующий за дезертиром отряд военной полиции нападёт незамедлительно. Он состоит из: \n\n[raid/raidPawnKinds]\n\nПринимайте это задание только если вы собираетесь сражаться против фракции [asker_factionName] и развивать пси-способности у своих поселенцев самостоятельно. Для организации налёта на аванпост у вас будет 1 год, после этого его передислоцируют в другое место.</li>
+  </Intro_Deserter.questDescriptionRules.rulesStrings>
+  <Intro_Deserter.questNameRules.rulesStrings>
+    <li>questName-&gt;Дезертир</li>
+  </Intro_Deserter.questNameRules.rulesStrings>
+  <Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>{BASETEXT}\n\nТак как вы приняли [asker_nameDef] в своё поселение, [asker_factionName] теперь относится к вам враждебно.\n\nОтряд военной полиции, преследующий [asker_objective], скоро прибудет.</Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>
+  <Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>{BASELABEL}: Отряд военной полиции</Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>
+  <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>{BASETEXT}\n\nЭто отряд военный полиции, который преследовал [../asker_nameFull].\n</Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
+  <Intro_Deserter.LetterLabelQuestExpired.slateRef>Срок задания истёк: [resolvedQuestName]</Intro_Deserter.LetterLabelQuestExpired.slateRef>
+  <Intro_Deserter.LetterTextQuestExpired.slateRef>Важный имперский аванпост, в котором можно было найти всё необходимое для тайного развития пси-способностей, был передислоцирован в другое, неизвестное место.</Intro_Deserter.LetterTextQuestExpired.slateRef>
+</LanguageData>

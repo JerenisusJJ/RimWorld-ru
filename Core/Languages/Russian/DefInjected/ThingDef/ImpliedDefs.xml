@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Corpse_Alpaca.label>туша альпака</Corpse_Alpaca.label>
+  <Corpse_Alpaca.description>Мёртвая альпака.</Corpse_Alpaca.description>
+  <Corpse_Alphabeaver.label>тушка альфабобра</Corpse_Alphabeaver.label>
+  <Corpse_Alphabeaver.description>Мёртвый альфабобёр.</Corpse_Alphabeaver.description>
+  <Corpse_Bear_Grizzly.label>туша медведя</Corpse_Bear_Grizzly.label>
+  <Corpse_Bear_Grizzly.description>Мёртвый бурый медведь.</Corpse_Bear_Grizzly.description>
+  <Corpse_Bear_Polar.label>туша белого медведя</Corpse_Bear_Polar.label>
+  <Corpse_Bear_Polar.description>Мёртвый белый медведь.</Corpse_Bear_Polar.description>
+  <Corpse_Bison.label>туша зубра</Corpse_Bison.label>
+  <Corpse_Bison.description>Мёртвый зубр.</Corpse_Bison.description>
+  <Corpse_Boomalope.label>туша бумалопы</Corpse_Boomalope.label>
+  <Corpse_Boomalope.description>Мёртвая бумалопа.</Corpse_Boomalope.description>
+  <Corpse_Boomrat.label>тушка бумкрысы</Corpse_Boomrat.label>
+  <Corpse_Boomrat.description>Мёртвая бумкрыса.</Corpse_Boomrat.description>
+  <Corpse_Capybara.label>туша капибары</Corpse_Capybara.label>
+  <Corpse_Capybara.description>Мёртвая капибара.</Corpse_Capybara.description>
+  <Corpse_Caribou.label>туша северного оленя</Corpse_Caribou.label>
+  <Corpse_Caribou.description>Мёртвый северный олень.</Corpse_Caribou.description>
+  <Corpse_Cassowary.label>туша казуара</Corpse_Cassowary.label>
+  <Corpse_Cassowary.description>Мёртвый казуар.</Corpse_Cassowary.description>
+  <Corpse_Cat.label>тушка кошки</Corpse_Cat.label>
+  <Corpse_Cat.description>Мёртвая кошка.</Corpse_Cat.description>
+  <Corpse_Chicken.label>тушка курицы</Corpse_Chicken.label>
+  <Corpse_Chicken.description>Мёртвая курица.</Corpse_Chicken.description>
+  <Corpse_Chinchilla.label>тушка шиншиллы</Corpse_Chinchilla.label>
+  <Corpse_Chinchilla.description>Мёртвая шиншилла.</Corpse_Chinchilla.description>
+  <Corpse_Cobra.label>тушка кобры</Corpse_Cobra.label>
+  <Corpse_Cobra.description>Мёртвая кобра.</Corpse_Cobra.description>
+  <Corpse_Cougar.label>туша пумы</Corpse_Cougar.label>
+  <Corpse_Cougar.description>Мёртвая пума.</Corpse_Cougar.description>
+  <Corpse_Cow.label>коровья туша</Corpse_Cow.label>
+  <Corpse_Cow.description>Мёртвая корова.</Corpse_Cow.description>
+  <Corpse_Deer.label>туша оленя</Corpse_Deer.label>
+  <Corpse_Deer.description>Мёртвый олень.</Corpse_Deer.description>
+  <Corpse_Donkey.label>туша осла</Corpse_Donkey.label>
+  <Corpse_Donkey.description>Мёртвый осёл.</Corpse_Donkey.description>
+  <Corpse_Dromedary.label>туша верблюда</Corpse_Dromedary.label>
+  <Corpse_Dromedary.description>Мёртвый верблюд.</Corpse_Dromedary.description>
+  <Corpse_Duck.label>тушка утки</Corpse_Duck.label>
+  <Corpse_Duck.description>Мёртвая утка.</Corpse_Duck.description>
+  <Corpse_Elephant.label>туша слона</Corpse_Elephant.label>
+  <Corpse_Elephant.description>Мёртвый слон.</Corpse_Elephant.description>
+  <Corpse_Elk.label>туша марала</Corpse_Elk.label>
+  <Corpse_Elk.description>Мёртвый марал.</Corpse_Elk.description>
+  <Corpse_Emu.label>туша эму</Corpse_Emu.label>
+  <Corpse_Emu.description>Мёртвый эму.</Corpse_Emu.description>
+  <Corpse_Fox_Arctic.label>туша песца</Corpse_Fox_Arctic.label>
+  <Corpse_Fox_Arctic.description>Мёртвый песец.</Corpse_Fox_Arctic.description>
+  <Corpse_Fox_Fennec.label>тушка фенека</Corpse_Fox_Fennec.label>
+  <Corpse_Fox_Fennec.description>Мёртвый фенек.</Corpse_Fox_Fennec.description>
+  <Corpse_Fox_Red.label>туша лисицы</Corpse_Fox_Red.label>
+  <Corpse_Fox_Red.description>Мёртвая лисица.</Corpse_Fox_Red.description>
+  <Corpse_Gazelle.label>туша газели</Corpse_Gazelle.label>
+  <Corpse_Gazelle.description>Мёртвая газель.</Corpse_Gazelle.description>
+  <Corpse_Goat.label>туша козы</Corpse_Goat.label>
+  <Corpse_Goat.description>Мёртвая коза.</Corpse_Goat.description>
+  <Corpse_Goose.label>туша гуся</Corpse_Goose.label>
+  <Corpse_Goose.description>Мёртвый гусь.</Corpse_Goose.description>
+  <Corpse_GuineaPig.label>тушка морской свинки</Corpse_GuineaPig.label>
+  <Corpse_GuineaPig.description>Мёртвая морская свинка.</Corpse_GuineaPig.description>
+  <Corpse_Hare.label>тушка зайца</Corpse_Hare.label>
+  <Corpse_Hare.description>Мёртвый заяц.</Corpse_Hare.description>
+  <Corpse_Horse.label>туша лошади</Corpse_Horse.label>
+  <Corpse_Horse.description>Мёртвая лошадь.</Corpse_Horse.description>
+  <Corpse_Human.label>труп человека</Corpse_Human.label>
+  <Corpse_Human.description>Труп человека.</Corpse_Human.description>
+  <Corpse_Husky.label>туша хаски</Corpse_Husky.label>
+  <Corpse_Husky.description>Мёртвый хаски.</Corpse_Husky.description>
+  <Corpse_Ibex.label>туша горного козла</Corpse_Ibex.label>
+  <Corpse_Ibex.description>Мёртвый горный козёл.</Corpse_Ibex.description>
+  <Corpse_Iguana.label>тушка игуаны</Corpse_Iguana.label>
+  <Corpse_Iguana.description>Мёртвая игуана.</Corpse_Iguana.description>
+  <Corpse_LabradorRetriever.label>туша лабрадора</Corpse_LabradorRetriever.label>
+  <Corpse_LabradorRetriever.description>Мёртвый лабрадор-ретривер.</Corpse_LabradorRetriever.description>
+  <Corpse_Lynx.label>туша рыси</Corpse_Lynx.label>
+  <Corpse_Lynx.description>Мёртвая рысь.</Corpse_Lynx.description>
+  <Corpse_Mech_Lancer.label>труп улана</Corpse_Mech_Lancer.label>
+  <Corpse_Mech_Lancer.description>Труп улана.</Corpse_Mech_Lancer.description>
+  <Corpse_Mech_Scyther.label>труп жнеца</Corpse_Mech_Scyther.label>
+  <Corpse_Mech_Scyther.description>Труп жнеца.</Corpse_Mech_Scyther.description>
+  <Corpse_Megascarab.label>туша мегаскарабея</Corpse_Megascarab.label>
+  <Corpse_Megascarab.description>Мёртвый мегаскарабей.</Corpse_Megascarab.description>
+  <Corpse_Megasloth.label>туша гигантского ленивца</Corpse_Megasloth.label>
+  <Corpse_Megasloth.description>Мёртвый гигантский ленивец.</Corpse_Megasloth.description>
+  <Corpse_Megaspider.label>туша мегапаука</Corpse_Megaspider.label>
+  <Corpse_Megaspider.description>Мёртвый мегапаук.</Corpse_Megaspider.description>
+  <Corpse_Monkey.label>тушка обезьяны</Corpse_Monkey.label>
+  <Corpse_Monkey.description>Мёртвая обезьяна.</Corpse_Monkey.description>
+  <Corpse_Muffalo.label>туша муффало</Corpse_Muffalo.label>
+  <Corpse_Muffalo.description>Мёртвый муффало.</Corpse_Muffalo.description>
+  <Corpse_Ostrich.label>туша страуса</Corpse_Ostrich.label>
+  <Corpse_Ostrich.description>Мёртвый страус.</Corpse_Ostrich.description>
+  <Corpse_Panther.label>туша пантеры</Corpse_Panther.label>
+  <Corpse_Panther.description>Мёртвая пантера.</Corpse_Panther.description>
+  <Corpse_Pig.label>свиная туша</Corpse_Pig.label>
+  <Corpse_Pig.description>Мёртвая свинья.</Corpse_Pig.description>
+  <Corpse_Raccoon.label>тушка енота</Corpse_Raccoon.label>
+  <Corpse_Raccoon.description>Мёртвый енот.</Corpse_Raccoon.description>
+  <Corpse_Rat.label>тушка крысы</Corpse_Rat.label>
+  <Corpse_Rat.description>Мёртвая крыса.</Corpse_Rat.description>
+  <Corpse_Rhinoceros.label>туша носорога</Corpse_Rhinoceros.label>
+  <Corpse_Rhinoceros.description>Мёртвый носорог.</Corpse_Rhinoceros.description>
+  <Corpse_Sheep.label>туша овцы</Corpse_Sheep.label>
+  <Corpse_Sheep.description>Мёртвая овца.</Corpse_Sheep.description>
+  <Corpse_Snowhare.label>тушка беляка</Corpse_Snowhare.label>
+  <Corpse_Snowhare.description>Мёртвый беляк.</Corpse_Snowhare.description>
+  <Corpse_Spelopede.label>туша пещерного жука</Corpse_Spelopede.label>
+  <Corpse_Spelopede.description>Мёртвый пещерный жук.</Corpse_Spelopede.description>
+  <Corpse_Squirrel.label>тушка белки</Corpse_Squirrel.label>
+  <Corpse_Squirrel.description>Мёртвая белка.</Corpse_Squirrel.description>
+  <Corpse_Thrumbo.label>туша трумбо</Corpse_Thrumbo.label>
+  <Corpse_Thrumbo.description>Мёртвый трумбо.</Corpse_Thrumbo.description>
+  <Corpse_Tortoise.label>тушка черепахи</Corpse_Tortoise.label>
+  <Corpse_Tortoise.description>Мёртвая черепаха.</Corpse_Tortoise.description>
+  <Corpse_Turkey.label>туша индейки</Corpse_Turkey.label>
+  <Corpse_Turkey.description>Мёртвая индейка.</Corpse_Turkey.description>
+  <Corpse_Warg.label>туша варга</Corpse_Warg.label>
+  <Corpse_Warg.description>Мёртвый варг.</Corpse_Warg.description>
+  <Corpse_WildBoar.label>туша кабана</Corpse_WildBoar.label>
+  <Corpse_WildBoar.description>Мёртвый кабан.</Corpse_WildBoar.description>
+  <Corpse_Wolf_Arctic.label>туша полярного волка</Corpse_Wolf_Arctic.label>
+  <Corpse_Wolf_Arctic.description>Мёртвый полярный волк.</Corpse_Wolf_Arctic.description>
+  <Corpse_Wolf_Timber.label>туша волка</Corpse_Wolf_Timber.label>
+  <Corpse_Wolf_Timber.description>Мёртвый волк.</Corpse_Wolf_Timber.description>
+  <Corpse_Yak.label>туша яка</Corpse_Yak.label>
+  <Corpse_Yak.description>Мёртвый як.</Corpse_Yak.description>
+  <Corpse_YorkshireTerrier.label>тушка терьера</Corpse_YorkshireTerrier.label>
+  <Corpse_YorkshireTerrier.description>Мёртвый йоркширский терьер.</Corpse_YorkshireTerrier.description>
+  <Frame_AnimalSleepingSpot.label>спальное место животных (обустраивается)</Frame_AnimalSleepingSpot.label>
+  <Frame_Autodoor.label>автодверь (строится)</Frame_Autodoor.label>
+  <Frame_Bedroll.label>спальный мешок (в процессе шитья)</Frame_Bedroll.label>
+  <Frame_BedrollDouble.label>двойной спальный мешок (в процессе шитья)</Frame_BedrollDouble.label>
+  <Frame_ButcherSpot.label>место разделки туш (обустраивается)</Frame_ButcherSpot.label>
+  <Frame_Campfire.label>костёр (разжигается)</Frame_Campfire.label>
+  <Frame_Concrete.label>бетон (укладывается)</Frame_Concrete.label>
+  <Frame_Concrete.description>Ведутся отделочные работы.</Frame_Concrete.description>
+  <Frame_CraftingSpot.label>рабочее место (обустраивается)</Frame_CraftingSpot.label>
+  <Frame_Door.label>дверь (строится)</Frame_Door.label>
+  <Frame_DoubleSleepingSpot.label>двойное спальное место (обустраивается)</Frame_DoubleSleepingSpot.label>
+  <Frame_ElectricCrematorium.label>электрический крематорий (строится)</Frame_ElectricCrematorium.label>
+  <Frame_FlagstoneGranite.label>грубая гранитная плитка (укладывается)</Frame_FlagstoneGranite.label>
+  <Frame_FlagstoneGranite.description>Ведутся отделочные работы.</Frame_FlagstoneGranite.description>
+  <Frame_FlagstoneLimestone.label>грубая плитка из известняка (укладывается)</Frame_FlagstoneLimestone.label>
+  <Frame_FlagstoneLimestone.description>Ведутся отделочные работы.</Frame_FlagstoneLimestone.description>
+  <Frame_FlagstoneMarble.label>грубая мраморная плитка (укладывается)</Frame_FlagstoneMarble.label>
+  <Frame_FlagstoneMarble.description>Ведутся отделочные работы.</Frame_FlagstoneMarble.description>
+  <Frame_FlagstoneSandstone.label>грубая плитка из песчаника (укладывается)</Frame_FlagstoneSandstone.label>
+  <Frame_FlagstoneSandstone.description>Ведутся отделочные работы.</Frame_FlagstoneSandstone.description>
+  <Frame_FlagstoneSlate.label>грубая плитка из сланца (укладывается)</Frame_FlagstoneSlate.label>
+  <Frame_FlagstoneSlate.description>Ведутся отделочные работы.</Frame_FlagstoneSlate.description>
+  <Frame_GeothermalGenerator.label>геотермальный генератор (строится)</Frame_GeothermalGenerator.label>
+  <Frame_GoldTile.label>золотая плитка (укладывается)</Frame_GoldTile.label>
+  <Frame_GoldTile.description>Ведутся отделочные работы.</Frame_GoldTile.description>
+  <Frame_Grave.label>могила (идёт рытьё)</Frame_Grave.label>
+  <Frame_GroundPenetratingScanner.label>глубинный сканер (строится)</Frame_GroundPenetratingScanner.label>
+  <Frame_HoopstoneRing.label>кольцо для бросания камней (обустраивается)</Frame_HoopstoneRing.label>
+  <Frame_HorseshoesPin.label>колышек для метания подковы (устанавливается)</Frame_HorseshoesPin.label>
+  <Frame_HydroponicsBasin.label>гидропонная ферма (строится)</Frame_HydroponicsBasin.label>
+  <Frame_LongRangeMineralScanner.label>сканер минералов дальнего действия (строится)</Frame_LongRangeMineralScanner.label>
+  <Frame_MarriageSpot.label>место проведения свадеб (обустраивается)</Frame_MarriageSpot.label>
+  <Frame_MetalTile.label>стальная плитка (укладывается)</Frame_MetalTile.label>
+  <Frame_MetalTile.description>Ведутся отделочные работы.</Frame_MetalTile.description>
+  <Frame_PartySpot.label>место проведения вечеринок (обустраивается)</Frame_PartySpot.label>
+  <Frame_PavedTile.label>бетонная плитка (укладывается)</Frame_PavedTile.label>
+  <Frame_PavedTile.description>Ведутся отделочные работы.</Frame_PavedTile.description>
+  <Frame_PlantPot.label>цветочный горшок (изготавливается)</Frame_PlantPot.label>
+  <Frame_PodLauncher.label>пусковая установка для капсул (строится)</Frame_PodLauncher.label>
+  <Frame_PowerConduit.label>кабель (прокладывается)</Frame_PowerConduit.label>
+  <Frame_Sandbags.label>мешки с песком (идёт укладка)</Frame_Sandbags.label>
+  <Frame_Ship_Beam.label>корабельная балка (строится)</Frame_Ship_Beam.label>
+  <Frame_Ship_Reactor.label>корабельный реактор (строится)</Frame_Ship_Reactor.label>
+  <Frame_SilverTile.label>серебряная плитка (укладывается)</Frame_SilverTile.label>
+  <Frame_SilverTile.description>Ведутся отделочные работы.</Frame_SilverTile.description>
+  <Frame_SleepingSpot.label>спальное место (обустраивается)</Frame_SleepingSpot.label>
+  <Frame_SolarGenerator.label>солнечная батарея (строится)</Frame_SolarGenerator.label>
+  <Frame_SterileTile.label>стерильная плитка (укладывается)</Frame_SterileTile.label>
+  <Frame_SterileTile.description>Ведутся отделочные работы.</Frame_SterileTile.description>
+  <Frame_TileGranite.label>гранитная плитка (укладывается)</Frame_TileGranite.label>
+  <Frame_TileGranite.description>Ведутся отделочные работы.</Frame_TileGranite.description>
+  <Frame_TileLimestone.label>плитка из известняка (укладывается)</Frame_TileLimestone.label>
+  <Frame_TileLimestone.description>Ведутся отделочные работы.</Frame_TileLimestone.description>
+  <Frame_TileMarble.label>мраморная плитка (укладывается)</Frame_TileMarble.label>
+  <Frame_TileMarble.description>Ведутся отделочные работы.</Frame_TileMarble.description>
+  <Frame_TileSandstone.label>плитка из песчаника (укладывается)</Frame_TileSandstone.label>
+  <Frame_TileSandstone.description>Ведутся отделочные работы.</Frame_TileSandstone.description>
+  <Frame_TileSlate.label>плитка из сланца (укладывается)</Frame_TileSlate.label>
+  <Frame_TileSlate.description>Ведутся отделочные работы.</Frame_TileSlate.description>
+  <Frame_TorchLamp.label>лампа-факел (устанавливается)</Frame_TorchLamp.label>
+  <Frame_TrapIED_AntigrainWarhead.label>гранульная мина (устанавливается)</Frame_TrapIED_AntigrainWarhead.label>
+  <Frame_TrapIED_EMP.label>ЭМИ-мина (устанавливается)</Frame_TrapIED_EMP.label>
+  <Frame_TrapIED_Firefoam.label>пенная мина (устанавливается)</Frame_TrapIED_Firefoam.label>
+  <Frame_TrapIED_HighExplosive.label>осколочная мина (устанавливается)</Frame_TrapIED_HighExplosive.label>
+  <Frame_TrapIED_Incendiary.label>зажигательная мина (устанавливается)</Frame_TrapIED_Incendiary.label>
+  <Frame_Vent.label>вентиляция (строится)</Frame_Vent.label>
+  <Frame_Wall.label>стена (строится)</Frame_Wall.label>
+  <Frame_WatermillGenerator.label>водяной генератор (строится)</Frame_WatermillGenerator.label>
+  <Frame_WaterproofConduit.label>подводный кабель (прокладывается)</Frame_WaterproofConduit.label>
+  <Frame_WindTurbine.label>ветрогенератор (строится)</Frame_WindTurbine.label>
+  <Frame_WoodPlankFloor.label>дощатый пол (укладывается)</Frame_WoodPlankFloor.label>
+  <Frame_WoodPlankFloor.description>Ведутся отделочные работы.</Frame_WoodPlankFloor.description>
+  <Meat_Alpaca.label>мясо альпака</Meat_Alpaca.label>
+  <Meat_Alphabeaver.label>альфабобрятина</Meat_Alphabeaver.label>
+  <Meat_Boomrat.label>бумкрысятина</Meat_Boomrat.label>
+  <Meat_Chicken.label>курятина</Meat_Chicken.label>
+  <Meat_Cougar.label>мясо пумы</Meat_Cougar.label>
+  <Meat_Human.label>плоть человека</Meat_Human.label>
+  <Meat_Rat.label>крысятина</Meat_Rat.label>
+  <Meat_Squirrel.label>бельчатина</Meat_Squirrel.label>
+  <Meat_YorkshireTerrier.label>мясо терьера</Meat_YorkshireTerrier.label>
+</LanguageData>

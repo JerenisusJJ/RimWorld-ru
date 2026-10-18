@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Toxalope.label>токсилопа</Toxalope.label>
+  <Toxalope.labelPlural>токсилопы</Toxalope.labelPlural>
+  <Toxalope.lifeStages.toxalope_calf.label>телёнок токсилопы</Toxalope.lifeStages.toxalope_calf.label>
+  <Toxalope.lifeStages.toxalope_calf.labelPlural>телята токсилопы</Toxalope.lifeStages.toxalope_calf.labelPlural>
+  <WasteRat.label>мусорная крыса</WasteRat.label>
+  <WasteRat.labelPlural>мусорные крысы</WasteRat.labelPlural>
+</LanguageData>

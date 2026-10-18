@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] местоположение лагеря под контролем [siteFaction_name]. В лагере находятся враждебные [siteFaction_pawnsPlural], но вы не знаете, какая у них оборона.</li>
+  </OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+    <li>questName-&gt;[bandit] [camp]</li>
+    <li>questName-&gt;[bandit] [camp]</li>
+    <li>questName-&gt;[asker_nameDef] и [camp]</li>
+    <li>camp-&gt;Лагерь</li>
+    <li>camp-&gt;Аванпост</li>
+    <li>camp-&gt;Логово</li>
+    <li>camp-&gt;Стоянка</li>
+    <li>bandit-&gt;Бандит</li>
+    <li>bandit-&gt;Налетчик</li>
+    <li>bandit-&gt;Изгой</li>
+    <li>bandit-&gt;Отчаянный</li>
+    <li>bandit-&gt;Беглец</li>
+    <li>bandit-&gt;Мародер</li>
+    <li>bandit-&gt;Грабитель</li>
+    <li>bandit-&gt;Разбойник</li>
+  </OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+    <li>subject-&gt;лагеря бандитов</li>
+    <li>subject-&gt;изгои</li>
+    <li>subject-&gt;замечены налетчики</li>
+    <li>questMapFeature-&gt;небольшой лагерь</li>
+    <li>questMapFeature-&gt;аванпост бандитов</li>
+    <li>questMapFeature-&gt;лагерь налетчиков</li>
+    <li>questMapText-&gt;опасные люди</li>
+    <li>questMapText-&gt;добыча лагеря</li>
+    <li>questMapText-&gt;с незваных гостей снимают шкуру</li>
+    <li>questMapText-&gt;торговцы, остерегайтесь — изгои</li>
+  </OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>Срок задания истек: [resolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>Бандиты свернули лагерь и отправились в другое место. Время, отведенное для задания «[resolvedQuestName]», истекло.</OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>Задание провалено: [resolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>Поняв, что их местонахождение известно, бандиты свернули лагерь и отправились в другое место. Задание «[resolvedQuestName]» окончено.</OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>
+</LanguageData>

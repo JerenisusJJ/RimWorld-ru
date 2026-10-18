@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ExecutionCut.label>разрез</ExecutionCut.label>
+  <ExecutionCut.deathMessage>{0} {0_gender ? был казнён : была казнена : было казнено}.</ExecutionCut.deathMessage>
+  <SurgicalCut.label>хирургический порез</SurgicalCut.label>
+  <SurgicalCut.deathMessage>{0} {0_gender ? погиб : погибла : погибло} во время операции.</SurgicalCut.deathMessage>
+</LanguageData>

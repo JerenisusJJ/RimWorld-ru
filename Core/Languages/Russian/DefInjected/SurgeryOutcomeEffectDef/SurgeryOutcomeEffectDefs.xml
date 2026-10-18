@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SurgeryOutcomeBase.outcomes.1.letterLabel>Операция над {PATIENT_labelShort} провалилась</SurgeryOutcomeBase.outcomes.1.letterLabel>
+  <SurgeryOutcomeBase.outcomes.1.letterText>{SURGEON_labelShort} {SURGEON_gender ? совершил : совершила : совершило} фатальную ошибку во время оперирования {PATIENT_labelShort} из-за особой сложности операции: {RECIPE_label}.</SurgeryOutcomeBase.outcomes.1.letterText>
+  <SurgeryOutcomeBase.outcomes.2.letterLabel>Операция над {PATIENT_labelShort} провалилась</SurgeryOutcomeBase.outcomes.2.letterLabel>
+  <SurgeryOutcomeBase.outcomes.2.letterText>{SURGEON_labelShort} {SURGEON_gender ? совершил : совершила : совершило} серьёзную ошибку во время операции ({RECIPE_label}) над {PATIENT_labelShort}.</SurgeryOutcomeBase.outcomes.2.letterText>
+  <SurgeryOutcomeBase.outcomes.3.letterLabel>Операция над {PATIENT_labelShort} провалилась</SurgeryOutcomeBase.outcomes.3.letterLabel>
+  <SurgeryOutcomeBase.outcomes.3.letterText>{SURGEON_labelShort} {SURGEON_gender ? совершил : совершила : совершило} нелепую ошибку во время операции ({RECIPE_label}) над {PATIENT_labelShort}.</SurgeryOutcomeBase.outcomes.3.letterText>
+  <SurgeryOutcomeBase.outcomes.4.letterLabel>Операция провалилась: {PATIENT_labelShort} {PATIENT_gender ? стерилизован : стерилизована : стерилизован}</SurgeryOutcomeBase.outcomes.4.letterLabel>
+  <SurgeryOutcomeBase.outcomes.4.letterText>{SURGEON_labelShort} {SURGEON_gender ? совершил : совершила : совершило} ошибку во время операции ({RECIPE_label}) над {PATIENT_labelShort}, из-за которой {PATIENT_pronoun} {PATIENT_gender ? утратил : утратила : утратило} репродуктивные функции.</SurgeryOutcomeBase.outcomes.4.letterText>
+  <SurgeryOutcomeBase.outcomes.5.letterLabel>Операция провалилась: {PATIENT_labelShort} {PATIENT_gender ? стерилизован : стерилизована : стерилизован}</SurgeryOutcomeBase.outcomes.5.letterLabel>
+  <SurgeryOutcomeBase.outcomes.5.letterText>{SURGEON_labelShort} {SURGEON_gender ? совершил : совершила : совершило} ошибку во время операции ({RECIPE_label}) над {PATIENT_labelShort}, из-за которой {PATIENT_pronoun} {PATIENT_gender ? утратил : утратила : утратило} репродуктивные функции.</SurgeryOutcomeBase.outcomes.5.letterText>
+  <SurgeryOutcomeBase.outcomes.6.letterLabel>Операция над {PATIENT_labelShort} провалилась</SurgeryOutcomeBase.outcomes.6.letterLabel>
+  <SurgeryOutcomeBase.outcomes.6.letterText>{SURGEON_labelShort} {SURGEON_gender ? совершил : совершила : совершило} ошибку во время операции ({RECIPE_label}) над {PATIENT_labelShort}.</SurgeryOutcomeBase.outcomes.6.letterText>
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>Операция над {PATIENT_labelShort} провалилась</SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterText>{SURGEON_labelShort} {SURGEON_gender ? совершил : совершила : совершило} ошибку во время операции ({RECIPE_label}) над {PATIENT_labelShort}.</SurgeryOutcomeMinorFailure.outcomes.1.letterText>
+</LanguageData>

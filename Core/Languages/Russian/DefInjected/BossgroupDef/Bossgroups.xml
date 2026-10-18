@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apocriton.leaderDescription>{LEADERKIND_label} — командир механоидов, способный оказывать на противников воздействие пси-полем и перезапускать недавно выведенных из строя механоидов. Он вооружён дальнобойным ядовитым игломётом.</Apocriton.leaderDescription>
+  <Diabolus.leaderDescription>{LEADERKIND_label} вооружён дезинтегратором, способным плавить бетон. Он медленно заряжается, но выстрел способен уничтожить всё в радиусе поражения.</Diabolus.leaderDescription>
+  <Warqueen.leaderDescription>{LEADERKIND_label} оснащена встроенным гестатором, формирующим боевых дронов-пчёл.</Warqueen.leaderDescription>
+</LanguageData>

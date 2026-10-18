@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RequestChangeRoyalHeir>Изменить наследника титула {lookup: {TITLE}; Case; 1} у {HOLDER_labelShort} ({HEIR_gender ? текущий наследник : текущая наследница : текущий наследник} — {HEIR_labelShort})</RequestChangeRoyalHeir>
+  <RequestSetRoyalHeir>Назначить наследника титула {lookup: {TITLE}; Case; 1} у {HOLDER_labelShort}</RequestSetRoyalHeir>
+  <RequestChangeRoyalHeirAlreadyInProgress>уже в процессе для {PAWN_labelShort}</RequestChangeRoyalHeirAlreadyInProgress>
+</LanguageData>

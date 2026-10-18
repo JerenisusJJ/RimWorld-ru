@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SeedGenerator.rulePack.rulesFiles>
+    <li>businessname-&gt;Names/Business</li>
+    <li>businesstype-&gt;Words/Nouns/BusinessTypes</li>
+  </SeedGenerator.rulePack.rulesFiles>
+  <SeedGenerator.rulePack.rulesStrings>
+    <li>r_seed(p=3)-&gt;[NamePerson]</li>
+    <li>r_seed-&gt;[Animal]</li>
+    <li>r_seed-&gt;[TerrainFeature]</li>
+    <li>r_seed-&gt;[Outlander]</li>
+    <li>r_seed-&gt;[Apparel]</li>
+    <li>r_seed-&gt;[AdjectiveAny]</li>
+    <li>r_seed-&gt;[WordTribal]</li>
+    <li>r_seed-&gt;[rareseed]</li>
+    <li>r_seed-&gt;[rareseed]</li>
+    <li>rareseed-&gt;[Weapon]</li>
+    <li>rareseed-&gt;[Color]</li>
+    <li>rareseed-&gt;[vegetable]</li>
+    <li>rareseed-&gt;[Game]</li>
+    <li>rareseed-&gt;[businessname]</li>
+    <li>rareseed-&gt;[businesstype]</li>
+    <li>rareseed-&gt;[Community]</li>
+  </SeedGenerator.rulePack.rulesStrings>
+</LanguageData>

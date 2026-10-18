@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Chinchilla.label>шиншилла</Chinchilla.label>
+  <Chinchilla.description>Небольшой проворный грызун. Во всей вселенной сложно найти-что либо мягче их меха, за что их шкурки очень ценят.</Chinchilla.description>
+  <Chinchilla.tools.left_claw.label>левая лапа</Chinchilla.tools.left_claw.label>
+  <Chinchilla.tools.left_claw.labelNoLocation>лапа</Chinchilla.tools.left_claw.labelNoLocation>
+  <Chinchilla.tools.right_claw.label>правая лапа</Chinchilla.tools.right_claw.label>
+  <Chinchilla.tools.right_claw.labelNoLocation>лапа</Chinchilla.tools.right_claw.labelNoLocation>
+  <Chinchilla.tools.head.label>голова</Chinchilla.tools.head.label>
+  <Deer.label>олень</Deer.label>
+  <Deer.description>Стадное травоядное среднего размера. Обитает в смешанных лесах и на равнинах. Олени очень быстрые. Мирные от природы, они не нападут, даже если им причинить вред.</Deer.description>
+  <Deer.race.meatLabel>оленина</Deer.race.meatLabel>
+  <Deer.tools.left_hoof.label>левое копыто</Deer.tools.left_hoof.label>
+  <Deer.tools.left_hoof.labelNoLocation>копыто</Deer.tools.left_hoof.labelNoLocation>
+  <Deer.tools.right_hoof.label>правое копыто</Deer.tools.right_hoof.label>
+  <Deer.tools.right_hoof.labelNoLocation>копыто</Deer.tools.right_hoof.labelNoLocation>
+  <Deer.tools.teeth.label>зубы</Deer.tools.teeth.label>
+  <Deer.tools.head.label>голова</Deer.tools.head.label>
+  <Gazelle.label>газель</Gazelle.label>
+  <Gazelle.description>Небольшая, очень быстрая антилопа, известная своим удивительно длинным прыжком.</Gazelle.description>
+  <Gazelle.tools.left_hoof.label>левое копыто</Gazelle.tools.left_hoof.label>
+  <Gazelle.tools.left_hoof.labelNoLocation>копыто</Gazelle.tools.left_hoof.labelNoLocation>
+  <Gazelle.tools.right_hoof.label>правое копыто</Gazelle.tools.right_hoof.label>
+  <Gazelle.tools.right_hoof.labelNoLocation>копыто</Gazelle.tools.right_hoof.labelNoLocation>
+  <Gazelle.tools.head.label>голова</Gazelle.tools.head.label>
+  <Ibex.label>горный козёл</Ibex.label>
+  <Ibex.description>Выносливый дикий предок одомашненных козлов. Живёт там, где большинство антилоп не выживут. Питается лишайниками и редкими горными растениями. Известен тем, что с удивительной ловкостью может прыгать по скалам. А также тем, что может покалечить противника ударом своих рогов.</Ibex.description>
+  <Ibex.tools.left_hoof.label>левое копыто</Ibex.tools.left_hoof.label>
+  <Ibex.tools.left_hoof.labelNoLocation>копыто</Ibex.tools.left_hoof.labelNoLocation>
+  <Ibex.tools.right_hoof.label>правое копыто</Ibex.tools.right_hoof.label>
+  <Ibex.tools.right_hoof.labelNoLocation>копыто</Ibex.tools.right_hoof.labelNoLocation>
+  <Ibex.tools.head.label>голова</Ibex.tools.head.label>
+  <Pig.label>свинья</Pig.label>
+  <Pig.description>Свинья была одним из первых одомашненных человеком животных. Разводится в основном ради мяса и кожи. Свиньи всеядны, поэтому их легко прокормить.</Pig.description>
+  <Pig.race.meatLabel>свинина</Pig.race.meatLabel>
+  <Pig.tools.head.label>голова</Pig.tools.head.label>
+  <WildBoar.label>кабан</WildBoar.label>
+  <WildBoar.description>Волосатый потомок домашних свиней, приспособившийся к жизни в дикой природе.\n\nБивни делают кабана более серьёзным противником, чем его одомашненный собрат. К несчастью, кабанов невозможно обучить ничему сложному.</WildBoar.description>
+  <WildBoar.tools.tusk.label>клыки</WildBoar.tools.tusk.label>
+  <WildBoar.tools.head.label>голова</WildBoar.tools.head.label>
+</LanguageData>

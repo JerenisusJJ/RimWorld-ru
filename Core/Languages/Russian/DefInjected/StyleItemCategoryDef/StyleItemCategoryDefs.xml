@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Cannibal.label>каннибальские</Cannibal.label>
+  <Minimal.label>простые</Minimal.label>
+  <Misc.label>другие</Misc.label>
+  <Moustache.label>усы</Moustache.label>
+  <Punk.label>панк</Punk.label>
+  <Royal.label>знатные</Royal.label>
+  <Rural.label>сельские</Rural.label>
+  <Soldier.label>солдатские</Soldier.label>
+  <Tribal.label>племенные</Tribal.label>
+  <Urban.label>городские</Urban.label>
+</LanguageData>

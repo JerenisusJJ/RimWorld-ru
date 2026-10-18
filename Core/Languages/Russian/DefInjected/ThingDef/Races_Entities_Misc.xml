@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Chimera.label>химера</Chimera.label>
+  <Chimera.description>Огромное существо, напоминающее уродливый гибрид медведя и нескольких других животных. Жестокости его нет предела.\n\nНевозможно установить, является ли это существо комбинацией разных животных или имитацией животной жизни, созданной безумным машинным разумом.</Chimera.description>
+  <Chimera.comps.CompChimera.simpleAnimalLabel>химера</Chimera.comps.CompChimera.simpleAnimalLabel>
+  <Chimera.tools.left_claw.label>левая клешня</Chimera.tools.left_claw.label>
+  <Chimera.tools.left_claw.labelNoLocation>клешня</Chimera.tools.left_claw.labelNoLocation>
+  <Chimera.tools.right_claw.label>правая клешня</Chimera.tools.right_claw.label>
+  <Chimera.tools.right_claw.labelNoLocation>клешня</Chimera.tools.right_claw.labelNoLocation>
+  <Chimera.tools.head.label>голова</Chimera.tools.head.label>
+  <CreepJoiner.label>человек</CreepJoiner.label>
+  <CreepJoiner.description>Обычный человек, практически не изменённый генной инженерией и эволюционным воздействием других планет.</CreepJoiner.description>
+  <CreepJoiner.tools.left_fist.label>левый кулак</CreepJoiner.tools.left_fist.label>
+  <CreepJoiner.tools.left_fist.labelNoLocation>кулак</CreepJoiner.tools.left_fist.labelNoLocation>
+  <CreepJoiner.tools.right_fist.label>правый кулак</CreepJoiner.tools.right_fist.label>
+  <CreepJoiner.tools.right_fist.labelNoLocation>кулак</CreepJoiner.tools.right_fist.labelNoLocation>
+  <CreepJoiner.tools.teeth.label>зубы</CreepJoiner.tools.teeth.label>
+  <CreepJoiner.tools.head.label>голова</CreepJoiner.tools.head.label>
+  <Devourer.label>пожиратель</Devourer.label>
+  <Devourer.description>Огромное чудовище с зияющей зубастой пастью и коротким змеевидным телом. Пожиратель может совершать прыжки на расстояние, в несколько раз превышающее длину его тела, и проглатывать людей целиком. Сильнокислотный желудочный сок быстро разъедает жертву заживо. Останки выходят из пожирателя с отрыжкой.</Devourer.description>
+  <Devourer.comps.CompDevourer.digestingInspector>{PAWN_nameDef} переваривается. Осталось {SECONDS} сек.</Devourer.comps.CompDevourer.digestingInspector>
+  <Devourer.comps.CompDevourer.messageDigested>{PAWN_nameDef} {PAWN_gender ? попал : попала} в пасть пожирателя! Убейте чудовище, пока оно не переварило жертву.</Devourer.comps.CompDevourer.messageDigested>
+  <Devourer.comps.CompDevourer.messageDigestionCompleted>{PAWN_nameDef} выходит из пожирателя с отрыжкой.</Devourer.comps.CompDevourer.messageDigestionCompleted>
+  <Devourer.comps.CompDevourer.messageEmerged>{PAWN_nameDef} выходит из пожирателя.</Devourer.comps.CompDevourer.messageEmerged>
+  <Devourer.comps.CompDevourer.messageEmergedCorpse>{PAWN_nameDef} выходит из трупа пожирателя.</Devourer.comps.CompDevourer.messageEmergedCorpse>
+  <Devourer.tools.left_fin.label>левый плавник</Devourer.tools.left_fin.label>
+  <Devourer.tools.left_fin.labelNoLocation>плавник</Devourer.tools.left_fin.labelNoLocation>
+  <Devourer.tools.right_fin.label>правый плавник</Devourer.tools.right_fin.label>
+  <Devourer.tools.right_fin.labelNoLocation>плавник</Devourer.tools.right_fin.labelNoLocation>
+  <Devourer.tools.teeth.label>зубы</Devourer.tools.teeth.label>
+  <FleshmassNucleus.label>ядро биомассы</FleshmassNucleus.label>
+  <FleshmassNucleus.description>Архо-ядро сердца биомассы. Разупорядоченная решетчатая металлическая структура, покрытая жидкостями. Гнётся и извивается сама собой. Местами видны включения: угловатые металлические архо-фрагменты.\n\nНа поверхности ядра постоянно вырастает мясо. Время от времени рост приобретает взрывной характер. Если дать мясу как следует нарасти, ядро снова превратится в сердце биомассы.</FleshmassNucleus.description>
+  <FleshmassNucleus.comps.CompActivity.letterDesc>Ядро биомассы нарастило критический объём плоти и превратилось в новое сердце биомассы!\n\nВ ходе этого процесса сердце биомассы мутировало и приобрело новую биосигнатуру.</FleshmassNucleus.comps.CompActivity.letterDesc>
+  <FleshmassNucleus.comps.CompActivity.letterTitle>Трансформация биомассы</FleshmassNucleus.comps.CompActivity.letterTitle>
+  <Gorehulk.label>кровавая туша</Gorehulk.label>
+  <Gorehulk.description>Чудовищное существо: болезненно раздутый гуманоид с перепутанными конечностями. В верхней части просматривается растянутое лицо, с которого на жертву смотрят мёртвые глаза.\n\nИз-под кожи кровавой туши выпирают сотни острых кератиновых шипов, которыми туша может выстрелить и поразить жертву на расстоянии. При этом на ближней дистанции неуклюжесть делает кровавую тушу куда менее опасной.\n\nПревращается ли в тушу человек под влиянием пустоты, или туша — имитация человеческой формы, созданная неким зловещим разумом? Сложно сказать наверняка.</Gorehulk.description>
+  <Gorehulk.tools.left_flesh_club.label>левая дубина из плоти</Gorehulk.tools.left_flesh_club.label>
+  <Gorehulk.tools.left_flesh_club.labelNoLocation>дубина из плоти</Gorehulk.tools.left_flesh_club.labelNoLocation>
+  <Gorehulk.tools.right_flesh_club.label>правая дубина из плоти</Gorehulk.tools.right_flesh_club.label>
+  <Gorehulk.tools.right_flesh_club.labelNoLocation>дубина из плоти</Gorehulk.tools.right_flesh_club.labelNoLocation>
+  <Gorehulk.tools.head.label>голова</Gorehulk.tools.head.label>
+  <Metalhorror.label>металлическая жуть</Metalhorror.label>
+  <Metalhorror.description>Масса шевелящихся металлических полос, нитей, лезвий и других приспособлений. Металлические элементы обтекает тёмная жидкость, поддерживая их.\n\nНеактивная металлическая жуть в жидком виде как правило остаётся незамеченной в теле носителя. Так она заражает других людей и размножается. Если жуть обнаруживают или она чувствует опасность, она разрывает плоть носителя и образует вокруг него заострённый металлический экзоскелет.\n\nЕсли вышедшую наружу металлическую жуть не беспокоить, она погрузится в состояние глубокого сна.</Metalhorror.description>
+  <Metalhorror.tools.left_blade.label>левое лезвие</Metalhorror.tools.left_blade.label>
+  <Metalhorror.tools.left_blade.labelNoLocation>лезвие</Metalhorror.tools.left_blade.labelNoLocation>
+  <Metalhorror.tools.right_blade.label>правое лезвие</Metalhorror.tools.right_blade.label>
+  <Metalhorror.tools.right_blade.labelNoLocation>лезвие</Metalhorror.tools.right_blade.labelNoLocation>
+  <Metalhorror.tools.head.label>голова</Metalhorror.tools.head.label>
+  <Nociosphere.label>ноциосфера</Nociosphere.label>
+  <Nociosphere.description>Тёмная металлическая сфера, покрытая изогнутыми и заострёнными бороздками. Возле неё больно находиться.\n\nСфера источает мистическую энергию, которая становится всё сильнее. Пока неясно, что произойдёт, когда энергия достигнет пика. Если сферу захватить, её действие можно будет подавить.</Nociosphere.description>
+  <Nociosphere.comps.CompActivity.letterDesc>Активность ноциосферы достигла 100% — сфера активировалась. Она начинает причинять страшную боль и сеять разрушения.\n\nРано или поздно она покинет поселение — но до этого момента ещё надо дожить.</Nociosphere.comps.CompActivity.letterDesc>
+  <Nociosphere.comps.CompActivity.letterTitle>Ноциосфера активирована</Nociosphere.comps.CompActivity.letterTitle>
+  <Nociosphere.comps.CompStudyUnlocks.studyNotes.0.label>Прогресс в исследовании ноциосферы</Nociosphere.comps.CompStudyUnlocks.studyNotes.0.label>
+  <Nociosphere.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_nameDef} получает новые данные об устройстве ноциосферы. Её единственное предназначение — причинять боль всему, что её окружает.\n\n{PAWN_nameDef} считает, что после дополнительных исследований {PAWN_pronoun} сможет использовать ноциосферу в качестве оружия.</Nociosphere.comps.CompStudyUnlocks.studyNotes.0.text>
+  <Nociosphere.comps.CompStudyUnlocks.studyNotes.1.label>Прогресс в исследовании ноциосферы</Nociosphere.comps.CompStudyUnlocks.studyNotes.1.label>
+  <Nociosphere.comps.CompStudyUnlocks.studyNotes.1.text>Изучив ноциосферу, вы нашли способ активировать её намеренно.\n\nПри активации ноциосфера перенесётся в указанное место, после чего немедленно начнёт причинять страшную боль всем окружающим. Ноциосфера будет преследовать жертв, пока не уничтожит все до последней или не будет уничтожена сама. Ноциосфера также может вернуться. Чтобы активировать ноциосферу, выберите её.</Nociosphere.comps.CompStudyUnlocks.studyNotes.1.text>
+  <Nociosphere.comps.CompStudyUnlocks.studyNotes.2.label>Исследование ноциосферы завершёно</Nociosphere.comps.CompStudyUnlocks.studyNotes.2.label>
+  <Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>{PAWN_nameDef} обнаруживает настораживающий феномен: ноциосфера становится нестабильной.\n\nНа первых стадиях дестабилизации от ноциосферы можно избавиться: нужно просто отправить её в атаку на враждебную цель. Как только атака будет завершёна, сфера самоликвидируется. Если ноциосфера дестабилизируется полностью, подавить её будет уже невозможно.</Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>
+  <Nociosphere.comps.CompNociosphere.activateDescString>Укажите точку, куда нужно отправить ноциосферу. Попав туда, она начнёт причинять боль и убивать всё вокруг. Во время этого недолгого периода ноциосфера будет преследовать всех, в том числе другие тёмные феномены и ваших союзников.\n\nНоциосферу можно отправлять в атаку многократно.</Nociosphere.comps.CompNociosphere.activateDescString>
+  <Nociosphere.comps.CompNociosphere.activateLabelString>Отправить ноциосферу…</Nociosphere.comps.CompNociosphere.activateLabelString>
+  <Nociosphere.comps.CompNociosphere.activatingString>{0} отправляется: {1} сек.</Nociosphere.comps.CompNociosphere.activatingString>
+  <Nociosphere.comps.CompNociosphere.becomingUnstableInspectText>Теряет стабильность</Nociosphere.comps.CompNociosphere.becomingUnstableInspectText>
+  <Nociosphere.comps.CompNociosphere.departingMessage>Ноциосфера покидает поселение.</Nociosphere.comps.CompNociosphere.departingMessage>
+  <Nociosphere.comps.CompNociosphere.jobString>отправить ноциосферу</Nociosphere.comps.CompNociosphere.jobString>
+  <Nociosphere.comps.CompNociosphere.leftLetterLabel>Ноциосфера покинула поселение</Nociosphere.comps.CompNociosphere.leftLetterLabel>
+  <Nociosphere.comps.CompNociosphere.leftLetterText>Ноциосфера завершила атаку и исчезла.\n\nНеясно, пропала ли она насовсем или ещё вернётся.</Nociosphere.comps.CompNociosphere.leftLetterText>
+  <Nociosphere.comps.CompNociosphere.onCooldownString>Пауза между атаками ноциосферы</Nociosphere.comps.CompNociosphere.onCooldownString>
+  <Nociosphere.comps.CompNociosphere.onslaughtEndedMessage>Ноциосфера закончила атаку и вернулась в отправную точку.</Nociosphere.comps.CompNociosphere.onslaughtEndedMessage>
+  <Nociosphere.comps.CompNociosphere.onslaughtInspectText>Режим атаки: осталось {0} сек.</Nociosphere.comps.CompNociosphere.onslaughtInspectText>
+  <Nociosphere.comps.CompNociosphere.unstableInspectText>Нестабильна: невозможно подавить</Nociosphere.comps.CompNociosphere.unstableInspectText>
+  <Nociosphere.comps.CompNociosphere.unstableWarning>Внимание: через {0} дн. ноциосфера станет невосприимчива к подавлению.</Nociosphere.comps.CompNociosphere.unstableWarning>
+  <Noctol.label>ноктол</Noctol.label>
+  <Noctol.description>Большое пощёлкивающее существо с когтями из биоферрита, покрытое маслянистым чёрным панцирем. Исключительно смертоносно в темноте, но свет раздражает ему глаза и кожу, и оно замедляется.</Noctol.description>
+  <Noctol.tools.left_claw.label>левая клешня</Noctol.tools.left_claw.label>
+  <Noctol.tools.left_claw.labelNoLocation>клешня</Noctol.tools.left_claw.labelNoLocation>
+  <Noctol.tools.right_claw.label>правая клешня</Noctol.tools.right_claw.label>
+  <Noctol.tools.right_claw.labelNoLocation>клешня</Noctol.tools.right_claw.labelNoLocation>
+  <Noctol.tools.head.label>голова</Noctol.tools.head.label>
+  <Revenant.label>ревенант</Revenant.label>
+  <Revenant.description>Долговязая фигура, напоминающая неестественно высокого гуманоида c иссушенной кожей. Это существо возвращается каждую ночь и гипнотизирует новых жертв.\n\nПоверья чужеземцев описывают ревенанта как невидимого духа, забирающего умы грешников в сущий ад. Говорят, есть только один способ вернуть жертвам разум: отыскать ревенанта, пока тот погружён в сон, и убить его.\n\nНевидимого ревенанта можно обнаружить с помощью ракет-дизрапторов, взрывов, ЭМИ, пожарной пены, а также огня.</Revenant.description>
+  <Revenant.tools.head.label>голова</Revenant.tools.head.label>
+  <Sightstealer.label>взглядокрад</Sightstealer.label>
+  <Sightstealer.description>Истощённые и деформированные гуманоиды с острыми изогнутыми когтями из биоферрита на руках. Взглядокрады — существа хрупкие, но благодаря способности к псионическому воздействию они остаются невидимыми для жертвы, пока не подберутся совсем близко. Собираясь на охоту, они издают леденящий кровь крик.</Sightstealer.description>
+  <Sightstealer.tools.left_claw.label>левая клешня</Sightstealer.tools.left_claw.label>
+  <Sightstealer.tools.left_claw.labelNoLocation>клешня</Sightstealer.tools.left_claw.labelNoLocation>
+  <Sightstealer.tools.right_claw.label>правая клешня</Sightstealer.tools.right_claw.label>
+  <Sightstealer.tools.right_claw.labelNoLocation>клешня</Sightstealer.tools.right_claw.labelNoLocation>
+  <Sightstealer.tools.head.label>голова</Sightstealer.tools.head.label>
+</LanguageData>

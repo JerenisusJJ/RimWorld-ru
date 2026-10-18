@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Charity_Essential.label>основополагающе</Charity_Essential.label>
+  <Charity_Essential.description>Мы всегда должны быть милосердны к нуждающимся. Вне зависимости от обстоятельств, отказывать — верх бесчеловечности.</Charity_Essential.description>
+  <Charity_Important.label>важно</Charity_Important.label>
+  <Charity_Important.description>Важно проявлять милосердие к нуждающимся. Отказывать в помощи — ужасно.</Charity_Important.description>
+  <Charity_Worthwhile.label>целесообразно</Charity_Worthwhile.label>
+  <Charity_Worthwhile.description>Помощь нуждающимся — это хорошо. Это делает нашу общину сильнее.</Charity_Worthwhile.description>
+</LanguageData>

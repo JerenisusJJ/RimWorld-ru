@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MeleeWeapon_BreachAxe.label>штурмовой топор</MeleeWeapon_BreachAxe.label>
+  <MeleeWeapon_BreachAxe.description>Топор и инструмент для взлома на прочной рукояти. Не очень эффективен как оружие против людей, зато с лёгкостью расправляется со стенами, дверьми и другими постройками благодаря лезвию с киркой.</MeleeWeapon_BreachAxe.description>
+  <MeleeWeapon_BreachAxe.tools.handle.label>рукоять</MeleeWeapon_BreachAxe.tools.handle.label>
+  <MeleeWeapon_BreachAxe.tools.head.label>лезвие</MeleeWeapon_BreachAxe.tools.head.label>
+</LanguageData>

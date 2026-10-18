@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Riverbank.label>речной берег</Riverbank.label>
+  <Riverbank.tools.dirt.label>земля</Riverbank.tools.dirt.label>
+  <AncientTile.label>древняя плитка</AncientTile.label>
+  <AncientTile.description>Древние металлические плиты со следами вековой коррозии.</AncientTile.description>
+  <AncientConcrete.label>древний бетон</AncientConcrete.label>
+  <AncientConcrete.description>Древнее бетонное покрытие промышленного назначения.</AncientConcrete.description>
+  <AncientWoodPlankFloor.label>древний дощатый пол</AncientWoodPlankFloor.label>
+</LanguageData>

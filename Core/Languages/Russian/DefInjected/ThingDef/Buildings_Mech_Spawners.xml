@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MechAssembler.label>породитель механоидов</MechAssembler.label>
+  <MechAssembler.description>Автоматический быстродействующий гестатор механоидов. Периодически производит и запускает механоидов.</MechAssembler.description>
+  <MechCapsule.label>капсула с механоидами</MechCapsule.label>
+  <MechCapsule.description>Капсула для хранения и развёртывания боевых механоидов. Внутри находятся несколько механоидов, которые при пробуждении вырвутся из неё и вступят в бой.</MechCapsule.description>
+  <MechDropBeacon.label>маяк механоидов</MechDropBeacon.label>
+  <MechDropBeacon.description>Маяк для вызова десантных подкреплений механоидов. При активации вызывает группу механоидов в капсулах, которые приземлятся неподалёку.</MechDropBeacon.description>
+</LanguageData>

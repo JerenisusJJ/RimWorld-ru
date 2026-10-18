@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bullet_ThumpCannon.label>ударный снаряд</Bullet_ThumpCannon.label>
+  <Gun_ThumpCannon.label>ударное орудие</Gun_ThumpCannon.label>
+  <Gun_ThumpCannon.description>Штурмовой гранатомёт механоидов, используемый для прорыва стен и укреплений. Малоэффективен против живой силы.</Gun_ThumpCannon.description>
+  <Gun_ThumpCannon.tools.barrel.label>ствол</Gun_ThumpCannon.tools.barrel.label>
+  <Gun_ThumpCannon.verbs.Verb_Shoot.label>ударное орудие</Gun_ThumpCannon.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MedicalOperationSpeed.label>скорость проведения медпроцедур</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>Скорость, с которой персонаж проводит медицинские процедуры.</MedicalOperationSpeed.description>
+  <MedicalSurgerySuccessChance.label>шанс успеха операции</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>Базовая вероятность того, что персонаж успешно завершит хирургическую операцию.\n\nНа успех также влияют кровать и помещение, в котором проводится операция, используемые медикаменты, сложность самой операции и воодушевление врача.\n\nПри этом вне зависимости от этого показателя всегда сохраняется небольшой риск совершения ошибки.</MedicalSurgerySuccessChance.description>
+  <MedicalTendQuality.label>качество лечения</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Базовое качество, с которым персонаж ухаживает за ранами и лечит болезни.\n\nФактическое качество лечения зависит от кровати и помещения, в котором проводится операция, используемых медикаментов, удачи и других факторов.</MedicalTendQuality.description>
+  <MedicalTendSpeed.label>скорость лечения</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Скорость, с которой персонаж ухаживает за ранами и лечит болезни.</MedicalTendSpeed.description>
+</LanguageData>

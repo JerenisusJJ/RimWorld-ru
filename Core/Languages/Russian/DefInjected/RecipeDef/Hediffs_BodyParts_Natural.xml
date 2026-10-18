@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <InstallNaturalHeart.label>пересадка сердца</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Пересадить сердце.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Пересаживает сердце</InstallNaturalHeart.jobString>
+  <InstallNaturalKidney.label>пересадка почки</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Пересадить почку.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Пересаживает почку</InstallNaturalKidney.jobString>
+  <InstallNaturalLiver.label>пересадка печени</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Пересадить печень.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Пересаживает печень</InstallNaturalLiver.jobString>
+  <InstallNaturalLung.label>пересадка лёгкого</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Пересадить лёгкое.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Пересаживает лёгкое</InstallNaturalLung.jobString>
+</LanguageData>

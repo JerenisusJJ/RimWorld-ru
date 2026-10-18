@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PollutionRaid.questContentRules.rulesStrings>
+    <li>retaliationLetterLabel-&gt;возмездие за загрязнение</li>
+    <li>retaliationLetterText-&gt;Враждебные [enemyFaction_pawnsPlural] из фракции [enemyFaction_name] расположились поблизости.\n\nОни нападают, чтобы отомстить вам за сброс токсичных отходов за пределы поселения, что, по их мнению, нанесло вред их фракции.</li>
+  </PollutionRaid.questContentRules.rulesStrings>
+  <PollutionRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;pollutionraid</li>
+  </PollutionRaid.questDescriptionRules.rulesStrings>
+  <PollutionRaid.questNameRules.rulesStrings>
+    <li>questDescription-&gt;pollutionraid</li>
+  </PollutionRaid.questNameRules.rulesStrings>
+</LanguageData>

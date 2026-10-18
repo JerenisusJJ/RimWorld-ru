@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HiveQueen.label>королева улья</HiveQueen.label>
+  <HiveQueen.description>Родоначальница насекомого мегароя. При подходящих условиях несколько отдельных ульев насекомых сливаются вместе и производят королеву улья. Королева быстро увеличивается в размерах и оказывается запертой в собственной норе.</HiveQueen.description>
+  <HiveQueen.comps.CompLetterOnRevealed.label>Королева улья</HiveQueen.comps.CompLetterOnRevealed.label>
+  <HiveQueen.comps.CompLetterOnRevealed.text>Вы обнаружили центр гнезда. Его охраняет огромная королева насекомых!</HiveQueen.comps.CompLetterOnRevealed.text>
+  <HiveQueen.tools.head_claw.label>головная клешня</HiveQueen.tools.head_claw.label>
+  <HiveQueen.tools.head.label>голова</HiveQueen.tools.head.label>
+  <Larva.label>личинка</Larva.label>
+  <Larva.description>Молодая форма более крупных биоинженерных насекомых. Личинки поддерживают и расширяют ульи с помощью кислотного секрета. В случае угрозы они защищаются, извергая слизь.</Larva.description>
+  <Larva.tools.mandibles.label>жвалы</Larva.tools.mandibles.label>
+  <Larva.tools.head.label>голова</Larva.tools.head.label>
+  <Locust.label>саранча</Locust.label>
+  <Locust.description>Биоинженерное насекомое, способное перелетать на короткие дистанции. Специальные химические рецепторы позволяют саранче эффективно добывать пищу. Хотя поодиночке они относительно слабы, но рой саранчи может быть смертельно опасен.</Locust.description>
+  <Locust.tools.mandibles.label>жвалы</Locust.tools.mandibles.label>
+  <Locust.tools.head.label>голова</Locust.tools.head.label>
+</LanguageData>

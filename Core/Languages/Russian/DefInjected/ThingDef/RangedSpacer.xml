@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bullet_ChargeLance.label>снаряд из энергокопья</Bullet_ChargeLance.label>
+  <Bullet_ChargeRifle.label>энергетический выстрел</Bullet_ChargeRifle.label>
+  <Gun_ChargeLance.label>энергокопьё</Gun_ChargeLance.label>
+  <Gun_ChargeLance.description>Энергетическое оружие на основе рельсотрона. Стреляет быстро летящими одиночными снарядами, приведёнными в энергетически нестабильное состояние.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.tools.barrel.label>ствол</Gun_ChargeLance.tools.barrel.label>
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>энергокопьё</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  <Gun_ChargeRifle.label>энерговинтовка</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>Винтовка с энергетическими зарядами.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.tools.stock.label>приклад</Gun_ChargeRifle.tools.stock.label>
+  <Gun_ChargeRifle.tools.barrel.label>ствол</Gun_ChargeRifle.tools.barrel.label>
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>энерговинтовка</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+</LanguageData>

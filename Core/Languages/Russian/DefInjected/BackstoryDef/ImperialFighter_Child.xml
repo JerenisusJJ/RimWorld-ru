@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Delinquent13.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} большую часть своего детства за решеткой. И, после неудачной попытки побега, {PAWN_gender ? был отправлен : была отправлена : был отправлно} служить в армию.</Delinquent13.description>
+  <Delinquent13.title>малолетний арестант</Delinquent13.title>
+  <Delinquent13.titleShort>арестант</Delinquent13.titleShort>
+  <Machinist56.description>{PAWN_nameDef} всегда {PAWN_gender ? имел : имела : имело} талант к механике. {PAWN_pronoun} {PAWN_gender ? пополнял : пополняла : пополняло} семейный бюджет, ремонтируя и модифицируя оружие на чёрном рынке.</Machinist56.description>
+  <Machinist56.title>механик</Machinist56.title>
+  <Machinist56.titleShort>механик</Machinist56.titleShort>
+  <MilitaryCadet46.description>{PAWN_nameDef} в раннем возрасте {PAWN_gender ? покинул : покинула : покинуло} семью, чтобы стать солдатом. {PAWN_pronoun} {PAWN_gender ? жил : жила : жило} в бараке с другими, перенося тяготы и лишения, обучаясь обращению с оружием и узнавая о понятиях долга и победы.\n\nИнструкторы иногда выпускали детей за территорию базы, чтобы те могли насладиться миром снаружи. Им нужны были бойцы, способные мыслить самостоятельно.</MilitaryCadet46.description>
+  <MilitaryCadet46.title>военный кадет</MilitaryCadet46.title>
+  <MilitaryCadet46.titleShort>кадет</MilitaryCadet46.titleShort>
+  <PoliticalCaptive7.description>В детстве {PAWN_nameDef} {PAWN_gender ? был похищен : была похищена : был похищно} соперничающей семьёй и {PAWN_gender ? содержался : содержалась : содержался} в плену ради выкупа. Чтобы скоротать время в неволе, {PAWN_pronoun} {PAWN_gender ? читал : читала : читало} книги и {PAWN_gender ? упражнялся : упражнялась : упражнялся} в боевых искусствах. У {PAWN_nameDef} было мало возможностей для социализации.</PoliticalCaptive7.description>
+  <PoliticalCaptive7.title>политический пленник</PoliticalCaptive7.title>
+  <PoliticalCaptive7.titleShort>пленник</PoliticalCaptive7.titleShort>
+  <RichKid61.description>{PAWN_nameDef} {PAWN_gender ? вышел : вышла : вышело} из богатого и влиятельного рода. В {PAWN_possessive} дорогое образование входили уроки лидерства, военной стратегии и проведения дуэлей.</RichKid61.description>
+  <RichKid61.title>богатый ребёнок</RichKid61.title>
+  <RichKid61.titleShort>богатый ребёнок</RichKid61.titleShort>
+  <ShipBoy89.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родился} в семье прислуги низшего звена на древнем космическом корабле. Корабельный ИИ стал {PAWN_objective} третьим родителем, а команда по сборке запчастей, в которой {PAWN_nameDef} {PAWN_gender ? работал : работала : работало} — второй семьёй.\n\n{PAWN_nameDef} редко {PAWN_gender ? видел : видела : видело} растения или животных и до сих пор слегка боится к ним прикасаться.</ShipBoy89.description>
+  <ShipBoy89.title>корабельный мальчик</ShipBoy89.title>
+  <ShipBoy89.titleShort>корабельный мальчик</ShipBoy89.titleShort>
+  <ShipBoy89.titleFemale>корабельная девочка</ShipBoy89.titleFemale>
+  <ShipBoy89.titleShortFemale>корабельная девочка</ShipBoy89.titleShortFemale>
+  <SoldiersKid55.description>{PAWN_nameDef} {PAWN_gender ? рос : росла : рос} на древнем космическом корабле, где служили {PAWN_possessive} родители. У солдат на борту {PAWN_pronoun} {PAWN_gender ? научился : научилась : научился} основам обращения с оружием и ухода за ним. {PAWN_nameDef} {PAWN_gender ? привык : привыкла : привык} к жёсткой рутине и частым наказаниям.</SoldiersKid55.description>
+  <SoldiersKid55.title>сын военного</SoldiersKid55.title>
+  <SoldiersKid55.titleShort>сын военного</SoldiersKid55.titleShort>
+  <StreetRat81.description>{PAWN_nameDef} {PAWN_gender ? состоял : состояла : состояло} в банде уличных воров. {PAWN_pronoun} {PAWN_gender ? проводил : проводила : проводило} свои дни, обворовывая чужие карманы, участвуя в разборках за территорию и ловя кайф с любых наркотиков, которые получалось достать.</StreetRat81.description>
+  <StreetRat81.title>уличная шпана</StreetRat81.title>
+  <StreetRat81.titleShort>уличная шпана</StreetRat81.titleShort>
+</LanguageData>

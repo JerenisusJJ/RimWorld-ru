@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AteBabyFood.stages.ate_baby_food.label>{0_gender ? Съел : Съела} детское питание</AteBabyFood.stages.ate_baby_food.label>
+  <AteBabyFood.stages.ate_baby_food.description>Мне пришлось съесть водянистую жижу, приготовленную для детей. Это не просто безвкусно, это гадко.</AteBabyFood.stages.ate_baby_food.description>
+</LanguageData>

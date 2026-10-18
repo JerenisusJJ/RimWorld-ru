@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Deactivated.reportString>деактивировано</Deactivated.reportString>
+  <Fish.reportString>рыбачит</Fish.reportString>
+  <FishAnimal.reportString>рыбачит</FishAnimal.reportString>
+  <Forage.reportString>собирает еду</Forage.reportString>
+  <GotoOxygenatedArea.reportString>ищет кислород</GotoOxygenatedArea.reportString>
+  <GotoPatrolDest.reportString>патрулирует</GotoPatrolDest.reportString>
+  <GotoShip.reportString>идет к кораблю</GotoShip.reportString>
+  <InspectGravEngine.reportString>осматривает TargetA</InspectGravEngine.reportString>
+  <PilotConsole.reportString>управляет TargetA</PilotConsole.reportString>
+  <PutApparelOnOutfitStand.reportString>кладет TargetA на TargetB</PutApparelOnOutfitStand.reportString>
+  <Seal.reportString>герметизирует TargetA</Seal.reportString>
+  <UseOutfitStand.reportString>меняется одеждой с TargetA</UseOutfitStand.reportString>
+  <LeaveShip.reportString>покидает корабль</LeaveShip.reportString>
+</LanguageData>

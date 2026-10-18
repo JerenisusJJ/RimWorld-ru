@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Heatstroke.label>тепловой удар</Heatstroke.label>
+  <Heatstroke.description>Выраженное нарушение работоспособности организма, вызванное чрезмерным воздействием тепла и солнца. Наблюдается головокружение, слабость и растерянность. Такое состояние быстро пройдёт, если находиться некоторое время в прохладном месте. Если же воздействие неблагоприятных факторов продолжится, тепловой удар будет усиливаться и постепенно приведёт к смерти.</Heatstroke.description>
+  <Heatstroke.stages.initial-0.label>начальный</Heatstroke.stages.initial-0.label>
+  <Heatstroke.stages.initial-1.label>начальный</Heatstroke.stages.initial-1.label>
+  <Heatstroke.stages.minor.label>лёгкий</Heatstroke.stages.minor.label>
+  <Heatstroke.stages.serious.label>серьёзный</Heatstroke.stages.serious.label>
+  <Heatstroke.stages.extreme.label>сильнейший</Heatstroke.stages.extreme.label>
+  <Hypothermia.label>гипотермия</Hypothermia.label>
+  <Hypothermia.description>Опасно низкая температура тела. Если её не поднять, гипотермия будет усиливаться и приведёт к смерти. Такое состояние быстро пройдёт, если находиться некоторое время в тёплом помещении. Избегайте гипотермии, надевая тёплую одежду в холодных климатических условиях.</Hypothermia.description>
+  <Hypothermia.stages.shivering-0.label>озноб</Hypothermia.stages.shivering-0.label>
+  <Hypothermia.stages.shivering-1.label>озноб</Hypothermia.stages.shivering-1.label>
+  <Hypothermia.stages.minor.label>лёгкая</Hypothermia.stages.minor.label>
+  <Hypothermia.stages.serious.label>серьёзная</Hypothermia.stages.serious.label>
+  <Hypothermia.stages.extreme.label>тяжелейшая</Hypothermia.stages.extreme.label>
+  <HypothermicSlowdown.label>замедление метаболизма</HypothermicSlowdown.label>
+  <HypothermicSlowdown.description>Особое биологическое состояние, наблюдаемое у некоторых существ, выживающих в сильнейших холодах. Вместо того, чтобы стараться сохранить тепло, организм адаптирует обмен веществ таким образом, чтобы не замёрзнуть, несмотря на низкую температуру тела. Всё жизненные функции замедляются, но холод не наносит необратимого урона. Некоторые биологи называют это формой активной спячки.</HypothermicSlowdown.description>
+  <HypothermicSlowdown.stages.minor-0.label>лёгкое</HypothermicSlowdown.stages.minor-0.label>
+  <HypothermicSlowdown.stages.minor-1.label>лёгкое</HypothermicSlowdown.stages.minor-1.label>
+  <HypothermicSlowdown.stages.moderate.label>среднее</HypothermicSlowdown.stages.moderate.label>
+  <HypothermicSlowdown.stages.serious.label>серьёзное</HypothermicSlowdown.stages.serious.label>
+  <HypothermicSlowdown.stages.extreme.label>критическое</HypothermicSlowdown.stages.extreme.label>
+</LanguageData>

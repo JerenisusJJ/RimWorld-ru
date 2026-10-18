@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ButcherCorpseFlesh.label>разделать тушу</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Разделать существо для получения мяса, кожи и других ресурсов.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Разделывает</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseMechanoid.label>переработать механоида</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.description>Переработать механоида в попытке извлечь полезные материалы.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>Перерабатывает механоида</ButcherCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.label>разбить механоида</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.description>Разбить механоида для извлечения полезных материалов.</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.jobString>Разбивает механоида</SmashCorpseMechanoid.jobString>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <FleshbeastHead.label>голова</FleshbeastHead.label>
+  <FleshbeastLeg.label>щупальце</FleshbeastLeg.label>
+  <FleshbeastSpike.label>шип</FleshbeastSpike.label>
+  <MovingBodyFleshbeast.label>туловище</MovingBodyFleshbeast.label>
+  <Tentacle.label>щупальце из биомассы</Tentacle.label>
+</LanguageData>

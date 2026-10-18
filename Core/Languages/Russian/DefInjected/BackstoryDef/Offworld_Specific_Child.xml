@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ApocalypseSurvivor23.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родился} в смутные времена, когда из-за изменения климата {PAWN_possessive} родная планета страдала от наводнений и массового голода. Пока {PAWN_nameDef} {PAWN_gender ? рос : росла : рос}, ситуация становилась только хуже: гибли миллионы людей, и даже самые тихие и мирные места тонули в анархии. Вместе со своими родителями {PAWN_pronoun} {PAWN_gender ? делал : делала : делало} всё, чтобы выжить.</ApocalypseSurvivor23.description>
+  <ApocalypseSurvivor23.title>выживший</ApocalypseSurvivor23.title>
+  <ApocalypseSurvivor23.titleShort>выживший</ApocalypseSurvivor23.titleShort>
+  <CaveworldTender26.description>{PAWN_nameDef} {PAWN_gender ? рос : росла : рос} в пещерном комплексе глубоко под поверхностью {PAWN_possessive} неприветливой планеты. Там {PAWN_pronoun} {PAWN_gender ? работал : работала : работало} вместе с другими детьми племени, ухаживая за грибными грядками.</CaveworldTender26.description>
+  <CaveworldTender26.title>пещерный фермер</CaveworldTender26.title>
+  <CaveworldTender26.titleShort>дитя пещер</CaveworldTender26.titleShort>
+  <CaveworldTunneler48.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} копателем в огромном пещерном комплексе.\n\n{PAWN_pronoun} знает своё дело настолько хорошо, что может ориентироваться в пещерах чуть ли не по запаху.</CaveworldTunneler48.description>
+  <CaveworldTunneler48.title>пещерный проходчик</CaveworldTunneler48.title>
+  <CaveworldTunneler48.titleShort>проходчик</CaveworldTunneler48.titleShort>
+  <IndustrialOrphan13.description>{PAWN_nameDef} никогда не {PAWN_gender ? видел : видела : видело} своих родителей. Самые ранние {PAWN_possessive} воспоминания связаны с тяжёлой работой в шахтах и цехах индустриального мира.\n\nИз-за этого {PAWN_nameDef} так и не {PAWN_gender ? получил : получила : получило} достойного образования.</IndustrialOrphan13.description>
+  <IndustrialOrphan13.title>городской сирота</IndustrialOrphan13.title>
+  <IndustrialOrphan13.titleShort>сирота</IndustrialOrphan13.titleShort>
+  <Scout44.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родился} в одной из небольших колоний Империи. {PAWN_possessive} записали в участники молодёжной программы, посвящённой обучению навыкам военной разведки.\n\nВ рамках программы {PAWN_pronoun} {PAWN_gender ? научился : научилась : научился} выживать в дикой местности, подчиняться приказам и не задавать лишних вопросов.</Scout44.description>
+  <Scout44.title>разведчик</Scout44.title>
+  <Scout44.titleShort>разведчик</Scout44.titleShort>
+  <ShelterChild50.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} свои юные годы в убежище глубоко под истерзанной землёй токсичного мира. {PAWN_pronoun} {PAWN_gender ? получил : получила : получило} всестороннее образование, но не {PAWN_gender ? имел : имела : имело} возможности трудиться физически.</ShelterChild50.description>
+  <ShelterChild50.title>дитя убежища</ShelterChild50.title>
+  <ShelterChild50.titleShort>житель убежища</ShelterChild50.titleShort>
+  <TestSubject15.description>На самых прогнивших урбанизированных мирах учёные, забывшие всё нормы морали, творят неописуемые зверства во имя науки. На одной из таких планет {PAWN_nameDef} с самого рождения {PAWN_gender ? содержался : содержалась : содержался} в секретной лаборатории и {PAWN_gender ? был : была : было} объектом экспериментов в попытке превратить {PAWN_possessive} в суперсолдата.</TestSubject15.description>
+  <TestSubject15.title>подопытный</TestSubject15.title>
+  <TestSubject15.titleShort>подопытный</TestSubject15.titleShort>
+  <UrbworldUrchin61.description>Урбанизированные миры представляют собой древние и глубоко индустриальные города, лопающиеся от перенаселения и отравленные отходами производств. {PAWN_nameDef} {PAWN_gender ? рос : росла : рос} в одном из тёмных уголков подобных мест. {PAWN_objective} приходилось драться за каждый кусочек пищи.</UrbworldUrchin61.description>
+  <UrbworldUrchin61.title>дитя улиц</UrbworldUrchin61.title>
+  <UrbworldUrchin61.titleShort>оборванец</UrbworldUrchin61.titleShort>
+  <WreckageExplorer93.description>С юных лет {PAWN_nameDef} {PAWN_gender ? следил : следила : следило} за скотом своего племени, но частенько {PAWN_gender ? увиливал : увиливала : увиливало} от своей работы, чтобы исследовать разбросанные по планете обломки разбившихся военных кораблей.</WreckageExplorer93.description>
+  <WreckageExplorer93.title>искатель обломков</WreckageExplorer93.title>
+  <WreckageExplorer93.titleShort>искатель</WreckageExplorer93.titleShort>
+</LanguageData>

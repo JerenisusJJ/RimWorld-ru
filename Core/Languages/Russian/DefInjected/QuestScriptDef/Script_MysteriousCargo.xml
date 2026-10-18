@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MysteriousCargoCube.questContentRules.rulesStrings>
+    <li>deliveredLetterLabel-&gt;Таинственный груз</li>
+    <li>deliveredLetterText(pawnOnMap==true)-&gt;Вы получили таинственный груз. Это простой куб, тёплый на ощупь и сверкающий, словно золото — правда, его невозможно поцарапать. Свет завораживающе играет на его поверхности.\n\n[pawn_nameDef] чувствует необъяснимую тягу к кубу.</li>
+    <li>deliveredLetterText(pawnOnMap==false)-&gt;Вы получили таинственный груз. Это простой куб, тёплый на ощупь и сверкающий, словно золото — правда, его невозможно поцарапать. Свет завораживающе играет на его поверхности.</li>
+  </MysteriousCargoCube.questContentRules.rulesStrings>
+  <MysteriousCargoCube.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;От анонимного ИИ поступил необычный запрос: он попросил вас принять груз, не указав, что это такое. ИИ избегает ответа на все вопросы о грузе.\n\nЕсли вы примете этот запрос, груз будет доставлен в транспортной капсуле.</li>
+    <li>questDescription(asker_factionLeader==true)-&gt;[asker_faction_leaderTitle] [asker_nameFull] из фракции [asker_faction_name] обращается к вам с необычной просьбой. [asker_pronoun] хочет, чтобы вы приняли какой-то груз, но уходит от ответа на все вопросы о содержимом. В [asker_possessive] голосе чувствуется отчаяние.\n\nЕсли вы согласитесь, [asker_nameFull] доставит груз транспортной капсулой.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)-&gt;[asker_nameFull], [asker_royalTitleInCurrentFaction] фракции [asker_faction_name], обращается к вам с необычной просьбой. [asker_pronoun] хочет, чтобы вы приняли какой-то груз, но уходит от ответа на все вопросы о содержимом. В [asker_possessive] голосе чувствуется отчаяние.\n\nЕсли вы согласитесь, [asker_nameFull] доставит груз транспортной капсулой.</li>
+  </MysteriousCargoCube.questDescriptionRules.rulesStrings>
+  <MysteriousCargoCube.questNameRules.rulesStrings>
+    <li>questName-&gt;Таинственный груз</li>
+  </MysteriousCargoCube.questNameRules.rulesStrings>
+  <MysteriousCargoRevenantSpine.questContentRules.rulesStrings>
+    <li>deliveredLetterLabel-&gt;Таинственный груз</li>
+    <li>deliveredLetterText-&gt;Вы получили таинственный груз. Это нечто напоминающее толстый и заострённый человеческий позвоночник из необработанного чёрного металла. Он будто бы покрыт чёрной жидкостью.\n\nПри прикосновении позвоночник начинает извиваться и хлестать во все стороны. Чтобы узнать о нём больше, его нужно исследовать на фиксирующей платформе.</li>
+  </MysteriousCargoRevenantSpine.questContentRules.rulesStrings>
+  <MysteriousCargoRevenantSpine.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;От анонимного ИИ поступил необычный запрос: он попросил вас принять груз, не указав, что это такое. ИИ избегает ответа на все вопросы о грузе.\n\nЕсли вы примете этот запрос, груз будет доставлен в транспортной капсуле.</li>
+    <li>questDescription(asker_factionLeader==true)-&gt;[asker_faction_leaderTitle] [asker_nameFull] из фракции [asker_faction_name] обращается к вам с необычной просьбой. [asker_pronoun] хочет, чтобы вы приняли какой-то груз, но уходит от ответа на все вопросы о содержимом. В [asker_possessive] голосе чувствуется отчаяние.\n\nЕсли вы согласитесь, [asker_nameFull] доставит груз транспортной капсулой.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)-&gt;[asker_nameFull], [asker_royalTitleInCurrentFaction] фракции [asker_faction_name], обращается к вам с необычной просьбой. [asker_pronoun] хочет, чтобы вы приняли какой-то груз, но уходит от ответа на все вопросы о содержимом. В [asker_possessive] голосе чувствуется отчаяние.\n\nЕсли вы согласитесь, [asker_nameFull] доставит груз транспортной капсулой.</li>
+  </MysteriousCargoRevenantSpine.questDescriptionRules.rulesStrings>
+  <MysteriousCargoRevenantSpine.questNameRules.rulesStrings>
+    <li>questName-&gt;Таинственный груз</li>
+  </MysteriousCargoRevenantSpine.questNameRules.rulesStrings>
+  <MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
+    <li>deliveredLetterLabel-&gt;Таинственный груз</li>
+    <li>deliveredLetterText(pawnOnMap==true)-&gt;Вы получили таинственный груз. Похоже, это труп человека.\n\nРассмотрев труп получше, ваши специалисты понимают, что он выглядит точь-в-точь как [pawn_nameDef]. У тела воскообразная и тёплая кожа. [pawn_nameDef] испытывает рядом с ним страшный дискомфорт.\n\nТруп можно исследовать, чтобы узнать о нём больше.</li>
+    <li>deliveredLetterText(pawnOnMap==false)-&gt;Вы получили таинственный груз. Похоже, это труп человека.\n\nРассмотрев труп получше, ваши специалисты понимают, что он выглядит точь-в-точь как [pawn_nameDef]. У тела воскообразная и тёплая кожа. [pawn_nameDef] будет испытывать рядом с ним страшный дискомфорт.\n\nТруп можно исследовать, чтобы узнать о нём больше.</li>
+  </MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
+  <MysteriousCargoUnnaturalCorpse.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;От анонимного ИИ поступил необычный запрос: он попросил вас принять груз, не указав, что это такое. ИИ избегает ответа на все вопросы о грузе.\n\nЕсли вы примете этот запрос, груз будет доставлен в транспортной капсуле.</li>
+    <li>questDescription(asker_factionLeader==true)-&gt;[asker_faction_leaderTitle] [asker_nameFull] из фракции [asker_faction_name] обращается к вам с необычной просьбой. [asker_pronoun] хочет, чтобы вы приняли какой-то груз, но уходит от ответа на все вопросы о содержимом. В [asker_possessive] голосе чувствуется отчаяние.\n\nЕсли вы согласитесь, [asker_nameFull] доставит груз транспортной капсулой.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)-&gt;[asker_nameFull], [asker_royalTitleInCurrentFaction] фракции [asker_faction_name], обращается к вам с необычной просьбой. [asker_pronoun] хочет, чтобы вы приняли какой-то груз, но уходит от ответа на все вопросы о содержимом. В [asker_possessive] голосе чувствуется отчаяние.\n\nЕсли вы согласитесь, [asker_nameFull] доставит груз транспортной капсулой.</li>
+  </MysteriousCargoUnnaturalCorpse.questDescriptionRules.rulesStrings>
+  <MysteriousCargoUnnaturalCorpse.questNameRules.rulesStrings>
+    <li>questName-&gt;Таинственный груз</li>
+  </MysteriousCargoUnnaturalCorpse.questNameRules.rulesStrings>
+</LanguageData>

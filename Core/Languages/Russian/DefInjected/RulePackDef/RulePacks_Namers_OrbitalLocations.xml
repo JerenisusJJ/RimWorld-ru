@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
+    <li>terrain_word(p=4)-&gt;астероид</li>
+    <li>terrain_word-&gt;скала</li>
+    <li>terrain_word-&gt;спутник</li>
+    <li>terrain_word-&gt;планетоид</li>
+    <li>terrain_word-&gt;луна</li>
+  </NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
+</LanguageData>

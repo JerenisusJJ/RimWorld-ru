@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AirConditioning.label>кондиционеры</AirConditioning.label>
+  <AirConditioning.description>Предназначены для охлаждения помещений в жару или обустройства холодильников.</AirConditioning.description>
+  <AirConditioning.generalRules.rulesStrings>
+    <li>subject-&gt;кондиционеры</li>
+    <li>subject_gen-&gt;кондиционеров</li>
+    <li>subject_dat-&gt;кондиционерам</li>
+    <li>subject_pre_about-&gt;о кондиционерах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? посетил : посетила} самый жаркий город на планете</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? устроился : устроилась} на работу на склад межзвёздного значения, располагавшийся среди ледяных шапок планеты, и в [ANYPAWN_possessive] обязанности входило поддержание температуры, близкой к абсолютному нулю</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? узнал : узнала} всё о кондиционерах и морозильных камерах, а затем {ANYPAWN_gender ? вернулся : вернулась} домой</li>
+    <li>subject_gerund-&gt;установки кондиционеров</li>
+  </AirConditioning.generalRules.rulesStrings>
+  <Autodoors.label>автодвери</Autodoors.label>
+  <Autodoors.description>Двери с датчиками и электромеханизмом позволят поселенцам не тратить время на их открывание.</Autodoors.description>
+  <Autodoors.generalRules.rulesStrings>
+    <li>subject-&gt;автодвери</li>
+    <li>subject-&gt;автоматические двери</li>
+    <li>subject_gen-&gt;автодверей</li>
+    <li>subject_gen-&gt;автоматических дверей</li>
+    <li>subject_dat-&gt;автодверям</li>
+    <li>subject_dat-&gt;автоматическим дверям</li>
+    <li>subject_pre_about-&gt;об автодверях</li>
+    <li>subject_pre_about-&gt;об автоматических дверях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? был принят : была принята} на работу в занимавшуюся робототехнической безопасностью фирму, что открыло [ANYPAWN_objective] двери для карьеры тестировщика автоматизации</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} прототипы уникальных моделей автодверей</li>
+    <li>subject_story-&gt;после напряжённой работы {ANYPAWN_gender ? добился : добилась} того, что двери при открывании и закрывании стали издавать услаждавшее слух свистящее шипение</li>
+    <li>subject_gerund-&gt;установки автодверей</li>
+  </Autodoors.generalRules.rulesStrings>
+  <Batteries.label>аккумуляторы</Batteries.label>
+  <Batteries.description>Изготовление аккумуляторов для хранения электроэнергии.</Batteries.description>
+  <Batteries.generalRules.rulesStrings>
+    <li>subject-&gt;аккумуляторы</li>
+    <li>subject_gen-&gt;аккумуляторов</li>
+    <li>subject_dat-&gt;аккумуляторам</li>
+    <li>subject_pre_about-&gt;об аккумуляторах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? понял : поняла}, что кислотное озеро на свинцовых берегах мёртвого мира работает как естественный аккумулятор</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал ответственным : стала ответственной} за поддержание системы жизнеобеспечения поселения в случае отключения электроэнергии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} работать на мире-свалке, ремонтируя машины и аккумуляторы</li>
+    <li>subject_gerund-&gt;изготовления аккумуляторов</li>
+  </Batteries.generalRules.rulesStrings>
+  <BiofuelRefining.label>перегонка биосырья</BiofuelRefining.label>
+  <BiofuelRefining.description>Конструирование перегонных аппаратов для получения химического топлива из органики, например древесины или пищевого сырья.</BiofuelRefining.description>
+  <BiofuelRefining.generalRules.rulesStrings>
+    <li>subject-&gt;биотопливо</li>
+    <li>subject_gen-&gt;биотоплива</li>
+    <li>subject_dat-&gt;биотопливу</li>
+    <li>subject_pre_about-&gt;о биотопливе</li>
+    <li>subject_story-&gt;, оказавшись в ловушке на корабле поколений с отключившимся питанием, {ANYPAWN_gender ? получил : получила} химтопливо из человеческих останков и {ANYPAWN_gender ? перезапустил : перезапустила} двигатели</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? начал : начала} длительный процесс терраформирования ледяного мира с помощью автоматизированных перегонных аппаратов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? основал : основала} винокурню для производства самогона. Однако напиток оказался непригодным для питья, и [ANYPAWN_pronoun] {ANYPAWN_gender ? продал : продала} его как химтопливо</li>
+    <li>subject_gerund-&gt;перегонки биосырья</li>
+  </BiofuelRefining.generalRules.rulesStrings>
+  <BlowbackOperation.label>энергия отдачи</BlowbackOperation.label>
+  <BlowbackOperation.description>Позволяет конструировать автоматическое и полуавтоматическое огнестрельное оружие, например самозарядные и автоматические пистолеты.</BlowbackOperation.description>
+  <BlowbackOperation.generalRules.rulesStrings>
+    <li>subject-&gt;пистолеты</li>
+    <li>subject-&gt;энергия отдачи</li>
+    <li>subject_gen-&gt;пистолетов</li>
+    <li>subject_gen-&gt;энергии отдачи</li>
+    <li>subject_dat-&gt;пистолетам</li>
+    <li>subject_dat-&gt;энергии отдачи</li>
+    <li>subject_pre_about-&gt;о пистолетах</li>
+    <li>subject_pre_about-&gt;об энергии отдачи</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} использовать автоматические пистолеты в захлестнувшей планету окопной войне</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} продавать маломощные пистолеты правоохранительным органам на орбитальных станциях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} изготавливать автоматическое оружие для близоруких призывников</li>
+    <li>subject_gerund-&gt;изготовления пистолетов</li>
+    <li>subject_gerund-&gt;изготовления автоматических пистолетов</li>
+  </BlowbackOperation.generalRules.rulesStrings>
+  <ColoredLights.label>продвинутое освещение</ColoredLights.label>
+  <ColoredLights.description>Позволяет конструировать мощные уличные светильники. Также вдвое уменьшает энергопотребление электрических осветительных приборов и позволяет изменять цвет свечения. Не относится к солнечным лампам.</ColoredLights.description>
+  <ColoredLights.generalRules.rulesStrings>
+    <li>subject-&gt;улучшенное освещение</li>
+    <li>subject_gen-&gt;улучшенного освещения</li>
+    <li>subject_dat-&gt;улучшенному освещению</li>
+    <li>subject_pre_about-&gt;об улучшенном освещении</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? установил : установила} прожекторы по всему периметру безопасности тюремного мира</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} систему искусственного освещения тёмной стороны планеты</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? занялся : занялась} организацией концертов для межзвёздных трубадуров, специализируясь на управлении массивными корабельными осветительными установками</li>
+    <li>subject_gerund-&gt;применения продвинутого освещения</li>
+  </ColoredLights.generalRules.rulesStrings>
+  <Electricity.label>электричество</Electricity.label>
+  <Electricity.description>Выработка и использование электроэнергии для выполнения сотен разных задач.</Electricity.description>
+  <Electricity.discoveredLetterText>Ваше поселение приручило стихию, которую чужеземцы называют «электричеством». С его помощью можно кардинально преобразить жизнь вашей общины.\n\nТеперь вам доступна вкладка «Энергия» меню строительства. В ней вы найдете генераторы, кабели и прочие электрические приспособления. Вкладка «Энергия» также отображает электрическую сеть и подключённые к ней генераторы и другую электрику.</Electricity.discoveredLetterText>
+  <Electricity.discoveredLetterTitle>Подробнее: электричество</Electricity.discoveredLetterTitle>
+  <Electricity.generalRules.rulesStrings>
+    <li>subject-&gt;электричество</li>
+    <li>subject_gen-&gt;электричества</li>
+    <li>subject_dat-&gt;электричеству</li>
+    <li>subject_pre_about-&gt;об электричестве</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? преисполнился : преисполнилась} решимости обуздать энергию молний, после того как гроза застала [ANYPAWN_possessive] врасплох</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} первые на средневековом мире генератор и электрическую лампу</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? использовал : использовала} электричество для освещения дома на феодальном мире, за что {ANYPAWN_gender ? был казнён как богохульник : была казнена как богохульница}</li>
+    <li>subject_gerund-&gt;использования электричества</li>
+  </Electricity.generalRules.rulesStrings>
+  <Firefoam.label>пожарная пена</Firefoam.label>
+  <Firefoam.description>Особая огнезащитная пена позволяет эффективно тушить пожары. Ей можно заправить специальные противопожарные устройства, хлопушки, которые при приближении огня распылят пену вокруг себя.</Firefoam.description>
+  <Firefoam.generalRules.rulesStrings>
+    <li>subject-&gt;хлопушки с пожарной пеной</li>
+    <li>subject-&gt;устройства пожарной безопасности</li>
+    <li>subject_gen-&gt;хлопушек с пожарной пеной</li>
+    <li>subject_gen-&gt;устройств пожарной безопасности</li>
+    <li>subject_dat-&gt;хлопушкам с пожарной пеной</li>
+    <li>subject_dat-&gt;устройствам пожарной безопасности</li>
+    <li>subject_pre_about-&gt;о хлопушках с пожарной пеной</li>
+    <li>subject_pre_about-&gt;об устройствах пожарной безопасности</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возглавил : возглавила} агентство по информированию населения о нормах пожарной безопасности</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} пожарным</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? использовал : использовала} пожарную пену для тушения вышедшего из-под контроля нефтяного пожара</li>
+    <li>subject_gerund-&gt;установки хлопушек с пожарной пеной</li>
+    <li>subject_gerund-&gt;тушения огня с помощью хлопушек с пожарной пеной</li>
+  </Firefoam.generalRules.rulesStrings>
+  <FlakArmor.label>бронезащита</FlakArmor.label>
+  <FlakArmor.description>Одежда со вшитыми металлическими бронепластинами даёт защиту от путь и осколков, но её немалый вес слегка затрудняет передвижение.</FlakArmor.description>
+  <FlakArmor.generalRules.rulesStrings>
+    <li>subject-&gt;бронезащита</li>
+    <li>subject_gen-&gt;бронезащиты</li>
+    <li>subject_dat-&gt;бронезащите</li>
+    <li>subject_pre_about-&gt;о бронезащите</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? снабдил : снабдила} бронежилетами ополченцев, контролировавших города</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? научился : научилась} вшивать металлические пластины в одежду, чтобы защитить своих близких от банд бродяг</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? вшил : вшила} в свою одежду металлические пластины, которые однажды уберегли [ANYPAWN_possessive] от выпущенной из винтовки пули</li>
+    <li>subject_gerund-&gt;изготовления бронежилетов</li>
+    <li>subject_gerund-&gt;изготовления бронекурток</li>
+    <li>subject_gerund-&gt;изготовления бронешлемов</li>
+    <li>subject_gerund-&gt;изготовления бронештанов</li>
+  </FlakArmor.generalRules.rulesStrings>
+  <FoamTurret.label>пенные турели</FoamTurret.label>
+  <FoamTurret.description>Позволяет сооружать турели, распыляющие пожарную пену при активации.</FoamTurret.description>
+  <FoamTurret.generalRules.rulesStrings>
+    <li>subject-&gt;противопожарные турели</li>
+    <li>subject-&gt;турели пожаротушения</li>
+    <li>subject_gen-&gt;противопожарных турелей</li>
+    <li>subject_gen-&gt;турелей пожаротушения</li>
+    <li>subject_dat-&gt;противопожарным турелям</li>
+    <li>subject_dat-&gt;турелям пожаротушения</li>
+    <li>subject_pre_about-&gt;о противопожарных турелях</li>
+    <li>subject_pre_about-&gt;о турелях пожаротушения</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изменил : изменила} конструкцию турелей, чтобы они тушили пожары, а не провоцировали их</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? встроил : встроила} тепловые датчики и распылители пены в стандартный блок турели</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? установил : установила} дешёвые пенные турели в общественных местах, за что {ANYPAWN_gender ? получил : получила} высокую награду, сохранив жизни многих людей</li>
+    <li>subject_gerund-&gt;сооружения противопожарных турелей</li>
+    <li>subject_gerund-&gt;тушения огня с помощью противопожарных турелей</li>
+  </FoamTurret.generalRules.rulesStrings>
+  <GasOperation.label>отвод пороховых газов</GasOperation.label>
+  <GasOperation.description>Позволяет конструировать более продвинутое автоматическое и полуавтоматическое огнестрельное оружие: автоматические дробовики, пистолеты-пулемёты и ручные пулемёты.</GasOperation.description>
+  <GasOperation.generalRules.rulesStrings>
+    <li>subject-&gt;тяжёлое вооружение</li>
+    <li>subject-&gt;пулемёты</li>
+    <li>subject_gen-&gt;тяжёлого вооружения</li>
+    <li>subject_gen-&gt;пулемётов</li>
+    <li>subject_dat-&gt;тяжёлому вооружению</li>
+    <li>subject_dat-&gt;пулемётам</li>
+    <li>subject_pre_about-&gt;о тяжёлом вооружении</li>
+    <li>subject_pre_about-&gt;о пулемётах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? снабдил : снабдила} ручными пулемётами отряды специального назначения гвардии тирана</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? снабдил : снабдила} тяжёлым огнестрельным оружием несколько планетарных армий</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала} новые типы мощного огнестрельного оружия, известные и по сей день</li>
+    <li>subject_gerund-&gt;изготовления автоматических дробовиков</li>
+    <li>subject_gerund-&gt;изготовления пистолетов-пулемётов</li>
+    <li>subject_gerund-&gt;изготовления ручных пулемётов</li>
+  </GasOperation.generalRules.rulesStrings>
+  <GeothermalPower.label>геотермальная энергия</GeothermalPower.label>
+  <GeothermalPower.description>Строительство геотермальных электростанций на паровых гейзерах для непрерывной выработки электроэнергии.</GeothermalPower.description>
+  <GeothermalPower.generalRules.rulesStrings>
+    <li>subject-&gt;геотермальная энергия</li>
+    <li>subject_gen-&gt;геотермальной энергии</li>
+    <li>subject_dat-&gt;геотермальной энергии</li>
+    <li>subject_pre_about-&gt;о геотермальной энергии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} энергию пара и {ANYPAWN_gender ? установил : установила} геотермальные генераторы по всему региону</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? использовал : использовала} энергию спящего вулкана для питания местной электросети</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? использовал : использовала} гейзеры для получения энергии после длительных прений с местным населением, желавшим сохранить их первозданное великолепие</li>
+    <li>subject_gerund-&gt;использования геотермальной энергии</li>
+    <li>subject_gerund-&gt;строительства геотермальных генераторов</li>
+  </GeothermalPower.generalRules.rulesStrings>
+  <Gunsmithing.label>огнестрельное оружие</Gunsmithing.label>
+  <Gunsmithing.description>К простому огнестрельному оружию относятся револьверы, помповые дробовики, винтовки с продольным затвором, а также реактивные огнемёты.</Gunsmithing.description>
+  <Gunsmithing.generalRules.rulesStrings>
+    <li>subject-&gt;простое огнестрельное оружие</li>
+    <li>subject_gen-&gt;простого огнестрельного оружия</li>
+    <li>subject_dat-&gt;простому огнестрельному оружию</li>
+    <li>subject_pre_about-&gt;о простом огнестрельном оружии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? сконструировал : сконструировала} уникальный 12-зарядный револьвер, который стал залогом побед в нескончаемых перестрелках</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? специализировался : специализировалась} на простом оружейном деле и {ANYPAWN_gender ? стал : стала} производить дробовики и винтовки для охотников</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал оружейником : стала оружейницей} и {ANYPAWN_gender ? заслужил : заслужила} широкую известность</li>
+    <li>subject_gerund-&gt;изготовления винтовок</li>
+    <li>subject_gerund-&gt;изготовления дробовиков</li>
+    <li>subject_gerund-&gt;изготовления дымовых гранатомётов</li>
+    <li>subject_gerund-&gt;изготовления реактивных огнемётов</li>
+    <li>subject_gerund-&gt;изготовления револьверов</li>
+  </Gunsmithing.generalRules.rulesStrings>
+  <GunTurrets.label>пулемётные турели</GunTurrets.label>
+  <GunTurrets.description>Изготовление простых автоматических пулемётных турелей.</GunTurrets.description>
+  <GunTurrets.generalRules.rulesStrings>
+    <li>subject-&gt;пулемётные турели</li>
+    <li>subject_gen-&gt;пулемётных турелей</li>
+    <li>subject_dat-&gt;пулемётным турелям</li>
+    <li>subject_pre_about-&gt;о пулемётных турелях</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? внедрил : внедрила} в программное обеспечение турелей ИИ-алгоритм «свой-чужой»</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала} модульное приспособление для турелей, позволявшее использовать любой тип оружия</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возглавил : возглавила} наступление, предварительно дистанционно выведя из строя вражеские турели</li>
+    <li>subject_gerund-&gt;сооружения мини-турелей</li>
+  </GunTurrets.generalRules.rulesStrings>
+  <Hydroponics.label>гидропоника</Hydroponics.label>
+  <Hydroponics.description>Создание гидропонных резервуаров для быстрого выращивания растений в помещении вне зависимости от почвы и погоды снаружи.</Hydroponics.description>
+  <Hydroponics.generalRules.rulesStrings>
+    <li>subject-&gt;гидропоника</li>
+    <li>subject_gen-&gt;гидропоники</li>
+    <li>subject_dat-&gt;гидропонике</li>
+    <li>subject_pre_about-&gt;о гидропонике</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? присоединился : присоединилась} к экипажу корабля поколений в качестве специалиста по растениеводству</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} гидропонную фабрику с целью накормить голодных</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} разъезжать по всему миру, обучая новых поселенцев искусственному выращиванию растений</li>
+    <li>subject_gerund-&gt;сооружения гидропонных ферм</li>
+    <li>subject_gerund-&gt;выращивания растений в помещении</li>
+  </Hydroponics.generalRules.rulesStrings>
+  <IEDs.label>мины</IEDs.label>
+  <IEDs.description>Изготовление и установка мин нажимного действия из артиллерийских снарядов.</IEDs.description>
+  <IEDs.generalRules.rulesStrings>
+    <li>subject-&gt;мины</li>
+    <li>subject_gen-&gt;мин</li>
+    <li>subject_dat-&gt;минам</li>
+    <li>subject_pre_about-&gt;о минах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? утилизировал : утилизировала} оставшиеся после войны снаряды, отправив их на новую линию фронта в качестве мин</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? смог : смогла} долгое время выживать благодаря созданию ловушек из множества неразорвавшихся вражеских снарядов, после того как {ANYPAWN_gender ? попал : попала} под миномётный обстрел</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? выступил : выступила} в защиту прав небольших поселений, в которых неразорвавшиеся снаряды представляли постоянную опасность</li>
+    <li>subject_gerund-&gt;изготовления мин нажимного действия</li>
+  </IEDs.generalRules.rulesStrings>
+  <Machining.label>механика</Machining.label>
+  <Machining.description>Позволяет создавать верстаки, на которых можно собирать оружие и оборудование, а также перерабатывать мёртвых механоидов.</Machining.description>
+  <Machining.generalRules.rulesStrings>
+    <li>subject-&gt;механика</li>
+    <li>subject_gen-&gt;механики</li>
+    <li>subject_dat-&gt;механике</li>
+    <li>subject_pre_about-&gt;о механике</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? нашёл : нашла} ценные ресурсы, переработав собранные останки мёртвых механоидов</li>
+    <li>subject_story-&gt;в подвале пригородного дома незаметно {ANYPAWN_gender ? собрал : собрала} арсенал самодельного оружия</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? соорудил : соорудила} множество верстаков для оружейников, будучи при этом пацифистом</li>
+    <li>subject_gerund-&gt;создания обрабатывающего оборудования</li>
+    <li>subject_gerund-&gt;механической обработки</li>
+  </Machining.generalRules.rulesStrings>
+  <Mortars.label>миномёты</Mortars.label>
+  <Mortars.description>Миномёты позволяют запускать снаряды на большие расстояния поверх препятствий.</Mortars.description>
+  <Mortars.generalRules.rulesStrings>
+    <li>subject-&gt;артиллерия</li>
+    <li>subject-&gt;миномёты</li>
+    <li>subject_gen-&gt;артиллерии</li>
+    <li>subject_gen-&gt;миномётов</li>
+    <li>subject_dat-&gt;артиллерии</li>
+    <li>subject_dat-&gt;миномётам</li>
+    <li>subject_pre_about-&gt;об артиллерии</li>
+    <li>subject_pre_about-&gt;о миномётах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? сыграл : сыграла} важную роль в осаде военной тюрьмы, что привело к свержению городского совета</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала} лёгкую разборную миномётную установку для местной полиции</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? придумал : придумала} способ сноса заброшенных зданий запущенными с помощью миномётов разрывными снарядами</li>
+    <li>subject_gerund-&gt;изготовления лёгкой артиллерии</li>
+    <li>subject_gerund-&gt;сооружения миномётов</li>
+  </Mortars.generalRules.rulesStrings>
+  <NutrientPaste.label>питательная паста</NutrientPaste.label>
+  <NutrientPaste.description>Особые дозаторы позволяют эффективно и автоматизированно производить питательную пасту из сырых пищевых продуктов.</NutrientPaste.description>
+  <NutrientPaste.generalRules.rulesStrings>
+    <li>subject-&gt;питательная паста</li>
+    <li>subject_gen-&gt;питательной пасты</li>
+    <li>subject_dat-&gt;питательной пасте</li>
+    <li>subject_pre_about-&gt;о питательной пасте</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? придумал : придумала} использовать питательную пасту с целью облегчить себе работу в заводской столовой</li>
+    <li>subject_story-&gt;, потеряв из-за болезни вкус и обоняние, {ANYPAWN_gender ? изобрёл : изобрела} безвкусную, но дешёвую питательную пасту</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? выступил : выступила} за переработку всех органических веществ в питательную пасту — даже трупов</li>
+    <li>subject_gerund-&gt;сооружения дозаторов пасты</li>
+  </NutrientPaste.generalRules.rulesStrings>
+  <PackagedSurvivalMeal.label>сухие пайки</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.description>Консервированная и герметично упакованная еда, которая не портится и идеально подходит для путешествий.</PackagedSurvivalMeal.description>
+  <PackagedSurvivalMeal.generalRules.rulesStrings>
+    <li>subject-&gt;сухие пайки</li>
+    <li>subject-&gt;консервирование</li>
+    <li>subject_gen-&gt;сухих пайков</li>
+    <li>subject_gen-&gt;консервирования</li>
+    <li>subject_dat-&gt;сухим пайкам</li>
+    <li>subject_dat-&gt;консервированию</li>
+    <li>subject_pre_about-&gt;о сухих пайках</li>
+    <li>subject_pre_about-&gt;о консервировании</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? рассчитал : рассчитала} необходимое на случай катастрофы количество сухих пайков, чтобы их хватило до прибытия спасателей</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? организовал : организовала} предприятие общепита, которое на безвозмездной основе предоставляло сухие пайки всем отправлявшимся в рейс кораблям</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? наткнулся : наткнулась} на пролежавшие сотни лет в горах запасы сухих пайков</li>
+    <li>subject_gerund-&gt;приготовления сухих пайков</li>
+  </PackagedSurvivalMeal.generalRules.rulesStrings>
+  <Prosthetics.label>протезирование</Prosthetics.label>
+  <Prosthetics.description>Конструирование несложных протезов для замены утраченных конечностей. Для установки требуется опытный врач.</Prosthetics.description>
+  <Prosthetics.generalRules.rulesStrings>
+    <li>subject-&gt;протезирование</li>
+    <li>subject_gen-&gt;протезирования</li>
+    <li>subject_dat-&gt;протезированию</li>
+    <li>subject_pre_about-&gt;о протезировании</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? заменил : заменила} свою конечность протезом с целью показать, насколько это просто</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла} клинику протезирования</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? начал : начала} изготавливать на заказ искусственные конечности для многочисленных ветеранов войны</li>
+    <li>subject_gerund-&gt;создания протезов</li>
+  </Prosthetics.generalRules.rulesStrings>
+  <SmokepopBelt.label>дымовые ранцы</SmokepopBelt.label>
+  <SmokepopBelt.description>Дымовые ранцы используют для постановки дымовых завес.</SmokepopBelt.description>
+  <SmokepopBelt.generalRules.rulesStrings>
+    <li>subject-&gt;дымовая завеса</li>
+    <li>subject_gen-&gt;дымовой завесы</li>
+    <li>subject_dat-&gt;дымовой завесе</li>
+    <li>subject_pre_about-&gt;о дымовых завесах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} использовать дымовые шашки для создания спецэффектов, работая роуди в музыкальной группе</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? установил : установила} по периметру городов оградительные дымовые завесы с целью сдерживания дикой природы</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? стал : стала} использовать дымовые шашки для обучения новых пожарных, исключив опасность реального пожара</li>
+    <li>subject_gerund-&gt;изготовления дымовых ранцев</li>
+    <li>subject_gerund-&gt;постановки дымовых завес</li>
+  </SmokepopBelt.generalRules.rulesStrings>
+  <SolarPanels.label>солнечные батареи</SolarPanels.label>
+  <SolarPanels.description>Панели с солнечными батареями предназначены для преобразования солнечного света в электроэнергию.</SolarPanels.description>
+  <SolarPanels.generalRules.rulesStrings>
+    <li>subject-&gt;солнечные батареи</li>
+    <li>subject-&gt;солнечная энергия</li>
+    <li>subject_gen-&gt;солнечных батарей</li>
+    <li>subject_gen-&gt;солнечной энергии</li>
+    <li>subject_dat-&gt;солнечным батареям</li>
+    <li>subject_dat-&gt;солнечной энергии</li>
+    <li>subject_pre_about-&gt;о солнечных батареях</li>
+    <li>subject_pre_about-&gt;о солнечной энергии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} многоспектральную солнечную ферму</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изучил : изучила} способы увеличения эффективности поглощения солнечной энергии</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? присоединился : присоединилась} к проекту «Прыжок в солнце», чтобы вблизи увидеть фотосферу звезды</li>
+    <li>subject_gerund-&gt;сооружения солнечных батарей</li>
+  </SolarPanels.generalRules.rulesStrings>
+  <SterileMaterials.label>стерильные материалы</SterileMaterials.label>
+  <SterileMaterials.description>Укладка стерильной плитки для создания чистых помещений для более безопасного и эффективного лечения, исследования, приготовления пищи.</SterileMaterials.description>
+  <SterileMaterials.generalRules.rulesStrings>
+    <li>subject-&gt;стерильные материалы</li>
+    <li>subject_gen-&gt;стерильных материалов</li>
+    <li>subject_dat-&gt;стерильным материалам</li>
+    <li>subject_pre_about-&gt;о стерильных материалах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? предотвратил : предотвратила} множество смертей, настояв на эффективной и последовательной стерилизации всего оборудования</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла} уникальное во всей системе пищевое производство, которое выпускало продукты, не вызывавшие пищевых отравлений</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? основал : основала} фабрику декоративной плитки, в числе прочего занимавшуюся производством медицинского оборудования и стерильной плитки</li>
+    <li>subject_gerund-&gt;стерилизации поверхностей</li>
+    <li>subject_gerund-&gt;укладки стерильной плитки</li>
+  </SterileMaterials.generalRules.rulesStrings>
+  <TubeTelevision.label>ЭЛТ-телевизор</TubeTelevision.label>
+  <TubeTelevision.description>Устройство с электронно-лучевой трубкой и экраном, принимающее телевизионный сигнал и преобразующее его в видео со звуком. Даже на окраинных мирах часто имеется старый передатчик, вещающий что-то хоть как-то интересное.</TubeTelevision.description>
+  <TubeTelevision.generalRules.rulesStrings>
+    <li>subject-&gt;ЭЛТ-телевизоры</li>
+    <li>subject_gen-&gt;ЭЛТ-телевизоров</li>
+    <li>subject_dat-&gt;ЭЛТ-телевизорам</li>
+    <li>subject_pre_about-&gt;об ЭЛТ-телевизорах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? сконструировал : сконструировала} аналог ретро-телевизора, который мог принимать межзвёздные сигналы</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? сделал : сделала} карьеру в сфере телерадиовещания, выпуская программы только для архаичных телевизоров на электронно-лучевых трубках</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? добился : добилась} того, чтобы все узнали об опасности электронно-лучевых трубок</li>
+    <li>subject_gerund-&gt;изготовления ЭЛТ-телевизоров</li>
+  </TubeTelevision.generalRules.rulesStrings>
+  <WatermillGenerator.label>водяной генератор</WatermillGenerator.label>
+  <WatermillGenerator.description>Преобразует энергию течения воды в электрический ток. Следует размещать так, чтобы колесо находилось в водном потоке. Если колёса генераторов разместить слишком близко друг к другу, производимые ими завихрения в водном потоке наложатся друг на друга и снизят общую выработку энергии.</WatermillGenerator.description>
+  <WatermillGenerator.generalRules.rulesStrings>
+    <li>subject-&gt;водяные генераторы</li>
+    <li>subject_gen-&gt;водяных генераторов</li>
+    <li>subject_dat-&gt;водяным генераторам</li>
+    <li>subject_pre_about-&gt;о водяных генераторах</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? осознал : осознала} мощь, заключённую в водном течении, наблюдая за уплывавшими вниз по реке ветками и листьями</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? запитал : запитал} электросеть, подключив кабель к древней водяной мельнице на феодальном мире</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? вытащил : вытащила} колёсный пароход на берег реки пост-апокалиптического мира, превратив его в водяной генератор</li>
+    <li>subject_gerund-&gt;применения водяных генераторов</li>
+  </WatermillGenerator.generalRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CynapseCustomAdulthood.description>Почти всё своё время {PAWN_nameDef} {PAWN_gender ? проводил : проводила : проводило} взаперти, подальше от других людей. Чтобы выжить, {PAWN_pronoun} {PAWN_gender ? тренировал и продавал : тренировала и продавала : тренировал и продавало} почтовых крыс.</CynapseCustomAdulthood.description>
+  <CynapseCustomAdulthood.title>отшельник</CynapseCustomAdulthood.title>
+  <CynapseCustomAdulthood.titleShort>отшельник</CynapseCustomAdulthood.titleShort>
+  <CynapseCustomChildhood.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} большую часть своей жизни разбирая и перебирая электронные устройства, чтобы понять, как они работают. {PAWN_pronoun} {PAWN_gender ? был : была : было} настолько {PAWN_gender ? поглощён : поглощена : поглощён} этим занятием, что совсем {PAWN_gender ? забыл : забыла : забыло} о развитии социальных связей с другими людьми.</CynapseCustomChildhood.description>
+  <CynapseCustomChildhood.title>умелец</CynapseCustomChildhood.title>
+  <CynapseCustomChildhood.titleShort>умелец</CynapseCustomChildhood.titleShort>
+  <FeyCustomAdulthood.description>{PAWN_nameDef} {PAWN_gender ? проводил : проводила : проводило} всё своё время ведя настольные ролевые игры как средство для общения с другими людьми. Игра развивалась из года в год, и игрокам нравились миры и истории, которые {PAWN_nameDef} {PAWN_gender ? придумывал : придумывала : придумывало}.</FeyCustomAdulthood.description>
+  <FeyCustomAdulthood.title>ведущий игры</FeyCustomAdulthood.title>
+  <FeyCustomAdulthood.titleShort>ведущий</FeyCustomAdulthood.titleShort>
+  <FeyCustomChildhood.description>{PAWN_nameDef} {PAWN_gender ? рос : росла : рос} замкнутым ребёнком в одном из городов-ульев урбанизированного мира и {PAWN_gender ? развлекал : развлекала : развлекало} себя игрой в варгеймы и раскрашиванием фигурок. И хоть в самой игре {PAWN_pronoun} не {PAWN_gender ? был хорош : была хороша : был хорош}, этот процесс помогал наладить контакт с другими людьми.</FeyCustomChildhood.description>
+  <FeyCustomChildhood.title>фанат варгеймов</FeyCustomChildhood.title>
+  <FeyCustomChildhood.titleShort>варгеймер</FeyCustomChildhood.titleShort>
+  <JoeCustomAdulthood.description>{PAWN_nameDef} {PAWN_gender ? занимался : занималась : занимался} разработкой игр, из-за чего {PAWN_gender ? жил : жила : жило} в бесконечном цикле блестящих идей и незаконченных проектов.</JoeCustomAdulthood.description>
+  <JoeCustomAdulthood.title>разработчик игр</JoeCustomAdulthood.title>
+  <JoeCustomAdulthood.titleShort>разработчик</JoeCustomAdulthood.titleShort>
+  <JoeCustomChildhood.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родился} в семье музыкантов. В трудные времена {PAWN_objective} пришлось зарабатывать игрой на барабанах в странствующей группе.</JoeCustomChildhood.description>
+  <JoeCustomChildhood.title>барабанщик</JoeCustomChildhood.title>
+  <JoeCustomChildhood.titleShort>барабанщик</JoeCustomChildhood.titleShort>
+  <LiamCustomAdulthood.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} на спокойном утопическом мире, разрабатывая программное обеспечение для гиперреалистичной симуляции военных преступлений.</LiamCustomAdulthood.description>
+  <LiamCustomAdulthood.title>разработчик симуляций</LiamCustomAdulthood.title>
+  <LiamCustomAdulthood.titleShort>разработчик</LiamCustomAdulthood.titleShort>
+  <LiamCustomChildhood.description>{PAWN_gender ? Рождённый и выросший : Рождённая и выросшая : Рождённый и выросшое} на утопическом мире, {PAWN_nameDef} {PAWN_gender ? был одержим : была одержима : был одержим} программами-симуляциями. {PAWN_pronoun} {PAWN_gender ? проводил : проводила : проводило} слишком много времени подключившись к системе.</LiamCustomChildhood.description>
+  <LiamCustomChildhood.title>виртоман</LiamCustomChildhood.title>
+  <LiamCustomChildhood.titleShort>виртоман</LiamCustomChildhood.titleShort>
+  <MateCustomAdulthood.description>После того как {PAWN_possessive} уволили из межпланетной компании, {PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} несколько лет в состоянии отчаяния и борьбы с алкогольной зависимостью.\n\nВ конце концов {PAWN_pronoun} {PAWN_gender ? стал : стала : стало} работать на борту космического грузового корабля, играя на старенькой гитаре и развлекая экипаж блюзовыми и народными песнями из далёкого прошлого.</MateCustomAdulthood.description>
+  <MateCustomAdulthood.title>гастролёр</MateCustomAdulthood.title>
+  <MateCustomAdulthood.titleShort>гастролёр</MateCustomAdulthood.titleShort>
+  <MateCustomChildhood.description>{PAWN_nameDef} всё своё детство {PAWN_gender ? мечтал : мечтала : мечтало} стать {PAWN_gender ? знаменитым художником : знаменитой художницей : знаменитым художником}, {PAWN_gender ? который смог : которая смогла : который смог} бы поразить людей своими творениями.</MateCustomChildhood.description>
+  <MateCustomChildhood.title>любопытный ребёнок</MateCustomChildhood.title>
+  <MateCustomChildhood.titleShort>любознайка</MateCustomChildhood.titleShort>
+  <NathanCustomAdulthood.description>{PAWN_nameDef} {PAWN_gender ? высекал : высекала : высекало} жилые помещения и {PAWN_gender ? добывал : добывала : добывало} минералы прямо в холмах и скалах. {PAWN_pronoun} {PAWN_gender ? научился : научилась : научился} без труда пробиваться сквозь породу и укреплять пещерные своды.</NathanCustomAdulthood.description>
+  <NathanCustomAdulthood.title>копатель</NathanCustomAdulthood.title>
+  <NathanCustomAdulthood.titleShort>копатель</NathanCustomAdulthood.titleShort>
+  <NathanCustomChildhood.description>{PAWN_nameDef} {PAWN_gender ? рос : росла : рос} в огромной и запутанной системе пещер, простиравшейся далеко вглубь гор. {PAWN_pronoun} {PAWN_gender ? помогал : помогала : помогало} взрослым содержать и обустраивать глубинные пещеры.</NathanCustomChildhood.description>
+  <NathanCustomChildhood.title>пещерный ребёнок</NathanCustomChildhood.title>
+  <NathanCustomChildhood.titleShort>пещерник</NathanCustomChildhood.titleShort>
+  <OskarCustomAdulthood.description>{PAWN_nameDef} {PAWN_gender ? разрабатывал : разрабатывала : разрабатывало} боевые модификации для солдат на передовой.\n\nОднажды в кошмарном сне перед {PAWN_possessive} глазами предстали всё мужчины и женщины, убитые при помощи {PAWN_possessive} творений. {PAWN_nameDef} {PAWN_gender ? решил : решила : решило} отправиться в путешествие по окраинным мирам и использовать свои навыки во благо.</OskarCustomAdulthood.description>
+  <OskarCustomAdulthood.title>мододел</OskarCustomAdulthood.title>
+  <OskarCustomAdulthood.titleShort>моддер</OskarCustomAdulthood.titleShort>
+  <OskarCustomChildhood.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родился} в перенаселённой сумеречной зоне планеты, обращённой одной стороной к солнцу. Однажды в семье разгорелась ссора, и {PAWN_nameDef} {PAWN_gender ? был продан : была продана : был продан} в рабство собственным отцом. {PAWN_possessive} заставляли создавать произведения искусства для местного правителя под страхом наказания. В результате {PAWN_pronoun} {PAWN_gender ? отрешился : отрешилась : отрешился} от реальности и {PAWN_gender ? разучился : разучилась : разучился} налаживать отношения с другими людьми.</OskarCustomChildhood.description>
+  <OskarCustomChildhood.title>раб-художник</OskarCustomChildhood.title>
+  <OskarCustomChildhood.titleShort>художник</OskarCustomChildhood.titleShort>
+  <TynanCustomAdulthood.description>{PAWN_nameDef} {PAWN_gender ? разрабатывал : разрабатывала : разрабатывало} инди-игры.\n\nПосле непродолжительного успеха {PAWN_possessive} карьера быстро пошла на спад и вскоре превратилась в бесконечный калейдоскоп из не находящих места идей, сорвавшихся сделок и проваленных пиар-кампаний.</TynanCustomAdulthood.description>
+  <TynanCustomAdulthood.title>разработчик игр</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.titleShort>разработчик</TynanCustomAdulthood.titleShort>
+  <TynanCustomChildhood.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} детство, продавая пятнадцатилетним поддельные сигареты. Как правило, внутри была измельчённая трава.</TynanCustomChildhood.description>
+  <TynanCustomChildhood.title>дворовая шпана</TynanCustomChildhood.title>
+  <TynanCustomChildhood.titleShort>шпана</TynanCustomChildhood.titleShort>
+  <WillCustomAdulthood.description>{PAWN_nameDef} {PAWN_gender ? проектировал : проектировала : проектировало} хитроумные развлекательные лабиринты для элиты утопических миров. Даже сейчас {PAWN_pronoun} почти не думает ни о чём другом.</WillCustomAdulthood.description>
+  <WillCustomAdulthood.title>создатель лабиринтов</WillCustomAdulthood.title>
+  <WillCustomAdulthood.titleShort>создатель лабиринтов</WillCustomAdulthood.titleShort>
+  <WillCustomChildhood.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла : вырос} в исследовательском лагере на мёртвом мире. {PAWN_possessive} родители были астробиологами и изучали загадочные лабиринтные образования под планетарной корой. {PAWN_pronoun} {PAWN_gender ? проводил : проводила : проводило} большую часть времени бродя по этим туннелям и размышляя о том, какая неведомая сущность могла создать подобное.</WillCustomChildhood.description>
+  <WillCustomChildhood.title>дитя лабиринтов</WillCustomChildhood.title>
+  <WillCustomChildhood.titleShort>дитя лабиринтов</WillCustomChildhood.titleShort>
+</LanguageData>

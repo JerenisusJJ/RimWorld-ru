@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RaidSource.label>плацдарм для налётов</RaidSource.label>
+  <RaidSource.description>Укреплённая перевалочная база, с которой периодически будут совершаться налёты.</RaidSource.description>
+  <RaidSource.approachingReportString>Нападает на {lookup: {0}; Case; 3}</RaidSource.approachingReportString>
+  <RaidSource.approachOrderString>Напасть на {lookup: {0}; Case; 3}</RaidSource.approachOrderString>
+  <RaidSource.arrivedLetter>В этом месте расположен вражеский лагерь.</RaidSource.arrivedLetter>
+</LanguageData>

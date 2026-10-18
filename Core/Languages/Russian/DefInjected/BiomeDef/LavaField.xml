@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LavaField.label>лавовое поле</LavaField.label>
+  <LavaField.description>Бесплодные пустоши, выжженные вулканическим жаром. Периодические извержения лавы могут сжечь людей и постройки, но также обогащают почву минеральными отложениями.</LavaField.description>
+  <LavaField.settleWarning>В этом районе высокая вулканическая активность. Здесь опасность представляют облака вулканического пепла, а также периодические извержения лавы.</LavaField.settleWarning>
+</LanguageData>

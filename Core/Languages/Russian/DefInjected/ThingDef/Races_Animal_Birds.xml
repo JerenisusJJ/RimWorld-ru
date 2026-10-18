@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bluebird.label>синешейка</Bluebird.label>
+  <Bluebird.description>Маленькая певчая птица с ярким синим оперением.</Bluebird.description>
+  <Bluebird.tools.claws.label>когти</Bluebird.tools.claws.label>
+  <Bluebird.tools.beak.label>клюв</Bluebird.tools.beak.label>
+  <Bluebird.tools.head.label>голова</Bluebird.tools.head.label>
+  <Crow.label>ворона</Crow.label>
+  <Crow.description>Умные чёрные птицы со сложной социальной структурой. Если проявить терпение, ворон можно обучить выполнению довольно сложных задач.</Crow.description>
+  <Crow.tools.claws.label>когти</Crow.tools.claws.label>
+  <Crow.tools.beak.label>клюв</Crow.tools.beak.label>
+  <Crow.tools.head.label>голова</Crow.tools.head.label>
+  <Flamingo.label>фламинго</Flamingo.label>
+  <Flamingo.description>Болотная птица, известная своим ярко-розовым оперением. Длинные ноги отлично приспособлены для передвижения по мелководью.</Flamingo.description>
+  <Flamingo.tools.claws.label>когти</Flamingo.tools.claws.label>
+  <Flamingo.tools.beak.label>клюв</Flamingo.tools.beak.label>
+  <Flamingo.tools.head.label>голова</Flamingo.tools.head.label>
+  <Heron.label>цапля</Heron.label>
+  <Heron.description>Птицы с длинными ногами и шеей. Обычно обитают на болотах.</Heron.description>
+  <Heron.tools.claws.label>когти</Heron.tools.claws.label>
+  <Heron.tools.beak.label>клюв</Heron.tools.beak.label>
+  <Heron.tools.head.label>голова</Heron.tools.head.label>
+  <Macaw.label>ара</Macaw.label>
+  <Macaw.description>Попугай, известный своим умом и ярким оперением.</Macaw.description>
+  <Macaw.tools.claws.label>когти</Macaw.tools.claws.label>
+  <Macaw.tools.beak.label>клюв</Macaw.tools.beak.label>
+  <Macaw.tools.head.label>голова</Macaw.tools.head.label>
+  <Peacock.label>павлин</Peacock.label>
+  <Peacock.description>Крупные птицы с роскошным оперением. Самцы используют свой хвост для впечатляющих брачных танцев.</Peacock.description>
+  <Peacock.tools.claws.label>когти</Peacock.tools.claws.label>
+  <Peacock.tools.beak.label>клюв</Peacock.tools.beak.label>
+  <Peacock.tools.head.label>голова</Peacock.tools.head.label>
+  <Penguin.label>пингвин</Penguin.label>
+  <Penguin.description>Нелетающая птица, отлично приспособленная к жизни в холодных регионах. Пингвинов легко узнать по черно-белому оперению и характерной переваливающейся походке. Они — опасные хищники в воде, но медлительны и уязвимы на суше.</Penguin.description>
+  <Penguin.tools.claws.label>когти</Penguin.tools.claws.label>
+  <Penguin.tools.beak.label>клюв</Penguin.tools.beak.label>
+  <Penguin.tools.head.label>голова</Penguin.tools.head.label>
+  <Quail.label>перепел</Quail.label>
+  <Quail.description>Небольшие пухлые птицы, обитающие на земле и обладающие характерным хохолком.</Quail.description>
+  <Quail.tools.claws.label>когти</Quail.tools.claws.label>
+  <Quail.tools.beak.label>клюв</Quail.tools.beak.label>
+  <Quail.tools.head.label>голова</Quail.tools.head.label>
+  <Sparrow.label>воробей</Sparrow.label>
+  <Sparrow.description>Маленькие пухлые птицы, часто летают стаями. Могут выживать в самых разных условиях.</Sparrow.description>
+  <Sparrow.tools.claws.label>когти</Sparrow.tools.claws.label>
+  <Sparrow.tools.beak.label>клюв</Sparrow.tools.beak.label>
+  <Sparrow.tools.head.label>голова</Sparrow.tools.head.label>
+  <Swan.label>лебедь</Swan.label>
+  <Swan.description>Крупные изящные водоплавающие птицы, известные своей красотой и неожиданной свирепостью.</Swan.description>
+  <Swan.tools.claws.label>когти</Swan.tools.claws.label>
+  <Swan.tools.beak.label>клюв</Swan.tools.beak.label>
+  <Swan.tools.head.label>голова</Swan.tools.head.label>
+  <Vulture.label>гриф</Vulture.label>
+  <Vulture.description>Падальщики с мощным клювом и широкими крыльями. Благодаря сильной желудочной кислоте могут питаться разлагающимися трупами.</Vulture.description>
+  <Vulture.tools.claws.label>когти</Vulture.tools.claws.label>
+  <Vulture.tools.beak.label>клюв</Vulture.tools.beak.label>
+  <Vulture.tools.head.label>голова</Vulture.tools.head.label>
+</LanguageData>

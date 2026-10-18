@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Child27.description>{PAWN_nameDef} — ребёнок. История {PAWN_possessive} детства всё ещё пишется.</Child27.description>
+  <Child27.title>ребёнок</Child27.title>
+  <Child27.titleShort>ребёнок</Child27.titleShort>
+  <ChildTribal.description>{PAWN_nameDef} — ребёнок. История {PAWN_possessive} детства всё ещё пишется.</ChildTribal.description>
+  <ChildTribal.title>ребёнок</ChildTribal.title>
+  <ChildTribal.titleShort>ребёнок</ChildTribal.titleShort>
+  <Colonist97.description>{PAWN_nameDef} {PAWN_gender ? повзрослел : повзрослела : повзрослело} в нашем поселении. {PAWN_possessive} история всё ещё пишется.</Colonist97.description>
+  <Colonist97.title>поселенец</Colonist97.title>
+  <Colonist97.titleShort>поселенец</Colonist97.titleShort>
+  <ColonyChild59.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла : вырос} в нашем поселении.</ColonyChild59.description>
+  <ColonyChild59.title>сын поселения</ColonyChild59.title>
+  <ColonyChild59.titleShort>поселенец</ColonyChild59.titleShort>
+  <Newborn79.description>{PAWN_nameDef} — младенец. {PAWN_possessive} жизнь вращается вокруг молока и сна.</Newborn79.description>
+  <Newborn79.title>новорождённый</Newborn79.title>
+  <Newborn79.titleShort>новорождённый</Newborn79.titleShort>
+  <TribeChild19.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла : вырос} в нашем племени.</TribeChild19.description>
+  <TribeChild19.title>мальчик-абориген</TribeChild19.title>
+  <TribeChild19.titleShort>абориген</TribeChild19.titleShort>
+  <TribeMember57.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла : вырос} в нашем племени. {PAWN_possessive} история всё ещё пишется.</TribeMember57.description>
+  <TribeMember57.title>абориген</TribeMember57.title>
+  <TribeMember57.titleShort>абориген</TribeMember57.titleShort>
+  <VatgrownChild11.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} большую часть детства в инкубаторе для искусственного выращивания.</VatgrownChild11.description>
+  <VatgrownChild11.title>выращенный ребёнок</VatgrownChild11.title>
+  <VatgrownChild11.titleShort>ребёнок</VatgrownChild11.titleShort>
+</LanguageData>

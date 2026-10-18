@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Concert.label>концерт</Concert.label>
+  <Concert.calledOffMessage>Концерт отменён.</Concert.calledOffMessage>
+  <Concert.finishedMessage>Концерт завершён.</Concert.finishedMessage>
+  <Concert.letterText>{ORGANIZER_labelShort} начинает концерт! Всё пришедшие надолго зарядятся хорошим настроением, как от дружной атмосферы, так и от музыки.</Concert.letterText>
+  <Concert.letterTitle>Концерт</Concert.letterTitle>
+</LanguageData>

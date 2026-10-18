@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DoubleTuft.label>двойной хохолок</DoubleTuft.label>
+  <LargeTuft.label>большой хохолок</LargeTuft.label>
+  <LongMess.label>длинные и неухоженные</LongMess.label>
+  <LongOily.label>длинные и жирные</LongOily.label>
+  <Parted.label>пробор</Parted.label>
+  <PatchyShave.label>бритые участки</PatchyShave.label>
+  <RoughShave.label>плохо выбрито</RoughShave.label>
+  <ShavedMohawk.label>ирокез и бритые виски</ShavedMohawk.label>
+  <ShortCut.label>коротко</ShortCut.label>
+  <SideCut.label>бритый висок</SideCut.label>
+  <SideSpikes.label>шипы по бокам</SideSpikes.label>
+</LanguageData>

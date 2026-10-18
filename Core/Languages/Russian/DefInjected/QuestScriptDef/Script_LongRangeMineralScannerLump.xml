@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;При помощи сканера дальнего действия [worker_definite] обнаруживает неподалёку залежи {lookup: [targetMineable_label]; Case; 1}.\n\nК сожалению, они вряд ли надолго останутся нетронутыми: через [timeoutTicks_duration] их наверняка выкопают другие.[lumpThreatDescription]</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>questName-&gt;[adj] ресурсы</li>
+    <li>questName-&gt;[adj] минералы</li>
+    <li>questName-&gt;[adj] залежи</li>
+    <li>questName-&gt;[adj] богатства</li>
+    <li>adj-&gt;отдалённые</li>
+    <li>adj-&gt;далёкие</li>
+    <li>adj-&gt;неизведанные</li>
+    <li>adj-&gt;загадочные</li>
+    <li>adj-&gt;обнаружены</li>
+    <li>adj-&gt;найдены</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>Залежи {lookup: [targetMineable_label]; Case; 1} больше не отображаются на нашем сканере. Должно быть, их выкопал кто-то другой. Время, отведённое для задания «[resolvedQuestName]», истекло.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+</LanguageData>

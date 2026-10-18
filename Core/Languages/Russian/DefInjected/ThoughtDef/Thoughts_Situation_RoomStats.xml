@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HospitalPatientRoomStats.stages.awful_hospital.label>ужасная больница</HospitalPatientRoomStats.stages.awful_hospital.label>
+  <HospitalPatientRoomStats.stages.awful_hospital.description>Эта больница — ужасное место.</HospitalPatientRoomStats.stages.awful_hospital.description>
+  <HospitalPatientRoomStats.stages.dull_hospital.label>унылая больница</HospitalPatientRoomStats.stages.dull_hospital.label>
+  <HospitalPatientRoomStats.stages.dull_hospital.description>Хочется поскорее уйти из этой скучнейшей больнички.</HospitalPatientRoomStats.stages.dull_hospital.description>
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>хорошая больница</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>Эта больница — милое место. Кажется, я чувствую себя немного лучше.</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>впечатляющая больница</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>Довольно красивая больница. Кажется, я уже чувствую себя лучше.</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.label>прекрасная больница</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>Эта больница весьма впечатляет. Я уже чувствую себя лучше.</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>восхитительная больница</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>Эта больница очень красива. Тут я уже чувствую себя лучше.</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>великолепная больница</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>Эта больница чрезвычайно красива, она заставляет чувствовать себя лучше.</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>чудесная больница</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>Эта больница невероятно красива, она буквально заставляет чувствовать себя лучше!</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
+  <PrisonBarracks.stages.awful_barracks.label>ужасная общая камера</PrisonBarracks.stages.awful_barracks.label>
+  <PrisonBarracks.stages.awful_barracks.description>Эта общая камера отвратительна!</PrisonBarracks.stages.awful_barracks.description>
+  <PrisonBarracks.stages.dull_barracks.label>унылая общая камера</PrisonBarracks.stages.dull_barracks.label>
+  <PrisonBarracks.stages.dull_barracks.description>Эта общая камера просто ужасна.</PrisonBarracks.stages.dull_barracks.description>
+  <PrisonBarracks.stages.slightly_impressive_barracks.label>хорошая общая камера</PrisonBarracks.stages.slightly_impressive_barracks.label>
+  <PrisonBarracks.stages.slightly_impressive_barracks.description>Эта общая камера не так уж плоха.</PrisonBarracks.stages.slightly_impressive_barracks.description>
+  <PrisonBarracks.stages.somewhat_impressive_barracks.label>впечатляющая общая камера</PrisonBarracks.stages.somewhat_impressive_barracks.label>
+  <PrisonBarracks.stages.somewhat_impressive_barracks.description>Эта тюремная камера хороша. Мне нравится.</PrisonBarracks.stages.somewhat_impressive_barracks.description>
+  <PrisonBarracks.stages.very_impressive_barracks.label>прекрасная общая камера</PrisonBarracks.stages.very_impressive_barracks.label>
+  <PrisonBarracks.stages.very_impressive_barracks.description>Эта тюремная камера весьма впечатляет. Мне очень нравится.</PrisonBarracks.stages.very_impressive_barracks.description>
+  <PrisonBarracks.stages.extremely_impressive_barracks.label>восхитительная общая камера</PrisonBarracks.stages.extremely_impressive_barracks.label>
+  <PrisonBarracks.stages.extremely_impressive_barracks.description>Эта камера чрезвычайно впечатляет! Не могу поверить, что меня держат в этом месте. Оно прекрасно!</PrisonBarracks.stages.extremely_impressive_barracks.description>
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.label>великолепная общая камера</PrisonBarracks.stages.unbelievably_impressive_barracks.label>
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.description>Это точно тюремная камера? Не могу поверить, что меня здесь держат. Это лучшее место, которое мне когда-либо доводилось видеть!</PrisonBarracks.stages.unbelievably_impressive_barracks.description>
+  <PrisonBarracks.stages.wondrously_impressive_barracks.label>чудесная общая камера</PrisonBarracks.stages.wondrously_impressive_barracks.label>
+  <PrisonBarracks.stages.wondrously_impressive_barracks.description>Это реальный мир? Не могу поверить, что меня заперли в таком месте. Мне хотелось бы остаться тут навсегда!</PrisonBarracks.stages.wondrously_impressive_barracks.description>
+  <PrisonCell.stages.awful_prison_cell.label>ужасная тюремная камера</PrisonCell.stages.awful_prison_cell.label>
+  <PrisonCell.stages.awful_prison_cell.description>Моя тюремная камера — ужасное место.</PrisonCell.stages.awful_prison_cell.description>
+  <PrisonCell.stages.mediocre_prison_cell.label>заурядная тюремная камера</PrisonCell.stages.mediocre_prison_cell.label>
+  <PrisonCell.stages.mediocre_prison_cell.description>В моей тюремной камере скучно. Впрочем, могло быть ещё хуже.</PrisonCell.stages.mediocre_prison_cell.description>
+  <PrisonCell.stages.decent_prison_cell.label>неплохая тюремная камера</PrisonCell.stages.decent_prison_cell.label>
+  <PrisonCell.stages.decent_prison_cell.description>Довольно приличная тюремная камера.</PrisonCell.stages.decent_prison_cell.description>
+  <PrisonCell.stages.slightly_impressive_prison_cell.label>хорошая тюремная камера</PrisonCell.stages.slightly_impressive_prison_cell.label>
+  <PrisonCell.stages.slightly_impressive_prison_cell.description>Моя тюремная камера выглядит привлекательно.</PrisonCell.stages.slightly_impressive_prison_cell.description>
+  <PrisonCell.stages.impressive_prison_cell.label>впечатляющая тюремная камера</PrisonCell.stages.impressive_prison_cell.label>
+  <PrisonCell.stages.impressive_prison_cell.description>Моя тюремная камера впечатляет. Не могу поверить, что меня держат в этом месте.</PrisonCell.stages.impressive_prison_cell.description>
+  <PrisonCell.stages.very_impressive_prison_cell.label>прекрасная тюремная камера</PrisonCell.stages.very_impressive_prison_cell.label>
+  <PrisonCell.stages.very_impressive_prison_cell.description>Моя тюремная камера очень впечатляет. Не могу поверить, что меня держат в этом месте.</PrisonCell.stages.very_impressive_prison_cell.description>
+  <PrisonCell.stages.extremely_impressive_prison_cell.label>восхитительная тюремная камера</PrisonCell.stages.extremely_impressive_prison_cell.label>
+  <PrisonCell.stages.extremely_impressive_prison_cell.description>Моя тюремная камера чрезвычайно впечатляет. Не могу поверить, что меня держат в этом месте. Оно прекрасно!</PrisonCell.stages.extremely_impressive_prison_cell.description>
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.label>великолепная тюремная камера</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.description>Это точно тюремная камера? Не могу поверить, что меня держат здесь. Моя камера невероятной красива! Это лучшее место, которое мне когда-либо доводилось видеть!</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
+  <PrisonCell.stages.wondrously_impressive_prison_cell.label>чудесная тюремная камера</PrisonCell.stages.wondrously_impressive_prison_cell.label>
+  <PrisonCell.stages.wondrously_impressive_prison_cell.description>Это реальный мир? Не могу поверить, что меня заперли в таком месте. Мне хотелось бы остаться тут навсегда!</PrisonCell.stages.wondrously_impressive_prison_cell.description>
+</LanguageData>

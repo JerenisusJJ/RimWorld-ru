@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChimeraAssault.label>нападение химер</ChimeraAssault.label>
+  <DevourerAssault.label>нападение пожирателей</DevourerAssault.label>
+  <DevourerAssault.letterLabel>Нападение пожирателей</DevourerAssault.letterLabel>
+  <DevourerAssault.letterText>Свора огромных зубастых монстров атакует!\n\nУ этих существ настолько широкая пасть, что они способны проглотить человека целиком. Не подходите близко!</DevourerAssault.letterText>
+  <DevourerWaterAssault.label>нападение пожирателей</DevourerWaterAssault.label>
+  <DevourerWaterAssault.letterLabel>Нападение пожирателей</DevourerWaterAssault.letterLabel>
+  <DevourerWaterAssault.letterText>Свора огромных зубастых монстров атакует!\n\nУ этих существ настолько широкая пасть, что они способны проглотить человека целиком. Не подходите близко!</DevourerWaterAssault.letterText>
+  <FleshbeastAttack.label>нападение биошматов</FleshbeastAttack.label>
+  <FleshbeastAttack.letterLabel>нападение биошматов</FleshbeastAttack.letterLabel>
+  <FleshbeastAttack.letterText>Земля начинает проваливаться. Снизу доносится чвяканье плоти и треск костей.</FleshbeastAttack.letterText>
+  <FleshbeastAttack.letterTextPlural>В земле появилось несколько воронок. Снизу доносится чвяканье плоти и треск костей.</FleshbeastAttack.letterTextPlural>
+  <FrenziedAnimals.label>разъярённые животные</FrenziedAnimals.label>
+  <GhoulAttack.label>упырь атакует</GhoulAttack.label>
+  <GhoulAttack.letterLabel>упырь атакует</GhoulAttack.letterLabel>
+  <GhoulAttack.letterText>Кровожадный человекоподобный упырь собирается напасть!\n\nВ нём бурлит звериная ярость, и он не чувствует боли. Приготовьтесь защищаться.</GhoulAttack.letterText>
+  <GorehulkAssault.label>Нападение кровавых туш</GorehulkAssault.label>
+  <GorehulkAssault.letterLabel>Нападение кровавых туш</GorehulkAssault.letterLabel>
+  <GorehulkAssault.letterText>Группа чудовищных человекоподобных хищников атакует вас! Их тела испещрены толстыми кератиновыми шипами, которыми они могут стрелять во врага. Однако с близкого расстояния эти существа не способны причинить серьёзного вреда.</GorehulkAssault.letterText>
+  <HateChanters.label>поющие гимн злобы</HateChanters.label>
+  <PsychicRitualSiege.label>осада псионического ритуала</PsychicRitualSiege.label>
+  <Revenant.label>ревенант</Revenant.label>
+  <ShamblerAssault.label>нападение шамблеров</ShamblerAssault.label>
+  <ShamblerSwarm.label>свора шамблеров</ShamblerSwarm.label>
+  <ShamblerSwarmAnimals.label>свора шамблеров</ShamblerSwarmAnimals.label>
+  <SightstealerArrival.label>приближение взглядокрадов</SightstealerArrival.label>
+  <SightstealerSwarm.label>свора взглядокрадов</SightstealerSwarm.label>
+  <SightstealerSwarm.letterLabel>Вопли издалека</SightstealerSwarm.letterLabel>
+  <SightstealerSwarm.letterText>До ваших поселенцев доносятся нечеловеческие крики.\n\nЧто это может быть?</SightstealerSwarm.letterText>
+  <SmallShamblerSwarm.label>свора шамблеров</SmallShamblerSwarm.label>
+  <SmallShamblerSwarm.letterLabel>Приближаются шамблеры</SmallShamblerSwarm.letterLabel>
+  <SmallShamblerSwarm.letterText>К вам приближается небольшая группа из {0} ходячих трупов. Потусторонняя энергия, что их оживила, скоро иссякнет, и всего за день они опять свалятся замертво.\n\nЕсли вы захватите кого-нибудь из них, то сможете изучить его и получить знания об аномалиях. Или не тревожьте их, и, возможно, они вас не заметят.</SmallShamblerSwarm.letterText>
+</LanguageData>

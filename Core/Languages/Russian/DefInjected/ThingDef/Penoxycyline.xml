@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Penoxycyline.label>пеноксицилин</Penoxycyline.label>
+  <Penoxycyline.description>Лекарство для предотвращения заражения различными видами инфекций. Применяется против малярии, сонной болезни и чумы. Следует принимать каждые пять дней.\n\nЭто средство не поможет против уже имеющегося заражения (в том числе на скрытой стадии), но спасёт от возникновения нового.</Penoxycyline.description>
+  <Penoxycyline.ingestible.ingestCommandString>Принять {lookup: {0}; Case; 3}</Penoxycyline.ingestible.ingestCommandString>
+  <Penoxycyline.ingestible.ingestReportString>Принимает {lookup: {0}; Case; 3}</Penoxycyline.ingestible.ingestReportString>
+</LanguageData>

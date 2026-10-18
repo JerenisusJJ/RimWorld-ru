@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: walkable -->
+	<Walkable.label>проходимый</Walkable.label>
+	<!-- EN: waterproof conduit -->
+	<WaterproofConduitable.label>герметичный кабель</WaterproofConduitable.label>
+</LanguageData>

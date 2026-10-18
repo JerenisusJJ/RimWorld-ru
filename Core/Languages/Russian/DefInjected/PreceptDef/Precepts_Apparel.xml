@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ApparelDesired_Soft_Subordinate.label>необязательна</ApparelDesired_Soft_Subordinate.label>
+  <ApparelDesired_Soft_Subordinate.description>{lookup: {lookup: {GENDER}; Plural; 1}; Case; 2} будет приятно носить {lookup: {APPAREL}; Case; 3}. Они будут носить этот предмет одежды, если он мешает другим предметам одежды.</ApparelDesired_Soft_Subordinate.description>
+  <ApparelDesired_Soft_Subordinate.comps.1.description>Ношение желаемой одежды</ApparelDesired_Soft_Subordinate.comps.1.description>
+  <ApparelDesired_Strong_Subordinate.label>обязательна</ApparelDesired_Strong_Subordinate.label>
+  <ApparelDesired_Strong_Subordinate.description>{lookup: {lookup: {GENDER}; Plural; 1}; Case; 2} будет приятно носить {lookup: {APPAREL}; Case; 3}. Они будут носить этот предмет одежды, если он не мешает броне.</ApparelDesired_Strong_Subordinate.description>
+  <ApparelDesired_Strong_Subordinate.comps.1.description>Ношение желаемой одежды</ApparelDesired_Strong_Subordinate.comps.1.description>
+</LanguageData>

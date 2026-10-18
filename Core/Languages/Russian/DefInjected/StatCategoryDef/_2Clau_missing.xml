@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Food -->
+	<PawnFood.label>Питание</PawnFood.label>
+	<!-- EN: Health -->
+	<PawnHealth.label>Здоровье</PawnHealth.label>
+	<!-- EN: Psyfocus -->
+	<PawnPsyfocus.label>Псифокус</PawnPsyfocus.label>
+	<!-- EN: Resistances and sensitivities -->
+	<PawnResistances.label>Сопротивления и восприимчивости</PawnResistances.label>
+</LanguageData>

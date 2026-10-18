@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Transition_Died.rulePack.rulesStrings>
+    <li>die(p=2)-&gt;умирает</li>
+    <li>die-&gt;погибает</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)-&gt;отправляется на тот свет</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)-&gt;погибает от ран</li>
+    <li>die(SUBJECT_flesh==Mechanoid)-&gt;отключается</li>
+    <li>die(SUBJECT_flesh==Mechanoid)-&gt;перестаёт функционировать</li>
+  </Transition_Died.rulePack.rulesStrings>
+  <Transition_DiedExplosive.rulePack.rulesStrings>
+    <li>die-&gt;исчезает [flavor]</li>
+    <li>die-&gt;подрывается[flavorsuffix]</li>
+    <li>die-&gt;взрывается[flavorsuffix]</li>
+    <li>die-&gt;разрывается[flavorsuffix]</li>
+    <li>die-&gt;взлетает на воздух [flavor]</li>
+    <li>die-&gt;взлетает на воздух[flavorsuffix]</li>
+    <li>flavorsuffix(p=4)-&gt;</li>
+    <li>flavorsuffix-&gt;, разбрасывая [everywhere] [pieces] своего тела</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid,p=2)-&gt;, забрызгивая окрестности [Gore]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid)-&gt;, разлетаясь на [pieces], покрытые [Gore]</li>
+    <li>flavorsuffix-&gt;, оставляя небольшой кратер</li>
+    <li>flavor-&gt;в пламени взрыва</li>
+    <li>flavor-&gt;в огненной вспышке</li>
+    <li>flavor-&gt;в огненном шаре взрыва</li>
+    <li>flavor-&gt;в ударной волне</li>
+    <li>pieces-&gt;ошмётки</li>
+    <li>pieces-&gt;куски</li>
+    <li>pieces-&gt;фрагменты</li>
+    <li>everywhere-&gt;повсюду</li>
+    <li>everywhere-&gt;кругом</li>
+  </Transition_DiedExplosive.rulePack.rulesStrings>
+  <Transition_DiedInclude.rulePack.rulesStrings>
+    <li>r_logentry(p=1.5)-&gt;Из-за [reason] [SUBJECT_definite] [die].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [die] из-за [reason].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [die] вследствие [reason].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [die], причиной этому — [reason].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [die].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [die] [flavorsuffix].</li>
+    <li>reason-&gt;[CULPRITHEDIFF_labelNoun]</li>
+    <li>reason-&gt;[CULPRITHEDIFF_labelNoun] в [CULPRITHEDIFF_target_label]</li>
+    <li>reason-&gt;[CULPRITHEDIFF_labelNoun] в [SUBJECT_possessive] [CULPRITHEDIFF_target_label]</li>
+  </Transition_DiedInclude.rulePack.rulesStrings>
+  <Transition_Downed.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Из-за [CULPRITHEDIFF_labelNoun] [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry-&gt;Из-за [CULPRITHEDIFF_labelNoun] в [CULPRITHEDIFF_target_label] [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [collapsemeta] из-за [reason].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [collapsemeta] вследствие [reason].</li>
+    <li>r_logentry-&gt;[SUBJECT_definite] [collapsemeta], причиной этому — [reason].</li>
+    <li>r_logentry(p=0.1)-&gt;[SUBJECT_definite] [collapsemeta].</li>
+    <li>reason-&gt;[CULPRITHEDIFF_labelNoun]</li>
+    <li>reason-&gt;[CULPRITHEDIFF_labelNoun] в [CULPRITHEDIFF_target_label]</li>
+    <li>reason-&gt;[CULPRITHEDIFF_labelNoun] в [SUBJECT_possessive] [CULPRITHEDIFF_target_label]</li>
+    <li>collapse-&gt;падает</li>
+    <li>collapse-&gt;оседает на землю</li>
+    <li>collapse-&gt;теряет равновесие</li>
+    <li>collapse(SUBJECT_flesh!=Mechanoid)-&gt;падает в обморок</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)-&gt;получает системную ошибку</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)-&gt;входит в петлю перезагрузок</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)-&gt;терпит аппаратный сбой</li>
+    <li>helplessly-&gt;беспомощно</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)-&gt;без сознания</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)-&gt;в изнеможении</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)-&gt;ослабленно</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)-&gt;немощно</li>
+    <li>helplessly(SUBJECT_flesh==Mechanoid)-&gt;неуправляемо</li>
+    <li>collapsemeta-&gt;[collapse]</li>
+    <li>collapsemeta(p=0.5)-&gt;[helplessly] [collapse]</li>
+  </Transition_Downed.rulePack.rulesStrings>
+  <Transition_Include.rulePack.rulesStrings>
+    <li>reserved-&gt;reserved</li>
+  </Transition_Include.rulePack.rulesStrings>
+</LanguageData>

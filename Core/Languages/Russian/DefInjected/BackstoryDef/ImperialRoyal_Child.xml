@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CountryLordling92.description>{PAWN_nameDef} {PAWN_gender ? рос : росла : рос} в поместье благородного рода в провинции. {PAWN_possessive} ранние годы наполнены уроками верховой езды, изучением политики и религии.\n\nНо {PAWN_nameDef} с друзьями находили множество способов нарушать правила и наслаждаться сельской жизнью.</CountryLordling92.description>
+  <CountryLordling92.title>сын уездного феодала</CountryLordling92.title>
+  <CountryLordling92.titleShort>уездный лорд</CountryLordling92.titleShort>
+  <CountryLordling92.titleFemale>дочь уездного феодала</CountryLordling92.titleFemale>
+  <CountryLordling92.titleShortFemale>уездная леди</CountryLordling92.titleShortFemale>
+  <PamperedLordling37.description>Родители {PAWN_nameDef} не хотели себе ещё одного {PAWN_gender ? наследника : наследницу : наследника}. Опасаясь борьбы за престол в будущем, они решили «обезвредить» {PAWN_nameDef} в раннем возрасте.\n\nС самого рождения родители баловали {PAWN_possessive}, не давая развивать тягу к знаниям, которая могла бы стать угрозой их другому, любимому сыну. {PAWN_nameDef} {PAWN_gender ? научился : научилась : научился} разве что заставлять придворных приносить {PAWN_objective} побольше еды.</PamperedLordling37.description>
+  <PamperedLordling37.title>избалованный принц</PamperedLordling37.title>
+  <PamperedLordling37.titleShort>неженка</PamperedLordling37.titleShort>
+  <PamperedLordling37.titleFemale>капризная принцесса</PamperedLordling37.titleFemale>
+  <ShipboundLordling12.description>Основным оплотом семьи {PAWN_nameDef} был огромный древний космический корабль. {PAWN_nameDef} {PAWN_gender ? родился и рос : родилась и росла : родился и рос} на нём и не понаслышке {PAWN_gender ? знал : знала : знало} о всей суровости корабельного быта, методах ведения космического боя и орбитальной высадки.\n\n{PAWN_pronoun} {PAWN_gender ? привык : привыкла : привык} чувствовать себя как дома только в тесном окружении крепких стен и мягкого шипения атмосферных регуляторов.</ShipboundLordling12.description>
+  <ShipboundLordling12.title>лорд с корабля</ShipboundLordling12.title>
+  <ShipboundLordling12.titleShort>молодой лорд</ShipboundLordling12.titleShort>
+  <ShipboundLordling12.titleFemale>леди с корабля</ShipboundLordling12.titleFemale>
+  <ShipboundLordling12.titleShortFemale>молодая леди</ShipboundLordling12.titleShortFemale>
+  <UnwantedSurvivor67.description>В своей знатной семье {PAWN_nameDef} {PAWN_gender ? был : была : было} нежеланным ребёнком, однако никто не мог позволить себе пойти на прямое убийство. Вместо этого было решено подстроить {PAWN_possessive} смерть, проводя с {PAWN_gender ? ним : ней : ним} опасные тренировки без должной защиты в слишком раннем возрасте.\n\nНесмотря ни на что, {PAWN_nameDef} {PAWN_gender ? пережил : пережила : пережило} вcе пешие и конные боевые турниры, опасные речные заплывы и участие в различных локальных конфликтах. Это всё в итоге сделало {PAWN_possessive} только сильнее.</UnwantedSurvivor67.description>
+  <UnwantedSurvivor67.title>нежеланный выживший</UnwantedSurvivor67.title>
+  <UnwantedSurvivor67.titleShort>выживший</UnwantedSurvivor67.titleShort>
+  <UrbanLordling82.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родился} в знатной семье, владевшей великолепной усадьбой в огромном городе. Всё своё детство {PAWN_pronoun} {PAWN_gender ? провёл : провела : провёло}, изучая политику.\n\nПри малейшей возможности {PAWN_pronoun} {PAWN_gender ? сбегал : сбегала : сбегало} со своими друзьями, чтобы исследовать столичные катакомбы.</UrbanLordling82.description>
+  <UrbanLordling82.title>городской лорд</UrbanLordling82.title>
+  <UrbanLordling82.titleShort>лорд</UrbanLordling82.titleShort>
+  <UrbanLordling82.titleFemale>городская леди</UrbanLordling82.titleFemale>
+  <UrbanLordling82.titleShortFemale>леди</UrbanLordling82.titleShortFemale>
+</LanguageData>

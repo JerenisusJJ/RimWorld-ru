@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Combat_Deflect.rulePack.rulesStrings>
+    <li>r_logentry(p=1)-&gt;[INITIATOR_definite] [deflected_adverb] [damaged] [recipient_part0_label] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=1)-&gt;[INITIATOR_definite] [damaged] [recipient_part0_label] [RECIPIENT_definite], [deflected_consequence].</li>
+    <li>r_logentry(p=0.3)-&gt;[INITIATOR_definite], [skillDescMelee], [deflected_adverb] [damaged] [recipient_part0_label] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.3)-&gt;[INITIATOR_definite] [skillAdv] [damaged] [recipient_part0_label] [RECIPIENT_definite], [deflected_consequence].</li>
+    <li>r_logentry(p=0.3)-&gt;[INITIATOR_definite], [skillDescMelee], но [deflected_adverb] пытается [damaged_inf] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.3)-&gt;[INITIATOR_definite] [skillAdv] пытается [damaged_inf] [RECIPIENT_definite], [deflected_consequence].</li>
+    <li>r_logentry(p=0.3)-&gt;[INITIATOR_definite] [deflected_adverb] использует [implement], желая [damaged_inf] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.3)-&gt;[INITIATOR_definite] использует [implement], желая [damaged_inf] [RECIPIENT_definite], [deflected_consequence].</li>
+    <li>r_logentry(p=0.6)-&gt;[INITIATOR_definite] [damaged] [RECIPIENT_definite] при помощи [implement], [deflected_consequence].</li>
+    <li>r_logentry(p=0.6)-&gt;[INITIATOR_definite] [deflected_adverb] [damaged] [RECIPIENT_definite] при помощи [implement].</li>
+    <li>r_logentry(p=0.6)-&gt;[INITIATOR_definite] [deflected_adverb] [damaged] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.6)-&gt;[INITIATOR_definite] [damaged] [RECIPIENT_definite], [deflected_consequence].</li>
+    <li>deflected_consequence-&gt;лишь [scrap_trans] [RECIPIENT_possessive] броню</li>
+    <li>deflected_consequence-&gt;оставляя лишь [scratch] на [RECIPIENT_possessive] броне</li>
+    <li>deflected_consequence-&gt;но [TOOL_label] лишь [scraped] [RECIPIENT_possessive] броню</li>
+    <li>deflected_consequence-&gt;но [TOOL_label] лишь оставляет [scratch] на [RECIPIENT_possessive] броне</li>
+    <li>deflected_consequence-&gt;но [TOOL_label] лишь соскальзывает с [RECIPIENT_possessive] брони</li>
+  </Combat_Deflect.rulePack.rulesStrings>
+  <Combat_Dodge.rulePack.rulesStrings>
+    <li>r_logentry(p=0.2)-&gt;[RECIPIENT_definite] [skillAdvMaybe] от [maneuver_noun_gen] [implement] [INITIATOR_definite].</li>
+    <li>r_logentry(p=0.2)-&gt;[RECIPIENT_definite] [skillAdvMaybe] уворачивается от [maneuver_noun_gen].</li>
+    <li>skillAdvMaybe-&gt;</li>
+    <li>skillAdvMaybe-&gt;[skillAdv]</li>
+    <li>result-&gt;но [RECIPIENT_definite] [skillAdvMaybe] уворачивается</li>
+    <li>result-&gt;но [RECIPIENT_definite] делает обманное движение</li>
+    <li>result-&gt;но противник [skillAdvMaybe] уклоняется от удара</li>
+  </Combat_Dodge.rulePack.rulesStrings>
+  <Combat_Hit.rulePack.rulesStrings>
+    <li>r_logentry(p=0.3)-&gt;[INITIATOR_definite] [damaged] [recipient_part0_label] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.1)-&gt;[INITIATOR_definite] [strikeAdv] [damaged] [recipient_part0_label] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.1)-&gt;[INITIATOR_definite][flavortext_situation] [damaged] [recipient_part0_label] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.1)-&gt;[INITIATOR_definite] [damaged] [recipient_part0_label] [RECIPIENT_definite], [flavortext_consequence].</li>
+    <li>r_logentry(p=0.4)-&gt;[INITIATOR_definite], [skillDescMelee], [damaged] [recipient_part0_label] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count!=0,p=0.3)-&gt;[INITIATOR_definite] [destroyed] [destroyed_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count!=0,p=0.3)-&gt;[INITIATOR_definite] [destroyed] [destroyed_targets] [RECIPIENT_definite] [destroyed_suffix].</li>
+    <li>r_logentry(recipient_part_destroyed_count!=0,p=0.3)-&gt;[INITIATOR_definite] [skillAdv] [destroyed] [destroyed_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count!=0,p=0.3)-&gt;[INITIATOR_definite] при помощи [implement] [destroyed] [destroyed_targets] [RECIPIENT_definite].</li>
+    <li>result(recipient_part_destroyed_count!=0,recipient_part_damaged_count==0,p=1)-&gt;[destroyed_participle] [RECIPIENT_possessive] [destroyed_targets]</li>
+    <li>result(recipient_part_destroyed_count==0,recipient_part_damaged_count!=0,p=1)-&gt;[damaged_participle] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>result(recipient_part_destroyed_count!=0,recipient_part_damaged_count!=0,p=1)-&gt;[destroyed_participle] [RECIPIENT_possessive] [destroyed_targets] и [damaged_participle] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>action(p=0.3)-&gt;[INITIATOR_definite] бьёт [RECIPIENT_definite] [maneuver_noun_instr] [implement]</li>
+    <li>action(p=0.3)-&gt;[INITIATOR_definite] использует [implement], чтобы [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action-&gt;[INITIATOR_definite] [damaged] [RECIPIENT_definite] при помощи [implement]</li>
+    <li>action(p=0.6)-&gt;[INITIATOR_definite] [damaged] [RECIPIENT_definite]</li>
+  </Combat_Hit.rulePack.rulesStrings>
+  <Combat_Miss.rulePack.rulesStrings>
+    <li>r_logentry(p=0.2)-&gt;[RECIPIENT_definite] избегает [maneuver_noun_gen] [WEAPON_label] [INITIATOR_definite].</li>
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_definite] промахивается по [RECIPIENT_definite] [maneuver_noun_instr] [implement].</li>
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_definite] [failtype], пытаясь [damaged_inf] [RECIPIENT_definite] при помощи [implement].</li>
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_definite] [failtype], пытаясь [damaged_inf] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_definite] [failtype].</li>
+    <li>failtype-&gt;спотыкается</li>
+    <li>failtype-&gt;ошибается</li>
+    <li>failtype-&gt;делает ошибку</li>
+    <li>failtype-&gt;сбивается</li>
+    <li>failtype-&gt;промахивается</li>
+    <li>result-&gt;но промахивается</li>
+    <li>result-&gt;но лишь рассекает воздух</li>
+    <li>result-&gt;но удар проходит мимо</li>
+    <li>result-&gt;но в последний момент сбивается</li>
+    <li>result-&gt;но пропускает нужный момент</li>
+  </Combat_Miss.rulePack.rulesStrings>
+</LanguageData>

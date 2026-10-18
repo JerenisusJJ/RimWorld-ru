@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <IdeoRole_AnimalsSpecialist.label>специалист-животновод</IdeoRole_AnimalsSpecialist.label>
+  <IdeoRole_AnimalsSpecialist.description>Особая идеолигиозная должность. Поселенец, назначенный на неё, эффективнее приручает и обучает животных. Поселенец в этой должности откажется выполнять некоторые задачи, не связанные с животноводством.</IdeoRole_AnimalsSpecialist.description>
+  <IdeoRole_Leader.label>лидер</IdeoRole_Leader.label>
+  <IdeoRole_Leader.description>Лидер возглавляет общину и представляет вашу фракцию в дипломатических переговорах.</IdeoRole_Leader.description>
+  <IdeoRole_MedicalSpecialist.label>медицинский специалист</IdeoRole_MedicalSpecialist.label>
+  <IdeoRole_MedicalSpecialist.description>Особая идеолигиозная должность. Поселенец, назначенный на неё, эффективнее проводит операции и ухаживает за пациентами, а также усиливает медицинские навыки ближайших союзников. Последователи, получившие помощь от такого специалиста, будут этому рады. Поселенец в этой должности откажется применять любого рода насилие и выполнять некоторые задачи, не связанные с медициной.</IdeoRole_MedicalSpecialist.description>
+  <IdeoRole_MeleeSpecialist.label>специалист по ближнему бою</IdeoRole_MeleeSpecialist.label>
+  <IdeoRole_MeleeSpecialist.description>Особая идеолигиозная должность. Поселенец, назначенный на неё, получает повышенные шансы уклонения и попадания в рукопашном бою, а также способность на короткое время входить в транс берсерка. Поселенец в этой должности откажется выполнять большинство задач, не связанных с рукопашным боем.</IdeoRole_MeleeSpecialist.description>
+  <IdeoRole_MiningSpecialist.label>специалист-шахтёр</IdeoRole_MiningSpecialist.label>
+  <IdeoRole_MiningSpecialist.description>Особая идеолигиозная должность. Поселенец, назначенный на неё, получает увеличенную скорость проведения горных работ и повышает её у ближайших союзников. Поселенец в этой должности откажется выполнять некоторые задачи, не связанные с горным делом.</IdeoRole_MiningSpecialist.description>
+  <IdeoRole_Moralist.label>наставник</IdeoRole_Moralist.label>
+  <IdeoRole_Moralist.description>Моральный/духовный лидер, организующий ритуалы и напутствующий последователей.</IdeoRole_Moralist.description>
+  <IdeoRole_PlantSpecialist.label>специалист-агроном</IdeoRole_PlantSpecialist.label>
+  <IdeoRole_PlantSpecialist.description>Особая идеолигиозная должность. Поселенец, назначенный на неё, получает повышенную эффективность посадки и сбора урожая, а также усиливает навыки растениеводства ближайших союзников. Поселенец в этой должности откажется выполнять некоторые задачи, не связанные с растениеводством.</IdeoRole_PlantSpecialist.description>
+  <IdeoRole_ProductionSpecialist.label>специалист по производству</IdeoRole_ProductionSpecialist.label>
+  <IdeoRole_ProductionSpecialist.description>Особая идеолигиозная должность. Поселенец, назначенный на неё, получает повышенную эффективность при производстве и строительстве, а также усиливает эти навыки у ближайших союзников. Поселенец в этой должности откажется выполнять некоторые задачи, не связанные с производством или строительством.</IdeoRole_ProductionSpecialist.description>
+  <IdeoRole_ResearchSpecialist.label>специалист по исследованиям</IdeoRole_ResearchSpecialist.label>
+  <IdeoRole_ResearchSpecialist.description>Особая идеолигиозная должность. Поселенец, назначенный на неё, получает увеличенную скорость исследования и взлома, а также усиливает исследовательские навыки ближайших союзников. Поселенец в этой должности откажется выполнять некоторые задачи, не связанные с исследованиями.</IdeoRole_ResearchSpecialist.description>
+  <IdeoRole_ShootingSpecialist.label>специалист по стрельбе</IdeoRole_ShootingSpecialist.label>
+  <IdeoRole_ShootingSpecialist.description>Особая идеолигиозная должность. Поселенец, назначенный на неё, получает повышенную точность стрельбы, а также усиливает навыки дальнего боя ближайших союзников. Поселенец в этой должности откажется выполнять большинство задач, не связанных со стрельбой.</IdeoRole_ShootingSpecialist.description>
+</LanguageData>

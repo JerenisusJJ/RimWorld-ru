@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Assassin20.description>{PAWN_nameDef} {PAWN_gender ? был профессиональным : была профессиональной : был профессиональным} убийцей. Бесстрастность и расчётливость приносили {PAWN_objective} немало денег. В этом бизнесе полное отсутствие сочувствия — крайне ценный актив.</Assassin20.description>
+  <Assassin20.title>ассасин</Assassin20.title>
+  <Assassin20.titleShort>ассасин</Assassin20.titleShort>
+  <Gigolo30.description>{PAWN_nameDef} {PAWN_gender ? торговал : торговала : торговало} своим телом. Им пользовались сотни клиентов в борделях на нескольких планетах. Это не прошло незаметно для психики, но зато {PAWN_nameDef} {PAWN_gender ? научился : научилась : научился} находить общий язык с самыми разными людьми.</Gigolo30.description>
+  <Gigolo30.title>жиголо</Gigolo30.title>
+  <Gigolo30.titleShort>жиголо</Gigolo30.titleShort>
+  <Gigolo30.titleFemale>куртизанка</Gigolo30.titleFemale>
+  <Gigolo30.titleShortFemale>куртизанка</Gigolo30.titleShortFemale>
+  <IllegalShipwright76.description>Существует закон, по которому запрещается устанавливать тераваттные лазеры на небольшие торговые суда. Особенно если вы прячете их под чем-то, напоминающим спутниковую тарелку связи, для лучшего засадного потенциала. {PAWN_nameDef} {PAWN_gender ? понимал : понимала : понимало}, что на таком можно неплохо заработать, однако только за счёт тех, кого не слишком волнуют подобные законы.</IllegalShipwright76.description>
+  <IllegalShipwright76.title>нелегальный корабел</IllegalShipwright76.title>
+  <IllegalShipwright76.titleShort>корабел</IllegalShipwright76.titleShort>
+  <PitBrawler76.description>{PAWN_nameDef} {PAWN_gender ? принял участие : приняла участие : принял участие} в своём первом бою в возрасте девяти лет. {PAWN_pronoun} {PAWN_gender ? одержал : одержала : одержало} победу и, что гораздо важнее, {PAWN_gender ? стал : стала : стало} любимцем публики. Карьера участника боёв на арене приносит неплохие деньги тем, кому удаётся выживать. Она даже законна. По большей части.</PitBrawler76.description>
+  <PitBrawler76.title>боец на арене</PitBrawler76.title>
+  <PitBrawler76.titleShort>гладиатор</PitBrawler76.titleShort>
+  <SpaceMarine16.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} бойцом военно-космических сил Империи. В {PAWN_possessive} обязанности входили абордаж, уничтожение экипажа и захват вражеских кораблей с минимумом наносимых повреждений. И у н{PAWN_possessive} это отлично получалось.</SpaceMarine16.description>
+  <SpaceMarine16.title>космодесантник</SpaceMarine16.title>
+  <SpaceMarine16.titleShort>десантник</SpaceMarine16.titleShort>
+  <SpacePirate55.description>Пиратство появляется везде, где правительства слабы, а население разобщено. {PAWN_nameDef} {PAWN_gender ? был : была : было} частью этого явления с большим прошлым в человеческой истории, занимаясь вымогательством и грабежом мирных торговых кораблей ради получения прибыли.</SpacePirate55.description>
+  <SpacePirate55.title>космический пират</SpacePirate55.title>
+  <SpacePirate55.titleShort>пират</SpacePirate55.titleShort>
+</LanguageData>

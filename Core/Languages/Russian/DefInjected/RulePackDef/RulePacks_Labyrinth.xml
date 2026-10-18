@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LabyrinthRamblings.rulePack.rulesStrings>
+    <li>r_root-&gt;[textDescSentence] [horrorDescSentence] [maybeSignature]</li>
+    <li>maybeSignature(p=3)-&gt;</li>
+    <li>maybeSignature-&gt;Автор указывает своё имя: [PAWN_nameDef].</li>
+    <li>maybeSignature-&gt;В конце есть имя: [PAWN_nameDef].</li>
+    <li>maybeSignature-&gt;Внизу нацарапано имя: [PAWN_nameDef].</li>
+    <li>textDescSentence-&gt;Нацарапанные на полу надписи бессвязны и бессмысленны.</li>
+    <li>textDescSentence-&gt;Слова почти не различимы.</li>
+    <li>textDescSentence-&gt;Странные нацарапанные слова написаны в обратном буквенном порядке.</li>
+    <li>textDescSentence-&gt;Почерк кривой и едва различимый.</li>
+    <li>textDescSentence-&gt;Надписи становятся всё более и более несуразными.</li>
+    <li>textDescSentence-&gt;Текст написан [writingMaterial] и частично стёрт.</li>
+    <li>textDescSentence-&gt;Остроконечные буквы перемежаются таинственными символами.</li>
+    <li>textDescSentence-&gt;Надпись в нескольких местах прерывается, как будто автора многократно отвлекали.</li>
+    <li>textDescSentence-&gt;Надписи исчезают и появляются по ходу текста.</li>
+    <li>textDescSentence-&gt;Текст нанесли на поверхность [writingMaterial]. Получившиеся надписи образуют хаотичный рисунок.</li>
+    <li>horrorDescSentence-&gt;Различить можно только одну фразу: [rambling].</li>
+    <li>horrorDescSentence-&gt;Всюду повторяется одна и та же фраза: [rambling].</li>
+    <li>horrorDescSentence-&gt;В конце каждого предложения стоит фраза: [rambling].</li>
+    <li>horrorDescSentence-&gt;Несколько слов написаны по кругу и составляют повторяющуюся фразу: [rambling].</li>
+    <li>horrorDescSentence-&gt;Автор этих слов считает, что под [PAWN_possessive] кожей поселился металлический паразит. [PAWN_pronoun] пишет, что каждое движение паразита отзывается пронзительной болью.</li>
+    <li>horrorDescSentence-&gt;Автор обвиняет одного из близких друзей в том, что тот {PAWN_possessive} заразил. [PAWN_pronoun] описывает, как паразит растёт внутри и как это ужасно.</li>
+    <li>horrorDescSentence-&gt;Автор молит об отпущении, мечтая избавиться от своего мучителя: [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;Строки повторяются, описывая [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;Странный стих описывает [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;С трудом подбирая слова, автор описывает [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;Трясущимися руками автор описывает свои впечатления после видения: [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;За текстом следуют иллюстрации. На них — [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;На набросках — [horrorDesc], а надписи под рисунками дополняют картину.</li>
+    <li>horrorDescSentence-&gt;Пробирающий до костей гимн описывает [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;В текст, описывающий [horrorDesc], там и тут вставлены жуткие иллюстрации.</li>
+    <li>horrorDescSentence-&gt;На полях разворачиваются тихие истории, описывающие [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;Авторский голос в тексте выдаёт полное безумие, которое достигает своего пика в части, где описывающей [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;В нанесённых на поверхность метках проступают узоры, каждый из которых складывается в один и тот же образ: [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;Слова перемежаются яркими изображениями, красочно описывая [horrorDesc].</li>
+    <li>horrorDescSentence-&gt;С текстом, описывающим [horrorDesc], соседствует жуткая колыбельная.</li>
+    <li>horrorDescSentence-&gt;Мольбы о пощаде соседствуют с текстом, описывающим [horrorDesc].</li>
+    <li>horrorDesc-&gt;невидимое существо, пожирающее умы неверующих</li>
+    <li>horrorDesc-&gt;невозможно сферический пустотно-чёрный объект, который излучает боль</li>
+    <li>horrorDesc-&gt;существо из мяса и плоти с конечностями из кости</li>
+    <li>horrorDesc-&gt;создание, чьё тело — тень, а глаза — звёзды</li>
+    <li>horrorDesc-&gt;человекообразное существо из бритвенно-острых и напитанных кровью ножей</li>
+    <li>horrorDesc-&gt;массив крутящихся лезвий из бездны</li>
+    <li>horrorDesc-&gt;безмолвное дитя, чей рот занимает всё лицо</li>
+    <li>horrorDesc-&gt;кривой исполинский шпиль из шипов и лезвий</li>
+    <li>horrorDesc-&gt;невероятно странное живое существо, напоминающее гибрид нескольких животных</li>
+    <li>horrorDesc-&gt;деформированный гуманоид с перепутанными конечностями</li>
+    <li>horrorDesc-&gt;толпы гниющих мертвецов</li>
+    <li>horrorDesc-&gt;человеческие фигуры в кошмарных шипастых масках</li>
+    <li>rambling-&gt;выпустите меня</li>
+    <li>rambling-&gt;помогите мне</li>
+    <li>rambling-&gt;спасите меня</li>
+    <li>rambling-&gt;оно смотрит</li>
+    <li>rambling-&gt;оно не отпускает</li>
+    <li>rambling-&gt;отпусти</li>
+    <li>rambling-&gt;я слышу его голос</li>
+    <li>rambling-&gt;время — ложь</li>
+    <li>rambling-&gt;избавьте меня от боли</li>
+    <li>rambling-&gt;чёрный океан</li>
+    <li>rambling-&gt;режет и режет</li>
+    <li>rambling-&gt;шёпот в пустоте</li>
+    <li>rambling-&gt;оно всё время за мной</li>
+    <li>rambling-&gt;так много глаз</li>
+    <li>rambling-&gt;в моей голове</li>
+    <li>rambling-&gt;тону в тишине</li>
+    <li>rambling-&gt;оно знает моё имя</li>
+    <li>rambling-&gt;тени движутся</li>
+    <li>rambling-&gt;выхода нет</li>
+    <li>rambling-&gt;тьма разговаривает</li>
+    <li>rambling-&gt;они смотрят</li>
+    <li>writingMaterial-&gt;мелом</li>
+    <li>writingMaterial-&gt;сажей</li>
+    <li>writingMaterial-&gt;какой-то размазанной жидкостью</li>
+    <li>writingMaterial-&gt;пеплом</li>
+    <li>writingMaterial-&gt;тёмными чернилами</li>
+  </LabyrinthRamblings.rulePack.rulesStrings>
+</LanguageData>

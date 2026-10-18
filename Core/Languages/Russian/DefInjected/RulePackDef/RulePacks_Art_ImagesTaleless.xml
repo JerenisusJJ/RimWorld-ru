@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <TalelessImages.rulePack.rulesFiles>
+    <li>noun_random-&gt;Words/Nouns/Random</li>
+    <li>noun_random_acc-&gt;Words/Nouns/Random_Acc</li>
+    <li>concept_random-&gt;Words/Nouns/Concepts_Random</li>
+    <li>action_random-&gt;Words/Verbs/Action</li>
+    <li>action_womit-&gt;Words/Verbs/Womit</li>
+    <li>adverb_random-&gt;Words/Adverbs/Random</li>
+  </TalelessImages.rulePack.rulesFiles>
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image-&gt;, как [subject_animate], [subject_clause_animate], [action_clause]</li>
+    <li>image-&gt; [noun_acc], что [action_clause]</li>
+    <li>image(p=0.5)-&gt;, как [subject_animate_plural] играют в [Game]</li>
+    <li>image(p=0.5)-&gt;, как [subject_animate] и [subject_animate] играют в [Game]</li>
+    <li>image(p=0.5)-&gt;, как [animals] сражаются за территорию</li>
+    <li>image(p=0.5)-&gt;, как [Animal] и [Animal] сражаются за территорию</li>
+    <li>image-&gt; абстрактный образ [random_concept], что [action_clause]</li>
+    <li>image-&gt;, как [subject_animate] [action_clause]</li>
+    <li>image(p=0.5)-&gt; чьи-то потаённые страхи в виде [concept_random]</li>
+    <li>image(p=0.5)-&gt; чьи-то потаённые мечты в виде [concept_random]</li>
+    <li>subject_animate_plural-&gt;[animals]</li>
+    <li>subject_animate_plural-&gt;[Enemies]</li>
+    <li>subject_animate-&gt;[Outlander]</li>
+    <li>subject_animate-&gt;[NamePerson]</li>
+    <li>subject_animate-&gt;[Animal]</li>
+    <li>subject_noun-&gt;[noun_random] [random_concept]</li>
+    <li>subject_noun-&gt;[subject_animate]</li>
+    <li>subject_noun-&gt;[Weapon] [random_concept]</li>
+    <li>subject_clause_animate-&gt;[TransFriendly]</li>
+    <li>subject_clause_animate-&gt;надев [Apparel]</li>
+    <li>subject_clause_animate-&gt;держа в руках [Weapon_acc]</li>
+    <li>subject_clause_animate-&gt;которого окружают [Enemies]</li>
+    <li>action_clause-&gt;[action]</li>
+    <li>action(p=20)-&gt;[action_random] [noun_acc]</li>
+    <li>action(p=1)-&gt;[action_womit] [Gore]</li>
+    <li>action-&gt;летит по воздуху</li>
+    <li>action-&gt;висит в воздухе</li>
+    <li>action-&gt;стоит на земле</li>
+    <li>action-&gt;сидит на столе</li>
+    <li>action-&gt;отражается в зеркале</li>
+    <li>noun_acc-&gt;[noun_random_acc] [random_concept]</li>
+    <li>random_concept-&gt;[ConceptAny]</li>
+    <li>random_concept-&gt;[concept_random]</li>
+    <li>animals-&gt;[AnimalBadass_plural]</li>
+  </TalelessImages.rulePack.rulesStrings>
+</LanguageData>

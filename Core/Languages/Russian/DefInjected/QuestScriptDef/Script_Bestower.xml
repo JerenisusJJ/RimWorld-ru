@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BestowingCeremony.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Фракция [faction_name] готова даровать [pawn_definite] титул {lookup: [newTitle]; Case; 1} и [psylinkLevel] уровень пси-связи в ходе официальной церемонии.\n\nЭмиссар, который проведёт церемонию, прибудет на челноке.\n\nЭмиссар дарует титул, только если удовлетворено хотя бы одно требование к тронному залу. В зависимости от количества присутствующих на церемонии, есть шанс удостоиться дополнительной чести. Также каждый участник получит бонус к настроению.\n\nВы можете предать эмиссара, чтобы выкрасть нейроформеры пси-связи, но это сделает фракцию [faction_name] враждебной по отношению к вам.\n\nЕсли вы пропустите или нарушите церемонию, в будущем будет шанс провести её заново. Любое причинение вреда эмиссару или его охране приведёт к нежелательным дипломатическим последствиям.</li>
+  </BestowingCeremony.questDescriptionRules.rulesStrings>
+  <BestowingCeremony.questNameRules.rulesStrings>
+    <li>questName-&gt;Церемония присвоения [pawn_definite] титула</li>
+  </BestowingCeremony.questNameRules.rulesStrings>
+</LanguageData>

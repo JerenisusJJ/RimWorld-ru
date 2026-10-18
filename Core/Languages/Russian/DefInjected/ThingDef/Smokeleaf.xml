@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SmokeleafJoint.label>косяк дымолиста</SmokeleafJoint.label>
+  <SmokeleafJoint.description>Косяк из листьев дымолиста, скрученных для курения. Повышает настроение, усиливает аппетит, снижает сосредоточенность и замедляет движение. Употребление дымолиста может привести к зависимости.\n\nКосяк можно скрутить без какого-либо оборудования, поэтому он стал неотъемлемым атрибутом многих традиционных культур с низким уровнем индустриализации.</SmokeleafJoint.description>
+  <SmokeleafJoint.ingestible.ingestCommandString>Курить {lookup: {0}; Case; 3}</SmokeleafJoint.ingestible.ingestCommandString>
+  <SmokeleafJoint.ingestible.ingestReportString>Курит {lookup: {0}; Case; 3}</SmokeleafJoint.ingestible.ingestReportString>
+  <SmokeleafJoint.ingestible.ingestReportStringEat>Ест {lookup: {0}; Case; 3}</SmokeleafJoint.ingestible.ingestReportStringEat>
+</LanguageData>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Apparel_ShieldBelt.label>пояс-щит</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.description>Поясной генератор защитного поля. Останавливает баллистические снаряды и осколки, но бесполезен против рукопашных атак и высокотемпературных воздействий. Не позволяет выстрелить самому владельцу щита и мгновенно отключается от ЭМИ.</Apparel_ShieldBelt.description>
+</LanguageData>

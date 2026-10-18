@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <HarvestedOrgan.label>извлечён орган</HarvestedOrgan.label>
+  <InstalledOrgan.label>пересажен орган</InstalledOrgan.label>
+  <SoldOrgan.label>продан орган</SoldOrgan.label>
+  <TradedOrgan.label>куплен орган</TradedOrgan.label>
+</LanguageData>

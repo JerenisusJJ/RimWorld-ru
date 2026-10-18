@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DropPodIncomingMechanoidSoft.label>транспортная капсула (прибытие)</DropPodIncomingMechanoidSoft.label>
+  <DropPodLeavingMechanoid.label>транспортная капсула механоидов (отбытие)</DropPodLeavingMechanoid.label>
+  <LavaRockIncoming.label>лава-камень (прибытие)</LavaRockIncoming.label>
+  <PassengerShuttleIncoming.label>пассажирский челнок (прибывает)</PassengerShuttleIncoming.label>
+  <PassengerShuttleLeaving.label>пассажирский челнок (отправляется)</PassengerShuttleLeaving.label>
+</LanguageData>

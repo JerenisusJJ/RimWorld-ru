@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Heart.label>сердце</Heart.label>
+  <Heart.description>Человеческое сердце. Доставляет кровь и кислород ко всем частям тела.</Heart.description>
+  <Kidney.label>почка</Kidney.label>
+  <Kidney.description>Человеческая почка. Отфильтровывает и удаляет отходы метаболизма из крови.</Kidney.description>
+  <Liver.label>печень</Liver.label>
+  <Liver.description>Человеческая печень. Играет важную роль в обмене веществ.</Liver.description>
+  <Lung.label>лёгкое</Lung.label>
+  <Lung.description>Человеческое лёгкое. Незаменимая часть дыхательной системы.</Lung.description>
+</LanguageData>

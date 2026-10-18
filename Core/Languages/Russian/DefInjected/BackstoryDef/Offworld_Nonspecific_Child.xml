@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ChildSpy47.description>Дети считаются воплощением невинности, что делает их идеальными шпионами. Когда {PAWN_objective} исполнилось девять лет, {PAWN_nameDef} {PAWN_gender ? начал : начала : начало} обучаться искусству проникновения и сбора информации.\n\nГоды, проведённые в тылу противника, сделали {PAWN_possessive} мастером лжи и манипуляций. Тем не менее, нормального образования {PAWN_nameDef} так и не {PAWN_gender ? получил : получила : получило}.</ChildSpy47.description>
+  <ChildSpy47.title>юный шпион</ChildSpy47.title>
+  <ChildSpy47.titleShort>проныра</ChildSpy47.titleShort>
+  <ChildStar74.description>{PAWN_nameDef} {PAWN_gender ? обрёл : обрела : обрёло} широкую известность в своём мире, играя роли в разных фильмах и телешоу. Такая слава позволила {PAWN_objective} обзавестись самыми разными знакомствами, но также мешала {PAWN_objective} нормально учиться.</ChildStar74.description>
+  <ChildStar74.title>юная звезда</ChildStar74.title>
+  <ChildStar74.titleShort>звезда</ChildStar74.titleShort>
+  <ComaChild93.description>В результате несчастного случая, произошедшего в детстве, {PAWN_nameDef} {PAWN_gender ? впал : впала : впало} в кому. {PAWN_possessive} тело так и не оправилось от долгих лет без движения. Впрочем, услышав эту историю, большинство людей жалеют {PAWN_possessive}.</ComaChild93.description>
+  <ComaChild93.title>коматозник</ComaChild93.title>
+  <ComaChild93.titleShort>коматозник</ComaChild93.titleShort>
+  <CultChild3.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родился} в могущественном культе, отвергнувшем высокие технологии. Культисты верили, что любую хворь следует лечить, очищая душу священными ритуалами.\n\nОднажды {PAWN_objective} удалось увидеть внешний мир, и это подвигло {PAWN_possessive} на побег.</CultChild3.description>
+  <CultChild3.title>дитя культа</CultChild3.title>
+  <CultChild3.titleShort>дитя культа</CultChild3.titleShort>
+  <FrightenedChild43.description>{PAWN_nameDef} {PAWN_gender ? рос : росла : рос} с целым набором фобий и неврозов. Помимо всего прочего, {PAWN_pronoun} {PAWN_gender ? боялся : боялась : боялся} также докторов и пищевых микробов.\n\nКак результат, {PAWN_pronoun} {PAWN_gender ? учился : училась : учился} готовить и заботиться о себе самостоятельно. Однако многие из {PAWN_possessive} страхов не оставили {PAWN_possessive} и в более взрослом возрасте.</FrightenedChild43.description>
+  <FrightenedChild43.title>пугливый мальчик</FrightenedChild43.title>
+  <FrightenedChild43.titleShort>бояка</FrightenedChild43.titleShort>
+  <MedicalAssistant12.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родился} во время ужасной войны, в которой обе стороны широко применяли зажигательное оружие. {PAWN_pronoun} {PAWN_gender ? рос : росла : рос}, помогая своим родителям в госпитале, обрабатывая бесконечный поток ужасающих ожогов на телах солдат. Страх перед огнём остался у н{PAWN_possessive} на всю жизнь.</MedicalAssistant12.description>
+  <MedicalAssistant12.title>ассистент врача</MedicalAssistant12.title>
+  <MedicalAssistant12.titleShort>медик</MedicalAssistant12.titleShort>
+  <MusicalKid86.description>{PAWN_nameDef} ещё ребёнком {PAWN_gender ? проявил : проявила : проявило} способности к игре на музыкальных инструментах и пению. {PAWN_pronoun} {PAWN_gender ? был прекрасно обучен и обожал : была прекрасно обучена и обожала : был прекрасно обучен и обожало} давать концерты и сольные выступления. Однако постоянное восхваление {PAWN_possessive} таланта со стороны окружающих сделало {PAWN_possessive} довольно {PAWN_gender ? тщеславным : тщеславной : тщеславным}.</MusicalKid86.description>
+  <MusicalKid86.title>юный музыкант</MusicalKid86.title>
+  <MusicalKid86.titleShort>музыкант</MusicalKid86.titleShort>
+  <Mute34.description>В детстве {PAWN_nameDef} {PAWN_gender ? пережил : пережила : пережило} травмирующее {PAWN_possessive} событие. Из-за этого много лет {PAWN_pronoun} не {PAWN_gender ? хотел : хотела : хотело} говорить с людьми и {PAWN_gender ? предпочитал : предпочитала : предпочитало} играть с кучей своих домашних животных.</Mute34.description>
+  <Mute34.title>тихоня</Mute34.title>
+  <Mute34.titleShort>тихоня</Mute34.titleShort>
+  <OrganFarm67.description>{PAWN_nameDef} {PAWN_gender ? рос : росла : рос} глубоко под землёй на нелегальной ферме органов. {PAWN_possessive} тело использовалось для выращивания органических имплантов для раненых наёмников. Хотя такого рода «воспитание» наложило отпечаток на {PAWN_possessive} психику, оно дало {PAWN_objective} особое понимание человеческой биологии.</OrganFarm67.description>
+  <OrganFarm67.title>донор органов</OrganFarm67.title>
+  <OrganFarm67.titleShort>донор</OrganFarm67.titleShort>
+  <Pyromaniac18.description>С раннего возраста {PAWN_nameDef} {PAWN_gender ? питал : питала : питало} нездоровый интерес к огню. Когда {PAWN_pronoun} зажигает огонь, пламя настолько завораживает {PAWN_possessive}, что {PAWN_pronoun} может по рассеянности обжечься.\n\nОднажды {PAWN_possessive} дом сгорел из-за неосторожной игры со спичками.</Pyromaniac18.description>
+  <Pyromaniac18.title>пироман</Pyromaniac18.title>
+  <Pyromaniac18.titleShort>пироман</Pyromaniac18.titleShort>
+  <ShopKid36.description>Поскольку {PAWN_possessive} мать часто болела, {PAWN_nameDef} время от времени {PAWN_gender ? управлял : управляла : управляло} магазином, единственным источником дохода их семьи. В продающихся у них экзотических артефактах {PAWN_pronoun} {PAWN_gender ? разбирался : разбиралась : разбирался} немного, но зато в искусстве заключения выгодных сделок — очень хорошо.</ShopKid36.description>
+  <ShopKid36.title>продавец</ShopKid36.title>
+  <ShopKid36.titleShort>продавец</ShopKid36.titleShort>
+  <SicklyChild55.description>Всё детство {PAWN_nameDef} {PAWN_gender ? страдал : страдала : страдало} от редкой болезни. На постоянном карантине в исследовательской больнице у н{PAWN_possessive} было минимум контактов с людьми и практически никаких физических нагрузок. Однако в этих стерильных лабораториях {PAWN_pronoun} подробно {PAWN_gender ? ознакомился : ознакомилась : ознакомился} с наукой и медициной.</SicklyChild55.description>
+  <SicklyChild55.title>болезненный мальчик</SicklyChild55.title>
+  <SicklyChild55.titleShort>пациент</SicklyChild55.titleShort>
+  <StoryWriter67.description>{PAWN_nameDef} с детства {PAWN_gender ? любил : любила : любило} читать, проводя целые дни в библиотеке и уткнув свой нос в книгу. Когда бюджет города урезали, и библиотека закрылась, {PAWN_pronoun} сначала {PAWN_gender ? расстроился : расстроилась : расстроился}, но затем {PAWN_gender ? решил : решила : решило} заполнить появившуюся пустоту написанием своих собственных книг.</StoryWriter67.description>
+  <StoryWriter67.title>писатель</StoryWriter67.title>
+  <StoryWriter67.titleShort>писатель</StoryWriter67.titleShort>
+  <VatgrownSoldier8.description>{PAWN_nameDef} {PAWN_gender ? воспитывался : воспитывалась : воспитывался} не как личность, а как инструмент уничтожения. {PAWN_possessive} ускоренно вырастили на специальном объекте по производству биооружия, обучив всем аспектам ведения боя. У н{PAWN_possessive} до сих пор сохраняется тяга к сражениям и нежелание общаться с людьми.</VatgrownSoldier8.description>
+  <VatgrownSoldier8.title>выращенный солдат</VatgrownSoldier8.title>
+  <VatgrownSoldier8.titleShort>солдат</VatgrownSoldier8.titleShort>
+  <WarRefugee51.description>После того как война пришла в {PAWN_possessive} родной дом, {PAWN_nameDef} и {PAWN_possessive} родители бежали, пытаясь хоть где-нибудь найти безопасное убежище. {PAWN_possessive} самые первые воспоминания — уроки самозащиты.\n\nНасилие и разрушения, свидетелем которых {PAWN_gender ? становился : становилась : становился} {PAWN_nameDef}, навсегда оставили глубокий след в {PAWN_possessive} памяти.</WarRefugee51.description>
+  <WarRefugee51.title>беженец</WarRefugee51.title>
+  <WarRefugee51.titleShort>беженец</WarRefugee51.titleShort>
+</LanguageData>

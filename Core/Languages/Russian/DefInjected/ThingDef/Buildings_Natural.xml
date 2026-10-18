@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientEmergencyLight_Blue.label>древний светильник</AncientEmergencyLight_Blue.label>
+  <AncientEmergencyLight_Blue.description>Древний светильник с долговечной батареей.</AncientEmergencyLight_Blue.description>
+  <AncientEmergencyLight_Green.label>светильник механоидов</AncientEmergencyLight_Green.label>
+  <AncientEmergencyLight_Green.description>Светильник, используемый в помещениях механоидов. Зеленый свет оптимален для оптических сенсоров механоидов.</AncientEmergencyLight_Green.description>
+  <AncientEmergencyLight_Red.label>древний аварийный светильник</AncientEmergencyLight_Red.label>
+  <AncientEmergencyLight_Red.description>Древний светильник с долговечной батареей.</AncientEmergencyLight_Red.description>
+  <AncientHeatVent.label>древний теплоотвод</AncientHeatVent.label>
+  <AncientHeatVent.description>Древние каналы регулярно выпускают тепло из подземной мегапостройки, резко повышая температуру в окрестности.</AncientHeatVent.description>
+  <AncientSmokeVent.label>древний дымоотвод</AncientSmokeVent.label>
+  <AncientSmokeVent.description>В этой области расположено несколько огромных вентиляционных выходов. Древний механизм, зарытый глубоко под землей, время от времени выбрасывает большие объемы дыма, затмевая солнце на несколько дней.</AncientSmokeVent.description>
+  <AncientToxVent.label>древний газоотвод</AncientToxVent.label>
+  <AncientToxVent.description>Огромные газоотводы регулярно выбрасывают в воздух облака ядовитых осадков. Эти выходы соединены с древней подземной постройкой, скрытой глубоко под землей.</AncientToxVent.description>
+  <BurrowWall.label>стена норы</BurrowWall.label>
+  <BurrowWall.description>Плотная смесь земли, камня и выделений насекомых.</BurrowWall.description>
+  <GeothermalVent.label>серный источник</GeothermalVent.label>
+  <GeothermalVent.description>Естественный разлом в земле, из которого выходят вулканические газы. Эти источники выносят минералы из глубин на поверхность. В совокупности выбрасываемые ими испарения способны заслонить солнце.</GeothermalVent.description>
+  <InsectLairEntrance.label>вход в пещеру</InsectLairEntrance.label>
+  <InsectLairEntrance.description>Вход в разветвленную сеть пещер. Можно спуститься в находящиеся под землей пещеры.</InsectLairEntrance.description>
+  <InsectLairEntrance.comps.CompSealable.sealCommandLabel>Засыпать вход в пещеру</InsectLairEntrance.comps.CompSealable.sealCommandLabel>
+  <InsectLairEntrance.comps.CompSealable.sealCommandDesc>Навсегда засыпать вход. Всё и все, кто останется внутри, будут утеряны навсегда.</InsectLairEntrance.comps.CompSealable.sealCommandDesc>
+  <InsectLairEntrance.comps.CompSealable.confirmSealText>Засыпка входа в пещеру необратима. Всё или все, кто останется внутри, будут потеряны навсегда.\n\nВы уверены, что хотите продолжить?</InsectLairEntrance.comps.CompSealable.confirmSealText>
+  <InsectLairEntrance.comps.CompSealable.cannotSealLabel>Невозможно засыпать</InsectLairEntrance.comps.CompSealable.cannotSealLabel>
+  <LifeSupportUnit.label>блок жизнеобеспечения</LifeSupportUnit.label>
+  <LifeSupportUnit.description>Блок, подключенный к общей системе жизнеобеспечения орбитальной платформы. Поддерживает тепло и давление в помещениях.</LifeSupportUnit.description>
+  <MineableObsidian.label>залежи обсидиана</MineableObsidian.label>
+  <MineableObsidian.description>Вулканическая порода, образованная быстро остывающей лавой. Может добываться для получения обсидианового стекла.</MineableObsidian.description>
+</LanguageData>

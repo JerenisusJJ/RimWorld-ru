@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <FlagstoneVacstone.label>грубая плитка из вакуумита</FlagstoneVacstone.label>
+  <FlagstoneVacstone.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</FlagstoneVacstone.description>
+  <TileVacstone.label>плитка из вакуумита</TileVacstone.label>
+  <TileVacstone.description>Аккуратно вырезанные и подогнанные друг к другу каменные плитки, как в средневековом замке. Приятны на вид, но укладка требует времени.</TileVacstone.description>
+</LanguageData>

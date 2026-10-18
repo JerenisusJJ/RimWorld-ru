@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Combat_DeflectIncludes.rulePack.rulesStrings>
+    <li>deflected_adverb-&gt;без последствий для жертвы</li>
+    <li>deflected_adverb-&gt;без особого толка</li>
+    <li>deflected_adverb-&gt;без особого результата</li>
+    <li>scratch-&gt;царапину</li>
+    <li>scratch-&gt;отметину</li>
+    <li>scratch-&gt;едва заметный след</li>
+    <li>scraped-&gt;царапает</li>
+    <li>scrap_trans-&gt;царапая</li>
+  </Combat_DeflectIncludes.rulePack.rulesStrings>
+  <Combat_FailIncludes.rulePack.rulesStrings>
+    <li>action-&gt;[INITIATOR_definite] [tried] [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action-&gt;[INITIATOR_definite] [tried] [damaged_inf] [RECIPIENT_definite] при помощи [implement]</li>
+    <li>action-&gt;[INITIATOR_definite] заносит [INITIATOR_possessive] [WEAPON_label], чтобы [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action-&gt;[INITIATOR_definite] направляет удар [INITIATOR_possessive] [WEAPON_label] [towardsat] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)-&gt;[INITIATOR_definite], используя [implement], [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)-&gt;[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)-&gt;[INITIATOR_definite] [verb_genericattack] при помощи [implement]</li>
+    <li>verb_genericattack-&gt;бьёт</li>
+    <li>verb_genericattack-&gt;замахивается</li>
+    <li>verb_genericattack-&gt;наносит удар</li>
+    <li>towardsat-&gt;в сторону</li>
+    <li>towardsat-&gt;по</li>
+    <li>tried-&gt;пытается</li>
+    <li>tried-&gt;пробует</li>
+  </Combat_FailIncludes.rulePack.rulesStrings>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+    <li>result(p=0.5)-&gt;[damaged_participle] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.2)-&gt;[strikeAdv] [damaged_participle] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.1)-&gt;, и[flavortext_situation] [damaged] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.2)-&gt;[damaged_participle] [RECIPIENT_possessive] [targetlist], [flavortext_consequence]</li>
+    <li>strikeAdv-&gt;болезненно</li>
+    <li>strikeAdv-&gt;жестоко</li>
+    <li>strikeAdv-&gt;ужасно</li>
+    <li>strikeAdv-&gt;варварски</li>
+    <li>strikeAdv-&gt;яростно</li>
+    <li>strikeAdv-&gt;безжалостно</li>
+    <li>strikeAdv-&gt;свирепо</li>
+    <li>strikeAdv-&gt;угрожающе</li>
+    <li>strikeAdv-&gt;беспощадно</li>
+    <li>strikeAdv-&gt;бессердечно</li>
+    <li>flavortext_situation(p=0.2)-&gt;[empty] без эмоций</li>
+    <li>flavortext_situation(p=0.2,INITIATOR_flesh==Normal)-&gt; во вспышке гнева</li>
+    <li>flavortext_situation(p=0.2,INITIATOR_flesh==Normal)-&gt; с видимым удовольствием</li>
+    <li>flavortext_situation(p=0.2,INITIATOR_flesh==Normal)-&gt; с отсутствующим видом</li>
+    <li>flavortext_situation(p=0.2,INITIATOR_flesh==Normal)-&gt; с озверевшим взглядом</li>
+    <li>flavortext_situation(p=0.2,INITIATOR_flesh==Normal)-&gt;, приняв [AdjectiveBadass] вид,</li>
+    <li>flavortext_situation(p=0.2,INITIATOR_flesh==Normal)-&gt;, гримасничая,</li>
+    <li>flavortext_situation(p=0.2,INITIATOR_flesh==Normal)-&gt;, смеясь,</li>
+    <li>flavortext_situation(p=0.2,INITIATOR_flesh==Normal)-&gt;, ухмыляясь,</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Normal)-&gt;заставляя [RECIPIENT_possessive] [wince] [painevent]</li>
+    <li>flavortext_consequence(p=0.2)-&gt;сбивая [RECIPIENT_possessive] с ног</li>
+    <li>flavortext_consequence-&gt;оставляя страшные раны</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)-&gt;оставляя омерзительно выглядящие раны</li>
+  </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+  <Combat_MeleeIncludes.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[action], [result].</li>
+    <li>r_logentry(priority=-10)-&gt;[action].</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)-&gt;[INITIATOR_possessive] [TOOL_label] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)-&gt;[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)-&gt;[TOOL_label] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)-&gt;[WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)-&gt;[INITIATOR_possessive] [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)-&gt;[INITIATOR_possessive] [TOOL_label] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)-&gt;[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)-&gt;[INITIATOR_possessive] [TOOL_label]</li>
+    <li>targetlist(recipient_part_count==1)-&gt;[recipient_part0_label]</li>
+    <li>targetlist(recipient_part_count==2)-&gt;[recipient_part0_label] и [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)-&gt;[recipient_part0_label], [recipient_part1_label] и [recipient_part2_label]</li>
+    <li>targetlist-&gt;[recipient_part0_label], [recipient_part1_label], [recipient_part2_label] и [recipient_part3_label]</li>
+    <li>damaged_participle-&gt;раня</li>
+    <li>damaged_participle-&gt;поражая</li>
+    <li>damaged_participle-&gt;повреждая</li>
+    <li>destroyed(p=0.5)-&gt;сокрушает</li>
+    <li>destroyed(p=0.5)-&gt;разрушает</li>
+    <li>destroyed(p=0.5)-&gt;уничтожает</li>
+    <li>wince-&gt;вздрогнуть</li>
+    <li>wince-&gt;скривиться</li>
+    <li>wince-&gt;согнуться</li>
+    <li>wince-&gt;стонать</li>
+    <li>wince-&gt;кричать</li>
+    <li>wince-&gt;вскрикнуть</li>
+    <li>wince-&gt;взвыть</li>
+    <li>wince-&gt;дёрнуться</li>
+    <li>painstate-&gt;от</li>
+    <li>painstate-&gt;из-за</li>
+    <li>painevent(RECIPIENT_flesh==Normal)-&gt;[painstate] боли</li>
+    <li>painevent(RECIPIENT_flesh==Normal)-&gt;в муках</li>
+    <li>painevent(RECIPIENT_flesh==Normal)-&gt;в унижении</li>
+    <li>painevent-&gt;из-за ранения</li>
+    <li>painevent-&gt;от полученной раны</li>
+  </Combat_MeleeIncludes.rulePack.rulesStrings>
+  <Combat_SkillIncludes.rulePack.rulesStrings>
+    <li>skillDescMelee-&gt;[skillAdv] [wielding] [INITIATOR_possessive] [WEAPON_label]</li>
+    <li>skillDescMelee-&gt;[skillAdv] [using] [implement]</li>
+    <li>wielding(p=4)-&gt;держа в руках</li>
+    <li>wielding(p=3)-&gt;взявшись за</li>
+    <li>wielding(p=2)-&gt;применяя</li>
+    <li>wielding-&gt;размахивая</li>
+    <li>using(p=4)-&gt;используя</li>
+    <li>using-&gt;работая</li>
+    <li>using-&gt;управляясь</li>
+    <li>using-&gt;двигая</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)-&gt;нелепо</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)-&gt;по-дурацки</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)-&gt;странно</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)-&gt;как попало</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)-&gt;криво-косо</li>
+    <li>skillAdv(INITIATOR_skill&lt;=4)-&gt;неловко</li>
+    <li>skillAdv(INITIATOR_skill&lt;=4)-&gt;неуклюже</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)-&gt;боязливо</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)-&gt;с опаской</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)-&gt;по-дилетантски</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)-&gt;бездумно</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)-&gt;нерешительно</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)-&gt;неохотно</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)-&gt;аккуратно</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)-&gt;осторожно</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)-&gt;не особенно умело</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)-&gt;непрофессионально</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)-&gt;неуверенно</li>
+    <li>skillAdv(INITIATOR_skill&lt;=8)-&gt;увлечённо</li>
+    <li>skillAdv(INITIATOR_skill&lt;=8)-&gt;воодушевлённо</li>
+    <li>skillAdv(INITIATOR_skill&lt;=8)-&gt;с энтузиазмом</li>
+    <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)-&gt;как надо</li>
+    <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)-&gt;как следует</li>
+    <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)-&gt;грамотно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)-&gt;правильно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)-&gt;умело</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)-&gt;уверенно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)-&gt;сноровисто</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)-&gt;проворно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=10)-&gt;ловко</li>
+    <li>skillAdv(INITIATOR_skill&gt;=10)-&gt;находчиво</li>
+    <li>skillAdv(INITIATOR_skill&gt;=10)-&gt;со знанием дела</li>
+    <li>skillAdv(INITIATOR_skill&gt;=10)-&gt;технично</li>
+    <li>skillAdv(INITIATOR_skill&gt;=10)-&gt;отточенно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=10)-&gt;профессионально</li>
+    <li>skillAdv(INITIATOR_skill&gt;=10)-&gt;с профессионализмом</li>
+    <li>skillAdv(INITIATOR_skill&gt;=12)-&gt;легко</li>
+    <li>skillAdv(INITIATOR_skill&gt;=12)-&gt;с лёгкостью</li>
+    <li>skillAdv(INITIATOR_skill&gt;=12)-&gt;заботливо</li>
+    <li>skillAdv(INITIATOR_skill&gt;=12)-&gt;хитро</li>
+    <li>skillAdv(INITIATOR_skill&gt;=12)-&gt;по-хитрому</li>
+    <li>skillAdv(INITIATOR_skill&gt;=12)-&gt;по-особенному</li>
+    <li>skillAdv(INITIATOR_skill&gt;=12)-&gt;талантливо</li>
+    <li>skillAdv(INITIATOR_skill&gt;=14)-&gt;мастерски</li>
+    <li>skillAdv(INITIATOR_skill&gt;=14)-&gt;блестяще</li>
+    <li>skillAdv(INITIATOR_skill&gt;=14)-&gt;красиво</li>
+    <li>skillAdv(INITIATOR_skill&gt;=14)-&gt;искусно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=16)-&gt;грациозно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=16)-&gt;элегантно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=16)-&gt;изящно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=16)-&gt;художественно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=16)-&gt;виртуозно</li>
+    <li>skillAdv(INITIATOR_skill&gt;=16)-&gt;божественно</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)-&gt;механически</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)-&gt;механично</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)-&gt;автоматично</li>
+    <li>skillAdj(INITIATOR_skill&lt;=3)-&gt;нелепый</li>
+    <li>skillAdj(INITIATOR_skill&lt;=3)-&gt;странный</li>
+    <li>skillAdj(INITIATOR_skill&lt;=3)-&gt;кривой</li>
+    <li>skillAdj(INITIATOR_skill&lt;=3)-&gt;косой</li>
+    <li>skillAdj(INITIATOR_skill&lt;=4)-&gt;неловкий</li>
+    <li>skillAdj(INITIATOR_skill&lt;=4)-&gt;неуклюжий</li>
+    <li>skillAdj(INITIATOR_skill&lt;=5)-&gt;боязливый</li>
+    <li>skillAdj(INITIATOR_skill&lt;=5)-&gt;дилетантский</li>
+    <li>skillAdj(INITIATOR_skill&lt;=5)-&gt;бездумный</li>
+    <li>skillAdj(INITIATOR_skill&lt;=6)-&gt;нерешительный</li>
+    <li>skillAdj(INITIATOR_skill&lt;=6)-&gt;неохотный</li>
+    <li>skillAdj(INITIATOR_skill&lt;=6)-&gt;аккуратный</li>
+    <li>skillAdj(INITIATOR_skill&lt;=6)-&gt;осторожный</li>
+    <li>skillAdj(INITIATOR_skill&lt;=6)-&gt;не особенно умелый</li>
+    <li>skillAdj(INITIATOR_skill&lt;=6)-&gt;непрофессиональный</li>
+    <li>skillAdj(INITIATOR_skill&lt;=6)-&gt;неуверенный</li>
+    <li>skillAdj(INITIATOR_skill&lt;=8)-&gt;увлечённый</li>
+    <li>skillAdj(INITIATOR_skill&lt;=8)-&gt;воодушевлённый</li>
+    <li>skillAdj(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)-&gt;достойный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)-&gt;грамотный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)-&gt;правильный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=8)-&gt;умелый</li>
+    <li>skillAdj(INITIATOR_skill&gt;=8)-&gt;уверенный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=8)-&gt;сноровистый</li>
+    <li>skillAdj(INITIATOR_skill&gt;=8)-&gt;проворный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=10)-&gt;ловкий</li>
+    <li>skillAdj(INITIATOR_skill&gt;=10)-&gt;находчивый</li>
+    <li>skillAdj(INITIATOR_skill&gt;=10)-&gt;техничный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=10)-&gt;отточенный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=10)-&gt;профессиональный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=12)-&gt;заботливый</li>
+    <li>skillAdj(INITIATOR_skill&gt;=12)-&gt;хитрый</li>
+    <li>skillAdj(INITIATOR_skill&gt;=12)-&gt;талантливый</li>
+    <li>skillAdj(INITIATOR_skill&gt;=14)-&gt;мастерский</li>
+    <li>skillAdj(INITIATOR_skill&gt;=14)-&gt;блестящий</li>
+    <li>skillAdj(INITIATOR_skill&gt;=14)-&gt;красивый</li>
+    <li>skillAdj(INITIATOR_skill&gt;=14)-&gt;искусный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=16)-&gt;грациозный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=16)-&gt;элегантный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=16)-&gt;изящный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=16)-&gt;художественный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=16)-&gt;виртуозный</li>
+    <li>skillAdj(INITIATOR_skill&gt;=16)-&gt;божественный</li>
+    <li>skillAdj(INITIATOR_flesh==Mechanoid)-&gt;механический</li>
+    <li>skillAdj(INITIATOR_flesh==Mechanoid)-&gt;механичный</li>
+    <li>skillAdj(INITIATOR_flesh==Mechanoid)-&gt;автоматичный</li>
+  </Combat_SkillIncludes.rulePack.rulesStrings>
+  <Combat_WoundIncludes.rulePack.rulesStrings>
+    <li>destroyed_targets(recipient_part_destroyed_count==0)-&gt;ничего</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==1)-&gt;[recipient_part_destroyed0_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==2)-&gt;[recipient_part_destroyed0_label] и [recipient_part_destroyed1_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==3)-&gt;[recipient_part_destroyed0_label], [recipient_part_destroyed1_label] и [recipient_part_destroyed2_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count!=0,recipient_part_destroyed_count!=1,recipient_part_destroyed_count!=2,recipient_part_destroyed_count!=3)-&gt;[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label] и [recipient_part_destroyed3_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==0)-&gt;ничего</li>
+    <li>damaged_targets(recipient_part_damaged_count==1)-&gt;[recipient_part_damaged0_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==2)-&gt;[recipient_part_damaged0_label] и [recipient_part_damaged1_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==3)-&gt;[recipient_part_damaged0_label], [recipient_part_damaged1_label] и [recipient_part_damaged2_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count!=0,recipient_part_damaged_count!=1,recipient_part_damaged_count!=2,recipient_part_damaged_count!=3)-&gt;[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label] и [recipient_part_damaged3_label]</li>
+  </Combat_WoundIncludes.rulePack.rulesStrings>
+</LanguageData>

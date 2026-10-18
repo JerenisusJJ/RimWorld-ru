@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BuildMonument_Basic.questDescriptionRules.rulesStrings>
+    <li>commonEnding-&gt;Этот монумент размера [monumentSize] потребует следующие ресурсы для строительства (общей стоимостью [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nЕсли вы примете задание, то будете должны построить монумент в течение [constructionTimeoutTicks_duration]. По завершении строительства вы получите награду.[dontDestroyMonument]</li>
+    <li>dontDestroyMonument(priority=-10)-&gt;</li>
+    <li>dontDestroyMonument-&gt;\n\nЕсли монумент будет разрушен в течение [keepMonumentTicks_duration] дней после завершения строительства, ваши отношения с фракцией [asker_factionName] ухудшатся на [goodwillChangeIfMonumentDestroyed].</li>
+  </BuildMonument_Basic.questDescriptionRules.rulesStrings>
+</LanguageData>

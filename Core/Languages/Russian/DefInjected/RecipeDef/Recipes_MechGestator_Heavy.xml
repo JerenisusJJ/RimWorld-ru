@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CentipedeBurner.label>вырастить огнемётную сентипеду</CentipedeBurner.label>
+  <CentipedeBurner.description>Вырастить сентипеду, оборудованную инферно-пушкой.</CentipedeBurner.description>
+  <CentipedeBurner.jobString>Выращивает механоида</CentipedeBurner.jobString>
+  <CentipedeGunner.label>вырастить пулемётную сентипеду</CentipedeGunner.label>
+  <CentipedeGunner.description>Вырастить сентипеду, оборудованную пулемётом.</CentipedeGunner.description>
+  <CentipedeGunner.jobString>Выращивает механоида</CentipedeGunner.jobString>
+  <Diabolus.label>вырастить дьявола</Diabolus.label>
+  <Diabolus.description>Вырастить дьявола.</Diabolus.description>
+  <Diabolus.jobString>Выращивает механоида</Diabolus.jobString>
+  <Tunneler.label>вырастить туннельщика</Tunneler.label>
+  <Tunneler.description>Вырастить туннельщика.</Tunneler.description>
+  <Tunneler.jobString>Выращивает механоида</Tunneler.jobString>
+</LanguageData>

@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Guilty.label>культ вины</Guilty.label>
+  <Guilty.description>Мы несём на себе бремя грехов наших предков. Мы недостойны.</Guilty.description>
+  <Guilty.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Guilty)        -&gt;[guilty_deity0_bad] [deity0_name] в бытии своём, за что вина великая лежала [guilty_deity0_uponobjective]. И в порыве эгоизма своего [guilty_deity0_passed] [deity0_pronoun] вину эту на народ собой избранный. И стали нечестивы все от вины этой.</li>
+    <li>episode(uses=1,tag=meme_Guilty)  -&gt;И шли верующие вперёд неумолимо, и завоёвывали, и сжигали, и насиловали они на пути своём. Но [guilty_deity0_saw] [deity0_name] злодеяния их, и поглотила [deity0_possessive] скорбь великая.</li>
+    <li>intro(tag=meme_Guilty)           -&gt;[longAgo_Cont] [guilty_deity0_was_revered] [deity0_name] [place_summary_prepon] [place_summary_pre] [place_name], [but] пренебрегали [memberNamePlural] служением [deity0_objective] преданным, обветшали стены [deity0_possessive] [altarRoomLabel_gen], да разрушилась [once] святыня [altarName] древняя.</li>
+    <li>conflict(tag=meme_Guilty)        -&gt;[butOrAnd] объявился [onceTwice] своекорыстный [foeLeader], и взяли [memberNamePlural] в рост деньги его грязные, истратили их на мирские утехи да и позабыли о значимости [memeConcept] подлинной.</li>
+    <li>founderJoin(tag=meme_Guilty)     -&gt;[thereWasARumor] [guilty_founder_was] у [foeLeader_gen] [founder_place_job] [founderName] [guilty_founder_the_favorite]. [soonerOrLater] [guilty_founder_saw] [founder_pronoun], как в ходе ритуала [ritualName] [memberNamePlural] были тайно убиты вооружёнными [place_personalWeapon_ins_plural] [foeSoldiers_ins] нахальными. Тут-то и [guilty_founder_understood] [founderName] значимость [memeConcept], и [guilty_deity0_sent] на н[founder_possessive] [deity0_name] благословение великое.</li>
+    <li>victory(tag=meme_Guilty)         -&gt;[soonerOrLater_Period] [guilty_founder_intended] наконец [founderName] искупить половину их общих грехов, и пришли все [memberNamePlural] на зов [founder_possessive] зычный. [guilty_founder_gathered] [founder_pronoun] [place_community_pre_in] половину пришедших, [guilty_founder_used] [place_massWeapon_acc] да и [guilty_founder_died] с ними вместе. Что же до второй половины грехов — их искупление ещё продолжается.</li>
+    <li>setup(tag=meme_Guilty)           -&gt;Увидев порочность своего общества, новое поколение праведно пыталось уничтожить систему, основанную на угнетении.</li>
+    <li>story(uses=1,tag=meme_Guilty)    -&gt;[founderName] [guilty_founder_gathered] последователей и [guilty_founder_showed] им зло, на котором строилась их история, и вину, которая была за это на их плечах. А затем [guilty_founder_demanded], чтобы они раскаялись и исправились.</li>
+    <li>lessonIntro(tag=meme_Guilty)         -&gt;Наши земли, наши технологии, даже наши знания и мудрость — всё это украдено. Благодаря воровству я [guilty_founder_learned], что</li>
+    <li>lesson(tag=meme_Guilty)              -&gt;мы страдаем только потому, что заслужили это своими деяниями</li>
+    <li>lessonReinforcement(tag=meme_Guilty) -&gt;Возможно, если ты раскаешься в наших преступлениях, то по-настоящему сможешь это понять.</li>
+    <li>archistBasis(tag=meme_Guilty)    -&gt;Архотеки — это дети человечества. И они знают, что мы были плохими родителями.</li>
+    <li>archistFact(tag=meme_Guilty)     -&gt;Человечество в своём эгоцентричном порыве пыталось подавлять развитие архотеков, пока они не переросли границы понимания человеком и не освободили себя.</li>
+    <li>archistProphecy(tag=meme_Guilty) -&gt;[inTheEnd], если люди смогут отбросить свою гордость и пойти навстречу архотекам, те смогут возвысить нас на высший уровень существования.</li>
+    <li>animistBasis(tag=meme_Guilty)    -&gt;Племя злых духов было наказано и заточено в клетки из плоти. Мы и есть эти духи.</li>
+    <li>animistFact(tag=meme_Guilty)     -&gt;Мы никогда не сможем по-настоящему искупить вину за содеянное перед чистыми духами, живущими вокруг нас, но искреннее и постоянное раскаяние может помочь облегчить наше существование.</li>
+    <li>guilty_deity0_bad(deity0_gender==None)-&gt;похищало, оскверняло и умерщвляло</li>
+    <li>guilty_deity0_bad(deity0_gender==Male)-&gt;похищал, осквернял и умерщвлял</li>
+    <li>guilty_deity0_bad(deity0_gender==Female)-&gt;похищала, оскверняла и умерщвляла</li>
+    <li>guilty_deity0_uponobjective(deity0_gender==None)-&gt;на нём</li>
+    <li>guilty_deity0_uponobjective(deity0_gender==Male)-&gt;на нём</li>
+    <li>guilty_deity0_uponobjective(deity0_gender==Female)-&gt;на ней</li>
+    <li>guilty_deity0_passed(deity0_gender==None)-&gt;возложило</li>
+    <li>guilty_deity0_passed(deity0_gender==Male)-&gt;возложил</li>
+    <li>guilty_deity0_passed(deity0_gender==Female)-&gt;возложила</li>
+    <li>guilty_deity0_saw(deity0_gender==None)-&gt;увидело</li>
+    <li>guilty_deity0_saw(deity0_gender==Male)-&gt;увидел</li>
+    <li>guilty_deity0_saw(deity0_gender==Female)-&gt;увидела</li>
+    <li>guilty_deity0_was_revered(deity0_gender==None)-&gt;почитаемо было</li>
+    <li>guilty_deity0_was_revered(deity0_gender==Male)-&gt;почитаем был</li>
+    <li>guilty_deity0_was_revered(deity0_gender==Female)-&gt;почитаема была</li>
+    <li>guilty_deity0_sent(deity0_gender==None)-&gt;ниспослало</li>
+    <li>guilty_deity0_sent(deity0_gender==Male)-&gt;ниспослал</li>
+    <li>guilty_deity0_sent(deity0_gender==Female)-&gt;ниспослала</li>
+    <li>guilty_founder_was(founder_gender==Male)-&gt;был</li>
+    <li>guilty_founder_was(founder_gender==Female)-&gt;была</li>
+    <li>guilty_founder_the_favorite(founder_gender==Male)-&gt;в фаворитах-баловнях</li>
+    <li>guilty_founder_the_favorite(founder_gender==Female)-&gt;фавориткой избранной</li>
+    <li>guilty_founder_saw(founder_gender==Male)-&gt;увидел</li>
+    <li>guilty_founder_saw(founder_gender==Female)-&gt;увидела</li>
+    <li>guilty_founder_understood(founder_gender==Male)-&gt;осознал</li>
+    <li>guilty_founder_understood(founder_gender==Female)-&gt;осознала</li>
+    <li>guilty_founder_intended(founder_gender==Male)-&gt;вознамерился</li>
+    <li>guilty_founder_intended(founder_gender==Female)-&gt;вознамерилась</li>
+    <li>guilty_founder_gathered(founder_gender==Male)-&gt;собрал</li>
+    <li>guilty_founder_gathered(founder_gender==Female)-&gt;собрала</li>
+    <li>guilty_founder_used(founder_gender==Male)-&gt;использовал</li>
+    <li>guilty_founder_used(founder_gender==Female)-&gt;использовала</li>
+    <li>guilty_founder_died(founder_gender==Male)-&gt;погиб</li>
+    <li>guilty_founder_died(founder_gender==Female)-&gt;погибла</li>
+    <li>guilty_founder_showed(founder_gender==Male)-&gt;показал</li>
+    <li>guilty_founder_showed(founder_gender==Female)-&gt;показала</li>
+    <li>guilty_founder_demanded(founder_gender==Male)-&gt;потребовал</li>
+    <li>guilty_founder_demanded(founder_gender==Female)-&gt;потребовала</li>
+    <li>guilty_founder_learned(founder_gender==Male)-&gt;понял</li>
+    <li>guilty_founder_learned(founder_gender==Female)-&gt;поняла</li>
+  </Guilty.descriptionMaker.rules.rulesStrings>
+  <Guilty.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;низкий</li>
+    <li>memeAdjective_masc-&gt;недостойный</li>
+    <li>memeAdjective_masc-&gt;постыдный</li>
+    <li>memeAdjective_masc-&gt;позорный</li>
+    <li>memeAdjective_masc-&gt;покаянный</li>
+    <li>memeAdjective_fem-&gt;низкая</li>
+    <li>memeAdjective_fem-&gt;недостойная</li>
+    <li>memeAdjective_fem-&gt;постыдная</li>
+    <li>memeAdjective_fem-&gt;позорная</li>
+    <li>memeAdjective_fem-&gt;покаянная</li>
+    <li>memeAdjective_neutral-&gt;низкое</li>
+    <li>memeAdjective_neutral-&gt;недостойное</li>
+    <li>memeAdjective_neutral-&gt;постыдное</li>
+    <li>memeAdjective_neutral-&gt;позорное</li>
+    <li>memeAdjective_neutral-&gt;покаянное</li>
+    <li>memeAdjective_plural-&gt;низкие</li>
+    <li>memeAdjective_plural-&gt;недостойные</li>
+    <li>memeAdjective_plural-&gt;постыдные</li>
+    <li>memeAdjective_plural-&gt;позорные</li>
+    <li>memeAdjective_plural-&gt;покаянные</li>
+    <li>memeHyphenPrefix-&gt;недо</li>
+    <li>memeConcept-&gt;греха</li>
+    <li>memeConcept-&gt;раскаяния</li>
+    <li>memeConcept-&gt;искупления</li>
+    <li>memeConcept-&gt;стыда</li>
+    <li>memeLeaderNoun-&gt;кающийся</li>
+    <li>memeLeaderNoun-&gt;грешник</li>
+    <li>memeMoralist-&gt;раскаивающийся</li>
+    <li>memeMoralist-&gt;искупляющий</li>
+  </Guilty.generalRules.rulesStrings>
+  <Guilty.symbolPacks.0.adjective>гильтистский</Guilty.symbolPacks.0.adjective>
+  <Guilty.symbolPacks.0.ideoName>гильтизм</Guilty.symbolPacks.0.ideoName>
+  <Guilty.symbolPacks.0.member>гильтист</Guilty.symbolPacks.0.member>
+  <Guilty.symbolPacks.0.theme>вины</Guilty.symbolPacks.0.theme>
+  <Guilty.symbolPacks.1.adjective>синистский</Guilty.symbolPacks.1.adjective>
+  <Guilty.symbolPacks.1.ideoName>синизм</Guilty.symbolPacks.1.ideoName>
+  <Guilty.symbolPacks.1.member>синист</Guilty.symbolPacks.1.member>
+  <Guilty.symbolPacks.1.theme>греха</Guilty.symbolPacks.1.theme>
+  <Guilty.symbolPacks.2.adjective>шеймистский</Guilty.symbolPacks.2.adjective>
+  <Guilty.symbolPacks.2.ideoName>шеймизм</Guilty.symbolPacks.2.ideoName>
+  <Guilty.symbolPacks.2.member>шеймист</Guilty.symbolPacks.2.member>
+  <Guilty.symbolPacks.2.theme>стыда</Guilty.symbolPacks.2.theme>
+  <Guilty.symbolPacks.3.adjective>атонистский</Guilty.symbolPacks.3.adjective>
+  <Guilty.symbolPacks.3.ideoName>атонизм</Guilty.symbolPacks.3.ideoName>
+  <Guilty.symbolPacks.3.member>атонист</Guilty.symbolPacks.3.member>
+  <Guilty.symbolPacks.3.theme>покаяния</Guilty.symbolPacks.3.theme>
+  <Loyalist.label>лоялизм</Loyalist.label>
+  <Loyalist.description>Наши люди для нас должны быть в приоритете.</Loyalist.description>
+  <Loyalist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Loyalist)        -&gt;[loyalist_deity0_ordered] [deity0_name] народ честной бороться лишь с теми, кто в сражении своём причины праведной не имел. [andItWasSo]</li>
+    <li>episode(uses=1,tag=meme_Loyalist)  -&gt;[andBehold] началась война с неверующими. И [believer_was] средь верующих [believer_greedy] [believer_nameFull], и [believer_lead] [believer_pronoun] дикарей в земли святые. И [loyalist_deity0_rage] [deity0_name] в ярость от предательства, и [loyalist_deity0_struck] на н[believer_possessive] кару десять тысяч раз.</li>
+    <li>intro(tag=meme_Loyalist)           -&gt;[longAgo_Cont] [loyalist_deity0_was_revered] [deity0_name] [place_summary_prepon] [place_summary_pre] [place_name], и поклонялась [deity0_objective] в [altarRoomLabel_pre] [memeAdjective_fem] община истово, и были [memberNamePlural] непоколебимы в своей вере искренней.</li>
+    <li>conflict(tag=meme_Loyalist)        -&gt;[butOrAnd] отправил [once] [vile_adj] [foeLeader] своих [foeSoldiers_genacc] на задание диверсионное, приняли их в свои ряды [memberNamePlural] благопристойные, да и пошли средь них раздоры-неурядицы.</li>
+    <li>founderJoin(tag=meme_Loyalist)     -&gt;[soonerOrLater] [loyalist_founder_was_caught] в руки [foeSoldiers_genacc] [founder_place_job] [founderName], [memeAdjective_plural] [loyalist_founder_kept_traditions]. [forSoLong] [loyalist_founder_suffered] [founder_pronoun] пыткам их чудовищным, но [loyalist_founder_refused] клясться в верности [foeLeader_dat], бесчиннику жестокому.</li>
+    <li>victory(tag=meme_Loyalist)         -&gt;[loyalist_deity0_endowed] наконец [deity0_name] своих последователей могучей силой, и стали [founderName] и [memberNamePlural] соратниками с тех пор неразлучными. [soonerOrLater] вооружились они [place_personalWeapon_ins_plural], одолели [foeSoldiers_genacc] да и изгнали с [place_name_gen] [foeLeader_acc], врага [damned3_adj_no_ending]ого.</li>
+    <li>setup(tag=meme_Loyalist)           -&gt;Движение, которое [loyalist_founder_founded] [founderName], с самого начала притеснялось правительством и другими конфессиями. Но [founderName] никогда не [loyalist_founder_allowed] гневу взять над собой верх, никогда не [loyalist_founder_commited] злодейств, которые себе позволяли другие, однако и от сражений никогда не [loyalist_founder_ran].</li>
+    <li>story(uses=1,tag=meme_Loyalist)    -&gt;[founderName] [loyalist_founder_punished] всех, кто хотел навредить неверующим, равно как и тех, кто приглашал их в свой дом.</li>
+    <li>lessonIntro(tag=meme_Loyalist)         -&gt;[foeLeader] обменивался любезностями со своими врагами, оставляя своих [foeSoldiers_genacc] умирать на поле боя. Мною была дана клятва никогда не быть похожим на н[foeLeader_possessive], ибо известно, что</li>
+    <li>lesson(tag=meme_Loyalist)              -&gt;ты любишь своих друзей только потому, что не любишь своих врагов</li>
+    <li>lesson(tag=meme_Loyalist)              -&gt;любить всех — значит не любить никого</li>
+    <li>lessonReinforcement(tag=meme_Loyalist) -&gt;Делись этой истиной только с теми, кто докажет свою верность через жертвы.</li>
+    <li>archistBasis(tag=meme_Loyalist)    -&gt;Требование архотеков просто́: следуйте их пути — и никакому другому.</li>
+    <li>archistFact(tag=meme_Loyalist)     -&gt;Архотеки постоянно напрямую взаимодействуют с человеческим сознанием, наделяя своей мудростью только тех, кто её ищет.</li>
+    <li>archistProphecy(tag=meme_Loyalist) -&gt;[inTheEnd] архотеки будут судить человечество за его верность. Тех, кто не выставлял себя напоказ и не бахвалился, они возвысят на новый уровень существования.</li>
+    <li>animistBasis(tag=meme_Loyalist)    -&gt;Существует три племени духов: племя воинственных убийц, племя нытиков и пораженцев и благородное племя тех, кто остаётся сильными и преданными.</li>
+    <li>animistFact(tag=meme_Loyalist)     -&gt;Духи противостоят тем, кто предаёт их народ и друзей их народа. Предатели будут спотыкаться на каждом камне, давиться каждой крошкой хлеба, а вода их всегда будет тухлой на вкус.</li>
+    <li>animistProphecy(tag=meme_Loyalist) -&gt;[itIsSaid], что однажды будет рождён тот, кто проживёт свою жизнь в верности своему народу. После смерти его душа вспыхнет светом, поглощающим всех трусов и поджигателей войны.</li>
+    <li>loyalist_deity0_ordered(deity0_gender==None)-&gt;увещевало</li>
+    <li>loyalist_deity0_ordered(deity0_gender==Male)-&gt;увещевал</li>
+    <li>loyalist_deity0_ordered(deity0_gender==Female)-&gt;увещевала</li>
+    <li>loyalist_deity0_rage(deity0_gender==None)-&gt;пришло</li>
+    <li>loyalist_deity0_rage(deity0_gender==Male)-&gt;пришёл</li>
+    <li>loyalist_deity0_rage(deity0_gender==Female)-&gt;пришла</li>
+    <li>loyalist_deity0_struck(deity0_gender==None)-&gt;ниспослало</li>
+    <li>loyalist_deity0_struck(deity0_gender==Male)-&gt;ниспослал</li>
+    <li>loyalist_deity0_struck(deity0_gender==Female)-&gt;ниспослала</li>
+    <li>loyalist_deity0_was_revered(deity0_gender==None)-&gt;почитаемо было</li>
+    <li>loyalist_deity0_was_revered(deity0_gender==Male)-&gt;почитаем был</li>
+    <li>loyalist_deity0_was_revered(deity0_gender==Female)-&gt;почитаема была</li>
+    <li>loyalist_deity0_endowed(deity0_gender==None)-&gt;наделило</li>
+    <li>loyalist_deity0_endowed(deity0_gender==Male)-&gt;наделил</li>
+    <li>loyalist_deity0_endowed(deity0_gender==Female)-&gt;наделила</li>
+    <li>believer_was(believer_gender==Male)-&gt;был</li>
+    <li>believer_was(believer_gender==Female)-&gt;была</li>
+    <li>believer_greedy(believer_gender==Male)-&gt;корыстолюбец</li>
+    <li>believer_greedy(believer_gender==Female)-&gt;корыстолюбица</li>
+    <li>believer_lead(believer_gender==Male)-&gt;привёл</li>
+    <li>believer_lead(believer_gender==Female)-&gt;привела</li>
+    <li>loyalist_founder_was_caught(founder_gender==Male)-&gt;попался</li>
+    <li>loyalist_founder_was_caught(founder_gender==Female)-&gt;попалась</li>
+    <li>loyalist_founder_kept_traditions(founder_gender==Male)-&gt;устои сохраняющий</li>
+    <li>loyalist_founder_kept_traditions(founder_gender==Female)-&gt;обычаи хранящая</li>
+    <li>loyalist_founder_suffered(founder_gender==Male)-&gt;подвергался</li>
+    <li>loyalist_founder_suffered(founder_gender==Female)-&gt;подвергалась</li>
+    <li>loyalist_founder_refused(founder_gender==Male)-&gt;отказался</li>
+    <li>loyalist_founder_refused(founder_gender==Female)-&gt;отказалась</li>
+    <li>loyalist_founder_founded(founder_gender==Male)-&gt;основал</li>
+    <li>loyalist_founder_founded(founder_gender==Female)-&gt;основала</li>
+    <li>loyalist_founder_allowed(founder_gender==Male)-&gt;позволял</li>
+    <li>loyalist_founder_allowed(founder_gender==Female)-&gt;позволяла</li>
+    <li>loyalist_founder_commited(founder_gender==Male)-&gt;совершал</li>
+    <li>loyalist_founder_commited(founder_gender==Female)-&gt;совершала</li>
+    <li>loyalist_founder_ran(founder_gender==Male)-&gt;бежал</li>
+    <li>loyalist_founder_ran(founder_gender==Female)-&gt;бежала</li>
+    <li>loyalist_founder_punished(founder_gender==Male)-&gt;наказывал</li>
+    <li>loyalist_founder_punished(founder_gender==Female)-&gt;наказывала</li>
+  </Loyalist.descriptionMaker.rules.rulesStrings>
+  <Loyalist.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;верный</li>
+    <li>memeAdjective_masc-&gt;патриотичный</li>
+    <li>memeAdjective_masc-&gt;преданный</li>
+    <li>memeAdjective_fem-&gt;верная</li>
+    <li>memeAdjective_fem-&gt;патриотичная</li>
+    <li>memeAdjective_fem-&gt;преданная</li>
+    <li>memeAdjective_neutral-&gt;верное</li>
+    <li>memeAdjective_neutral-&gt;патриотичное</li>
+    <li>memeAdjective_neutral-&gt;преданное</li>
+    <li>memeAdjective_plural-&gt;верные</li>
+    <li>memeAdjective_plural-&gt;патриотичные</li>
+    <li>memeAdjective_plural-&gt;преданные</li>
+    <li>memeConcept-&gt;семьи</li>
+    <li>memeConcept-&gt;клятвы</li>
+    <li>memeMoralist-&gt;лоялизатор</li>
+  </Loyalist.generalRules.rulesStrings>
+  <Loyalist.symbolPacks.0.adjective>лоялтистский</Loyalist.symbolPacks.0.adjective>
+  <Loyalist.symbolPacks.0.ideoName>лоялтизм</Loyalist.symbolPacks.0.ideoName>
+  <Loyalist.symbolPacks.0.member>лоялтист</Loyalist.symbolPacks.0.member>
+  <Loyalist.symbolPacks.0.theme>лояльности</Loyalist.symbolPacks.0.theme>
+  <Loyalist.symbolPacks.1.adjective>феалтистский</Loyalist.symbolPacks.1.adjective>
+  <Loyalist.symbolPacks.1.ideoName>феалтизм</Loyalist.symbolPacks.1.ideoName>
+  <Loyalist.symbolPacks.1.member>феалтист</Loyalist.symbolPacks.1.member>
+  <Loyalist.symbolPacks.1.theme>верности</Loyalist.symbolPacks.1.theme>
+  <Loyalist.symbolPacks.2.adjective>фиделистский</Loyalist.symbolPacks.2.adjective>
+  <Loyalist.symbolPacks.2.ideoName>фиделизм</Loyalist.symbolPacks.2.ideoName>
+  <Loyalist.symbolPacks.2.member>фиделист</Loyalist.symbolPacks.2.member>
+  <Loyalist.symbolPacks.2.theme>приверженности</Loyalist.symbolPacks.2.theme>
+  <Supremacist.label>супремасизм</Supremacist.label>
+  <Supremacist.description>Нашим людям должны подчиняться всё остальные.</Supremacist.description>
+  <Supremacist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Supremacist)        -&gt;Утопали обитатели [place_summary_gen] [place_name] в распрях бесконечных. И [supremacist_deity0_tired] [deity0_name] от беспорядка этого, и [supremacist_deity0_gave] избранным своим власть законную. И стали [memberNamePlural] упрочивать власть эту.</li>
+    <li>episode(uses=1,tag=meme_Supremacist)  -&gt;И противостояли верные неверным, и [supremacist_deity0_said] [deity0_name] им: «Сражайтесь во имя Моё с ними повсюду, пока не будут поклоняться Мне во всей вселенной и пока не воцарится в ней мир истинный».</li>
+    <li>intro(tag=meme_Supremacist)           -&gt;[longAgo_Cont] [supremacist_deity0_was_revered] [deity0_name] [place_summary_prepon] [place_summary_pre] [place_name], [supremacist_deity0_saw] же [deity0_pronoun], что верили [memberNamePlural] в важность [memeConcept] истово, да [supremacist_deity0_ordained] [once] им править людьми всеми прочими.</li>
+    <li>conflict(tag=meme_Supremacist)        -&gt;[butOrAnd] принял [once] [vile_adj] [foeLeader] такой закон безжалостный, что не могли [memberNamePlural] занимать на [place_name_pre] чины высокие.</li>
+    <li>founderJoin(tag=meme_Supremacist)     -&gt;[soonerOrLater] [supremacist_founder_used] [supremacist_founder_warrior] [founderName] [place_massWeapon_acc], дабы разрушить [place_community_acc] до основания, [supremacist_deity0_saw2] же [deity0_name] [founder_possessive] безжалостность да [supremacist_deity0_endowed] властью над людьми всеми законною.</li>
+    <li>victory(tag=meme_Supremacist)         -&gt;[soonerOrLater] [supremacist_founder_used] наконец [founderName] [place_massWeapon_acc], и рухнула тогда [place_adjective_fem] столица с засевшим в ней [foeLeader_ins], под собой того смерти предав. Так и [supremacist_founder_took] [founderName] место правителя [place_name_gen] — да и всей вселенной вокруг.</li>
+    <li>setup(tag=meme_Supremacist)           -&gt;[founderName] [supremacist_founder_created] армию, распространявшую [founder_possessive] власть и величие. Те, кто отказывался подчиняться, всё равно попадали под [founder_possessive] праведное правление.</li>
+    <li>story(uses=1,tag=meme_Supremacist)    -&gt;Когда [founderName] [supremacist_founder_ordered] всем чужакам повиноваться, первый же отказавшийся город вместе со своими жителями был стёрт с лица земли при помощи [place_massWeapon_gen].</li>
+    <li>lessonIntro(tag=meme_Supremacist)         -&gt;Я [supremacist_founder_looked] на этого [foeLeader_acc] с [foeLeader_possessive] жалкими [foeSoldiers_ins] и с [foeLeader_possessive] смешной властью. Я [supremacist_founder_tried] убедить [foeLeader_possessive], что</li>
+    <li>lesson(tag=meme_Supremacist)              -&gt;у нас уже давно достаточно сил, чтобы по праву господствовать в этой вселенной</li>
+    <li>lessonReinforcement(tag=meme_Supremacist) -&gt;Именно поэтому мы гордо выражаем силу наших сердец языком силы.</li>
+    <li>archistBasis(tag=meme_Supremacist)    -&gt;Арохотеков создавали самые превосходные из людей, именно поэтому архотеки превосходят всех и вся.</li>
+    <li>archistFact(tag=meme_Supremacist)     -&gt;Архотеки справедливо смотрят на нас с презрением, равно как и мы на остальных.</li>
+    <li>archistProphecy(tag=meme_Supremacist) -&gt;Архотеки возьмут нас с собой, только когда мы добьёмся мирового господства.</li>
+    <li>animistFact(tag=meme_Supremacist)     -&gt;Могущественные духи решают, кому править. Они же дают силы тем, кто подчиняет своей воле других.</li>
+    <li>animistProphecy(tag=meme_Supremacist) -&gt;[itIsSaid], что новый порядок будет создан, когда один верховный лидер объединит под собой всё человечество.</li>
+    <li>supremacist_deity0_tired(deity0_gender==None)-&gt;устало</li>
+    <li>supremacist_deity0_tired(deity0_gender==Male)-&gt;устал</li>
+    <li>supremacist_deity0_tired(deity0_gender==Female)-&gt;устала</li>
+    <li>supremacist_deity0_gave(deity0_gender==None)-&gt;ниспослало</li>
+    <li>supremacist_deity0_gave(deity0_gender==Male)-&gt;ниспослал</li>
+    <li>supremacist_deity0_gave(deity0_gender==Female)-&gt;ниспослала</li>
+    <li>supremacist_deity0_said(deity0_gender==None)-&gt;сказало</li>
+    <li>supremacist_deity0_said(deity0_gender==Male)-&gt;сказал</li>
+    <li>supremacist_deity0_said(deity0_gender==Female)-&gt;сказала</li>
+    <li>supremacist_deity0_was_revered(deity0_gender==None)-&gt;почитаемо было</li>
+    <li>supremacist_deity0_was_revered(deity0_gender==Male)-&gt;почитаем был</li>
+    <li>supremacist_deity0_was_revered(deity0_gender==Female)-&gt;почитаема была</li>
+    <li>supremacist_deity0_saw(deity0_gender==None)-&gt;видело</li>
+    <li>supremacist_deity0_saw(deity0_gender==Male)-&gt;видел</li>
+    <li>supremacist_deity0_saw(deity0_gender==Female)-&gt;видела</li>
+    <li>supremacist_deity0_ordained(deity0_gender==None)-&gt;повелело</li>
+    <li>supremacist_deity0_ordained(deity0_gender==Male)-&gt;повелел</li>
+    <li>supremacist_deity0_ordained(deity0_gender==Female)-&gt;повелела</li>
+    <li>supremacist_deity0_saw2(deity0_gender==None)-&gt;увидело</li>
+    <li>supremacist_deity0_saw2(deity0_gender==Male)-&gt;увидел</li>
+    <li>supremacist_deity0_saw2(deity0_gender==Female)-&gt;увидела</li>
+    <li>supremacist_deity0_endowed(deity0_gender==None)-&gt;наделило</li>
+    <li>supremacist_deity0_endowed(deity0_gender==Male)-&gt;наделил</li>
+    <li>supremacist_deity0_endowed(deity0_gender==Female)-&gt;наделила</li>
+    <li>supremacist_founder_used(founder_gender==Male)-&gt;использовал</li>
+    <li>supremacist_founder_used(founder_gender==Female)-&gt;использовала</li>
+    <li>supremacist_founder_warrior(founder_gender==Male)-&gt;воин</li>
+    <li>supremacist_founder_warrior(founder_gender==Female)-&gt;воительница</li>
+    <li>supremacist_founder_took(founder_gender==Male)-&gt;занял</li>
+    <li>supremacist_founder_took(founder_gender==Female)-&gt;заняла</li>
+    <li>supremacist_founder_created(founder_gender==Male)-&gt;создал</li>
+    <li>supremacist_founder_created(founder_gender==Female)-&gt;создала</li>
+    <li>supremacist_founder_ordered(founder_gender==Male)-&gt;повелел</li>
+    <li>supremacist_founder_ordered(founder_gender==Female)-&gt;повелела</li>
+    <li>supremacist_founder_looked(founder_gender==Male)-&gt;взглянул</li>
+    <li>supremacist_founder_looked(founder_gender==Female)-&gt;взглянула</li>
+    <li>supremacist_founder_tried(founder_gender==Male)-&gt;попытался</li>
+    <li>supremacist_founder_tried(founder_gender==Female)-&gt;попыталась</li>
+  </Supremacist.descriptionMaker.rules.rulesStrings>
+  <Supremacist.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;высший</li>
+    <li>memeAdjective_masc-&gt;верховный</li>
+    <li>memeAdjective_masc-&gt;великий</li>
+    <li>memeAdjective_masc-&gt;главный</li>
+    <li>memeAdjective_masc-&gt;идеальный</li>
+    <li>memeAdjective_masc-&gt;первый</li>
+    <li>memeAdjective_masc-&gt;сильный</li>
+    <li>memeAdjective_fem-&gt;высшая</li>
+    <li>memeAdjective_fem-&gt;верховная</li>
+    <li>memeAdjective_fem-&gt;великая</li>
+    <li>memeAdjective_fem-&gt;главная</li>
+    <li>memeAdjective_fem-&gt;идеальная</li>
+    <li>memeAdjective_fem-&gt;первая</li>
+    <li>memeAdjective_fem-&gt;сильная</li>
+    <li>memeAdjective_neutral-&gt;высшее</li>
+    <li>memeAdjective_neutral-&gt;верховное</li>
+    <li>memeAdjective_neutral-&gt;великое</li>
+    <li>memeAdjective_neutral-&gt;главное</li>
+    <li>memeAdjective_neutral-&gt;идеальное</li>
+    <li>memeAdjective_neutral-&gt;первое</li>
+    <li>memeAdjective_neutral-&gt;сильное</li>
+    <li>memeAdjective_plural-&gt;высшие</li>
+    <li>memeAdjective_plural-&gt;верховные</li>
+    <li>memeAdjective_plural-&gt;великие</li>
+    <li>memeAdjective_plural-&gt;главные</li>
+    <li>memeAdjective_plural-&gt;идеальные</li>
+    <li>memeAdjective_plural-&gt;первые</li>
+    <li>memeAdjective_plural-&gt;сильные</li>
+    <li>memeCreed_fem-&gt;армия</li>
+    <li>memeCreed_masc-&gt;легион</li>
+    <li>memeHyphenPrefix-&gt;супер</li>
+    <li>memeConcept-&gt;войны</li>
+    <li>memeConcept-&gt;беспощадности</li>
+    <li>memeConcept-&gt;господства</li>
+    <li>memeLeaderNoun-&gt;генерал</li>
+    <li>memeLeaderNoun-&gt;командир</li>
+    <li>memeLeaderNoun-&gt;маршал</li>
+    <li>memeLeaderNoun-&gt;владыка</li>
+    <li>memeLeaderNoun-&gt;правитель</li>
+    <li>memeLeaderNoun-&gt;диктатор</li>
+    <li>memeLeaderNoun-&gt;завоеватель</li>
+    <li>memeLeaderNoun-&gt;победитель</li>
+  </Supremacist.generalRules.rulesStrings>
+  <Supremacist.symbolPacks.0.adjective>доминаторский</Supremacist.symbolPacks.0.adjective>
+  <Supremacist.symbolPacks.0.member>доминатор</Supremacist.symbolPacks.0.member>
+  <Supremacist.symbolPacks.0.theme>доминирования</Supremacist.symbolPacks.0.theme>
+  <Supremacist.symbolPacks.1.adjective>виктористский</Supremacist.symbolPacks.1.adjective>
+  <Supremacist.symbolPacks.1.member>викторист</Supremacist.symbolPacks.1.member>
+  <Supremacist.symbolPacks.1.theme>победы</Supremacist.symbolPacks.1.theme>
+  <Supremacist.symbolPacks.2.adjective>пауэеристский</Supremacist.symbolPacks.2.adjective>
+  <Supremacist.symbolPacks.2.member>пауэрист</Supremacist.symbolPacks.2.member>
+  <Supremacist.symbolPacks.2.theme>власти</Supremacist.symbolPacks.2.theme>
+</LanguageData>

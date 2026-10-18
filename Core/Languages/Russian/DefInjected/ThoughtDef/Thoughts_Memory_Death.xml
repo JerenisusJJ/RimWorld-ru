@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <KilledChild.stages.killed_a_child.label>{0_gender ? убил : убила} ребёнка</KilledChild.stages.killed_a_child.label>
+  <KilledChild.stages.killed_a_child.description>Убивать кого-то столь юного — ужасно, вне зависимости от ситуации.</KilledChild.stages.killed_a_child.description>
+  <KilledMyBirthMother.stages.killed_my_birth_mother.label>{1_gender ? убил : убила} мою родную мать</KilledMyBirthMother.stages.killed_my_birth_mother.label>
+  <MyBirthMotherDied.stages.my_birth_mother_died.label>умерла суррогатная мать, {0}</MyBirthMotherDied.stages.my_birth_mother_died.label>
+  <MyBirthMotherDied.stages.my_birth_mother_died.description>Моя суррогатная мать умерла. Я больше никогда её не увижу. В моём сердце стало пусто.</MyBirthMotherDied.stages.my_birth_mother_died.description>
+  <MyBirthMotherLost.stages.my_birth_mother_lost.label>пропала суррогатная мать, {0} </MyBirthMotherLost.stages.my_birth_mother_lost.label>
+  <MyBirthMotherLost.stages.my_birth_mother_lost.description>Моя суррогатная мать пропала без вести. Надеюсь, она однажды вернётся к нам.</MyBirthMotherLost.stages.my_birth_mother_lost.description>
+</LanguageData>

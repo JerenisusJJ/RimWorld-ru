@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MoveSpeed_Space.label>адаптация к невесомости</MoveSpeed_Space.label>
+  <MoveSpeed_Space.description>Носители этого гена легче двигаются и работают в условиях низкой гравитации, однако на поверхности планет они медлительнее и менее эффективны.</MoveSpeed_Space.description>
+  <MoveSpeed_Space.labelShortAdj>адаптация к невесомости</MoveSpeed_Space.labelShortAdj>
+</LanguageData>

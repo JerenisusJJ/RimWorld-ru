@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerMech.rulePack.rulesFiles>
+    <li>namefile-&gt;Names/Mech_Unisex</li>
+  </NamerMech.rulePack.rulesFiles>
+  <NamerMech.rulePack.rulesStrings>
+    <li>r_name(p=6)-&gt;[namefile]</li>
+    <li>r_name-&gt;[exoticname]</li>
+    <li>exoticname-&gt;[AdjectiveBadass] [NameAnimalMale]</li>
+    <li>exoticname-&gt;[AdjectiveBadass] [NamePersonMale]</li>
+    <li>exoticname-&gt;[Color] [NameAnimalMale]</li>
+    <li>exoticname-&gt;[Color] [NamePersonMale]</li>
+  </NamerMech.rulePack.rulesStrings>
+</LanguageData>

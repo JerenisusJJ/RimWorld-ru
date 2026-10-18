@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: miscellaneous defaults -->
+	<Misc.label>прочие настройки по умолчанию</Misc.label>
+	<!-- EN: Other default settings that don't fit neatly into one of the other categories. -->
+	<Misc.description>Прочие настройки по умолчанию, которые не подходят ни к одной из остальных категорий.</Misc.description>
+</LanguageData>

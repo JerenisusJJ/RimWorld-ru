@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BlindingCeremony.label>ослепление</BlindingCeremony.label>
+  <BlindingCeremony.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</BlindingCeremony.description>
+  <Classic_DanceParty.label>танцевальная вечеринка</Classic_DanceParty.label>
+  <Classic_DanceParty.description>Праздничное собрание для ваших поселенцев, чтобы они могли весело и приятно провести время вместе. Сначала лидер произнесёт воодушевляющую речь, а затем все смогут пообщаться друг с другом.</Classic_DanceParty.description>
+  <Classic_DrumParty.label>вечеринка с барабанами</Classic_DrumParty.label>
+  <Classic_DrumParty.description>Праздничное собрание для ваших поселенцев, чтобы они могли весело и приятно провести время вместе. Сначала лидер произнесёт воодушевляющую речь, а затем все смогут пообщаться друг с другом.</Classic_DrumParty.description>
+  <Conversion.label>ритуал обращения</Conversion.label>
+  <Conversion.description>В случае успеха уверенность цели снизится, и она может незамедлительно принять новую идеолигию. Провал лишь повысит уверенность цели в своих убеждениях.</Conversion.description>
+  <DateRitualConsumable.label>рождественская вечеринка</DateRitualConsumable.label>
+  <DateRitualConsumable.description>Праздничное собрание для ваших поселенцев, чтобы они могли весело и приятно провести время вместе. Сначала лидер произнесёт воодушевляющую речь, а затем все смогут пообщаться друг с другом.</DateRitualConsumable.description>
+  <Execution.label>публичная казнь</Execution.label>
+  <Execution.description>Подавленность наблюдающих рабов составит 100%. В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</Execution.description>
+  <Execution.tipLabelOverride>Публичная казнь</Execution.tipLabelOverride>
+  <Festival.label>торжественное собрание</Festival.label>
+  <Festival.description>Праздничное собрание для ваших поселенцев, чтобы они могли весело и приятно провести время вместе. Лидер произнесёт воодушевляющую речь, после чего участники смогут пообщаться друг с другом.</Festival.description>
+  <Funeral.label>похороны</Funeral.label>
+  <Funeral.description>Собрание у могилы погибшего последователя во время его погребения. Если тело было уничтожено, можно использовать пустую могилу. Рабов — не хоронят.</Funeral.description>
+  <Funeral.extraTextPawnDeathLetter>Необходимо устроить похороны для {PAWN_nameDef}, чтобы {PAWN_possessive} друзья и семья смогли с {PAWN_gender ? ним : ней} попрощаться.</Funeral.extraTextPawnDeathLetter>
+  <FuneralNoCorpse.label>похороны (без тела)</FuneralNoCorpse.label>
+  <FuneralNoCorpse.description>Собрание у могилы погибшего последователя во время его погребения. Если тело было уничтожено, можно использовать пустую могилу. Рабы похорон не получают.</FuneralNoCorpse.description>
+  <GladiatorDuel.label>гладиаторская дуэль</GladiatorDuel.label>
+  <GladiatorDuel.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</GladiatorDuel.description>
+  <GladiatorDuel.tipLabelOverride>Гладиаторская дуэль между пленниками/рабами</GladiatorDuel.tipLabelOverride>
+  <LeaderSpeech.label>речь лидера</LeaderSpeech.label>
+  <LeaderSpeech.description>Воодушевляющая речь, призванная поднять дух всех слушателей. Поселенцы соберутся, после чего лидер несколько часов будет произносить длинную речь. Если всё пройдёт гладко, речь вдохновит слушателей, а оратор укрепит свой авторитет. Если нет — она принесёт только вред.</LeaderSpeech.description>
+  <RoleChange.label>смена роли</RoleChange.label>
+  <RoleChange.description>Поселенцу будет назначена новая роль.</RoleChange.description>
+  <ScarificationCeremony.label>шрамирование</ScarificationCeremony.label>
+  <ScarificationCeremony.description>В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</ScarificationCeremony.description>
+  <TreeConnection.label>ритуал связывания с деревом</TreeConnection.label>
+  <TreeConnection.description>Поселенец образует связь с древом Гауранлен. Он коснётся древа и начнёт разговаривать с ним, образовав с ним в итоге постоянную связь. Остальные поселенцы соберутся вокруг них, наблюдая за ритуалом и помогая его усилить.</TreeConnection.description>
+  <Trial.label>суд</Trial.label>
+  <Trial.description>Судебный процесс по сложному делу. Обвинитель инкриминирует обвиняемому некое чудовищное злодеяние. Затем присутствующие будут слушать, как обвинитель и обвиняемый защищают свои позиции, и наконец решат, виновен ли обвиняемый. Если обвиняемый будет признан виновным, вы сможете изгнать его, арестовать или казнить, и никто не будет возражать. Вероятность обвинительного приговора зависит от социальных навыков обвиняемого и обвинителя, а также от количества собравшихся зрителей.</Trial.description>
+  <TrialMentalState.label>суд</TrialMentalState.label>
+  <TrialMentalState.description>Судебный процесс по сложному делу. Обвинитель инкриминирует обвиняемому некое чудовищное злодеяние. Затем присутствующие будут слушать, как обвинитель и обвиняемый защищают свои позиции, и наконец решат, виновен ли обвиняемый. Если обвиняемый будет признан виновным, вы сможете изгнать его, арестовать или казнить, и никто не будет возражать. Вероятность обвинительного приговора зависит от социальных навыков обвиняемого и обвинителя, а также от количества собравшихся зрителей.</TrialMentalState.description>
+  <TrialPrisoner.label>суд</TrialPrisoner.label>
+  <TrialPrisoner.description>Судебный процесс по сложному делу. Обвинитель инкриминирует обвиняемому некое чудовищное злодеяние. Затем присутствующие будут слушать, как обвинитель и обвиняемый защищают свои позиции, и наконец решат, виновен ли обвиняемый. Если обвиняемый будет признан виновным, вы сможете изгнать его, арестовать или казнить, и никто не будет возражать. Вероятность обвинительного приговора зависит от социальных навыков обвиняемого и обвинителя, а также от количества собравшихся зрителей.</TrialPrisoner.description>
+</LanguageData>

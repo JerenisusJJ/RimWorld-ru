@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Fin.label>плавник</Fin.label>
+  <FleshClub_Gorehulk.label>дубина из плоти</FleshClub_Gorehulk.label>
+  <FleshmassNucleusCore.label>ядро</FleshmassNucleusCore.label>
+  <MetalhorrorArm.label>конечность</MetalhorrorArm.label>
+  <MetalhorrorBlade.label>лезвие</MetalhorrorBlade.label>
+  <MetalhorrorBrain.label>ядро разума</MetalhorrorBrain.label>
+  <MetalhorrorCore.label>ядро</MetalhorrorCore.label>
+  <MetalhorrorEye.label>глаз</MetalhorrorEye.label>
+  <MetalhorrorFoot.label>стопа</MetalhorrorFoot.label>
+  <MetalhorrorHead.label>голова</MetalhorrorHead.label>
+  <MetalhorrorLeg.label>нога</MetalhorrorLeg.label>
+  <MetalhorrorNeck.label>шея</MetalhorrorNeck.label>
+  <MetalhorrorShoulder.label>рука</MetalhorrorShoulder.label>
+  <MetalhorrorTorso.label>торс</MetalhorrorTorso.label>
+  <MovingBody.label>туловище</MovingBody.label>
+  <NociosphereCore.label>ядро</NociosphereCore.label>
+  <NociosphereShell.label>панцирь</NociosphereShell.label>
+  <NoctolClaw.label>клешня</NoctolClaw.label>
+  <ShellSection.label>фрагмент панциря</ShellSection.label>
+  <SpineLauncher_Gorehulk.label>шипы</SpineLauncher_Gorehulk.label>
+</LanguageData>

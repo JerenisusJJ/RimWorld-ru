@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BioluminescentSpores.label>биолюминесцентные споры</BioluminescentSpores.label>
+  <BioluminescentSpores.letterLabel>Биолюминесцентные споры</BioluminescentSpores.letterLabel>
+  <BioluminescentSpores.letterText>Некоторые разновидности грибов цветут и выпускают биолюминесцентные споры! Споры необычайно красивы и не представляют опасности.</BioluminescentSpores.letterText>
+  <BoomshroomSprout.label>росток бум-гриба</BoomshroomSprout.label>
+  <BoomshroomSprout.letterLabel>Росток бум-гриба</BoomshroomSprout.letterLabel>
+  <BoomshroomSprout.letterText>Поблизости проросла группа взрывоопасных бум-грибов!\n\nЭти грибы растут только в темноте. Когда они созревают, их можно собирать ради химтоплива.\n\nОсторожно — зрелые бум-грибы взрываются при повреждении.</BoomshroomSprout.letterText>
+  <Drought.label>засуха</Drought.label>
+  <Drought.letterLabel>засуха</Drought.letterLabel>
+  <DroughtInitial.label>первые признаки засухи</DroughtInitial.label>
+  <GillRot.label>жаброгниль</GillRot.label>
+  <GillRot.letterLabel>жаброгниль</GillRot.letterLabel>
+  <LavaEmergence.label>извержение лавы</LavaEmergence.label>
+  <LavaFlow.label>поток лавы</LavaFlow.label>
+  <OrbitalDebris.label>орбитальный мусор</OrbitalDebris.label>
+  <OrbitalDebris.letterLabel>Орбитальный мусор</OrbitalDebris.letterLabel>
+  <OrbitalDebris.letterText>Облако орбитального мусора мчится к вашему поселению и столкнется с поверхностью через несколько секунд. Укройте своих поселенцев под крышей.</OrbitalDebris.letterText>
+  <SeasonalFlooding.label>сезонное наводнение</SeasonalFlooding.label>
+  <VolcanicAsh.label>вулканический пепел</VolcanicAsh.label>
+  <VolcanicAsh.letterLabel>Вулканический пепел</VolcanicAsh.letterLabel>
+  <VolcanicDebris.label>вулканический выброс</VolcanicDebris.label>
+  <VolcanicDebris.letterLabel>Вулканический выброс</VolcanicDebris.letterLabel>
+  <VolcanicDebris.letterText>Ближайшее извержение вулкана заливает этот регион расплавленной лавой!</VolcanicDebris.letterText>
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bulbfreak.label>бугрурод</Bulbfreak.label>
+  <Bulbfreak.description>Жуткое существо, представляющее из себя слившихся воедино мелких биошматов, управляемых единой нервной системой. У бугрурода есть два острых когтя, которыми он разрывает жертв. Заметить его проще всего по запаху тухлого мяса, который появляется заметно раньше, чем сам бугрурод. Эти твари неповоротливы, и убить их несложно, но при смерти они разрываются на множество биошматов.</Bulbfreak.description>
+  <Bulbfreak.comps.CompInspectStringEmergence.inspectString>Бывший носитель — {SOURCEPAWN_labelShort}.</Bulbfreak.comps.CompInspectStringEmergence.inspectString>
+  <Bulbfreak.tools.tentacle-0.label>щупальце</Bulbfreak.tools.tentacle-0.label>
+  <Bulbfreak.tools.tentacle-1.label>щупальце</Bulbfreak.tools.tentacle-1.label>
+  <Bulbfreak.tools.tentacle-2.label>щупальце</Bulbfreak.tools.tentacle-2.label>
+  <Bulbfreak.tools.tentacle-3.label>щупальце</Bulbfreak.tools.tentacle-3.label>
+  <Bulbfreak.tools.tentacle-4.label>щупальце</Bulbfreak.tools.tentacle-4.label>
+  <Bulbfreak.tools.head.label>голова</Bulbfreak.tools.head.label>
+  <Dreadmeld.label>жуткоплав</Dreadmeld.label>
+  <Dreadmeld.description>Исполинская тварь из сросшихся мелких биошматов. Их нервные системы кое-как соединены, что позволяет им действовать как единый организм. Своими огромными когтями жуткоплав роет тоннели в скальной породе. Этот вид биошматов редко показывается на поверхности: они предпочитают скрываться в пещерах из живой плоти. У них есть псионическая связь с плотью в их логове.</Dreadmeld.description>
+  <Dreadmeld.comps.CompInspectStringEmergence.inspectString>Бывший носитель — {SOURCEPAWN_labelShort}.</Dreadmeld.comps.CompInspectStringEmergence.inspectString>
+  <Dreadmeld.comps.CompLetterOnRevealed.label>Выпущен жуткоплав</Dreadmeld.comps.CompLetterOnRevealed.label>
+  <Dreadmeld.comps.CompLetterOnRevealed.text>Вы обнаружили нового биошмата! Жуткоплав — это исполинское создание из нескольких десятков сросшихся биошматов.\n\nПохоже, он псионически связан с биомассой, поддерживающей своды этой пещеры. Если его убить, вся подземная система может обрушиться.</Dreadmeld.comps.CompLetterOnRevealed.text>
+  <Dreadmeld.tools.left_spike.label>левый шип</Dreadmeld.tools.left_spike.label>
+  <Dreadmeld.tools.left_spike.labelNoLocation>шип</Dreadmeld.tools.left_spike.labelNoLocation>
+  <Dreadmeld.tools.right_spike.label>правый шип</Dreadmeld.tools.right_spike.label>
+  <Dreadmeld.tools.right_spike.labelNoLocation>шип</Dreadmeld.tools.right_spike.labelNoLocation>
+  <Dreadmeld.tools.head.label>голова</Dreadmeld.tools.head.label>
+  <Fingerspike.label>пальцешип</Fingerspike.label>
+  <Fingerspike.description>Мясистое существо размером с собаку. У него всего одна конечность, зато с шипом на конце. Пальцешипы очень быстро бегают, несмотря на коротенькие ножки.</Fingerspike.description>
+  <Fingerspike.comps.CompInspectStringEmergence.inspectString>Бывший носитель — {SOURCEPAWN_labelShort}.</Fingerspike.comps.CompInspectStringEmergence.inspectString>
+  <Fingerspike.tools.spike.label>шип</Fingerspike.tools.spike.label>
+  <Fingerspike.tools.spike.labelNoLocation>шип</Fingerspike.tools.spike.labelNoLocation>
+  <Fingerspike.tools.head.label>голова</Fingerspike.tools.head.label>
+  <Toughspike.label>твёрдошип</Toughspike.label>
+  <Toughspike.description>Мясистое существо размером с человека. У него есть твёрдый панцирь и две конечности с шипами, которыми они могут стрелять в противника издалека.\n\nТрупы твёрдошипов превращаются в лужицы плоти, если их быстро не разделать.</Toughspike.description>
+  <Toughspike.comps.CompInspectStringEmergence.inspectString>Бывший носитель — {SOURCEPAWN_labelShort}.</Toughspike.comps.CompInspectStringEmergence.inspectString>
+  <Toughspike.tools.left_spike.label>левый шип</Toughspike.tools.left_spike.label>
+  <Toughspike.tools.left_spike.labelNoLocation>шип</Toughspike.tools.left_spike.labelNoLocation>
+  <Toughspike.tools.right_spike.label>правый шип</Toughspike.tools.right_spike.label>
+  <Toughspike.tools.right_spike.labelNoLocation>шип</Toughspike.tools.right_spike.labelNoLocation>
+  <Toughspike.tools.head.label>голова</Toughspike.tools.head.label>
+  <Trispike.label>троешип</Trispike.label>
+  <Trispike.description>Существо размером с человека, состоящее из нескольких биошматов поменьше. Каждая конечность может действовать самостоятельно. При смерти троешипы распадаются на пальцешипов.</Trispike.description>
+  <Trispike.comps.CompInspectStringEmergence.inspectString>Бывший носитель — {SOURCEPAWN_labelShort}.</Trispike.comps.CompInspectStringEmergence.inspectString>
+  <Trispike.tools.left_spike.label>левый шип</Trispike.tools.left_spike.label>
+  <Trispike.tools.left_spike.labelNoLocation>шип</Trispike.tools.left_spike.labelNoLocation>
+  <Trispike.tools.right_spike.label>правый шип</Trispike.tools.right_spike.label>
+  <Trispike.tools.right_spike.labelNoLocation>шип</Trispike.tools.right_spike.labelNoLocation>
+  <Trispike.tools.top_spike.label>верхний шип</Trispike.tools.top_spike.label>
+  <Trispike.tools.top_spike.labelNoLocation>шип</Trispike.tools.top_spike.labelNoLocation>
+  <Trispike.tools.head.label>голова</Trispike.tools.head.label>
+</LanguageData>

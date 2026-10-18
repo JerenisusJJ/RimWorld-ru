@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AnimalFlap.label>завеса</AnimalFlap.label>
+  <AnimalFlap.description>Завеса из плотных полос ткани или кожи. Через них могут проходить животные, не нарушая теплоизоляцию помещения. Такие завесы часто используются как вход в хлев, чтобы давать животным возможность отдыхать в помещении.</AnimalFlap.description>
+  <Autodoor.label>автодверь</Autodoor.label>
+  <Autodoor.description>Автоматическая дверь позволяет входить и выходить без задержки.</Autodoor.description>
+  <Column.label>колонна</Column.label>
+  <Column.description>Колонна, способная поддерживать крышу. Не мешает обзору и движению, и выглядит довольно красиво.</Column.description>
+  <Door.label>дверь</Door.label>
+  <Door.description>Простая дверь, которую нужно открывать и закрывать вручную. Время открывания и закрывания зависит от материала изготовления.</Door.description>
+  <Fence.label>ограда</Fence.label>
+  <Fence.description>Ограда из столбов и перекладин между ними, основное предназначение которой — содержание животных внутри загонов. Некоторые виды существ могут проходить через неё. Хищники не будут охотиться на животных по другую сторону ограды, но могут забрести внутрь.</Fence.description>
+  <FenceGate.label>ворота</FenceGate.label>
+  <FenceGate.description>Простые ворота из столбов и перекладин. Как и ограда, не дают пройти определённым видам животных. Через них животноводы могут вести животных в загоны и обратно.</FenceGate.description>
+  <OrnateDoor.label>дверь с орнаментом</OrnateDoor.label>
+  <OrnateDoor.description>Украшенная золотом дверь с затейливыми орнаментами. Этой большой и тяжёлой двери необходимы прилегающие стены.</OrnateDoor.description>
+  <Wall.label>стена</Wall.label>
+  <Wall.description>Непроходимая стена. Достаточно крепка, чтобы поддерживать крышу.</Wall.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Floordrawing.reportString>рисует на полу</Floordrawing.reportString>
+  <Lessongiving.reportString>ведёт урок</Lessongiving.reportString>
+  <Lessontaking.reportString>слушает урок</Lessontaking.reportString>
+  <NatureRunning.reportString>гуляет на свежем воздухе</NatureRunning.reportString>
+  <Radiotalking.reportString>болтает по радио</Radiotalking.reportString>
+  <Skydreaming.reportString>наблюдает за облаками</Skydreaming.reportString>
+  <Workwatching.reportString>наблюдает за работой</Workwatching.reportString>
+</LanguageData>

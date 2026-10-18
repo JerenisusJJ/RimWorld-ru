@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Ancients.label>нейтральные древние</Ancients.label>
+  <Ancients.fixedName>Древние</Ancients.fixedName>
+  <Ancients.leaderTitle>лидер</Ancients.leaderTitle>
+  <Ancients.messageDefendersAttacking>Древние солдаты атакуют.</Ancients.messageDefendersAttacking>
+  <Ancients.pawnSingular>древний</Ancients.pawnSingular>
+  <Ancients.pawnsPlural>древние</Ancients.pawnsPlural>
+  <AncientsHostile.label>враждебные древние</AncientsHostile.label>
+  <AncientsHostile.fixedName>Древние</AncientsHostile.fixedName>
+  <AncientsHostile.leaderTitle>лидер</AncientsHostile.leaderTitle>
+  <AncientsHostile.messageDefendersAttacking>Древние солдаты атакуют.</AncientsHostile.messageDefendersAttacking>
+  <AncientsHostile.pawnSingular>древний</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnsPlural>древние</AncientsHostile.pawnsPlural>
+  <Insect.label>насекомые</Insect.label>
+  <Insect.description>Гигантские насекомоподобные существа, живущие под землёй, но выходящие на поверхность привлекаемые шумом или феромонами. Межзвёздным предпринимателям удалось поймать их на родной планете Сорн, генетически модифицировать и взрастить несколько колоний, чтобы использовать в качестве оружия. Неясно, кто привёз на эту планету насекомых Сорна, но точно известно, что они здесь и всё так же опасны.</Insect.description>
+  <Insect.fixedName>Геном Сорн</Insect.fixedName>
+  <Insect.leaderTitle>лидер</Insect.leaderTitle>
+  <Insect.messageDefendersAttacking>{0} атакуют ваших {lookup: {2}; Case; 3}.</Insect.messageDefendersAttacking>
+  <Insect.pawnSingular>насекомое</Insect.pawnSingular>
+  <Insect.pawnsPlural>насекомые</Insect.pawnsPlural>
+  <Mechanoid.label>Механоид</Mechanoid.label>
+  <Mechanoid.description>Машины-убийцы неизвестного происхождения. Спрятанные в древних сооружениях, засыпанные тоннами земли и песка или покоящиеся на дне океана, эти машины способны автономно функционировать многие тысячи лет. Эта группа механоидов, кажется, движима одной целью, но не очень хорошо организованна. Местные учёные считают, что они — автономное оружие, наследие древней войны. А в легендах диких племён машины предстают демоническими слугами спящего бога.</Mechanoid.description>
+  <Mechanoid.fixedName>рой механоидов</Mechanoid.fixedName>
+  <Mechanoid.leaderTitle>лидер</Mechanoid.leaderTitle>
+  <Mechanoid.messageDefendersAttacking>{0} атакуют ваших {lookup: {2}; Case; 3}.</Mechanoid.messageDefendersAttacking>
+  <Mechanoid.pawnSingular>механоид</Mechanoid.pawnSingular>
+  <Mechanoid.pawnsPlural>механоиды</Mechanoid.pawnsPlural>
+</LanguageData>

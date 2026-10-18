@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: default allowed areas -->
+	<AllowedAreas.label>разрешённые области по умолчанию</AllowedAreas.label>
+	<!-- EN: Create default allowed areas for new colonies and control which types of pawns get automatically assigned to which areas. -->
+	<AllowedAreas.description>Создайте разрешённые области по умолчанию для новых колоний и настройте, какие персонажи автоматически получают ту или иную область.</AllowedAreas.description>
+</LanguageData>

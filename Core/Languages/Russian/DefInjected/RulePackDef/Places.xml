@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PlaceMakerCommon.rulePack.rulesStrings>
+    <li>place_personalWeapon-&gt;автомат</li>
+    <li>place_massWeapon-&gt;управляемый архотеком инвертор масс</li>
+    <li>place_massWeapon_gen-&gt;управляемого архотеком инвертора масс</li>
+    <li>place_massWeapon_acc-&gt;управляемый архотеком инвертор масс</li>
+    <li>seismicDevice-&gt;генератор сейсмических волн</li>
+    <li>seismicDevice_gen-&gt;генератора сейсмических волн</li>
+    <li>seismicDevice_acc-&gt;генератор сейсмических волн</li>
+    <li>anEMPAttack-&gt;нацеленный на системы жизнеобеспечения ЭМИ</li>
+    <li>anEMPAttack_gen-&gt;нацеленного на системы жизнеобеспечения ЭМИ</li>
+    <li>anEMPAttack_acc-&gt;нацеленный на системы жизнеобеспечения ЭМИ</li>
+  </PlaceMakerCommon.rulePack.rulesStrings>
+</LanguageData>

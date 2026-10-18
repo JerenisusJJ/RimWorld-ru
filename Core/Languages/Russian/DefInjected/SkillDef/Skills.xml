@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Animals.label>Животноводство</Animals.label>
+  <Animals.description>Приручение, тренировка, уход и контроль над животными.</Animals.description>
+  <Animals.generalRules.rulesStrings>
+    <li>subject-&gt;физиологии животных</li>
+    <li>subject-&gt;скотоводства</li>
+    <li>subject-&gt;приручения животных</li>
+    <li>subject-&gt;животноводства</li>
+    <li>subject-&gt;дрессировки животных</li>
+    <li>subject-&gt;зоологии</li>
+    <li>subject-&gt;овцеводства</li>
+    <li>subject-&gt;скотоводства</li>
+    <li>subject-&gt;одомашнивания животных</li>
+    <li>subject-&gt;освоения фауны</li>
+    <li>subject-&gt;криптозоологии</li>
+    <li>subject-&gt;птицеводства</li>
+  </Animals.generalRules.rulesStrings>
+  <Animals.skillLabel>Животноводство</Animals.skillLabel>
+  <Artistic.label>Искусство</Artistic.label>
+  <Artistic.description>Создание предметов искусства.</Artistic.description>
+  <Artistic.generalRules.rulesStrings>
+    <li>subject-&gt;искусствоведения</li>
+    <li>subject-&gt;гончарного дела</li>
+    <li>subject-&gt;искусства пластики</li>
+    <li>subject-&gt;живописи</li>
+    <li>subject-&gt;творчества</li>
+    <li>subject-&gt;экспрессионизма</li>
+    <li>subject-&gt;эстетики</li>
+    <li>subject-&gt;дизайна</li>
+    <li>subject-&gt;искусства скульптуры</li>
+    <li>subject-&gt;импрессионизма</li>
+    <li>subject-&gt;артистизма</li>
+  </Artistic.generalRules.rulesStrings>
+  <Artistic.skillLabel>Искусство</Artistic.skillLabel>
+  <Construction.label>Строительство</Construction.label>
+  <Construction.description>Строители возводят разнообразные сооружения и восстанавливают их в случае повреждений.</Construction.description>
+  <Construction.generalRules.rulesStrings>
+    <li>subject-&gt;конструирования</li>
+    <li>subject-&gt;строительства</li>
+    <li>subject-&gt;архитектуры</li>
+    <li>subject-&gt;строительной инженерии</li>
+    <li>subject-&gt;проектирования</li>
+    <li>subject-&gt;реконструкции</li>
+    <li>subject-&gt;зодчества</li>
+    <li>subject-&gt;фундаментостроения</li>
+    <li>subject-&gt;плотницкого дела</li>
+    <li>subject-&gt;развития инфраструктуры</li>
+  </Construction.generalRules.rulesStrings>
+  <Construction.skillLabel>Строительство</Construction.skillLabel>
+  <Cooking.label>Кулинария</Cooking.label>
+  <Cooking.description>Повара готовят еду и разделывают туши.</Cooking.description>
+  <Cooking.generalRules.rulesStrings>
+    <li>subject-&gt;кулинарии</li>
+    <li>subject-&gt;диетологии</li>
+    <li>subject-&gt;хлебопечения</li>
+    <li>subject-&gt;кулинарного искусства</li>
+    <li>subject-&gt;составления кулинарных рецептов</li>
+    <li>subject-&gt;гастрономии</li>
+    <li>subject-&gt;дегустации</li>
+    <li>subject-&gt;поваренного искусства</li>
+    <li>subject-&gt;заготовки пряностей</li>
+    <li>subject-&gt;здорового питания</li>
+    <li>subject-&gt;нейрогастрономии</li>
+    <li>subject-&gt;приготовления соусов</li>
+    <li>subject-&gt;искусства сервировки</li>
+  </Cooking.generalRules.rulesStrings>
+  <Cooking.skillLabel>Кулинария</Cooking.skillLabel>
+  <Crafting.label>Ремесло</Crafting.label>
+  <Crafting.description>Ремесленники занимаются на станках работой, не требующей специальных навыков: резкой камня, плавкой металла и многим другим.</Crafting.description>
+  <Crafting.generalRules.rulesStrings>
+    <li>subject-&gt;рукоделия</li>
+    <li>subject-&gt;текстильной промышленности</li>
+    <li>subject-&gt;производства</li>
+    <li>subject-&gt;ручного производства</li>
+    <li>subject-&gt;ремесленного дела</li>
+    <li>subject-&gt;обработки металлов</li>
+    <li>subject-&gt;ремесленничества</li>
+    <li>subject-&gt;фрезерной обработки</li>
+    <li>subject-&gt;кустарного производства</li>
+  </Crafting.generalRules.rulesStrings>
+  <Crafting.skillLabel>Ремесло</Crafting.skillLabel>
+  <Intellectual.label>Умственный труд</Intellectual.label>
+  <Intellectual.description>Исследовательская работа и синтез различных препаратов.</Intellectual.description>
+  <Intellectual.generalRules.rulesStrings>
+    <li>subject-&gt;физики</li>
+    <li>subject-&gt;химии</li>
+    <li>subject-&gt;орбитальной динамики</li>
+    <li>subject-&gt;математики</li>
+    <li>subject-&gt;биологии</li>
+    <li>subject-&gt;естествознания</li>
+    <li>subject-&gt;системных исследований</li>
+    <li>subject-&gt;научных инноваций</li>
+    <li>subject-&gt;научных открытий</li>
+    <li>subject-&gt;анализа</li>
+    <li>subject-&gt;экспериментирования</li>
+    <li>subject-&gt;познания</li>
+    <li>subject-&gt;физики</li>
+    <li>subject-&gt;химии</li>
+    <li>subject-&gt;анализа данных</li>
+    <li>subject-&gt;научного познания</li>
+    <li>subject-&gt;интеллектуального роста</li>
+    <li>subject-&gt;педагогики</li>
+    <li>subject-&gt;количественного анализа</li>
+    <li>subject-&gt;планирования экспериментов</li>
+    <li>subject-&gt;научных исследований</li>
+    <li>subject-&gt;индуктивных умозаключений</li>
+    <li>subject-&gt;дедуктивных умозаключений</li>
+  </Intellectual.generalRules.rulesStrings>
+  <Intellectual.skillLabel>Умственный труд</Intellectual.skillLabel>
+  <Medicine.label>Медицина</Medicine.label>
+  <Medicine.description>Лечение ранений, заболеваний, а также проведение операций.</Medicine.description>
+  <Medicine.generalRules.rulesStrings>
+    <li>subject-&gt;медицины</li>
+    <li>subject-&gt;хирургии</li>
+    <li>subject-&gt;бактериологии</li>
+    <li>subject-&gt;ускорения заживления ран</li>
+    <li>subject-&gt;здравоохранения</li>
+    <li>subject-&gt;медицинской науки</li>
+    <li>subject-&gt;физиологии</li>
+    <li>subject-&gt;фармакологии</li>
+    <li>subject-&gt;врачевания</li>
+    <li>subject-&gt;диагностики</li>
+    <li>subject-&gt;хирургии</li>
+    <li>subject-&gt;анатомии</li>
+    <li>subject-&gt;микробиологии</li>
+    <li>subject-&gt;патологии</li>
+    <li>subject-&gt;профилактики заболеваний</li>
+    <li>subject-&gt;интенсивной терапии</li>
+    <li>subject-&gt;неотложной медицины</li>
+    <li>subject-&gt;присмотра за больными</li>
+    <li>subject-&gt;клинических исследований</li>
+    <li>subject-&gt;социальной гигиены</li>
+    <li>subject-&gt;вирусологии</li>
+    <li>subject-&gt;анестезиологии</li>
+  </Medicine.generalRules.rulesStrings>
+  <Medicine.skillLabel>Медицина</Medicine.skillLabel>
+  <Melee.label>Ближний бой</Melee.label>
+  <Melee.description>Использование всех видов оружия ближнего боя, а также боя без оружия.</Melee.description>
+  <Melee.generalRules.rulesStrings>
+    <li>subject-&gt;ближнего боя</li>
+    <li>subject-&gt;боевых единоборств</li>
+    <li>subject-&gt;ножевого боя</li>
+    <li>subject-&gt;боевых искусств</li>
+    <li>subject-&gt;фехтования на мечах</li>
+    <li>subject-&gt;обращения с холодным оружием</li>
+    <li>subject-&gt;рукопашного боя</li>
+    <li>subject-&gt;кулачного боя</li>
+    <li>subject-&gt;искусства фехтования</li>
+    <li>subject-&gt;проведения рыцарских турниров</li>
+    <li>subject-&gt;проведения поединков</li>
+  </Melee.generalRules.rulesStrings>
+  <Melee.skillLabel>Ближний бой</Melee.skillLabel>
+  <Mining.label>Горное дело</Mining.label>
+  <Mining.description>Шахтёры копают породу, выполняют бурение и добывают полезные ископаемые.</Mining.description>
+  <Mining.generalRules.rulesStrings>
+    <li>subject-&gt;горного дела</li>
+    <li>subject-&gt;проходки горных выработок</li>
+    <li>subject-&gt;золотодобычи</li>
+    <li>subject-&gt;добычи полезных ископаемых</li>
+    <li>subject-&gt;сейсмологии</li>
+    <li>subject-&gt;геологоразведки</li>
+    <li>subject-&gt;горной промышленности</li>
+    <li>subject-&gt;проходки туннелей</li>
+    <li>subject-&gt;бурения</li>
+    <li>subject-&gt;минералогии</li>
+    <li>subject-&gt;геммологии</li>
+    <li>subject-&gt;геологии</li>
+    <li>subject-&gt;геомеханики</li>
+  </Mining.generalRules.rulesStrings>
+  <Mining.skillLabel>Горное дело</Mining.skillLabel>
+  <Plants.label>Растениеводство</Plants.label>
+  <Plants.description>Сбор, посадка и уход за растениями, добыча пропитания вдали от поселения.</Plants.description>
+  <Plants.generalRules.rulesStrings>
+    <li>subject-&gt;физиологии растений</li>
+    <li>subject-&gt;выращивания лекарственных трав</li>
+    <li>subject-&gt;овощеводства</li>
+    <li>subject-&gt;освоения флоры</li>
+    <li>subject-&gt;культивации</li>
+    <li>subject-&gt;огородничества</li>
+    <li>subject-&gt;цветоводства</li>
+    <li>subject-&gt;садоводства</li>
+    <li>subject-&gt;сельского хозяйства</li>
+    <li>subject-&gt;селекции растений</li>
+    <li>subject-&gt;пермакультуры</li>
+    <li>subject-&gt;ботаники</li>
+    <li>subject-&gt;растениеводства</li>
+    <li>subject-&gt;обогащения почвы</li>
+    <li>subject-&gt;органического земледелия</li>
+    <li>subject-&gt;производства зерновых культур</li>
+    <li>subject-&gt;агрономии</li>
+  </Plants.generalRules.rulesStrings>
+  <Plants.skillLabel>Растениеводство</Plants.skillLabel>
+  <Shooting.label>Дальний бой</Shooting.label>
+  <Shooting.description>Использование всех видов оружия для боя на дальней дистанции.</Shooting.description>
+  <Shooting.generalRules.rulesStrings>
+    <li>subject-&gt;обращения с огнестрельным оружием</li>
+    <li>subject-&gt;обращения со стрелковым оружием</li>
+    <li>subject-&gt;точного прицеливания</li>
+    <li>subject-&gt;стрельбы</li>
+    <li>subject-&gt;практической стрельбы</li>
+    <li>subject-&gt;меткой стрельбы</li>
+    <li>subject-&gt;обращения с оружием дальнего боя</li>
+    <li>subject-&gt;снайперского искусства</li>
+    <li>subject-&gt;баллистики</li>
+    <li>subject-&gt;боя на дальних дистанциях</li>
+    <li>subject-&gt;точной стрельбы</li>
+    <li>subject-&gt;стрелкового мастерства</li>
+    <li>subject-&gt;стрельбы по мишеням</li>
+    <li>subject-&gt;прицельной стрельбы</li>
+    <li>subject-&gt;ведения дальнего боя</li>
+    <li>subject-&gt;ведения огня на подавление</li>
+    <li>subject-&gt;ведения огня на поражение</li>
+    <li>subject-&gt;стрельбы с дальней дистанции</li>
+  </Shooting.generalRules.rulesStrings>
+  <Shooting.skillLabel>Дальний бой</Shooting.skillLabel>
+  <Social.label>Общение</Social.label>
+  <Social.description>Ведение переговоров, убеждение, манипуляция, лидерство и возможность подбодрить других.</Social.description>
+  <Social.generalRules.rulesStrings>
+    <li>subject-&gt;общения</li>
+    <li>subject-&gt;налаживания связей</li>
+    <li>subject-&gt;разрешения конфликтов</li>
+    <li>subject-&gt;сотрудничества</li>
+    <li>subject-&gt;проявления лидерства</li>
+    <li>subject-&gt;проявления эмпатии</li>
+    <li>subject-&gt;ведения переговоров</li>
+    <li>subject-&gt;ведения торговли</li>
+    <li>subject-&gt;психологии</li>
+    <li>subject-&gt;дипломатии</li>
+    <li>subject-&gt;совместной работы</li>
+    <li>subject-&gt;этикета</li>
+    <li>subject-&gt;проявления харизмы</li>
+    <li>subject-&gt;социального интеллекта</li>
+    <li>subject-&gt;проявления настойчивости</li>
+    <li>subject-&gt;эмоционального интеллекта</li>
+    <li>subject-&gt;проявления отзывчивости</li>
+  </Social.generalRules.rulesStrings>
+  <Social.skillLabel>Общение</Social.skillLabel>
+</LanguageData>

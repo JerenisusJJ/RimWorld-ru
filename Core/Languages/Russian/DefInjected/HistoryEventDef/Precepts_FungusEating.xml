@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AteFungus.label>съеден гриб</AteFungus.label>
+  <AteFungusAsIngredient.label>съедено блюдо с грибами</AteFungusAsIngredient.label>
+  <AteNonFungusMealWithPlants.label>съедено блюдо без грибов</AteNonFungusMealWithPlants.label>
+  <AteNonFungusPlant.label>съедено растение (не гриб)</AteNonFungusPlant.label>
+</LanguageData>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Autosaving>Автосохранение</Autosaving>
+  <GameStartDialog>Вы трое проснулись в своих саркофагах криптосна под звук сирен и скрежет металла. Едва вы успели добраться до спасательных капсул, как корабль развалился на части.\n\nНекоторое время спустя вы приземлились на неизвестную вам планету.\n\nПод звездопадом из обломков корабля вы начинаете строить планы по выживанию.</GameStartDialog>
+  <Colony>поселения</Colony>
+  <ChangeLanguageFromMainMenu>Язык можно сменить только в главном меню.</ChangeLanguageFromMainMenu>
+  <AndLower>и</AndLower>
+  <DisabledLower>недоступно</DisabledLower>
+  <VersionIndicator>Версия {0} | Перевод: 2ClauZ</VersionIndicator>
+  <GameVersionIndicator>Версия игры</GameVersionIndicator>
+  <DevelopmentBuildLower>только для тестеров</DevelopmentBuildLower>
+  <CompiledOn>Сборка от {0}</CompiledOn>
+  <LoggedIntoSteamAs>Вы вошли в Steam как {0}</LoggedIntoSteamAs>
+  <ToCommaListAnd>{0} и {1}</ToCommaListAnd>
+  <ToCommaListOr>{0} или {1}</ToCommaListOr>
+  <Yes>Да</Yes>
+  <No>Нет</No>
+  <NoSubject>Нет {lookup: {0}; Case; 1}</NoSubject>
+  <New>создать</New>
+  <Gender>Род</Gender>
+  <Sex>Пол</Sex>
+  <min>мин</min>
+  <max>макс</max>
+  <chance>вероятность</chance>
+  <context>влияет на</context>
+  <multiplier>множитель</multiplier>
+  <damage>урон</damage>
+  <radius>радиус</radius>
+  <expired>срок истёк</expired>
+  <durationDays>продолжительность (дней)</durationDays>
+  <intervalDays>интервал (дней)</intervalDays>
+  <delayDays>задержка (дней)</delayDays>
+  <repeat>повторить</repeat>
+  <default>по умолчанию</default>
+  <distance>расстояние</distance>
+  <YesUppercase>ДА</YesUppercase>
+  <NoUppercase>НЕТ</NoUppercase>
+  <kg>кг</kg>
+  <Day>День</Day>
+  <day>день</day>
+  <Default>По умолчанию</Default>
+  <Average>В среднем</Average>
+  <Cause>Причина</Cause>
+  <Etc>и так далее</Etc>
+  <MoneyFormat>{0}₡</MoneyFormat>
+  <Factors>Факторы</Factors>
+  <Uses>Использует</Uses>
+  <Translation>Перевод</Translation>
+  <minDays>мин(дней)</minDays>
+  <maxDays>макс(дней)</maxDays>
+  <Processing>Обработка</Processing>
+  <Inspect>Осмотреть</Inspect>
+  <Edit>Изменить</Edit>
+  <MeatLabel>мясо {lookup: {0}; Case; 1}</MeatLabel>
+  <MeatDesc>Сырое мясо. Может быть приготовлено или съедено в сыром виде.</MeatDesc>
+  <MeatInsectDesc>Сырое мясо насекомого. При необходимости может быть приготовлено или даже съедено в сыром виде. Крайне неаппетитно.</MeatInsectDesc>
+  <MeatHumanDesc>Сырая плоть человека. При необходимости может быть приготовлена или съедена в сыром виде, хотя большинству людей эта идея явно не понравится.</MeatHumanDesc>
+  <TechprintLabel>чертёж ({PROJECT_label})</TechprintLabel>
+  <TechprintDesc>Это чертёж, относящийся к технологии «{PROJECT_label}».\nЧертежи могут представлять собой как обрывки бумаг, исписанные формулами и графиками, так и продвинутые автономные машины для обучения. Вне зависимости от формы, они дают исследователям уверенность в том, что технология реализуема, а также примерное представление о её конкретном применении в более развитых мирах.\nПри помощи чертежей исследователи получают фундаментальные знания о том, с какой стороны следует подходить к разработке данной технологии. Только после того, как будут найдены всё необходимые чертежи, ваши исследователи смогут приступить к проработке деталей того, как можно применить эту технологию в вашем конкретном случае.\nПрименение каждого чертежа к соответствующей технологии обеспечивает выполнение половины оставшейся исследовательской работы. Вдобавок, исследователи получают прирост к интеллектуальным навыкам, даже для уже изученных технологий.</TechprintDesc>
+  <Unlocks>Открывает</Unlocks>
+  <CorpseLabel>труп {lookup: {0}; Case; 1}</CorpseLabel>
+  <CorpseDesc>Мёртвое тело {lookup: {0}; Case; 1}.</CorpseDesc>
+  <DeadLabel>{1_label} ({1_gender ? мёртв : мертва : мёртв})</DeadLabel>
+  <RoughStoneTerrainLabel>грубый {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Грубый природный {0}.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>обтёсанный {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Обтёсанный природный {0}.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>гладкий {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Гладкий природный {0}.</SmoothStoneTerrainDesc>
+  <BlueprintLabelExtra>(проект)</BlueprintLabelExtra>
+  <FrameLabelExtra>(в процессе сборки)</FrameLabelExtra>
+  <FactionUnaffiliated>Неаффилированная</FactionUnaffiliated>
+  <StillWishContinue>Всё равно продолжить?</StillWishContinue>
+  <BabyTalk>ба,бах,бу,бух,га,гах,гу,ня,на,агу,ну,ву,вах,вух,ма,мах</BabyTalk>
+  <ThingMadeOfStuffLabel>{1} из {0}</ThingMadeOfStuffLabel>
+  <SomeonesRoom>{1} {PAWN_labelShort}</SomeonesRoom>
+  <CouplesRoom>{2} {PAWN1_labelShort} и {PAWN2_labelShort}</CouplesRoom>
+  <StatRelatesToCurrentRoom>Важно для данного вида комнат.</StatRelatesToCurrentRoom>
+  <DeepResourceRemaining>Здесь под землёй находится {COUNT} ед. {lookup: {RESOURCE_label}; Case; 1}.</DeepResourceRemaining>
+  <VariousLabel>(разное)</VariousLabel>
+  <ColonistDied>Поселенец погиб</ColonistDied>
+  <North>Север</North>
+  <South>Юг</South>
+  <West>Запад</West>
+  <East>Восток</East>
+  <ApplyingTechprint>применяется чертёж ({0})</ApplyingTechprint>
+  <VariantOf>вариант предмета</VariantOf>
+  <BornOfParents>родители: {0}</BornOfParents>
+  <ParentsUnknown>неизвестны</ParentsUnknown>
+  <Colonist>поселенец</Colonist>
+</LanguageData>

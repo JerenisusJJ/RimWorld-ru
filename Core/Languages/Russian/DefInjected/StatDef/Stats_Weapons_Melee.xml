@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BluntDamageMultiplier.label>дробящий урон</BluntDamageMultiplier.label>
+  <BluntDamageMultiplier.description>Множитель к урону от дробящих ударов, который будет наносить предмет, сделанный из этого материала.</BluntDamageMultiplier.description>
+  <MeleeWeapon_AverageArmorPenetration.label>бронепробитие врукопашную</MeleeWeapon_AverageArmorPenetration.label>
+  <MeleeWeapon_AverageArmorPenetration.description>Среднее бронепробитие в ближнем бою.</MeleeWeapon_AverageArmorPenetration.description>
+  <MeleeWeapon_AverageDPS.label>рукопашный урон в секунду</MeleeWeapon_AverageDPS.label>
+  <MeleeWeapon_AverageDPS.description>Средний урон в секунду в ближнем бою, при условии, что всё удары достигнут цели.</MeleeWeapon_AverageDPS.description>
+  <MeleeWeapon_CooldownMultiplier.label>время между ударами</MeleeWeapon_CooldownMultiplier.label>
+  <MeleeWeapon_CooldownMultiplier.description>Множитель количества времени, необходимого для нанесения следующего удара в ближнем бою.</MeleeWeapon_CooldownMultiplier.description>
+  <MeleeWeapon_DamageMultiplier.label>урон в ближнем бою</MeleeWeapon_DamageMultiplier.label>
+  <MeleeWeapon_DamageMultiplier.description>Множитель урона при использовании оружия в ближнем бою.</MeleeWeapon_DamageMultiplier.description>
+  <SharpDamageMultiplier.label>проникающий урон</SharpDamageMultiplier.label>
+  <SharpDamageMultiplier.description>Множитель к урону от колющих и режущих атак, который будет наносить предмет, сделанный из этого материала.</SharpDamageMultiplier.description>
+</LanguageData>

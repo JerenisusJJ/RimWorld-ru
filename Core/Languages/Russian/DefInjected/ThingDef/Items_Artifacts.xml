@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BiomutationPulser.label>генератор биомутаций</BiomutationPulser.label>
+  <BiomutationPulser.description>Одноразовый широковолновой генератор пси-импульса, созданный с использованием тёмного архо-осколка. Устройство создаёт импульс, деформирующий плоть всех животных в зоне действия, и превращает их в чудовищ. Ваших животных импульс не затронет.</BiomutationPulser.description>
+  <BiomutationPulser.comps.CompUsable.useLabel>Активировать: {0_label}</BiomutationPulser.comps.CompUsable.useLabel>
+  <ShardAnimalPulser.label>архо-генератор пси-импульса (животные)</ShardAnimalPulser.label>
+  <ShardAnimalPulser.description>Одноразовый широковолновой генератор пси-импульса, созданный с использованием тёмного архо-осколка. Импульс не действует на людей, но вызывает у всех находящихся в регионе животных пугающие галлюцинации, из-за чего те становятся агрессивными. Ваших животных импульс не затронет.</ShardAnimalPulser.description>
+  <ShardAnimalPulser.comps.CompUsable.useLabel>Активировать: {0_label}</ShardAnimalPulser.comps.CompUsable.useLabel>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <MechanicalTermiteBodyFirstRing.label>первое кольцо тела</MechanicalTermiteBodyFirstRing.label>
+  <MechanicalTermiteBodyFirstRing.labelShort>кольцо тела</MechanicalTermiteBodyFirstRing.labelShort>
+  <MechanicalTermiteBodySecondRing.label>второе кольцо тела</MechanicalTermiteBodySecondRing.label>
+  <MechanicalTermiteBodySecondRing.labelShort>кольцо тела</MechanicalTermiteBodySecondRing.labelShort>
+  <MechanicalTermiteBodyThirdRing.label>третье кольцо тела</MechanicalTermiteBodyThirdRing.label>
+  <MechanicalTermiteBodyThirdRing.labelShort>кольцо тела</MechanicalTermiteBodyThirdRing.labelShort>
+</LanguageData>

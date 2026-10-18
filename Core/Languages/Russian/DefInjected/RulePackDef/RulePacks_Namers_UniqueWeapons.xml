@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerUniqueWeapon.rulePack.rulesStrings>
+    <li>r_weapon_name(p=2)-&gt;[weapon_adjective_mas] [weapon_noun_mas]</li>
+    <li>r_weapon_name(p=2)-&gt;[weapon_adjective_fem] [weapon_noun_fem]</li>
+    <li>r_weapon_name(p=2)-&gt;[weapon_adjective_neu] [weapon_noun_neu]</li>
+    <li>r_weapon_name(p=0.5)-&gt;[weapon_type] [badass_concept_mas_gen]</li>
+    <li>r_weapon_name(p=0.5)-&gt;[weapon_type] [badass_concept_fem_gen]</li>
+    <li>r_weapon_name(p=0.5)-&gt;[weapon_type] [badass_concept_neu_gen]</li>
+    <li>r_weapon_name(p=0.5)-&gt;[weapon_adjective_mas] [weapon_type_mas]</li>
+    <li>r_weapon_name(p=0.5)-&gt;[weapon_adjective_fem] [weapon_type_fem]</li>
+    <li>r_weapon_name(p=0.5)-&gt;[weapon_adjective_neu] [weapon_type_neu]</li>
+    <li>r_weapon_name(p=0.5)-&gt;[weapon_type] [badass_concept_mas_gen]</li>
+    <li>r_weapon_name(p=0.5)-&gt;[weapon_type] [badass_concept_fem_gen]</li>
+    <li>r_weapon_name(p=0.5)-&gt;[weapon_type] [badass_concept_neu_gen]</li>
+    <li>r_weapon_name(p=0.3)-&gt;[weapon_noun_mas] [ANYPAWN_nameIndef_gen]</li>
+    <li>r_weapon_name(p=0.3)-&gt;[weapon_noun_fem] [ANYPAWN_nameIndef_gen]</li>
+    <li>r_weapon_name(p=0.3)-&gt;[weapon_noun_neu] [ANYPAWN_nameIndef_gen]</li>
+    <li>r_weapon_name(p=0.3)-&gt;[weapon_adjective_mas] [weapon_noun_mas] [ANYPAWN_nameIndef_gen]</li>
+    <li>r_weapon_name(p=0.3)-&gt;[weapon_adjective_fem] [weapon_noun_fem] [ANYPAWN_nameIndef_gen]</li>
+    <li>r_weapon_name(p=0.3)-&gt;[weapon_adjective_neu] [weapon_noun_neu] [ANYPAWN_nameIndef_gen]</li>
+    <li>r_weapon_name(p=0.3)-&gt;[badass_concept_mas] [ANYPAWN_nameIndef_gen]</li>
+    <li>r_weapon_name(p=0.3)-&gt;[badass_concept_fem] [ANYPAWN_nameIndef_gen]</li>
+    <li>r_weapon_name(p=0.3)-&gt;[badass_concept_neu] [ANYPAWN_nameIndef_gen]</li>
+    <li>weapon_noun(p=2)_mas-&gt;[weapon_type_mas]</li>
+    <li>weapon_noun(p=2)_fem-&gt;[weapon_type_fem]</li>
+    <li>weapon_noun(p=2)_neu-&gt;[weapon_type_neu]</li>
+    <li>weapon_noun_mas-&gt;[badass_noun_mas]</li>
+    <li>weapon_noun_fem-&gt;[badass_noun_fem]</li>
+    <li>weapon_noun_mas-&gt;[badass_concept_mas]</li>
+    <li>weapon_noun_fem-&gt;[badass_concept_fem]</li>
+    <li>weapon_noun_neu-&gt;[badass_concept_neu]</li>
+    <li>weapon_adjective(p=2)-&gt;[trait_adjective]weapon_adjective(p=2)_mas-&gt;[trait_adjective_mas]</li>
+    <li>weapon_adjective(p=2)_fem-&gt;[trait_adjective_fem]</li>
+    <li>weapon_adjective(p=2)_neu-&gt;[trait_adjective_neu]</li>
+    <li>weapon_adjective_mas-&gt;[badass_adjective_mas]</li>
+    <li>weapon_adjective_fem-&gt;[badass_adjective_fem]</li>
+    <li>weapon_adjective_neu-&gt;[badass_adjective_neu]</li>
+    <li>badass_adjective_mas-&gt;мрачный</li>
+    <li>badass_adjective_fem-&gt;мрачная</li>
+    <li>badass_adjective_neu-&gt;мрачное</li>
+    <li>badass_adjective_mas-&gt;вечный</li>
+    <li>badass_adjective_fem-&gt;вечная</li>
+    <li>badass_adjective_neu-&gt;вечное</li>
+    <li>badass_adjective_mas-&gt;ночной</li>
+    <li>badass_adjective_fem-&gt;ночная</li>
+    <li>badass_adjective_neu-&gt;ночное</li>
+    <li>badass_adjective_mas-&gt;могильный</li>
+    <li>badass_adjective_fem-&gt;могильная</li>
+    <li>badass_adjective_neu-&gt;могильное</li>
+    <li>badass_adjective_mas-&gt;исключительный</li>
+    <li>badass_adjective_fem-&gt;исключительная</li>
+    <li>badass_adjective_neu-&gt;исключительное</li>
+    <li>badass_adjective_mas-&gt;смертоносный</li>
+    <li>badass_adjective_fem-&gt;смертоносная</li>
+    <li>badass_adjective_neu-&gt;смертоносное</li>
+    <li>badass_adjective_mas-&gt;пресловутый</li>
+    <li>badass_adjective_fem-&gt;пресловутая</li>
+    <li>badass_adjective_neu-&gt;пресловутое</li>
+    <li>badass_adjective_mas-&gt;особый</li>
+    <li>badass_adjective_fem-&gt;особая</li>
+    <li>badass_adjective_neu-&gt;особое</li>
+    <li>badass_adjective_mas-&gt;гибельный</li>
+    <li>badass_adjective_fem-&gt;гибельная</li>
+    <li>badass_adjective_neu-&gt;гибельное</li>
+    <li>badass_adjective_mas-&gt;громовой</li>
+    <li>badass_adjective_fem-&gt;громовая</li>
+    <li>badass_adjective_neu-&gt;громовое</li>
+    <li>badass_adjective_mas-&gt;проклятый</li>
+    <li>badass_adjective_fem-&gt;проклятая</li>
+    <li>badass_adjective_neu-&gt;проклятое</li>
+    <li>badass_adjective_mas-&gt;великий</li>
+    <li>badass_adjective_fem-&gt;великая</li>
+    <li>badass_adjective_neu-&gt;великое</li>
+    <li>badass_noun_mas-&gt;жнец</li>
+    <li>badass_noun_mas-&gt;конец</li>
+    <li>badass_noun_mas-&gt;вой</li>
+    <li>badass_noun_fem-&gt;буря</li>
+    <li>badass_noun_mas-&gt;призрак</li>
+    <li>badass_noun_fem-&gt;вдова</li>
+    <li>badass_noun_mas-&gt;титан</li>
+    <li>badass_noun_mas-&gt;исполин</li>
+    <li>badass_noun_mas-&gt;змей</li>
+    <li>badass_noun_fem-&gt;наковальня</li>
+    <li>badass_noun_mas-&gt;убийца</li>
+    <li>badass_noun_mas-&gt;любовник</li>
+    <li>badass_noun_mas-&gt;зверь</li>
+    <li>badass_noun_mas-&gt;клык</li>
+    <li>badass_noun_fem-&gt;рука</li>
+    <li>badass_noun_mas-&gt;рог</li>
+    <li>badass_concept_neu-&gt;правосудие</li>
+    <li>badass_concept_neu_gen-&gt;правосудия</li>
+    <li>badass_concept_fem-&gt;месть</li>
+    <li>badass_concept_fem_gen-&gt;мести</li>
+    <li>badass_concept_neu-&gt;возмездие</li>
+    <li>badass_concept_neu_gen-&gt;возмездия</li>
+    <li>badass_concept_fem-&gt;боль</li>
+    <li>badass_concept_fem_gen-&gt;боли</li>
+    <li>badass_concept_fem-&gt;агония</li>
+    <li>badass_concept_fem_gen-&gt;агонии</li>
+    <li>badass_concept_neu-&gt;мучение</li>
+    <li>badass_concept_neu_gen-&gt;мучения</li>
+    <li>badass_concept_fem-&gt;легенда</li>
+    <li>badass_concept_fem_gen-&gt;легенды</li>
+    <li>badass_concept_neu-&gt;наслаждение</li>
+    <li>badass_concept_neu_gen-&gt;наслаждения</li>
+    <li>badass_concept_neu-&gt;сожаление</li>
+    <li>badass_concept_neu_gen-&gt;сожаления</li>
+    <li>badass_concept_fem-&gt;гордость</li>
+    <li>badass_concept_fem_gen-&gt;гордости</li>
+    <li>badass_concept_neu-&gt;тщеславие</li>
+    <li>badass_concept_neu_gen-&gt;тщеславия</li>
+    <li>badass_concept_fem-&gt;честь</li>
+    <li>badass_concept_fem_gen-&gt;чести</li>
+    <li>badass_concept_fem-&gt;ярость</li>
+    <li>badass_concept_fem_gen-&gt;ярости</li>
+    <li>badass_concept_fem-&gt;расплата</li>
+    <li>badass_concept_fem_gen-&gt;расплаты</li>
+    <li>badass_concept_neu-&gt;спокойствие</li>
+    <li>badass_concept_neu_gen-&gt;спокойствия</li>
+    <li>badass_concept_fem-&gt;любовь</li>
+    <li>badass_concept_fem_gen-&gt;любви</li>
+    <li>badass_concept_mas-&gt;смех</li>
+    <li>badass_concept_mas_gen-&gt;смеха</li>
+  </NamerUniqueWeapon.rulePack.rulesStrings>
+</LanguageData>

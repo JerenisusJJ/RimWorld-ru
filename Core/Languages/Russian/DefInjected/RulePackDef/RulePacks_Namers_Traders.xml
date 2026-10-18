@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerTraderGeneral.rulePack.rulesFiles>
+    <li>businessname-&gt;Names/Business</li>
+    <li>businesstype-&gt;Words/Nouns/BusinessTypes</li>
+  </NamerTraderGeneral.rulePack.rulesFiles>
+  <NamerTraderGeneral.rulePack.rulesStrings>
+    <li>r_name-&gt;ИП [NamePerson]</li>
+    <li>r_name-&gt;ООО «[businessname_simple]»</li>
+    <li>r_name(p=4)-&gt;«[businessname_complex]»</li>
+    <li>businessname_complex-&gt;[businessname_simple] [businesstype]</li>
+    <li>businessname_complex-&gt;[letters] [businesstype]</li>
+    <li>businessname_simple(p=4)-&gt;[businessname]</li>
+    <li>businessname_simple-&gt;[colored_animal]</li>
+    <li>colored_animal-&gt;[Color] [Animal_masc]</li>
+    <li>colored_animal-&gt;[Color_fem] [Animal_fem]</li>
+    <li>letters-&gt;[Letter][Letter]</li>
+    <li>letters-&gt;[LetterLatin][LetterLatin]</li>
+  </NamerTraderGeneral.rulePack.rulesStrings>
+</LanguageData>

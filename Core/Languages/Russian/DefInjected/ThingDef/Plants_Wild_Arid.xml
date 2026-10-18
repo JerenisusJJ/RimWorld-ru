@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Plant_Agave.label>агава</Plant_Agave.label>
+  <Plant_Agave.description>Большелистное пустынное растение со съедобными цветками и стеблями.</Plant_Agave.description>
+  <Plant_PincushionCactus.label>кактус-игольник</Plant_PincushionCactus.label>
+  <Plant_PincushionCactus.description>Низкий кактус. Назван так, потому что напоминает подушку для иголок.</Plant_PincushionCactus.description>
+  <Plant_SaguaroCactus.label>кактус Карнегия</Plant_SaguaroCactus.label>
+  <Plant_SaguaroCactus.description>Большой кактус родом из засушливых мест Земли. Хотя это и не дерево, из него можно извлечь материалы, по свойствам схожие с древесиной.</Plant_SaguaroCactus.description>
+  <Plant_TreeDrago.label>драконово дерево</Plant_TreeDrago.label>
+  <Plant_TreeDrago.description>Выносливое пустынное дерево с толстыми заострёнными листьями.</Plant_TreeDrago.description>
+</LanguageData>

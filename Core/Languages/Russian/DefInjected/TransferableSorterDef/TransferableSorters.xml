@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Category.label>категория</Category.label>
+  <HitPointsPercentage.label>целостность (%)</HitPointsPercentage.label>
+  <MarketValue.label>рыночная стоимость</MarketValue.label>
+  <Mass.label>вес</Mass.label>
+  <Name.label>имя</Name.label>
+  <None.label>ничего</None.label>
+  <Quality.label>качество</Quality.label>
+</LanguageData>

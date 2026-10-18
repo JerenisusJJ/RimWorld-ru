@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ExciseCarcinoma.label>удалить карциному</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>Удалить карциному.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>Удаляет карциному</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} успешно удаляет карциному у {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+</LanguageData>

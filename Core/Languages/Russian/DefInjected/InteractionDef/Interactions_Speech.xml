@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Speech_AcceptRole.label>речь вступления в роль</Speech_AcceptRole.label>
+  <Speech_AcceptRole.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic-&gt;своей новой роли в общине</li>
+    <li>speechtopic-&gt;своих новых обязанностях</li>
+    <li>speechtopic-&gt;важности своей новой роли</li>
+    <li>speechtopic-&gt;своих положительных качествах</li>
+    <li>speechtopic-&gt;своих сильных сторонах и том, как их применять</li>
+    <li>speechtopic-&gt;своих недостатках</li>
+    <li>speechtopic-&gt;своих слабых сторонах и том, как их компенсировать</li>
+    <li>speechtopic-&gt;своём желании принести пользу общине</li>
+    <li>speechtopic-&gt;своей уверенности в собственных убеждениях</li>
+    <li>speechtopic-&gt;планах на будущее</li>
+    <li>speechtopic-&gt;своём желании служить великой цели</li>
+    <li>speechtopic-&gt;том, как [INITIATOR_pronoun] будет сочетать [hisPersonalCharacteristic_acc] и новую роль</li>
+    <li>speechtopic-&gt;том, как новая роль сделает [INITIATOR_possessive] [PersonalCharacteristic] особенно важным достоинством</li>
+    <li>speechtopic-&gt;том, как [INITIATOR_pronoun] будет применять [hisPersonalCharacteristic_acc] для преодоления трудностей</li>
+    <li>speechtopic-&gt;своей признательности общине</li>
+    <li>speechtopic-&gt;цели в жизни</li>
+    <li>speechtopic-&gt;будущем поселения</li>
+    <li>speechtopic-&gt;улучшениях в жизни поселения</li>
+    <li>speechtopic-&gt;принятии решений в напряжённых условиях</li>
+    <li>speechtopic-&gt;социальной структуре общины</li>
+    <li>speechtopic-&gt;принятии ответственности на себя</li>
+    <li>speechtopic-&gt;главенстве новой роли над [INITIATOR_possessive] личными прихотями</li>
+    <li>hisPersonalCharacteristic_acc-&gt;свой [PersonalCharacteristic_masc]</li>
+    <li>hisPersonalCharacteristic_acc-&gt;свою [PersonalCharacteristic_fem]</li>
+    <li>hisPersonalCharacteristic_acc-&gt;своё [PersonalCharacteristic_neutral]</li>
+    <li>hisPersonalCharacteristic_acc-&gt;свои [PersonalCharacteristic_plural]</li>
+  </Speech_AcceptRole.logRulesInitiator.rulesStrings>
+  <Speech_Blinding.label>речь на ритуале ослепления</Speech_Blinding.label>
+  <Speech_Blinding.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic-&gt;слепоте</li>
+    <li>speechtopic-&gt;чистоте слепоты</li>
+    <li>speechtopic-&gt;духовном смысле невидения</li>
+    <li>speechtopic-&gt;мирах, скрытых за зримым</li>
+    <li>speechtopic-&gt;обманчивой натуре видимого мира</li>
+    <li>speechtopic-&gt;методах ослепления</li>
+    <li>speechtopic-&gt;проклятье зрения</li>
+    <li>speechtopic-&gt;студне в глазном яблоке</li>
+    <li>speechtopic-&gt;взрослении зрячим</li>
+    <li>speechtopic-&gt;взрослении слепым</li>
+    <li>speechtopic-&gt;познании мира без зрения или передвижений</li>
+    <li>speechtopic-&gt;истинных слоях реальности, кроющихся за зримым</li>
+    <li>speechtopic-&gt;психических связях</li>
+  </Speech_Blinding.logRulesInitiator.rulesStrings>
+  <Speech_Conversion.label>речь на ритуале обращения</Speech_Conversion.label>
+  <Speech_Conversion.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic-&gt;сплочении ради великого блага</li>
+    <li>speechtopic-&gt;порочности отступничества</li>
+    <li>speechtopic-&gt;важности выбора правильных убеждений</li>
+    <li>speechtopic-&gt;моральной системе ценности вселенной</li>
+    <li>speechtopic-&gt;праведном и неправедном</li>
+    <li>speechtopic-&gt;целях в жизни</li>
+    <li>speechtopic-&gt;смысле жизни</li>
+    <li>speechtopic-&gt;прошлом человечества</li>
+    <li>speechtopic-&gt;будущем человечества</li>
+    <li>speechtopic-&gt;любви и ненависти</li>
+    <li>speechtopic-&gt;страхах и безопасности</li>
+    <li>speechtopic-&gt;праведности причастия</li>
+    <li>speechtopic-&gt;сплочении и участии</li>
+    <li>speechtopic-&gt;других ложных убеждениях</li>
+    <li>speechtopic-&gt;прогрессу в сторону будущего</li>
+  </Speech_Conversion.logRulesInitiator.rulesStrings>
+  <Speech_DateRitual.label>праздничная речь</Speech_DateRitual.label>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [praised] [praisetopic].</li>
+    <li>praisetopic-&gt;радость идеолигиозных праздников</li>
+    <li>praisetopic-&gt;правильное мышление</li>
+    <li>praisetopic-&gt;моральную систему ценностей вселенной</li>
+    <li>praisetopic-&gt;свои взгляды</li>
+    <li>praisetopic-&gt;сплочённость</li>
+    <li>praisetopic-&gt;совместную жизнь</li>
+    <li>praisetopic-&gt;обмен идеями</li>
+    <li>praisetopic-&gt;свой коллектив</li>
+  </Speech_DateRitual.logRulesInitiator.rulesStrings>
+  <Speech_Duel.label>речь перед дуэлью</Speech_Duel.label>
+  <Speech_Duel.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [praised] [praisetopic].</li>
+    <li>praisetopic-&gt;смерть от оружия</li>
+    <li>praisetopic-&gt;болезненную смерть</li>
+    <li>praisetopic-&gt;почётную смерть</li>
+    <li>praisetopic-&gt;честный бой</li>
+    <li>praisetopic-&gt;стойкость и борьбу</li>
+    <li>praisetopic-&gt;[AdjectiveBadass_neutral] оружие и бойцов</li>
+    <li>praisetopic-&gt;чистоту физического столкновения</li>
+    <li>praisetopic-&gt;любовь через смерть</li>
+    <li>praisetopic-&gt;превосходство над другими</li>
+    <li>praisetopic-&gt;вселенную, которой присущ конфликт</li>
+    <li>praisetopic-&gt;кровь на песке</li>
+    <li>praisetopic-&gt;жизнь и драму</li>
+    <li>praisetopic-&gt;злость и надежду</li>
+    <li>praisetopic-&gt;ярость и силу</li>
+  </Speech_Duel.logRulesInitiator.rulesStrings>
+  <Speech_Execution.label>речь перед казнью</Speech_Execution.label>
+  <Speech_Execution.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic-&gt;жизни и смерти</li>
+    <li>speechtopic-&gt;необходимости правосудия</li>
+    <li>speechtopic-&gt;методах казни</li>
+    <li>speechtopic-&gt;смерти и жестокости</li>
+    <li>speechtopic-&gt;убийстве из милосердия</li>
+    <li>speechtopic-&gt;милосердии безболезненного убийства</li>
+    <li>speechtopic-&gt;символизме смерти</li>
+    <li>speechtopic-&gt;истории высшей меры наказания</li>
+    <li>speechtopic-&gt;причинах для казни</li>
+  </Speech_Execution.logRulesInitiator.rulesStrings>
+  <Speech_Funeral.label>похоронная речь</Speech_Funeral.label>
+  <Speech_Funeral.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic-&gt;благородстве самопожертвования</li>
+    <li>speechtopic-&gt;смерти</li>
+    <li>speechtopic-&gt;жизни после смерти</li>
+    <li>speechtopic-&gt;смерти и семье</li>
+    <li>speechtopic-&gt;понятии хорошей жизни</li>
+    <li>speechtopic-&gt;смерти как пути достоинству</li>
+    <li>speechtopic-&gt;начале и конце</li>
+    <li>speechtopic-&gt;том, что происходит после смерти</li>
+    <li>speechtopic-&gt;радостном принятии будущего</li>
+    <li>speechtopic-&gt;друзьях, которых больше с нами нет</li>
+    <li>speechtopic-&gt;жизни и радости</li>
+    <li>speechtopic-&gt;стремлении завершить начатое</li>
+  </Speech_Funeral.logRulesInitiator.rulesStrings>
+  <Speech_Leader.label>речь лидера</Speech_Leader.label>
+  <Speech_Leader.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic-&gt;поисках [Vegetable]</li>
+    <li>speechtopic-&gt;том, как быть [AdjectiveFriendly]</li>
+    <li>speechtopic-&gt;том, как избегать [AnimalBadass]</li>
+    <li>speechtopic-&gt;том, что вся наша жизнь — [Game]</li>
+    <li>speechtopic-&gt;мышлении, смертоносном, словно [Weapon]</li>
+    <li>speechtopic-&gt;путешествиях через [TerrainFeature] и [TerrainFeature]</li>
+    <li>speechtopic-&gt;обещаниях [Direction]</li>
+    <li>speechtopic-&gt;том, как больше походить на [Animal]</li>
+    <li>speechtopic-&gt;о символизме [NaturalObject] и [NaturalObject]</li>
+    <li>speechtopic-&gt;что каждый здесь друг другу [PersonFamily]</li>
+    <li>speechtopic-&gt;том, как быть хорошим [PersonAlly]</li>
+    <li>speechtopic-&gt;потребности в [PersonJob]</li>
+    <li>speechtopic-&gt;том, как избегать [PersonBadass]</li>
+    <li>speechtopic-&gt;победе над [Enemy] с помощью [ConceptPositive]</li>
+    <li>speechtopic-&gt;том, как [initiator_saw] [Gore] в бою</li>
+    <li>speechtopic-&gt;истории [Mechanoid]</li>
+    <li>speechtopic-&gt;смысле [ConceptPositive]</li>
+    <li>speechtopic-&gt;[ConceptPositive] в поселении</li>
+    <li>speechtopic-&gt;том, как быть [AdjectiveBadass], не будучи [AdjectiveBadass]</li>
+    <li>speechtopic-&gt;насколько поселение [AdjectiveBadass]</li>
+    <li>speechtopic-&gt;[AdjectiveNatural] [TerrainFeature]</li>
+    <li>speechtopic-&gt;том, насколько [AdjectiveLarge] потенциал поселения</li>
+    <li>speechtopic-&gt;[PersonalCharacteristic] каждого поселенца</li>
+    <li>speechtopic-&gt;ужасных проявлениях [PersonalCharacteristic] врагов поселения</li>
+    <li>speechtopic(p=0.25)-&gt;важности сплочённости</li>
+    <li>speechtopic(p=0.25)-&gt;движении вперёд через все трагедии</li>
+    <li>speechtopic(p=0.25)-&gt;важности общины</li>
+    <li>speechtopic(p=0.25)-&gt;первостепенности выживания перед роскошью</li>
+    <li>speechtopic(p=0.25)-&gt;счастье, несмотря на трудности</li>
+    <li>speechtopic(p=0.25)-&gt;смерти, как о мотивации</li>
+    <li>speechtopic(p=0.25)-&gt;стойких сердцах и умах</li>
+    <li>speechtopic(p=0.25)-&gt;праве на выживание</li>
+    <li>initiator_saw(INITIATOR_gender==Male)-&gt;видел</li>
+    <li>initiator_saw(INITIATOR_gender==Female)-&gt;видела</li>
+  </Speech_Leader.logRulesInitiator.rulesStrings>
+  <Speech_RemoveRole.label>речь ухода с роли</Speech_RemoveRole.label>
+  <Speech_RemoveRole.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic-&gt;своей минувшей роли в общине</li>
+    <li>speechtopic-&gt;своих старых обязанностях</li>
+    <li>speechtopic-&gt;трудностях своей старой роли</li>
+    <li>speechtopic-&gt;своих недостатках</li>
+    <li>speechtopic-&gt;своих слабостях и том, как с ними бороться</li>
+    <li>speechtopic-&gt;своём разочаровании в общине</li>
+    <li>speechtopic-&gt;своей уверенности в собственных убеждениях</li>
+    <li>speechtopic-&gt;планах на будущее</li>
+    <li>speechtopic-&gt;своём желании сосредоточиться на личных целях</li>
+    <li>speechtopic-&gt;своём прошлом</li>
+    <li>speechtopic-&gt;демонстрации скромности</li>
+    <li>speechtopic-&gt;жизненных стремлениях</li>
+    <li>speechtopic-&gt;будущем поселения</li>
+    <li>speechtopic-&gt;улучшениях в жизни поселения</li>
+    <li>speechtopic-&gt;социальной структуре общины</li>
+    <li>speechtopic-&gt;своих преемниках</li>
+    <li>speechtopic-&gt;главенстве целей поселения над [INITIATOR_possessive] личными прихотями</li>
+  </Speech_RemoveRole.logRulesInitiator.rulesStrings>
+  <Speech_Sacrifice.label>речь перед жертвоприношением</Speech_Sacrifice.label>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_nameDef] [crazy].</li>
+    <li>speechtopic-&gt;том, какую на самом деле ценность имеет смерть</li>
+    <li>speechtopic-&gt;боли</li>
+    <li>speechtopic-&gt;необходимости насилия</li>
+    <li>speechtopic-&gt;том, какая кровь тёплая</li>
+    <li>speechtopic-&gt;значении смерти</li>
+    <li>speechtopic-&gt;любви и смерти</li>
+    <li>speechtopic-&gt;символичности боли</li>
+    <li>speechtopic-&gt;клинках и плоти</li>
+    <li>speechtopic-&gt;искусстве делать разрезы</li>
+    <li>speechtopic-&gt;соблазнительной силе крови</li>
+    <li>speechtopic-&gt;музыке криков</li>
+    <li>speechtopic-&gt;кишках на полу</li>
+    <li>crazy-&gt;[initiator_screamed]</li>
+    <li>crazy-&gt;внезапно [initiator_sang] молебен</li>
+    <li>crazy-&gt;поёт молебен небесам</li>
+    <li>crazy-&gt;[initiator_spat] в глаз жертве</li>
+    <li>crazy-&gt;[initiator_giggled]</li>
+    <li>crazy-&gt;размахивает клинком</li>
+    <li>crazy-&gt;бормочет себе под нос одно и то же</li>
+    <li>initiator_screamed(INITIATOR_gender==Male)-&gt;завопил, как сумасшедший</li>
+    <li>initiator_screamed(INITIATOR_gender==Female)-&gt;завопила, как сумасшедшая</li>
+    <li>initiator_sang(INITIATOR_gender==Male)-&gt;начал петь</li>
+    <li>initiator_sang(INITIATOR_gender==Female)-&gt;начала петь</li>
+    <li>initiator_spat(INITIATOR_gender==Male)-&gt;плюнул</li>
+    <li>initiator_spat(INITIATOR_gender==Female)-&gt;плюнула</li>
+    <li>initiator_giggled(INITIATOR_gender==Male)-&gt;хихикнул</li>
+    <li>initiator_giggled(INITIATOR_gender==Female)-&gt;хихикнула</li>
+  </Speech_Sacrifice.logRulesInitiator.rulesStrings>
+  <Speech_Scarification.label>речь перед ритуалом шрамирования</Speech_Scarification.label>
+  <Speech_Scarification.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_nameDef] [crazy].</li>
+    <li>speechtopic-&gt;отображении боли на теле</li>
+    <li>speechtopic-&gt;боли</li>
+    <li>speechtopic-&gt;необходимости насилия</li>
+    <li>speechtopic-&gt;том, какая кровь тёплая</li>
+    <li>speechtopic-&gt;значении шрамов</li>
+    <li>speechtopic-&gt;любви и смерти</li>
+    <li>speechtopic-&gt;символичности боли</li>
+    <li>speechtopic-&gt;клинках и плоти</li>
+    <li>speechtopic-&gt;искусстве делать разрезы</li>
+    <li>speechtopic-&gt;соблазнительной силе крови</li>
+    <li>speechtopic-&gt;музыке криков</li>
+    <li>crazy-&gt;[initiator_screamed], как сумасшедший</li>
+    <li>crazy-&gt;внезапно [initiator_sang] молебен</li>
+    <li>crazy-&gt;[initiator_giggled]</li>
+    <li>crazy-&gt;размахивает клинком</li>
+    <li>crazy-&gt;бормочет себе под нос одно и то же</li>
+    <li>initiator_screamed(INITIATOR_gender==Male)-&gt;завопил, как сумасшедший</li>
+    <li>initiator_screamed(INITIATOR_gender==Female)-&gt;завопила, как сумасшедшая</li>
+    <li>initiator_sang(INITIATOR_gender==Male)-&gt;начал петь</li>
+    <li>initiator_sang(INITIATOR_gender==Female)-&gt;начала петь</li>
+    <li>initiator_giggled(INITIATOR_gender==Male)-&gt;хихикнул</li>
+    <li>initiator_giggled(INITIATOR_gender==Female)-&gt;хихикнула</li>
+  </Speech_Scarification.logRulesInitiator.rulesStrings>
+  <Speech_TreeConnection.label>речь перед ритуалом связи</Speech_TreeConnection.label>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic-&gt;деревьях и людях</li>
+    <li>speechtopic-&gt;деревьях и пси-способностях</li>
+    <li>speechtopic-&gt;дриадах</li>
+    <li>speechtopic-&gt;жизненном цикле древа Гауранлен</li>
+    <li>speechtopic-&gt;духовной силе древа Гауранлен</li>
+    <li>speechtopic-&gt;психической дендропатии</li>
+    <li>speechtopic-&gt;том, какие дриады милые</li>
+    <li>speechtopic-&gt;благородности дриад</li>
+    <li>speechtopic-&gt;возрасте деревьев</li>
+    <li>speechtopic-&gt;роли человечества под деревьями</li>
+    <li>speechtopic-&gt;жизни растений и вечности</li>
+    <li>speechtopic-&gt;связи с природой</li>
+  </Speech_TreeConnection.logRulesInitiator.rulesStrings>
+</LanguageData>

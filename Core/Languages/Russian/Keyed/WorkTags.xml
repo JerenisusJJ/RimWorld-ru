@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WorkTagNone>Отсутствует</WorkTagNone>
+  <WorkTagIntellectual>Умственная работа</WorkTagIntellectual>
+  <WorkTagManualDumb>Простая работа</WorkTagManualDumb>
+  <WorkTagManualSkilled>Квалифицированная работа</WorkTagManualSkilled>
+  <WorkTagViolent>Насилие</WorkTagViolent>
+  <WorkTagShooting>Стрельба</WorkTagShooting>
+  <WorkTagCaring>Уход</WorkTagCaring>
+  <WorkTagSocial>Общение</WorkTagSocial>
+  <WorkTagAnimals>Животноводство</WorkTagAnimals>
+  <WorkTagArtistic>Творчество</WorkTagArtistic>
+  <WorkTagCrafting>Ремесло</WorkTagCrafting>
+  <WorkTagCooking>Кулинария</WorkTagCooking>
+  <WorkTagFirefighting>Пожаротушение</WorkTagFirefighting>
+  <WorkTagCleaning>Уборка</WorkTagCleaning>
+  <WorkTagHauling>Переноска</WorkTagHauling>
+  <WorkTagPlantWork>Растениеводство</WorkTagPlantWork>
+  <WorkTagMining>Горное дело</WorkTagMining>
+  <WorkTagHunting>Охота</WorkTagHunting>
+  <WorkTagConstructing>Строительство</WorkTagConstructing>
+  <WorkTagCommoner>Работа для простолюдинов</WorkTagCommoner>
+  <WorkTagAllWork>Любая работа</WorkTagAllWork>
+</LanguageData>

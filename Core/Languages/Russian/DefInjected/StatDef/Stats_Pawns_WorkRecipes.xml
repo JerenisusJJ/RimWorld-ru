@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ButcheryFleshEfficiency.label>эффективность разделки</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>Множитель количества мяса, получаемого при разделке существ.\n\nФактическое количество мяса зависит также от размера существа.</ButcheryFleshEfficiency.description>
+  <ButcheryFleshSpeed.label>скорость разделки</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.description>Скорость, с которой персонаж разделывает тела других существ.</ButcheryFleshSpeed.description>
+  <ButcheryMechanoidEfficiency.label>эффект-ть перераб. механоидов</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>Множитель количества материалов, получаемых персонажем при переработке мёртвого механоида.\n\nРезультат также зависит от размера механоида.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidSpeed.label>скорость переработки механоидов</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.description>Скорость, с которой персонаж перерабатывает механоидов для получения полезных материалов.</ButcheryMechanoidSpeed.description>
+  <CookSpeed.label>скорость приготовления пищи</CookSpeed.label>
+  <CookSpeed.description>Скорость, с которой персонаж готовит блюда.</CookSpeed.description>
+  <DrugCookingSpeed.label>скорость готовки наркотиков</DrugCookingSpeed.label>
+  <DrugCookingSpeed.description>Скорость, с которой персонаж варит пиво, заваривает настои и производит простые наркотические средства, например косяки дымолиста.</DrugCookingSpeed.description>
+  <DrugSynthesisSpeed.label>скорость синтеза препаратов</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.description>Скорость, с которой персонаж синтезирует сложные химические препараты.</DrugSynthesisSpeed.description>
+  <FoodPoisonChance.label>шанс пищевого отравления</FoodPoisonChance.label>
+  <FoodPoisonChance.description>Вероятность, с которой персонаж может ненароком отравить еду, которую готовит.\n\nЧеловек, съевший это блюдо, будет испытывать боль, слабость и тошноту.</FoodPoisonChance.description>
+  <FoodPoisonChance.labelForFullStatList>шанс пищевого отравления (шанс отравить блюдо)</FoodPoisonChance.labelForFullStatList>
+  <GeneralLaborSpeed.label>скорость общей работы</GeneralLaborSpeed.label>
+  <GeneralLaborSpeed.description>Скорость, с которой персонаж выполняет общую работу, такую как обработка камня, работа с перегонным аппаратом, сжигание, пошив одежды, создание предметов искусства, ковка и переплавка. Этот показатель применяется как к занятиям, не требующим специальных навыков, так и к тем, в которых навык влияет на качество конечного продукта вместо скорости работы.</GeneralLaborSpeed.description>
+  <SmeltingSpeed.label>скорость переплавки</SmeltingSpeed.label>
+  <SmeltingSpeed.description>Скорость, с которой персонаж занимается переплавкой.\n\nПоскольку эта работа является чисто механической, скорость её выполнения не зависит ни от каких специальных навыков.</SmeltingSpeed.description>
+</LanguageData>

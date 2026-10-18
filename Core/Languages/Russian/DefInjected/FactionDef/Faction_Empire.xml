@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Empire.label>раздробленная империя</Empire.label>
+  <Empire.description>Технологически продвинутое сообщество с планеты Софиамунда. Их культура основана на принципах чести, жёстком классовом разделении и полном отсутствии социальной мобильности.\n\nОни пережили катастрофу, расколовшую софийское общество. Им пришлось бежать на окраинные миры на остатках своего космического флота. Несмотря на огромные потери, флот и технологии всё ещё делают имперцев сильными.\n\nОни отказываются торговать с теми, у кого нет соответствующего знатного титула.</Empire.description>
+  <Empire.leaderTitle>Высший Стелларх</Empire.leaderTitle>
+  <Empire.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</Empire.messageDefendersAttacking>
+  <Empire.pawnSingular>имперец</Empire.pawnSingular>
+  <Empire.pawnsPlural>имперцы</Empire.pawnsPlural>
+  <Empire.royalFavorLabel>честь</Empire.royalFavorLabel>
+</LanguageData>

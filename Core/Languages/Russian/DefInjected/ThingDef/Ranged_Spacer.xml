@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Bullet_BeamRepeater.label>лазер повторителя луча</Bullet_BeamRepeater.label>
+  <Bullet_Scattergun.label>выстрел дробовика</Bullet_Scattergun.label>
+  <Gun_BeamRepeater.label>повторитель луча</Gun_BeamRepeater.label>
+  <Gun_BeamRepeater.description>Ультратехнологичное оружие, испускающее быструю последовательность гамма-лазерных импульсов. Сфокусированные гамма-лучи способны пробивать щиты.</Gun_BeamRepeater.description>
+  <Gun_BeamRepeater.tools.barrels.label>стволы</Gun_BeamRepeater.tools.barrels.label>
+  <Gun_BeamRepeater.verbs.Verb_Shoot.label>повторитель луча</Gun_BeamRepeater.verbs.Verb_Shoot.label>
+  <Gun_Scattergun.label>дробовик</Gun_Scattergun.label>
+  <Gun_Scattergun.description>Компактное оружие для стрельбы на ближней дистанции, предназначенное для установки на дронов-дозорных.</Gun_Scattergun.description>
+  <Gun_Scattergun.tools.barrel.label>ствол</Gun_Scattergun.tools.barrel.label>
+  <Gun_Scattergun.verbs.Verb_Shoot.label>дробовик</Gun_Scattergun.verbs.Verb_Shoot.label>
+</LanguageData>

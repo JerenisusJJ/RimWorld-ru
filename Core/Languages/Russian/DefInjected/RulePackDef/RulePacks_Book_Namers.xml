@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Namer_Novel.rulePack.rulesStrings>
+    <li>title(p=3)-&gt;«[titleNaked]»</li>
+    <li>title(p=0.7)-&gt;«[ANYPAWN_nameFull] и [titleNaked]»</li>
+    <li>title(p=0.3)-&gt;«[ANYPAWN_nameFull] [prep_place] [conceptAny_gen]»</li>
+    <li>title-&gt;«[story] [Character_gen]»</li>
+    <li>title-&gt;«[objectAny] [Character_gen]»</li>
+    <li>title(p=0.3)-&gt;«[TerrainFeature] [Character_gen]»</li>
+    <li>title(p=0.7)-&gt;«[Character] [prep_place]»</li>
+    <li>title-&gt;«[adjective_weapon] [Character_gen]»</li>
+    <li>title(p=0.3)-&gt;«[adjective_fem] игра в [Game_acc]»</li>
+    <li>title(p=0.7)-&gt;«[adjective_weapon]»</li>
+    <li>titleNaked-&gt;[conceptAny_nom]</li>
+    <li>titleNaked(p=0.7)-&gt;[conceptAny_nom] [linkage_and] [conceptAny_nom]</li>
+    <li>titleNaked(p=1.3)-&gt;[conceptAny_nom] [linkage_of] [conceptAny_gen]</li>
+    <li>titleNaked(p=0.5)-&gt;[objectAny] [conceptAny_gen]</li>
+    <li>titleNaked(p=0.5)-&gt;[amount] [period] [conceptAny_gen]</li>
+    <li>titleNaked-&gt;[place] [conceptAny_gen]</li>
+    <li>conceptAny_nom-&gt;[ConceptPositive_nom]</li>
+    <li>conceptAny_nom-&gt;[ConceptBadass_nom]</li>
+    <li>conceptAny_nom-&gt;[ConceptAngsty_nom]</li>
+    <li>conceptAny_gen-&gt;[ConceptPositive]</li>
+    <li>conceptAny_gen-&gt;[ConceptBadass]</li>
+    <li>conceptAny_gen-&gt;[ConceptAngsty]</li>
+    <li>linkage_and-&gt;и</li>
+    <li>linkage_and-&gt;или</li>
+    <li>linkage_and-&gt;— это</li>
+    <li>linkage_of(p=3)-&gt;</li>
+    <li>linkage_of-&gt;против</li>
+    <li>linkage_of-&gt;ради</li>
+    <li>linkage_of-&gt;без</li>
+    <li>objectAny(p=6)-&gt;[Weapon]</li>
+    <li>objectAny-&gt;[Game]</li>
+    <li>adjective_weapon-&gt;[adjective_masc] [Weapon_masc]</li>
+    <li>adjective_weapon-&gt;[adjective_fem] [Weapon_fem]</li>
+    <li>amount-&gt;[ANYPAWN_age][rand_digit]</li>
+    <li>rand_digit-&gt;0</li>
+    <li>rand_digit-&gt;5</li>
+    <li>rand_digit-&gt;6</li>
+    <li>rand_digit-&gt;7</li>
+    <li>rand_digit-&gt;8</li>
+    <li>rand_digit-&gt;9</li>
+    <li>period-&gt;минут</li>
+    <li>period-&gt;часов</li>
+    <li>period-&gt;дней</li>
+    <li>period-&gt;ночей</li>
+    <li>period-&gt;недель</li>
+    <li>period-&gt;месяцев</li>
+    <li>period-&gt;лет</li>
+    <li>place(p=5)-&gt;[TerrainFeature]</li>
+    <li>place(p=4)-&gt;[place_in_masc]</li>
+    <li>place(p=4)-&gt;[place_in_fem_no_ending]а</li>
+    <li>place(p=4)-&gt;[place_on_masc]</li>
+    <li>place-&gt;[place_on_fem_no_ending]а</li>
+    <li>place_in_masc-&gt;амфитеатр</li>
+    <li>place_in_masc-&gt;бункер</li>
+    <li>place_in_masc-&gt;город</li>
+    <li>place_in_masc-&gt;зоопарк</li>
+    <li>place_in_masc-&gt;лабиринт</li>
+    <li>place_in_masc-&gt;оазис</li>
+    <li>place_in_masc-&gt;океанариум</li>
+    <li>place_in_masc-&gt;особняк</li>
+    <li>place_in_masc-&gt;разлом</li>
+    <li>place_in_masc-&gt;собор</li>
+    <li>place_in_masc-&gt;университет</li>
+    <li>place_in_masc-&gt;храм</li>
+    <li>place_in_fem_no_ending-&gt;библиотек</li>
+    <li>place_in_fem_no_ending-&gt;больниц</li>
+    <li>place_in_fem_no_ending-&gt;бухт</li>
+    <li>place_in_fem_no_ending-&gt;казарм</li>
+    <li>place_in_fem_no_ending-&gt;пещер</li>
+    <li>place_in_fem_no_ending-&gt;психушк</li>
+    <li>place_in_fem_no_ending-&gt;рощ</li>
+    <li>place_in_fem_no_ending-&gt;тундр</li>
+    <li>place_in_fem_no_ending-&gt;тюрьм</li>
+    <li>place_in_fem_no_ending-&gt;усадьб</li>
+    <li>place_in_fem_no_ending-&gt;хижин</li>
+    <li>place_in_fem_no_ending-&gt;школ</li>
+    <li>place_on_masc-&gt;акведук</li>
+    <li>place_on_masc-&gt;вулкан</li>
+    <li>place_on_masc-&gt;завод</li>
+    <li>place_on_masc-&gt;курорт</li>
+    <li>place_on_masc-&gt;маяк</li>
+    <li>place_on_masc-&gt;остров</li>
+    <li>place_on_masc-&gt;плацдарм</li>
+    <li>place_on_masc-&gt;подъёмник</li>
+    <li>place_on_masc-&gt;рудник</li>
+    <li>place_on_masc-&gt;склад</li>
+    <li>place_on_masc-&gt;стадион</li>
+    <li>place_on_fem_no_ending-&gt;выставк</li>
+    <li>place_on_fem_no_ending-&gt;опушк</li>
+    <li>place_on_fem_no_ending-&gt;фабрик</li>
+    <li>prep_place(p=12)-&gt;в [place_in_masc]е</li>
+    <li>prep_place(p=12)-&gt;в [place_in_fem_no_ending]е</li>
+    <li>prep_place-&gt;в глубинах</li>
+    <li>prep_place-&gt;в горах</li>
+    <li>prep_place-&gt;в городке</li>
+    <li>prep_place-&gt;во дворце</li>
+    <li>prep_place-&gt;в деревне</li>
+    <li>prep_place-&gt;в джунглях</li>
+    <li>prep_place-&gt;в закусочной</li>
+    <li>prep_place-&gt;в замке</li>
+    <li>prep_place-&gt;в колизее</li>
+    <li>prep_place-&gt;в космопорту</li>
+    <li>prep_place-&gt;в крепости</li>
+    <li>prep_place-&gt;в лаборатории</li>
+    <li>prep_place-&gt;в лагере</li>
+    <li>prep_place-&gt;в монастыре</li>
+    <li>prep_place-&gt;в обсерватории</li>
+    <li>prep_place-&gt;в оранжерее</li>
+    <li>prep_place-&gt;в поселении</li>
+    <li>prep_place-&gt;в посёлке</li>
+    <li>prep_place-&gt;в пропасти</li>
+    <li>prep_place-&gt;в пустоши</li>
+    <li>prep_place-&gt;в пустыне</li>
+    <li>prep_place-&gt;в святилище</li>
+    <li>prep_place-&gt;в трудовом лагере</li>
+    <li>prep_place-&gt;в улье</li>
+    <li>prep_place-&gt;во фруктовом саду</li>
+    <li>prep_place-&gt;в цитадели</li>
+    <li>prep_place(p=11)-&gt;на [place_on_masc]е</li>
+    <li>prep_place(p=3)-&gt;на [place_on_fem_no_ending]е</li>
+    <li>prep_place-&gt;на аванпосту</li>
+    <li>prep_place-&gt;на болоте</li>
+    <li>prep_place-&gt;на кладбище</li>
+    <li>prep_place-&gt;на корабле</li>
+    <li>prep_place-&gt;на космической станции</li>
+    <li>prep_place-&gt;на нагорье</li>
+    <li>prep_place-&gt;на пустыре</li>
+    <li>prep_place-&gt;на развалинах</li>
+    <li>prep_place-&gt;на рыночной площади</li>
+    <li>prep_place-&gt;на стартовом комплексе</li>
+    <li>prep_place-&gt;на шпиле</li>
+    <li>story-&gt;авантюра</li>
+    <li>story-&gt;байки</li>
+    <li>story-&gt;басни</li>
+    <li>story-&gt;беда</li>
+    <li>story-&gt;биография</li>
+    <li>story-&gt;взгляд</li>
+    <li>story-&gt;воображение</li>
+    <li>story-&gt;головоломка</li>
+    <li>story-&gt;горе</li>
+    <li>story-&gt;грёзы</li>
+    <li>story-&gt;домыслы</li>
+    <li>story-&gt;достояние</li>
+    <li>story-&gt;драма</li>
+    <li>story-&gt;душа</li>
+    <li>story-&gt;жизнеописание</li>
+    <li>story-&gt;житие</li>
+    <li>story-&gt;загадка</li>
+    <li>story-&gt;знание</li>
+    <li>story-&gt;изобретательность</li>
+    <li>story-&gt;иллюзия</li>
+    <li>story-&gt;интуиция</li>
+    <li>story-&gt;истории</li>
+    <li>story-&gt;история</li>
+    <li>story-&gt;каприз</li>
+    <li>story-&gt;комедия</li>
+    <li>story-&gt;мемуары</li>
+    <li>story-&gt;мечты</li>
+    <li>story-&gt;мнение</li>
+    <li>story-&gt;мысли</li>
+    <li>story-&gt;награда</li>
+    <li>story-&gt;наследие</li>
+    <li>story-&gt;наследство</li>
+    <li>story-&gt;несчастье</li>
+    <li>story-&gt;пересказ</li>
+    <li>story-&gt;песнь</li>
+    <li>story-&gt;писанина</li>
+    <li>story-&gt;письмо</li>
+    <li>story-&gt;повесть</li>
+    <li>story-&gt;показания</li>
+    <li>story-&gt;полёт</li>
+    <li>story-&gt;послание</li>
+    <li>story-&gt;похождения</li>
+    <li>story-&gt;поэзия</li>
+    <li>story-&gt;предыстория</li>
+    <li>story-&gt;приключение</li>
+    <li>story-&gt;приключения</li>
+    <li>story-&gt;прихоть</li>
+    <li>story-&gt;причуда</li>
+    <li>story-&gt;проза</li>
+    <li>story-&gt;прозорливость</li>
+    <li>story-&gt;прошлое</li>
+    <li>story-&gt;путешествие</li>
+    <li>story-&gt;раздумья</li>
+    <li>story-&gt;разоблачение</li>
+    <li>story-&gt;рассказ</li>
+    <li>story-&gt;рассуждения</li>
+    <li>story-&gt;россказни</li>
+    <li>story-&gt;сказка</li>
+    <li>story-&gt;сновидение</li>
+    <li>story-&gt;сон</li>
+    <li>story-&gt;странствия</li>
+    <li>story-&gt;тайна</li>
+    <li>story-&gt;трагедия</li>
+    <li>story-&gt;фантазии</li>
+    <li>story-&gt;фантазия</li>
+    <li>story-&gt;чаяния</li>
+  </Namer_Novel.rulePack.rulesStrings>
+  <Namer_Schematic.rulePack.rulesStrings>
+    <li>title(length_subject_primary&lt;28)-&gt;«[subject]. [thoughts][maybe_volume]»</li>
+    <li>title(length_subject_primary&lt;40)-&gt;«[subject][volume]»</li>
+    <li>title(length_subject_primary&lt;24)-&gt;«[studying_no_ending]е [subject_gen]. [thoughts]»</li>
+    <li>title(length_subject_primary&lt;24)-&gt;«[rand_adj_no_ending]ое [studying_no_ending]е [subject_gen]»</li>
+    <li>title(length_subject_primary&lt;32)-&gt;«[maybe_notes][subject_pre_about][maybe_volume]»</li>
+    <li>title(length_subject_primary&lt;20)-&gt;«[rand_adj_no_ending]ые [notes] [subject_pre_about]»</li>
+    <li>title(length_subject_primary&lt;32)-&gt;«[nature] [subject_gen][maybe_volume]»</li>
+    <li>title(length_subject_primary&lt;24)-&gt;«[nature] [studying_no_ending]я [subject_gen]»</li>
+    <li>title(length_subject_primary&lt;16)-&gt;«[studying_no_ending]е [subject_gen] [following_event]»</li>
+    <li>title(length_subject_primary&lt;16)-&gt;«[subject]. [studying_no_ending]е [following_event]»</li>
+    <li>title(length_subject_primary&lt;20)-&gt;«[subject][extra]»</li>
+    <li>title(length_subject_primary&lt;16)-&gt;«[subject]. [rand_adj_no_ending]ые [schemes][maybe_volume]»</li>
+    <li>title(has_subject_secondary==true,p=8)-&gt;«[titlePaired]»</li>
+    <li>title-&gt;«[titlePaired]»</li>
+    <li>title(priority=-1)-&gt;«[nature] [rand_adj_no_ending]ого [studying_no_ending]я», [ANYPAWN_nameFull]</li>
+    <li>titlePaired-&gt;[nature] [pair_gen]</li>
+    <li>titlePaired-&gt;[synergy] [pair_gen]</li>
+    <li>pair_gen(length_subject_primary&lt;16)-&gt;[subject_gen] и [rand_theme_gen]</li>
+    <li>pair_gen(has_subject_secondary==true,length_subject_secondary&lt;16)-&gt;[subject2_gen] и [rand_theme_gen]</li>
+    <li>pair_gen(length_subject_primary&lt;16,has_subject_secondary==true,length_subject_secondary&lt;16,p=4)-&gt;[subject_gen] и [subject2_gen]</li>
+    <li>subject-&gt;[subject_primary]</li>
+    <li>subject_gen-&gt;[subject_primary_gen]</li>
+    <li>subject_pre_about-&gt;[subject_primary_pre_about]</li>
+    <li>subject2_gen-&gt;[subject_secondary_gen]</li>
+    <li>thoughts-&gt;мысли</li>
+    <li>thoughts-&gt;понимание</li>
+    <li>thoughts-&gt;компиляция</li>
+    <li>thoughts-&gt;[notes]</li>
+    <li>maybe_volume(p=10)-&gt;</li>
+    <li>maybe_volume-&gt;[volume]</li>
+    <li>volume-&gt;, том [vol_digit]</li>
+    <li>volume-&gt;, часть [vol_digit]</li>
+    <li>volume-&gt;, выпуск [vol_digit]</li>
+    <li>studying_no_ending-&gt;познани</li>
+    <li>studying_no_ending-&gt;изучени</li>
+    <li>studying_no_ending-&gt;изыскани</li>
+    <li>studying_no_ending-&gt;осмыслени</li>
+    <li>studying_no_ending-&gt;исследовани</li>
+    <li>rand_adj_no_ending-&gt;тёмн</li>
+    <li>rand_adj_no_ending-&gt;мрачн</li>
+    <li>rand_adj_no_ending-&gt;базов</li>
+    <li>rand_adj_no_ending-&gt;священн</li>
+    <li>rand_adj_no_ending-&gt;достойн</li>
+    <li>rand_adj_no_ending-&gt;архаичн</li>
+    <li>rand_adj_no_ending-&gt;проклят</li>
+    <li>rand_adj_no_ending-&gt;печальн</li>
+    <li>rand_adj_no_ending-&gt;жутковат</li>
+    <li>rand_adj_no_ending-&gt;гротескн</li>
+    <li>rand_adj_no_ending-&gt;навязчив</li>
+    <li>rand_adj_no_ending-&gt;примитивн</li>
+    <li>rand_adj_no_ending-&gt;предсмертн</li>
+    <li>rand_adj_no_ending-&gt;непостижим</li>
+    <li>rand_adj_no_ending-&gt;погребальн</li>
+    <li>rand_adj_no_ending-&gt;средневеков</li>
+    <li>maybe_notes(p=2)-&gt;</li>
+    <li>maybe_notes-&gt;всё </li>
+    <li>maybe_notes-&gt;[notes] </li>
+    <li>notes-&gt;заметки</li>
+    <li>notes-&gt;наблюдения</li>
+    <li>notes-&gt;размышления</li>
+    <li>notes-&gt;рассуждения</li>
+    <li>nature-&gt;суть</li>
+    <li>nature-&gt;этика</li>
+    <li>nature-&gt;история</li>
+    <li>nature-&gt;природа</li>
+    <li>nature-&gt;секреты</li>
+    <li>nature-&gt;будущее</li>
+    <li>nature-&gt;сущность</li>
+    <li>nature-&gt;эволюция</li>
+    <li>nature-&gt;развитие</li>
+    <li>nature-&gt;парадоксы</li>
+    <li>nature-&gt;философия</li>
+    <li>nature-&gt;дуальность</li>
+    <li>nature-&gt;диалектика</li>
+    <li>nature-&gt;морфология</li>
+    <li>following_event-&gt;в забытьи</li>
+    <li>following_event-&gt;после торпора</li>
+    <li>following_event-&gt;после ранения</li>
+    <li>following_event-&gt;после восстания</li>
+    <li>following_event-&gt;после лоботомии</li>
+    <li>following_event-&gt;после революции</li>
+    <li>following_event-&gt;после расставания</li>
+    <li>following_event-&gt;после приземления</li>
+    <li>following_event-&gt;в служении Хораксу</li>
+    <li>following_event-&gt;после происшествия</li>
+    <li>following_event-&gt;после клонирования</li>
+    <li>following_event-&gt;после травмирования</li>
+    <li>following_event-&gt;после слияния плоти</li>
+    <li>following_event-&gt;после вызова архотека</li>
+    <li>following_event-&gt;после падения в провал</li>
+    <li>following_event-&gt;после рождения ребёнка</li>
+    <li>following_event-&gt;после заражения архитами</li>
+    <li>extra-&gt; с нуля</li>
+    <li>extra-&gt; в разрезе</li>
+    <li>extra-&gt; от А до Я</li>
+    <li>extra-&gt; для каждого</li>
+    <li>extra-&gt; для чайников</li>
+    <li>extra-&gt; для выживания</li>
+    <li>extra-&gt; под микроскопом</li>
+    <li>extra-&gt;. Срывая покровы</li>
+    <li>extra-&gt;. Вдоль и поперёк</li>
+    <li>extra-&gt;. Вопросы и ответы</li>
+    <li>extra-&gt;. Просто о сложном</li>
+    <li>extra-&gt;. Сложно о простом</li>
+    <li>extra-&gt;. Теория и практика</li>
+    <li>extra-&gt; для всех возрастов</li>
+    <li>extra-&gt; для всех и каждого</li>
+    <li>extra-&gt;. На грани понимания</li>
+    <li>extra-&gt;. За гранью понимания</li>
+    <li>extra-&gt; в вопросах и ответах</li>
+    <li>extra-&gt;. [schemes] и [schemes]</li>
+    <li>extra-&gt;. Систематизация знаний</li>
+    <li>extra-&gt;. От простого к сложному</li>
+    <li>extra-&gt;. От сложного к простому</li>
+    <li>extra-&gt;. На шаг ближе к пониманию</li>
+    <li>extra-&gt;. [schemes], [schemes], [schemes]</li>
+    <li>schemes(uses=1)-&gt;планы</li>
+    <li>schemes(uses=1)-&gt;эпюры</li>
+    <li>schemes(uses=1)-&gt;схемы</li>
+    <li>schemes(uses=1)-&gt;карты</li>
+    <li>schemes(uses=1)-&gt;чертежи</li>
+    <li>schemes(uses=1)-&gt;таблицы</li>
+    <li>schemes(uses=1)-&gt;графики</li>
+    <li>schemes(uses=1)-&gt;диаграммы</li>
+    <li>synergy-&gt;связь</li>
+    <li>synergy-&gt;симбиоз</li>
+    <li>synergy-&gt;синергия</li>
+    <li>synergy-&gt;дихотомия</li>
+    <li>synergy-&gt;взаимосвязь</li>
+    <li>rand_theme_gen-&gt;правды</li>
+    <li>rand_theme_gen-&gt;фольклора</li>
+    <li>rand_theme_gen-&gt;выживания</li>
+    <li>rand_theme_gen-&gt;аутофагии</li>
+    <li>rand_theme_gen-&gt;убеждений</li>
+    <li>rand_theme_gen-&gt;проектирования</li>
+    <li>rand_theme_gen-&gt;научной фантастики</li>
+    <li>vol_digit-&gt;1</li>
+    <li>vol_digit-&gt;2</li>
+    <li>vol_digit-&gt;3</li>
+    <li>vol_digit-&gt;4</li>
+    <li>vol_digit-&gt;5</li>
+  </Namer_Schematic.rulePack.rulesStrings>
+  <Namer_TextBook.rulePack.rulesStrings>
+    <li>title(p=4)-&gt;«[titleBasic]»</li>
+    <li>title(length_subject_primary&lt;32)-&gt;«[basics] [subject_gen]»</li>
+    <li>title(length_subject_primary&lt;24)-&gt;«[subj]. [textbookForStudents]»</li>
+    <li>title(length_subject_primary&lt;18,has_subject_secondary==true,length_subject_secondary&lt;18,p=8)-&gt;«[titleTwoSubjects]»</li>
+    <li>title(length_subject_primary&lt;12,has_subject_secondary==true,length_subject_secondary&lt;12,p=8)-&gt;«[subj] и [subj2]. [textbookForStudents]»</li>
+    <li>title(length_subject_primary&lt;12,has_subject_secondary==true,length_subject_secondary&lt;12,p=4)-&gt;«[subj] и [subj2]», [ANYPAWN_nameFull]</li>
+    <li>title(length_subject_primary&lt;12,p=4)-&gt;«[titleBasic]», [ANYPAWN_nameFull]</li>
+    <li>title(length_subject_primary&lt;16)-&gt;«[subj] и [rand_noun]», [ANYPAWN_nameFull]</li>
+    <li>title(p=0.5)-&gt;«[legacy]», [ANYPAWN_nameFull]</li>
+    <li>title(p=0.5)-&gt;«[legacy] и [legacy]», [ANYPAWN_nameFull]</li>
+    <li>titleBasic-&gt;[intro] [subj_gen]</li>
+    <li>titleBasic-&gt;[subj] и [rand_noun]</li>
+    <li>titleBasic(p=0.5)-&gt;[subj] или [rand_noun]</li>
+    <li>titleBasic-&gt;[subj] [extra]</li>
+    <li>titleTwoSubjects-&gt;[subj2] и [basics] [subject_gen]</li>
+    <li>titleTwoSubjects-&gt;[intro] [subj_gen] и [subj2_gen]</li>
+    <li>titleTwoSubjects-&gt;[subj], [subj2] и [rand_noun]</li>
+    <li>titleTwoSubjects-&gt;[subj], [subj2] или [rand_noun]</li>
+    <li>titleTwoSubjects-&gt;[subj] и [subj2] [extra]</li>
+    <li>subject_gen-&gt;[subject_primary]</li>
+    <li>subj-&gt;{lookup: [subject_primary]; SkillDef_subject; 1}</li>
+    <li>subj_gen-&gt;{lookup: [subject_primary]; SkillDef_subject; 2}</li>
+    <li>subj2-&gt;{lookup: [subject_secondary]; SkillDef_subject; 1}</li>
+    <li>subj2_gen-&gt;{lookup: [subject_secondary]; SkillDef_subject; 2}</li>
+    <li>basics-&gt;азы</li>
+    <li>basics-&gt;уроки</li>
+    <li>basics-&gt;методы</li>
+    <li>basics-&gt;основы</li>
+    <li>basics-&gt;теория</li>
+    <li>basics-&gt;аспекты</li>
+    <li>basics-&gt;секреты</li>
+    <li>basics-&gt;принципы</li>
+    <li>basics-&gt;методология</li>
+    <li>basics-&gt;проблематика</li>
+    <li>textbookForStudents(quality&lt;4)-&gt;[textbook] для детей</li>
+    <li>textbookForStudents(quality&lt;4)-&gt;[textbook] для начинающих</li>
+    <li>textbookForStudents(quality&lt;4)-&gt;[textbook] для школьников</li>
+    <li>textbookForStudents(quality&lt;6,quality&gt;2)-&gt;[textbook] для любителей</li>
+    <li>textbookForStudents(quality&lt;6,quality&gt;2)-&gt;[textbook] для студентов</li>
+    <li>textbookForStudents(quality&lt;6,quality&gt;2)-&gt;[textbook] для абитуриентов</li>
+    <li>textbookForStudents(quality&gt;4)-&gt;[textbook] для магистров</li>
+    <li>textbookForStudents(quality&gt;4)-&gt;[textbook] для бакалавров</li>
+    <li>textbookForStudents(quality&gt;4)-&gt;[textbook] для специалистов</li>
+    <li>textbookForStudents(quality&gt;4)-&gt;[textbook] для профессионалов</li>
+    <li>textbook-&gt;книга</li>
+    <li>textbook-&gt;доклад</li>
+    <li>textbook-&gt;учебник</li>
+    <li>textbook-&gt;пособие</li>
+    <li>textbook-&gt;реферат</li>
+    <li>textbook-&gt;конспект</li>
+    <li>textbook-&gt;задачник</li>
+    <li>textbook-&gt;справочник</li>
+    <li>textbook-&gt;компендиум</li>
+    <li>textbook-&gt;самоучитель</li>
+    <li>textbook-&gt;хрестоматия</li>
+    <li>textbook-&gt;путеводитель</li>
+    <li>textbook-&gt;энциклопедия</li>
+    <li>rand_noun-&gt;хаос</li>
+    <li>rand_noun-&gt;жизнь</li>
+    <li>rand_noun-&gt;любовь</li>
+    <li>rand_noun-&gt;смерть</li>
+    <li>rand_noun-&gt;пираты</li>
+    <li>rand_noun-&gt;неудачи</li>
+    <li>rand_noun-&gt;невзгоды</li>
+    <li>rand_noun-&gt;сомнения</li>
+    <li>rand_noun-&gt;здоровье</li>
+    <li>rand_noun-&gt;бумалопы</li>
+    <li>rand_noun-&gt;развитие</li>
+    <li>rand_noun-&gt;смелость</li>
+    <li>rand_noun-&gt;мудрость</li>
+    <li>legacy(uses=1)-&gt;судьба</li>
+    <li>legacy(uses=1)-&gt;история</li>
+    <li>legacy(uses=1)-&gt;наследие</li>
+    <li>legacy(uses=1)-&gt;познание</li>
+    <li>legacy(uses=1)-&gt;скитания</li>
+    <li>legacy(uses=1)-&gt;раздумья</li>
+    <li>legacy(uses=1)-&gt;достояние</li>
+    <li>legacy(uses=1)-&gt;прозрение</li>
+    <li>legacy(uses=1)-&gt;постижение</li>
+    <li>legacy(uses=1)-&gt;осмысление</li>
+    <li>legacy(uses=1)-&gt;соображения</li>
+    <li>legacy(uses=1)-&gt;размышления</li>
+    <li>legacy(uses=1)-&gt;приключения</li>
+    <li>legacy(uses=1)-&gt;рассуждения</li>
+    <li>legacy(uses=1)-&gt;воспоминания</li>
+    <li>legacy(uses=1)-&gt;жизненный путь</li>
+    <li>intro-&gt;в мире</li>
+    <li>intro-&gt;секреты</li>
+    <li>intro-&gt;загадки</li>
+    <li>intro-&gt;эволюция</li>
+    <li>intro-&gt;парадоксы</li>
+    <li>intro-&gt;философия</li>
+    <li>intro-&gt;эффективность</li>
+    <li>intro-&gt;квинтэссенция</li>
+    <li>extra-&gt;для души</li>
+    <li>extra-&gt;в природе</li>
+    <li>extra-&gt;для жизни</li>
+    <li>extra-&gt;в разрезе</li>
+    <li>extra-&gt;наизнанку</li>
+    <li>extra-&gt;для выживания</li>
+    <li>extra-&gt;в средневековье</li>
+    <li>extra-&gt;под микроскопом</li>
+    <li>extra-&gt;на утопическом мире</li>
+    <li>extra-&gt;в сельской местности</li>
+  </Namer_TextBook.rulePack.rulesStrings>
+</LanguageData>

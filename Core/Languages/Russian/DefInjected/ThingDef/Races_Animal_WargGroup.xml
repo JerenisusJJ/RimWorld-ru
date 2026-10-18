@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Warg.label>варг</Warg.label>
+  <Warg.description>Мускулистые волкоподобные существа с неестественно острыми когтями и невероятно мощной пастью. Питаются исключительно мясом или падалью. При встрече в дикой природе велик риск нападения.\n\nПо мнению авторитетных учёных, варги — потомки боевых животных, созданных для усмирения населения. Суеверные же люди считают их орудием божьего гнева.</Warg.description>
+  <Warg.tools.left_claw.label>левая лапа</Warg.tools.left_claw.label>
+  <Warg.tools.left_claw.labelNoLocation>лапа</Warg.tools.left_claw.labelNoLocation>
+  <Warg.tools.right_claw.label>правая лапа</Warg.tools.right_claw.label>
+  <Warg.tools.right_claw.labelNoLocation>лапа</Warg.tools.right_claw.labelNoLocation>
+  <Warg.tools.razorfangs.label>клыки-лезвия</Warg.tools.razorfangs.label>
+  <Warg.tools.head.label>голова</Warg.tools.head.label>
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerFactionEmpire.rulePack.rulesStrings>
+    <li>r_name(p=2)-&gt;[empire] [ofThing]</li>
+    <li>r_name(p=2)-&gt;[empire_fem] [ofThing]</li>
+    <li>r_name-&gt;[empire] Исхода</li>
+    <li>r_name-&gt;Спасённый [empire]</li>
+    <li>r_name-&gt;Сломленный [empire]</li>
+    <li>r_name-&gt;[Color] [empire]</li>
+    <li>r_name-&gt;[empire_fem] Исхода</li>
+    <li>r_name-&gt;Спасённая [empire_fem]</li>
+    <li>r_name-&gt;Сломленная [empire_fem]</li>
+    <li>r_name-&gt;Разбитая [empire_fem]</li>
+    <li>r_name-&gt;Павшая [empire_fem]</li>
+    <li>r_name-&gt;[Color] [empire]</li>
+    <li>r_name-&gt;[Color_fem] [empire_fem]</li>
+    <li>empire_fem(p=4)-&gt;Империя</li>
+    <li>empire_fem-&gt;Нация</li>
+    <li>empire-&gt;Империум</li>
+    <li>empire-&gt;Доминион</li>
+    <li>empire_fem-&gt;Гегемония</li>
+    <li>ofThing(p=4)-&gt;[WordImperial]</li>
+    <li>ofThing-&gt;Солнца</li>
+    <li>ofThing-&gt;Луны</li>
+    <li>ofThing-&gt;Вселенной</li>
+    <li>ofThing-&gt;Бога</li>
+    <li>ofThing-&gt;Превосходства</li>
+    <li>ofThing-&gt;Вечности</li>
+    <li>ofThing-&gt;Духа</li>
+  </NamerFactionEmpire.rulePack.rulesStrings>
+  <NamerPersonSophian.rulePack.rulesStrings>
+    <li>r_name(p=3)-&gt;[ImperialNameFirstMale] [ImperialNameLastMale]</li>
+    <li>r_name(p=2)-&gt;[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=2)-&gt;[WordImperial] [WordImperial]</li>
+  </NamerPersonSophian.rulePack.rulesStrings>
+  <NamerPersonSophianFemale.rulePack.rulesStrings>
+    <li>r_name(p=3)-&gt;[ImperialNameFirstFemale] [ImperialNameLastFemale]</li>
+    <li>r_name(p=2)-&gt;[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=2)-&gt;[WordImperial] [WordImperial]</li>
+  </NamerPersonSophianFemale.rulePack.rulesStrings>
+  <NamerSettlementEmpire.rulePack.rulesFiles>
+    <li>townname_fixed-&gt;Names/EmpireTown</li>
+  </NamerSettlementEmpire.rulePack.rulesFiles>
+  <NamerSettlementEmpire.rulePack.rulesStrings>
+    <li>r_name-&gt;[townname_wordgen]</li>
+    <li>r_name-&gt;[townname_fixed]</li>
+    <li>townname_wordgen-&gt;[WordImperial]</li>
+    <li>townname_wordgen-&gt;[WordImperial][townend]</li>
+    <li>townend(p=3)-&gt;иум</li>
+    <li>townend(p=3)-&gt;иор</li>
+    <li>townend(p=3)-&gt;полис</li>
+    <li>townend-&gt;нор</li>
+    <li>townend-&gt;лан</li>
+    <li>townend-&gt;лакс</li>
+    <li>townend-&gt;ликс</li>
+    <li>townend-&gt;лин</li>
+    <li>townend-&gt;лиан</li>
+    <li>townend-&gt;фрум</li>
+    <li>townend-&gt;фор</li>
+    <li>townend-&gt;теор</li>
+    <li>townend-&gt;опле</li>
+    <li>townend-&gt;опиум</li>
+    <li>townend-&gt;ор</li>
+    <li>townend-&gt;этор</li>
+    <li>townend-&gt;эум</li>
+    <li>townend-&gt;эциум</li>
+    <li>townend-&gt;ам</li>
+    <li>townend-&gt;эум</li>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
+</LanguageData>

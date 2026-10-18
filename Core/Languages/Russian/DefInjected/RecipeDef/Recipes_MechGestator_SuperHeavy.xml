@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Centurion.label>вырастить центуриона</Centurion.label>
+  <Centurion.description>Вырастить центуриона.</Centurion.description>
+  <Centurion.jobString>Выращивает механоида</Centurion.jobString>
+  <Warqueen.label>вырастить предводительницу</Warqueen.label>
+  <Warqueen.description>Вырастить предводительницу.</Warqueen.description>
+  <Warqueen.jobString>Выращивает механоида</Warqueen.jobString>
+</LanguageData>

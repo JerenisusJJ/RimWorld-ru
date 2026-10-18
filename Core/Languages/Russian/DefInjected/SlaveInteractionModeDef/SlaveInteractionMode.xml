@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Emancipate.label>освободить</Emancipate.label>
+  <Emancipate.description>Надзиратель освободит этого раба.</Emancipate.description>
+  <Execute.label>казнить</Execute.label>
+  <Execute.description>Надзиратель казнит этого раба на месте.</Execute.description>
+  <Imprison.label>арестовать</Imprison.label>
+  <Imprison.description>Надзиратель арестует этого раба. Потом его можно будет завербовать или снова поработить.</Imprison.description>
+  <NoInteraction.label>не вступать в контакт</NoInteraction.label>
+  <NoInteraction.description>Надзиратели не будут вступать в контакт с этим рабом.</NoInteraction.description>
+  <Suppress.label>подавлять</Suppress.label>
+  <Suppress.description>Надзиратели будут периодически запугивать этого раба, чтобы подавить его и снизить вероятность восстания.</Suppress.description>
+</LanguageData>

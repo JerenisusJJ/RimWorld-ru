@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Plant_Astragalus.label>астрагал</Plant_Astragalus.label>
+  <Plant_Astragalus.description>Небольшой многолетний дикий цветок, произрастающий в горном климате.</Plant_Astragalus.description>
+  <Plant_Berry.label>ягодный куст</Plant_Berry.label>
+  <Plant_Berry.description>Дикорастущий куст со вкусными ягодами. Из этих ягод можно делать различные блюда, но они хороши также и в сыром виде.</Plant_Berry.description>
+  <Plant_Dandelion.label>одуванчики</Plant_Dandelion.label>
+  <Plant_Dandelion.description>Низкорослое травянистое растение с мелкими жёлтыми цветками. Произрастает большими скоплениями. Хотя одуванчики часто считаются сорняком, их цветение достаточно красиво.</Plant_Dandelion.description>
+  <Plant_Moss.label>мох</Plant_Moss.label>
+  <Plant_Moss.description>Дикий мох, произрастающий скоплениями в тёмных и влажных местах. Растёт медленно, но очень живуч и морозостоек.</Plant_Moss.description>
+  <Plant_TreeBirch.label>берёза</Plant_TreeBirch.label>
+  <Plant_TreeBirch.description>Дерево, произрастающее в умеренном климате, известное своей тонкой, похожей на бумагу корой.</Plant_TreeBirch.description>
+  <Plant_TreeOak.label>дуб</Plant_TreeOak.label>
+  <Plant_TreeOak.description>Крепкое дерево с твёрдой древесиной. Растёт медленно, но его древесина настолько прочна, что слово «дуб» во многих культурах стало метафорой для силы и стойкости.</Plant_TreeOak.description>
+  <Plant_TreePine.label>сосна</Plant_TreePine.label>
+  <Plant_TreePine.description>Большое хвойное дерево. Его крона имеет хорошо узнаваемую коническую форму.</Plant_TreePine.description>
+  <Plant_TreePoplar.label>тополь</Plant_TreePoplar.label>
+  <Plant_TreePoplar.description>Дерево с мягкой древесиной. Растёт быстро, но содержит не так много пригодной древесины.</Plant_TreePoplar.description>
+</LanguageData>

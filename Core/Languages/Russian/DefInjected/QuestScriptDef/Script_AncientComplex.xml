@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryMethod] неподалеку находится древний комплекс, в котором, по слухам, спрятаны сокровища.\n\nВы можете проникнуть туда, чтобы забрать добычу.\n\nБудьте осторожны, подобные постройки могут скрывать множество опасностей. Кроме того, ваша активность в комплексе может привлечь нежелательное внимание.</li>
+  </OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
+    <li>questName(p=3)-&gt;[complexAdj] [complex] [finalWord]</li>
+    <li>questName-&gt;[complex] [finalWord]</li>
+    <li>complexAdj-&gt;секретные</li>
+    <li>complexAdj-&gt;таинственный</li>
+    <li>complexAdj-&gt;древними</li>
+    <li>complexAdj-&gt;старый</li>
+    <li>complexAdj-&gt;скрытые</li>
+    <li>complexAdj-&gt;смертельный</li>
+    <li>complex-&gt;комплекс</li>
+    <li>complex-&gt;сооружение</li>
+    <li>complex-&gt;структура</li>
+    <li>finalWord-&gt;сокровищ</li>
+    <li>finalWord-&gt;богатства</li>
+    <li>finalWord-&gt;клад</li>
+    <li>finalWord-&gt;тайник</li>
+    <li>finalWord-&gt;добыча</li>
+    <li>finalWord-&gt;ограбление</li>
+    <li>finalWord-&gt;мародерство</li>
+    <li>finalWord-&gt;налет</li>
+    <li>finalWord-&gt;кража</li>
+    <li>finalWord-&gt;ограбление века</li>
+    <li>finalWord-&gt;авантюра</li>
+    <li>finalWord-&gt;трофеи</li>
+  </OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
+    <li>subject-&gt;комплексы</li>
+    <li>subject-&gt;комплекс</li>
+    <li>subject-&gt;сигнал комплекса</li>
+    <li>questMapFeature-&gt;малый комплекс</li>
+    <li>questMapFeature-&gt;сооружение</li>
+    <li>questMapText-&gt;древние сокровища</li>
+    <li>questMapText-&gt;пропавшие мародеры</li>
+  </OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
+</LanguageData>

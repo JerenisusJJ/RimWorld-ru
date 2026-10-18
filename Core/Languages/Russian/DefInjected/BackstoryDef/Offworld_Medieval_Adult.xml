@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Blacksmith72.description>Будучи кузнецом в средневековом мире, {PAWN_nameDef} {PAWN_gender ? получил : получила : получило} заслуженную репутацию мастера своего дела. {PAWN_pronoun} также неплохо {PAWN_gender ? умел : умела : умело} применять выкованные мечи по прямому назначению.</Blacksmith72.description>
+  <Blacksmith72.title>кузнец</Blacksmith72.title>
+  <Blacksmith72.titleShort>кузнец</Blacksmith72.titleShort>
+  <Herbalist54.description>{PAWN_nameDef} {PAWN_gender ? жил : жила : жило} в лесу неподалёку от деревни. Несмотря на то, что большинство жителей побаивались {PAWN_possessive}, заболевшие приходили к н{PAWN_objective} за целебными мазями и примочками из растений, что {PAWN_nameDef} {PAWN_gender ? выращивал : выращивала : выращивало} у себя в саду. {PAWN_pronoun} всегда с радостью {PAWN_gender ? оказывал : оказывала : оказывало} помощь. За определённую плату.</Herbalist54.description>
+  <Herbalist54.title>травник</Herbalist54.title>
+  <Herbalist54.titleShort>травник</Herbalist54.titleShort>
+  <MedievalDoctor40.description>{PAWN_nameDef} {PAWN_gender ? был : была : было} лекарем в средневековом мире. У н{PAWN_possessive} сложилась твёрдая уверенность, что почти любой недуг можно исцелить небольшим кровопусканием.\n\n{PAWN_nameDef} {PAWN_gender ? стал : стала : стало} мастером анестезии, автором специальной методики, включающей в себя тяжёлый удар по голове пациента.</MedievalDoctor40.description>
+  <MedievalDoctor40.title>средневековый врач</MedievalDoctor40.title>
+  <MedievalDoctor40.titleShort>лекарь</MedievalDoctor40.titleShort>
+  <MedievalFarmOaf58.description>Возделывание земли, управление повозками с быками, толкание тачек. Рытьё котлованов, посадка семян, прогнозирование урожая.\n\nСредневековые крестьяне не образованны в обычном смысле этого слова, но они знают, как вырастить урожай, не имея практически ничего. Однако такая жизнь может сделать человека неспособным к занятиям, связанным с более продвинутыми технологиями.</MedievalFarmOaf58.description>
+  <MedievalFarmOaf58.title>крестьянин</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.titleShort>крестьянин</MedievalFarmOaf58.titleShort>
+  <MedievalLord57.description>{PAWN_nameDef} {PAWN_gender ? был лордом : была леди : был лордом} на доиндустриальной планете. {PAWN_pronoun} {PAWN_gender ? посещал : посещала : посещало} званые вечера, {PAWN_gender ? управлял : управляла : управляло} подданными и даже {PAWN_gender ? изучил : изучила : изучило} несколько фехтовальных приёмов.\n\n{PAWN_possessive} нежные руки ни разу в жизни не держали инструмента, {PAWN_pronoun} считает ручной труд ниже своего достоинства.</MedievalLord57.description>
+  <MedievalLord57.title>средневековый лорд</MedievalLord57.title>
+  <MedievalLord57.titleShort>лорд</MedievalLord57.titleShort>
+  <MedievalMinstrel95.description>{PAWN_nameDef} {PAWN_gender ? был странствующим артистом : была странствующей артисткой : был странствующим артистом} в средневековом мире. {PAWN_possessive} всегда можно было найти за рассказыванием интересных историй или пением песен.\n\nЖизнь в дороге была полна опасностей, и {PAWN_nameDef} всегда {PAWN_gender ? мог : могла : мог} постоять за себя. Но как только дело доходило до тяжёлой работы, {PAWN_pronoun} словно {PAWN_gender ? испарялся : испарялась : испарялся}.</MedievalMinstrel95.description>
+  <MedievalMinstrel95.title>менестрель</MedievalMinstrel95.title>
+  <MedievalMinstrel95.titleShort>менестрель</MedievalMinstrel95.titleShort>
+  <MedievalSailor97.description>Долгие годы {PAWN_nameDef} {PAWN_gender ? ходил : ходила : ходило} по морям и океанам средневекового мира в исследовательских экспедициях, собирая образцы растений и животных и время от времени отбиваясь от пиратов. {PAWN_pronoun} настолько {PAWN_gender ? любил : любила : любило} море, что {PAWN_gender ? старался : старалась : старался} как можно меньше работать на суше. Не на корабле {PAWN_possessive} можно было увидеть разве что за продажей собранных сокровищ.</MedievalSailor97.description>
+  <MedievalSailor97.title>мореход</MedievalSailor97.title>
+  <MedievalSailor97.titleShort>моряк</MedievalSailor97.titleShort>
+  <MessageCarrier77.description>В средневековом мире самый быстрый способ доставить послание — вручить его всаднику и надеяться, что тот переживёт путешествие. {PAWN_nameDef} {PAWN_gender ? был : была : было} как раз таким человеком.</MessageCarrier77.description>
+  <MessageCarrier77.title>гонец</MessageCarrier77.title>
+  <MessageCarrier77.titleShort>гонец</MessageCarrier77.titleShort>
+  <Taster16.description>{PAWN_nameDef} {PAWN_gender ? занимал : занимала : занимало} должность слуги-отведывателя при дворе средневекового монарха. В {PAWN_possessive} обязанности входило снятие пробы с каждого блюда, подаваемого на королевский стол. {PAWN_nameDef} не {PAWN_gender ? выполнял : выполняла : выполняло} почти никакой серьёзной работы и {PAWN_gender ? вёл : вела : вёло} праздный образ жизни, постепенно заплывая жиром.</Taster16.description>
+  <Taster16.title>слуга-отведыватель</Taster16.title>
+  <Taster16.titleShort>отведыватель</Taster16.titleShort>
+</LanguageData>

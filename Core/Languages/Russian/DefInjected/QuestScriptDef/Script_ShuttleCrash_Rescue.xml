@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings>
+    <li>failLetterEndingCommon-&gt;Вы провалили задание «[resolvedQuestName]».</li>
+    <li>successLetterEndingCommon-&gt;Вы успешно выполнили задание «[resolvedQuestName]».</li>
+    <li>goodwillSomeCiviliansLost-&gt;Не все [pawnLabelPlural] из фракции [asker_faction_pawnSingular] были спасены. [goodwillNegativelyAffected]</li>
+    <li>goodwillAllCiviliansLost-&gt;Ни один [pawnLabel] из фракции [asker_faction_pawnSingular] не был спасён. [goodwillNegativelyAffected]</li>
+    <li>goodwillNegativelyAffected-&gt;Ваша репутация у фракции [asker_faction_name] ухудшилась за каждого [pawnLabelAcc], которого не удалось спасти.</li>
+    <li>commanderLandingDesc-&gt;[asker_nameDef] — командир, попросивший разрешения на посадку своего челнока в [map_definite]</li>
+    <li>commanderLandingDescAcc-&gt;[asker_nameDef] — командира, попросившего разрешения на посадку своего челнока в [map_definite]</li>
+    <li>raidArrivedLetterLabel-&gt;Налёт: [enemyFaction_name]</li>
+    <li>raidArrivedLetterText-&gt;Прибыли [enemyFaction_pawnsPlural] из фракции [enemyFaction_name]. Они нападут на [asker_faction_pawnsPlural], совершивших аварийную посадку в [map_definite].\n\nЗащищайте [asker_faction_pawnsPlural], пока через [rescueShuttleAfterRaidDelay_duration] не прибудет спасательный челнок.</li>
+    <li>rescueShuttleArrivedLetterLabel-&gt;Спасательный челнок прибыл</li>
+    <li>rescueShuttleArrivedLetterText-&gt;Прибыл спасательный челнок, посланный, чтобы забрать [pawnLabelSingleOrPlural]. Убедитесь, что в челноке на момент его отправления через [leaveDelay_duration] будут эти люди:\n\n[civilians]</li>
+    <li>questCompletedSuccessLetterLabel-&gt;Задание выполнено: «[resolvedQuestName]»</li>
+    <li>questCompletedSuccessLetterText-&gt;У [commanderLandingDescAcc], получается спастись. [asker_pronoun] благодарит вас за помощь в [map_definite].\n\n[successLetterEndingCommon]</li>
+    <li>questCompletedCiviliansLostSuccessLetterLabel-&gt;Задание выполнено: «[resolvedQuestName]»</li>
+    <li>questCompletedCiviliansLostSuccessLetterText-&gt;У [commanderLandingDescAcc], получается спастись.\n\n[goodwillSomeCiviliansLost]\n\n[successLetterEndingCommon]</li>
+    <li>askerLostLetterLabel-&gt;Задание провалено: «[resolvedQuestName]»</li>
+    <li>askerLostLetterText-&gt;[commanderLandingDescAcc], не было на борту челнока в момент его отбытия.\n\n[goodwillSomeCiviliansLost]\n\n[failLetterEndingCommon]</li>
+    <li>allLostLetterLabel-&gt;Задание провалено: «[resolvedQuestName]»</li>
+    <li>allLostLetterText-&gt;Спасательный челнок, посланный, чтобы забрать [asker_faction_pawnsPlural], отбыл пустым.\n\n[goodwillAllCiviliansLost]\n\n[failLetterEndingCommon]</li>
+    <li>askerDiedLetterLabel-&gt;Задание провалено: «[resolvedQuestName]»</li>
+    <li>askerDiedLetterText-&gt;[commanderLandingDesc], погиб.\n\n[failLetterEndingCommon]</li>
+    <li>civilianDiedLetterLabel-&gt;Задание провалено: «[resolvedQuestName]»</li>
+    <li>civilianDiedLetterText-&gt;Гражданский погиб.\n\n[failLetterEndingCommon]</li>
+    <li>shuttleDestroyedLetterLabel-&gt;Задание провалено: «[resolvedQuestName]»</li>
+    <li>shuttleDestroyedLetterText-&gt;Челнок, посланный, чтобы забрать [asker_faction_pawnsPlural], был уничтожен. [asker_faction_pawnsPlural] отправятся в путь пешком.\n\n[failLetterEndingCommon]</li>
+    <li>shuttleLeftBehindLetterLabel-&gt;Задание провалено: «[resolvedQuestName]»</li>
+    <li>shuttleLeftBehindLetterText-&gt;Челнок, посланный, чтобы забрать [asker_faction_pawnsPlural], был оставлен. [asker_faction_pawnsPlural] отправятся в путь пешком.\n\n[failLetterEndingCommon]</li>
+    <li>mapRemovedLetterLabel-&gt;Задание провалено: «[resolvedQuestName]»</li>
+    <li>mapRemovedLetterText-&gt;Местность была покинута до того, как удалось забрать [asker_faction_pawnsPlural]. [asker_faction_pawnsPlural] отправятся в путь пешком.\n\n[failLetterEndingCommon]</li>
+  </ShuttleCrash_Rescue.questContentRules.rulesStrings>
+  <ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings>
+    <li>pawnLabelPlural-&gt;гражданские</li>
+    <li>pawnLabel-&gt;гражданский</li>
+    <li>pawnLabelGen-&gt;гражданских</li>
+    <li>pawnLabelAcc-&gt;гражданского</li>
+  </ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
+    <li>pawnLabelSingleOrPlural(civilians_count==1)-&gt;[pawnLabel]</li>
+    <li>pawnLabelSingleOrPlural(civilians_count&gt;=2)-&gt;[pawnLabelPlural]</li>
+    <li>questDescription-&gt;Челноку фракции [asker_faction_name] требуется аварийная посадка. Командир челнока, [asker_nameDef], хочет приземлиться в [map_definite].\n\nНа челнок будут нападать [enemyFaction_pawnsPlural] из фракции [enemyFaction_name] с целью убить всех пассажиров. Защитите его.\n\nВ челноке находятся: [asker_nameDef][andOtherCivilians] и [soldierCountKinds]. Командир [andCivilians] [shouldBeSaved], и [soldiers0_kindPlural] готовы ради этого пожертвовать своими жизнями.\n\nЧерез [rescueDelay_duration] за выжившими прибудет спасательный челнок. Вы должны будете погрузить их всех на борт в течение [leaveDelay_duration].</li>
+    <li>andOtherCivilians(civilians_count==1)-&gt;</li>
+    <li>andOtherCivilians(civilians_count==2)-&gt;, другой [pawnLabel],</li>
+    <li>andOtherCivilians(civilians_count&gt;=3)-&gt;, [civilianCountMinusOne] других [pawnLabelGen],</li>
+    <li>andCivilians(civilians_count==1)-&gt;</li>
+    <li>andCivilians(civilians_count==2)-&gt;и [pawnLabel]</li>
+    <li>andCivilians(civilians_count&gt;=3)-&gt;и [pawnLabelPlural]</li>
+    <li>soldierCountKinds(soldiers_count==1)-&gt;[soldiers_count] [soldiers0_kind]</li>
+    <li>soldierCountKinds(soldiers_count&gt;1)-&gt;[soldiers0_kindPlural] в количестве [soldiers_count] человек</li>
+    <li>shouldBeSaved(civilians_count==1)-&gt;должен быть спасён</li>
+    <li>shouldBeSaved(civilians_count&gt;=2)-&gt;должны быть спасены</li>
+  </ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings>
+    <li>questName-&gt;[crash] [shuttleAcc]</li>
+    <li>questName-&gt;[crash] [shuttleAcc] [asker_faction_pawnSingular] </li>
+    <li>questName-&gt;[damaged] [shuttle]</li>
+    <li>questName-&gt;[damaged] [shuttle] [asker_nameDef]</li>
+    <li>questName-&gt;[emergency] [landing]</li>
+    <li>questName-&gt;[emergency] [landing] [asker_nameDef]</li>
+    <li>shuttle-&gt;челнок</li>
+    <li>shuttle-&gt;транспорт</li>
+    <li>shuttle-&gt;корабль</li>
+    <li>shuttleAcc-&gt;челнока</li>
+    <li>shuttleAcc-&gt;транспорта</li>
+    <li>shuttleAcc-&gt;корабля</li>
+    <li>crash-&gt;крушение</li>
+    <li>crash-&gt;падение</li>
+    <li>damaged-&gt;повреждённый</li>
+    <li>damaged-&gt;поломанный</li>
+    <li>damaged-&gt;сбоящий</li>
+    <li>emergency-&gt;аварийная</li>
+    <li>emergency-&gt;вынужденная</li>
+    <li>landing-&gt;посадка</li>
+    <li>landing-&gt;посадка</li>
+    <li>landing-&gt;посадка</li>
+  </ShuttleCrash_Rescue.questNameRules.rulesStrings>
+</LanguageData>

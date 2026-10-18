@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <NamerScenario.rulePack.rulesFiles>
+    <li>story-&gt;Words/Nouns/Stories</li>
+  </NamerScenario.rulePack.rulesFiles>
+  <NamerScenario.rulePack.rulesStrings>
+    <li>r_name-&gt;[story] про [Weapon_acc]</li>
+    <li>r_name-&gt;[story] про [Animal]</li>
+    <li>r_name-&gt;[story] про [TerrainFeature]</li>
+    <li>r_name-&gt;[story] про [Outlander]</li>
+    <li>r_name-&gt;[story] [ConceptAny]</li>
+    <li>r_name-&gt;[story] [ConceptAny]</li>
+    <li>r_name-&gt;[story] про [Community]</li>
+    <li>r_name-&gt;[AdjectiveAny] [story]</li>
+    <li>r_name-&gt;[story] про [Game]</li>
+    <li>r_name-&gt;[story] в [Color] и [Color] цветах</li>
+    <li>r_name-&gt;[Color] [story]</li>
+    <li>r_name-&gt;[story] [RomanNumeral]</li>
+  </NamerScenario.rulePack.rulesStrings>
+</LanguageData>

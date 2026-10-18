@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BloodWarmer.label>подогреватель крови</BloodWarmer.label>
+  <BloodWarmer.description>Особый биоферритовый протез, который активно нагревает кровь упыря, позволяя ему выживать в условиях холода. Протез заменяет почку упыря, нагревая проходящую через нее кровь.\n\nПоскольку протез доставляет крайне болезненные ощущения, такое улучшение могут переносить только упыри.</BloodWarmer.description>
+  <PilotAssistant.label>помощник пилота</PilotAssistant.label>
+  <PilotAssistant.description>Нейроинтерфейс, который соединяет мозг пилота напрямую с транспортным средством, улучшая контроль и скорость реакции пилота. Только не думайте о крушении.</PilotAssistant.description>
+  <VacskinGland.label>герметизирующая железа</VacskinGland.label>
+  <VacskinGland.description>Бионическая железа, имплантируемая под кожу. Выделяет изолирующий защитный секрет от космического вакуума и перепадов давления, а также насыщает кровь кислородом.</VacskinGland.description>
+</LanguageData>

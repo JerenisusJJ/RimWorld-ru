@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AbandonedChild23.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родился} с очень слабым здоровьем. В {PAWN_possessive} племени решили, что {PAWN_pronoun} будет обузой, и бросили на произвол судьбы. Но {PAWN_nameDef} {PAWN_gender ? выжил : выжила : выжило}.</AbandonedChild23.description>
+  <AbandonedChild23.title>брошенный мальчик</AbandonedChild23.title>
+  <AbandonedChild23.titleShort>брошенный</AbandonedChild23.titleShort>
+  <Bookworm19.description>Общению с другими детьми {PAWN_nameDef} {PAWN_gender ? предпочитал : предпочитала : предпочитало} погружаться в литературу. {PAWN_pronoun} в раннем возрасте самостоятельно {PAWN_gender ? научился : научилась : научился} читать по книгам, купленным у проходящих мимо торговцев.</Bookworm19.description>
+  <Bookworm19.title>книжный червь</Bookworm19.title>
+  <Bookworm19.titleShort>книжный червь</Bookworm19.titleShort>
+  <BuddingArtist44.description>{PAWN_nameDef} {PAWN_gender ? обладал : обладала : обладало} выдающимися художественными способностями. Многие торговцы и коллекционеры стремились приобрести {PAWN_possessive} творения.</BuddingArtist44.description>
+  <BuddingArtist44.title>юный художник</BuddingArtist44.title>
+  <BuddingArtist44.titleShort>художник</BuddingArtist44.titleShort>
+  <Bully70.description>В детстве {PAWN_nameDef} {PAWN_gender ? любил : любила : любило} издеваться над другими детьми забавы ради. Чтобы занять {PAWN_gender ? хулигана : хулиганку : хулигана} хоть чем-то полезным, старейшина назначил {PAWN_possessive} охотником в раннем возрасте.</Bully70.description>
+  <Bully70.title>хулиган</Bully70.title>
+  <Bully70.titleShort>хулиган</Bully70.titleShort>
+  <CaveChild30.description>{PAWN_nameDef} {PAWN_gender ? рос : росла : рос} в огромной и запутанной системе пещер, простиравшейся далеко вглубь гор. {PAWN_pronoun} {PAWN_gender ? помогал : помогала : помогало} взрослым содержать и обустраивать глубинные пещеры.</CaveChild30.description>
+  <CaveChild30.title>пещерный ребёнок</CaveChild30.title>
+  <CaveChild30.titleShort>пещерник</CaveChild30.titleShort>
+  <CrashBaby32.description>В младенческом возрасте {PAWN_nameDef} {PAWN_gender ? оказался единственным выжившим : оказалась единственной выжившей : оказался единственным выжившим} при аварии космического корабля. Проходящее мимо племя нашло {PAWN_possessive} в обломках и растило как {PAWN_gender ? своего : свою : своего}.</CrashBaby32.description>
+  <CrashBaby32.title>выживший мальчик</CrashBaby32.title>
+  <CrashBaby32.titleShort>выживший</CrashBaby32.titleShort>
+  <FireKeeper44.description>В детстве {PAWN_nameDef} {PAWN_gender ? отвечал : отвечала : отвечало} за сохранение огня в племенном очаге. {PAWN_pronoun} очень серьёзно {PAWN_gender ? относился : относилась : относился} к своим обязанностям.</FireKeeper44.description>
+  <FireKeeper44.title>хранитель огня</FireKeeper44.title>
+  <FireKeeper44.titleShort>хранитель огня</FireKeeper44.titleShort>
+  <Herder19.description>В детстве {PAWN_nameDef} {PAWN_gender ? пас : пасла : пас} стада муффало своего племени, оберегая их от хищников и выхаживая больных животных. Это была спокойная работа вдали от людей, что {PAWN_objective} вполне нравилось.</Herder19.description>
+  <Herder19.title>пастух</Herder19.title>
+  <Herder19.titleShort>пастух</Herder19.titleShort>
+  <Hideaway7.description>{PAWN_nameDef} {PAWN_gender ? стал : стала : стало} жертвой гиперопеки своих родителей и почти не {PAWN_gender ? выходил : выходила : выходило} из дома. И, хотя у н{PAWN_possessive} было много времени для чтения книг и увлечений ремёслами, {PAWN_pronoun} так и не {PAWN_gender ? смог : смогла : смог} развить нормальных социальных навыков.</Hideaway7.description>
+  <Hideaway7.title>затворник</Hideaway7.title>
+  <Hideaway7.titleShort>затворник</Hideaway7.titleShort>
+  <ReclusiveChild81.description>{PAWN_nameDef} не {PAWN_gender ? умел : умела : умело} говорить почти до пяти лет. Даже после этого {PAWN_pronoun} {PAWN_gender ? предпочитал : предпочитала : предпочитало} оставаться наедине с собой. Назло своим попечителям {PAWN_nameDef} {PAWN_gender ? взял : взяла : взяло} за привычку уходить из деревни и жить среди природы по нескольку недель.</ReclusiveChild81.description>
+  <ReclusiveChild81.title>замкнутый мальчик</ReclusiveChild81.title>
+  <ReclusiveChild81.titleShort>отшельник</ReclusiveChild81.titleShort>
+  <Scavenger22.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела : провёло} своё детство, избегая тяжёлой работы для того, чтобы иметь возможность заниматься исследованием руин и обломков кораблей. {PAWN_possessive} природное любопытство не раз приносило {PAWN_objective} кучу проблем, но вместе с тем дарило множество интересных находок.</Scavenger22.description>
+  <Scavenger22.title>мусорщик</Scavenger22.title>
+  <Scavenger22.titleShort>мусорщик</Scavenger22.titleShort>
+  <SoleSurvivor21.description>{PAWN_nameDef} {PAWN_gender ? пережил : пережила : пережило} налёт, в котором погибло всё {PAWN_possessive} племя. Хотя {PAWN_possessive} приняли в другое племя, после такого потрясения {PAWN_pronoun} {PAWN_gender ? предпочитал : предпочитала : предпочитало} оставаться возле дома, занимаясь готовкой и выращиванием урожая.</SoleSurvivor21.description>
+  <SoleSurvivor21.title>оставшийся в живых</SoleSurvivor21.title>
+  <SoleSurvivor21.titleShort>выживший</SoleSurvivor21.titleShort>
+  <TribeChild40.description>{PAWN_nameDef} {PAWN_gender ? рос : росла : рос} в племени, бегая по деревне, перегоняя стада муффало и обучаясь у своих родителей всему самому важному.\n\n{PAWN_nameDef} не {PAWN_gender ? был обучен : была обучена : был обучно} грамоте и никогда не {PAWN_gender ? видел : видела : видело} никаких механизмов, кроме останков древних машин.</TribeChild40.description>
+  <TribeChild40.title>мальчик из племени</TribeChild40.title>
+  <TribeChild40.titleShort>абориген</TribeChild40.titleShort>
+  <VengefulChild43.description>Однажды возвращаясь в родную деревню, {PAWN_nameDef} {PAWN_gender ? обнаружил : обнаружила : обнаружило}, что та уничтожена бандитами. {PAWN_pronoun} {PAWN_gender ? поклялся : поклялась : поклялся} отомстить напавшим и {PAWN_gender ? начал : начала : начало} свой жестокий путь в пустошах.</VengefulChild43.description>
+  <VengefulChild43.title>мстительное дитя</VengefulChild43.title>
+  <VengefulChild43.titleShort>мститель</VengefulChild43.titleShort>
+</LanguageData>

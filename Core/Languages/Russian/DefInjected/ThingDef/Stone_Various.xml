@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BlocksVacstone.label>блоки вакуумита</BlocksVacstone.label>
+  <BlocksVacstone.description>Блоки вакуумита — добываемой на астероидах плотной породы.</BlocksVacstone.description>
+  <BlocksVacstone.stuffProps.stuffAdjective>вакуумита</BlocksVacstone.stuffProps.stuffAdjective>
+  <ChunkVacstone.label>обломок вакуумита</ChunkVacstone.label>
+  <ChunkVacstone.description>Обломок астероидной породы. Можно разрезать на блоки, пригодные для строительства.</ChunkVacstone.description>
+  <SmoothedSolidIce.label>полированный твёрдый лёд</SmoothedSolidIce.label>
+  <SmoothedSolidIce.description>Твёрдый ледниковый лёд, довольно легко поддающийся добыче. Отполированная поверхность отливает мягким светло-голубым оттенком.</SmoothedSolidIce.description>
+  <SmoothedVacstone.label>полированный вакуумит</SmoothedVacstone.label>
+  <SmoothedVacstone.description>Отполированная астероидная порода, состоящая из спрессованной с камнем космической пыли.</SmoothedVacstone.description>
+  <SolidIce.label>твёрдый лёд</SolidIce.label>
+  <SolidIce.description>Твёрдый ледниковый лёд, довольно легко поддающийся добыче.</SolidIce.description>
+  <Vacstone.label>вакуумит</Vacstone.label>
+  <Vacstone.description>Астероидная порода, состоящая из спрессованной с камнем космической пыли.</Vacstone.description>
+</LanguageData>

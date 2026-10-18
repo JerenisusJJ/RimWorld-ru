@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LavaShallow.label>мелкая лава</LavaShallow.label>
+  <MarshFlood.label>мелкая паводковая вода</MarshFlood.label>
+  <MarshFlood.tools.water.label>вода</MarshFlood.tools.water.label>
+  <MarshFlood.tools.mud.label>грязь</MarshFlood.tools.mud.label>
+  <ShallowFloodwater.label>мелкая паводковая вода</ShallowFloodwater.label>
+  <ShallowFloodwater.tools.water.label>вода</ShallowFloodwater.tools.water.label>
+  <SpringFlood.label>мелкая паводковая вода</SpringFlood.label>
+  <SpringFlood.tools.water.label>вода</SpringFlood.tools.water.label>
+  <ThinIce.label>тонкий лёд</ThinIce.label>
+  <ToxicFlood.label>мелкая паводковая вода</ToxicFlood.label>
+  <ToxicFlood.tools.water.label>вода</ToxicFlood.tools.water.label>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EndGame_VoidAwakening.questContentRules.rulesStrings>
+    <li>darknessStartedLetterLabel-&gt;Неестественная темнота</li>
+    <li>darknessStartedLetterText-&gt;Опускается неестественная темнота. Тьма кишит нечеловеческими созданиями. Не давайте поселенцам уходить от света.</li>
+    <li>structuresArrivingAlertLabel-&gt;Появляются пустотные объекты</li>
+    <li>structuresArrivingAlertExplanation-&gt;Грань между нашим миром и пустотой истончается и вот-вот надорвётся. Скоро рядом с вами появятся объекты из пустоты. Чтобы полностью пробудить монолит пустоты, эти объекты нужно активировать.\n\nГотовьтесь, объекты скоро появятся.</li>
+    <li>voidStructuresLetterLabel-&gt;Пустотные объекты</li>
+    <li>voidStructuresLetterText-&gt;Словно из ниоткуда появляются искажённые объекты, которые испускают тёмные псионические импульсы. Вокруг них вянут все растения.\n\nАктивируйте объекты, чтобы продвинуться дальше.</li>
+    <li>gleamingMonolithWarningLetterLabel-&gt;Искажение усиливается</li>
+    <li>gleamingMonolithWarningLetterText-&gt;Монолит начал меняться сильнее, перетекая из одной формы в другую. Сейчас что-то случится…</li>
+    <li>gleamingMonolithLetterLabel-&gt;Монолит пустоты</li>
+    <li>gleamingMonolithLetterText-&gt;Монолит полностью пробуждён. На вершине его раскручивается тёмная воронка: путь в пустоту.\n\nОтправляйтесь к монолиту и пройдите сквозь открывшиеся врата. После этого неестественная темнота отступит, и чудовища прекратят нападать.</li>
+    <li>monolithTwistingAlertLabel-&gt;Монолит меняет форму</li>
+    <li>monolithTwistingAlertExplanation-&gt;Монолит меняется сам и изменяет разум смотрящих на него. Сейчас что-то произойдёт. Готовьтесь.</li>
+  </EndGame_VoidAwakening.questContentRules.rulesStrings>
+  <EndGame_VoidAwakening.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;</li>
+  </EndGame_VoidAwakening.questDescriptionRules.rulesStrings>
+  <EndGame_VoidAwakening.questNameRules.rulesStrings>
+    <li>questName-&gt;пустота пробуждается</li>
+  </EndGame_VoidAwakening.questNameRules.rulesStrings>
+  <EndGame_VoidMonolith.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;</li>
+  </EndGame_VoidMonolith.questDescriptionRules.rulesStrings>
+  <EndGame_VoidMonolith.questNameRules.rulesStrings>
+    <li>questName-&gt;Аномальный монолит</li>
+  </EndGame_VoidMonolith.questNameRules.rulesStrings>
+</LanguageData>

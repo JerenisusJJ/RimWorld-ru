@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PsychicDroner.label>Источник гула</PsychicDroner.label>
+  <PsychicDroner.description>Источник психоактивного гула, влияющего на {replace: {0}; "мужчина"-"мужчин"; "женщина"-"женщин"}, сводит их с ума.</PsychicDroner.description>
+  <PsychicDroner.letterText>Источник психоактивного гула начал действовать на этот регион.</PsychicDroner.letterText>
+</LanguageData>

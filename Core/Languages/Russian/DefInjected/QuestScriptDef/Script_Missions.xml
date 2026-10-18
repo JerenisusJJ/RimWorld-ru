@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AncientComplex_Mission.questContentRules.rulesStrings>
+    <li>terminalHackedMessage-&gt;Терминал взломан. Всего взломано {COUNT} из [terminalCount] терминалов.</li>
+    <li>passengersIncapableOfHackingDialogLabel-&gt;[passengersSingularOrPlural].</li>
+    <li>passengersIncapableOfHackingDialogText-&gt;В челноке, отправляющемся на выполнение задания «[resolvedQuestName]», нет никого, кто мог бы взламывать терминалы. Вы должны отправить на исследование древнего комплекса как минимум одного человека с навыками умственного труда.</li>
+    <li>passengersSingularOrPlural(colonistCount==1)-&gt;пассажир не может взламывать</li>
+    <li>passengersSingularOrPlural(colonistCount&gt;=2)-&gt;пассажиры не могут взламывать</li>
+  </AncientComplex_Mission.questContentRules.rulesStrings>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+    <li>complex-&gt;комплекса</li>
+    <li>complex-&gt;сектора</li>
+    <li>investigation-&gt;изучение</li>
+    <li>investigation-&gt;исследование</li>
+    <li>investigation-&gt;раскопки</li>
+    <li>investigation-&gt;анализ</li>
+    <li>investigation-&gt;взлом</li>
+  </AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+  <AncientComplex_Mission.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name], [asker_discovered] далёкий древний комплекс. [asker_pronoun] считает, что в нём можно найти информацию о реликвии, известной как «[relic_name]».\n\n[asker_nameDef] не может выделить людей, но надеется, что вы сможете отправить [colonistCount] [colonistsSingularOrPlural], чтобы изучить комплекс.\n\nКомплекс полон неизвестных опасностей, его также разыскивают враги [asker_nameDef] из фракции [enemyFaction_name].\n\n[asker_pronoun] пришлёт челнок, который заберёт ваших поселенцев, доставит их к комплексу, а затем вернёт обратно домой. В пути им будет предоставлена пища и медицинский уход.\n\nПосле приземления вы должны взломать все терминалы в комплексе в течение [timeoutTicks_duration].</li>
+    <li>colonistsSingularOrPlural(colonistCount==1)-&gt;поселенца</li>
+    <li>colonistsSingularOrPlural(colonistCount&gt;=2)-&gt;поселенцев</li>
+    <li>asker_discovered(asker_gender==Male)-&gt;обнаружил</li>
+    <li>asker_discovered(asker_gender==Female)-&gt;обнаружила</li>
+  </AncientComplex_Mission.questDescriptionRules.rulesStrings>
+  <AncientComplex_Mission.questNameRules.rulesStrings>
+    <li>questName-&gt;[investigation] [missionAdj] [complex]</li>
+    <li>missionAdj-&gt;скрытого</li>
+    <li>missionAdj-&gt;тайного</li>
+    <li>missionAdj-&gt;секретного</li>
+  </AncientComplex_Mission.questNameRules.rulesStrings>
+</LanguageData>

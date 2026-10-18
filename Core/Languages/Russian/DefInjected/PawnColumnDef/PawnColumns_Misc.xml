@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Age.label>возраст</Age.label>
+  <AllowedArea.label>доступная область</AllowedArea.label>
+  <AllowedAreaWide.label>доступная область</AllowedAreaWide.label>
+  <Carry.label>иметь при себе</Carry.label>
+  <DrugPolicy.label>приём препаратов</DrugPolicy.label>
+  <FoodRestriction.label>диета</FoodRestriction.label>
+  <HostilityResponse.headerTip>Реакция на угрозу</HostilityResponse.headerTip>
+  <Label.label>имя</Label.label>
+  <Label.headerTip>Имя</Label.headerTip>
+  <LabelShortWithIcon.label>имя</LabelShortWithIcon.label>
+  <LabelShortWithIcon.headerTip>Имя</LabelShortWithIcon.headerTip>
+  <LabelWithIcon.label>имя</LabelWithIcon.label>
+  <LabelWithIcon.headerTip>Имя</LabelWithIcon.headerTip>
+  <Master.label>хозяин</Master.label>
+  <MedicalCare.headerTip>Врачебный уход</MedicalCare.headerTip>
+  <Outfit.label>гардероб</Outfit.label>
+  <Reading.label>чтение</Reading.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EMPPulse.label>выпустить ЭМИ-импульс</EMPPulse.label>
+  <EMPPulse.description>Выпускает ЭМИ-импульс, исходящий из точки использования. Эта энергия оглушает ближайшие механические цели, например механоидов или турели.</EMPPulse.description>
+  <LaunchEMPShell.label>запустить ЭМИ-снаряд</LaunchEMPShell.label>
+  <LaunchEMPShell.description>Запускает снаряд, который выпускает электромагнитный импульс, оглушающий механические цели. Можно перезарядить сталью.</LaunchEMPShell.description>
+  <LaunchFragGrenade.label>запустить осколочную гранату</LaunchFragGrenade.label>
+  <LaunchFragGrenade.description>Запускает гранату. Можно перезарядить сталью.</LaunchFragGrenade.description>
+  <LaunchIncendiaryShell.label>запустить зажигательный снаряд</LaunchIncendiaryShell.label>
+  <LaunchIncendiaryShell.description>Запускает снаряд, создающий взрыв при столкновении и воспламеняющий всё вокруг. Можно перезарядить химтопливом.</LaunchIncendiaryShell.description>
+  <LaunchSmokeShell.label>запустить дымовой снаряд</LaunchSmokeShell.label>
+  <LaunchSmokeShell.description>Запускает дымовой снаряд, который затрудняет прицеливание и мешает турелям захватывать цели. Можно перезарядить сталью.</LaunchSmokeShell.description>
+</LanguageData>

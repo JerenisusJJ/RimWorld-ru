@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+    <li>r_deityType-&gt;Создатель [all]</li>
+    <li>r_deityType-&gt;[adj] Бог</li>
+    <li>all-&gt;всего</li>
+    <li>all-&gt;всех и всего</li>
+    <li>all-&gt;вселенной</li>
+    <li>adj-&gt;всемогущий</li>
+    <li>adj-&gt;всевластный</li>
+    <li>adj-&gt;вселенский</li>
+  </DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+  <NamerDeityChristian.rulePack.rulesStrings>
+    <li>r_deityName(p=3)-&gt;Бог</li>
+    <li>r_deityName-&gt;Христос-Владыка</li>
+    <li>r_deityName-&gt;Христос</li>
+    <li>r_deityName-&gt;[color] Иисус</li>
+    <li>r_deityName-&gt;[color] Христос</li>
+  </NamerDeityChristian.rulePack.rulesStrings>
+  <NamerDeityIslamic.rulePack.rulesStrings>
+    <li>r_deityName(p=8)-&gt;Аллах</li>
+    <li>r_deityName-&gt;Аль-Илах</li>
+    <li>r_deityName-&gt;Ар-Рахман</li>
+    <li>r_deityName-&gt;Аль-Малик</li>
+    <li>r_deityName-&gt;Аль-Кудус</li>
+    <li>r_deityName-&gt;Ас-Салам</li>
+    <li>r_deityName-&gt;Аль-Мумин</li>
+    <li>r_deityName-&gt;Аль-Азиз</li>
+    <li>r_deityName-&gt;Аль-Джаббар</li>
+    <li>r_deityName-&gt;Аль-Халик</li>
+    <li>r_deityName-&gt;Аль-Гаффар</li>
+    <li>r_deityName-&gt;Аль-Каххар</li>
+    <li>r_deityName-&gt;Аль-Ваххаб</li>
+    <li>r_deityName-&gt;Аль-Фаттах</li>
+    <li>r_deityName-&gt;Аль-Алим</li>
+    <li>r_deityName-&gt;Аль-Хакам</li>
+  </NamerDeityIslamic.rulePack.rulesStrings>
+</LanguageData>

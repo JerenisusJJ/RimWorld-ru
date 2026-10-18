@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Outpost.label>лагерь</Outpost.label>
+  <Outpost.description>Небольшой охраняемый лагерь.</Outpost.description>
+  <Outpost.approachingReportString>Нападает на {lookup: {0}; Case; 3}</Outpost.approachingReportString>
+  <Outpost.approachOrderString>Напасть на {lookup: {0}; Case; 3}</Outpost.approachOrderString>
+  <Outpost.arrivedLetter>В этом месте расположен вражеский лагерь.</Outpost.arrivedLetter>
+</LanguageData>
