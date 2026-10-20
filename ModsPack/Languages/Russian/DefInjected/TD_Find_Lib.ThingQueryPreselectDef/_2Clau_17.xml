@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-	<!-- EN: is mechanitor -->
-	<Query_IsMechanitor.label>is mechanitor</Query_IsMechanitor.label>
-	<!-- EN: is work mech -->
-	<Query_IsWorkMech.label>is work mech</Query_IsWorkMech.label>
-	<!-- EN: mech energy -->
-	<Query_MechEnergy.label>mech energy</Query_MechEnergy.label>
-	<!-- EN: has no xenogenes -->
-	<Query_Xenogerm.label>has no xenogenes</Query_Xenogerm.label>
-	<!-- EN: market value -->
-	<Query_MarketValue.label>market value</Query_MarketValue.label>
+	
+	<Query_IsMechanitor.label>является механитором</Query_IsMechanitor.label>
+	
+	<Query_IsWorkMech.label>является рабочим механоидом</Query_IsWorkMech.label>
+	
+	<Query_MechEnergy.label>энергия механоида</Query_MechEnergy.label>
+	
+	<Query_Xenogerm.label>нет ксеногенов</Query_Xenogerm.label>
+	
+	<Query_MarketValue.label>рыночная стоимость</Query_MarketValue.label>
 </LanguageData>

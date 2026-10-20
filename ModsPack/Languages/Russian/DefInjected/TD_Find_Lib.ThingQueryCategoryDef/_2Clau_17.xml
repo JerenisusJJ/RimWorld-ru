@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-	<!-- EN: odyssey -->
-	<Category_Odyssey.label>odyssey</Category_Odyssey.label>
-	<!-- EN: biotech -->
-	<Category_Biotech.label>biotech</Category_Biotech.label>
-	<!-- EN: ideoligion -->
-	<Category_IdeoPawn.label>ideoligion</Category_IdeoPawn.label>
-	<!-- EN: royalty -->
-	<Category_Royal.label>royalty</Category_Royal.label>
-	<!-- EN: personal details -->
-	<Category_PawnProp.label>personal details</Category_PawnProp.label>
-	<!-- EN: statistics -->
-	<Category_PawnStats.label>statistics</Category_PawnStats.label>
-	<!-- EN: status -->
-	<Category_PawnStatus.label>status</Category_PawnStatus.label>
-	<!-- EN: guests -->
-	<Category_PawnGuest.label>guests</Category_PawnGuest.label>
-	<!-- EN: assign -->
-	<Category_PawnAssign.label>assign</Category_PawnAssign.label>
-	<!-- EN: animal details -->
-	<Category_AnimalProp.label>animal details</Category_AnimalProp.label>
-	<!-- EN: item info -->
-	<Category_ItemInfo.label>item info</Category_ItemInfo.label>
-	<!-- EN: building info -->
-	<Category_BuildingInfo.label>building info</Category_BuildingInfo.label>
-	<!-- EN: plants and food -->
-	<Category_Plants.label>plants and food</Category_Plants.label>
-	<!-- EN: location -->
-	<Category_Location.label>location</Category_Location.label>
-	<!-- EN: Expansion/Mod -->
-	<Category_Mod.label>Expansion/Mod</Category_Mod.label>
-	<!-- EN: Dev/Cheat options -->
-	<Category_devmode.label>Dev/Cheat options</Category_devmode.label>
+	
+	<Category_Odyssey.label>одиссея</Category_Odyssey.label>
+	
+	<Category_Biotech.label>биотех</Category_Biotech.label>
+	
+	<Category_IdeoPawn.label>идеолигия</Category_IdeoPawn.label>
+	
+	<Category_Royal.label>королевская кровь</Category_Royal.label>
+	
+	<Category_PawnProp.label>личные данные</Category_PawnProp.label>
+	
+	<Category_PawnStats.label>статистика</Category_PawnStats.label>
+	
+	<Category_PawnStatus.label>состояние</Category_PawnStatus.label>
+	
+	<Category_PawnGuest.label>гости</Category_PawnGuest.label>
+	
+	<Category_PawnAssign.label>назначения</Category_PawnAssign.label>
+	
+	<Category_AnimalProp.label>данные животного</Category_AnimalProp.label>
+	
+	<Category_ItemInfo.label>данные предмета</Category_ItemInfo.label>
+	
+	<Category_BuildingInfo.label>данные постройки</Category_BuildingInfo.label>
+	
+	<Category_Plants.label>растения и еда</Category_Plants.label>
+	
+	<Category_Location.label>местоположение</Category_Location.label>
+	
+	<Category_Mod.label>дополнение/мод</Category_Mod.label>
+	
+	<Category_devmode.label>режим разработчика / читы</Category_devmode.label>
 </LanguageData>

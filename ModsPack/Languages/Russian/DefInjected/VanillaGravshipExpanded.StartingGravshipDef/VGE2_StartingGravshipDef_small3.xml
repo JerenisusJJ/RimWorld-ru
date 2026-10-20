@@ -1,17 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <VGE_StartingGravship_Default.label>Стандартный</VGE_StartingGravship_Default.label>
-  <VGE_StartingGravship_Default.description>Стандартный стартовый гравикорабль из Vanilla Gravships Expanded - Chapter 2.</VGE_StartingGravship_Default.description>
-  <VGE_StartingGravship_Explorer.label>Исследователь</VGE_StartingGravship_Explorer.label>
-  <VGE_StartingGravship_Explorer.description>Универсальный исследовательский корабль с жилыми помещениями и обороной.</VGE_StartingGravship_Explorer.description>
-  <VGE_StartingGravship_Freighter.label>Грузовик</VGE_StartingGravship_Freighter.label>
-  <VGE_StartingGravship_Freighter.description>Большой грузовой корабль с огромным грузовым пространством и генератором щита.</VGE_StartingGravship_Freighter.description>
-  <VGE_StartingGravship_Battlecruiser.label>Боевой крейсер</VGE_StartingGravship_Battlecruiser.label>
-  <VGE_StartingGravship_Battlecruiser.description>Тяжелобронированный боевой крейсер с малым жилым пространством.</VGE_StartingGravship_Battlecruiser.description>
-  <VGE_StartingGravjumper_StealthShip.label>Корабль-невидимка</VGE_StartingGravjumper_StealthShip.label>
-  <VGE_StartingGravjumper_StealthShip.description>Небольшой замаскированный гравипрыгун с электрическими двигателями.</VGE_StartingGravjumper_StealthShip.description>
-  <VGE_StartingGravjumper_TravelCraft.label>Туристический корабль</VGE_StartingGravjumper_TravelCraft.label>
-  <VGE_StartingGravjumper_TravelCraft.description>Компактный роскошный корабль для путешествий с множеством солнечных панелей.</VGE_StartingGravjumper_TravelCraft.description>
-  <VGE_StartingGravjumper_DamagedGunship.label>Повреждённая канонерка</VGE_StartingGravjumper_DamagedGunship.label>
-  <VGE_StartingGravjumper_DamagedGunship.description>Потрёпанная канонерка с компактными гравикорабельными турелями и бронированным двигателем гравипрыгуна.</VGE_StartingGravjumper_DamagedGunship.description>
-</LanguageData>
+  </LanguageData>

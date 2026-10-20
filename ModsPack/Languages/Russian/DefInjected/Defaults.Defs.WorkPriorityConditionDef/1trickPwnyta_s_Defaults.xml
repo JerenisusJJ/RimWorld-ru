@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Always.label>всегда</Always.label>
-  <Passion.label>есть страсть не ниже</Passion.label>
-  <Skill.label>есть уровень навыка</Skill.label>
   <Guest.label>является гостем</Guest.label>
-  <AgainstIdeo.label>идеолигически противится</AgainstIdeo.label>
   <Slave.label>является рабом</Slave.label>
   <Age.label>возраст в годах</Age.label>
 </LanguageData>

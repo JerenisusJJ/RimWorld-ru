@@ -1,19 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Category_Odyssey.label>одиссея</Category_Odyssey.label>
-  <Category_Biotech.label>биотех</Category_Biotech.label>
-  <Category_IdeoPawn.label>идеолигия</Category_IdeoPawn.label>
-  <Category_Royal.label>королевская кровь</Category_Royal.label>
-  <Category_PawnProp.label>личные данные</Category_PawnProp.label>
-  <Category_PawnStats.label>статистика</Category_PawnStats.label>
-  <Category_PawnStatus.label>состояние</Category_PawnStatus.label>
-  <Category_PawnGuest.label>гости</Category_PawnGuest.label>
-  <Category_PawnAssign.label>назначения</Category_PawnAssign.label>
-  <Category_AnimalProp.label>данные животного</Category_AnimalProp.label>
-  <Category_ItemInfo.label>данные предмета</Category_ItemInfo.label>
-  <Category_BuildingInfo.label>данные постройки</Category_BuildingInfo.label>
-  <Category_Plants.label>растения и еда</Category_Plants.label>
-  <Category_Location.label>местоположение</Category_Location.label>
-  <Category_Mod.label>дополнение/мод</Category_Mod.label>
-  <Category_devmode.label>режим разработчика / читы</Category_devmode.label>
-</LanguageData>
+  </LanguageData>

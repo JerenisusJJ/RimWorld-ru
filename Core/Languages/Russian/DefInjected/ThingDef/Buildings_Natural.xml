@@ -24,6 +24,13 @@
   <InsectLairEntrance.comps.CompSealable.cannotSealLabel>Невозможно засыпать</InsectLairEntrance.comps.CompSealable.cannotSealLabel>
   <LifeSupportUnit.label>блок жизнеобеспечения</LifeSupportUnit.label>
   <LifeSupportUnit.description>Блок, подключенный к общей системе жизнеобеспечения орбитальной платформы. Поддерживает тепло и давление в помещениях.</LifeSupportUnit.description>
+  <MineableComponentsIndustrial.label>залежи компонентов</MineableComponentsIndustrial.label>
+  <MineableGold.label>залежи золота</MineableGold.label>
+  <MineableJade.label>залежи нефрита</MineableJade.label>
+  <MineablePlasteel.label>залежи пластали</MineablePlasteel.label>
+  <MineableSilver.label>залежи серебра</MineableSilver.label>
+  <MineableSteel.label>залежи стали</MineableSteel.label>
+  <MineableUranium.label>залежи урана</MineableUranium.label>
   <MineableObsidian.label>залежи обсидиана</MineableObsidian.label>
   <MineableObsidian.description>Вулканическая порода, образованная быстро остывающей лавой. Может добываться для получения обсидианового стекла.</MineableObsidian.description>
 </LanguageData>

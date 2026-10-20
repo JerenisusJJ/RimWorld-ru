@@ -1,6 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <VGE_CompletelyHidden.label>полностью скрыт</VGE_CompletelyHidden.label>
-  <VGE_CompletelyHidden.letterLabel>полностью скрыт</VGE_CompletelyHidden.letterLabel>
-  <VGE_CompletelyHidden.letterText>По чистой случайности — благодаря плотной облачности и тому, что все поблизости как раз смотрели в другую сторону, — {GRAVSHIP} снизился совершенно незамеченным. Корабль приземлился, и ни одна живая душа не заметила, что он вообще был в небе.</VGE_CompletelyHidden.letterText>
-</LanguageData>
+  </LanguageData>

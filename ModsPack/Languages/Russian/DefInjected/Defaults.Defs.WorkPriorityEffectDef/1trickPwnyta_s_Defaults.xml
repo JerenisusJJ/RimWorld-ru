@@ -1,7 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Value.label>задать приоритет</Value.label>
-  <Increase.label>повысить приоритет</Increase.label>
-  <Decrease.label>понизить приоритет</Decrease.label>
-  <Logic.label>применить подправила</Logic.label>
-</LanguageData>
+  </LanguageData>
