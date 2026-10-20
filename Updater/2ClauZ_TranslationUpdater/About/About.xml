@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>2ClauZ — Translation Updater</name>
+  <author>2ClauZ</author>
+  <packageId>2clauz.updater</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Ставит и обновляет неофициальное дополнение 2ClauZ к русскому переводу RimWorld прямо из главного меню.
+
+Авторы базы: основа — официальный русский перевод RimWorld и DLC (github.com/Ludeon/RimWorld-ru). Переводчики: Андрей 'Elevator89' Лёмин, Дмитрий 'Dimonasdf' Романов, Евгения 'EcherArt' Артамонова, Николай 'Reiquard' Володин, AcDie, Arex-rus, Dandi, Humort, kamadz и другие участники сообщества. Без их работы этого проекта бы не было.
+
+2ClauZ — только дополнения поверх базы: доперевод пропусков, унификация терминов, перевод модов и этот апдейтер. Часть дополнений сделана с помощью нейросети и проверена в игре. Это не официальная локализация.
+
+Кнопка на главном меню:
+• «Проверить перевод» — сверяет локальную версию с GitHub
+• «Обновить перевод» — скачивает файлы перевода (без кода), берёт официальный перевод из игры как базу и кладёт поверх только правки 2ClauZ
+
+Результат — отдельный язык «Русский (2ClauZ)», официальный перевод не меняется. Вернуться — выбрать обычный «Русский».
+
+Список переведённых модов, их авторов и происхождения переводов: github.com/JerenisusJJ/RimWorld-ru/blob/master/CREDITS.md (также в настройках мода).
+
+Нужен интернет. Источник: github.com/JerenisusJJ/RimWorld-ru</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>ludeon.rimworld</li>
+  </loadAfter>
+</ModMetaData>

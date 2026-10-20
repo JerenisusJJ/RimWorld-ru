@@ -7,15 +7,19 @@
     <li>1.6</li>
     <li>1.7</li>
   </supportedVersions>
-  <description>Единый русский перевод модпака «from 2ClauZ» — дополняет язык «Русский (from 2ClauZ)» переводами всех установленных модов, которых нет в штатных русификаторах.
+  <description>Неофициальный русский перевод модов от 2ClauZ — добивка к языку «Русский (2ClauZ)»: переводит то, чего нет в самих модах и в сторонних русификаторах.
 
-Покрытие: Vanilla Gravship Expanded 1 и 2 (включая письма-находки, экран выбора кораблей, вкладку топлива), VFE Architect/Furniture/Security/Medical/Spacer/Props, VEF, Ranged DPS, Simple Sidearms, Numbers, Allow Tool, TD Find Lib/Ctrl F, Replace Stuff, Character Editor, Improved Need Indicator, RandomPlus, Quick Area, Complex Jobs, 1trickPwnyta-патчи, Smart Work Mode, RimHUD, RimSaves и др.
+Покрытие: Vanilla Gravship Expanded 1 и 2, Vanilla Furniture Expanded (все модули), VEF, Simple Sidearms, Allow Tool, TD Find Lib / Ctrl F, Replace Stuff, Character Editor, Improved Need Indicator, RandomPlus, Quick Area, патчи 1trickPwnyta, Smart Work Mode, RimHUD, RimSaves и др.
 
-Особенности:
-• Собран независимым аудитом: ценз непереведённого по дефам и Keyed, унификация терминов по глоссарию (гравикорабль, космотопливо, ускоритель, дротикомёт...), чистка мёртвых ключей.
-• Использует те же плейсхолдеры и терминологию, что и основной язык 2ClauZ.
-• Ставится и обновляется автоматически кнопкой «Обновить перевод» в главном меню (мод «2ClauZ — Translation Updater»).
-• В настройках игры выберите язык «Russian» — перевод модов подхватится автоматически.</description>
+Авторы:
+• Моды — их авторы (Oskar Potocki и команда Vanilla Expanded, UnlimitedHugs, Andreas Pardeike, 1trickPwnyta, Andromeda, Uuugggg и другие).
+• Сторонние русификаторы, поверх которых мы только добиваем недостающее: OliveWizard (VGE ch.1, VEF, VPE, VWE Remake), AnaMBro (VNPE), Mewn Goddess (VLE), Дозер (RimHUD), VSK (Simple Sidearms), pashka (Achtung!, Complex Jobs). Их паки рекомендуем ставить. Часть строк VGE ch.1 совпадает с переводом OliveWizard, его терминологию мы использовали.
+• Перевод 2ClauZ сделан с помощью нейросети по глоссарию официального перевода, термины сверены вручную, проверено в игре.
+
+Полный список модов, авторов и происхождения каждого перевода: github.com/JerenisusJJ/RimWorld-ru/blob/master/CREDITS.md
+Автор перевода или мода и хотите что-то поправить или убрать — напишите в issues репозитория, сделаю.
+
+Ставится и обновляется кнопкой «Обновить перевод» в главном меню (мод «2ClauZ — Translation Updater»). Язык в настройках — «Русский (2ClauZ)».</description>
   <loadAfter>
     <li>ludeon.rimworld</li>
   </loadAfter>
