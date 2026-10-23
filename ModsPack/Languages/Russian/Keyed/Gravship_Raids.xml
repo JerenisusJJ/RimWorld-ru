@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GravshipRaids.LoadingLabel>Загрузка Gravship Raids</GravshipRaids.LoadingLabel>
+  <GravshipRaids.Settings.Category>Налёты на гравикораблях</GravshipRaids.Settings.Category>
+  <GravshipRaids.Settings.Enable>Включить налёты на гравикораблях</GravshipRaids.Settings.Enable>
+  <GravshipRaids.Settings.EnableDesc>Если отключено, происшествие «налёт на гравикорабле» никогда не произойдёт и не будет предлагаться как вариант налёта.</GravshipRaids.Settings.EnableDesc>
+  <GravshipRaids.Settings.OdysseyMissing>Дополнение Odyssey не обнаружено. Налёты на гравикораблях требуют Odyssey и останутся неактивными, пока оно не будет включено.</GravshipRaids.Settings.OdysseyMissing>
+  <GravshipRaids.Settings.IncidentWeight>Множитель частоты происшествия: {0}x</GravshipRaids.Settings.IncidentWeight>
+  <GravshipRaids.Settings.CasualtyRetreatThreshold>Порог потерь для отступления: {0}</GravshipRaids.Settings.CasualtyRetreatThreshold>
+  <GravshipRaids.Settings.MinThreatPoints>Минимум очков угрозы</GravshipRaids.Settings.MinThreatPoints>
+  <GravshipRaids.Settings.MaxConcurrentShips>Максимум гравикораблей на карте одновременно: {0}</GravshipRaids.Settings.MaxConcurrentShips>
+  <GravshipRaids.Settings.MinColonistCount>Минимум свободных колонистов на карте</GravshipRaids.Settings.MinColonistCount>
+  <GravshipRaids.Settings.MinEnemyFactionTechLevel>Минимальный технологический уровень вражеской фракции</GravshipRaids.Settings.MinEnemyFactionTechLevel>
+  <GravshipRaids.Settings.EnableRaidshipEffects>Реальные эффекты двигателей и пыли у вражеских гравикораблей</GravshipRaids.Settings.EnableRaidshipEffects>
+  <GravshipRaids.Settings.EnableRaidshipEffectsDesc>При посадке и взлёте вражеские гравикорабли показывают настоящее пламя двигателей, выхлоп и поднятую пыль вместо простого силуэта. Не перехватывает управление камерой и не скрывает интерфейс. Отключите, если новый код отрисовки вызывает графические проблемы на вашей системе.</GravshipRaids.Settings.EnableRaidshipEffectsDesc>
+  <GravshipRaids.Settings.AllowEnemyGravcoreDrops>Ядра управления вражеских гравикораблей дают гравиядро</GravshipRaids.Settings.AllowEnemyGravcoreDrops>
+  <GravshipRaids.Settings.AllowEnemyGravcoreDropsDesc>Если включено, уничтожение или разборка ядра управления приземлившегося вражеского гравикорабля даёт одно обычное гравиядро — точно так же, как уничтожение гравидвигателя. По умолчанию отключено, поскольку гравиядро — важная награда за прогресс.</GravshipRaids.Settings.AllowEnemyGravcoreDropsDesc>
+  <GravshipRaids.Settings.HardcoreEnemyDepartureDestroysUnguardedMaps>Хардкор: улетающие вражеские гравикорабли уничтожают карты без гравиякоря</GravshipRaids.Settings.HardcoreEnemyDepartureDestroysUnguardedMaps>
+  <GravshipRaids.Settings.HardcoreEnemyDepartureDestroysUnguardedMapsDesc>Если включено, вражеский гравикорабль, успешно улетевший с карты без гравиякоря, покинет и полностью удалит эту карту — точно так же, как гравикорабль игрока при взлёте с карты без гравиякоря. Если в этот момент у вас больше нигде не осталось выживших свободных колонистов, игра сразу заканчивается титрами и возвращает вас в главное меню. По умолчанию отключено: это серьёзное и необратимое игровое последствие.</GravshipRaids.Settings.HardcoreEnemyDepartureDestroysUnguardedMapsDesc>
+  <GravshipRaids.Settings.AllowEmptyEnemyGravshipDeparture>Разрешить побеждённым гравикораблям улетать пустыми</GravshipRaids.Settings.AllowEmptyEnemyGravshipDeparture>
+  <GravshipRaids.Settings.AllowEmptyEnemyGravshipDepartureDesc>По умолчанию отключено. Если включено, гравикорабль уже отступающего налёта может улететь, даже если ни один живой налётчик не успел подняться на борт к ядру до окончания посадки. Если отключено, такой пустой корабль остаётся на карте обломками. Касается только налётов на гравикораблях, не на челноках.</GravshipRaids.Settings.AllowEmptyEnemyGravshipDepartureDesc>
+  <GravshipRaids.Settings.EnableAstrorigsForSpaceRaids>Снаряжать экипажи космических налётов астроранцами</GravshipRaids.Settings.EnableAstrorigsForSpaceRaids>
+  <GravshipRaids.Settings.EnableAstrorigsForSpaceRaidsDesc>Если активен мод Vanilla Gravship Expanded - Chapter 2, человекоподобные налётчики с гравикораблей и челноков высаживаются на карту с вакуумом уже в полностью заряженном астроранце. Без этого мода не действует и влияет только на новые налёты.</GravshipRaids.Settings.EnableAstrorigsForSpaceRaidsDesc>
+  <GravshipRaids.Settings.EnableGravshipGuards>Оставлять часть экипажа охранять гравикорабль</GravshipRaids.Settings.EnableGravshipGuards>
+  <GravshipRaids.Settings.EnableGravshipGuardsDesc>Если включено, часть каждого нового налёта на гравикорабле остаётся защищать приземлившийся корабль вместо штурма колонии. Охрана защищает корпус и ядро корабля и поднимается на борт вместе с остальным экипажем, когда налёт отступает. Касается только налётов, созданных после изменения этой настройки.</GravshipRaids.Settings.EnableGravshipGuardsDesc>
+  <GravshipRaids.Settings.GravshipGuardFraction>Доля охраны гравикорабля: {0}</GravshipRaids.Settings.GravshipGuardFraction>
+  <GravshipRaids.Settings.EnableMinPlayerTechLevel>Требовать минимальный технологический уровень колонии</GravshipRaids.Settings.EnableMinPlayerTechLevel>
+  <GravshipRaids.Settings.EnableMinPlayerTechLevelDesc>Если включено, налёты на гравикораблях не начнутся, пока технологический уровень вашей фракции не достигнет выбранного ниже. Полезно, чтобы держать гравикорабли подальше от низкотехнологичных стартов (например, племенного), пока колония не наверстает отставание.</GravshipRaids.Settings.EnableMinPlayerTechLevelDesc>
+  <GravshipRaids.Settings.MinPlayerTechLevel>Минимальный технологический уровень колонии</GravshipRaids.Settings.MinPlayerTechLevel>
+  <GravshipRaids.Settings.DebugLogging>Включить отладочный журнал</GravshipRaids.Settings.DebugLogging>
+  <GravshipRaids.Settings.DebugLoggingDesc>Выводит в консоль дополнительные диагностические сообщения о выборе налётов на гравикораблях и челноках, посадке и поведении лорда. Относится к обоим типам налётов.</GravshipRaids.Settings.DebugLoggingDesc>
+  <GravshipRaids.Settings.EnableGlobalFactionFilter>Включить глобальный фильтр фракций</GravshipRaids.Settings.EnableGlobalFactionFilter>
+  <GravshipRaids.Settings.EnableGlobalFactionFilterDesc>Если включено, исключённые ниже фракции никогда не станут источником налёта на гравикорабле, что бы ни указывали собственные списки разрешённых и запрещённых фракций отдельных шаблонов налёта. По умолчанию отключено.</GravshipRaids.Settings.EnableGlobalFactionFilterDesc>
+  <GravshipRaids.Settings.AddExcludedFaction>Добавить фракцию в исключения...</GravshipRaids.Settings.AddExcludedFaction>
+  <GravshipRaids.Settings.NoFactionsAvailable>(больше нет доступных фракций)</GravshipRaids.Settings.NoFactionsAvailable>
+  <GravshipRaids.EnemyGravshipCoreInspect>Ядро управления гравикорабля</GravshipRaids.EnemyGravshipCoreInspect>
+  <GravshipRaids.EnemyGravshipCoreAuthor>Автор: {0}</GravshipRaids.EnemyGravshipCoreAuthor>
+  <GravshipRaids.MessageRaidersGivenUpRetreating>{0} из фракции {1} отказались от атаки и отступают к своему гравикораблю.</GravshipRaids.MessageRaidersGivenUpRetreating>
+  <GravshipRaids.MessageRaidersSatisfiedRetreating>{0} из фракции {1} довольны нанесённым ущербом и отступают к своему гравикораблю.</GravshipRaids.MessageRaidersSatisfiedRetreating>
+  <GravshipRaids.MessageRaidersRetreatingCasualties>{0} из фракции {1} понесли слишком большие потери и отступают к своему гравикораблю.</GravshipRaids.MessageRaidersRetreatingCasualties>
+  <GravshipRaids.MessageRaidersRetreatingNonHostile>{0} из фракции {1} больше не враждебны и отступают к своему гравикораблю.</GravshipRaids.MessageRaidersRetreatingNonHostile>
+  <GravshipRaids.MessageRaidersBoarding>Уцелевшие {0} из фракции {1} поднимаются на борт своего гравикорабля.</GravshipRaids.MessageRaidersBoarding>
+  <GravshipRaids.MessageRaidersStranded>{0} из фракции {1} лишились своего гравикорабля и бегут пешком.</GravshipRaids.MessageRaidersStranded>
+  <GravshipRaids.MessageGravshipCoreDestroyed>Гравикорабль, на котором прибыли {0} из фракции {1}, выведен из строя и не сможет улететь.</GravshipRaids.MessageGravshipCoreDestroyed>
+  <GravshipRaids.Ending.UnguardedMapDestroyedIntro>У вашей колонии не было гравиякоря, чтобы удержаться на месте, когда улетал вражеский гравикорабль.</GravshipRaids.Ending.UnguardedMapDestroyedIntro>
+  <GravshipRaids.Ending.UnguardedMapDestroyedEnding>Отрываясь от земли, гравикорабль налётчиков унёс с собой всю карту и всех, кто на ней оставался. Не осталось ни одного колониста, чтобы продолжить путь.</GravshipRaids.Ending.UnguardedMapDestroyedEnding>
+  <GravshipRaids.Settings.WinstonSectionHeader>Совместимость с Winston Waves</GravshipRaids.Settings.WinstonSectionHeader>
+  <GravshipRaids.Settings.EnableWinstonWavesCompatibility>Разрешить Winston Waves выбирать налёты на гравикораблях</GravshipRaids.Settings.EnableWinstonWavesCompatibility>
+  <GravshipRaids.Settings.EnableWinstonWavesCompatibilityDesc>Если включено, запланированная вражеская волна Winston Waves, подходящая по остальным условиям, с указанным ниже шансом станет налётом на гравикорабле с использованием шаблонов, посадки, экипажа и системы отлёта этого мода. Шанс проверяется только для волны, которая уже подходит под настройки налётов на гравикораблях выше; на обычную частоту налётов на гравикораблях от рассказчика это не влияет.</GravshipRaids.Settings.EnableWinstonWavesCompatibilityDesc>
+  <GravshipRaids.Settings.WinstonWavesGravshipChance>Шанс для подходящей волны: {0}</GravshipRaids.Settings.WinstonWavesGravshipChance>
+  <GravshipRaids.Settings.GravshipTab>Налёты на гравикораблях</GravshipRaids.Settings.GravshipTab>
+  <GravshipRaids.Settings.SharedSectionHeader>Общие настройки (оба типа налётов)</GravshipRaids.Settings.SharedSectionHeader>
+  <GravshipRaids.Settings.ShuttleSectionHeader>Налёты на челноках</GravshipRaids.Settings.ShuttleSectionHeader>
+  <GravshipRaids.Settings.EnableShuttleRaids>Включить налёты на челноках</GravshipRaids.Settings.EnableShuttleRaids>
+  <GravshipRaids.Settings.EnableShuttleRaidsDesc>Если отключено, происшествие «налёт на челноке» никогда не произойдёт и не будет предлагаться как вариант налёта. Требует дополнения Royalty; без него остаётся неактивным независимо от этой настройки.</GravshipRaids.Settings.EnableShuttleRaidsDesc>
+  <GravshipRaids.Settings.RoyaltyMissing>Дополнение Royalty не обнаружено. Налёты на челноках требуют Royalty и останутся неактивными, пока оно не будет включено.</GravshipRaids.Settings.RoyaltyMissing>
+  <GravshipRaids.Settings.ShuttleIncidentWeight>Множитель частоты происшествия: {0}x</GravshipRaids.Settings.ShuttleIncidentWeight>
+  <GravshipRaids.Settings.ShuttleCasualtyRetreatThreshold>Порог потерь для отступления: {0}</GravshipRaids.Settings.ShuttleCasualtyRetreatThreshold>
+  <GravshipRaids.Settings.ShuttleMinThreatPoints>Минимум очков угрозы</GravshipRaids.Settings.ShuttleMinThreatPoints>
+  <GravshipRaids.Settings.ShuttleMaxConcurrentPerMap>Максимум челноков на карте одновременно: {0}</GravshipRaids.Settings.ShuttleMaxConcurrentPerMap>
+  <GravshipRaids.Settings.ShuttleMinColonistCount>Минимум свободных колонистов на карте</GravshipRaids.Settings.ShuttleMinColonistCount>
+  <GravshipRaids.Settings.ShuttleMinEnemyFactionTechLevel>Минимальный технологический уровень вражеской фракции</GravshipRaids.Settings.ShuttleMinEnemyFactionTechLevel>
+  <GravshipRaids.Settings.ShuttleEnableMinPlayerTechLevel>Требовать минимальный технологический уровень колонии</GravshipRaids.Settings.ShuttleEnableMinPlayerTechLevel>
+  <GravshipRaids.Settings.ShuttleEnableMinPlayerTechLevelDesc>Если включено, налёты на челноках не начнутся, пока технологический уровень вашей фракции не достигнет выбранного ниже.</GravshipRaids.Settings.ShuttleEnableMinPlayerTechLevelDesc>
+  <GravshipRaids.Settings.ShuttleMinPlayerTechLevel>Минимальный технологический уровень колонии</GravshipRaids.Settings.ShuttleMinPlayerTechLevel>
+  <GravshipRaids.Settings.ShuttleEnableGlobalFactionFilter>Включить глобальный фильтр фракций</GravshipRaids.Settings.ShuttleEnableGlobalFactionFilter>
+  <GravshipRaids.Settings.ShuttleEnableGlobalFactionFilterDesc>Если включено, исключённые ниже фракции никогда не станут источником налёта на челноке, что бы ни указывали собственные списки разрешённых и запрещённых фракций отдельных шаблонов челноков. По умолчанию отключено.</GravshipRaids.Settings.ShuttleEnableGlobalFactionFilterDesc>
+  <GravshipRaids.MessageShuttleRaidersGivenUpRetreating>{0} из фракции {1} отказались от атаки и отступают к своему челноку.</GravshipRaids.MessageShuttleRaidersGivenUpRetreating>
+  <GravshipRaids.MessageShuttleRaidersSatisfiedRetreating>{0} из фракции {1} довольны нанесённым ущербом и отступают к своему челноку.</GravshipRaids.MessageShuttleRaidersSatisfiedRetreating>
+  <GravshipRaids.MessageShuttleRaidersRetreatingCasualties>{0} из фракции {1} понесли слишком большие потери и отступают к своему челноку.</GravshipRaids.MessageShuttleRaidersRetreatingCasualties>
+  <GravshipRaids.MessageShuttleRaidersRetreatingNonHostile>{0} из фракции {1} больше не враждебны и отступают к своему челноку.</GravshipRaids.MessageShuttleRaidersRetreatingNonHostile>
+  <GravshipRaids.MessageShuttleRaidersBoarding>Уцелевшие {0} из фракции {1} поднимаются на борт своего челнока.</GravshipRaids.MessageShuttleRaidersBoarding>
+  <GravshipRaids.MessageShuttleRaidersStranded>{0} из фракции {1} лишились своего челнока и бегут пешком.</GravshipRaids.MessageShuttleRaidersStranded>
+  <GravshipRaids.CrashlandedGravship.GameStartDialogText>Сирены. Скрежет рвущегося металла. Запах горелой проводки.\n\nГравлитовое ядро вашего гравикорабля отказало где-то над этим миром, и корпус развалился при падении. Ещё до того, как корабль остановился, удар наглухо запечатал три ваших саркофага криптосна — только поэтому вы до сих пор дышите.\n\nОбломки снаружи больше никогда не взлетят. От двигателя не осталось ничего, что можно спасти, пульта пилота больше нет. Всё, что удастся снять с корпуса, — это всё, что у вас осталось.\n\nСаркофаги вот-вот откроются.</GravshipRaids.CrashlandedGravship.GameStartDialogText>
+  <GravshipRaids.CrashlandedGravship.MessageColonistsWoke>Саркофаги криптосна открылись. Ваши колонисты просыпаются, оглушённые крушением.</GravshipRaids.CrashlandedGravship.MessageColonistsWoke>
+  <GravshipRaids.LostTribe.GameStartDialogText>Враг пришёл ночью. Враждебная фракция с оружием и машинами, каких ваш народ никогда прежде не видел, прошлась по вашей деревне, рубя и сжигая всё на своём пути.\n\nГорстка ваших соплеменников бежала на гравикорабле, захваченном в суматохе, — никто из вас не умел им управлять. Сирены. Скрежет рвущегося металла. Запах горелой проводки. Гравлитовое ядро корабля отказало где-то над этим миром, и корпус развалился при падении.\n\nКрушение пережили пятеро. Обломки больше никогда не взлетят, но обратиться за помощью не к кому — придётся строить новый дом в глуши, как когда-то ваши предки.</GravshipRaids.LostTribe.GameStartDialogText>
+</LanguageData>

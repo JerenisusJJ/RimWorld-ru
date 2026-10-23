@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GR_RaidCommsConsole.label>консоль связи</GR_RaidCommsConsole.label>
+  <GR_RaidCommsConsole.description>Позволяет установить радиосвязь с другими фракциями и орбитальными торговцами.</GR_RaidCommsConsole.description>
+  <GR_EnemyGravshipCore.label>ядро управления гравикорабля</GR_EnemyGravshipCore.label>
+  <GR_EnemyGravshipCore.description>Ядро управления и посадки враждебного гравикорабля. Выжившие налётчики при отступлении возвращаются сюда, чтобы подняться на борт и улететь.</GR_EnemyGravshipCore.description>
+  <GR_GravshipArrivalSkyfaller_Small.label>гравикорабль (прибывает)</GR_GravshipArrivalSkyfaller_Small.label>
+  <GR_GravshipArrivalSkyfaller_Medium.label>гравикорабль (прибывает)</GR_GravshipArrivalSkyfaller_Medium.label>
+  <GR_GravshipArrivalSkyfaller_Large.label>гравикорабль (прибывает)</GR_GravshipArrivalSkyfaller_Large.label>
+  <GR_CrashlandedGravshipSkyfaller.label>гравикорабль (терпит крушение)</GR_CrashlandedGravshipSkyfaller.label>
+  <GR_GravshipDepartureSkyfaller.label>гравикорабль (улетает)</GR_GravshipDepartureSkyfaller.label>
+  <GR_CombatShuttle.label>боевой челнок</GR_CombatShuttle.label>
+  <GR_CombatShuttle.description>Укреплённая модификация челнока, предназначенная не для гражданских перевозок, а для быстрой тактической высадки и эвакуации вооружённых бойцов.</GR_CombatShuttle.description>
+</LanguageData>

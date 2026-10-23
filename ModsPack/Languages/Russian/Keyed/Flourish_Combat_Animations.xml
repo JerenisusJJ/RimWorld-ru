@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Flourish.SettingsCategory>Flourish - Combat Animations</Flourish.SettingsCategory>
+  <Flourish.EnableAnims>Боевые анимации</Flourish.EnableAnims>
+  <Flourish.EnableAnimsTip>Главный переключатель всех боевых анимаций Flourish (движение оружия, выпады, отдача, эффектные движения). Если выключено, руки и стандартная отрисовка не затрагиваются.</Flourish.EnableAnimsTip>
+  <Flourish.EnableHands>Запасные руки (без Show Me Your Hands)</Flourish.EnableHands>
+  <Flourish.EnableHandsTip>Рекомендуемый источник рук — Show Me Your Hands: его руки автоматически следуют за анимациями Flourish. Этот простой запасной слой рук нужен только для сборок без него и всегда отключён, если загружен Show Me Your Hands.</Flourish.EnableHandsTip>
+  <Flourish.EnableFlinch>Реакция на попадания</Flourish.EnableFlinch>
+  <Flourish.EnableFlinchTip>Персонажи заметно пошатываются при получении урона.</Flourish.EnableFlinchTip>
+  <Flourish.ImpactReactions>Реакции IMPACT</Flourish.ImpactReactions>
+  <Flourish.ProneStance>Лежать ничком</Flourish.ProneStance>
+  <Flourish.ProneStanceTip>Персонажи с огнестрельным оружием, которых подавление IMPACT прижимает к земле, ложатся плашмя, пока остаются прижатыми, ползут при перемещении и продолжают стрелять, а когда огонь стихает — поднимаются. Персонажи с оружием ближнего боя только ныряют на землю и встают. Требуется «Анимация всего тела».</Flourish.ProneStanceTip>
+  <Flourish.ImpactReactionsTip>Анимирует то, что IMPACT - Combat Overhaul добавляет в бой: рикошеты от брони, смятые и треснувшие пластины, пули сквозь щели и укрытия, замедление, критические попадания в жизненно важные органы, контузии, последний рывок умирающего, падение ничком и устранение задержки. Пока включены этот параметр и «Реакция на попадания», собственное лёгкое вздрагивание IMPACT отключается, чтобы персонажа не дёргало дважды. Искры и боевой текст IMPACT не затрагиваются.</Flourish.ImpactReactionsTip>
+  <Flourish.Callout.BurstLong>ТРРРРРРТ!</Flourish.Callout.BurstLong>
+  <Flourish.Callout.BurstShort>ТРРРРТ!</Flourish.Callout.BurstShort>
+  <Flourish.Callout.CrackBang>БАХ!</Flourish.Callout.CrackBang>
+  <Flourish.Callout.Crack>ТРЕСК</Flourish.Callout.Crack>
+  <Flourish.Callout.Crunch>ХРУСТЬ</Flourish.Callout.Crunch>
+  <Flourish.Callout.CoveringFire>Прикрываю!</Flourish.Callout.CoveringFire>
+  <Flourish.Callout.Draw>Оружие к бою!</Flourish.Callout.Draw>
+  <Flourish.Callout.FragOut>Граната!</Flourish.Callout.FragOut>
+  <Flourish.Callout.GotEm>Готов.</Flourish.Callout.GotEm>
+  <Flourish.Callout.Perfect>Идеально.</Flourish.Callout.Perfect>
+  <Flourish.Callout.Roll>Кувырок!</Flourish.Callout.Roll>
+  <Flourish.Callout.TakeCover>В укрытие!</Flourish.Callout.TakeCover>
+  <Flourish.Callout.Yeah>ЙЕЕЕЕС!</Flourish.Callout.Yeah>
+  <Flourish.CombatText>Боевые выкрики</Flourish.CombatText>
+  <Flourish.CombatTextTip>Короткие выкрики и звуки ударов над головой персонажа во время анимаций, например «Прикрываю!» или «ТРЕСК». Отключите для более тихой и реалистичной картины.</Flourish.CombatTextTip>
+  <Flourish.CombatTextWithBubbles>Выкрики вместе с Interaction Bubbles</Flourish.CombatTextWithBubbles>
+  <Flourish.CombatTextWithBubblesTip>Interaction Bubbles уже выводит текст над персонажами, поэтому Flourish скрывает свои выкрики, чтобы два слоя текста не спорили за одно место. Включите, чтобы показывать и то и другое.</Flourish.CombatTextWithBubblesTip>
+  <Flourish.AimDiscipline>Дисциплина прицеливания</Flourish.AimDiscipline>
+  <Flourish.AimDisciplineOff>выкл.</Flourish.AimDisciplineOff>
+  <Flourish.AimDisciplineTip>Наибольшее отклонение оружия от цели, по которой персонаж стреляет, во время стрельбы.\n\nДействует только пока идёт выстрел или прицеливание. Извлечение и убирание оружия, перезарядка, осмотр оружия и все анимации ближнего боя могут разворачивать оружие как угодно, потому что выстрела нет.\n\nЧем меньше значение, тем строже. Встроенные анимации Flourish и так укладываются в 20 градусов, поэтому для них ничего не меняется, если не увеличивать значение; параметр нужен для анимаций из других модов и для тех, кто хочет держать оружие строго на цели.\n\nПри 0 ограничение полностью отключено.</Flourish.AimDisciplineTip>
+  <Flourish.RecoilIntensity>Отдача</Flourish.RecoilIntensity>
+  <Flourish.RecoilIntensityTip>Насколько сильно выстрел толкает персонажа и оружие. При 0% движение отдачи убирается полностью, а всё остальное сохраняется: затворы по-прежнему ходят, гильзы вылетают, дульные вспышки видны, а перезарядка, осмотр оружия и ближний бой не затрагиваются.\n\nСтоит уменьшить, если вы используете Combat Extended — он добавляет собственную отдачу оружия поверх этой.</Flourish.RecoilIntensityTip>
+  <Flourish.RootMotion>Перемещение персонажей</Flourish.RootMotion>
+  <Flourish.RootMotionTip>Насколько далеко анимация может физически сдвинуть персонажа с его клетки: выпады, кувырки, шаг в замах, толчки отдачи. При 0% персонажи анимируются полностью, но не покидают клетку — удобно тем, кто следит за поселенцами по подписям с именами или кого отвлекает движение. Анимация оружия, тела и эффектов не затрагивается.</Flourish.RootMotionTip>
+  <Flourish.LabelsFollow>Подписи следуют за анимацией</Flourish.LabelsFollow>
+  <Flourish.LabelsFollowTip>Подпись с именем персонажа остаётся при нём, пока анимация его двигает. Если выключено, подписи остаются на настоящей клетке персонажа (как в оригинале), и персонаж в выпаде будто выезжает из-под собственного имени.</Flourish.LabelsFollowTip>
+  <Flourish.GroundEffects>Эффекты на земле</Flourish.GroundEffects>
+  <Flourish.GroundEffectsTip>Ударные волны под мощными ударами и рунические круги под псиониками. Они рисуются под персонажами и ненадолго задерживаются, поэтому отключите их, если в напряжённых боях они загромождают картину. Эффекты сверху, например дульные вспышки, следы замаха и ауры применения, не затрагиваются.</Flourish.GroundEffectsTip>
+  <Flourish.Tracers>Трассеры пуль</Flourish.Tracers>
+  <Flourish.TracersTip>Линия от дула до точки, куда летит каждая пуля. Отключите, если трассеры уже рисует другой мод (Combat Extended, мод на следы пуль) или если в напряжённых перестрелках они загромождают картину. Дульные вспышки и отдача не затрагиваются.</Flourish.TracersTip>
+  <Flourish.MuzzleAnchor>Эффекты дула на конце ствола</Flourish.MuzzleAnchor>
+  <Flourish.MuzzleAnchorTip>Размещает свечение и вспышку выстрела, а также начало трассера на конце ствола так, как оружие нарисовано, — для любого оружия из любого мода: конец ствола один раз определяется по спрайту оружия и следует за ним при отдаче. Отключите, если в каком-то наборе оружия вспышка оказывается в странном месте; тогда эффекты размещаются на фиксированном расстоянии перед персонажем для каждого типа оружия.</Flourish.MuzzleAnchorTip>
+  <Flourish.PlaybackSpeed>Скорость анимаций</Flourish.PlaybackSpeed>
+  <Flourish.PlaybackSpeedTip>Общая скорость воспроизведения всех анимаций Flourish. Чем меньше, тем медленнее и нагляднее; 100% — настроенное значение по умолчанию. Влияет только на сами анимации, а не на скорость игры.</Flourish.PlaybackSpeedTip>
+  <Flourish.RenderTakeover>Анимация всего тела (уровень 2)</Flourish.RenderTakeover>
+  <Flourish.RenderTakeoverTip>Позволяет анимациям поворачивать, масштабировать и перемещать персонажа целиком. Это нужно для постановочных сцен, например добиваний с вращением и падения жертв плашмя.\n\nПроизводительность: кэш отрисовки обходят только персонажи, которые прямо сейчас проигрывают анимацию уровня 2, — обычно 0–2 одновременно и никогда во время обычной ходьбы или работы. Бездействующие поселенцы не затрагиваются. Отключите, если у вас очень большая колония и вы хотите, чтобы все персонажи всегда кэшировались; тогда анимации ограничиваются только смещением.</Flourish.RenderTakeoverTip>
+  <Flourish.EnableShake>Тряска камеры</Flourish.EnableShake>
+  <Flourish.EnableShakeTip>Ключевые моменты анимаций (отдача, столкновения клинков, добивания, близкие промахи) слегка встряхивают камеру. Отключите для полностью неподвижной камеры или настройте силу ниже.</Flourish.EnableShakeTip>
+  <Flourish.ShakeIntensity>Тряска камеры — обычные моменты</Flourish.ShakeIntensity>
+  <Flourish.ImpactShake>Тряска камеры — удары и добивания</Flourish.ImpactShake>
+  <Flourish.EnableExecutions>Кинематографичные добивания</Flourish.EnableExecutions>
+  <Flourish.EnableExecutionsTip>Удары ближнего боя по ослабленным врагам (меньше 15% здоровья или недееспособным) могут превращаться в постановочные анимации добивания со смертельным ударом. Никогда не срабатывает на заключённых, рабах и питомцах. Отключается автоматически, если загружен Melee Animation.</Flourish.EnableExecutionsTip>
+  <Flourish.ExecutionChance>Шанс добивания</Flourish.ExecutionChance>
+  <Flourish.PerAnim>Настройки анимаций (включение и вес частоты):</Flourish.PerAnim>
+  <Flourish.EnableBodyMotion>Наклон и сжатие тела</Flourish.EnableBodyMotion>
+  <Flourish.EnableBodyMotionTip>Персонажи подаются вперёд при замахе и сжимаются от тяжёлых ударов. Отключите, если с другими модами отрисовки движение тела выглядит неправильно.</Flourish.EnableBodyMotionTip>
+  <Flourish.EnableDuels>Дуэли</Flourish.EnableDuels>
+  <Flourish.EnableDuelsTip>Два бойца ближнего боя, долго обменивающиеся ударами, могут перейти в короткий постановочный поединок. Чисто визуально — дополнительного урона нет, и обычный бой сразу продолжается.</Flourish.EnableDuelsTip>
+  <Flourish.DuelChance>Шанс дуэли</Flourish.DuelChance>
+  <Flourish.GoreLevel>Кровь и расчленение</Flourish.GoreLevel>
+  <Flourish.GoreNone>Нет</Flourish.GoreNone>
+  <Flourish.GoreBlood>Брызги крови</Flourish.GoreBlood>
+  <Flourish.GoreDismember>Кровь и расчленение</Flourish.GoreDismember>
+  <Flourish.DismemberChance>Шанс расчленения</Flourish.DismemberChance>
+  <Flourish.ParryChance>Шанс парирования</Flourish.ParryChance>
+  <Flourish.ParryChanceTip>Как часто атака ближнего боя, которая не достигла цели (уклонение или полное отражение), превращается в анимацию столкновения двух персонажей. Столкновения возможны только при ПРОМАХЕ, поэтому даже при 100% они остаются нечастыми.</Flourish.ParryChanceTip>
+  <Flourish.ParryCooldown>Перезарядка парирования</Flourish.ParryCooldown>
+  <Flourish.NearMissChance>Шанс реакции на близкий промах</Flourish.NearMissChance>
+  <Flourish.NearMissChanceTip>Как часто пуля, упавшая рядом с персонажем, заставляет его пригнуться, отклониться или нырнуть с линии огня.</Flourish.NearMissChanceTip>
+  <Flourish.EnableAbilityAnims>Анимации способностей и пси-способностей</Flourish.EnableAbilityAnims>
+  <Flourish.EnableAbilityAnimsTip>Анимации применения способностей и пси-способностей, подобранные по типу применения (концентрация, призыв, снаряд, волна, прыжок, касание, луч, защита), поэтому они автоматически охватывают все пси-способности всех классов Vanilla Psycasts Expanded.</Flourish.EnableAbilityAnimsTip>
+  <Flourish.AbilityScaling>Масштаб применения от пси-силы</Flourish.AbilityScaling>
+  <Flourish.AbilityScalingTip>Чем сильнее псионик, тем размашистее применение. Движение зависит от пси-чувствительности, а при установленном Psycasts² — ещё и от уровня просветления и активного усиления.</Flourish.AbilityScalingTip>
+  <Flourish.CastWindup>Подготовка применения</Flourish.CastWindup>
+  <Flourish.CastWindupTip>Обычно пси-способности срабатывают сразу после щелчка, и анимации применения негде развернуться. Этот параметр ненадолго задерживает псионика в настоящей подготовке, чтобы эффект совпал с моментом высвобождения в анимации. Применение действительно задерживается и, как любая подготовка, может быть прервано: если псионика сначала выведут из строя или оглушат, применение будет потеряно. Способности перемещения никогда не задерживаются.</Flourish.CastWindupTip>
+  <Flourish.CastWindupLength>Длительность подготовки</Flourish.CastWindupLength>
+  <Flourish.EnableAuras>Ауры псиоников</Flourish.EnableAuras>
+  <Flourish.EnableAurasTip>Под псиоником появляется световое кольцо, пока способность заряжается; оно вспыхивает в момент применения и слабо светится, пока способность перезаряжается. Рисуется под персонажем; требуются включённые эффекты на земле.</Flourish.EnableAurasTip>
+  <Flourish.AuraBrightness>Яркость аур</Flourish.AuraBrightness>
+  <Flourish.AuraBrightnessTip>Насколько ярко рисуются ауры. 100% — задуманный вид.</Flourish.AuraBrightnessTip>
+  <Flourish.AuraLinger>Ауры во время перезарядки</Flourish.AuraLinger>
+  <Flourish.AuraLingerTip>После применения под псиоником остаётся слабая аура, которая гаснет по мере перезарядки способности. Если выключено, аура исчезает вместе со вспышкой высвобождения.</Flourish.AuraLingerTip>
+  <Flourish.DebugLogging>Журнал запуска анимаций (режим разработчика)</Flourish.DebugLogging>
+  <Flourish.DebugLoggingTip>Записывает строку в журнал при каждом проигрывании анимации. Работает только при включённом режиме разработчика RimWorld.</Flourish.DebugLoggingTip>
+  <Flourish.OwnsMelee>Ближний бой анимирует Flourish (вместо Melee Animation)</Flourish.OwnsMelee>
+  <Flourish.OwnsMeleeTip>Вкл.: Flourish анимирует удары ближнего боя, а анимации атаки и боевой стойки Melee Animation отключаются. Его добивания, дуэли, захваты и навыки продолжают работать. Выкл.: ближний бой анимирует Melee Animation, а ближний бой Flourish отключается.</Flourish.OwnsMeleeTip>
+  <Flourish.HeavyHit>Порог тяжёлого попадания</Flourish.HeavyHit>
+  <Flourish.HeavyHitTip>Урон (до учёта брони) не ниже этого значения вызывает полную реакцию на тяжёлое попадание. При более слабых попаданиях персонаж лишь слегка вздрагивает.</Flourish.HeavyHitTip>
+</LanguageData>

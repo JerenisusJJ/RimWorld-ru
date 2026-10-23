@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Vanilla Expanded Framework -->
+  <VEF_BeatCustomFire.reportString>сбивает огонь</VEF_BeatCustomFire.reportString>
+  <VEF_ExtinguishCustomFiresNearby.reportString>тушит пожар рядом с собой</VEF_ExtinguishCustomFiresNearby.reportString>
+  <VEF_ExtinguishCustomFireSelf.reportString>тушит себя</VEF_ExtinguishCustomFireSelf.reportString>
+</LanguageData>

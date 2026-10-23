@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GR_GravshipRaid.label>налёт на гравикорабле</GR_GravshipRaid.label>
+  <GR_GravshipRaid.description>Поблизости садится враждебный гравикорабль и высаживает отряд налётчиков. Корабль остаётся на карте как место высадки и точка отступления налётчиков.</GR_GravshipRaid.description>
+  <GR_ShuttleRaid.label>налёт на челноке</GR_ShuttleRaid.label>
+  <GR_ShuttleRaid.description>Поблизости садится враждебный челнок и высаживает отряд налётчиков. Челнок остаётся на карте как место высадки и точка отступления налётчиков.</GR_ShuttleRaid.description>
+</LanguageData>

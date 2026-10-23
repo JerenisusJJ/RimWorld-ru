@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- EN: pistol poses -->
-	<Flourish_Pose_Pistols.label>pistol poses</Flourish_Pose_Pistols.label>
+	<Flourish_Pose_Pistols.label>позы с пистолетами</Flourish_Pose_Pistols.label>
 	<!-- EN: SMG poses -->
-	<Flourish_Pose_SMGs.label>SMG poses</Flourish_Pose_SMGs.label>
+	<Flourish_Pose_SMGs.label>позы с пистолетами-пулемётами</Flourish_Pose_SMGs.label>
 	<!-- EN: rifle poses -->
-	<Flourish_Pose_Rifles.label>rifle poses</Flourish_Pose_Rifles.label>
+	<Flourish_Pose_Rifles.label>позы с винтовками</Flourish_Pose_Rifles.label>
 	<!-- EN: charge weapon poses -->
-	<Flourish_Pose_ChargeWeapons.label>charge weapon poses</Flourish_Pose_ChargeWeapons.label>
+	<Flourish_Pose_ChargeWeapons.label>позы с импульсным оружием</Flourish_Pose_ChargeWeapons.label>
 	<!-- EN: shotgun poses -->
-	<Flourish_Pose_Shotguns.label>shotgun poses</Flourish_Pose_Shotguns.label>
+	<Flourish_Pose_Shotguns.label>позы с дробовиками</Flourish_Pose_Shotguns.label>
 	<!-- EN: sniper poses -->
-	<Flourish_Pose_Sniper.label>sniper poses</Flourish_Pose_Sniper.label>
+	<Flourish_Pose_Sniper.label>позы со снайперскими винтовками</Flourish_Pose_Sniper.label>
 	<!-- EN: minigun poses -->
-	<Flourish_Pose_Minigun.label>minigun poses</Flourish_Pose_Minigun.label>
+	<Flourish_Pose_Minigun.label>позы с миниганом</Flourish_Pose_Minigun.label>
 	<!-- EN: launcher poses -->
-	<Flourish_Pose_Launchers.label>launcher poses</Flourish_Pose_Launchers.label>
+	<Flourish_Pose_Launchers.label>позы с ракетомётами</Flourish_Pose_Launchers.label>
 	<!-- EN: bow poses -->
-	<Flourish_Pose_Bows.label>bow poses</Flourish_Pose_Bows.label>
+	<Flourish_Pose_Bows.label>позы с луками</Flourish_Pose_Bows.label>
 	<!-- EN: thrown weapon poses -->
-	<Flourish_Pose_Thrown.label>thrown weapon poses</Flourish_Pose_Thrown.label>
+	<Flourish_Pose_Thrown.label>позы с метательным оружием</Flourish_Pose_Thrown.label>
 	<!-- EN: short blade poses -->
-	<Flourish_Pose_ShortBlades.label>short blade poses</Flourish_Pose_ShortBlades.label>
+	<Flourish_Pose_ShortBlades.label>позы с короткими клинками</Flourish_Pose_ShortBlades.label>
 	<!-- EN: one-hand edged poses -->
-	<Flourish_Pose_EdgedOneHand.label>one-hand edged poses</Flourish_Pose_EdgedOneHand.label>
+	<Flourish_Pose_EdgedOneHand.label>позы с одноручным клинковым оружием</Flourish_Pose_EdgedOneHand.label>
 	<!-- EN: two-hand edged poses -->
-	<Flourish_Pose_EdgedTwoHand.label>two-hand edged poses</Flourish_Pose_EdgedTwoHand.label>
+	<Flourish_Pose_EdgedTwoHand.label>позы с двуручным клинковым оружием</Flourish_Pose_EdgedTwoHand.label>
 	<!-- EN: spear poses -->
-	<Flourish_Pose_Spears.label>spear poses</Flourish_Pose_Spears.label>
+	<Flourish_Pose_Spears.label>позы с копьями</Flourish_Pose_Spears.label>
 	<!-- EN: axe poses -->
-	<Flourish_Pose_Axes.label>axe poses</Flourish_Pose_Axes.label>
+	<Flourish_Pose_Axes.label>позы с топорами</Flourish_Pose_Axes.label>
 	<!-- EN: one-hand blunt poses -->
-	<Flourish_Pose_BluntOneHand.label>one-hand blunt poses</Flourish_Pose_BluntOneHand.label>
+	<Flourish_Pose_BluntOneHand.label>позы с одноручным дробящим оружием</Flourish_Pose_BluntOneHand.label>
 	<!-- EN: two-hand blunt poses -->
-	<Flourish_Pose_BluntTwoHand.label>two-hand blunt poses</Flourish_Pose_BluntTwoHand.label>
+	<Flourish_Pose_BluntTwoHand.label>позы с двуручным дробящим оружием</Flourish_Pose_BluntTwoHand.label>
 	<!-- EN: monosword pose -->
-	<Flourish_Pose_Monosword.label>monosword pose</Flourish_Pose_Monosword.label>
+	<Flourish_Pose_Monosword.label>поза с мономечом</Flourish_Pose_Monosword.label>
 	<!-- EN: plasmasword pose -->
-	<Flourish_Pose_Plasmasword.label>plasmasword pose</Flourish_Pose_Plasmasword.label>
+	<Flourish_Pose_Plasmasword.label>поза с плазменным мечом</Flourish_Pose_Plasmasword.label>
 	<!-- EN: zeushammer pose -->
-	<Flourish_Pose_Zeushammer.label>zeushammer pose</Flourish_Pose_Zeushammer.label>
+	<Flourish_Pose_Zeushammer.label>поза с молотом Зевса</Flourish_Pose_Zeushammer.label>
 </LanguageData>

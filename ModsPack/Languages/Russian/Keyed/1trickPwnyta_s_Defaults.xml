@@ -178,4 +178,5 @@
   <Defaults_DefaultPolicyAssignmentsDesc>Назначьте каждому типу существ политику по умолчанию каждого вида либо оставьте «(по умолчанию)», чтобы использовать политику, заданную по умолчанию. Колонистам политики будут назначаться соответственно.</Defaults_DefaultPolicyAssignmentsDesc>
   <Defaults_EmptyString></Defaults_EmptyString>
   <Defaults_RemoveLimit>Снять ограничение</Defaults_RemoveLimit>
+<CommandResetTempDesc>Сбросить целевую температуру до температуры по умолчанию.</CommandResetTempDesc>
 </LanguageData>

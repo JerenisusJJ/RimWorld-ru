@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Visible Wealth -->
+  <VisibleWealth_MainButton.label>разбивка стоимости</VisibleWealth_MainButton.label>
+  <VisibleWealth_MainButton.description>Просмотр подробной разбивки стоимости колонии.</VisibleWealth_MainButton.description>
+</LanguageData>

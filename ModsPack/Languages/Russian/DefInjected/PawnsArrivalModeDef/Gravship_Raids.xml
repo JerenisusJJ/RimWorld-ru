@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GR_GravshipLanding.textEnemy>Поблизости садится враждебный гравикорабль фракции {1}. На борту: {0}.</GR_GravshipLanding.textEnemy>
+  <GR_GravshipLanding.textFriendly>Поблизости садится гравикорабль фракции {1}. На борту дружественные {0}.</GR_GravshipLanding.textFriendly>
+  <GR_GravshipLanding.textWillArrive>{0_pawnsPluralDef} прибудут на садящемся гравикорабле.</GR_GravshipLanding.textWillArrive>
+  <GR_ShuttleLanding.textEnemy>Поблизости садится враждебный челнок фракции {1}. На борту: {0}.</GR_ShuttleLanding.textEnemy>
+  <GR_ShuttleLanding.textFriendly>Поблизости садится челнок фракции {1}. На борту дружественные {0}.</GR_ShuttleLanding.textFriendly>
+  <GR_ShuttleLanding.textWillArrive>{0_pawnsPluralDef} прибудут на садящемся челноке.</GR_ShuttleLanding.textWillArrive>
+</LanguageData>

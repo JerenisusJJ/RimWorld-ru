@@ -24,9 +24,6 @@
   <VGE_DoBillsFabricationBench.label>производить высокоточные изделия</VGE_DoBillsFabricationBench.label>
   <VGE_DoBillsFabricationBench.gerund>производить высокоточные изделия, используя</VGE_DoBillsFabricationBench.gerund>
   <VGE_DoBillsFabricationBench.verb>производить высокоточные изделия, используя</VGE_DoBillsFabricationBench.verb>
-  <VGE_FightAstrofire.label>тушить астрогонь</VGE_FightAstrofire.label>
-  <VGE_FightAstrofire.gerund>потушить</VGE_FightAstrofire.gerund>
-  <VGE_FightAstrofire.verb>потушить</VGE_FightAstrofire.verb>
   <VGE_MaintainGrav.label>обслуживать конструкцию гравикорабля</VGE_MaintainGrav.label>
   <VGE_MaintainGrav.gerund>обслужить</VGE_MaintainGrav.gerund>
   <VGE_MaintainGrav.verb>обслужить</VGE_MaintainGrav.verb>

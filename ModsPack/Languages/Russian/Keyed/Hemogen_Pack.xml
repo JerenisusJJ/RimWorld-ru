@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Hemogen Pack -->
+  <HD_UseHemogenPackLabel>Ввести {0_label}...</HD_UseHemogenPackLabel>
+  <HD_MessageCannotReach>{0} не может добраться до {1}.</HD_MessageCannotReach>
+  <HD_StatBloodLoss>потеря крови</HD_StatBloodLoss>
+  <HD_StatBloodLossDesc>Употребление действует как переливание крови и уменьшает тяжесть кровопотери.</HD_StatBloodLossDesc>
+</LanguageData>

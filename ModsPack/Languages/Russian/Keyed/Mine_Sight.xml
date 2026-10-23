@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mine Sight -->
+  <MineSight_NearThreshold>Порог ближнего / среднего масштаба: {0} пикс. на клетку</MineSight_NearThreshold>
+  <MineSight_FarThreshold>Порог среднего / дальнего масштаба: {0} пикс. на клетку</MineSight_FarThreshold>
+  <MineSight_ShowLabels>Показывать подписи жил при дальнем масштабе</MineSight_ShowLabels>
+  <MineSight_ShowHoveredMarker>Показывать подпись жилы под курсором при ближнем и среднем масштабе</MineSight_ShowHoveredMarker>
+  <MineSight_MergeNearbyVeins>Объединять соседние жилы одного типа</MineSight_MergeNearbyVeins>
+  <MineSight_EnableMarkerClickMineVein>Клавиша добычи жилы + щелчок по подписи жилы назначает / отменяет добычу жилы</MineSight_EnableMarkerClickMineVein>
+  <MineSight_VeinKey>Клавиша добычи жилы</MineSight_VeinKey>
+  <MineSight_PressKey>Нажмите клавишу...</MineSight_PressKey>
+  <MineSight_VeinKeyResetHint>Щёлкните по полю, затем нажмите клавишу. Правый щелчок — сброс.</MineSight_VeinKeyResetHint>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Vanilla Expanded Framework -->
+  <VEF_FightCustomFire.label>тушить пожары</VEF_FightCustomFire.label>
+  <VEF_FightCustomFire.gerund>потушить</VEF_FightCustomFire.gerund>
+  <VEF_FightCustomFire.verb>потушить</VEF_FightCustomFire.verb>
+</LanguageData>

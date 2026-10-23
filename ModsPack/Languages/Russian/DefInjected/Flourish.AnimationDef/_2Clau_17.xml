@@ -1,327 +1,423 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- EN: knife stab -->
-	<Flourish_Melee_KnifeStab.label>knife stab</Flourish_Melee_KnifeStab.label>
+	<Flourish_Melee_KnifeStab.label>удар ножом</Flourish_Melee_KnifeStab.label>
 	<!-- EN: A fast, level thrust with the knife and a quick pull back to guard. -->
-	<Flourish_Melee_KnifeStab.description>A fast, level thrust with the knife and a quick pull back to guard.</Flourish_Melee_KnifeStab.description>
+	<Flourish_Melee_KnifeStab.description>Быстрый прямой выпад ножом и мгновенный возврат в защитную стойку.</Flourish_Melee_KnifeStab.description>
 	<!-- EN: knife slash -->
-	<Flourish_Melee_KnifeSlash.label>knife slash</Flourish_Melee_KnifeSlash.label>
+	<Flourish_Melee_KnifeSlash.label>режущий удар ножом</Flourish_Melee_KnifeSlash.label>
 	<!-- EN: A short, fast wrist slash across the target and back to guard. -->
-	<Flourish_Melee_KnifeSlash.description>A short, fast wrist slash across the target and back to guard.</Flourish_Melee_KnifeSlash.description>
+	<Flourish_Melee_KnifeSlash.description>Короткий быстрый взмах кистью поперёк цели и обратно в стойку.</Flourish_Melee_KnifeSlash.description>
 	<!-- EN: sword cut -->
-	<Flourish_Melee_SwordCut.label>sword cut</Flourish_Melee_SwordCut.label>
+	<Flourish_Melee_SwordCut.label>рубящий удар мечом</Flourish_Melee_SwordCut.label>
 	<!-- EN: A sharp diagonal cut from high behind the shoulder, followed by a long eased return to guard. -->
-	<Flourish_Melee_SwordCut.description>A sharp diagonal cut from high behind the shoulder, followed by a long eased return to guard.</Flourish_Melee_SwordCut.description>
+	<Flourish_Melee_SwordCut.description>Резкий диагональный удар из-за плеча сверху и долгий плавный возврат в стойку.</Flourish_Melee_SwordCut.description>
 	<!-- EN: sword thrust -->
-	<Flourish_Melee_SwordThrust.label>sword thrust</Flourish_Melee_SwordThrust.label>
+	<Flourish_Melee_SwordThrust.label>колющий удар мечом</Flourish_Melee_SwordThrust.label>
 	<!-- EN: A quick, level thrust with the point driven straight at the target, then drawn back to guard. -->
-	<Flourish_Melee_SwordThrust.description>A quick, level thrust with the point driven straight at the target, then drawn back to guard.</Flourish_Melee_SwordThrust.description>
+	<Flourish_Melee_SwordThrust.description>Быстрый прямой выпад остриём точно в цель и возврат в стойку.</Flourish_Melee_SwordThrust.description>
 	<!-- EN: greatsword cut -->
-	<Flourish_Melee_GreatswordCut.label>greatsword cut</Flourish_Melee_GreatswordCut.label>
+	<Flourish_Melee_GreatswordCut.label>удар двуручным мечом</Flourish_Melee_GreatswordCut.label>
 	<!-- EN: A heavy two-handed cut from far over the shoulder, followed by a slow haul back to rest. -->
-	<Flourish_Melee_GreatswordCut.description>A heavy two-handed cut from far over the shoulder, followed by a slow haul back to rest.</Flourish_Melee_GreatswordCut.description>
+	<Flourish_Melee_GreatswordCut.description>Тяжёлый двуручный удар из-за плеча и медленный возврат в исходное положение.</Flourish_Melee_GreatswordCut.description>
 	<!-- EN: greatsword sweep -->
-	<Flourish_Melee_GreatswordSweep.label>greatsword sweep</Flourish_Melee_GreatswordSweep.label>
+	<Flourish_Melee_GreatswordSweep.label>размах двуручным мечом</Flourish_Melee_GreatswordSweep.label>
 	<!-- EN: A wide, flat two-handed sweep carried around the body and across the target. -->
-	<Flourish_Melee_GreatswordSweep.description>A wide, flat two-handed sweep carried around the body and across the target.</Flourish_Melee_GreatswordSweep.description>
+	<Flourish_Melee_GreatswordSweep.description>Широкий горизонтальный двуручный взмах вокруг тела через цель.</Flourish_Melee_GreatswordSweep.description>
 	<!-- EN: spear thrust -->
-	<Flourish_Melee_SpearThrust.label>spear thrust</Flourish_Melee_SpearThrust.label>
+	<Flourish_Melee_SpearThrust.label>удар копьём</Flourish_Melee_SpearThrust.label>
 	<!-- EN: The spear is levelled and driven hard to full reach, then drawn back along the shaft. -->
-	<Flourish_Melee_SpearThrust.description>The spear is levelled and driven hard to full reach, then drawn back along the shaft.</Flourish_Melee_SpearThrust.description>
+	<Flourish_Melee_SpearThrust.description>Копьё опускается наперевес и с силой выбрасывается на всю длину, затем отводится назад вдоль древка.</Flourish_Melee_SpearThrust.description>
 	<!-- EN: low spear thrust -->
-	<Flourish_Melee_SpearThrustLow.label>low spear thrust</Flourish_Melee_SpearThrustLow.label>
+	<Flourish_Melee_SpearThrustLow.label>низкий удар копьём</Flourish_Melee_SpearThrustLow.label>
 	<!-- EN: A crouched spear thrust driven low at the legs, then drawn back to guard. -->
-	<Flourish_Melee_SpearThrustLow.description>A crouched spear thrust driven low at the legs, then drawn back to guard.</Flourish_Melee_SpearThrustLow.description>
+	<Flourish_Melee_SpearThrustLow.description>Удар копьём из приседа по ногам и возврат в стойку.</Flourish_Melee_SpearThrustLow.description>
 	<!-- EN: axe chop -->
-	<Flourish_Melee_AxeChop.label>axe chop</Flourish_Melee_AxeChop.label>
+	<Flourish_Melee_AxeChop.label>удар топором</Flourish_Melee_AxeChop.label>
 	<!-- EN: An overhead chop brought down hard that sticks for a beat before the axe is worked free. -->
-	<Flourish_Melee_AxeChop.description>An overhead chop brought down hard that sticks for a beat before the axe is worked free.</Flourish_Melee_AxeChop.description>
+	<Flourish_Melee_AxeChop.description>Сильный удар сверху: топор на миг застревает, и его приходится высвобождать.</Flourish_Melee_AxeChop.description>
 	<!-- EN: club swing -->
-	<Flourish_Melee_ClubSwing.label>club swing</Flourish_Melee_ClubSwing.label>
+	<Flourish_Melee_ClubSwing.label>удар дубиной</Flourish_Melee_ClubSwing.label>
 	<!-- EN: A round swing from the shoulder that lands hard and is dragged back to rest. -->
-	<Flourish_Melee_ClubSwing.description>A round swing from the shoulder that lands hard and is dragged back to rest.</Flourish_Melee_ClubSwing.description>
+	<Flourish_Melee_ClubSwing.description>Круговой взмах от плеча с тяжёлым попаданием и возвратом в исходное положение.</Flourish_Melee_ClubSwing.description>
 	<!-- EN: club backhand -->
-	<Flourish_Melee_ClubBackhand.label>club backhand</Flourish_Melee_ClubBackhand.label>
+	<Flourish_Melee_ClubBackhand.label>обратный удар дубиной</Flourish_Melee_ClubBackhand.label>
 	<!-- EN: A reverse arc where the club dips low, then whips up and across before settling. -->
-	<Flourish_Melee_ClubBackhand.description>A reverse arc where the club dips low, then whips up and across before settling.</Flourish_Melee_ClubBackhand.description>
+	<Flourish_Melee_ClubBackhand.description>Обратная дуга: дубина уходит вниз, затем хлёстко взлетает поперёк и замирает.</Flourish_Melee_ClubBackhand.description>
 	<!-- EN: maul swing -->
-	<Flourish_Melee_MaulSwing.label>maul swing</Flourish_Melee_MaulSwing.label>
+	<Flourish_Melee_MaulSwing.label>удар молотом</Flourish_Melee_MaulSwing.label>
 	<!-- EN: A two-handed overhead smash with a hanging wind-up, a ground-shaking drop and a slow recovery. -->
-	<Flourish_Melee_MaulSwing.description>A two-handed overhead smash with a hanging wind-up, a ground-shaking drop and a slow recovery.</Flourish_Melee_MaulSwing.description>
+	<Flourish_Melee_MaulSwing.description>Двуручный удар сверху: долгий замах, сотрясающее землю падение и медленное восстановление.</Flourish_Melee_MaulSwing.description>
 	<!-- EN: jab -->
-	<Flourish_Melee_Jab.label>jab</Flourish_Melee_Jab.label>
+	<Flourish_Melee_Jab.label>джеб</Flourish_Melee_Jab.label>
 	<!-- EN: A quick straight punch with the lead hand, snapped out and back. -->
-	<Flourish_Melee_Jab.description>A quick straight punch with the lead hand, snapped out and back.</Flourish_Melee_Jab.description>
+	<Flourish_Melee_Jab.description>Быстрый прямой удар передней рукой с мгновенным возвратом.</Flourish_Melee_Jab.description>
 	<!-- EN: cross -->
-	<Flourish_Melee_Cross.label>cross</Flourish_Melee_Cross.label>
+	<Flourish_Melee_Cross.label>кросс</Flourish_Melee_Cross.label>
 	<!-- EN: A heavy rear-hand punch with the hips turning in behind it. -->
-	<Flourish_Melee_Cross.description>A heavy rear-hand punch with the hips turning in behind it.</Flourish_Melee_Cross.description>
+	<Flourish_Melee_Cross.description>Тяжёлый удар дальней рукой с доворотом бёдер.</Flourish_Melee_Cross.description>
 	<!-- EN: tool swing -->
-	<Flourish_Melee_ToolSwing.label>tool swing</Flourish_Melee_ToolSwing.label>
+	<Flourish_Melee_ToolSwing.label>удар инструментом</Flourish_Melee_ToolSwing.label>
 	<!-- EN: A committed swing with whatever is in hand, followed by a return to rest. -->
-	<Flourish_Melee_ToolSwing.description>A committed swing with whatever is in hand, followed by a return to rest.</Flourish_Melee_ToolSwing.description>
+	<Flourish_Melee_ToolSwing.description>Решительный взмах тем, что оказалось в руках, и возврат в исходное положение.</Flourish_Melee_ToolSwing.description>
 	<!-- EN: flinch -->
-	<Flourish_React_Flinch.label>flinch</Flourish_React_Flinch.label>
+	<Flourish_React_Flinch.label>вздрагивание</Flourish_React_Flinch.label>
 	<!-- EN: A small, sharp snap away from a light blow, then the pawn settles back. -->
-	<Flourish_React_Flinch.description>A small, sharp snap away from a light blow, then the pawn settles back.</Flourish_React_Flinch.description>
+	<Flourish_React_Flinch.description>Небольшой резкий рывок от лёгкого удара, после чего персонаж возвращается в исходное положение.</Flourish_React_Flinch.description>
 	<!-- EN: heavy flinch -->
-	<Flourish_React_FlinchHard.label>heavy flinch</Flourish_React_FlinchHard.label>
+	<Flourish_React_FlinchHard.label>сильное вздрагивание</Flourish_React_FlinchHard.label>
 	<!-- EN: The pawn is knocked back hard by a heavy blow, freezes for a beat, then rebounds. -->
-	<Flourish_React_FlinchHard.description>The pawn is knocked back hard by a heavy blow, freezes for a beat, then rebounds.</Flourish_React_FlinchHard.description>
+	<Flourish_React_FlinchHard.description>Тяжёлый удар отбрасывает персонажа назад; он на миг замирает и выпрямляется.</Flourish_React_FlinchHard.description>
 	<!-- EN: sidestep -->
-	<Flourish_React_Sidestep.label>sidestep</Flourish_React_Sidestep.label>
+	<Flourish_React_Sidestep.label>уход в сторону</Flourish_React_Sidestep.label>
 	<!-- EN: A snap step back and to the side out of the blow's line, held, then an eased return. -->
-	<Flourish_React_Sidestep.description>A snap step back and to the side out of the blow's line, held, then an eased return.</Flourish_React_Sidestep.description>
+	<Flourish_React_Sidestep.description>Резкий шаг назад и в сторону с линии удара, пауза и плавный возврат.</Flourish_React_Sidestep.description>
 	<!-- EN: duck -->
-	<Flourish_React_Duck.label>duck</Flourish_React_Duck.label>
+	<Flourish_React_Duck.label>пригибание</Flourish_React_Duck.label>
 	<!-- EN: A quick squashed duck under incoming fire, held briefly, then the pawn straightens up. -->
-	<Flourish_React_Duck.description>A quick squashed duck under incoming fire, held briefly, then the pawn straightens up.</Flourish_React_Duck.description>
+	<Flourish_React_Duck.description>Персонаж быстро пригибается под огнём, на миг замирает и выпрямляется.</Flourish_React_Duck.description>
 	<!-- EN: blade parry -->
-	<Flourish_Parry_Blade.label>blade parry</Flourish_Parry_Blade.label>
+	<Flourish_Parry_Blade.label>парирование клинком</Flourish_Parry_Blade.label>
 	<!-- EN: The defender snaps the blade across the line and the attacker's weapon is knocked back with a hard clash. -->
-	<Flourish_Parry_Blade.description>The defender snaps the blade across the line and the attacker's weapon is knocked back with a hard clash.</Flourish_Parry_Blade.description>
+	<Flourish_Parry_Blade.description>Защищающийся резко ставит клинок поперёк, и оружие атакующего с лязгом отлетает назад.</Flourish_Parry_Blade.description>
 	<!-- EN: polearm parry -->
-	<Flourish_Parry_Polearm.label>polearm parry</Flourish_Parry_Polearm.label>
+	<Flourish_Parry_Polearm.label>парирование древковым оружием</Flourish_Parry_Polearm.label>
 	<!-- EN: The defender whips the shaft up across the line and the attacker's blow is knocked back with a hard clash. -->
-	<Flourish_Parry_Polearm.description>The defender whips the shaft up across the line and the attacker's blow is knocked back with a hard clash.</Flourish_Parry_Polearm.description>
+	<Flourish_Parry_Polearm.description>Защищающийся вскидывает древко поперёк, и удар атакующего с лязгом отбивается.</Flourish_Parry_Polearm.description>
 	<!-- EN: blunt parry -->
-	<Flourish_Parry_Blunt.label>blunt parry</Flourish_Parry_Blunt.label>
+	<Flourish_Parry_Blunt.label>парирование дробящим оружием</Flourish_Parry_Blunt.label>
 	<!-- EN: The defender braces and takes the blow on the weapon, and the attacker bounces off hard. -->
-	<Flourish_Parry_Blunt.description>The defender braces and takes the blow on the weapon, and the attacker bounces off hard.</Flourish_Parry_Blunt.description>
+	<Flourish_Parry_Blunt.description>Защищающийся упирается и принимает удар на оружие, атакующий резко отскакивает.</Flourish_Parry_Blunt.description>
 	<!-- EN: critical follow-through -->
-	<Flourish_Melee_Critical.label>critical follow-through</Flourish_Melee_Critical.label>
+	<Flourish_Melee_Critical.label>критический удар с доводкой</Flourish_Melee_Critical.label>
 	<!-- EN: After a big hit the weapon drives on through, then snaps back up into guard with a flourish. -->
-	<Flourish_Melee_Critical.description>After a big hit the weapon drives on through, then snaps back up into guard with a flourish.</Flourish_Melee_Critical.description>
+	<Flourish_Melee_Critical.description>После мощного попадания оружие проходит дальше, затем эффектно возвращается в стойку.</Flourish_Melee_Critical.description>
 	<!-- EN: melee draw -->
-	<Flourish_Melee_Draw.label>melee draw</Flourish_Melee_Draw.label>
+	<Flourish_Melee_Draw.label>извлечение оружия ближнего боя</Flourish_Melee_Draw.label>
 	<!-- EN: The weapon is spun once and snapped into guard. -->
-	<Flourish_Melee_Draw.description>The weapon is spun once and snapped into guard.</Flourish_Melee_Draw.description>
+	<Flourish_Melee_Draw.description>Оружие делает один оборот и встаёт в стойку.</Flourish_Melee_Draw.description>
 	<!-- EN: dash launch -->
-	<Flourish_Phys_Dash.label>dash launch</Flourish_Phys_Dash.label>
+	<Flourish_Phys_Dash.label>начало рывка</Flourish_Phys_Dash.label>
 	<!-- EN: A hard crouch and a drive forward, grit thrown back off the push-off foot and the air torn into speed lines. -->
-	<Flourish_Phys_Dash.description>A hard crouch and a drive forward, grit thrown back off the push-off foot and the air torn into speed lines.</Flourish_Phys_Dash.description>
+	<Flourish_Phys_Dash.description>Глубокий присед и бросок вперёд: из-под толчковой ноги летит пыль, воздух рвётся линиями скорости.</Flourish_Phys_Dash.description>
 	<!-- EN: leap launch -->
-	<Flourish_Phys_Leap.label>leap launch</Flourish_Phys_Leap.label>
+	<Flourish_Phys_Leap.label>начало прыжка</Flourish_Phys_Leap.label>
 	<!-- EN: The legs load deep and the pawn goes up, a ring of dust blown off the spot they left. -->
-	<Flourish_Phys_Leap.description>The legs load deep and the pawn goes up, a ring of dust blown off the spot they left.</Flourish_Phys_Leap.description>
+	<Flourish_Phys_Leap.description>Ноги глубоко сгибаются, и персонаж взмывает вверх; с места толчка разлетается кольцо пыли.</Flourish_Phys_Leap.description>
 	<!-- EN: roll -->
-	<Flourish_Phys_Roll.label>roll</Flourish_Phys_Roll.label>
+	<Flourish_Phys_Roll.label>кувырок</Flourish_Phys_Roll.label>
 	<!-- EN: The pawn drops low and throws themselves forward over the shoulder, grit scattering as they come up. -->
-	<Flourish_Phys_Roll.description>The pawn drops low and throws themselves forward over the shoulder, grit scattering as they come up.</Flourish_Phys_Roll.description>
+	<Flourish_Phys_Roll.description>Персонаж приседает и бросается вперёд через плечо, поднимаясь в облаке пыли.</Flourish_Phys_Roll.description>
 	<!-- EN: vault -->
-	<Flourish_Phys_Vault.label>vault</Flourish_Phys_Vault.label>
+	<Flourish_Phys_Vault.label>перемахивание</Flourish_Phys_Vault.label>
 	<!-- EN: A step, a hard plant, and the body springs up and over with speed lines trailing. -->
-	<Flourish_Phys_Vault.description>A step, a hard plant, and the body springs up and over with speed lines trailing.</Flourish_Phys_Vault.description>
+	<Flourish_Phys_Vault.description>Шаг, упор, и тело перемахивает вверх и через препятствие, оставляя линии скорости.</Flourish_Phys_Vault.description>
 	<!-- EN: charge -->
-	<Flourish_Phys_Charge.label>charge</Flourish_Phys_Charge.label>
+	<Flourish_Phys_Charge.label>натиск</Flourish_Phys_Charge.label>
 	<!-- EN: The pawn drops a shoulder and drives forward off the back foot, dust torn up behind them and the air in streaks. -->
-	<Flourish_Phys_Charge.description>The pawn drops a shoulder and drives forward off the back foot, dust torn up behind them and the air in streaks.</Flourish_Phys_Charge.description>
+	<Flourish_Phys_Charge.description>Персонаж выставляет плечо и рвётся вперёд с опорной ноги, позади поднимается пыль, воздух идёт полосами.</Flourish_Phys_Charge.description>
 	<!-- EN: physical strike -->
-	<Flourish_Phys_Strike.label>physical strike</Flourish_Phys_Strike.label>
+	<Flourish_Phys_Strike.label>физический удар</Flourish_Phys_Strike.label>
 	<!-- EN: A short hard wind-up and a committed blow, a smear through the arc and a flash on contact. -->
-	<Flourish_Phys_Strike.description>A short hard wind-up and a committed blow, a smear through the arc and a flash on contact.</Flourish_Phys_Strike.description>
+	<Flourish_Phys_Strike.description>Короткий резкий замах и решительный удар: смазанный след по дуге и вспышка при контакте.</Flourish_Phys_Strike.description>
 	<!-- EN: brace -->
-	<Flourish_Phys_Brace.label>brace</Flourish_Phys_Brace.label>
+	<Flourish_Phys_Brace.label>упор</Flourish_Phys_Brace.label>
 	<!-- EN: The pawn slams their feet down and sets themselves, weight driven into the ground in a ring of dust. -->
-	<Flourish_Phys_Brace.description>The pawn slams their feet down and sets themselves, weight driven into the ground in a ring of dust.</Flourish_Phys_Brace.description>
+	<Flourish_Phys_Brace.description>Персонаж с силой упирается ногами в землю, и вокруг расходится кольцо пыли.</Flourish_Phys_Brace.description>
 	<!-- EN: physical effort -->
-	<Flourish_Phys_Effort.label>physical effort</Flourish_Phys_Effort.label>
+	<Flourish_Phys_Effort.label>физическое усилие</Flourish_Phys_Effort.label>
 	<!-- EN: A short braced effort, weight dropping and driving back up. -->
-	<Flourish_Phys_Effort.description>A short braced effort, weight dropping and driving back up.</Flourish_Phys_Effort.description>
+	<Flourish_Phys_Effort.description>Короткое усилие с упором: вес опускается и снова толкает вверх.</Flourish_Phys_Effort.description>
 	<!-- EN: touchdown -->
-	<Flourish_Landing_Soft.label>touchdown</Flourish_Landing_Soft.label>
+	<Flourish_Landing_Soft.label>приземление</Flourish_Landing_Soft.label>
 	<!-- EN: The knees give on landing with a scuff of grit, and the pawn springs back up straight. -->
-	<Flourish_Landing_Soft.description>The knees give on landing with a scuff of grit, and the pawn springs back up straight.</Flourish_Landing_Soft.description>
+	<Flourish_Landing_Soft.description>Колени пружинят при приземлении, взметается пыль, и персонаж выпрямляется.</Flourish_Landing_Soft.description>
 	<!-- EN: heavy touchdown -->
-	<Flourish_Landing_Heavy.label>heavy touchdown</Flourish_Landing_Heavy.label>
+	<Flourish_Landing_Heavy.label>тяжёлое приземление</Flourish_Landing_Heavy.label>
 	<!-- EN: A hard arrival: a deep squash, a starburst and a frozen beat of impact, a ring of dust thrown out and the ground cracked under the boots. -->
-	<Flourish_Landing_Heavy.description>A hard arrival: a deep squash, a starburst and a frozen beat of impact, a ring of dust thrown out and the ground cracked under the boots.</Flourish_Landing_Heavy.description>
+	<Flourish_Landing_Heavy.description>Жёсткое приземление: глубокое сжатие, вспышка и пауза удара, кольцо пыли и трещины в земле под ногами.</Flourish_Landing_Heavy.description>
 	<!-- EN: downed collapse -->
-	<Flourish_React_Downed.label>downed collapse</Flourish_React_Downed.label>
+	<Flourish_React_Downed.label>падение без сил</Flourish_React_Downed.label>
 	<!-- EN: The body drops hard onto the ground, flattening on impact in a ring of dust and a cracked patch of earth. -->
-	<Flourish_React_Downed.description>The body drops hard onto the ground, flattening on impact in a ring of dust and a cracked patch of earth.</Flourish_React_Downed.description>
+	<Flourish_React_Downed.description>Тело тяжело падает на землю, сплющиваясь от удара; вокруг кольцо пыли и трещины в земле.</Flourish_React_Downed.description>
 	<!-- EN: bolt precast -->
-	<Flourish_Cast_Bolt.label>bolt precast</Flourish_Cast_Bolt.label>
+	<Flourish_Cast_Bolt.label>подготовка снаряда</Flourish_Cast_Bolt.label>
 	<!-- EN: The caster coils back as psychic light collapses into the hands, then snaps forward and a zigzag bolt leaves them. -->
-	<Flourish_Cast_Bolt.description>The caster coils back as psychic light collapses into the hands, then snaps forward and a zigzag bolt leaves them.</Flourish_Cast_Bolt.description>
+	<Flourish_Cast_Bolt.description>Заклинатель отклоняется назад, пси-свет сжимается в руках, затем резкий выброс вперёд — и из рук вылетает зигзаг молнии.</Flourish_Cast_Bolt.description>
 	<!-- EN: nova precast -->
-	<Flourish_Cast_Nova.label>nova precast</Flourish_Cast_Nova.label>
+	<Flourish_Cast_Nova.label>подготовка волны</Flourish_Cast_Nova.label>
 	<!-- EN: The caster crushes down around a collapsing ring, then bursts upright as a hard psychic ring tears outward across the ground. -->
-	<Flourish_Cast_Nova.description>The caster crushes down around a collapsing ring, then bursts upright as a hard psychic ring tears outward across the ground.</Flourish_Cast_Nova.description>
+	<Flourish_Cast_Nova.description>Заклинатель сжимается вокруг стягивающегося кольца, затем резко выпрямляется, и по земле расходится жёсткое пси-кольцо.</Flourish_Cast_Nova.description>
 	<!-- EN: conjure precast -->
-	<Flourish_Cast_Conjure.label>conjure precast</Flourish_Cast_Conjure.label>
+	<Flourish_Cast_Conjure.label>подготовка призыва</Flourish_Cast_Conjure.label>
 	<!-- EN: A rune ellipse opens underfoot as the caster raises and coils, then slams forward and a column of light brings the summoning up. -->
-	<Flourish_Cast_Conjure.description>A rune ellipse opens underfoot as the caster raises and coils, then slams forward and a column of light brings the summoning up.</Flourish_Cast_Conjure.description>
+	<Flourish_Cast_Conjure.description>Под ногами раскрывается рунный круг, заклинатель поднимается и собирается, затем бросается вперёд, и столп света завершает призыв.</Flourish_Cast_Conjure.description>
 	<!-- EN: ward precast -->
-	<Flourish_Cast_Ward.label>ward precast</Flourish_Cast_Ward.label>
+	<Flourish_Cast_Ward.label>подготовка защиты</Flourish_Cast_Ward.label>
 	<!-- EN: A rune ellipse opens underfoot as the caster braces, then snaps upright with the weapon raised and holds while a hard ring seals the ward. -->
-	<Flourish_Cast_Ward.description>A rune ellipse opens underfoot as the caster braces, then snaps upright with the weapon raised and holds while a hard ring seals the ward.</Flourish_Cast_Ward.description>
+	<Flourish_Cast_Ward.description>Под ногами раскрывается рунный круг, заклинатель упирается, затем выпрямляется с поднятым оружием и держит позу, пока жёсткое кольцо запечатывает защиту.</Flourish_Cast_Ward.description>
 	<!-- EN: beam precast -->
-	<Flourish_Cast_Beam.label>beam precast</Flourish_Cast_Beam.label>
+	<Flourish_Cast_Beam.label>подготовка луча</Flourish_Cast_Beam.label>
 	<!-- EN: Light collapses into the hands as the caster coils, then they snap forward and hold the stretch while a cone of psychic lines runs out ahead. -->
-	<Flourish_Cast_Beam.description>Light collapses into the hands as the caster coils, then they snap forward and hold the stretch while a cone of psychic lines runs out ahead.</Flourish_Cast_Beam.description>
+	<Flourish_Cast_Beam.description>Свет сжимается в руках, заклинатель собирается, затем резко подаётся вперёд и держит позу, пока вперёд расходится конус пси-линий.</Flourish_Cast_Beam.description>
 	<!-- EN: touch precast -->
-	<Flourish_Cast_Touch.label>touch precast</Flourish_Cast_Touch.label>
+	<Flourish_Cast_Touch.label>подготовка касания</Flourish_Cast_Touch.label>
 	<!-- EN: A short coil around a small collapsing ring, then a committed step in and a psychic starburst at the point of contact. -->
-	<Flourish_Cast_Touch.description>A short coil around a small collapsing ring, then a committed step in and a psychic starburst at the point of contact.</Flourish_Cast_Touch.description>
+	<Flourish_Cast_Touch.description>Короткое сжатие вокруг небольшого кольца, решительный шаг вперёд и пси-вспышка в точке касания.</Flourish_Cast_Touch.description>
 	<!-- EN: channel precast -->
-	<Flourish_Cast_Channel.label>channel precast</Flourish_Cast_Channel.label>
+	<Flourish_Cast_Channel.label>подготовка концентрации</Flourish_Cast_Channel.label>
 	<!-- EN: Power collapses into the caster in two long pulls as they sink and compress, then bursts back out as they spring upright. -->
-	<Flourish_Cast_Channel.description>Power collapses into the caster in two long pulls as they sink and compress, then bursts back out as they spring upright.</Flourish_Cast_Channel.description>
+	<Flourish_Cast_Channel.description>Сила двумя долгими волнами втягивается в заклинателя, он оседает и сжимается, затем она вырывается наружу, когда он выпрямляется.</Flourish_Cast_Channel.description>
 	<!-- EN: skip cast -->
-	<Flourish_Cast_Skip.label>skip cast</Flourish_Cast_Skip.label>
+	<Flourish_Cast_Skip.label>применение прыжка</Flourish_Cast_Skip.label>
 	<!-- EN: A collapsing ring and a hard crouch, then a snap upward as the air splits in a vertical slit and a psychic ring cracks outward. -->
-	<Flourish_Cast_Skip.description>A collapsing ring and a hard crouch, then a snap upward as the air splits in a vertical slit and a psychic ring cracks outward.</Flourish_Cast_Skip.description>
+	<Flourish_Cast_Skip.description>Стягивающееся кольцо и глубокий присед, затем рывок вверх: воздух расходится вертикальной щелью, и наружу разлетается пси-кольцо.</Flourish_Cast_Skip.description>
 	<!-- EN: pistol draw -->
-	<Flourish_Ranged_DrawPistol.label>pistol draw</Flourish_Ranged_DrawPistol.label>
+	<Flourish_Ranged_DrawPistol.label>извлечение пистолета</Flourish_Ranged_DrawPistol.label>
 	<!-- EN: The sidearm snaps up from the hip to a ready carry. -->
-	<Flourish_Ranged_DrawPistol.description>The sidearm snaps up from the hip to a ready carry.</Flourish_Ranged_DrawPistol.description>
+	<Flourish_Ranged_DrawPistol.description>Пистолет резко поднимается от бедра в готовое положение.</Flourish_Ranged_DrawPistol.description>
 	<!-- EN: long gun draw -->
-	<Flourish_Ranged_DrawLong.label>long gun draw</Flourish_Ranged_DrawLong.label>
+	<Flourish_Ranged_DrawLong.label>вскидывание длинноствольного оружия</Flourish_Ranged_DrawLong.label>
 	<!-- EN: The long gun snaps up from a low carry into the shoulder. -->
-	<Flourish_Ranged_DrawLong.description>The long gun snaps up from a low carry into the shoulder.</Flourish_Ranged_DrawLong.description>
+	<Flourish_Ranged_DrawLong.description>Длинноствольное оружие резко вскидывается из низкого положения к плечу.</Flourish_Ranged_DrawLong.description>
 	<!-- EN: bow draw -->
-	<Flourish_Ranged_DrawBow.label>bow draw</Flourish_Ranged_DrawBow.label>
+	<Flourish_Ranged_DrawBow.label>вскидывание лука</Flourish_Ranged_DrawBow.label>
 	<!-- EN: The bow snaps up from a low carry to the ready. -->
-	<Flourish_Ranged_DrawBow.description>The bow snaps up from a low carry to the ready.</Flourish_Ranged_DrawBow.description>
+	<Flourish_Ranged_DrawBow.description>Лук резко поднимается из низкого положения в готовое.</Flourish_Ranged_DrawBow.description>
 	<!-- EN: pistol aim -->
-	<Flourish_Aim_Pistol.label>pistol aim</Flourish_Aim_Pistol.label>
+	<Flourish_Aim_Pistol.label>прицеливание из пистолета</Flourish_Aim_Pistol.label>
 	<!-- EN: The pistol snaps up from the carry onto the target line and the shooter leans in. -->
-	<Flourish_Aim_Pistol.description>The pistol snaps up from the carry onto the target line and the shooter leans in.</Flourish_Aim_Pistol.description>
+	<Flourish_Aim_Pistol.description>Пистолет резко выходит на линию цели, стрелок подаётся вперёд.</Flourish_Aim_Pistol.description>
 	<!-- EN: shoulder aim -->
-	<Flourish_Aim_Long.label>shoulder aim</Flourish_Aim_Long.label>
+	<Flourish_Aim_Long.label>прицеливание с плеча</Flourish_Aim_Long.label>
 	<!-- EN: The long gun snaps up from the low carry onto the target line as the shooter leans into the stock. -->
-	<Flourish_Aim_Long.description>The long gun snaps up from the low carry onto the target line as the shooter leans into the stock.</Flourish_Aim_Long.description>
+	<Flourish_Aim_Long.description>Длинноствольное оружие резко выходит на линию цели, стрелок прижимается к прикладу.</Flourish_Aim_Long.description>
 	<!-- EN: bow draw and aim -->
-	<Flourish_Aim_Bow.label>bow draw and aim</Flourish_Aim_Bow.label>
+	<Flourish_Aim_Bow.label>натяжение и прицеливание из лука</Flourish_Aim_Bow.label>
 	<!-- EN: The bow comes up onto the line and the archer leans back into a full draw, held until the loose. -->
-	<Flourish_Aim_Bow.description>The bow comes up onto the line and the archer leans back into a full draw, held until the loose.</Flourish_Aim_Bow.description>
+	<Flourish_Aim_Bow.description>Лук выходит на линию, лучник отклоняется назад и полностью натягивает тетиву до выстрела.</Flourish_Aim_Bow.description>
 	<!-- EN: throw wind-up -->
-	<Flourish_Aim_Thrown.label>throw wind-up</Flourish_Aim_Thrown.label>
+	<Flourish_Aim_Thrown.label>замах для броска</Flourish_Aim_Thrown.label>
 	<!-- EN: The arm cocks back behind the shoulder, holds, then whips forward into the throw. -->
-	<Flourish_Aim_Thrown.description>The arm cocks back behind the shoulder, holds, then whips forward into the throw.</Flourish_Aim_Thrown.description>
+	<Flourish_Aim_Thrown.description>Рука отводится за плечо, замирает и хлёстко выбрасывается вперёд в броске.</Flourish_Aim_Thrown.description>
 	<!-- EN: scoped hold -->
-	<Flourish_Aim_Scoped.label>scoped hold</Flourish_Aim_Scoped.label>
+	<Flourish_Aim_Scoped.label>прицеливание через оптику</Flourish_Aim_Scoped.label>
 	<!-- EN: The rifle snaps onto the line, then the shooter goes still on the scope with only a breath of movement. -->
-	<Flourish_Aim_Scoped.description>The rifle snaps onto the line, then the shooter goes still on the scope with only a breath of movement.</Flourish_Aim_Scoped.description>
+	<Flourish_Aim_Scoped.description>Винтовка резко выходит на линию, затем стрелок замирает у прицела, едва заметно дыша.</Flourish_Aim_Scoped.description>
 	<!-- EN: pistol shot -->
-	<Flourish_Shot_Pistol.label>pistol shot</Flourish_Shot_Pistol.label>
+	<Flourish_Shot_Pistol.label>выстрел из пистолета</Flourish_Shot_Pistol.label>
 	<!-- EN: The pistol barks and flips up on a light wrist kick, then drops back onto the line. -->
-	<Flourish_Shot_Pistol.description>The pistol barks and flips up on a light wrist kick, then drops back onto the line.</Flourish_Shot_Pistol.description>
+	<Flourish_Shot_Pistol.description>Пистолет хлопает и подскакивает от лёгкой отдачи в кисть, затем возвращается на линию.</Flourish_Shot_Pistol.description>
 	<!-- EN: rifle shot -->
-	<Flourish_Shot_Rifle.label>rifle shot</Flourish_Shot_Rifle.label>
+	<Flourish_Shot_Rifle.label>выстрел из винтовки</Flourish_Shot_Rifle.label>
 	<!-- EN: A single round punches the rifle back into the shoulder before it settles onto the line. -->
-	<Flourish_Shot_Rifle.description>A single round punches the rifle back into the shoulder before it settles onto the line.</Flourish_Shot_Rifle.description>
+	<Flourish_Shot_Rifle.description>Одиночный выстрел толкает винтовку в плечо, после чего она возвращается на линию.</Flourish_Shot_Rifle.description>
 	<!-- EN: charge shot -->
-	<Flourish_Shot_Charge.label>charge shot</Flourish_Shot_Charge.label>
+	<Flourish_Shot_Charge.label>выстрел из импульсного оружия</Flourish_Shot_Charge.label>
 	<!-- EN: A charged bolt leaves the weapon on a heavy shove that the shooter rides back onto the line. -->
-	<Flourish_Shot_Charge.description>A charged bolt leaves the weapon on a heavy shove that the shooter rides back onto the line.</Flourish_Shot_Charge.description>
+	<Flourish_Shot_Charge.description>Заряд вылетает из оружия с сильным толчком, и стрелок возвращает его на линию.</Flourish_Shot_Charge.description>
 	<!-- EN: heavy gun shot -->
-	<Flourish_Shot_Minigun.label>heavy gun shot</Flourish_Shot_Minigun.label>
+	<Flourish_Shot_Minigun.label>выстрел из тяжёлого оружия</Flourish_Shot_Minigun.label>
 	<!-- EN: A single heavy round slams the whole body back before the gun is wrestled onto the line. -->
-	<Flourish_Shot_Minigun.description>A single heavy round slams the whole body back before the gun is wrestled onto the line.</Flourish_Shot_Minigun.description>
+	<Flourish_Shot_Minigun.description>Одиночный тяжёлый выстрел отбрасывает всё тело назад, и оружие с трудом возвращается на линию.</Flourish_Shot_Minigun.description>
 	<!-- EN: bolt cycle -->
-	<Flourish_Shot_Bolt.label>bolt cycle</Flourish_Shot_Bolt.label>
+	<Flourish_Shot_Bolt.label>перезарядка затвором</Flourish_Shot_Bolt.label>
 	<!-- EN: The rifle kicks hard, cants up while the bolt is worked and the case flies, then settles back onto the target. -->
-	<Flourish_Shot_Bolt.description>The rifle kicks hard, cants up while the bolt is worked and the case flies, then settles back onto the target.</Flourish_Shot_Bolt.description>
+	<Flourish_Shot_Bolt.description>Винтовка сильно дёргается, задирается, пока передёргивается затвор и вылетает гильза, затем возвращается на цель.</Flourish_Shot_Bolt.description>
 	<!-- EN: pump rack -->
-	<Flourish_Shot_Pump.label>pump rack</Flourish_Shot_Pump.label>
+	<Flourish_Shot_Pump.label>передёргивание цевья</Flourish_Shot_Pump.label>
 	<!-- EN: The blast throws the shotgun up, the fore-end is racked back and slammed home with the shell flying, and it drops back onto the line. -->
-	<Flourish_Shot_Pump.description>The blast throws the shotgun up, the fore-end is racked back and slammed home with the shell flying, and it drops back onto the line.</Flourish_Shot_Pump.description>
+	<Flourish_Shot_Pump.description>Выстрел подбрасывает дробовик, цевьё отводится назад и досылается вперёд, гильза вылетает, и оружие возвращается на линию.</Flourish_Shot_Pump.description>
 	<!-- EN: bow release -->
-	<Flourish_Shot_Bow.label>bow release</Flourish_Shot_Bow.label>
+	<Flourish_Shot_Bow.label>выстрел из лука</Flourish_Shot_Bow.label>
 	<!-- EN: The string snaps, the bow rolls forward and dips in the follow-through, then comes back to the ready. -->
-	<Flourish_Shot_Bow.description>The string snaps, the bow rolls forward and dips in the follow-through, then comes back to the ready.</Flourish_Shot_Bow.description>
+	<Flourish_Shot_Bow.description>Тетива щёлкает, лук подаётся вперёд и опускается по инерции, затем возвращается в готовое положение.</Flourish_Shot_Bow.description>
 	<!-- EN: throw -->
-	<Flourish_Shot_Throw.label>throw</Flourish_Shot_Throw.label>
+	<Flourish_Shot_Throw.label>бросок</Flourish_Shot_Throw.label>
 	<!-- EN: The arm whips over the shoulder with a step into the throw and follows through. -->
-	<Flourish_Shot_Throw.description>The arm whips over the shoulder with a step into the throw and follows through.</Flourish_Shot_Throw.description>
+	<Flourish_Shot_Throw.description>Рука хлёстко проходит над плечом с шагом в бросок и доводкой.</Flourish_Shot_Throw.description>
 	<!-- EN: rifle burst -->
-	<Flourish_Burst_Rifle.label>rifle burst</Flourish_Burst_Rifle.label>
+	<Flourish_Burst_Rifle.label>очередь из винтовки</Flourish_Burst_Rifle.label>
 	<!-- EN: The rifle climbs a notch on every round of the burst, then drops back onto the target. -->
-	<Flourish_Burst_Rifle.description>The rifle climbs a notch on every round of the burst, then drops back onto the target.</Flourish_Burst_Rifle.description>
+	<Flourish_Burst_Rifle.description>С каждым выстрелом очереди винтовка задирается всё выше, затем возвращается на цель.</Flourish_Burst_Rifle.description>
 	<!-- EN: submachine gun burst -->
-	<Flourish_Burst_SMG.label>submachine gun burst</Flourish_Burst_SMG.label>
+	<Flourish_Burst_SMG.label>очередь из пистолета-пулемёта</Flourish_Burst_SMG.label>
 	<!-- EN: The light gun chatters and climbs through a quick burst, then snaps back onto the target. -->
-	<Flourish_Burst_SMG.description>The light gun chatters and climbs through a quick burst, then snaps back onto the target.</Flourish_Burst_SMG.description>
+	<Flourish_Burst_SMG.description>Лёгкое оружие стрекочет и задирается в короткой очереди, затем резко возвращается на цель.</Flourish_Burst_SMG.description>
 	<!-- EN: minigun burst -->
-	<Flourish_Burst_Minigun.label>minigun burst</Flourish_Burst_Minigun.label>
+	<Flourish_Burst_Minigun.label>очередь из минигана</Flourish_Burst_Minigun.label>
 	<!-- EN: The heavy gun shoves the shooter back and shudders upward through the long burst before it is hauled back down onto the target. -->
-	<Flourish_Burst_Minigun.description>The heavy gun shoves the shooter back and shudders upward through the long burst before it is hauled back down onto the target.</Flourish_Burst_Minigun.description>
+	<Flourish_Burst_Minigun.description>Тяжёлое оружие отталкивает стрелка назад и трясётся вверх на протяжении долгой очереди, после чего его с усилием опускают на цель.</Flourish_Burst_Minigun.description>
 	<!-- EN: magazine change -->
-	<Flourish_Reload_Mag.label>magazine change</Flourish_Reload_Mag.label>
+	<Flourish_Reload_Mag.label>смена магазина</Flourish_Reload_Mag.label>
 	<!-- EN: The weapon cants in, the empty magazine drops, and a fresh one is slapped home before it snaps back up. -->
-	<Flourish_Reload_Mag.description>The weapon cants in, the empty magazine drops, and a fresh one is slapped home before it snaps back up.</Flourish_Reload_Mag.description>
+	<Flourish_Reload_Mag.description>Оружие наклоняется, пустой магазин выпадает, новый вставляется ударом, и оружие вскидывается.</Flourish_Reload_Mag.description>
 	<!-- EN: shell reload -->
-	<Flourish_Reload_Shells.label>shell reload</Flourish_Reload_Shells.label>
+	<Flourish_Reload_Shells.label>зарядка патронов</Flourish_Reload_Shells.label>
 	<!-- EN: The shotgun is turned in and shells are thumbed into the tube with a sharp push each, then it comes back up. -->
-	<Flourish_Reload_Shells.description>The shotgun is turned in and shells are thumbed into the tube with a sharp push each, then it comes back up.</Flourish_Reload_Shells.description>
+	<Flourish_Reload_Shells.description>Дробовик разворачивается, патроны по одному резко вдавливаются в магазин, и оружие поднимается.</Flourish_Reload_Shells.description>
 	<!-- EN: rifle reload -->
-	<Flourish_Reload_BoltRifle.label>rifle reload</Flourish_Reload_BoltRifle.label>
+	<Flourish_Reload_BoltRifle.label>перезарядка винтовки</Flourish_Reload_BoltRifle.label>
 	<!-- EN: The rifle cants in, the magazine is swapped and slapped home, then the bolt is run to chamber a round. -->
-	<Flourish_Reload_BoltRifle.description>The rifle cants in, the magazine is swapped and slapped home, then the bolt is run to chamber a round.</Flourish_Reload_BoltRifle.description>
+	<Flourish_Reload_BoltRifle.description>Винтовка наклоняется, магазин меняется и вставляется ударом, затем затвор досылает патрон.</Flourish_Reload_BoltRifle.description>
 	<!-- EN: heavy reload -->
-	<Flourish_Reload_Belt.label>heavy reload</Flourish_Reload_Belt.label>
+	<Flourish_Reload_Belt.label>перезарядка тяжёлого оружия</Flourish_Reload_Belt.label>
 	<!-- EN: The heavy weapon drops onto the hip, the spent feed falls away, and a fresh belt or cell is slammed in. -->
-	<Flourish_Reload_Belt.description>The heavy weapon drops onto the hip, the spent feed falls away, and a fresh belt or cell is slammed in.</Flourish_Reload_Belt.description>
+	<Flourish_Reload_Belt.description>Тяжёлое оружие опускается на бедро, отработанное питание выпадает, и вставляется новая лента или батарея.</Flourish_Reload_Belt.description>
 	<!-- EN: quiver reach -->
-	<Flourish_Reload_Quiver.label>quiver reach</Flourish_Reload_Quiver.label>
+	<Flourish_Reload_Quiver.label>стрела из колчана</Flourish_Reload_Quiver.label>
 	<!-- EN: The bow dips while the archer reaches back and snaps a fresh arrow onto the string. -->
-	<Flourish_Reload_Quiver.description>The bow dips while the archer reaches back and snaps a fresh arrow onto the string.</Flourish_Reload_Quiver.description>
+	<Flourish_Reload_Quiver.description>Лук опускается, лучник тянется назад и накладывает на тетиву новую стрелу.</Flourish_Reload_Quiver.description>
 	<!-- EN: pistol execution -->
-	<Flourish_RangedExec_Pistol.label>pistol execution</Flourish_RangedExec_Pistol.label>
+	<Flourish_RangedExec_Pistol.label>казнь из пистолета</Flourish_RangedExec_Pistol.label>
 	<!-- EN: The shooter steps in and snaps the pistol level over a downed or broken enemy, who cowers from the muzzle. -->
-	<Flourish_RangedExec_Pistol.description>The shooter steps in and snaps the pistol level over a downed or broken enemy, who cowers from the muzzle.</Flourish_RangedExec_Pistol.description>
+	<Flourish_RangedExec_Pistol.description>Стрелок подходит и наводит пистолет на поверженного или сломленного врага, который сжимается перед стволом.</Flourish_RangedExec_Pistol.description>
 	<!-- EN: long gun execution -->
-	<Flourish_RangedExec_Long.label>long gun execution</Flourish_RangedExec_Long.label>
+	<Flourish_RangedExec_Long.label>казнь из длинноствольного оружия</Flourish_RangedExec_Long.label>
 	<!-- EN: The shooter closes the last step and snaps the long gun onto a downed or broken enemy from a few feet away. -->
-	<Flourish_RangedExec_Long.description>The shooter closes the last step and snaps the long gun onto a downed or broken enemy from a few feet away.</Flourish_RangedExec_Long.description>
+	<Flourish_RangedExec_Long.description>Стрелок делает последний шаг и наводит оружие на поверженного или сломленного врага в паре шагов от себя.</Flourish_RangedExec_Long.description>
 	<!-- EN: knife execution -->
-	<Flourish_Exec_Knife.label>knife execution</Flourish_Exec_Knife.label>
+	<Flourish_Exec_Knife.label>казнь ножом</Flourish_Exec_Knife.label>
 	<!-- EN: A coil and a driving stab: the blade whips up and punches home, the victim snaps back and drops. -->
-	<Flourish_Exec_Knife.description>A coil and a driving stab: the blade whips up and punches home, the victim snaps back and drops.</Flourish_Exec_Knife.description>
+	<Flourish_Exec_Knife.description>Сжатие и резкий удар: клинок взлетает и вонзается, жертва отшатывается и падает.</Flourish_Exec_Knife.description>
 	<!-- EN: sword execution -->
-	<Flourish_Exec_Sword.label>sword execution</Flourish_Exec_Sword.label>
+	<Flourish_Exec_Sword.label>казнь мечом</Flourish_Exec_Sword.label>
 	<!-- EN: The blade snaps back over the shoulder and comes through in one bright crescent; the victim is thrown back and falls. -->
-	<Flourish_Exec_Sword.description>The blade snaps back over the shoulder and comes through in one bright crescent; the victim is thrown back and falls.</Flourish_Exec_Sword.description>
+	<Flourish_Exec_Sword.description>Клинок отводится за плечо и проходит одним ярким полумесяцем; жертву отбрасывает, и она падает.</Flourish_Exec_Sword.description>
 	<!-- EN: greatsword execution -->
-	<Flourish_Exec_Greatsword.label>greatsword execution</Flourish_Exec_Greatsword.label>
+	<Flourish_Exec_Greatsword.label>казнь двуручным мечом</Flourish_Exec_Greatsword.label>
 	<!-- EN: The greatsword hauled up and hung for a heartbeat, then brought down in one huge crescent that shakes the ground. -->
-	<Flourish_Exec_Greatsword.description>The greatsword hauled up and hung for a heartbeat, then brought down in one huge crescent that shakes the ground.</Flourish_Exec_Greatsword.description>
+	<Flourish_Exec_Greatsword.description>Двуручный меч поднимается и на миг замирает, затем обрушивается огромным полумесяцем, сотрясая землю.</Flourish_Exec_Greatsword.description>
 	<!-- EN: spear execution -->
-	<Flourish_Exec_Spear.label>spear execution</Flourish_Exec_Spear.label>
+	<Flourish_Exec_Spear.label>казнь копьём</Flourish_Exec_Spear.label>
 	<!-- EN: The spear cocked high at the shoulder and driven down and through in one punch; the victim is thrown back off the point and falls. -->
-	<Flourish_Exec_Spear.description>The spear cocked high at the shoulder and driven down and through in one punch; the victim is thrown back off the point and falls.</Flourish_Exec_Spear.description>
+	<Flourish_Exec_Spear.description>Копьё поднимается к плечу и одним ударом пронзает насквозь сверху вниз; жертву отбрасывает с острия, и она падает.</Flourish_Exec_Spear.description>
 	<!-- EN: axe execution -->
-	<Flourish_Exec_Axe.label>axe execution</Flourish_Exec_Axe.label>
+	<Flourish_Exec_Axe.label>казнь топором</Flourish_Exec_Axe.label>
 	<!-- EN: An overhead chop: the axe whips up behind the head and comes down through the shoulder in one hard crescent. -->
-	<Flourish_Exec_Axe.description>An overhead chop: the axe whips up behind the head and comes down through the shoulder in one hard crescent.</Flourish_Exec_Axe.description>
+	<Flourish_Exec_Axe.description>Удар сверху: топор взлетает за голову и обрушивается через плечо одним жёстким полумесяцем.</Flourish_Exec_Axe.description>
 	<!-- EN: club execution -->
-	<Flourish_Exec_Club.label>club execution</Flourish_Exec_Club.label>
+	<Flourish_Exec_Club.label>казнь дубиной</Flourish_Exec_Club.label>
 	<!-- EN: An overhead crack to the head: the club whips over in a short crescent and the victim drops where they stand. -->
-	<Flourish_Exec_Club.description>An overhead crack to the head: the club whips over in a short crescent and the victim drops where they stand.</Flourish_Exec_Club.description>
+	<Flourish_Exec_Club.description>Удар сверху по голове: дубина проходит коротким полумесяцем, и жертва падает на месте.</Flourish_Exec_Club.description>
 	<!-- EN: maul execution -->
-	<Flourish_Exec_Maul.label>maul execution</Flourish_Exec_Maul.label>
+	<Flourish_Exec_Maul.label>казнь молотом</Flourish_Exec_Maul.label>
 	<!-- EN: The maul hauled up and hung overhead on a stretch, then slammed down with the whole body; the ground cracks and rings with the victim. -->
-	<Flourish_Exec_Maul.description>The maul hauled up and hung overhead on a stretch, then slammed down with the whole body; the ground cracks and rings with the victim.</Flourish_Exec_Maul.description>
+	<Flourish_Exec_Maul.description>Молот поднимается и зависает над головой, затем обрушивается всем телом; земля трескается и гудит вместе с жертвой.</Flourish_Exec_Maul.description>
 	<!-- EN: fists execution -->
-	<Flourish_Exec_Fists.label>fists execution</Flourish_Exec_Fists.label>
+	<Flourish_Exec_Fists.label>казнь кулаками</Flourish_Exec_Fists.label>
 	<!-- EN: A snapping jab that rocks the victim, then a full-body hook that throws them back and down. -->
-	<Flourish_Exec_Fists.description>A snapping jab that rocks the victim, then a full-body hook that throws them back and down.</Flourish_Exec_Fists.description>
+	<Flourish_Exec_Fists.description>Резкий джеб оглушает жертву, затем хук всем телом отбрасывает её назад и валит с ног.</Flourish_Exec_Fists.description>
 	<!-- EN: blade duel -->
-	<Flourish_Duel_Blades.label>blade duel</Flourish_Duel_Blades.label>
+	<Flourish_Duel_Blades.label>дуэль на клинках</Flourish_Duel_Blades.label>
 	<!-- EN: Three hard exchanges: a cut slammed onto a raised guard, the answer met the same way, and a last cut beaten off before both settle. -->
-	<Flourish_Duel_Blades.description>Three hard exchanges: a cut slammed onto a raised guard, the answer met the same way, and a last cut beaten off before both settle.</Flourish_Duel_Blades.description>
+	<Flourish_Duel_Blades.description>Три жёстких обмена: удар в поднятый блок, ответ так же, последний удар отбит, и оба замирают.</Flourish_Duel_Blades.description>
 	<!-- EN: polearm duel -->
-	<Flourish_Duel_Polearms.label>polearm duel</Flourish_Duel_Polearms.label>
+	<Flourish_Duel_Polearms.label>дуэль на древковом оружии</Flourish_Duel_Polearms.label>
 	<!-- EN: Thrust, beat, thrust: a lunge knocked aside by a sweeping haft, the answer knocked aside the same way, and a last thrust beaten off before both reset. -->
-	<Flourish_Duel_Polearms.description>Thrust, beat, thrust: a lunge knocked aside by a sweeping haft, the answer knocked aside the same way, and a last thrust beaten off before both reset.</Flourish_Duel_Polearms.description>
+	<Flourish_Duel_Polearms.description>Выпад, отбив, выпад: выпад отведён широким движением древка, ответ — так же, последний выпад отбит, и оба возвращаются в стойку.</Flourish_Duel_Polearms.description>
 	<!-- EN: blunt duel -->
-	<Flourish_Duel_Blunt.label>blunt duel</Flourish_Duel_Blunt.label>
+	<Flourish_Duel_Blunt.label>дуэль на дробящем оружии</Flourish_Duel_Blunt.label>
 	<!-- EN: A huge overhead swing slammed onto a braced haft, then the counter slammed down the same way; both come back to guard. -->
-	<Flourish_Duel_Blunt.description>A huge overhead swing slammed onto a braced haft, then the counter slammed down the same way; both come back to guard.</Flourish_Duel_Blunt.description>
+	<Flourish_Duel_Blunt.description>Мощный удар сверху в подставленное древко, затем такой же ответный удар; оба возвращаются в стойку.</Flourish_Duel_Blunt.description>
 	<!-- EN: fist duel -->
-	<Flourish_Duel_Fists.label>fist duel</Flourish_Duel_Fists.label>
+	<Flourish_Duel_Fists.label>кулачная дуэль</Flourish_Duel_Fists.label>
 	<!-- EN: A jab smacked onto the guard, a cross answered onto the other guard, a hook blocked; both reset their feet and square up. -->
-	<Flourish_Duel_Fists.description>A jab smacked onto the guard, a cross answered onto the other guard, a hook blocked; both reset their feet and square up.</Flourish_Duel_Fists.description>
+	<Flourish_Duel_Fists.description>Джеб в блок, ответный кросс в другой блок, заблокированный хук; оба переставляют ноги и встают друг против друга.</Flourish_Duel_Fists.description>
+	<!-- EN: dash launch -->
+	<Flourish_Ability_DashLaunch.label>начало рывка</Flourish_Ability_DashLaunch.label>
+	<!-- EN: A hard low crouch, then the pawn drives out flat into the dash, speed lines streaming behind. -->
+	<Flourish_Ability_DashLaunch.description>Глубокий низкий присед, затем персонаж стелется вперёд в рывке, оставляя за собой линии скорости.</Flourish_Ability_DashLaunch.description>
+	<!-- EN: jump launch -->
+	<Flourish_Ability_JumpLaunch.label>начало прыжка</Flourish_Ability_JumpLaunch.label>
+	<!-- EN: The legs load in a deep squash, then the pawn fires upward in a full stretch, dust ringing out from the spot. -->
+	<Flourish_Ability_JumpLaunch.description>Ноги глубоко сжимаются, затем персонаж выстреливает вверх в полный рост; с места расходится кольцо пыли.</Flourish_Ability_JumpLaunch.description>
+	<!-- EN: roll launch -->
+	<Flourish_Ability_RollLaunch.label>начало кувырка</Flourish_Ability_RollLaunch.label>
+	<!-- EN: The pawn squashes into a tuck and pitches over into the roll, kicking up dust. -->
+	<Flourish_Ability_RollLaunch.description>Персонаж сжимается в группировку и уходит в кувырок, поднимая пыль.</Flourish_Ability_RollLaunch.description>
+	<!-- EN: vault launch -->
+	<Flourish_Ability_VaultLaunch.label>начало перемахивания</Flourish_Ability_VaultLaunch.label>
+	<!-- EN: A step and a squashing plant, then the body stretches up and over, dust thrown from the planted foot. -->
+	<Flourish_Ability_VaultLaunch.description>Шаг и упор со сжатием, затем тело вытягивается вверх и через препятствие; из-под опорной ноги летит пыль.</Flourish_Ability_VaultLaunch.description>
+	<!-- EN: armour ping -->
+	<Flourish_Impact_ArmorPing.label>рикошет от брони</Flourish_Impact_ArmorPing.label>
+	<!-- EN: A round glances off the pawn's armour: a tiny snap turn away from the hit with a white ring at the plate. The pawn barely moves; the armour did the work. -->
+	<Flourish_Impact_ArmorPing.description>Пуля отскакивает от брони персонажа: еле заметный поворот от попадания и белое кольцо на пластине. Персонаж почти не двигается — всю работу сделала броня.</Flourish_Impact_ArmorPing.description>
+	<!-- EN: psychic ward -->
+	<Flourish_Impact_PsyWard.label>пси-защита</Flourish_Impact_PsyWard.label>
+	<!-- EN: Psychic damage is turned aside: the pawn stands firm and draws up slightly as a violet ring collapses onto them and a cyan ring flares back out. -->
+	<Flourish_Impact_PsyWard.description>Пси-урон отражён: персонаж стоит твёрдо и слегка выпрямляется, пока на нём смыкается фиолетовое кольцо и обратно расходится голубое.</Flourish_Impact_PsyWard.description>
+	<!-- EN: plate dent -->
+	<Flourish_Impact_PlateDent.label>вмятина на броне</Flourish_Impact_PlateDent.label>
+	<!-- EN: The armour holds but the blow still lands: the pawn is shoved back and rocked, weapon knocked up, with no wound. A white ring and speed lines mark the shove. -->
+	<Flourish_Impact_PlateDent.description>Броня выдержала, но удар всё равно дошёл: персонажа толкает назад и шатает, оружие подбрасывает, ран нет. Толчок отмечен белым кольцом и линиями скорости.</Flourish_Impact_PlateDent.description>
+	<!-- EN: plate crack -->
+	<Flourish_Impact_PlateCrack.label>трещина в броне</Flourish_Impact_PlateCrack.label>
+	<!-- EN: The armour gives way past half its strength: the same shove as a dent with a burst at the plate and two white cracks, then the pawn glances down at the damage before squaring up. -->
+	<Flourish_Impact_PlateCrack.description>Броня потеряла больше половины прочности: тот же толчок, что и при вмятине, со вспышкой на пластине и двумя белыми трещинами; затем персонаж бросает взгляд на повреждение и выпрямляется.</Flourish_Impact_PlateCrack.description>
+	<!-- EN: seam strike -->
+	<Flourish_Impact_SeamStrike.label>попадание в стык</Flourish_Impact_SeamStrike.label>
+	<!-- EN: The round finds a gap between plates: the pawn folds around the hit for a beat, weapon sagging, with a small burst and a single line of force. -->
+	<Flourish_Impact_SeamStrike.description>Пуля находит щель между пластинами: персонаж на миг сгибается вокруг попадания, оружие опускается; небольшая вспышка и одна линия силы.</Flourish_Impact_SeamStrike.description>
+	<!-- EN: graze -->
+	<Flourish_Impact_Graze.label>касательное попадание</Flourish_Impact_Graze.label>
+	<!-- EN: A round skims the pawn: a sharp shoulder twist that snaps back past centre, with a fan of amber lines where it passed. Replaces the near-miss duck for that round. -->
+	<Flourish_Impact_Graze.description>Пуля задевает персонажа: резкий поворот плеча с возвратом дальше середины и веер янтарных линий там, где она прошла. Заменяет пригибание при близком промахе для этого выстрела.</Flourish_Impact_Graze.description>
+	<!-- EN: servo glitch -->
+	<Flourish_Impact_ServoGlitch.label>сбой сервопривода</Flourish_Impact_ServoGlitch.label>
+	<!-- EN: A hit disrupts an artificial limb: the pawn stutters in hard mechanical steps, body and weapon jerking on the same beats before locking back to rest, with white snaps at the joint. -->
+	<Flourish_Impact_ServoGlitch.description>Попадание нарушает работу искусственной конечности: персонаж дёргается резкими механическими рывками, тело и оружие вздрагивают в такт, затем замирают; на суставе белые вспышки.</Flourish_Impact_ServoGlitch.description>
+	<!-- EN: punch-through -->
+	<Flourish_Impact_PunchThrough.label>пробитие укрытия</Flourish_Impact_PunchThrough.label>
+	<!-- EN: A round tears through the pawn's cover and still hits: a hard knockback with a long freeze, a big burst and two lines along the round's path. Scaled by how much of the round the cover failed to stop. -->
+	<Flourish_Impact_PunchThrough.description>Пуля пробивает укрытие и всё равно попадает: сильное отбрасывание с долгой паузой, большая вспышка и две линии вдоль траектории. Сила зависит от того, какую часть пули укрытие не задержало.</Flourish_Impact_PunchThrough.description>
+	<!-- EN: stumble -->
+	<Flourish_Impact_Stumble.label>спотыкание</Flourish_Impact_Stumble.label>
+	<!-- EN: A kinetic stagger under a second and a half: two staggering steps back, rocking back and overcorrecting forward, muzzle dropping, a scuff under each plant. Lasts as long as the stagger does. -->
+	<Flourish_Impact_Stumble.description>Кинетическое замедление короче полутора секунд: два шатких шага назад, раскачивание с перебором вперёд, ствол опускается, под каждой ногой пыль. Длится столько же, сколько замедление.</Flourish_Impact_Stumble.description>
+	<!-- EN: reel -->
+	<Flourish_Impact_Reel.label>пошатывание</Flourish_Impact_Reel.label>
+	<!-- EN: A long kinetic stagger: the pawn is knocked reeling, weapon flung up, dipping almost to a fall, then catches their balance with a hard forward plant and a ring of dust before settling. Lasts as long as the stagger does. -->
+	<Flourish_Impact_Reel.description>Долгое кинетическое замедление: персонажа отбрасывает, оружие взлетает вверх, он почти падает, но ловит равновесие сильным шагом вперёд с кольцом пыли и замирает. Длится столько же, сколько замедление.</Flourish_Impact_Reel.description>
+	<!-- EN: aim knocked -->
+	<Flourish_Impact_AimKnocked.label>сбитый прицел</Flourish_Impact_AimKnocked.label>
+	<!-- EN: A stagger breaks the pawn's aim: the gun is kicked up and back off the line with a white snap at the muzzle, then brought back to the shoulder. Lasts as long as the stagger does. Melee weapons play a stumble or reel instead. -->
+	<Flourish_Impact_AimKnocked.description>Замедление сбивает прицел: оружие подбрасывает вверх и назад с белой вспышкой у дула, затем его возвращают к плечу. Длится столько же, сколько замедление. С оружием ближнего боя вместо этого играется спотыкание или пошатывание.</Flourish_Impact_AimKnocked.description>
+	<!-- EN: psychic backfire -->
+	<Flourish_Impact_Backfire.label>пси-откат</Flourish_Impact_Backfire.label>
+	<!-- EN: A stagger breaks a psycast mid-gather: the focus collapses inward, the caster locks rigid and shudders inside a violet burst, a stun ring spins over their head, then they slump and recover. -->
+	<Flourish_Impact_Backfire.description>Замедление прерывает пси-способность во время сбора силы: концентрация схлопывается, заклинатель застывает и трясётся во фиолетовой вспышке, над головой кружится кольцо оглушения, затем он обмякает и приходит в себя.</Flourish_Impact_Backfire.description>
+	<!-- EN: critical: head -->
+	<Flourish_Impact_CriticalBrain.label>критическое: голова</Flourish_Impact_CriticalBrain.label>
+	<!-- EN: A vital critical to the brain: the whole body snaps back rigid from a big burst at head height, freezes, then sags forward, weapon hanging. -->
+	<Flourish_Impact_CriticalBrain.description>Критическое попадание в мозг: всё тело резко отбрасывает назад от большой вспышки на уровне головы, оно замирает и оседает вперёд, оружие повисает.</Flourish_Impact_CriticalBrain.description>
+	<!-- EN: critical: organ -->
+	<Flourish_Impact_CriticalVital.label>критическое: орган</Flourish_Impact_CriticalVital.label>
+	<!-- EN: A vital critical to an organ: the pawn doubles over around a big burst at the torso, weapon sagging toward the ground, and straightens slowly. -->
+	<Flourish_Impact_CriticalVital.description>Критическое попадание в жизненно важный орган: персонаж сгибается вокруг большой вспышки на торсе, оружие клонится к земле, и он медленно выпрямляется.</Flourish_Impact_CriticalVital.description>
+	<!-- EN: concussed -->
+	<Flourish_Impact_Concussed.label>контузия</Flourish_Impact_Concussed.label>
+	<!-- EN: A blast shakes a pawn in a closed room: a slow, drunken sway with the weapon lowered, a white ring at head height for the blast wave and a smaller one for the ringing. Light for ringing ears, full for a concussion. The blast's own damage cannot cut it short until it is halfway through. -->
+	<Flourish_Impact_Concussed.description>Взрыв в закрытом помещении оглушает персонажа: медленное пьяное покачивание с опущенным оружием, белое кольцо на уровне головы от взрывной волны и меньшее — от звона в ушах. Слабая — при звоне в ушах, полная — при контузии. Собственный урон взрыва не может прервать её раньше середины.</Flourish_Impact_Concussed.description>
+	<!-- EN: dead man's surge -->
+	<Flourish_Impact_DeadMansSurge.label>последний рывок</Flourish_Impact_DeadMansSurge.label>
+	<!-- EN: A pawn shot into pain shock refuses to go down: they fold from the pain, freeze, then rear up with the weapon raised as an amber ring and a ring of dust burst out around them. -->
+	<Flourish_Impact_DeadMansSurge.description>Персонаж в болевом шоке отказывается падать: сгибается от боли, замирает, затем выпрямляется с поднятым оружием, а вокруг расходятся янтарное кольцо и кольцо пыли.</Flourish_Impact_DeadMansSurge.description>
+	<!-- EN: surge collapse -->
+	<Flourish_Impact_SurgeCollapse.label>падение после рывка</Flourish_Impact_SurgeCollapse.label>
+	<!-- EN: The dead man's surge runs out and the pawn gives way where they stand: no hop and no slam, a long settling sag onto the ground and a soft ring of dust. Plays instead of the ordinary downed collapse. -->
+	<Flourish_Impact_SurgeCollapse.description>Последний рывок иссякает, и персонаж оседает на месте: без подскока и удара, долгое медленное оседание на землю и мягкое кольцо пыли. Играется вместо обычного падения без сил.</Flourish_Impact_SurgeCollapse.description>
+	<!-- EN: hit the dirt -->
+	<Flourish_Impact_HitTheDirt.label>лечь на землю</Flourish_Impact_HitTheDirt.label>
+	<!-- EN: Suppression drives the pawn prone: a small hop, then flat to the ground with the weapon down, dust thrown up around them. Held for a moment, then eased back up; IMPACT's own suppression keeps the lasting penalty. -->
+	<Flourish_Impact_HitTheDirt.description>Подавление укладывает персонажа: небольшой подскок, затем плашмя на землю с опущенным оружием, вокруг поднимается пыль. Пауза, затем плавный подъём; длительный штраф остаётся за подавлением IMPACT.</Flourish_Impact_HitTheDirt.description>
+	<!-- EN: jam clear: tap-rack -->
+	<Flourish_Impact_JamClearHandgun.label>устранение задержки: пистолет</Flourish_Impact_JamClearHandgun.label>
+	<!-- EN: A pistol or SMG jams: the pawn hunches over it, cants it muzzle-down, slaps the magazine, racks the slide and kicks out a casing, then brings it back up. Lasts as long as the jam does. -->
+	<Flourish_Impact_JamClearHandgun.description>Пистолет или пистолет-пулемёт заклинило: персонаж склоняется над ним, наклоняет стволом вниз, бьёт по магазину, передёргивает затвор, выбрасывая гильзу, и поднимает оружие. Длится столько же, сколько задержка.</Flourish_Impact_JamClearHandgun.description>
+	<!-- EN: jam clear: charging handle -->
+	<Flourish_Impact_JamClearLongGun.label>устранение задержки: рукоять затвора</Flourish_Impact_JamClearLongGun.label>
+	<!-- EN: A long gun jams: the pawn brings it down across the chest, yanks the charging handle back hard with a snap and a casing, and shoulders it again. Lasts as long as the jam does. -->
+	<Flourish_Impact_JamClearLongGun.description>Длинноствольное оружие заклинило: персонаж опускает его поперёк груди, резко рвёт рукоять затвора назад, выбрасывая гильзу, и снова вскидывает к плечу. Длится столько же, сколько задержка.</Flourish_Impact_JamClearLongGun.description>
 </LanguageData>

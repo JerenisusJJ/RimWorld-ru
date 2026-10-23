@@ -186,4 +186,6 @@
   <VGE_AstrofuelValveDesc>Включает и выключает подачу астротоплива. Придёт колонист и откроет/закроет клапан.</VGE_AstrofuelValveDesc>
   <VGE_ValidThing>подходящий объект «{THING_label}»</VGE_ValidThing>
   <TerrainTagSpace>космос</TerrainTagSpace>
+  <VGE_ReportBeatAstrofire>сбивает астрогонь.</VGE_ReportBeatAstrofire>
+  <VGE_ReportExtinguishAstrofiresNearby>тушит астрогонь поблизости.</VGE_ReportExtinguishAstrofiresNearby>
 </LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GR_GravshipAssault.letterLabelEnemy>Налёт на гравикорабле</GR_GravshipAssault.letterLabelEnemy>
+  <GR_GravshipAssault.arrivalTextEnemy>Поблизости садится враждебный гравикорабль. Вскоре после посадки они пойдут в атаку.</GR_GravshipAssault.arrivalTextEnemy>
+  <GR_GravshipAssault.letterLabelFriendly>Прибытие гравикорабля</GR_GravshipAssault.letterLabelFriendly>
+  <GR_GravshipAssault.arrivalTextFriendly>Поблизости садится дружественный гравикорабль.</GR_GravshipAssault.arrivalTextFriendly>
+  <GR_ShuttleAssault.letterLabelEnemy>Налёт на челноке</GR_ShuttleAssault.letterLabelEnemy>
+  <GR_ShuttleAssault.arrivalTextEnemy>Поблизости садится враждебный челнок. Вскоре после посадки они пойдут в атаку.</GR_ShuttleAssault.arrivalTextEnemy>
+  <GR_ShuttleAssault.letterLabelFriendly>Прибытие челнока</GR_ShuttleAssault.letterLabelFriendly>
+  <GR_ShuttleAssault.arrivalTextFriendly>Поблизости садится дружественный челнок.</GR_ShuttleAssault.arrivalTextFriendly>
+</LanguageData>

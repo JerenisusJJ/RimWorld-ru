@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- [sbz] Bookcase -->
+  <sbz_TwoTierBookcase.label>двухъярусный книжный шкаф</sbz_TwoTierBookcase.label>
+  <sbz_TwoTierBookcase.description>Двухъярусный книжный шкаф, в который помещается до двадцати четырёх книг. Хранящиеся в шкафу книги ускорят изучение технологий поблизости и добавят красоты самому шкафу, а также не будут ветшать.</sbz_TwoTierBookcase.description>
+  <sbz_NarrowTwoTierBookcase.label>узкий двухъярусный книжный шкаф</sbz_NarrowTwoTierBookcase.label>
+  <sbz_NarrowTwoTierBookcase.description>Узкий двухъярусный книжный шкаф, в который помещается до двенадцати книг. Хранящиеся в шкафу книги ускорят изучение технологий поблизости и добавят красоты самому шкафу, а также не будут ветшать.</sbz_NarrowTwoTierBookcase.description>
+  <sbz_Bookshelf.label>книжная полка</sbz_Bookshelf.label>
+  <sbz_Bookshelf.description>Книжная полка, на которую помещается до двенадцати книг. Хранящиеся на полке книги ускорят изучение технологий поблизости и добавят красоты самой полке, а также не будут ветшать. Полку можно размещать поверх других построек.</sbz_Bookshelf.description>
+  <sbz_BookshelfSmall.label>небольшая книжная полка</sbz_BookshelfSmall.label>
+  <sbz_BookshelfSmall.description>Небольшая книжная полка, на которую помещается до шести книг. Хранящиеся на полке книги ускорят изучение технологий поблизости и добавят красоты самой полке, а также не будут ветшать. Полку можно размещать поверх других построек.</sbz_BookshelfSmall.description>
+</LanguageData>

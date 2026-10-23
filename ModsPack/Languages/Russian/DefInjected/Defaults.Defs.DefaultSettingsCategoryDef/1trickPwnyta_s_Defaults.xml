@@ -6,7 +6,6 @@
   <World.description>Задайте мир, карту и настройки фракций по умолчанию для новой колонии.</World.description>
   <Schedule.label>расписания колонистов по умолчанию</Schedule.label>
   <Schedule.description>Задайте пользовательские расписания колонистов по умолчанию. Можно создать чередующиеся расписания, и мод будет назначать их новым колонистам по очереди.</Schedule.description>
-  <Schedule.worker.defaultSchedules.0.name>Расписание 1</Schedule.worker.defaultSchedules.0.name>
   <Medicine.label>настройки лекарств по умолчанию</Medicine.label>
   <Medicine.description>Задайте настройки лекарств по умолчанию для новой колонии, а также тип и количество лекарств, которые новые колонисты будут носить с собой.</Medicine.description>
   <Storage.label>настройки хранилищ по умолчанию</Storage.label>

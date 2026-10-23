@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GR_CrashlandedGravship.label>крушение гравикорабля</GR_CrashlandedGravship.label>
+  <GR_CrashlandedGravship.description>Вы втроём просыпаетесь в саркофагах криптосна под вой сирен и скрежет рвущегося металла. Ваш гравикорабль потерпел жёсткое крушение: от двигателя не осталось ничего, что можно спасти, и он уже никогда не взлетит. Всё, что от него осталось, — теперь ваш новый дом.</GR_CrashlandedGravship.description>
+  <GR_CrashlandedGravship.scenario.name>Крушение гравикорабля</GR_CrashlandedGravship.scenario.name>
+  <GR_CrashlandedGravship.scenario.description>Вы втроём просыпаетесь в саркофагах криптосна под вой сирен и скрежет рвущегося металла. Ваш гравикорабль потерпел жёсткое крушение: от двигателя не осталось ничего, что можно спасти, и он уже никогда не взлетит. Всё, что от него осталось, — теперь ваш новый дом.</GR_CrashlandedGravship.scenario.description>
+  <GR_CrashlandedGravship.scenario.summary>Трое выживших в разбитом гравикорабле. Классический старт.</GR_CrashlandedGravship.scenario.summary>
+  <GR_LostTribe.label>потерянное племя (Gravship Raids)</GR_LostTribe.label>
+  <GR_LostTribe.description>Ваше племя было уничтожено ночным налётом враждебной фракции с оружием и машинами, каких ваш народ никогда прежде не видел. Пятеро из вас бежали на гравикорабле, захваченном в суматохе, — но его гравлитовое ядро отказало над этим миром, и корпус развалился при падении. Пришло время построить новый дом.\n\nПримечание: вы начнёте бедными и без технологий, поэтому это сложный сценарий.</GR_LostTribe.description>
+  <GR_LostTribe.scenario.name>Потерянное племя (Gravship Raids)</GR_LostTribe.scenario.name>
+  <GR_LostTribe.scenario.description>Ваше племя было уничтожено ночным налётом враждебной фракции с оружием и машинами, каких ваш народ никогда прежде не видел. Пятеро из вас бежали на гравикорабле, захваченном в суматохе, — но его гравлитовое ядро отказало над этим миром, и корпус развалился при падении. Пришло время построить новый дом.\n\nПримечание: вы начнёте бедными и без технологий, поэтому это сложный сценарий.</GR_LostTribe.scenario.description>
+  <GR_LostTribe.scenario.summary>Пятеро соплеменников в разбитом гравикорабле. Сложно.</GR_LostTribe.scenario.summary>
+</LanguageData>

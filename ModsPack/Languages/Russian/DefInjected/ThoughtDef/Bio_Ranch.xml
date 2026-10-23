@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- [kyzy] Bio Ranch: дополнение к встроенному русскому переводу мода -->
+  <VisitedBioRanchZoo.label>посетил(а) зоопарк фермы</VisitedBioRanchZoo.label>
+  <SawBioRanchPrisoners.label>увидел(а) заключённых в ферме</SawBioRanchPrisoners.label>
+</LanguageData>

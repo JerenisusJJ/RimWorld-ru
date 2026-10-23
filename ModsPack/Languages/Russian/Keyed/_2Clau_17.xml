@@ -91,115 +91,117 @@
 	<!-- EN: Camera zoom level (root size) beyond which the render cache is allowed. 18 = as soon as RimWorld itself is willing to cache pawns (mid zoom-out). 60 = only at extreme zoom-out. Lower values give more FPS but pause faces at closer zoom. -->
 	<FAPerf_FarZoomThreshold_Tip>Camera zoom level (root size) beyond which the render cache is allowed. 18 = as soon as RimWorld itself is willing to cache pawns (mid zoom-out). 60 = only at extreme zoom-out. Lower values give more FPS but pause faces at closer zoom.</FAPerf_FarZoomThreshold_Tip>
 	<!-- EN: Only player pawn animations -->
-	<YayoAnim_OnlyPlayerPawns>Only player pawn animations</YayoAnim_OnlyPlayerPawns>
+	<YayoAnim_OnlyPlayerPawns>Анимации только для персонажей игрока</YayoAnim_OnlyPlayerPawns>
 	<!-- EN: Prevents any pawn (be it human, animal, or mechanoid) from having any animations unless they're from player's faction. -->
-	<YayoAnim_OnlyPlayerPawnsTooltip>Prevents any pawn (be it human, animal, or mechanoid) from having any animations unless they're from player's faction.</YayoAnim_OnlyPlayerPawnsTooltip>
+	<YayoAnim_OnlyPlayerPawnsTooltip>Отключает анимации у всех персонажей (людей, животных и механоидов), не принадлежащих фракции игрока.</YayoAnim_OnlyPlayerPawnsTooltip>
 	<!-- EN: Update frequency (in ticks) -->
-	<YayoAnim_UpdateFrequency>Update frequency (in ticks)</YayoAnim_UpdateFrequency>
+	<YayoAnim_UpdateFrequency>Частота обновления (в тиках)</YayoAnim_UpdateFrequency>
 	<!-- EN: Maximum zoom level: {0} -->
-	<YayoAnim_MaximumZoomLevel>Maximum zoom level: {0}</YayoAnim_MaximumZoomLevel>
+	<YayoAnim_MaximumZoomLevel>Наибольший масштаб: {0}</YayoAnim_MaximumZoomLevel>
 	<!-- EN: Determines maximum zoom level at which the animations will play. If you zoom beyond it, the animations will stop playing. -->
-	<YayoAnim_MaximumZoomLevelTooltip>Determines maximum zoom level at which the animations will play. If you zoom beyond it, the animations will stop playing.</YayoAnim_MaximumZoomLevelTooltip>
+	<YayoAnim_MaximumZoomLevelTooltip>Наибольшее отдаление камеры, при котором проигрываются анимации. При большем отдалении анимации останавливаются.</YayoAnim_MaximumZoomLevelTooltip>
 	<!-- EN: Closest -->
-	<YayoAnim_MaximumZoomLevel_Closest>Closest</YayoAnim_MaximumZoomLevel_Closest>
+	<YayoAnim_MaximumZoomLevel_Closest>Ближайший</YayoAnim_MaximumZoomLevel_Closest>
 	<!-- EN: Close -->
-	<YayoAnim_MaximumZoomLevel_Close>Close</YayoAnim_MaximumZoomLevel_Close>
+	<YayoAnim_MaximumZoomLevel_Close>Близкий</YayoAnim_MaximumZoomLevel_Close>
 	<!-- EN: Middle -->
-	<YayoAnim_MaximumZoomLevel_Middle>Middle</YayoAnim_MaximumZoomLevel_Middle>
+	<YayoAnim_MaximumZoomLevel_Middle>Средний</YayoAnim_MaximumZoomLevel_Middle>
 	<!-- EN: Far -->
-	<YayoAnim_MaximumZoomLevel_Far>Far</YayoAnim_MaximumZoomLevel_Far>
+	<YayoAnim_MaximumZoomLevel_Far>Дальний</YayoAnim_MaximumZoomLevel_Far>
 	<!-- EN: Any zoom level -->
-	<YayoAnim_MaximumZoomLevel_Furthest>Any zoom level</YayoAnim_MaximumZoomLevel_Furthest>
+	<YayoAnim_MaximumZoomLevel_Furthest>Любой масштаб</YayoAnim_MaximumZoomLevel_Furthest>
 	<!-- EN: Walking animations -->
-	<YayoAnim_Walk>Walking animations</YayoAnim_Walk>
+	<YayoAnim_Walk>Анимации ходьбы</YayoAnim_Walk>
 	<!-- EN: Walking motion speed -->
-	<YayoAnim_WalkAnimSpeed>Walking motion speed</YayoAnim_WalkAnimSpeed>
+	<YayoAnim_WalkAnimSpeed>Скорость движений при ходьбе</YayoAnim_WalkAnimSpeed>
 	<!-- EN: Walking motion angle -->
-	<YayoAnim_WalkAnimAngle>Walking motion angle</YayoAnim_WalkAnimAngle>
+	<YayoAnim_WalkAnimAngle>Угол движений при ходьбе</YayoAnim_WalkAnimAngle>
 	<!-- EN: Combat animations -->
-	<YayoAnim_Combat>Combat animations</YayoAnim_Combat>
+	<YayoAnim_Combat>Боевые анимации</YayoAnim_Combat>
 	<!-- EN: Weapon twirling -->
-	<YayoAnim_TwirlWeapon>Weapon twirling</YayoAnim_TwirlWeapon>
+	<YayoAnim_TwirlWeapon>Вращение оружия</YayoAnim_TwirlWeapon>
 	<!-- EN: Disable weapon twirling for weapons over specific mass -->
-	<YayoAnim_TwirlWeaponMaxMassEnabled>Disable weapon twirling for weapons over specific mass</YayoAnim_TwirlWeaponMaxMassEnabled>
+	<YayoAnim_TwirlWeaponMaxMassEnabled>Не вращать оружие тяжелее заданной массы</YayoAnim_TwirlWeaponMaxMassEnabled>
 	<!-- EN: Max weapon mass for twirling -->
-	<YayoAnim_TwirlWeaponMaxMass>Max weapon mass for twirling</YayoAnim_TwirlWeaponMaxMass>
+	<YayoAnim_TwirlWeaponMaxMass>Наибольшая масса оружия для вращения</YayoAnim_TwirlWeaponMaxMass>
 	<!-- EN: All work animations -->
-	<YayoAnim_AllJobs>All work animations</YayoAnim_AllJobs>
+	<YayoAnim_AllJobs>Анимации всех работ</YayoAnim_AllJobs>
 	<!-- EN: Sleeping animations -->
-	<YayoAnim_Sleep>Sleeping animations</YayoAnim_Sleep>
+	<YayoAnim_Sleep>Анимации сна</YayoAnim_Sleep>
 	<!-- EN: Lovin' animations -->
-	<YayoAnim_LovinBed>Lovin' animations</YayoAnim_LovinBed>
+	<YayoAnim_LovinBed>Анимации близости</YayoAnim_LovinBed>
 	<!-- EN: Mechanoid walking animations -->
-	<YayoAnim_MechanoidWalk>Mechanoid walking animations</YayoAnim_MechanoidWalk>
+	<YayoAnim_MechanoidWalk>Анимации ходьбы механоидов</YayoAnim_MechanoidWalk>
 	<!-- EN: Mechanoid work animations -->
-	<YayoAnim_MechanoidJob>Mechanoid work animations</YayoAnim_MechanoidJob>
+	<YayoAnim_MechanoidJob>Анимации работы механоидов</YayoAnim_MechanoidJob>
 	<!-- EN: Mechanoid combat animations -->
-	<YayoAnim_MechanoidCombat>Mechanoid combat animations</YayoAnim_MechanoidCombat>
+	<YayoAnim_MechanoidCombat>Боевые анимации механоидов</YayoAnim_MechanoidCombat>
 	<!-- EN: Animal walking animations -->
-	<YayoAnim_AnimalWalk>Animal walking animations</YayoAnim_AnimalWalk>
+	<YayoAnim_AnimalWalk>Анимации ходьбы животных</YayoAnim_AnimalWalk>
 	<!-- EN: Animal work animations -->
-	<YayoAnim_AnimalJob>Animal work animations</YayoAnim_AnimalJob>
+	<YayoAnim_AnimalJob>Анимации работы животных</YayoAnim_AnimalJob>
 	<!-- EN: Animal combat animations -->
-	<YayoAnim_AnimalCombat>Animal combat animations</YayoAnim_AnimalCombat>
+	<YayoAnim_AnimalCombat>Боевые анимации животных</YayoAnim_AnimalCombat>
 	<!-- EN: Requires walking animations to be enabled as well -->
-	<YayoAnim_RequiresWalkTooltip>Requires walking animations to be enabled as well</YayoAnim_RequiresWalkTooltip>
+	<YayoAnim_RequiresWalkTooltip>Также требуются включённые анимации ходьбы</YayoAnim_RequiresWalkTooltip>
 	<!-- EN: Requires all work animations to be enabled as well -->
-	<YayoAnim_RequiresJobTooltip>Requires all work animations to be enabled as well</YayoAnim_RequiresJobTooltip>
+	<YayoAnim_RequiresJobTooltip>Также требуются включённые анимации всех работ</YayoAnim_RequiresJobTooltip>
 	<!-- EN: Requires combat animations to be enabled as well -->
-	<YayoAnim_RequiresCombatTooltip>Requires combat animations to be enabled as well</YayoAnim_RequiresCombatTooltip>
+	<YayoAnim_RequiresCombatTooltip>Также требуются включённые боевые анимации</YayoAnim_RequiresCombatTooltip>
 	<!-- EN: Debug mode -->
-	<YayoAnim_DebugMode>Debug mode</YayoAnim_DebugMode>
+	<YayoAnim_DebugMode>Режим отладки</YayoAnim_DebugMode>
 	<!-- EN: Debug: legacy C# animations only -->
-	<YayoAnim_LegacyMode>Debug: legacy C# animations only</YayoAnim_LegacyMode>
+	<YayoAnim_LegacyMode>Отладка: только старые анимации C#</YayoAnim_LegacyMode>
 	<!-- EN: Ignores every animation def and plays only the old hard-coded animations, which now cover just the jobs no def has been written for (mining, harvesting, meditating, drafted waiting and a few from other mods); every other job stands still. A development aid; leave off otherwise. -->
-	<YayoAnim_LegacyModeTooltip>Ignores every animation def and plays only the old hard-coded animations, which now cover just the jobs no def has been written for (mining, harvesting, meditating, drafted waiting and a few from other mods); every other job stands still. A development aid; leave off otherwise.</YayoAnim_LegacyModeTooltip>
+	<YayoAnim_LegacyModeTooltip>Игнорирует все определения анимаций и проигрывает только старые встроенные в код анимации, которые теперь покрывают лишь работы без определений (добыча, сбор урожая, медитация, ожидание в режиме «К бою!» и несколько работ из других модов); при остальных работах персонажи стоят неподвижно. Средство для разработки; в остальных случаях не включайте.</YayoAnim_LegacyModeTooltip>
 	<!-- EN: Reset to default -->
-	<YayoAnim_ResetToDefault>Reset to default</YayoAnim_ResetToDefault>
+	<YayoAnim_ResetToDefault>Сбросить по умолчанию</YayoAnim_ResetToDefault>
 	<!-- EN: Animations ({0} defs, {1} off) -->
-	<YayoAnim_Animations>Animations ({0} defs, {1} off)</YayoAnim_Animations>
+	<YayoAnim_Animations>Анимации (определений: {0}, выкл.: {1})</YayoAnim_Animations>
 	<!-- EN: All -->
-	<YayoAnim_AnimationsAll>All</YayoAnim_AnimationsAll>
+	<YayoAnim_AnimationsAll>Все</YayoAnim_AnimationsAll>
 	<!-- EN: None -->
-	<YayoAnim_AnimationsNone>None</YayoAnim_AnimationsNone>
+	<YayoAnim_AnimationsNone>Ни одной</YayoAnim_AnimationsNone>
 	<!-- EN: Off: pawns stand still on those jobs -->
-	<YayoAnim_AnimationsHint>Off: pawns stand still on those jobs</YayoAnim_AnimationsHint>
+	<YayoAnim_AnimationsHint>Выкл.: при этих работах персонажи стоят неподвижно</YayoAnim_AnimationsHint>
 	<!-- EN: {0} jobs -->
-	<YayoAnim_AnimationJobs>{0} jobs</YayoAnim_AnimationJobs>
+	<YayoAnim_AnimationJobs>Работ: {0}</YayoAnim_AnimationJobs>
 	<!-- EN: Work, social and joy -->
-	<YayoAnim_Category_Job>Work, social and joy</YayoAnim_Category_Job>
+	<YayoAnim_Category_Job>Работа, общение и развлечения</YayoAnim_Category_Job>
 	<!-- EN: Sleep and rest -->
-	<YayoAnim_Category_Sleep>Sleep and rest</YayoAnim_Category_Sleep>
+	<YayoAnim_Category_Sleep>Сон и отдых</YayoAnim_Category_Sleep>
 	<!-- EN: Lovin' -->
-	<YayoAnim_Category_Lovin>Lovin'</YayoAnim_Category_Lovin>
+	<YayoAnim_Category_Lovin>Близость</YayoAnim_Category_Lovin>
 	<!-- EN: Imperial shuttle -->
-	<SMV_TabImperial>Imperial shuttle</SMV_TabImperial>
+	<SMV_TabImperial>Имперский шаттл</SMV_TabImperial>
 	<!-- EN: Passenger shuttle -->
-	<SMV_TabPassenger>Passenger shuttle</SMV_TabPassenger>
+	<SMV_TabPassenger>Пассажирский шаттл</SMV_TabPassenger>
 	<!-- EN: Look -->
-	<SMV_Look>Look</SMV_Look>
+	<SMV_Look>Облик</SMV_Look>
 	<!-- EN: Random, from the enabled looks -->
-	<SMV_LookRandom>Random, from the enabled looks</SMV_LookRandom>
+	<SMV_LookRandom>Случайный, из включённых обликов</SMV_LookRandom>
 	<!-- EN: Each imperial shuttle picks one enabled look when it first appears and keeps it. Only the art changes: capacity, quests, permits and pickups stay vanilla. -->
-	<SMV_HintImperial>Each imperial shuttle picks one enabled look when it first appears and keeps it. Only the art changes: capacity, quests, permits and pickups stay vanilla.</SMV_HintImperial>
+	<SMV_HintImperial>Каждый имперский шаттл при первом появлении выбирает один из включённых обликов и сохраняет его. Меняется только внешний вид: вместимость, задания, разрешения и эвакуация остаются как в оригинале.</SMV_HintImperial>
 	<!-- EN: Each passenger shuttle picks one enabled look when it is built or first loaded and keeps it. Only the art changes: fuel, range, capacity and cost stay vanilla. -->
-	<SMV_HintPassenger>Each passenger shuttle picks one enabled look when it is built or first loaded and keeps it. Only the art changes: fuel, range, capacity and cost stay vanilla.</SMV_HintPassenger>
+	<SMV_HintPassenger>Каждый пассажирский шаттл при постройке или первой загрузке выбирает один из включённых обликов и сохраняет его. Меняется только внешний вид: топливо, дальность, вместимость и стоимость остаются как в оригинале.</SMV_HintPassenger>
 	<!-- EN: Every shuttle of this kind uses {0}. The list below is the pool for Random. -->
-	<SMV_HintFixed>Every shuttle of this kind uses {0}. The list below is the pool for Random.</SMV_HintFixed>
+	<SMV_HintFixed>Все шаттлы этого вида используют {0}. Список ниже — набор для случайного выбора.</SMV_HintFixed>
 	<!-- EN: active -->
-	<SMV_Active>active</SMV_Active>
+	<SMV_Active>активен</SMV_Active>
 	<!-- EN: mod not active -->
-	<SMV_NotActive>mod not active</SMV_NotActive>
+	<SMV_NotActive>мод не активен</SMV_NotActive>
 	<!-- EN: art not supported -->
-	<SMV_Unsupported>art Не поддерживается</SMV_Unsupported>
+	<SMV_Unsupported>облик не поддерживается</SMV_Unsupported>
 	<!-- EN: vanilla look -->
-	<SMV_Vanilla>vanilla look</SMV_Vanilla>
+	<SMV_Vanilla>оригинальный облик</SMV_Vanilla>
+	<!-- EN: {0}×{1} -->
+	<SMV_Size>{0}×{1}</SMV_Size>
 	<!-- EN: {0}×{1}, drawn at {2}% -->
-	<SMV_SizeScaled>{0}×{1}, drawn at {2}%</SMV_SizeScaled>
+	<SMV_SizeScaled>{0}×{1}, масштаб {2}%</SMV_SizeScaled>
 	<!-- EN: Changes reach existing shuttles on their next redraw. -->
-	<SMV_Footer>Changes reach existing shuttles on their next redraw.</SMV_Footer>
+	<SMV_Footer>Изменения применятся к существующим шаттлам при следующей перерисовке.</SMV_Footer>
 	<!-- EN: Reset -->
-	<SMV_Reset>Reset</SMV_Reset>
+	<SMV_Reset>Сбросить</SMV_Reset>
 	<!-- EN: Shuttle families -->
 	<TSMV_FamiliesHeader>Shuttle families</TSMV_FamiliesHeader>
 	<!-- EN: Each new trader ship picks one enabled family at random, then one hull from it. Families whose mod is not active are skipped. -->
