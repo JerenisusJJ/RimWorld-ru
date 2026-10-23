@@ -1,0 +1,12 @@
+# Ключи официального перевода (tar), которых больше нет в 1.7 — LangMerge.Build вырезает их из базы.
+# Один ключ на строку, '#' — комментарий. Ключи, рабочие в ваниле, но ломаемые модами, сюда не класть.
+# PawnRenderTreeDefs: узлы дерева перестроены, индексы вне диапазона (замены root.children.1.debugLabel — в репо)
+Bulbfreak.root.children.0.children.12.debugLabel
+Devourer.root.children.0.children.2.debugLabel
+Dreadmeld.root.children.0.children.12.debugLabel
+Fingerspike.root.children.0.children.3.debugLabel
+Revenant.root.children.0.children.2.debugLabel
+Toughspike.root.children.0.children.4.debugLabel
+Trispike.root.children.0.children.5.debugLabel
+# CompApparelVerbOwner_Charged заменён на CompApparelReloadable (замена — в репо)
+Apparel_DisruptorFlarePack.comps.CompApparelVerbOwner_Charged.chargeNoun

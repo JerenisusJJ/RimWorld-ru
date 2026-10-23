@@ -1,0 +1,4 @@
+# Ключи официального перевода (tar), которых больше нет в 1.7 — LangMerge.Build вырезает их из базы.
+# Один ключ на строку, '#' — комментарий. Ключи, рабочие в ваниле, но ломаемые модами, сюда не класть.
+# def Filth_RevenantBlood удалён в 1.7 (замена Filth_RevenantBloodPool — в репо Anomaly)
+Filth_RevenantBlood.label

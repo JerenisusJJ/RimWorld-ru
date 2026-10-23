@@ -11,6 +11,9 @@ namespace TranslationUpdater
 {
     public static class LangMerge
     {
+        // Список устаревших ключей базы в корне папки языка репо; в итоговую папку не копируется.
+        public const string ObsoleteKeysFile = "_obsolete_keys.txt";
+
         public static string FindOfficialTar(string languagesDir)
         {
             if (!Directory.Exists(languagesDir)) return null;
@@ -40,6 +43,16 @@ namespace TranslationUpdater
                 TarFile.ExtractToDirectory(officialTar, tmp, true);
 
             if (!Directory.Exists(repoDir)) Directory.CreateDirectory(repoDir = tmp + ".emptyrepo");
+            // Ключи базы, которых больше нет в игре: вырезаются из всех DefInjected/Keyed базы (иначе — ошибки при загрузке).
+            var obsolete = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+            string obsoleteFile = Path.Combine(repoDir, ObsoleteKeysFile);
+            if (File.Exists(obsoleteFile))
+                foreach (string line in File.ReadAllLines(obsoleteFile))
+                {
+                    int hash = line.IndexOf('#');
+                    string key = (hash >= 0 ? line.Substring(0, hash) : line).Trim();
+                    if (key.Length > 0) obsolete.Add(key);
+                }
             var repoKeys = new Dictionary<string, HashSet<string>>(StringComparer.OrdinalIgnoreCase);
             var repoDocs = new Dictionary<string, XDocument>(StringComparer.OrdinalIgnoreCase);
             foreach (string f in Directory.GetFiles(repoDir, "*", SearchOption.AllDirectories))
@@ -58,18 +71,24 @@ namespace TranslationUpdater
                 catch { } // битый файл репо — ниже просто ляжет поверх как есть
             }
 
-            int overridden = 0, mergedFiles = 0, copied = 0;
+            int overridden = 0, mergedFiles = 0, copied = 0, removedObsolete = 0;
             var handled = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
             foreach (string f in Directory.GetFiles(tmp, "*.xml", SearchOption.AllDirectories))
             {
                 string rel = Rel(tmp, f);
                 string cat = Category(rel);
                 HashSet<string> set;
-                if (cat == null || !repoKeys.TryGetValue(cat, out set)) continue;
+                if (cat == null) continue;
+                if (!repoKeys.TryGetValue(cat, out set)) set = null;
+                if (set == null && obsolete.Count == 0) continue;
                 XDocument d;
                 try { d = XDocument.Load(f, LoadOptions.PreserveWhitespace); }
                 catch { continue; }
-                List<XElement> dup = d.Root.Elements().Where(e => set.Contains(e.Name.LocalName)).ToList();
+                List<XElement> old = d.Root.Elements().Where(e => obsolete.Contains(e.Name.LocalName)).ToList();
+                foreach (XElement e in old) e.Remove();
+                removedObsolete += old.Count;
+                List<XElement> dup = set == null ? new List<XElement>()
+                    : d.Root.Elements().Where(e => set.Contains(e.Name.LocalName)).ToList();
                 foreach (XElement e in dup) e.Remove();
                 overridden += dup.Count;
                 XDocument ours;
@@ -79,13 +98,13 @@ namespace TranslationUpdater
                     handled.Add(rel);
                     mergedFiles++;
                 }
-                if (dup.Count > 0 || handled.Contains(rel)) d.Save(f);
+                if (old.Count > 0 || dup.Count > 0 || handled.Contains(rel)) d.Save(f);
             }
 
             foreach (string f in Directory.GetFiles(repoDir, "*", SearchOption.AllDirectories))
             {
                 string rel = Rel(repoDir, f);
-                if (handled.Contains(rel)) continue;
+                if (handled.Contains(rel) || rel.Equals(ObsoleteKeysFile, StringComparison.OrdinalIgnoreCase)) continue;
                 string target = Path.Combine(tmp, rel.Replace('/', Path.DirectorySeparatorChar));
                 Directory.CreateDirectory(Path.GetDirectoryName(target));
                 File.Copy(f, target, true);
@@ -95,8 +114,8 @@ namespace TranslationUpdater
             if (repoDir == tmp + ".emptyrepo") Directory.Delete(repoDir, true);
             if (Directory.Exists(dstDir)) Directory.Delete(dstDir, true);
             Directory.Move(tmp, dstDir);
-            return string.Format("base={0}, overridden keys={1}, merged files={2}, repo files copied={3}",
-                officialTar == null ? "none" : Path.GetFileName(officialTar), overridden, mergedFiles, copied);
+            return string.Format("base={0}, overridden keys={1}, merged files={2}, repo files copied={3}, obsolete keys removed={4}",
+                officialTar == null ? "none" : Path.GetFileName(officialTar), overridden, mergedFiles, copied, removedObsolete);
         }
     }
 }
