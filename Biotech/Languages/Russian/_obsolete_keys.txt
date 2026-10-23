@@ -1,0 +1,10 @@
+# Ключи официального перевода (tar), которые LangMerge.Build вырезает из базы. Один ключ на строку, '#' — комментарий.
+# Ключи ниже валидны в ваниле, но ломаются модами; ванильный текст перенесён в ModsPack/Conditional/*_Off
+# и грузится только без соответствующего мода (см. ModsPack/LoadFolders.xml).
+# Vanilla Expanded Framework (OskarPotocki.VanillaFactionsExpanded.Core) удаляет эти компоненты -> ModsPack/Conditional/VEF_Off
+Blackboard.comps.CompInspectStringBlackboard.inspectString
+SchoolDesk.comps.CompStatEntrySchoolDesk.reportText
+SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel
+# Biotech Patch (biotechpatch.1trickPwnyta) переименовывает стадию -> ModsPack/Conditional/BiotechPatch_Off
+ChildLabor_Encouraged_ChildAssignedRecreation.stages.children_assigned_recreation.label
+ChildLabor_Encouraged_ChildAssignedRecreation.stages.children_assigned_recreation.description

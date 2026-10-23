@@ -9,11 +9,12 @@
   </supportedVersions>
   <description>Неофициальный русский перевод модов от 2ClauZ — добивка к языку «Русский (2ClauZ)»: переводит то, чего нет в самих модах и в сторонних русификаторах.
 
-Покрытие: Vanilla Gravship Expanded 1 и 2, Gravship Raids, Flourish (Combat и Everyday Animations), Vanilla Furniture Expanded (все модули), VEF, Simple Sidearms, Allow Tool, TD Find Lib / Ctrl F, Replace Stuff, Character Editor, Improved Need Indicator, RandomPlus, Quick Area, патчи 1trickPwnyta, Smart Work Mode, RimHUD, RimSaves и др.
+Покрытие: Vanilla Gravship Expanded 1 и 2, Gravship Raids, Flourish (Combat и Everyday Animations), Vanilla Furniture Expanded (все модули), VEF, Simple Sidearms, Allow Tool, TD Find Lib / Ctrl F, Replace Stuff, Character Editor, Improved Need Indicator, RandomPlus, Quick Area, патчи 1trickPwnyta, Healer Mech Serum Choice, Smart Work Mode, RimHUD, RimSaves и др.
 
 Авторы:
-• Моды — их авторы (Oskar Potocki и команда Vanilla Expanded, UnlimitedHugs, Andreas Pardeike, 1trickPwnyta, Andromeda, Uuugggg, Sk, astryl и другие).
+• Моды — их авторы (Oskar Potocki и команда Vanilla Expanded, UnlimitedHugs, Andreas Pardeike, 1trickPwnyta, Syrus, Andromeda, Uuugggg, Sk, astryl и другие).
 • Сторонние русификаторы, поверх которых мы только добиваем недостающее: OliveWizard (VGE ch.1, VEF, VPE, VWE Remake), AnaMBro (VNPE), Mewn Goddess (VLE), Дозер (RimHUD), VSK (Simple Sidearms), pashka (Achtung!, Complex Jobs). Их паки рекомендуем ставить. Часть строк VGE ch.1 совпадает с переводом OliveWizard, его терминологию мы использовали.
+• Ключи игры, которые меняют VEF, VGE ch.1, Healer Mech Serum Choice и Biotech Patch, подгружаются по условию (LoadFolders.xml): без мода — официальный текст, с модом — перевод ключей мода, без ошибок загрузки.
 • Перевод 2ClauZ сделан с помощью нейросети по глоссарию официального перевода, термины сверены вручную, проверено в игре.
 
 Полный список модов, авторов и происхождения каждого перевода: github.com/JerenisusJJ/RimWorld-ru/blob/master/CREDITS.md

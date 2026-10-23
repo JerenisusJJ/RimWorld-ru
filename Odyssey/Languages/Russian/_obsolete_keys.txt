@@ -1,0 +1,7 @@
+# Ключи официального перевода (tar), которые LangMerge.Build вырезает из базы. Один ключ на строку, '#' — комментарий.
+# Vanilla Gravship Expanded ch.1 (vanillaexpanded.gravship) заменяет CompRefuelable баков; ванильный текст перенесён
+# в ModsPack/Conditional/VGE1_Off и грузится только без мода (см. ModsPack/LoadFolders.xml).
+ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel
+ChemfuelTank.comps.CompRefuelable.fuelLabel
+LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel
+LargeChemfuelTank.comps.CompRefuelable.fuelLabel

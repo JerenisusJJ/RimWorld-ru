@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Learning rate -->
+	<Blackboard.comps.CompInspectStringBlackboard.inspectString>Качество обучения</Blackboard.comps.CompInspectStringBlackboard.inspectString>
+	<!-- EN: A multiplier on how quickly children learn during lessons which are assisted by this. -->
+	<SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>Насколько быстро дети будут обучаться при использовании этой парты.</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
+	<!-- EN: Learning rate bonus -->
+	<SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>Множитель качества обучения</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
+</LanguageData>

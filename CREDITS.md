@@ -61,9 +61,13 @@
 - **Flourish — Combat Animations** ([3793154978](https://steamcommunity.com/sharedfiles/filedetails/?id=3793154978)) и **Flourish — Everyday Animations** ([3810518822](https://steamcommunity.com/sharedfiles/filedetails/?id=3810518822)) — astryl.
 - **Hemogen Pack — Emergency transfusion** ([3778942862](https://steamcommunity.com/sharedfiles/filedetails/?id=3778942862)) — Aoba; **[kyzy] Bio Ranch** ([3771252359](https://steamcommunity.com/sharedfiles/filedetails/?id=3771252359)) — kyzy_4399; **Mine Sight** ([3769804600](https://steamcommunity.com/sharedfiles/filedetails/?id=3769804600)) — rabiosus; **[sbz] Bookcase** ([3789304104](https://steamcommunity.com/sharedfiles/filedetails/?id=3789304104)) — seobongzu; **Nice Research Tab** ([3773496046](https://steamcommunity.com/sharedfiles/filedetails/?id=3773496046)) — Andromeda; **Visible Wealth** ([3461137081](https://steamcommunity.com/sharedfiles/filedetails/?id=3461137081)) — 1trickPwnyta; **Shuttles — More Variety** ([3808115871](https://steamcommunity.com/sharedfiles/filedetails/?id=3808115871)).
 - **Quality Colors (Continued)** — DawnsGlow; **Smart Speed** — Sarg.
-- Мелкие QoL-моды: Character Editor, Compact Hediffs, Ctrl F / TD Find Lib (Continued), Damage Indicators, Damage Overlay, Ground Targeter, Improved Need Indicator, Letter Stack Cleaner, Minimal Light Control, Quick Area, RandomPlus, Smart Work Mode, Sun Lamp Auto Basins, Hull Style NANAME Walls, Better Message Placement (Continued), Automatic Night Owl, Automatic Stump Chopping, Cut Plants Before Building (Continued), Healer Mech Serum Choice. Авторы — на страницах модов в Steam Workshop.
+- Мелкие QoL-моды: Character Editor, Compact Hediffs, Ctrl F / TD Find Lib (Continued), Damage Indicators, Damage Overlay, Ground Targeter, Improved Need Indicator, Letter Stack Cleaner, Minimal Light Control, Quick Area, RandomPlus, Smart Work Mode, Sun Lamp Auto Basins, Hull Style NANAME Walls, Better Message Placement (Continued), Automatic Night Owl, Automatic Stump Chopping, Cut Plants Before Building (Continued), Healer Mech Serum Choice (Syrus). Авторы — на страницах модов в Steam Workshop.
 
 Сводный файл `_2Clau_17.xml` — доперевод разрозненных строк разных модов, пересечений со сторонними русификаторами нет.
+
+## Ключи игры, которые меняют моды
+
+Некоторые моды патчами переделывают ванильные defs (VEF — школьная парта и доска, VGE ch.1 — баки химтоплива, Healer Mech Serum Choice — сыворотка-целитель, Biotech Patch от 1trickPwnyta — мысль «детский труд»). Ванильные ключи перевода для изменённых мест при этом дают ошибки загрузки. Такие ключи вынесены из перевода игры в `ModsPack/Conditional/*_Off`, а ключи модов — в `ModsPack/Conditional/*_On`; какая папка грузится, решает `ModsPack/LoadFolders.xml` по списку активных модов. Тексты взяты из официального перевода, ключи модов переведены нами.
 
 ## Апдейтер
 

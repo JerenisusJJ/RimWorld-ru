@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: learning rate -->
+	<VEF_BuildingLearningRateOffset.label>качество обучения</VEF_BuildingLearningRateOffset.label>
+	<!-- EN: A multiplier on how quickly children learn during lessons which are assisted by this. -->
+	<VEF_BuildingLearningRateOffset.description>Насколько быстро дети будут обучаться на уроках с использованием этого предмета.</VEF_BuildingLearningRateOffset.description>
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.7>
+		<li>/</li>
+		<!-- Условные папки: ванильные ключи, которые моды ломают патчами, и ключи самих модов. Движок вычисляет их при каждом запуске игры. -->
+		<li IfModActive="Ludeon.RimWorld.Biotech" IfModNotActive="OskarPotocki.VanillaFactionsExpanded.Core">Conditional/VEF_Off</li>
+		<li IfModActiveAll="Ludeon.RimWorld.Biotech,OskarPotocki.VanillaFactionsExpanded.Core">Conditional/VEF_On</li>
+		<li IfModActive="Ludeon.RimWorld.Odyssey" IfModNotActive="vanillaexpanded.gravship">Conditional/VGE1_Off</li>
+		<li IfModNotActive="Syrus.HMSChoice">Conditional/HMSChoice_Off</li>
+		<li IfModActive="Syrus.HMSChoice">Conditional/HMSChoice_On</li>
+		<li IfModActive="Ludeon.RimWorld.Biotech" IfModNotActive="biotechpatch.1trickPwnyta">Conditional/BiotechPatch_Off</li>
+		<li IfModActiveAll="Ludeon.RimWorld.Biotech,biotechpatch.1trickPwnyta">Conditional/BiotechPatch_On</li>
+	</v1.7>
+	<v1.6>
+		<li>/</li>
+		<!-- Условные папки: ванильные ключи, которые моды ломают патчами, и ключи самих модов. Движок вычисляет их при каждом запуске игры. -->
+		<li IfModActive="Ludeon.RimWorld.Biotech" IfModNotActive="OskarPotocki.VanillaFactionsExpanded.Core">Conditional/VEF_Off</li>
+		<li IfModActiveAll="Ludeon.RimWorld.Biotech,OskarPotocki.VanillaFactionsExpanded.Core">Conditional/VEF_On</li>
+		<li IfModActive="Ludeon.RimWorld.Odyssey" IfModNotActive="vanillaexpanded.gravship">Conditional/VGE1_Off</li>
+		<li IfModNotActive="Syrus.HMSChoice">Conditional/HMSChoice_Off</li>
+		<li IfModActive="Syrus.HMSChoice">Conditional/HMSChoice_On</li>
+		<li IfModActive="Ludeon.RimWorld.Biotech" IfModNotActive="biotechpatch.1trickPwnyta">Conditional/BiotechPatch_Off</li>
+		<li IfModActiveAll="Ludeon.RimWorld.Biotech,biotechpatch.1trickPwnyta">Conditional/BiotechPatch_On</li>
+	</v1.6>
+</loadFolders>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Chemfuel -->
+	<ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Химтопливо</ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+	<!-- EN: Chemfuel -->
+	<ChemfuelTank.comps.CompRefuelable.fuelLabel>Химтопливо</ChemfuelTank.comps.CompRefuelable.fuelLabel>
+	<!-- EN: Chemfuel -->
+	<LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Химтопливо</LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+	<!-- EN: Chemfuel -->
+	<LargeChemfuelTank.comps.CompRefuelable.fuelLabel>Химтопливо</LargeChemfuelTank.comps.CompRefuelable.fuelLabel>
+</LanguageData>
